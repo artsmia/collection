@@ -1,7 +1,7 @@
 {
-  "restricted": 1,
+  "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
+  "image_copyright": "",
   "life_date": "Swiss, 1889 - 1943",
   "nationality": "Swiss",
   "role": "Artist",
@@ -19,6 +19,6 @@
   "text": "",
   "description": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.74.38                                   ",
+  "accession_number": "P.74.38",
   "artist": "Sophie Henriette Taeuber-Arp"
 }
