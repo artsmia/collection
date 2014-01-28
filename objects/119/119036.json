@@ -2,16 +2,16 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "Indian",
+  "nationality": "Indian",
   "role": "Artist",
   "dated": "1780-1782",
   "culture": null,
   "country": null,
   "continent": null,
   "dimension": null,
-  "medium": "Watercolor and pen on paper",
-  "title": "Bhawani Das, Rohu Fish",
+  "medium": "Opaque colors and ink on paper",
+  "title": "Rohu Fish",
   "id": "http://api.artsmia.org/objects/119036",
   "room": "Not on View",
   "style": "18th century",
@@ -20,5 +20,5 @@
   "description": "profile view of green/grey fish at center of sheet with inscription below; brown/gold wood frame with glass",
   "creditline": "Courtesy of Arader Galleries",
   "accession_number": "L2014.5.4",
-  "artist": ""
+  "artist": "Bhavani Das"
 }

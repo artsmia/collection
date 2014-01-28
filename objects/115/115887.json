@@ -6,12 +6,12 @@
   "nationality": null,
   "role": "Artist",
   "dated": "Date Unknown",
-  "culture": "Kalabari",
-  "country": null,
+  "culture": "Kalabari Culture",
+  "country": "Nigeria",
   "continent": "Africa",
   "dimension": "70 1/4 x 31 3/16 in. (178.44 x 79.22 cm)",
   "medium": "Cotton",
-  "title": "Woman's wrapper, from a two-piece set",
+  "title": "Woman's wrapper",
   "id": "http://api.artsmia.org/objects/115887",
   "room": "Not on View",
   "style": null,
@@ -20,5 +20,5 @@
   "description": "striped panel; predominately maroon and blue, with white and thin yellow stripes; stepped stripe pattern overall--\\\"igodoye moru\\\" pattern",
   "creditline": "Gift of Joanne B. Eicher",
   "accession_number": "2013.78.5.1",
-  "artist": ""
+  "artist": "Artist Unknown"
 }

@@ -1,13 +1,13 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
   "dated": "Date Unknown",
-  "culture": "Kalabari",
-  "country": null,
+  "culture": "Kalabari Culture",
+  "country": "Nigeria",
   "continent": "Africa",
   "dimension": "68 1/4 x 33 15/16 in. (173.36 x 86.2 cm)",
   "medium": "Cotton",
@@ -20,5 +20,5 @@
   "description": "plaid panel; blue and white with some thin red stripes; plaid patterns at borders and center; two blocks with radiating X and chevron motifs; some threads removed to create patterns; \\\"amasiri\\\" pattern",
   "creditline": "Gift of Joanne B. Eicher",
   "accession_number": "2013.78.3",
-  "artist": ""
+  "artist": "Artist Unknown"
 }

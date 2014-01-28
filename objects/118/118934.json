@@ -6,12 +6,12 @@
   "nationality": null,
   "role": "Artist",
   "dated": "20th century",
-  "culture": null,
-  "country": null,
+  "culture": "Asante Culture",
+  "country": "Ghana",
   "continent": "Africa",
   "dimension": null,
   "medium": "Cotton",
-  "title": "Textile panel",
+  "title": "Man's mourning wrapper",
   "id": "http://api.artsmia.org/objects/118934",
   "room": "Not on View",
   "style": "20th century",
@@ -20,5 +20,5 @@
   "description": "large panel with two selvedges and two hemmed edges (hemmed in red and white machine stitches); lavender fabric separated into blocks with strips of appliqued black cloth; stamped designs on each block in brown--X\\'s, suns shapes, leaves, swirls, circles, etc.",
   "creditline": "Gift of Joanne B. Eicher",
   "accession_number": "2013.78.9",
-  "artist": ""
+  "artist": "Artist Unknown"
 }
