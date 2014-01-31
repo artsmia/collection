@@ -17,4 +17,4 @@ objects:
 git: objects
 	git add objects/
 	git commit -m "$$(date +%Y-%m-%d): $$(git status -s -- objects/* | wc -l | tr -d ' ') changed"
-	# git push
+	git push
