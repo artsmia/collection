@@ -8,10 +8,13 @@ objects:
 	for bucket in $(buckets); do \
 		[[ -d objects/$$bucket ]] || mkdir objects/$$bucket; \
 		redis-cli --raw hgetall object:$$bucket | while read id; do \
-			read -r json; \
-			echo $$id; \
-			echo "$$json" | jq '.' > objects/$$bucket/$$id.json; \
-		 done \
+			if [[ $$id = *[[:digit:]]* ]]; then \
+				read -r json; \
+				echo $$id; \
+				echo "$$json" | jq '.' > objects/$$bucket/$$id.json; \
+			else \
+			fi; \
+		done \
 	done
 
 git: objects
