@@ -1,12 +1,12 @@
 SHELL := /bin/bash
+# Ask redis for all the buckets.
+# `make objects buckets=12` only updates bucket 12
 buckets = $$(redis-cli keys 'object:*' | egrep 'object:[0-9]+$$$$' | cut -d ':' -f 2 | sort -g)
-bucket = $(buckets)
-# ^ `make objects bucket=12` will clobber and only update 12
 
 .PHONY: objects
 objects:
-	for bucket in $(bucket); do \
-		[[ -d $$bucket ]] || mkdir objects/$$bucket; \
+	for bucket in $(buckets); do \
+		[[ -d objects/$$bucket ]] || mkdir objects/$$bucket; \
 		redis-cli --raw hgetall object:$$bucket | while read id; do \
 			read -r json; \
 			echo $$id; \
