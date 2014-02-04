@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
   "life_date": "Belgian, 1860 - 1949",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "James Ensor",
   "dated": "1883",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR in red: [Ensor 1883]; in black: [Ensor]",
   "text": "",
   "description": "Still life. Vase of flowers.",
+  "provenance": "(Boldini sale, Galerie Charpentier, Paris, France, 16 June 1955, lot 149). [1] Franz Charlet, Paris, France and Brussels, Belgium; [2] (Marlborough Fine Arts, Ltd., London, England); purchased by MIA in 1956.\r\n\r\n[1] Galerie Charpentier sale entitled \"Atelier Boldini et à divers amateurs.\" The painting was lot 149, which was in the subsection \"2 - à divers amateurs.\"\r\n\r\n[2] According to Xavier Tricot's catalogue raisonné.\r\n",
   "creditline": "Gift of Mr. and Mrs. William N. Driscoll, Mr. and Mrs. Walter F. Gage, and Mr. and Mrs. Winter Dean, Jr., by exchange, in memory of their mother, Mrs. Conrad Driscoll",
-  "accession_number": "56.9                                      ",
-  "artist": "James Ensor"
+  "accession_number": "56.9"
 }

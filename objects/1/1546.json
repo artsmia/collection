@@ -5,6 +5,7 @@
   "life_date": "German, 1880 - 1938",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Ernst Ludwig Kirchner",
   "dated": "1926",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "View of Dresden: Schlossplatz",
   "id": "http://api.artsmia.org/objects/1546",
-  "room": "Not on View",
+  "room": "G377",
   "style": "20th century",
   "marks": "Signature and Stamp LL: [ELKirchner]; stamped on verso: [26 KN-DA/Ab6.",
   "text": "",
   "description": "Landscape. German Expressionism. View of Dresden.",
+  "provenance": "The artist; his estate. (Buchholz Gallery, New York, New York); John and Elizabeth (Bates) Cowles [John d. 1983], Minneapolis, Minnesota; gift to MIA in 1964.",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
-  "accession_number": "64.23                                     ",
-  "artist": "Ernst Ludwig Kirchner"
+  "accession_number": "64.23"
 }

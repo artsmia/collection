@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "American, 1778 - 1860",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rembrandt Peale",
   "dated": "1801-1802",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Portrait of Commander Lewis Warrington (1782-1851)",
   "id": "http://api.artsmia.org/objects/473",
-  "room": "Not on View",
+  "room": "G322",
   "style": "19th century",
   "marks": " No visible signature.",
   "text": "Recent conservation of this picture was made possible by a generous contribution from an anonymous patron through the Adopt-a-Painting program.",
   "description": "Portrait of a man, waist-length, seated.",
+  "provenance": "Supposedly from direct descendants of Lewis Warrington, Washington D.C. area. Albert Rosenthal, Philadelphia, Pennsylvania in 1923. (Ehrich Galleries, New York, New York); purchased by MIA in 1931.",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "31.53                                     ",
-  "artist": "Rembrandt Peale"
+  "accession_number": "31.53"
 }

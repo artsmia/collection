@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 19th-early 20th century",
   "culture": null,
   "country": null,
@@ -13,12 +14,12 @@
   "medium": "Silver, glass",
   "title": "Spice container",
   "id": "http://api.artsmia.org/objects/6769",
-  "room": "G107",
+  "room": "Not on View",
   "style": "19th-20th century",
   "marks": "inscription, in Hebrew, on lower lip ",
   "text": "",
   "description": "fish shaped; constructed with hinges so body is flexible; head is hinged; mouth hinged and lower lip has holes; glass eyes; has plexi mount",
+  "provenance": "(Moriah Galleries, New York); Collection of Harold & Mickey Smith, St. Paul, Minnesota purchased 1979; Gift to the MIA in 2002.",
   "creditline": "Gift of Mickey and Harold Smith",
-  "accession_number": "2002.137.5                                ",
-  "artist": ""
+  "accession_number": "2002.137.5"
 }

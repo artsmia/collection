@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1922",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR in white: [Picasso 22]",
   "text": "",
   "description": "Woman in a white gown seated next to the sea. Picasso\\'s Classical period.",
+  "provenance": "1961 -           Minneapolis, MN, USA.  Minneapolis Institute of Arts (bequest of McMillan)\r\n\r\n1952-1961    McMillan, Punam Dana.  Minneapolis, MN, USA (d. 1961)\r\n                     Buchholz Gallery (Curt Valentin).  New York, NY, USA\r\n                     Schnitzer, Lily von.  Frankfurt am Main, Deutschland\r\n                     Kahnweiler, Daniel-Henry.  Paris, France.\r\n                     Elst, Joseph van der, Baron.  Roma, Italia; Wien Osterreich; New York, NY,                           USA\r\n                     Rosenberg, (Paul), and Co. London, England, UK; New York, NY, USA; Paris,                            France\r\n \r\n",
   "creditline": "Bequest of Putnam Dana McMillan",
-  "accession_number": "61.36.24                                  ",
-  "artist": "Pablo Picasso"
+  "accession_number": "61.36.24"
 }

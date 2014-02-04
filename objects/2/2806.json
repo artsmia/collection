@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Russian, 1866-1944",
   "nationality": "Russian",
   "role": "Artist",
+  "artist": "Vassily Kandinsky",
   "dated": "1904",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": "Signature LR (in red): [Kandinsky]",
   "text": "",
   "description": "Symbolist landscape.",
+  "provenance": "(Galerie Valentien, Stuttgart, Germany, by 1958). (Paul Kantor Gallery, Los Angeles, California); Donald and Elizabeth Winston, Los Angeles, California; gift to MIA in 1981.[1]\r\n\r\n[1] Donald and Elizabeth Winston had a half interest in the painting at the time it was gifted; the other half interest was donated by Winston's daughter, Betsy Wyman, Wayzata, Minnesota in January, 1992.\r\n",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
-  "accession_number": "81.106.1                                  ",
-  "artist": "Vassily Kandinsky"
+  "accession_number": "81.106.1"
 }

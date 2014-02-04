@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1883 - 1956",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Metzinger",
   "dated": "1921",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription LR: [Metzinger]",
   "text": "",
   "description": "Cubist. Still life.",
+  "provenance": "Galerie l'Effort Moderne, Paris, France.[1] Mr. and Mrs. Theodore Bennett, Wayzata, Minnesota; gift to MIA in 1974.\r\n\r\n[1] The Galerie l'Effort Moderne was run by Léonce Rosenberg. Several works by Metzinger passed through this gallery, and its ownership is confirmed by a label on the verso of the work.",
   "creditline": "Gift of Mr. and Mrs. Theodore W. Bennett",
-  "accession_number": "74.4                                      ",
-  "artist": "Jean Metzinger"
+  "accession_number": "74.4"
 }

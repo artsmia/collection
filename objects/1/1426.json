@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "life_date": "Austrian, 1886 - 1980",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Oskar Kokoschka",
   "dated": "1925",
   "culture": null,
   "country": "Austria",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Tower Bridge, London",
   "id": "http://api.artsmia.org/objects/1426",
-  "room": "G377",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature and Date Dated on ptg: [25]; on verso: [OK London Juli 25]",
   "text": "",
   "description": "",
+  "provenance": "Kunsthalle, Hamburg, Germany; [1] (Galerie Fischer sale, Grand Hôtel National, Lucerne, Switzerland, 30 June 1939, lot 67); [2] Josef von Sternberg, Hollywood, California; (Sternberg sale, Parke-Bernet Galleries, New York, New York, 22 November 1949, lot 90); Putnam Dana McMillan [died 1961], Minneapolis, Minnesota; bequest to MIA in 1961.\r\n\r\n[1] Confiscated by Nazis in 1937, according to Stephanie Barron, 'Degenerate Art: The Fate of the Avant-Garde in Nazi Germany', LACMA, 1991, 160.\r\n\r\n[2] Est. SF 8,400 at auction; sold to Sternberg for SF 7,200, according to Barron.",
   "creditline": "Bequest of Putnam Dana McMillan",
-  "accession_number": "61.36.5                                   ",
-  "artist": "Oskar Kokoschka"
+  "accession_number": "61.36.5"
 }

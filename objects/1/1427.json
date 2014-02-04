@@ -5,6 +5,7 @@
   "life_date": "Belorussian, 1887 - 1985",
   "nationality": "Belorussian",
   "role": "Artist",
+  "artist": "Marc Chagall",
   "dated": "1911",
   "culture": null,
   "country": "Russia",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "The Poet with the Birds",
   "id": "http://api.artsmia.org/objects/1427",
-  "room": "Not on View",
+  "room": "G377",
   "style": "20th century",
   "marks": "Signature and Date LR in blue: [Chagall. 1911.]",
   "text": "",
   "description": "Landscape with figure lying underneath a tree.",
+  "provenance": "M. Fuchs, Switzerland. Leigh B. Block, Chicago, Illinois. (Pierre Matisse Gallery, New York, New York in 1953). Putnam Dana McMillan [died 1961], Minneapolis, Minnesota on October 30, 1953; bequest to MIA on November 15, 1961.\r\n\r\n",
   "creditline": "Bequest of Putnam Dana McMillan",
-  "accession_number": "61.36.7",
-  "artist": "Marc Chagall"
+  "accession_number": "61.36.7"
 }
