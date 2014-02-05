@@ -5,6 +5,7 @@
   "life_date": "Japanese",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Fujiwara Tsunetaka",
   "dated": "Fourteenth century",
   "culture": null,
   "country": "Japan",
@@ -14,11 +15,11 @@
   "title": "Biography of Priest Saigyo",
   "id": "http://api.artsmia.org/objects/119202",
   "room": "Not on View",
-  "style": "Fourteenth century",
+  "style": "14th century",
   "marks": "Stamp ",
   "text": "",
   "description": "reproduction: various scenes including a scene of people working, one of people studying in an open structure, a figure hiking in a hilly forest; monk painting shrine gate, etc., all interspersed with text",
-  "creditline": null,
-  "accession_number": "L2013.104.12",
-  "artist": "Fujiwara Tsunetaka"
+  "provenance": "",
+  "creditline": "Gift of the Clark Center for Japanese Art and Culture",
+  "accession_number": "L2013.104.12"
 }

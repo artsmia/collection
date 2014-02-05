@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "8th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions, Seals, and Label\r\n\r\nInscriptions ins ",
   "text": "",
   "description": "color reproduction of old scroll: various figures in colorful robes sitting, walking, and otherwise gathered in groups; some float in multicolored clouds; lower half of scroll is text; paper is intentionally discolored",
-  "creditline": null,
-  "accession_number": "L2013.104.10",
-  "artist": ""
+  "provenance": "",
+  "creditline": "Gift of the Clark Center for Japanese Art and Culture",
+  "accession_number": "L2013.104.10"
 }
