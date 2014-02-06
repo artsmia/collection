@@ -1,10 +1,11 @@
 {
-  "restricted": 1,
+  "restricted": 0,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26copy%3B Carlo Herrmann%2C Estate of Carla Lavatelli",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Carla Lavatelli",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "brooch, oblong with long groove running down center, with white gold pin mounting; light brown crust of Brazilian onyx",
+  "provenance": "",
   "creditline": "Gift of Mr. Carlo Herrmann",
-  "accession_number": "76.10.9",
-  "artist": "Carla Lavatelli"
+  "accession_number": "76.10.9"
 }
