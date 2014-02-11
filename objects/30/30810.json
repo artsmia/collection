@@ -5,6 +5,7 @@
   "life_date": "American, 1870 - 1953",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Marin",
   "dated": "1921",
   "culture": null,
   "country": "United States",
@@ -14,11 +15,11 @@
   "title": "The Sea, Maine",
   "id": "http://api.artsmia.org/objects/30810",
   "room": "Not on View",
-  "style": "19th-20th century",
+  "style": "20th century",
   "marks": "Signature; Date LR: [Marin/ 21]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John and Myrtle Coe",
-  "accession_number": "98.269.18",
-  "artist": "John Marin"
+  "accession_number": "98.269.18"
 }
