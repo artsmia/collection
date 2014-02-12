@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st half of 20th century",
   "culture": "Kuba (Shoowa) Culture",
   "country": "Democratic Republic of Congo",
   "continent": "Africa",
   "dimension": "22 1/4 x 19 1/2 in. (56.52 x 49.53 cm)",
-  "medium": "Plant fibers, wool",
+  "medium": "Raffia",
   "title": "Panel",
   "id": "http://api.artsmia.org/objects/114329",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "tan panel decorated with geometric tan and brown pattern; edges of panel are hemmed; geometric pattern is slightly raised",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons in honor of Lotus Stack",
-  "accession_number": "2013.76.6",
-  "artist": ""
+  "accession_number": "2013.76.6"
 }

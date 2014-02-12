@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Hattori Nankaku",
   "dated": "first half 18th century",
   "culture": null,
-  "country": null,
-  "continent": null,
+  "country": "Japan",
+  "continent": "Asia",
   "dimension": null,
   "medium": "Ink on paper",
   "title": "Letter of the Sixth Month",
@@ -17,8 +18,8 @@
   "style": "18th century",
   "marks": " ",
   "text": "",
-  "description": "",
+  "description": "twelve lines of text mounted to newer, olive green mount with light blue and tan floral pattern",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.971",
-  "artist": "Hattori Nankaku"
+  "accession_number": "2013.29.971"
 }
