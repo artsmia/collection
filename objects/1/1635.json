@@ -5,6 +5,7 @@
   "life_date": "French, 1796 - 1875",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean-Baptiste-Camille Corot",
   "dated": "1868",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "The Reader",
   "id": "http://api.artsmia.org/objects/1635",
-  "room": "Not on View",
+  "room": "G354",
   "style": "19th century",
   "marks": "Signature LR in black: [COROT]",
-  "text": "This painting once belonged to James J. Hill (1838-1916), the Minnesota railroad magnate whose collection of European paintings forms the basis of the Institute's nineteenth-century holdings.",
+  "text": "This painting once belonged to James J. Hill (1838-1916), the Minnesota railroad magnate whose collection of European paintings forms the basis of the Institute's nineteenth-century holdings.\r\nRecent conservation of this picture was made possible by a generous contribution from Barbara and Joseph Ali, Mary Grahek and Mike Zimmerman through the Adopt-a-Painting program.",
   "description": "Girl - full-length reading",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Egil Boeckmann",
-  "accession_number": "67.31.2                                   ",
-  "artist": "Jean-Baptiste-Camille Corot"
+  "accession_number": "67.31.2"
 }
