@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "J. T. Winterich",
   "dated": "1938",
   "culture": null,
   "country": null,
   "continent": null,
   "dimension": null,
-  "medium": "Letterpress, illustrations, and photographic illustrations",
+  "medium": "Letterpress, illustrations",
   "title": "The Annual of Bookmaking",
   "id": "http://api.artsmia.org/objects/118616",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; cloth over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.169",
-  "artist": "J. T. Winterich"
+  "accession_number": "67.60.169"
 }

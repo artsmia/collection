@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "valid",
   "image_copyright": "",
-  "life_date": "Japan, 1613 - 1685",
-  "nationality": null,
+  "life_date": "Japanese, 1613 - 1685",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kano Yasunobu",
   "dated": "17th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John Kessler III and Mrs. Patricia Schneider in memory of Mrs. Dorothy Kessler",
-  "accession_number": "90.122                                    ",
-  "artist": "Kano Yasunobu"
+  "accession_number": "90.122"
 }

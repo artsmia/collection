@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Japanese, 1559 - 1635",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kan? Sanraku",
   "dated": "16th-17th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Stamps ",
   "text": "",
   "description": "sketchy temple at R partially hidden by trees; faint mountain peaks in background; \\'flung ink\\' style",
+  "provenance": "",
   "creditline": "Gift of Allegra and Paul Parker",
-  "accession_number": "99.215.4                                  ",
-  "artist": "Kano Sanraku"
+  "accession_number": "99.215.4"
 }

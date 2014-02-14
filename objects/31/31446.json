@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "Japanese, 1513 - 1575",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kan? Yukinobu",
   "dated": "16th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Stamps ",
   "text": "",
   "description": "man with long beard seen in profile from PR side; wearing long cloak blowing in the breeze; blowing grasses at L",
+  "provenance": "",
   "creditline": "Gift of Allegra and Paul Parker",
-  "accession_number": "99.215.5                                  ",
-  "artist": "Kano Yukinobu"
+  "accession_number": "99.215.5"
 }
