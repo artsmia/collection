@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "945-712 BCE",
   "culture": "Ancient Egyptian Culture",
   "country": "Egypt",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "16.417",
-  "artist": "Artist Unknown"
+  "accession_number": "16.417"
 }

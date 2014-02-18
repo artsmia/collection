@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Bernard Lewis",
   "dated": "1941",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "9 3/8 × 6 7/16 × 9/16 in. (23.8 × 16.4 × 1.5 cm) (closed)",
   "medium": "Letterpress, illustrations",
   "title": "Behind the Type: The Life Story of Frederic W. Goudy",
   "id": "http://api.artsmia.org/objects/118967",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; paper over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.12",
-  "artist": "Bernard Lewis"
+  "accession_number": "67.60.12"
 }

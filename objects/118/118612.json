@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Peter Beilenson",
   "dated": "1939",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "9 1/2 × 6 1/2 × 1/2 in. (24.2 × 16.5 × 1.2 cm) (closed)",
   "medium": "Lettepress, pictorial supplement",
   "title": "The Story of Frederic W. Goudy",
   "id": "http://api.artsmia.org/objects/118612",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; paper over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.13",
-  "artist": "Peter Beilenson"
+  "accession_number": "67.60.13"
 }

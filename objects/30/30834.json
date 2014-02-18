@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
   "life_date": "American (born Germany), 1893 - 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grosz",
   "dated": "1934",
   "culture": null,
   "country": "Germany",
@@ -17,8 +18,8 @@
   "style": "20th century",
   "marks": "Signature; Inscriptions; Watermark, Labels\r\n\r\nSee  Signed in brown-black ink, LRC: [George Grosz]",
   "text": "",
-  "description": "Pen and red ink sketch of a bedroom interior on verso.",
+  "description": "",
+  "provenance": "",
   "creditline": "Gift of John and Myrtle Coe",
-  "accession_number": "98.269.8",
-  "artist": "George Grosz"
+  "accession_number": "98.269.8"
 }

@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "American",
   "role": "Artist",
+  "artist": "Frederic W. Goudy",
   "dated": "1933",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "9 × 5 7/8 × 1/16 in. (22.8 × 15 × 0.2 cm) (closed)",
   "medium": "Letterpress, illustrations",
   "title": "Glorifier of the Alphabet",
   "id": "http://api.artsmia.org/objects/118853",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Paper covers",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.33",
-  "artist": "Frederic W. Goudy"
+  "accession_number": "67.60.33"
 }
