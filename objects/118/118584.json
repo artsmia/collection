@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "American",
   "role": "Artist",
+  "artist": "Douglas C. McMurtrie",
   "dated": "1937",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "9 13/16 × 7 3/16 × 1 15/16 in. (24.9 × 18.2 × 4.9 cm) (closed)",
   "medium": "Letterpress, illustrations",
   "title": "The Book: The Story of Printing and Bookmaking",
   "id": "http://api.artsmia.org/objects/118584",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; cloth over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.126",
-  "artist": "Douglas C. McMurtrie"
+  "accession_number": "67.60.126"
 }

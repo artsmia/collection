@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "British",
   "role": "Artist",
+  "artist": "Cyril Davenport F.S.A.",
   "dated": "1906",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "12 3/8 × 9 13/16 × 1 in. (31.4 × 25 × 2.5 cm) (closed)",
   "medium": "Letterpress, illustrations",
   "title": "Samuel Mearne: Binder to King Charles II",
   "id": "http://api.artsmia.org/objects/118982",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; paper over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.130",
-  "artist": "Cyril Davenport F.S.A."
+  "accession_number": "67.60.130"
 }

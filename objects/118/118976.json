@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "American",
   "role": "Artist",
+  "artist": "Kate Douglas Wiggin",
   "dated": "1907",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "8 3/4 × 1 15/16 × 7/8 in. (22.3 × 5 × 2.3 cm) (closed)",
   "medium": "Letterpress, illuminated letters, illustrations",
   "title": "The Old Peabody Pew",
   "id": "http://api.artsmia.org/objects/118976",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; cloth over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.125",
-  "artist": "Kate Douglas Wiggin"
+  "accession_number": "67.60.125"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Igawa Takeshi",
   "dated": "2007",
   "culture": null,
-  "country": null,
-  "continent": null,
-  "dimension": "35 x 270 x 90 cm",
+  "country": "Japan",
+  "continent": "Asia",
+  "dimension": "10 × 36 × 110 in. (25.4 × 91.44 × 279.4 cm)",
   "medium": "Lacquer (urushi), linen, styrofoam",
   "title": "Voyage of Time",
   "id": "http://api.artsmia.org/objects/117109",
@@ -17,8 +18,8 @@
   "style": "21st century",
   "marks": " ",
   "text": "",
-  "description": "",
+  "description": "crescent-shaped form with irregular edges; irregular \\\"chiseled\\\" surface resembles choppy water",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.1312",
-  "artist": "Igawa Takeshi"
+  "accession_number": "2013.29.1312"
 }
