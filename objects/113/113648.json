@@ -5,7 +5,8 @@
   "life_date": "French, 1716 - 1809",
   "nationality": "French",
   "role": "Artist",
-  "dated": "17th-19th century",
+  "artist": "Joseph-Marie Vien",
+  "dated": "18th century",
   "culture": null,
   "country": "France",
   "continent": "Europe",
@@ -14,11 +15,11 @@
   "title": "Study of a Seated Model Wearing a Bishop's Chasuble and Mitre",
   "id": "http://api.artsmia.org/objects/113648",
   "room": "Not on View",
-  "style": "17th-19th century",
+  "style": "18th century",
   "marks": "Inscription and Stamp\r\n\r\nat bottom center on mount ",
   "text": "",
   "description": "seated figure in a high-backed chair, seen in profile from PL, wearing voluminous robes and bishop\\'s hat; head turned toward PR; mounted on heavy blue paper",
+  "provenance": "",
   "creditline": "Bequest of Professor Alfred Moir",
-  "accession_number": "2012.58.206                               ",
-  "artist": "Joseph-Marie Vien"
+  "accession_number": "2012.58.206"
 }

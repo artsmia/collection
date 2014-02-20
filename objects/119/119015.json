@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "American",
   "role": "Artist",
+  "artist": "Thornton Wilder",
   "dated": "1929",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "10 13/16 × 7 3/8 × 11/16 in. (27.5 × 18.8 × 1.7 cm) (closed)",
   "medium": "Letterpress, color lithographs on zinc",
   "title": "The Bridge of San Luis Rey",
   "id": "http://api.artsmia.org/objects/119015",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; cloth over boards with illustration, in chemise",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.164",
-  "artist": "Thornton Wilder"
+  "accession_number": "67.60.164"
 }

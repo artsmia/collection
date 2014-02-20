@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Maxwell Armfield %2F Bridgeman Art Library",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Maxwell Armfield %2F Bridgeman Art Library",
   "life_date": "British, 1882 - 1972",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Maxwell Ashby Armfield",
   "dated": "1931",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date monogram",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "70.49",
-  "artist": "Maxwell Ashby Armfield"
+  "accession_number": "70.49"
 }

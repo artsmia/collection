@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1880 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Derain",
   "dated": "c. 1912-1914",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LR in red: [derain]",
   "text": "Derain's dissatisfaction with the aesthetics of contemporary art once provoked the artist to exclaim that he did not want to be \"of his time\" but, rather, \"of all time.\" Thus, while his paintings are always modern, the influence of the Old Masters is equally apparent. The darkness and severity of the present work, while recalling links to the contemporary work of Picasso, also reflect Derain's interest in Spanish painting of the Renaissance.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
-  "accession_number": "55.41                                     ",
-  "artist": "André Derain"
+  "accession_number": "55.41"
 }

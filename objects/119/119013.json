@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "French",
   "role": "Artist",
+  "artist": "Geoffrey Chaucer",
   "dated": "1932",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "9 3/8 × 6 7/8 × 1 3/8 in. (23.8 × 17.5 × 3.5 cm) (closed)",
   "medium": "Letterpress, illustrations (wood engravings)",
   "title": "Troilus and Criseyde: A Love Poem in Five Books",
   "id": "http://api.artsmia.org/objects/119013",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; vellum and cloth over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.175",
-  "artist": "Geoffrey Chaucer"
+  "accession_number": "67.60.175"
 }

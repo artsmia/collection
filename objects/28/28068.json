@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B1963 George Krause",
+  "image_copyright": "%26Acirc%3B%26copy%3B1963 George Krause",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Krause",
   "dated": "1963",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Girl and Vines, Spain",
   "id": "http://api.artsmia.org/objects/28068",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": "signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "92.92.15                                  ",
-  "artist": "George Krause"
+  "accession_number": "92.92.15"
 }

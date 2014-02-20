@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Georg Jensen",
+  "image_copyright": "%26Acirc%3B%26copy%3B Georg Jensen",
   "life_date": "1904-present",
   "nationality": null,
   "role": "Artist",
+  "artist": "Georg Jensen, Copenhagen, Denmark",
   "dated": "c. 1960",
   "culture": null,
   "country": "Denmark",
@@ -18,7 +19,7 @@
   "marks": "Stamps ",
   "text": "",
   "description": "six half-circles of thick silver wire connected together with candle cup at each of six points",
+  "provenance": "",
   "creditline": "Gift of James Oppenheimer",
-  "accession_number": "99.147.1.1",
-  "artist": "Georg Jensen, Copenhagen, Denmark"
+  "accession_number": "99.147.1.1"
 }

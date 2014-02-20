@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "The Trustees of the Walters Art Gallery",
   "dated": "1952",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "11 15/16 × 9 × 7/16 in. (30.4 × 22.8 × 1.1 cm) (closed)",
   "medium": "Letterpress, illustrations",
   "title": "The World Encompassed",
   "id": "http://api.artsmia.org/objects/118592",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; paper covers",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.173",
-  "artist": "The Trustees of the Walters Art Gallery"
+  "accession_number": "67.60.173"
 }

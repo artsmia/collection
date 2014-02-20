@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "17th century",
   "culture": null,
   "country": "India",
@@ -13,12 +14,12 @@
   "medium": "Ivory with silver fittings",
   "title": "Powder Horn",
   "id": "http://api.artsmia.org/objects/1805",
-  "room": "G243",
+  "room": "G343",
   "style": "17th century",
   "marks": " ",
   "text": "Ivory gunpowder primers were popular amongst the Mughal aristocracy. This flask is carved with wild animals associated with the hunt. Both ends terminate in leaping antelopes while fish, birds, rabbits and other animals decorate the central section. ",
   "description": "Powder Horn, carved ivory, with original silver fittings; carved images of wild animals; Mughal Dynasty",
+  "provenance": "",
   "creditline": "The Katherine Kittredge McMillan Memorial Fund",
-  "accession_number": "70.43                                     ",
-  "artist": ""
+  "accession_number": "70.43"
 }

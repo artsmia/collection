@@ -3,13 +3,14 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "French",
   "role": "Artist",
+  "artist": "Geoffroy Tory",
   "dated": "1927",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "12 5/8 × 8 3/4 × 1 1/8 in. (32 × 22.2 × 2.8 cm) (closed)",
   "medium": "Letterpress, illustrations",
   "title": "Champ Fleury",
   "id": "http://api.artsmia.org/objects/119010",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Bound volume; vellum and paper over boards",
+  "provenance": "",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
-  "accession_number": "67.60.170",
-  "artist": "Geoffroy Tory"
+  "accession_number": "67.60.170"
 }

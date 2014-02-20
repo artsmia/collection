@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown",
   "dated": "mid-19th century",
   "culture": "Japanese",
-  "country": null,
-  "continent": null,
-  "dimension": "22 x 14.9 cm",
+  "country": "Japan",
+  "continent": "Asia",
+  "dimension": "8 1/2 × 3 5/8 × 6 1/4 in. (21.59 × 9.21 × 15.88 cm)",
   "medium": "bronze",
   "title": "Sitting boar",
   "id": "http://api.artsmia.org/objects/116838",
@@ -17,8 +18,8 @@
   "style": "19th century",
   "marks": " ",
   "text": "",
-  "description": "",
+  "description": "boar sitting upright on its haunches, PL leg in air; upturned, elongated nose; hatch on back; figure is hollow inside, and mouth and nostrils open to vent",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
-  "accession_number": "2013.29.1089",
-  "artist": "Unknown"
+  "accession_number": "2013.29.1089"
 }
