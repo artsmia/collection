@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Fujiwara Kei",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116892",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " Base: [ ? ]",
+  "marks": " Base: [ 啓 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.1133",
-  "artist": "Fujiwara Kei"
+  "accession_number": "2013.29.1133"
 }

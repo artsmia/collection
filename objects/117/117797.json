@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Hayashi Yasuo",
   "dated": "1972",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117797",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " Bottom: [ ??????]",
+  "marks": " Bottom: [ 康　７２．４]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.659",
-  "artist": "Hayashi Yasuo"
+  "accession_number": "2013.29.659"
 }

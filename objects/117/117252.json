@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kazeyama Hōin",
   "dated": "late 19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "6 9/16 × 10 1/8 in. (16.67 × 25.72 cm)",
   "medium": "Ink on paper; light pigment",
   "title": "Four-line Poem",
   "id": "http://api.artsmia.org/objects/117252",
@@ -18,7 +19,7 @@
   "marks": "Signature and marks L edge, black ink",
   "text": "",
   "description": "six lines of calligraphy; another line at L edge; small red seal at URC; square red seal LLC; orange-red pigmented border with thin black outline",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.210",
-  "artist": "Kazeyama H?in"
+  "accession_number": "2013.29.210"
 }

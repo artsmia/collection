@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown",
   "dated": "19th century",
   "culture": "Japanese",
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " none",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
-  "accession_number": "2013.31.167",
-  "artist": "Unknown"
+  "accession_number": "2013.31.167"
 }

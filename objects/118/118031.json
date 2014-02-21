@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kaneko Tohta",
   "dated": "1972 (?)",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118031",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "[ ?????????????? ](The Carp in the valley / Jostle [  ?? ] {T?ta}",
+  "marks": "[ 谷に鯉もみ合う夜のかんきかな ](The Carp in the valley / Jostle [  兜太 ] {Tōta}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.853",
-  "artist": "Kaneko Tohta"
+  "accession_number": "2013.29.853"
 }

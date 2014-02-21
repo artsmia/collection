@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Toyoharu Kunichika",
   "dated": "1893",
   "culture": null,
   "country": null,
   "continent": null,
-  "dimension": "89 x 54.5 cm ?ban triptych",
+  "dimension": "89 x 54.5 cm ōban triptych",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Kabuki actors",
   "id": "http://api.artsmia.org/objects/116868",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Albert and Betty Elliott",
-  "accession_number": "2013.29.1111",
-  "artist": "Toyoharu Kunichika"
+  "accession_number": "2013.29.1111"
 }

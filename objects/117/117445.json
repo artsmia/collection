@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kōno Tettō",
   "dated": "mid-19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "8 × 18 1/8 in. (20.32 × 46.04 cm)",
   "medium": "Ink on paper",
   "title": "Poem",
   "id": "http://api.artsmia.org/objects/117445",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark, and Seals ULC",
   "text": "",
   "description": "fourteen lines, alternating between lines of two and one character; one fan fold space between last two lines (signature); small rectangular intaglio stamp URC; small square intaglio stamp ULC; small relief stamp L center",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Mr and Mrs George Haldeman",
-  "accession_number": "2013.29.371",
-  "artist": "K?no Tett?"
+  "accession_number": "2013.29.371"
 }

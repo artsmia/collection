@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ichiyanagi Kiho",
   "dated": "mid-19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "6 1/8 × 6 7/16 in. (15.56 × 16.35 cm)",
   "medium": "Ink on paper",
   "title": "Four-Line Poem in Cursive Script",
   "id": "http://api.artsmia.org/objects/117264",
@@ -18,7 +19,7 @@
   "marks": "Signature and Marks LLC, black ink, Japanese character",
   "text": "",
   "description": "four lines of bold, looping calligraphy; a fifth shorter line at center left; and signature with two square red seals at LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.221",
-  "artist": "Ichiyanagi Kiho"
+  "accession_number": "2013.29.221"
 }

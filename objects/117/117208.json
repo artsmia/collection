@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Baioku",
   "dated": "1838",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "7 3/4 × 8 1/4 in. (19.69 × 20.96 cm)",
   "medium": "Ink and color on paper",
   "title": "Flowers and Butterfly",
   "id": "http://api.artsmia.org/objects/117208",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark, and Seal ULC",
   "text": "",
   "description": "horizontally oriented painting of two blossoming pink roses; foliage begins LLC, extends upward with a bud near top center, and horizontally towards LR with the two blossoming roses; black and blue butterfly at top rose; three lines of calligraphy at ULC with two part rectangular seal with rounded edges",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.181",
-  "artist": "Baioku"
+  "accession_number": "2013.29.181"
 }

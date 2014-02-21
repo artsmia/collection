@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Aoki Mokubei",
   "dated": "1822",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117373",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " URC: [ ???????? ] {Bunsei jingo kajitsu / Mokubei}",
+  "marks": " URC: [ 文政壬午夏日聾米 ] {Bunsei jingo kajitsu / Mokubei}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.31",
-  "artist": "Aoki Mokubei"
+  "accession_number": "2013.29.31"
 }

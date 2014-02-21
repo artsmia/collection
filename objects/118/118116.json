@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kameda Bōsai",
   "dated": "c. 1824",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118116",
   "room": "Not on View",
   "style": "19th century",
-  "marks": "[ ?????????? ] (Those who seek are not free; those LRC: {Bosai rojin shosha nanaju-ni}",
+  "marks": "[ 求人不身由身由不求人 ] (Those who seek are not free; those LRC: {Bosai rojin shosha nanaju-ni}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.918",
-  "artist": "Kameda B?sai"
+  "accession_number": "2013.29.918"
 }

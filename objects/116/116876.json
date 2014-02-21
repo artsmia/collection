@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Suemura Shōbun",
   "dated": "mid-20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116876",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [  ?? ] {Sh?bun}",
+  "marks": " [  笙文 ] {Shōbun}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.1119",
-  "artist": "Suemura Sh?bun"
+  "accession_number": "2013.29.1119"
 }

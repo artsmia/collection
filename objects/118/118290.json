@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ōmori Shōhō",
   "dated": "c. 1900",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118290",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " LLC. Signed {Sh?h?}",
+  "marks": " LLC. Signed {Shōhō}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
-  "accession_number": "2013.31.106",
-  "artist": "?mori Sh?h?"
+  "accession_number": "2013.31.106"
 }

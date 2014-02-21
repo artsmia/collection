@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kitaōji  Rosanjin",
   "dated": "mid-20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116658",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "bottom : ? (r?) ",
+  "marks": "bottom : 口 (rō) ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly promised gift of Natalie Fitz-Gerald to the Center",
-  "accession_number": "2009.015.NF",
-  "artist": "Kita?ji  Rosanjin"
+  "accession_number": "2009.015.NF"
 }

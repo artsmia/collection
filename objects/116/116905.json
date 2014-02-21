@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown",
   "dated": "19th century",
   "culture": "Japanese",
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " {Shoten Shi Nyudo Mune-Sei}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by the Peter B. McCord Collection",
-  "accession_number": "2013.29.1145",
-  "artist": "Unknown"
+  "accession_number": "2013.29.1145"
 }

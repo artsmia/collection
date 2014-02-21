@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Fujinuma Noboru",
   "dated": "2000",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117169",
   "room": "Not on View",
   "style": "21st century",
-  "marks": " bottom: [ ? ]",
+  "marks": " bottom: [ 昇 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by the artist",
-  "accession_number": "2013.29.151",
-  "artist": "Fujinuma Noboru"
+  "accession_number": "2013.29.151"
 }

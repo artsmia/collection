@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Shinozaki Shōchiku",
   "dated": "mid-19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "5 1/16 × 4 3/16 in. (12.86 × 10.64 cm)",
   "medium": "Ink on mica paper",
   "title": "Twenty-five Letters",
   "id": "http://api.artsmia.org/objects/118006",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "small (nearly) square paper with nine lines of scrawling, looping cursive; two center lines are shorter",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
-  "accession_number": "2013.29.831.1",
-  "artist": "Shinozaki Sh?chiku"
+  "accession_number": "2013.29.831.1"
 }

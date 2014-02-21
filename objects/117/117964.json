@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Akiyama Gyokuzan",
   "dated": "mid-18th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "5 7/8 × 26 3/16 in. (14.92 × 66.52 cm) (sheet)\r\n7 3/16 × 26 9/16 in. (18.26 × 67.47 cm) (mount)",
   "medium": "Ink on paper",
   "title": "Letter",
   "id": "http://api.artsmia.org/objects/117964",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "twenty two lines, first line indented slightly from R; last line is broken in two; last three lines from L are indented from the top; mounted on larger, similarly colored sheet",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Mr and Mrs Wesley Clark",
-  "accession_number": "2013.29.796",
-  "artist": "Akiyama Gyokuzan"
+  "accession_number": "2013.29.796"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Nakamura Chōsai",
   "dated": "1855",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "6 1/16 × 5 1/2 in. (15.4 × 13.97 cm)",
   "medium": "Ink on paper",
   "title": "Poetic Quatrain",
   "id": "http://api.artsmia.org/objects/117231",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark, and Seals LLC",
   "text": "",
   "description": "four lines of delicate, neatly spaced calligraphy on a square sheet; fifth smaller, shorter line at far L rectangular intaglio stamp URC; two-part, rectangular stamp with rounded edges LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.193",
-  "artist": "Nakamura Ch?sai"
+  "accession_number": "2013.29.193"
 }

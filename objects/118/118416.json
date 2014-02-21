@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kawada Shōryō",
   "dated": "second half 19th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118416",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " R center: [ ?? ] {Sh?ry?]",
+  "marks": " R center: [ 小梁 ] {Shōryō]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
-  "accession_number": "2013.31.21",
-  "artist": "Kawada Sh?ry?"
+  "accession_number": "2013.31.21"
 }

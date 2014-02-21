@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Hirata Gyokuon",
   "dated": "1820s",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117361",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " UC; LRC. painting: [ ?? ]; inscription: [ ????? ]",
+  "marks": " UC; LRC. painting: [ 玉蘊 ]; inscription: [ 山陽外史題 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.300",
-  "artist": "Hirata Gyokuon"
+  "accession_number": "2013.29.300"
 }

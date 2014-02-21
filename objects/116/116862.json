@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yamamoto Shokoku",
   "dated": "mid-20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116862",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [ ???? ]",
+  "marks": " [ 松谷写之 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.1107",
-  "artist": "Yamamoto Shokoku"
+  "accession_number": "2013.29.1107"
 }

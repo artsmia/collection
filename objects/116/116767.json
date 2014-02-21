@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ishikawa Kakō",
   "dated": "1971",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116767",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [ ????? ]",
+  "marks": " [ 辛亥華香書 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Stephen Addiss and Audrey Yoshiko Seo in honor of Dr Frederick Baekeland on his 80th Birthday",
-  "accession_number": "2013.29.1035",
-  "artist": "Ishikawa Kak?"
+  "accession_number": "2013.29.1035"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Miyake Sekian",
   "dated": "early 18th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "8 3/8 × 9 13/16 in. (21.27 × 24.92 cm)",
   "medium": "Ink on paper",
   "title": "Small Calligraphy",
   "id": "http://api.artsmia.org/objects/117303",
@@ -18,7 +19,7 @@
   "marks": "Signature and Mark L center, Japanese characters",
   "text": "",
   "description": "four full lies of calligraphy on greyish colored paper; many of the characters have feathered edges from bleeding; two characters at URC; two characters at far L",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.257",
-  "artist": "Miyake Sekian"
+  "accession_number": "2013.29.257"
 }

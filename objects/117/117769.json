@@ -2,9 +2,10 @@
   "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "Japanese, born 1947",
-  "nationality": "Japan",
+  "life_date": "Japanese, b. 1947",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Fukami Sueharu",
   "dated": "1972",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117769",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " Bottom: [ ? ]",
+  "marks": " Bottom: [ 陶 ]",
   "text": "",
   "description": "",
-  "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Takahashi Misa ????, Japan",
-  "accession_number": "2013.29.636",
-  "artist": "Fukami Sueharu"
+  "provenance": "",
+  "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Takahashi Misa é«æ©ããµ, Japan",
+  "accession_number": "2013.29.636"
 }

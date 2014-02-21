@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Sawada Tōkō",
   "dated": "second half 18th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "11 3/8 × 21 1/8 in. (28.89 × 53.66 cm)",
   "medium": "Ink on paper",
   "title": "\"Seemingly Clumsy\" Studio",
   "id": "http://api.artsmia.org/objects/117243",
@@ -18,7 +19,7 @@
   "marks": "Signature, Seals, and Marks L center",
   "text": "",
   "description": "three large, bold characters written horizontally; smaller, neatly written, vertical characters at far L (signature); large rectangular relief stamp URC; large square intaglio stamp center L edge; large square relief stamp LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.202",
-  "artist": "Sawada T?k?"
+  "accession_number": "2013.29.202"
 }

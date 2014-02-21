@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ishikawa Kakō",
   "dated": "1968",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116769",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [ ????? ]",
+  "marks": " [ 戌申華香作 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Stephen Addiss and Audrey Yoshiko Seo in honor of Dr Frederick Baekeland on his 80th Birthday",
-  "accession_number": "2013.29.1037",
-  "artist": "Ishikawa Kak?"
+  "accession_number": "2013.29.1037"
 }

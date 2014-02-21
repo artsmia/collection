@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kimura Kenkadō",
   "dated": "second half 18th century",
   "culture": null,
-  "country": null,
-  "continent": null,
-  "dimension": null,
+  "country": "Japan",
+  "continent": "Asia",
+  "dimension": "10 7/8 × 20 1/2 in. (27.62 × 52.07 cm) (image)\r\n46 13/16 × 24 7/8 in. (118.9 × 63.18 cm) (mount, without roller)",
   "medium": "Ink on paper",
   "title": "Draft Panel in Regular Script",
   "id": "http://api.artsmia.org/objects/117824",
@@ -17,8 +18,8 @@
   "style": "18th century",
   "marks": " ",
   "text": "",
-  "description": "",
+  "description": "thirty lines of very neatly written calligraphy; many characters have red circles next to them",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
-  "accession_number": "2013.29.680",
-  "artist": "Kimura Kenkad?"
+  "accession_number": "2013.29.680"
 }

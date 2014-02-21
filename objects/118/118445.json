@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yamamoto Chikuryūsai I",
   "dated": "summer 1918",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118445",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " Bottom: [ ???? ]",
+  "marks": " Bottom: [ 竹龍斎造 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
-  "accession_number": "2013.31.42",
-  "artist": "Yamamoto Chikury?sai I"
+  "accession_number": "2013.31.42"
 }

@@ -5,6 +5,7 @@
   "life_date": "Japanese, 1866 - 1942",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kamisaka Sekka",
   "dated": "1900s-1910s",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117739",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " LRC: [ ?? ]{Sekka}",
+  "marks": " LRC: [ 雪佳 ]{Sekka}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.61",
-  "artist": "Kamisaka Sekka"
+  "accession_number": "2013.29.61"
 }

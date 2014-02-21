@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kan Chazan",
   "dated": "late 18th - early 19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "5 3/4 × 7 5/16 in. (14.61 × 18.57 cm)",
   "medium": "Ink on paper",
   "title": "Letter",
   "id": "http://api.artsmia.org/objects/117226",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "ten total lines; six full lines of scribbled cursive beginning at R; seventh line is shorter and indented; two shorter lines at L; closest line to L edge is written in very small script",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.189",
-  "artist": "Kan Chazan"
+  "accession_number": "2013.29.189"
 }

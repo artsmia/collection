@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Nangaku",
   "dated": "20th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "4 3/8 × 15 15/16 in. (11.11 × 40.48 cm)",
   "medium": "Ink on paper",
   "title": "Letter",
   "id": "http://api.artsmia.org/objects/117285",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark, and Seal LLC",
   "text": "",
   "description": "twenty-four lines of angular, sometimes looping writing on long, narrow sheet; red intaglio stamp at LLC over final line",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.240",
-  "artist": "Nangaku"
+  "accession_number": "2013.29.240"
 }

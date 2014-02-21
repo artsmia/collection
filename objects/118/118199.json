@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ikeda Unshō",
   "dated": "second half 19th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118199",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " Bottom right: [ ?? ]",
+  "marks": " Bottom right: [ 雲樵 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.991",
-  "artist": "Ikeda Unsh?"
+  "accession_number": "2013.29.991"
 }

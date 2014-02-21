@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Miyake Ryūjō",
   "dated": "1871",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "8 5/16 × 7 1/8 in. (21.11 × 18.1 cm)",
   "medium": "Ink on paper",
   "title": "Poem at Age 67",
   "id": "http://api.artsmia.org/objects/117292",
@@ -18,7 +19,7 @@
   "marks": "Signature, Seal, and Marks L center, in Japanese",
   "text": "",
   "description": "four lines of calligraphy; fourth line is indented slightly; two shorter lines at L; red seal at URC; two dark red seals LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.247",
-  "artist": "Miyake Ry?j?"
+  "accession_number": "2013.29.247"
 }

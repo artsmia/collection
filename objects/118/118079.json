@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yamazaki Mushū",
   "dated": "1998",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118079",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " Verso of the box: [ ??] {Mush?}",
+  "marks": " Verso of the box: [ 夢舟] {Mushū}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.895",
-  "artist": "Yamazaki Mush?"
+  "accession_number": "2013.29.895"
 }

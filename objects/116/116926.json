@@ -5,6 +5,7 @@
   "life_date": "Japanese, 1644 - 1732",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yamaguchi Sekkei",
   "dated": "early 18th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116926",
   "room": "Not on View",
   "style": "18th century",
-  "marks": " URC: [ ?? ] {Sekkei}",
+  "marks": " URC: [ 雪渓 ] {Sekkei}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.116",
-  "artist": "Yamaguchi Sekkei"
+  "accession_number": "2013.29.116"
 }

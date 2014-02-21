@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Irie Shikai",
   "dated": "1930",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "11 9/16 × 16 3/16 in. (29.37 × 41.12 cm)",
   "medium": "Ink on paper",
   "title": "Album Leaf",
   "id": "http://api.artsmia.org/objects/117829",
@@ -18,7 +19,7 @@
   "marks": "Signature, Seals, and Marks LLC",
   "text": "",
   "description": "eleven total lines with two large characters at far right; margin between first three lines and the rest; square relief stamp URC; oval relief stamp LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
-  "accession_number": "2013.29.684",
-  "artist": "Irie Shikai"
+  "accession_number": "2013.29.684"
 }

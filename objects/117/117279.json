@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Murase Kōtei",
   "dated": "late 18th - early 19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "10 3/4 × 8 5/8 in. (27.31 × 21.91 cm)",
   "medium": "Ink on paper",
   "title": "Poem in Running Script",
   "id": "http://api.artsmia.org/objects/117279",
@@ -18,7 +19,7 @@
   "marks": "Signature and Marks ULC, black ink",
   "text": "",
   "description": "six lines of bold calligraphy; signature at ULC; narrow red seal at URC; two small red relief seals at L edge near bottom",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.235",
-  "artist": "Murase K?tei"
+  "accession_number": "2013.29.235"
 }

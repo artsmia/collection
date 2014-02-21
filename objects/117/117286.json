@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Nansai",
   "dated": "19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "14 11/16 × 23 11/16 in. (37.31 × 60.17 cm)",
   "medium": "Ink on paper",
   "title": "Love of Mystery Tower",
   "id": "http://api.artsmia.org/objects/117286",
@@ -18,7 +19,7 @@
   "marks": "Signature and Seals LLC",
   "text": "",
   "description": "three large characters written horizontally across sheet; four smaller, vertical characters (signature) at far L; horizontal relief stamp URC; square intaglio stamp full of characters at LLC; square relief stamp with relatively wide border LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.241",
-  "artist": "Nansai"
+  "accession_number": "2013.29.241"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Tanabe Yōta",
   "dated": "1987",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118203",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "[ ?? ] ",
+  "marks": "[ 黒潮 ] ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.995",
-  "artist": "Tanabe Y?ta"
+  "accession_number": "2013.29.995"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kikuchi Gozan",
   "dated": "mid-19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "8 × 17 1/4 in. (20.32 × 43.82 cm) (sheet, fan)\r\n14 × 22 in. (35.56 × 55.88 cm) (mount)",
   "medium": "Ink on mica paper",
   "title": "Poem",
   "id": "http://api.artsmia.org/objects/117244",
@@ -18,7 +19,7 @@
   "marks": "Signature, Seals, and Marks ULC",
   "text": "",
   "description": "nine lines of calligraphy written on every other panel; signature at UL; rectangular intaglio stamp URC; square relief stamp UL; dark border at top and bottom of fan; mounted on black mat",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.203",
-  "artist": "Kikuchi Gozan"
+  "accession_number": "2013.29.203"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Satō Issai",
   "dated": "mid-19th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117256",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " L center: [ ????? ]",
+  "marks": " L center: [ 一斎老？夫 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.214",
-  "artist": "Sat? Issai"
+  "accession_number": "2013.29.214"
 }

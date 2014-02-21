@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kameda Bōsai",
   "dated": "1823",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117383",
   "room": "Not on View",
   "style": "19th century",
-  "marks": "{Wagatoshi ni ayakarekashi to wa okogamashi saredo LLC: [  ????? ] {B?sai r?jin sho}",
+  "marks": "{Wagatoshi ni ayakarekashi to wa okogamashi saredo LLC: [  鵬斎老人書 ] {Bōsai rōjin sho}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Mr and Mrs Don Simon",
-  "accession_number": "2013.29.318",
-  "artist": "Kameda B?sai"
+  "accession_number": "2013.29.318"
 }

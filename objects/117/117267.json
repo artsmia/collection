@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Umetsuji Kiretsu",
   "dated": "mid-19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "11 1/8 × 5 5/8 in. (28.26 × 14.29 cm)",
   "medium": "Ink on paper",
   "title": "Quatrain in Running Script",
   "id": "http://api.artsmia.org/objects/117267",
@@ -18,7 +19,7 @@
   "marks": "Signature, Seal, and Marks LLC, black ink",
   "text": "",
   "description": "four total lines of calligraphy: two full lines; third line is shorter; fourth line is broken, containing signature at lower left; red seal URC; two seals, one inverted, at LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.224",
-  "artist": "Umetsuji Kiretsu"
+  "accession_number": "2013.29.224"
 }

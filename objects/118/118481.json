@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Sakaguchi Sōunsai",
   "dated": "mid-20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118481",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " Bottom: [ ????? ]",
+  "marks": " Bottom: [ 宗雲斎造之 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
-  "accession_number": "2013.31.67",
-  "artist": "Sakaguchi S?unsai"
+  "accession_number": "2013.31.67"
 }

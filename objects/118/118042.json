@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown",
   "dated": "late 19th century",
   "culture": "Japanese",
   "country": null,
   "continent": null,
-  "dimension": null,
+  "dimension": "175 × 104 cm",
   "medium": "Silk",
   "title": "Noh costume (kesa)",
   "id": "http://api.artsmia.org/objects/118042",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Takako and Victor Hauge",
-  "accession_number": "2013.29.863",
-  "artist": "Unknown"
+  "accession_number": "2013.29.863"
 }

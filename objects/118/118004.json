@@ -5,6 +5,7 @@
   "life_date": "Japanese",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Imai Keiju",
   "dated": "first half 20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118004",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [ ??] {Keiju}",
+  "marks": " [ 景樹] {Keiju}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.83",
-  "artist": "Imai Keiju"
+  "accession_number": "2013.29.83"
 }

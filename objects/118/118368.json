@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Matsumoto Hafū",
   "dated": "2006",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118368",
   "room": "Not on View",
   "style": "21st century",
-  "marks": " Back: [ ??? ] {Hafu saku}",
+  "marks": " Back: [ 破風作 ] {Hafu saku}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
-  "accession_number": "2013.31.168",
-  "artist": "Matsumoto Haf?"
+  "accession_number": "2013.31.168"
 }

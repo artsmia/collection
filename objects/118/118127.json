@@ -3,8 +3,9 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": "Japanese, 1697 - 1752",
-  "nationality": "Japan",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Sakaki Hyakusen",
   "dated": "1751",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/118127",
   "room": "Not on View",
   "style": "18th century",
-  "marks": "[ ???? ] (Fifth month, 1751) [ ???? ] { H?h?sh? sha}",
+  "marks": "[ 辛未梅夏 ] (Fifth month, 1751) [ 彭蓬洲寫 ] { Hōhōshū sha}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.928",
-  "artist": "Sakaki Hyakusen"
+  "accession_number": "2013.29.928"
 }

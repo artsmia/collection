@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Takahashi Rikio",
   "dated": "1964",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117712",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "Spring Field Rikio Takahashi 1964 ?. LLC: [Rikio Takahashi]",
+  "marks": "Spring Field Rikio Takahashi 1964 …. LLC: [Rikio Takahashi]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Amy Kasai",
-  "accession_number": "2013.29.586",
-  "artist": "Takahashi Rikio"
+  "accession_number": "2013.29.586"
 }

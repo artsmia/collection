@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yamamoto Tōkai",
   "dated": "19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "5 1/2 × 7 in. (13.97 × 17.78 cm)",
   "medium": "Ink on paper",
   "title": "Clerical Script Calligraphy",
   "id": "http://api.artsmia.org/objects/117347",
@@ -18,7 +19,7 @@
   "marks": "Signature, Seal, and Marks L center",
   "text": "",
   "description": "four large characters on a small sheet of paper, one in each quadrant; signature at far L; red rectangular relief seal URC; and square intaglio seal LLC",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.289",
-  "artist": "Yamamoto T?kai"
+  "accession_number": "2013.29.289"
 }

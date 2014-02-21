@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kōno Tettō",
   "dated": "mid-19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "12 1/8 × 10 3/4 in. (30.8 × 27.31 cm)",
   "medium": "Ink on paper",
   "title": "Poem Leaf",
   "id": "http://api.artsmia.org/objects/117344",
@@ -18,7 +19,7 @@
   "marks": "Seal and Marks ",
   "text": "",
   "description": "eight lines of expressive calligraphy written with a relatively thin brush; rectangular intaglio seal URC; circular relief stamp at L center",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
-  "accession_number": "2013.29.286",
-  "artist": "K?no Tett?"
+  "accession_number": "2013.29.286"
 }

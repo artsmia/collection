@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Hayashi Yasuo",
   "dated": "1959",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "1/2 × 20 1/8 × 12 1/2 in. (1.27 × 51.12 × 31.75 cm)",
   "medium": "Ceramic",
   "title": "Ceramic Panel",
   "id": "http://api.artsmia.org/objects/117938",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "rectangular shape with gently sloping wavy surface; rust colored background with natural colored linear and block pattern; somewhat raised \\\"popcorn\\\" texture in some areas",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.776",
-  "artist": "Hayashi Yasuo"
+  "accession_number": "2013.29.776"
 }

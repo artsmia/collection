@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kaneko Jun",
   "dated": "2007",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "25 1/2 × 16 × 9 1/2 in. (64.77 × 40.64 × 24.13 cm)",
   "medium": "Ceramic",
   "title": "Dango",
   "id": "http://api.artsmia.org/objects/118109",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "free standing, oval shaped ceramic form; shiny black glaze; wide, whitish diagonal band with drips beginning near center and wrapping upward, fading towards top; one on either side; pock-marked texture",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "accession_number": "2013.29.911",
-  "artist": "Kaneko Jun"
+  "accession_number": "2013.29.911"
 }
