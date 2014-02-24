@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C The Netherlands",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C The Netherlands",
   "life_date": "Dutch, 1888-1964",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Gerrit Rietveld",
   "dated": "1976 (designed 1920)",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Incandescent glass bulbs and oak base plate painted black",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.67                                 ",
-  "artist": "Gerrit Rietveld"
+  "accession_number": "98.276.67"
 }

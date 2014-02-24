@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1958-1958",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Inscriptions ",
   "text": "",
   "description": "black man wearing a small cap, standing on a boat with a large pole at his PR side; another man in background",
+  "provenance": "",
   "creditline": "Gift of Steven Nordman",
-  "accession_number": "99.229.16                                 ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "99.229.16"
 }

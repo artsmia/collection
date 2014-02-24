@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%26acirc%3B%80%99s estate%2C or assignees",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Upham",
   "dated": "1961-1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "large rock in water",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "85.86",
-  "artist": "George Upham"
+  "accession_number": "85.86"
 }

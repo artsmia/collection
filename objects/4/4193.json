@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1944",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LR in graphite: [Matisse]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "91.148.7",
-  "artist": "Henri Matisse"
+  "accession_number": "91.148.7"
 }

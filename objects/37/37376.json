@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown, Japanese",
   "dated": "1752",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
   "dimension": "8 5/8 x 6 1/4 in. (21.91 x 15.88 cm) (image, sheet)",
-  "medium": "Woodblock print",
+  "medium": "From a woodblock printed book; ink on paper",
   "title": "(Shoki God Trying to Catch a Demon)",
   "id": "http://api.artsmia.org/objects/37376",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "page of a book",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.130                                ",
-  "artist": "Unknown, Japanese"
+  "accession_number": "96.146.130"
 }

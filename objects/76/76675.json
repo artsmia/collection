@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1956",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and edition LRC, in pencil: [Picasso]; LLQ, below man\\'s face, ",
   "text": "",
   "description": "abstract face of bearded man at L; abstract dancing nude couple at R; light blue, purple, green and black",
+  "provenance": "",
   "creditline": "Gift of Mary and Robyn Campbell",
-  "accession_number": "2003.156.25",
-  "artist": "Pablo Picasso"
+  "accession_number": "2003.156.25"
 }

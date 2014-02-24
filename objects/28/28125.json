@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BFrank Gaard",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Gaard",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Gaard",
   "dated": "March 31, 1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date Signed, dated LR: [Frank Gaard 3-31-74]",
   "text": "",
   "description": "Original cartoon for first issue of the Artpolice.",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "93.4.2",
-  "artist": "Frank Gaard"
+  "accession_number": "93.4.2"
 }

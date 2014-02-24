@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F DACS%2C London",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F DACS%2C London",
   "life_date": "Scottish, 1924 - 2005",
   "nationality": "Scottish",
   "role": "Artist",
+  "artist": "Sir Eduardo Paolozzi",
   "dated": "c. 1964",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Howard B. Marks",
-  "accession_number": "83.107.5",
-  "artist": "Sir Eduardo Paolozzi"
+  "accession_number": "83.107.5"
 }

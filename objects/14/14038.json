@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "17th century",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
-  "creditline": null,
-  "accession_number": "22.26.5                                   ",
-  "artist": ""
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "22.26.5"
 }

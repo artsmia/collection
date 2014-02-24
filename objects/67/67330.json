@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3BRed Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Red Grooms",
   "dated": "1997",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Edition; Signature; Date\r\n\r\nLL: [S.P. ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.98.19.11.12                             ",
-  "artist": "Red Grooms"
+  "accession_number": "P.98.19.11.12"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1760-1770",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "This architecturally important room was the informal parlor of a house built in about 1772 in Providence, Rhode Island. Other rooms from the house are owned by the Brooklyn Museum and the Denver Art Museum. The house, while modified, still stands on North Main Street (then King Street), as seen in the photograph. The classically inspired front doorway of the house includes an impressive arched pediment above Corinthian pilasters. The design of the doorway and the paneled interior of the parlor, with dentil molding and elaborate triangular pediment, were taken from popular 18th-century pattern books, including Batty Langley's widely circulated The Builder's Compleat Assistant (London, 1738).\r\n\t\r\nThe original owner of the house was Joseph Russell, a prosperous merchant in the West Indies trade who sold exotic goods. Russell's daughter, Susan Conde Russell, married John Corlis in 1790, and shortly thereafter acquired both her father's home and the pair of card tables illustrated here, which were recently given to the Institute and will be displayed in this room following professional conservation.\r\n\r\nInstalled in 1923, the Providence Parlor was the first American period room in the Minneapolis Institute of Arts, and was originally furnished by the Friends of the Institute. Through later restorations to its original paint color and proportions, the Providence Parlor provides a rare glimpse into the life of the Russell-Corlis family in late-18th-century New England. \r\n",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.3d                                     ",
-  "artist": ""
+  "accession_number": "23.3d"
 }

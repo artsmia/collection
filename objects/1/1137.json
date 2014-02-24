@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "11th-10th century BCE",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Implement, probably for stirring wine",
   "id": "http://api.artsmia.org/objects/1137",
-  "room": "Not on View",
+  "room": "G214",
   "style": "11th-10th century BCE",
   "marks": " ",
   "text": "",
   "description": "The purpose served by this implement is unknown, but it is possible that it was used for stirring wine. A highly complicated combination of animal motifs occurs in openwork on the handle. This handle, in its entirety, forms a beaked head with the rod serving as the body. As it approaches the handle, the rod displays a leg with a tuft and claw which rises to touch the beak of the bird. The handle itself divides into one bird whose crest supports the belly of a dragon. The dragon turns its head to the left, showing the teeth in its open mouth. For clarification of this involved composition, see Katrlgren Number 76, figures 70,71, 72. This composition occurs frequently in dagger axes, e.g., Karlgren plate 99 (50.46.15 and 50.46.67). Patina green",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.75",
-  "artist": ""
+  "accession_number": "50.46.75"
 }

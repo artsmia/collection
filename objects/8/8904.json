@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Richard Estes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Estes",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Estes",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Estes's photorealist screenprint depicts one of the entrances to the Minneapolis Auditorium, which was razed in the late 1980s to make room for the present downtown convention center. The noticeable absence of figures and Estes's use of transparency and reflections distorts the otherwise ordinary image into a surreal or hyper-real urban street scene.",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.73.36                                   ",
-  "artist": "Richard Estes"
+  "accession_number": "P.73.36"
 }

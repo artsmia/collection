@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\\\"61 [underlined]/ in pencil, LRC on back: [Toby Old 1979]",
   "text": "",
   "description": "clockwise from L: woman with short hair, in pleated skirt, seated on a low couch; man in western shirt seated on floor; shirtless man partially hidden by man in paint-splattered overalls; woman in mesh top resting her head on previous man\\'s lap, lying on the floor",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.12                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.12"
 }

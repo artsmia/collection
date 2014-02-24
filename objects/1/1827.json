@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Photographs by Ansel Adams. Copyright %26copy%3B1998 by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
+  "image_copyright": "Photographs by Ansel Adams. Copyright %26Acirc%3B%26copy%3B1998 by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
   "life_date": "American, 1902 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ansel Adams",
   "dated": "c. 1958",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "70.76.1                                   ",
-  "artist": "Ansel Adams"
+  "accession_number": "70.76.1"
 }

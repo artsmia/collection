@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Hmong",
   "country": "Laos",
   "continent": "Asia",
   "dimension": "7 x 9 in. (17.78 x 22.86 cm)",
-  "medium": null,
+  "medium": "Cotton, synthetic, plastic; embroidery and appliqué",
   "title": "Baby Hat",
   "id": "http://api.artsmia.org/objects/3207",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Many cultures create special hats for children because their heads are particularly vulnerable. Hats protect from physical dangers, such as cold and falls, but also from evil spirits that might lure the child's spirit away.",
   "description": "Baby hat, cotton, reverse applique, bordering technique on bill of hat, embroidery on bill covered with plastic, bill is also stuffed.",
+  "provenance": "",
   "creditline": "Gift of Robert and Gloria Congdon",
-  "accession_number": "83.70.5                                   ",
-  "artist": ""
+  "accession_number": "83.70.5"
 }

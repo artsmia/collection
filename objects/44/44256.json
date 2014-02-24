@@ -5,6 +5,7 @@
   "life_date": "American (b. Saint-Domingue, now Haiti) 1785 - 1851",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John James Audubon",
   "dated": "1860",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Color lithograph",
   "title": "Orchard Oriole",
   "id": "http://api.artsmia.org/objects/44256",
-  "room": "Not on View",
+  "room": "G103",
   "style": "19th century",
   "marks": " ",
-  "text": "",
+  "text": "Audubon remains the most famous American artist of birds to this day. He grew up in France but fled in 1803 to escape Napoleon’s draft, settling on his father’s farm outside of Philadelphia. He later migrated to England, where he found an enthusiastic market for his huge bird drawings, made in a size he termed “double elephant.” These nesting orioles show Audubon’s flair for lifelike depiction, a trait his works share with Lady Impey’s commissions.",
   "description": "Plate 219",
+  "provenance": "",
   "creditline": "Gift of Charlotte Griffin Weld",
-  "accession_number": "P.99.8.1                                  ",
-  "artist": "John James Audubon"
+  "accession_number": "P.99.8.1"
 }

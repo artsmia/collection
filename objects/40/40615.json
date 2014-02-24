@@ -5,6 +5,7 @@
   "life_date": "Austrian, 1871-1954",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Michael Powolny",
   "dated": "c. 1906",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Vase",
   "id": "http://api.artsmia.org/objects/40615",
   "room": "Not on View",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": "Mark ",
   "text": "",
   "description": "Cylindrical vase with heavy vertical stripes",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.249",
-  "artist": "Michael Powolny"
+  "accession_number": "98.276.249"
 }

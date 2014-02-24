@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJoan Moss",
+  "image_copyright": "%26Acirc%3B%26copy%3BJoan Moss",
   "life_date": "American (born Canada), born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joan Moss",
   "dated": "1985",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature; Title; Inscription ",
   "text": "",
   "description": "close-up of a bearded man with dark wavy hair; woman\\'s face visible behind man on L, with eyes in shadow; 3 windows in URC; matted",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2002.182.23                               ",
-  "artist": "Joan Moss"
+  "accession_number": "2002.182.23"
 }

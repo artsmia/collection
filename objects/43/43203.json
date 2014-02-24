@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Dated, annotated, chop mark LR: 1985",
   "text": "",
   "description": "Sculptural abstraction featuring a large elliptical object with black spiraling lines around its center; light blue circles throughout\r\n",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "P.92.6.26                                 ",
-  "artist": "John Newman"
+  "accession_number": "P.92.6.26"
 }

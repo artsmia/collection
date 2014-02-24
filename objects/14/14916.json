@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Worcester, England, 1783-1840",
   "nationality": null,
   "role": "Artist",
+  "artist": "Thomas Flight's Worcester Porcelain Factory",
   "dated": "1792",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "covered sauce tureen and stand, gold and bleu du roi borders, grisaille medallions",
+  "provenance": "",
   "creditline": "Gift of Mrs. Sumner T. McKnight",
-  "accession_number": "27.9.2a-c                                 ",
-  "artist": "Thomas Flight's Worcester Porcelain Factory"
+  "accession_number": "27.9.2a-c"
 }

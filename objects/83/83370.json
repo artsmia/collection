@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Ende",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Ende",
   "life_date": "Israeli, born 1945",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Michael Ende",
   "dated": "c. 1985",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "openwork organic-design base with 4 scroll legs; openwork rectangle of leaping deer supports platform with 4 balls; scrolls with hanging leaf pendants and bells support cups; small stand fits on top; candle/oil holder portion removes from base",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.61a-l",
-  "artist": "Michael Ende"
+  "accession_number": "2003.228.61a-l"
 }

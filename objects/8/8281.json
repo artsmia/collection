@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1760",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "mirror with gilt eagle cresting, of type known as a Constitution Mirror c.1760",
+  "provenance": "",
   "creditline": "Gift of funds from the Friends of the Institute",
-  "accession_number": "24.57                                     ",
-  "artist": ""
+  "accession_number": "24.57"
 }

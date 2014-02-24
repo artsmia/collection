@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographe Brassa%26iuml%3B Copyright %26copy%3BGilberte Brassa%26iuml%3B",
+  "image_copyright": "Photographe Brassa%26Atilde%3B%26macr%3B Copyright %26Acirc%3B%26copy%3BGilberte Brassa%26Atilde%3B%26macr%3B",
   "life_date": "(Gyula Halsz) French (born Hungary), 1899 - 1984",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Brassaï",
   "dated": "1939",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Henri Matisse",
   "id": "http://api.artsmia.org/objects/4502",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "92.85.23                                  ",
-  "artist": "Brassaï"
+  "accession_number": "92.85.23"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "early 8th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "This set of ten figurines was excavated intact in 1948 from an imperial tomb at An Chia Kou, near Lo-yang, the site of the ancient T'ang capital in Honan province. The retinue comprises five pairs of figures: <I>lokapalas<I>, guardian warriors of Indian Buddhist origin often shown (as here) standing on bulls; <I>ch'i-t'ou<I> or earth deities, composite creatures with feline bodies, grotesque heads, flaring wings, and flamelike crests; civil officials; camels; and two exceptionally fine horses. The drip-glaze decoration was applied by a traditional T'ang technique called <I>san-ts'ai<I>(three-color). The retinue is remarkable for its large size, fine modeling, lavish use of rare cobalt-blue glaze, and the fact that it is apparently one of only two complete excavated tomb sets in western collections.",
   "description": "Dignitary, probably a civil counsellor. Glazed pottery tomb figure, one of a pair, mounted on a stand. The costume is predominantly brown with details in mottled colors. Head, headdress and hands unglazed.",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "49.1.1                                    ",
-  "artist": ""
+  "accession_number": "49.1.1"
 }

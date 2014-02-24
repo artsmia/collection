@@ -1,14 +1,15 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1993",
   "culture": null,
   "country": "France",
-  "continent": "",
+  "continent": null,
   "dimension": "9 5/16 x 13 5/16 in. (23.65 x 33.81 cm) (image)\r\n10 7/8 x 13 15/16 in. (27.62 x 35.4 cm) (sheet)",
   "medium": "Gelatin silver print",
   "title": "Bosnia",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp ",
   "text": "",
   "description": "two men moving body wrapped in plastic",
+  "provenance": "",
   "creditline": "Gift of Stephen Parker and Michelle Parker",
-  "accession_number": "2001.284.4",
-  "artist": "Gilles Peress"
+  "accession_number": "2001.284.4"
 }

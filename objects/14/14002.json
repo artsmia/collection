@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "born 1890",
-  "nationality": null,
+  "life_date": "English, 1890 - 1975",
+  "nationality": "English",
   "role": "Artist",
+  "artist": "Leon Underwood",
   "dated": "1922",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date [Leon Underwood 1922]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
-  "accession_number": "23.50.20                                  ",
-  "artist": "Leon Underwood"
+  "accession_number": "23.50.20"
 }

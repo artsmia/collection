@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B David B. Tait",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "David B. Tait",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "woman\\'s face, man\\'s hand holding glass",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "78.55.1                                   ",
-  "artist": "David B. Tait"
+  "accession_number": "78.55.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BMagdalena Abakanowicz%2C courtesy%2C Marlborough Gallery%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BMagdalena Abakanowicz%2C courtesy%2C Marlborough Gallery%2C New York",
   "life_date": "Polish, born 1930",
   "nationality": "Polish",
   "role": "Artist",
+  "artist": "Magdalena Abakanowicz",
   "dated": "1969",
   "culture": null,
   "country": "Poland",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Woven jute with tridimensional parts; shade of brown to charcoal",
+  "provenance": "",
   "creditline": "Gift of Ruth Kaufmann",
-  "accession_number": "99.38.8                                   ",
-  "artist": "Magdalena Abakanowicz"
+  "accession_number": "99.38.8"
 }

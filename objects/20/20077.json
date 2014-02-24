@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "1801-1805",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
   "dimension": "7 5/16 x 20 1/16 in. (18.5 x 51 cm) (image, sheet)",
-  "medium": "Color woodcut print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Goldfish Vendor",
   "id": "http://api.artsmia.org/objects/20077",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Hokusai ga",
   "text": "",
   "description": "nishiki-e, surimono",
+  "provenance": "",
   "creditline": "Bequest of Richard P. Gale",
-  "accession_number": "74.1.324                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "74.1.324"
 }

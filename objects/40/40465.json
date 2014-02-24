@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "life_date": "German, 1900-1990",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Wilhelm Wagenfeld",
   "dated": "1930-1934",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "Clear glass teapot with lid and diffuser",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.126.1a-c",
-  "artist": "Wilhelm Wagenfeld"
+  "accession_number": "98.276.126.1a-c"
 }

@@ -5,6 +5,7 @@
   "life_date": "French, 1846 - 1897",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri-Charles Guérard",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/46442",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature LL signed in pencil: [Guérard]",
   "text": "",
   "description": "a: black; b: red",
+  "provenance": "",
   "creditline": "Gift of Judith L. Pillsbury",
-  "accession_number": "P.84.39.a,b                               ",
-  "artist": "Henri-Charles Guérard"
+  "accession_number": "P.84.39.a,b"
 }

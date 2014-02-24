@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Harry Bowers",
+  "image_copyright": "%26Acirc%3B%26copy%3B Harry Bowers",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harry Bowers",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Numbered ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. David C. Ruttenberg in commemoration of the appointment of Dr. Evan M. Maurer to the Directorship of The Minneapolis Institute of Arts",
-  "accession_number": "88.94.9",
-  "artist": "Harry Bowers"
+  "accession_number": "88.94.9"
 }

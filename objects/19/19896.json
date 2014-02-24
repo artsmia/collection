@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BWayne R. Lazorik",
+  "image_copyright": "%26Acirc%3B%26copy%3BWayne R. Lazorik",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wayne R. Lazorik",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.117.2                                  ",
-  "artist": "Wayne R. Lazorik"
+  "accession_number": "72.117.2"
 }

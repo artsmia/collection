@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Garry Winogrand%2C courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1928 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Garry Winogrand",
   "dated": "1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Ivor Massey",
-  "accession_number": "82.127.15                                 ",
-  "artist": "Garry Winogrand"
+  "accession_number": "82.127.15"
 }

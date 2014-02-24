@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Cyril Power Estate %2F Bridgeman Art Library",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Cyril Power Estate %2F Bridgeman Art Library",
   "life_date": "English, 1872 - 1951",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Cyril E. Power",
   "dated": "1929",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.94.30",
-  "artist": "Cyril E. Power"
+  "accession_number": "P.94.30"
 }

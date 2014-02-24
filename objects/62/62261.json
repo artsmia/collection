@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1952",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nat lower edge on back, in black: [( ",
   "text": "",
   "description": "standing man on top of a train, smoking and holding an explosive in his PL hand and pointing with his PR hand; back of a seated man in front of him; other men on top of train cars in background",
+  "provenance": "",
   "creditline": "Gift of funds from Alfred and Ingrid Lenz Harrison",
-  "accession_number": "2002.108.50                               ",
-  "artist": "Werner Bischof"
+  "accession_number": "2002.108.50"
 }

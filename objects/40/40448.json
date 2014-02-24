@@ -5,6 +5,7 @@
   "life_date": "Austrian, 1893 - 1971",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Maria Likarz",
   "dated": "c. 1925",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Evening bag",
   "id": "http://api.artsmia.org/objects/40448",
   "room": "G379",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": " ",
   "text": "",
   "description": "Red beaded bag with round black and white pattern",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.166",
-  "artist": "Maria Likarz"
+  "accession_number": "98.276.166"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJerry N. Uelsmann",
+  "image_copyright": "%26Acirc%3B%26copy%3BJerry N. Uelsmann",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerry N. Uelsmann",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Artist\\'S Stamp ",
   "text": "",
   "description": "crossed bands emerging from small sphere placed in a dry garden pool before iron gates with clouds as the arch above",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.13                                 ",
-  "artist": "Jerry N. Uelsmann"
+  "accession_number": "98.144.13"
 }

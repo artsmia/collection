@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1951",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Stamps; Title LR, recto: [W. Eugene Smith, 1951]",
   "text": "",
   "description": "black and white photo of birth of baby; from Nurse Midwife Photo Essay, Life, December 3, 1951",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "96.110                                    ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "96.110"
 }

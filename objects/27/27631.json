@@ -5,6 +5,7 @@
   "life_date": "American, born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mort Künstler",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/27631",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature; Inscription; Stamp\r\n\r\nLR on masking tap LR [MKünstler]",
   "text": "",
   "description": "Drawer 182",
+  "provenance": "",
   "creditline": "Gift of Ronald M. Koch",
-  "accession_number": "91.169.2                                  ",
-  "artist": "Mort Künstler"
+  "accession_number": "91.169.2"
 }

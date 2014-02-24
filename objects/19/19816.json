@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Emmet Gowin%2C courtesy of Pace%2FMacGill Gallery%2C New York",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Emmet Gowin",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.36                                     ",
-  "artist": "Emmet Gowin"
+  "accession_number": "72.36"
 }

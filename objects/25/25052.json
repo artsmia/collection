@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eve Sonneman",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Eve Sonneman",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "previously listed as a cibachorme color photograph",
+  "provenance": "",
   "creditline": "Gift of William and Wanda Lahti",
-  "accession_number": "86.112.3                                  ",
-  "artist": "Eve Sonneman"
+  "accession_number": "86.112.3"
 }

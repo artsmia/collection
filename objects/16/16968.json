@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.11-¼ in.",
   "medium": "satin, silk, cotton",
   "title": "Elbow Pillow",
   "id": "http://api.artsmia.org/objects/16968",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Elbow pillow of chartreuse yellow brocaded satin. Trees, clouds, etc., in shades of blue and yellow. Section bindings of black satin. Pink cotton lining. Cf.42.8.278.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "42.8.279                                  ",
-  "artist": ""
+  "accession_number": "42.8.279"
 }

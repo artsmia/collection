@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "2nd century",
   "culture": "Roman",
   "country": "Roman",
-  "continent": "",
+  "continent": null,
   "dimension": "26 1/8 x 12 3/4 x 5 3/4 in. (66.36 x 32.39 x 14.61 cm) (approx.)",
   "medium": "Bronze",
   "title": "Caduceus",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The typical form of a caduceus is a rod around which two snakes are entwined, with small wings at the top. In ancient Greece, it was the emblem of messengers, who were always granted safe passage. This type of staff was associated with messengers of the gods in Near Eastern religions before becoming an attribute of the Greek god Hermes, and later of the Roman god Mercury, who was closely derived from Hermes. Mercury, revered by traders, also held a herald's staff and wore a winged cap and winged shoes. According to myth, Mercury threw down his staff at two snakes fighting on the ground, and they became affixed to it.\r\n\r\nThe caduceus is also a symbol of healing. An attribute of Asclepius, the Greek god of medicine and healing, and of his Roman couterpart Aesculapius, it endures today as an international symbol of the medical profession.",
   "description": "scepter with 2 snakes with knotted bodies at top, a pair of wings below and a bulbous form on a bent stem",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "2000.64                                   ",
-  "artist": ""
+  "accession_number": "2000.64"
 }

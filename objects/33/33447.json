@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of George Warren Rickey %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Warren Rickey %2F VAGA%2C New York",
   "life_date": "American, 1907-2002",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Warren Rickey",
   "dated": "December 24, 1978",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC, in pencil: [Rickey 24-12-78]",
   "text": "",
   "description": "sketch of head of man with wavy hair--long on top of head--and short beard and moustache, wearing glasses",
+  "provenance": "",
   "creditline": "Bequest of Professor Alfred Moir",
-  "accession_number": "2012.58.218                               ",
-  "artist": "George Warren Rickey"
+  "accession_number": "2012.58.218"
 }

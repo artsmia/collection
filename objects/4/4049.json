@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BFrank Gaard",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Gaard",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Gaard",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Acrylic on canvas",
   "title": "Untitled (For John and Alice)",
   "id": "http://api.artsmia.org/objects/4049",
-  "room": "Not on View",
+  "room": "G374",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "Profile view of multiple cartoon-like heads repeated over the canvas.",
+  "provenance": "",
   "creditline": "Gift of Shinder's Read More Book Store, Inc.",
-  "accession_number": "90.94",
-  "artist": "Frank Gaard"
+  "accession_number": "90.94"
 }

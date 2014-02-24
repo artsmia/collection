@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B1993 Lois Bryant",
+  "image_copyright": "%26Acirc%3B%26copy%3B1993 Lois Bryant",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Lois Bryant",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature in red at bottom of eleventh panel: [Lois Bryant]",
   "text": "",
   "description": "lampas weave; eleven panels; each panel divided into five squares; squares have geometric designs with similar elements reflected throughout other squares; thin border around each square",
+  "provenance": "",
   "creditline": "Gift of Liz Claiborne, Inc.",
-  "accession_number": "97.162a-k                                 ",
-  "artist": "Lois Bryant"
+  "accession_number": "97.162a-k"
 }

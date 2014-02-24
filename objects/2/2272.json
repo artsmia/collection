@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BMark Cohen",
+  "image_copyright": "%26Acirc%3B%26copy%3BMark Cohen",
   "life_date": "American, born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mark Cohen",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on verso",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts Photography Grant and gift of funds from Russell Cowles",
-  "accession_number": "76.24.6                                   ",
-  "artist": "Mark Cohen"
+  "accession_number": "76.24.6"
 }

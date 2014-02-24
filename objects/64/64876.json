@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1889 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas Hart Benton",
   "dated": "1939",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Lithograph",
   "title": "Planting",
   "id": "http://api.artsmia.org/objects/64876",
-  "room": "G315",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " LRC, in the image and below image (in pencil): [Be",
   "text": "Together with John Steuart Curry and Grant Wood, Thomas Hart Benton was a leading American Regionalist painter and printmaker known for his sympathetic portrayals of everyday life in the United States, especially rural and small town scenes in the Midwest. Initially active in modernist circles in Paris and New York City, Benton later rejected modernism and abstraction in favor of naturalism and representational art. He later resettled in his home state of Missouri, where he lived the remainder of his life. His sympathy for the working class and small farmer is evident in many of his works, including the present lithograph, which depicts an African American couple working their less-than-ideal acreage, their hardscrabble life underscored by their lone plow horse and modest farmhouse in the distance.",
   "description": "Man behind a plow pulled by a donkey at center; woman with a bucket, sowing seeds behind man; small house in background at center, with trees at left",
+  "provenance": "",
   "creditline": "Gift of the Art Adventure Guides, Collection in Focus Guides, and Docents of The Minneapolis Institute of Arts in memory of Gordon M. Aamoth Jr.",
-  "accession_number": "2002.258                                  ",
-  "artist": "Thomas Hart Benton"
+  "accession_number": "2002.258"
 }

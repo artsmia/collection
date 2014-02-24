@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLakol 1995 %28Cultural Copyright%3B Lakol%3B of the Lakota Culture%29",
-  "life_date": "born 1954",
+  "image_copyright": "%26Acirc%3B%26copy%3BLakol 1995 %28Cultural Copyright%3B Lakol%3B of the Lakota Culture%29",
+  "life_date": "Lakota, born 1954",
   "nationality": "",
   "role": "Artist",
+  "artist": "Wanbli Koyake",
   "dated": "20th century",
   "culture": "Lakota (Sioux)",
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark; Inscription ",
   "text": "",
   "description": "galloping horse with flat, stylized rider (wearing long headdress); flat, stylized figure beneath front legs of horse; incised decoration on both figures (front only); on wooden base (attached)",
+  "provenance": "",
   "creditline": "Gift of Dr. Patricia L. Hutinger",
-  "accession_number": "99.208",
-  "artist": "Francis J. Yellow"
+  "accession_number": "99.208"
 }

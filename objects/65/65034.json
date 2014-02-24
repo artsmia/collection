@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "c. 1842",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "image, sheet: 14 1/16 x 9 13/16 in. (35.7 x 24.9 cm)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "\"Shadow Figures of a Lantern and a Hawk\"",
   "id": "http://api.artsmia.org/objects/65034",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Hiroshige ll hitsu",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.204                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.204"
 }

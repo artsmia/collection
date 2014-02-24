@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Photograph by Robert Capa%2C %26copy%3BCornell Capa",
+  "image_copyright": "Photograph by Robert Capa%2C %26Acirc%3B%26copy%3BCornell Capa",
   "life_date": "American (born Hungary), 1913 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Capa",
   "dated": "1950",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Mark; Inscription ",
   "text": "",
   "description": "black and white photograph of little girl crying in front of tent #261 October/November 1950",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "98.115                                    ",
-  "artist": "Robert Capa"
+  "accession_number": "98.115"
 }

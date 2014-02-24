@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate George Segal %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate George Segal %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1924-2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Segal",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Inscriptions\r\n\r\nsee Signed\r\n\r\n Signed in black ink, LR: [G. Segal]",
   "text": "Part of a multi-artist portfolio project, George Segal's 45 RPM vinyl record and sleeve documents the artist's personal memories of the influential avant-garde artist Marcel Duchamp, who died in 1968. Segal's admiration for Duchamp was returned by the older artist, who observed that \"With Segal, it's not a matter of the found object, it's the chosen object.\" ",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.79.146.20                               ",
-  "artist": "George Segal"
+  "accession_number": "P.79.146.20"
 }

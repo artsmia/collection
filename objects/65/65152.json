@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Ruth Bernhard Trust %28Mary Ann Helmholtz and Jane Totten%2C Co-Trustees%29%2C San Francisco%2C CA %2F All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Ruth Bernhard Trust %28Mary Ann Helmholtz and Jane Totten%2C Co-Trustees%29%2C San Francisco%2C CA %2F All Rights Reserved",
   "life_date": "American (born Germany), 1905 - 2006",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ruth Bernhard",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date on mount to LR of sheet, in pencil: [Ruth Bernhard",
   "text": "",
   "description": "compacted or melted metal teapot",
+  "provenance": "",
   "creditline": "Gift of funds from Pamela and Mark Friedland",
-  "accession_number": "2003.17.8                                 ",
-  "artist": "Ruth Bernhard"
+  "accession_number": "2003.17.8"
 }

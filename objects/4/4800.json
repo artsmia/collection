@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "Bill Brandt %26copy%3BBill Brandt Archive Ltd.",
+  "image_copyright": "Bill Brandt %26Acirc%3B%26copy%3B Bill Brandt Archive Ltd",
   "life_date": "British, 1904 - 1983",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Bill Brandt",
   "dated": "1966",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.15.2                                   ",
-  "artist": "Bill Brandt"
+  "accession_number": "95.15.2"
 }

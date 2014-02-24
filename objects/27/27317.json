@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHerb Snitzer",
+  "image_copyright": "%26Acirc%3B%26copy%3BHerb Snitzer",
   "life_date": "American, born 1932",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Herb Snitzer",
   "dated": "c. 1961",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.27                                 ",
-  "artist": "Herb Snitzer"
+  "accession_number": "91.123.27"
 }

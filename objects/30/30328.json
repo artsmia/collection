@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": "Akan",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Brass",
   "title": "Goldweight [Chair]",
   "id": "http://api.artsmia.org/objects/30328",
-  "room": "G240",
+  "room": "G254",
   "style": "19th-20th century",
   "marks": "Tag ",
   "text": "",
   "description": "Three balls at top of seat back",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "98.1.51                                   ",
-  "artist": ""
+  "accession_number": "98.1.51"
 }

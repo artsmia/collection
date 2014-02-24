@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1985]",
   "text": "",
   "description": "police car in foreground; group of policemen walking toward UL corner in front of a Camel Lights billboard; buildings in background",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.39                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.39"
 }

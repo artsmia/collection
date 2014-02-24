@@ -5,6 +5,7 @@
   "life_date": "Swiss, 1930 - 1985",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "André Thomkins",
   "dated": "1979",
   "culture": null,
   "country": "Switzerland",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/32112",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature; Date\r\nsee Signed LR in graphite: [André Thomkins 1979]",
   "text": "",
   "description": "Portfolio with 12 color lithographs, title page, ink drawing and cover print. See: P.99.6.1.1-12",
+  "provenance": "",
   "creditline": "Gift of The Saul P. Steinberg Collection",
-  "accession_number": "99.37.1                                   ",
-  "artist": "André Thomkins"
+  "accession_number": "99.37.1"
 }

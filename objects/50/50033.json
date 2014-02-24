@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1897",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Etching and aquatint",
   "title": "Weberzug (March of the Weavers)",
   "id": "http://api.artsmia.org/objects/50033",
-  "room": "G315",
+  "room": "Not on View",
   "style": "19th century",
   "marks": " ",
   "text": "In early 1893, Kollwitz attended a private performance of Gerhart Hauptmann's play \"The Weavers\" in Berlin. The play was based on a historical uprising of Silesian textile workers in 1844, in which a group of workers decide their lot is intolerable and rally at the mansion of their employer. He calls in the military and in the upheaval that results, a stray bullet kills an old man who had opposed the uprising. There is no easy or happy conclusion, and the play ends on this note. By basing her graphic cycle on this infamous story, Kollwitz established herself as an artist concerned with the downtrodden. The six images of this cycle confront the difficult themes of poverty, infant mortality, violent rebellion, and retaliatory slaughter. They were not intended to illustrate the play, but rather to create a parallel and independent visual text so that even those unfamiliar with the play could understand the continual struggle of the worker. ",
   "description": "",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.366",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "P.366"
 }

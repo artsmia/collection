@@ -1,16 +1,17 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "German, 1902 - 1975",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Hans Bellmer",
   "dated": "1965",
   "culture": null,
   "country": "France",
   "continent": "Europe",
   "dimension": "9 1/2 x 7 7/8 in. (24.13 x 20 cm)",
-  "medium": "",
+  "medium": null,
   "title": "Feuilles Eparses",
   "id": "http://api.artsmia.org/objects/80546",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark\r\nSigned in pencil by eleven of the ",
   "text": "",
   "description": "binding: paper dustcover, gray cardboard cover guard and slip case; type: louis Broder (typography); Fequet et Baudier (text)",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.83.11.11                                ",
-  "artist": "Hans Bellmer"
+  "accession_number": "B.83.11.11"
 }

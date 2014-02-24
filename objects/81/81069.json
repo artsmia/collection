@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
   "life_date": "American (born Germany), 1893 - 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grosz",
   "dated": "1932 (printed 1977)",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "81.41.6                                   ",
-  "artist": "George Grosz"
+  "accession_number": "81.41.6"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th century",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Fresco",
   "title": "Flying Apsaras",
   "id": "http://api.artsmia.org/objects/17458",
-  "room": "G200",
+  "room": "Not on View",
   "style": "12th century",
   "marks": " ",
   "text": "",
   "description": "Flying Apsaras, right arm outstretched, left holds a plate of flowers, left leg pendant, right knee flexed.",
+  "provenance": "",
   "creditline": "Gift of C.T. Loo, Inc.",
-  "accession_number": "50.41.2                                   ",
-  "artist": ""
+  "accession_number": "50.41.2"
 }

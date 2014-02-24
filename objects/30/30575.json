@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Brett Weston Archive%2C L.L.C.",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Brett Weston Archive%2C L.L.C.",
   "life_date": "American, 1911 - 1993",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Brett Weston",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition front below print",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.4",
-  "artist": "Brett Weston"
+  "accession_number": "98.144.4"
 }

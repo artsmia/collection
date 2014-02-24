@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1949",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Eunuch of the Imperial Court of the Last Dynasty, Peking",
   "id": "http://api.artsmia.org/objects/10640",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "wrinkled face man in an over sized robe standing in front of a receding wall",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.6.12                                   ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "95.6.12"
 }

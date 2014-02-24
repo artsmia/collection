@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "2-1/4 x 1-11/16 x 2 in. (5.7 x 4.3 x 5.1 cm)",
-  "medium": null,
+  "medium": "Cloisonné",
   "title": "Hexagonal Covered Box",
   "id": "http://api.artsmia.org/objects/29600",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Cloisonne hexagon-shaped covered box; blue ground, bird above two blooming flowers repeated on each panel; light blue interior, gold detailing",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Howard P. Clarke",
-  "accession_number": "97.172.4a,b                               ",
-  "artist": ""
+  "accession_number": "97.172.4a,b"
 }

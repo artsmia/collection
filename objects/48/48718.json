@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Patrick Heron %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C UK",
+  "image_copyright": "%26Acirc%3B%26copy%3B Patrick Heron %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C UK",
   "life_date": "British, born 1920",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Patrick Heron",
   "dated": "20th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Ray Harrison, Jr.",
-  "accession_number": "P.80.70                                   ",
-  "artist": "Patrick Heron"
+  "accession_number": "P.80.70"
 }

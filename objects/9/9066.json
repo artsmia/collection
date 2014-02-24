@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Russian, 1866-1944",
   "nationality": "Russian",
   "role": "Artist",
+  "artist": "Vassily Kandinsky",
   "dated": "1922",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Wassily Kandinsky's woodcut is one of 12 prints: 4 woodcuts (2 in color); 4 drypoints and 4 color lithographs from his Small Worlds (Kleine Welten) portfolio, published in 1922. Each of the prints was signed by the artist, individually matted and placed in a yellow portfolio embossed with an abstract design; it was placed in a cardboard box bearing a paper label.",
   "description": "",
+  "provenance": "",
   "creditline": "The David Draper Dayton Fund and Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.96.12",
-  "artist": "Vassily Kandinsky"
+  "accession_number": "P.96.12"
 }

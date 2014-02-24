@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "Italy",
   "continent": null,
   "dimension": "54 x 14 3/8 in. (137.16 x 36.5 cm)",
-  "medium": null,
+  "medium": "Silk; appliqué, embroidery",
   "title": "Valance",
   "id": "http://api.artsmia.org/objects/13999",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Applications of purple, green and yellow on a peach colored background.  Whole application set on a piece of yellow silk with fringe and bands of yellow.",
+  "provenance": "",
   "creditline": "Gift of Countess Phelps Resse",
-  "accession_number": "21.468                                    ",
-  "artist": ""
+  "accession_number": "21.468"
 }

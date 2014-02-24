@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1867-1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Lloyd Wright",
   "dated": "c. 1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "silk and rayon(fortisan), three pieced panels, silk-colored background with circle, ovoid and line design elements silk screened in gray, white, tan, black and gold, unlined, but pleats and pulls intact  Design 104 from the Taliesin Line, c. 1954",
+  "provenance": "",
   "creditline": "Gift of Henry and Frieda Neils",
-  "accession_number": "92.159.3",
-  "artist": "Frank Lloyd Wright"
+  "accession_number": "92.159.3"
 }

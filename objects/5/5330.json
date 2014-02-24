@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gary Hallman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gary Hallman",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gary L. Hallman",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature ",
   "text": "",
   "description": "ice cream melting on clear wall",
+  "provenance": "",
   "creditline": "Gift of Kitzenberg Family Dental Group",
-  "accession_number": "97.184.14",
-  "artist": "Gary L. Hallman"
+  "accession_number": "97.184.14"
 }

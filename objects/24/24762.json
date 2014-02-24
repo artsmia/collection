@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Eames Office",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eames Office",
   "life_date": "American, 1907-1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Eames",
   "dated": "1946-1949",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "laminated birch; molded plywood w/rubber shocks",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "85.40",
-  "artist": "Charles Eames"
+  "accession_number": "85.40"
 }

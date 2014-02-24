@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Jennifer Danos",
   "dated": "2011",
   "culture": null,
   "country": "United States",
   "continent": "North America",
-  "dimension": null,
+  "dimension": "10 3/4 × 9 1/4 × 5/8 in. (27.31 × 23.5 × 1.59 cm) (book, closed)",
   "medium": "Archival pigment ink prints",
   "title": "Location, Volume 4",
   "id": "http://api.artsmia.org/objects/119079",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "a (book):  grey cover; 3 folded black paper constructions affixed to pages with black photo corners; dark polygon shapes--blue and red printed over each other, slighty off center; 3 pages of text; other abstract imagery; one page intentionally torn at top and bottom; b (paper construction):  loose artwork in back of book:  \\\"Performering\\\" by Jennifer Danos and John Fleischer; folded and cut black and white striped paper forming oblong geometric shape with points on long sides and opening at center; black stitching at center of plastic sleeve affixes paper construction inside plastic; separate label with print with artists\\' signatures in pencil; numbered 5/100",
-  "creditline": null,
-  "accession_number": "L2014.16.1.4a,b",
-  "artist": "Jennifer Danos"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "L2014.16.1.4a,b"
 }

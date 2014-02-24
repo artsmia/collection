@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Tom Arndt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Arndt",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas F. Arndt",
   "dated": "1984",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date; Edition\r\n ",
   "text": "",
   "description": "Two people dressed as nuns flanking man in a Ronald Reagan mask holding sign \\'The Gospel According to Reagan by James P. Friel\\'",
+  "provenance": "",
   "creditline": "Gift of David L. and Mary M. D. Parker",
-  "accession_number": "99.96.5",
-  "artist": "Thomas F. Arndt"
+  "accession_number": "99.96.5"
 }

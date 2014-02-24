@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1877-1953",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Raoul Dufy",
   "dated": "1934",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [Raoul Dufy], in graphite, bottom right of center",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Nathan Cummings Art Foundation",
-  "accession_number": "58.22",
-  "artist": "Raoul Dufy"
+  "accession_number": "58.22"
 }

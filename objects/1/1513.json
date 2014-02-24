@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Arshile Gorky %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Arshile Gorky %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born Armenia), 1904 - 1948",
   "nationality": "American (born Armenia)",
   "role": "Artist",
+  "artist": "Arshile Gorky",
   "dated": "1936-1939",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature (in black and gray): [a.gorki]",
   "text": "",
   "description": "Abstraction.  63.14.1 ter is on P49B MS(old frame)",
+  "provenance": "",
   "creditline": "The Francisca S. Winston Fund",
-  "accession_number": "63.14.1                                   ",
-  "artist": "Arshile Gorky"
+  "accession_number": "63.14.1"
 }

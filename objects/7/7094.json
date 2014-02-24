@@ -5,6 +5,7 @@
   "life_date": "Austrian, born 1871",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Gisela Falke von Lilienstein",
   "dated": "c. 1902",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Covered tureen",
   "id": "http://api.artsmia.org/objects/7094",
   "room": "G379",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": "Mark ",
   "text": "",
   "description": "cut glass bowl with brass lid and handles",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.22a,b",
-  "artist": "Gisela Falke von Lilienstein"
+  "accession_number": "98.276.22a,b"
 }

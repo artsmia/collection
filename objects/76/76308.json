@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1892 - 1971",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marcel Gromaire",
   "dated": "1952",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and inscription\r\nat bottom edge, in penc ",
   "text": "",
   "description": "cubist style; woman at R and three men seated around a table with a bowl, a plate and three glasses",
+  "provenance": "",
   "creditline": "Gift of Mary and Robyn Campbell",
-  "accession_number": "2003.156.11",
-  "artist": "Marcel Gromaire"
+  "accession_number": "2003.156.11"
 }

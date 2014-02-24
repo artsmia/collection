@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tekur Suryanarayan",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tekur Suryanarayan",
   "life_date": "Indian, born 1924",
   "nationality": "Indian",
   "role": "Artist",
+  "artist": "Tekur Suryanarayan",
   "dated": "20th century",
   "culture": null,
   "country": "India",
@@ -18,7 +19,7 @@
   "marks": "Title ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.10",
-  "artist": "Tekur Suryanarayan"
+  "accession_number": "91.123.10"
 }

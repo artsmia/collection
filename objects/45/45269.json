@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "second quarter of 20th century",
   "culture": "Sakalava",
   "country": "Madagascar",
@@ -16,9 +17,9 @@
   "room": "G254",
   "style": "20th century",
   "marks": " ",
-  "text": "Praying to God five times a day, Muslims make use of their 'portable mosques''prayer mats like this raffia version from the Sakalava people of Madagascar, the large island in the Indian Ocean off the coast of East Africa. Its design repeats the outline of the Arabian-inspired mihrab, the niche in mosques indicating the direction of Mecca, while its ikat tie-dye technique originated in Indonesia.",
+  "text": "Praying to God five times a day, Muslims make use of their “portable mosques”—prayer mats like this raffia version from the Sakalava people of Madagascar, the large island in the Indian Ocean off the coast of East Africa. Its design repeats the outline of the Arabian-inspired mihrab, the niche in mosques indicating the direction of Mecca, while its ikat tie-dye technique originated in Indonesia.",
   "description": "tan, brown and grey pattern of stripes and 3 stepped arrowheads; short fringe on one side, long twisted and tied fringe on opposite side",
+  "provenance": "",
   "creditline": "Gift of Nobuko Kajitani",
-  "accession_number": "2001.59",
-  "artist": "Artist Unknown"
+  "accession_number": "2001.59"
 }

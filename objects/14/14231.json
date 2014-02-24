@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Edging of silk blonde: hexagonal mesh of light fabric with outline threads of thicker silk forming a pattern.",
-  "creditline": null,
-  "accession_number": "25.412                                    ",
-  "artist": ""
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "25.412"
 }

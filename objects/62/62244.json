@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1951",
   "culture": null,
   "country": "Switzerland",
@@ -13,12 +14,12 @@
   "medium": "gelatin silver print",
   "title": "Sleeping Monk in the Ryoanji Temple, Kyoto, Japan",
   "id": "http://api.artsmia.org/objects/62244",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Inscription\r\n\r\nat lower edge on back, in black: [( ",
   "text": "",
   "description": "hunched figure seated on a sunny porch; view from interior; small garden behind porch",
+  "provenance": "",
   "creditline": "Gift of funds from Alfred and Ingrid Lenz Harrison",
-  "accession_number": "2002.108.33                               ",
-  "artist": "Werner Bischof"
+  "accession_number": "2002.108.33"
 }

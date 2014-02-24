@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart Nielsen",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart Nielsen",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart Nielsen",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, title, date, edition and chop below image, in pencil: [7/18 East Nielsen 02]",
   "text": "",
   "description": "diamond-shaped cluster of blue arcs surrounded by radiating wavy lines; off-white paper",
+  "provenance": "",
   "creditline": "Gift of John E. Andrus III",
-  "accession_number": "2003.114.2",
-  "artist": "Stuart Nielsen"
+  "accession_number": "2003.114.2"
 }

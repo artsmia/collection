@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Adolphe Marie Beaufr%26egrave%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Adolphe Marie Beaufr%26Atilde%3B%26uml%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1876 - 1960",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Adolphe Marie Timothee Beaufrère",
   "dated": "1926",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and mark signed in pencil, lower right",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
-  "accession_number": "P.58.219",
-  "artist": "Adolphe Marie Timothee Beaufrère"
+  "accession_number": "P.58.219"
 }

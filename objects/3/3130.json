@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Beth R. Brenner",
   "life_date": "American, born 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beth R. Brenner",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lee A. Kitzenberg",
-  "accession_number": "83.10.13.2                                ",
-  "artist": "Beth R. Brenner"
+  "accession_number": "83.10.13.2"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Holmgren",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Holmgren",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of the Minneapolis Institute of Arts",
-  "accession_number": "81.67.3                                   ",
-  "artist": "Robert Holmgren"
+  "accession_number": "81.67.3"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
   "life_date": "Norwegian, 1863 - 1944",
   "nationality": "Norwegian",
   "role": "Artist",
+  "artist": "Edvard Munch",
   "dated": "1896",
   "culture": null,
   "country": "Norway",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nsee Signed Signed in pencil: [Edv Munch]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton, 1965",
-  "accession_number": "P.13,396",
-  "artist": "Edvard Munch"
+  "accession_number": "P.13,396"
 }

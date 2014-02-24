@@ -5,6 +5,7 @@
   "life_date": "American, 1870 - 1966",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Maxfield Parrish",
   "dated": "1908",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Dream Castle in the Sky",
   "id": "http://api.artsmia.org/objects/1851",
-  "room": "Not on View",
+  "room": "G334",
   "style": "20th century",
   "marks": "Signature and Date LLC in brown: [Maxfield Parrish 1908.]",
   "text": "James J. Storrow commissioned this painting for the main hall of his home in Lincoln, Massaschusetts in 1908.",
   "description": "Landscape.",
+  "provenance": "",
   "creditline": "The Putnam Dana McMillan Fund",
-  "accession_number": "71.25                                     ",
-  "artist": "Maxfield Parrish"
+  "accession_number": "71.25"
 }

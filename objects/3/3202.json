@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert L. McFerran",
   "life_date": "American, about 1895-1957",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert L. McFerran",
   "dated": "c. 1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Barbara L. Lambert",
-  "accession_number": "83.55                                     ",
-  "artist": "Robert L. McFerran"
+  "accession_number": "83.55"
 }

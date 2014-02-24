@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJoan Moss",
+  "image_copyright": "%26Acirc%3B%26copy%3BJoan Moss",
   "life_date": "American (born Canada), born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joan Moss",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Joan Moss",
-  "accession_number": "82.128.2                                  ",
-  "artist": "Joan Moss"
+  "accession_number": "82.128.2"
 }

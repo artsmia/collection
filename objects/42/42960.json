@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British, 1894 - 1982",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Ben Nicholson",
   "dated": "1965",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Minneapolis Foundation",
-  "accession_number": "P.90.28.5                                 ",
-  "artist": "Ben Nicholson"
+  "accession_number": "P.90.28.5"
 }

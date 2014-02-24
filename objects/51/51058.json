@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Ed Ruscha",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ed Ruscha",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Ruscha",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition Signed in ink on edition page: [Ed Ruscha]",
   "text": "",
   "description": "Portfolio of 75 mixed media works on paper, title sheet, edition sheet, index sheet, housed in a silk-lined black clamshell portfolio box with title printed in silver on cover and spine.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
-  "accession_number": "P.71.169.1",
-  "artist": "Edward Ruscha"
+  "accession_number": "P.71.169.1"
 }

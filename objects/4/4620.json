@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Christa Armstrong",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christa Armstrong",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christa Armstrong",
   "dated": "20th century",
   "culture": null,
   "country": "India (?)",
@@ -18,7 +19,7 @@
   "marks": "marks ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.53",
-  "artist": "Christa Armstrong"
+  "accession_number": "93.70.53"
 }

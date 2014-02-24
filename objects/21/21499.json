@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BPeter Martin",
+  "image_copyright": "%26Acirc%3B%26copy%3BPeter Martin",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Peter Martin",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David Draper Dayton Fund",
-  "accession_number": "77.69.2                                   ",
-  "artist": "Peter Martin"
+  "accession_number": "77.69.2"
 }

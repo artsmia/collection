@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "France",
   "continent": "Europe",
   "dimension": "10 1/2 x 6 x 4 3/4 in. (26.67 x 15.24 x 12.07 cm)",
-  "medium": null,
+  "medium": "Alabaster and bronze doré",
   "title": "Flower vase with insert, one of a pair",
   "id": "http://api.artsmia.org/objects/19457",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "garniture, Empire",
+  "provenance": "",
   "creditline": "Bequest of Miss Tessie Jones in memory of Herschel V. Jones",
-  "accession_number": "68.41.20.4a,b                             ",
-  "artist": ""
+  "accession_number": "68.41.20.4a,b"
 }

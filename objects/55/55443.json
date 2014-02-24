@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "June 12, 1934",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Numbered in red crayon, LL: [3/3] in red crayon, LR:[ Picasso]; in plate: [Picasso]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.12,553",
-  "artist": "Pablo Picasso"
+  "accession_number": "P.12,553"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Reproduced with permission of the Minor White Archive%2C Princeton University Art Museum. Copyright %26copy%3B Trustees of Princeton University.",
+  "image_copyright": "Reproduced with permission of the Minor White Archive%2C Princeton University Art Museum. Copyright %26Acirc%3B%26copy%3B Trustees of Princeton University.",
   "life_date": "American, 1908 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Minor White",
   "dated": "October 12, 1947",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription; Number\r\nin pencil, LLC on  in pencil, LLC on back of mount: [Minor White]",
   "text": "",
   "description": "large rocks in water, seen from above, with waves",
+  "provenance": "",
   "creditline": "The McClurg Photography Purchase Fund",
-  "accession_number": "2001.180.11",
-  "artist": "Minor White"
+  "accession_number": "2001.180.11"
 }

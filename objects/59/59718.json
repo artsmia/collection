@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1990]",
   "text": "",
   "description": "White House across street at R; man on stilts, with long striped pants covering then, wearing a false white beard and carrying a horn; 2 men in front, seen from back, one seated and one standing",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.46                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.46"
 }

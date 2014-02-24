@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Micha Bar Am%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Micha Bar Am%2FMagnum Photos",
   "life_date": "Israeli, born 1930",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Micha Bar-Am",
   "dated": "1973",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Edition; Signature in black ink, below image: [238/300 Micha Bar-Am]",
   "text": "",
   "description": "three soldiers in helmets huddled together at right; other soldiers lying down in foreground and at left",
+  "provenance": "",
   "creditline": "Gift of Elaine Dines Cox and Kris Cox",
-  "accession_number": "98.265.6.6",
-  "artist": "Micha Bar-Am"
+  "accession_number": "98.265.6.6"
 }

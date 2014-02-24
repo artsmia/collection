@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "17th-18th century",
   "culture": null,
   "country": "Japan",
@@ -17,8 +18,8 @@
   "style": "17th-18th century",
   "marks": " ",
   "text": "",
-  "description": "Kakemono.",
+  "description": "",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "81.2.1                                    ",
-  "artist": ""
+  "accession_number": "81.2.1"
 }

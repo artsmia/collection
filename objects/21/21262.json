@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Frank Gohlke",
+  "image_copyright": "%26Acirc%3B%26copy%3B Frank Gohlke",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank W. Gohlke",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Forty percent of the food produced in the United States each year goes to waste. About one fourth of the fresh water available is used to grow that food. Improved transportation and raised consciousness of waste could save a lot of water, or feed a lot of people.",
   "description": "",
+  "provenance": "",
   "creditline": "The National Endowment for the Arts Purchase Grant",
-  "accession_number": "76.86.6",
-  "artist": "Frank W. Gohlke"
+  "accession_number": "76.86.6"
 }

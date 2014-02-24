@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Esther Bubley Estate Collection",
+  "image_copyright": "%26Acirc%3B%26copy%3B Esther Bubley Estate Collection",
   "life_date": "American, 1921-1998",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Esther Bubley",
   "dated": "c. 1945",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "89.24.1",
-  "artist": "Esther Bubley"
+  "accession_number": "89.24.1"
 }

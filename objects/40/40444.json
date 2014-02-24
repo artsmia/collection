@@ -5,6 +5,7 @@
   "life_date": "Austrian, 1880-1949",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Otto Prutscher",
   "dated": "c. 1912",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Wine glass",
   "id": "http://api.artsmia.org/objects/40444",
   "room": "Not on View",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": " ",
   "text": "",
   "description": "Clear crystal overlaid with cobalt blue (cut out to expose the clear)",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.171",
-  "artist": "Otto Prutscher"
+  "accession_number": "98.276.171"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James Rosenquist",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "20th century",
   "marks": " in pencil, LRC",
-  "text": "Rosenquist was strongly influenced by the large scale, bright colors, and simple forms of outdoor billboard advertising. In this early color lithograph, he depicts a severed telephone cable, a subject that apparently fascinated him and may have functioned as a metaphor for failed communication. When he was asked about his billboard work, Rosenquist replied that his intention is \"'to get as far away from nature as possible.\" An oil painting of the same subject (dated 1970) is in the permanent collection of the Walker Art Center.",
+  "text": "Rosenquist was strongly influenced by the large scale, bright colors, and simple forms of outdoor billboard advertising. In this early color lithograph, he depicts a severed telephone cable, a subject that apparently fascinated him and may have functioned as a metaphor for failed communication. When he was asked about his billboard work, Rosenquist replied that his intention is \"…to get as far away from nature as possible.\" An oil painting of the same subject (dated 1970) is in the permanent collection of the Walker Art Center.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Target Corporation",
-  "accession_number": "2001.293.26                               ",
-  "artist": "James Rosenquist"
+  "accession_number": "2001.293.26"
 }

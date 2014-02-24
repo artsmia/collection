@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1798 - 1863",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Eugène Delacroix",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "hovering flowering stems of various kinds and colors against a grey ground",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Donald C. Dayton",
-  "accession_number": "2003.70                                   ",
-  "artist": "Eugène Delacroix"
+  "accession_number": "2003.70"
 }

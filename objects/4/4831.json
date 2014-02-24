@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B1970 The Imogen Cunningham Trust",
+  "image_copyright": "%26Acirc%3B%26copy%3B1970 The Imogen Cunningham Trust",
   "life_date": "American, 1883-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Imogen Cunningham",
   "dated": "1928",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "close-up front half of a seated woman\\'s torso",
+  "provenance": "",
   "creditline": "Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.44                                     ",
-  "artist": "Imogen Cunningham"
+  "accession_number": "95.44"
 }

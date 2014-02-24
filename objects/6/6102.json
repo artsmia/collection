@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Mark Beard",
+  "image_copyright": "%26Acirc%3B%26copy%3B Mark Beard",
   "life_date": "American, born 1956",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mark Beard",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -17,8 +18,8 @@
   "style": "20th century",
   "marks": "Signature and Edition\r\non colophon ",
   "text": "",
-  "description": null,
+  "description": "Binding: turquoise silk; title stamped in orange, bound by Gérard Charrière; endpapers: pale-green hand-made paper (laid); deckle-edge on one side",
+  "provenance": "",
   "creditline": "Gift of funds from the National Endowment for the Arts and the Print and Drawing Council",
-  "accession_number": "B.89.6",
-  "artist": "Mark Beard"
+  "accession_number": "B.89.6"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B JoAnn Verburg",
+  "image_copyright": "%26Acirc%3B%26copy%3B JoAnn Verburg",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "JoAnn Verburg",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "85.23.7                                   ",
-  "artist": "JoAnn Verburg"
+  "accession_number": "85.23.7"
 }

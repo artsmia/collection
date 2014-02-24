@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Andr%26Atilde%3B%26copy%3B Kert%26Atilde%3B%26copy%3Bsz",
   "life_date": "American (born Austria-Hungary), 1894 - 1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "André Kertész",
   "dated": "1926",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/37277",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Date, Inscription and Stamp on back, in pencil: [Paris / 1926 / A. Kertész], [",
   "text": "",
   "description": "two men walking by river at left, one man with cane facing away from camera at right",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.151                               ",
-  "artist": "André Kertész"
+  "accession_number": "2007.35.151"
 }

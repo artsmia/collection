@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th century BCE",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "The graceful shape of a Hu flask is accentuated by the bold and forceful handle terminating in heavy animal masks with bottle horns. Springing from the space between the horns is a thick flange, deeply scored, that out-lines the sweep of the handle up and over the body of the vessel. The handle is attached to the domed and collarless lid by a curled-up gaping dragon, with a double row of scales, whose body encircles the conocal knob of the lid. The vessel is sparingly decorated with hands of pointed spirals on the lid, neck, and foot. Beneath the spirals on the neck belt is a band of dragonized t\\'ao-t\\'ieh in low relief. Patina blue-green with marks of mat wrapping.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.26a,b                               ",
-  "artist": ""
+  "accession_number": "50.46.26a,b"
 }

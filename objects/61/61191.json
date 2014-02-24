@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
   "life_date": "American (born Spain), 1896-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Pierre Daura",
   "dated": "c. 1947-1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\\"What is in a painting?\\\", in black, on back \\\"Daura\\\", in black, LRC and on back",
   "text": "",
   "description": "abstracted image in pinks and turquoise with green and black; angels at top; female figures with halos at bottom",
+  "provenance": "",
   "creditline": "Gift of Martha R. Daura",
-  "accession_number": "2002.29.20",
-  "artist": "Pierre Daura"
+  "accession_number": "2002.29.20"
 }

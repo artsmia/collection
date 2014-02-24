@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1938",
   "culture": null,
   "country": "Germany",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "20th century",
   "marks": " ",
-  "text": "Kollwitz created numerous self-portraits throughout her career, including this one completed when she was 71 years old. In the last two decades of her life, the artist turned increasingly to the medium of lithography, which she uses here with great ease.  This particular print was not signed by the artist, but by her son Hans Kollwitz. He annotated the work, \"from the estate of K'the Kollwitz.\"",
+  "text": "Kollwitz created numerous self-portraits throughout her career, including this one completed when she was 71 years old. In the last two decades of her life, the artist turned increasingly to the medium of lithography, which she uses here with great ease.  This particular print was not signed by the artist, but by her son Hans Kollwitz. He annotated the work, \"from the estate of KŠthe Kollwitz.\"",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marion H. and John E. Andrus III",
-  "accession_number": "P.93.25",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "P.93.25"
 }

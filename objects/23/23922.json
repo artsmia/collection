@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jay N. Jaffee",
   "life_date": "American, 1921-1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jay N. Jaffee",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dr. Lee A. Kitzenberg",
-  "accession_number": "83.10.7                                   ",
-  "artist": "Jay N. Jaffee"
+  "accession_number": "83.10.7"
 }

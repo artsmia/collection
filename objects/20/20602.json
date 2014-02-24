@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Carmen Quesada-Burke",
   "life_date": "American, 1947 - 2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Carmen Quesada-Burke",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "previously listed as a gelatin silver print",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "74.83.3                                   ",
-  "artist": "Carmen Quesada-Burke"
+  "accession_number": "74.83.3"
 }

@@ -5,6 +5,7 @@
   "life_date": "Austrian (born Czechoslovakia), 1870-1956",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Josef Hoffmann",
   "dated": "c. 1924",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Centerpiece bowl",
   "id": "http://api.artsmia.org/objects/7095",
   "room": "G379",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": "Marks ",
   "text": "",
   "description": "hammered brass",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.25",
-  "artist": "Josef Hoffmann"
+  "accession_number": "98.276.25"
 }

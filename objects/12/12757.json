@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Roger Mertin",
   "life_date": "American, 1942 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roger Mertin",
   "dated": "1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Title; Signature; Date ",
   "text": "",
   "description": "nude lying facedown on a bare mattress, with long mirrors on her R and L sides and a window (?) at her head",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2000.114.1                                ",
-  "artist": "Roger Mertin"
+  "accession_number": "2000.114.1"
 }

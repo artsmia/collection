@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Copyright Charles Biederman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Copyright Charles Biederman",
   "life_date": "American, 1906 - 2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Biederman",
   "dated": "1956-1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Anna Biederman Brown",
-  "accession_number": "2003.107",
-  "artist": "Charles Biederman"
+  "accession_number": "2003.107"
 }

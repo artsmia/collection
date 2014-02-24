@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, (born Japan) 1886 - 1968",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Tsugouharu Foujita",
   "dated": "1929",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature signed on image, twice in Roman script and once in",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Friends of the Institute, 1931",
-  "accession_number": "P.11,454",
-  "artist": "Tsugouharu Foujita"
+  "accession_number": "P.11,454"
 }

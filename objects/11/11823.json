@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Atelier Robert Doisneau",
+  "image_copyright": "%26Acirc%3B%26copy%3B Atelier Robert Doisneau",
   "life_date": "French, 1912 - 1994",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Doisneau",
   "dated": "1946 (printed 1979)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ivor Massey",
-  "accession_number": "83.155.10",
-  "artist": "Robert Doisneau"
+  "accession_number": "83.155.10"
 }

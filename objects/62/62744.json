@@ -5,6 +5,7 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "ca. 1830-1831",
   "culture": null,
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/62744",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " [??????] {zen Hokusai Iitsu hitsu}",
+  "marks": " [前北斎為一筆] {zen Hokusai Iitsu hitsu}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill Jr.",
-  "accession_number": "P.75.51.266",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "P.75.51.266"
 }

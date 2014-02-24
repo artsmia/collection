@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "1892",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature LL, illegible",
   "text": "",
   "description": "Illegible signature lower left and date (1892) (possibly Scandinavian ?).",
+  "provenance": "",
   "creditline": "Gift of Theodor Menzel",
-  "accession_number": "84.92                                     ",
-  "artist": "Artist Unknown"
+  "accession_number": "84.92"
 }

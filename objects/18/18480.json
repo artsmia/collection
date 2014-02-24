@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1580-945 BCE",
   "culture": "Egyptian",
   "country": "Egypt",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Alice Best Rogers",
-  "accession_number": "62.81.13",
-  "artist": ""
+  "accession_number": "62.81.13"
 }

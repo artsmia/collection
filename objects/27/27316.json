@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Hilmar Pabel",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Hilmar Pabel",
   "life_date": "German, 1910-2000",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Hilmar Pabel",
   "dated": "1964",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Title\r\nPhotographer\\'s stamp verso; titled v ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.35",
-  "artist": "Hilmar Pabel"
+  "accession_number": "91.123.35"
 }

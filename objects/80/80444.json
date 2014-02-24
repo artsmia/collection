@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Bullock Family Photography LLC",
   "life_date": "American, 1902 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wynn Bullock",
   "dated": "c. 1955",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Anonymous gift of funds",
-  "accession_number": "78.92.4                                   ",
-  "artist": "Wynn Bullock"
+  "accession_number": "78.92.4"
 }

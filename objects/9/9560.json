@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, (born Japan) 1886 - 1968",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Tsugouharu Foujita",
   "dated": "1933",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date [Foujita Mexico 1933], lower right",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Margaret B. Hawks",
-  "accession_number": "84.71",
-  "artist": "Tsugouharu Foujita"
+  "accession_number": "84.71"
 }

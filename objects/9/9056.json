@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "100 B.C.-A.D. 250",
   "culture": "Colima",
   "country": "Mexico",
@@ -13,12 +14,12 @@
   "medium": "Ceramic",
   "title": "Vessel",
   "id": "http://api.artsmia.org/objects/9056",
-  "room": "G107",
+  "room": "Not on View",
   "style": "1st century B.C.-A.D. 3rd century",
   "marks": " ",
   "text": "",
   "description": "standing turtle with a spout emanating from the PR side of its shell",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin Weinstein in memory of John O. McMeekin",
-  "accession_number": "95.101.1                                  ",
-  "artist": ""
+  "accession_number": "95.101.1"
 }

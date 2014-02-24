@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Ralph Gibson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ralph Gibson",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ralph Gibson",
   "dated": "c. 1973",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "88.72.11",
-  "artist": "Ralph Gibson"
+  "accession_number": "88.72.11"
 }

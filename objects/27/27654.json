@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate James VanDerZee",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate James VanDerZee",
   "life_date": "American, 1886 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James VanDerZee",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "standing woman in gypsy-style dress",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "91.164.2",
-  "artist": "James VanDerZee"
+  "accession_number": "91.164.2"
 }

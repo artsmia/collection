@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B 2013 Clare Calder%2C Estate Robert Sargent Austin",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2013 Clare Calder%2C Estate Robert Sargent Austin",
   "life_date": "British, 1895-1973",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Robert Sargent Austin",
   "dated": "1925",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated Signed and dated in pencil, lower margin: [Robert ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.74.18",
-  "artist": "Robert Sargent Austin"
+  "accession_number": "P.74.18"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Richard Hunt%2C C.M.%2C O.B.C.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Hunt%2C C.M.%2C O.B.C.",
   "life_date": "Canadian, born 1951",
   "nationality": "Canadian",
   "role": "Artist",
+  "artist": "Richard Hunt",
   "dated": "1986",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Kwa-Gulth Loon Design",
-  "accession_number": "P.88.44",
-  "artist": "Richard Hunt"
+  "accession_number": "P.88.44"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1642-1711",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henry Bonnart II",
   "dated": "c. 1700",
   "culture": null,
   "country": "Jingdezhen, China",
@@ -13,12 +14,12 @@
   "medium": "Porcelain",
   "title": "\"The Concert\" dish",
   "id": "http://api.artsmia.org/objects/6462",
-  "room": "G180",
+  "room": "Not on View",
   "style": "17th-18th century",
   "marks": " ",
   "text": "",
   "description": "blue and white plate; European lady musician accompanied by two gentlemen in outdoor setting; border of eight petal-shaped landscape panels",
+  "provenance": "",
   "creditline": "Gift of Leo and Doris Hodroff",
-  "accession_number": "2005.159.4                                ",
-  "artist": "Henry Bonnart II"
+  "accession_number": "2005.159.4"
 }

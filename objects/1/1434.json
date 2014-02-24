@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
+  "restricted": 1,
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "life_date": "Austrian, 1886 - 1980",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Oskar Kokoschka",
   "dated": "1933",
   "culture": null,
   "country": "Austria",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LL: [OK 1933]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of David Daniels",
-  "accession_number": "61.48                                     ",
-  "artist": "Oskar Kokoschka"
+  "accession_number": "61.48"
 }

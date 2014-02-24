@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1830",
   "culture": null,
   "country": "Germany",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Porcelain",
   "title": "Cup and saucer",
   "id": "http://api.artsmia.org/objects/18466",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "white and gold porcelain, painted with sprays of roses, highly decorated",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Robert Langdon Brooks from the collection of Caroline Langdon Brooks",
-  "accession_number": "61.39.5a,b                                ",
-  "artist": ""
+  "accession_number": "61.39.5a,b"
 }

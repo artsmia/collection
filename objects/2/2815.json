@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1760",
   "culture": null,
   "country": "India",
@@ -18,7 +19,7 @@
   "marks": "Verso: in pencil 7/5 ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ralph and Catherine Benkaim",
-  "accession_number": "81.116.1",
-  "artist": ""
+  "accession_number": "81.116.1"
 }

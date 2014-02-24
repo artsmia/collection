@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1883 - 1970",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Erich Heckel",
   "dated": "1919",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature in pencil: [Erich Heckel]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Thomas Bergen, 1967",
-  "accession_number": "P.13,889",
-  "artist": "Erich Heckel"
+  "accession_number": "P.13,889"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lee Bontecou",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lee Bontecou",
   "life_date": "American, born 1931",
   "nationality": null,
   "role": "Artist",
+  "artist": "Lee Bontecou",
   "dated": "1964",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Edition; Chop Mark\r\n\r\nsee Signed\r Signed and dated in pencil, LR: [Bontecou 64]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Francisca S. Winston Fund, by exchange",
-  "accession_number": "P.70.66",
-  "artist": "Lee Bontecou"
+  "accession_number": "P.70.66"
 }

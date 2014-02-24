@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "German, 1902 - 1975",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Hans Bellmer",
   "dated": "1920-1968",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.68.331                                  ",
-  "artist": "Hans Bellmer"
+  "accession_number": "P.68.331"
 }

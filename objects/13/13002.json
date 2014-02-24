@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Carlos M%26eacute%3Brida %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Carlos M%26Atilde%3B%26copy%3Brida %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "Mexican, 1891 - 1984",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Carlos Mérida",
   "dated": "1937",
   "culture": "Mexico",
   "country": "Mexico",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/13002",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature\r\n\r\nsee Signed in graphite, LR: [Carlos Mérida]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Terrence D. Curley in memory of Olga M. Waisanen",
-  "accession_number": "2000.259.1                                ",
-  "artist": "Carlos Mérida"
+  "accession_number": "2000.259.1"
 }

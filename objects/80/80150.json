@@ -1,14 +1,15 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "life_date": "Mexican, born 1934",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "José Luis Cuévas",
   "dated": "1984",
   "culture": null,
   "country": "Mexico",
-  "continent": "",
+  "continent": null,
   "dimension": "10 3/4 x 8 1/8 in. (27.31 x 20.64 cm)",
   "medium": "Color etchings, black and white etchings, aquatint; illustrations; letterpress",
   "title": "Metamorphosis",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition\r\n ",
   "text": "",
   "description": "binding: grey goatskin spine, gold-stamped spine label, brown-grey paste paper sides; endpapers: cream-white wove; slipcase: gray-brown paste paper over cardboard; type: 14 pt. American Monotype Deepene; 76 pp.",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.87.5.4                                  ",
-  "artist": "José Luis Cuévas"
+  "accession_number": "B.87.5.4"
 }

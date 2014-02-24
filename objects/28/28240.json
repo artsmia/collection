@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Tatsuo Kurihara",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tatsuo Kurihara",
   "life_date": "Japanese, born 1937",
   "nationality": null,
   "role": "Artist",
+  "artist": "Tatsuo Kurihara",
   "dated": "20th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.63",
-  "artist": "Tatsuo Kurihara"
+  "accession_number": "93.70.63"
 }

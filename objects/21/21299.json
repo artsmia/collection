@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st-3rd century",
   "culture": "Roman",
   "country": "Roman Empire",
-  "continent": "",
+  "continent": null,
   "dimension": "5 1/8 x 2 3/8 x 2 3/8 in. (13 x 6 x 6.03 cm)",
   "medium": "Blown glass",
   "title": "Vessel",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "vessel, pale green glass",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. I. D. Fink",
-  "accession_number": "76.73.46                                  ",
-  "artist": ""
+  "accession_number": "76.73.46"
 }

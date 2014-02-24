@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tony Berlant",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tony Berlant",
   "life_date": "American, born 1941",
   "nationality": "",
   "role": "Artist",
+  "artist": "Tony Berlant",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "house-shaped box decorated with fruit motif",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund, by exchange",
-  "accession_number": "98.138",
-  "artist": "Tony Berlant"
+  "accession_number": "98.138"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Richard Estes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Estes",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Estes",
   "dated": "1997",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "Unique set of 23 blocks.\r\nSet of woodblocks for \\'Study XIII-Theater\\'",
+  "provenance": "",
   "creditline": "Gift of Marlborough Graphics, New York",
-  "accession_number": "2000.187.2.1-23                           ",
-  "artist": "Richard Estes"
+  "accession_number": "2000.187.2.1-23"
 }

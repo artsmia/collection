@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Suzanne Caporael and Tandem Press",
+  "image_copyright": "%26Acirc%3B%26copy%3B Suzanne Caporael and Tandem Press",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Suzanne Caporael",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Purchased at the 1991 Print and Drawing Sale and Exhibition",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.91.13",
-  "artist": "Suzanne Caporael"
+  "accession_number": "P.91.13"
 }

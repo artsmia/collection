@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BKenneth Josephson %26amp%3B Rhona Hoffman Gallery%2C Chicago",
+  "image_copyright": "%26Acirc%3B%26copy%3BKenneth Josephson %26amp%3B Rhona Hoffman Gallery%2C Chicago",
   "life_date": "American, born 1932",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Kenneth Josephson",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
-  "accession_number": "76.64.10                                  ",
-  "artist": "Kenneth Josephson"
+  "accession_number": "76.64.10"
 }

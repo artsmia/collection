@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Duncan Hannah",
+  "image_copyright": "%26Acirc%3B%26copy%3B Duncan Hannah",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Duncan Hannah",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, inscribed, and chop mark. LR: [Duncan Hannah 91]\r\nLR: [Archive Proof]\r\n",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The Driscoll Art Accessions Endowment Fund",
-  "accession_number": "P.93.1.6",
-  "artist": "Duncan Hannah"
+  "accession_number": "P.93.1.6"
 }

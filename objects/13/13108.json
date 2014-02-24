@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Eva Zeisel",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Eva Zeisel",
   "life_date": "Hungarian, 1906-2011",
   "nationality": "Hungarian",
   "role": "Artist",
+  "artist": "Eva Zeisel",
   "dated": "1947-c. 1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "teardrop-shaped with point rounded and pulled slightly toward one side; chartreuse glaze",
+  "provenance": "",
   "creditline": "Gift of Jennifer Komar Olivarez and Enrique Olivarez, Jr.",
-  "accession_number": "2000.233.4.8",
-  "artist": "Eva Zeisel"
+  "accession_number": "2000.233.4.8"
 }

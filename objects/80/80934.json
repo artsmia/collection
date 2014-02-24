@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1871 - 1958",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Georges Rouault",
   "dated": "1939",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "17 color aquatints (See: B.84.2.1-17) and 82 wood engravings; binding: wove paper on firm support as cover, pages unbound; endpapers: wove",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. John E. Andrus III",
-  "accession_number": "B.84.2",
-  "artist": "Georges Rouault"
+  "accession_number": "B.84.2"
 }

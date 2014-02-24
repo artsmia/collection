@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th century",
   "culture": null,
   "country": "Persia (Iran)",
@@ -13,12 +14,12 @@
   "medium": "Ink, colors and gold on paper",
   "title": "Page from the Koran",
   "id": "http://api.artsmia.org/objects/1210",
-  "room": "Not on View",
+  "room": "G180",
   "style": "12th century",
   "marks": " ",
-  "text": "",
+  "text": "The essence of writing is in the spirit.\r\n-Persian proverb\r\nCalligraphy is the most highly regarded form of artistic expression in Islam. Hand writing the Koran in Arabic script and is also an act of religious devotion, and calligraphers earn spiritual merit as they make visible the word of God.\r\nThe Koran (“recitation” in Arabic) was revealed orally to the Prophet Mohammad between the years 610 and 632. Mohammed’s son-in-law Ali developed the first sacred script several decades later. This script has been refined and embellished over the ensuing years as the Koran has been copied in its original Arabic language again and again throughout the world. The sanctity of the text and the significance of writing it by hand delayed the adoption of mass production of the Koran. ",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Margaret McMillan Webber in memory of her mother, Katherine Kittredge McMillan",
-  "accession_number": "51.37.5                                   ",
-  "artist": ""
+  "accession_number": "51.37.5"
 }

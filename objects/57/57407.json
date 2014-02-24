@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Jack Levine %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jack Levine %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1915",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jack Levine",
   "dated": "1930-1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature In plate",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dr. Thomas Bergen",
-  "accession_number": "P.86.52                                   ",
-  "artist": "Jack Levine"
+  "accession_number": "P.86.52"
 }

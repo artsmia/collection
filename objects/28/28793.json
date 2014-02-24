@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": null,
   "title": "Miao Woman's Coat",
   "id": "http://api.artsmia.org/objects/28793",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "black coat with embroidered patches decorating sleeves and front opening; decorative silver pieces on hem and end of sleeves",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund and Gift of funds from Thirza Cleveland and Joan Wurtele",
-  "accession_number": "95.43.9.1                                 ",
-  "artist": ""
+  "accession_number": "95.43.9.1"
 }

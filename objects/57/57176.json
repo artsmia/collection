@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Leonard Baskin",
+  "image_copyright": "%26Acirc%3B%26copy%3B Leonard Baskin",
   "life_date": "American, 1922 - 2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Leonard Baskin",
   "dated": "1965",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " In pencil on sheet",
   "text": "",
   "description": "Horizontal plate\r\n",
+  "provenance": "",
   "creditline": "Gift of Gordon Locksley and George Shea",
-  "accession_number": "P.69.218",
-  "artist": "Leonard Baskin"
+  "accession_number": "P.69.218"
 }

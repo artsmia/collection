@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil, on b in pencil, on back: [Toby Old 1978]",
   "text": "",
   "description": "woman in fleece-trimmed coat at left holding leash of a large dog with front paws on top of a high curb, wearing a studded shirt and rolled-up jeans; man in mask wearing rain poncho at right; white dog and other figures on top of curb behind woman and dressed dog",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2000.69.9                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2000.69.9"
 }

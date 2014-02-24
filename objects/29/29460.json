@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th-13th century",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Ceramic, celadon glaze",
   "title": "Bowl\r\n",
   "id": "http://api.artsmia.org/objects/29460",
-  "room": "G180",
+  "room": "Not on View",
   "style": "12th-13th century",
   "marks": " ",
   "text": "This delicate bowl features a fluted rim and an interior floral design carved under celadon glaze. Cutting into the bowl is a forked crack, which has been filled with gold. This form of ceramic repair is not a Chinese tradition, and indicates that this work was a piece of export ware that was likely mended in Japan using a technique known as <I>kintsugi</I>, where cracks are mended by filling them with lacquer and then sprinkling the repair with gold. It is not known when this repair was made, but its meticulousness expresses how China's neighbors prized her porcelain wares. ",
   "description": "fluted rim; interior floral design carved under celadon glaze",
+  "provenance": "",
   "creditline": "Gift of Dr. and Mrs. Donald E. Lee",
-  "accession_number": "96.98.6                                   ",
-  "artist": ""
+  "accession_number": "96.98.6"
 }

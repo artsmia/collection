@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1919",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "G377",
   "style": "20th century",
   "marks": "Signature LL in black: [Henri-Matisse]",
-  "text": "",
+  "text": "In 1917, Matisse started spending his winters in Nice, on the Mediterranean coast. Once settled, he hired 19-year-old Antoinette Arnaud to serve as his primary model, which marked a period of intense productivity for the artist. In White Plumes, Antoinette models an extravagant hat of Matisse's own design. Her natural queenly bearing and confident demeanor gave these works the air of a series of formal portraits.\r\n\r\nFor Matisse, the plumed hat series became a complex theme with variations. He followed his usual practice of making numerous drawn and painted sketches of the model. By studying a subject in this comprehensive way, Matisse sought to discover its essence - what it communicated to him. Then he would express the sensations and feelings it had inspired in him in a final, finished painting, synthesizing all he had learned.",
   "description": "Portrait.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "47.41",
-  "artist": "Henri Matisse"
+  "accession_number": "47.41"
 }

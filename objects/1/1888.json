@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "c. 1923-1925",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "G377",
   "style": "20th century",
   "marks": "Signature ",
-  "text": "",
+  "text": "In many ways, Large Seated Nude is Matisse's most audacious work in sculpture. Taking a casual pose from painting - that of the reclining nude with raised arms - he swung the figure out into space, divided it into two radically different parts, and complicated the problem of conveying a central axis that supports the entire body, given the impossibility of the pose. As a solution, he depended upon the erectness of the arms, neck, and head to provide a sense of balance, given the figure's invisible means of support.",
   "description": "cast no. 2/10; figure",
+  "provenance": "",
   "creditline": "Gift of the Dayton Hudson Corporation",
-  "accession_number": "71.9.3",
-  "artist": "Henri Matisse"
+  "accession_number": "71.9.3"
 }

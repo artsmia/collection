@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gregory Amenoff",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gregory Amenoff",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gregory Amenoff",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John Eisberg and Susan Kline",
-  "accession_number": "91.154",
-  "artist": "Gregory Amenoff"
+  "accession_number": "91.154"
 }

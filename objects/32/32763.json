@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Russian, 1866-1944",
   "nationality": "Russian",
   "role": "Artist",
+  "artist": "Vassily Kandinsky",
   "dated": "1912",
   "culture": null,
   "country": "Russia and Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Although illustrated with photomechanical reproductions, The Blue Rider ranks among the most influential German books chronicling modern art; it was edited by Wassily Kandinsky and Franz Marc, the founders of the Blue Rider Movement. Philosophically anti-naturalist, it includes discussions of folk art and children's drawings, as well as contributions by other artists in various fields, including drawings and an article on music by Arnold Schönberg. The celebrated Blue Rider Group derived its name from this publication by two of its founders.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "B.91.5.32",
-  "artist": "Vassily Kandinsky"
+  "accession_number": "B.91.5.32"
 }

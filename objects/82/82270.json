@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "German, 1891 - 1976",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Ernst",
   "dated": "1970",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Title, edition and inscription\r\non back, at bottom LRC below image, in pencil: [max ernst]",
   "text": "",
   "description": "light tan rectangle with organic embossed design; smaller darker tan rectangle inside first, with ovoid shapes in tan shades",
+  "provenance": "",
   "creditline": "Gift of Evan M. Maurer in honor of Bruce B. Dayton",
-  "accession_number": "2003.220",
-  "artist": "Max Ernst"
+  "accession_number": "2003.220"
 }

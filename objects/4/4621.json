@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Edouard Boubat %2F l%27agence Gamma-Rapho%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Edouard Boubat %2F l%27agence Gamma-Rapho%2C Paris",
   "life_date": "French, 1923 - 1999",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Edouard Boubat",
   "dated": "20th century",
   "culture": null,
   "country": "Thailand",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.55",
-  "artist": "Edouard Boubat"
+  "accession_number": "93.70.55"
 }

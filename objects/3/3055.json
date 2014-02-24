@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1923 - 2002",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Larry Rivers",
   "dated": "1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Inscription\r\nin pencil: [Birdie] LR: [Rivers 1953]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Maslon Foundation",
-  "accession_number": "82.18.2                                   ",
-  "artist": "Larry Rivers"
+  "accession_number": "82.18.2"
 }

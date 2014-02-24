@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "11th century",
   "culture": null,
   "country": "Egypt or Mesopotamia",
@@ -13,12 +14,12 @@
   "medium": "Ink, colors and gold on paper",
   "title": "Page from the Koran",
   "id": "http://api.artsmia.org/objects/18096",
-  "room": "G243",
+  "room": "G254",
   "style": "11th century",
   "marks": " ",
-  "text": "",
+  "text": "The Qur’an, revealed by God to Muhammad through the archangel Jibril (Gabriel), according to the Muslim faith, was compiled into a single volume several decades after the prophet’s death in 632 CE. In subsequent centuries, copiers of the Qur’an developed a system of colorful pronunciation and punctuation marks that make it easier to read and understand. This beautiful page has only a few such signs, rendered here as red dots, so it is safe to assume that it was written very early on, possibly around 900 CE. The golden line in the middle is the title of the sura, or chapter, that follows: “The Rising of the Dead, Resurrection” (sura 75).",
   "description": "Horizontal parchment page with 15 lines of Kufic writing on each side.",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Margaret McMillan Webber in memory of her mother, Katherine Kittredge McMillan",
-  "accession_number": "51.37.4                                   ",
-  "artist": ""
+  "accession_number": "51.37.4"
 }

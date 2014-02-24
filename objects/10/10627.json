@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1933",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Madrid",
   "id": "http://api.artsmia.org/objects/10627",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "wall with small windows all varying in size and location; group of children are gathered in front of it",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.6.36                                   ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "95.6.36"
 }

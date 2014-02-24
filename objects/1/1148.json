@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "13th-12th century BCE",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "Wine Cup \\'CHI\\', inscribed. The decor on a ground of spirals is one of restrained exuberance, dragonized t\\'ao-t\\'ieh (winged type) appear in the foot and neck belts, which are interrupted by shallow, flat flanges only on the long sides. The bodied t\\'ao-t\\'ieh on the belly displays tiny hooks on the forehead shield, and scores on the horns similar to those usually found on flanges. Two strongly stylized, head-turning dragons appear behind the feet of the t\\'ao-t\\'ieh. Rising blades, with spirals suggesting dissolved cicadas, adorn the neck of the vessel. The lid has two t\\'ao-t\\'ieh masks on a ground of squared spirals. Patina grey-green and blue-green. The meaning ofthe inscription, showing two arrows on a stand, is unknown.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.86a,b                               ",
-  "artist": ""
+  "accession_number": "50.46.86a,b"
 }

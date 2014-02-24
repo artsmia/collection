@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Fritz Eichenberg %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Fritz Eichenberg %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American (born Germany), 1901-1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Fritz Eichenberg",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition\r\non back ",
   "text": "",
   "description": "binding: Nigerian oasis goatskin, dark brown with gold-stamped lettering; Belgian linen sides; endpapers: cream wove; slip case: fabric, dark brown, lines with dark brown suede leather; type: 14 pt. didot Monotype Walbaum; 273 pp.",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton, by exchange",
-  "accession_number": "B.87.6.2                                  ",
-  "artist": "Fritz Eichenberg"
+  "accession_number": "B.87.6.2"
 }

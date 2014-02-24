@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": "Akan",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Brass",
   "title": "Goldweight [Tortoise with Fish]",
   "id": "http://api.artsmia.org/objects/30259",
-  "room": "G240",
+  "room": "G254",
   "style": "19th-20th century",
   "marks": "Inscription ",
   "text": "",
   "description": "Round shell with swirl Sun shape in center. Two swirl shapes between each sun ray except on each side of tail and PR side of neck, which have one each. Long extended neck with one eye on each side. Flat fish in mouth of turtle. Tail is a curved \\\"C\\\" shape with incised ridges on one side.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "98.1.259                                  ",
-  "artist": ""
+  "accession_number": "98.1.259"
 }

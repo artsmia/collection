@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "The Brett Weston Archive from the Christian Keesee Collection",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Brett Weston Archive%2C L.L.C.",
   "life_date": "American, 1911 - 1993",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Brett Weston",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Canal, Netherlands",
   "id": "http://api.artsmia.org/objects/25384",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "87.42.5                                   ",
-  "artist": "Brett Weston"
+  "accession_number": "87.42.5"
 }

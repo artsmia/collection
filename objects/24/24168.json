@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate William Mortensen",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate William Mortensen",
   "life_date": "American, 1897-1965",
   "nationality": null,
   "role": "Artist",
+  "artist": "William Mortensen",
   "dated": "1932",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Vintage print",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "84.100.2",
-  "artist": "William Mortensen"
+  "accession_number": "84.100.2"
 }

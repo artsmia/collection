@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Swiss, 1516-1565",
   "nationality": null,
   "role": "Artist",
+  "artist": "Conrad Gesner",
   "dated": "1551-1587",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "\r\n\r\n\r\n\r\n ",
   "text": "",
   "description": "black and white (Heron)",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.14,072                                  ",
-  "artist": "Conrad Gesner"
+  "accession_number": "P.14,072"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B John Willenbecher",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Willenbecher",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Willenbecher",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nsee Signed in graphite, recto: [Capriccio/John Willenbecher/2",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "P.96.28",
-  "artist": "John Willenbecher"
+  "accession_number": "P.96.28"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1898 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Reginald Marsh",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature On sheet and on work",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.69.211",
-  "artist": "Reginald Marsh"
+  "accession_number": "P.69.211"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Walker Evans Archive%2C The Metropolitan Museum of Art",
+  "image_copyright": "%26Acirc%3B%26copy%3B Walker Evans Archive%2C The Metropolitan Museum of Art",
   "life_date": "American, 1903 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Walker Evans",
   "dated": "1936",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "75.26.14                                  ",
-  "artist": "Walker Evans"
+  "accession_number": "75.26.14"
 }

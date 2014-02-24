@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tom Wesselmann %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Wesselmann %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1931 - 2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Tom Wesselmann",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition, Marks, Inscription\r\n\r\nNu Signed, dated in pencil, LR",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marguerite and Russell Cowles",
-  "accession_number": "P.83.24                                   ",
-  "artist": "Tom Wesselmann"
+  "accession_number": "P.83.24"
 }

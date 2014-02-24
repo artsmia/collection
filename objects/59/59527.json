@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1847",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "\\\"Daoguang dingwei qiu qi yue\\\", in silver wire, L s ",
   "text": "",
   "description": "rectangular; right side has wide flat rest with inlaid wire characters; left side is narrower with inlaid characters; open central area with 7 slots for brushes",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2001.210.1                                ",
-  "artist": ""
+  "accession_number": "2001.210.1"
 }

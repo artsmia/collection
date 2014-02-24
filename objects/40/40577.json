@@ -5,6 +5,7 @@
   "life_date": "Austrian, born 1859",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Thérèse Trethan",
   "dated": "c. 1902-1903",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Tureen",
   "id": "http://api.artsmia.org/objects/40577",
   "room": "Not on View",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": "Schule Prof. Kolo Moser ",
   "text": "",
   "description": "covered tureen with \\'C\\'-shaped handles from bottom to top",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.16a,b",
-  "artist": "Thérèse Trethan"
+  "accession_number": "98.276.16a,b"
 }

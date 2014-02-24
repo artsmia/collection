@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Lisette Model",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lisette Model",
   "life_date": "American (born Austria), 1901 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisette Model",
   "dated": "1940-1946",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription, Edition and Stamp\r\n\r\nURC o on back, in pencil: [Lisette Model]",
   "text": "",
   "description": "2 women in black outfits and black hats seated at a table; woman on left has her head resting on her right hand and is wearing an oval brooch and diamond larriat necklace; woman on right has her arms folded on the table and is wearing a triple strand of pearls",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2002.230.6",
-  "artist": "Lisette Model"
+  "accession_number": "2002.230.6"
 }

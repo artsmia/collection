@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "September 30, 1948",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark\r\nin pencil on justification page ",
   "text": "",
   "description": "125 Lithographs in red of varying sizes, two on cover and 123 for the text; binding: loose in Arches wove wrappers with 2 lithographs on the front and back cover and spine; beige paper-covered protective boards with title panel pasted to the spine; slip case: beige paper-covered slip case",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.88.2.1",
-  "artist": "Pablo Picasso"
+  "accession_number": "B.88.2.1"
 }

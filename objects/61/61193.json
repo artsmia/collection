@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
   "life_date": "American (born Spain), 1896-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Pierre Daura",
   "dated": "c. 1954",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on cardboard",
   "title": "The Family Circle",
   "id": "http://api.artsmia.org/objects/61193",
-  "room": "G377",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "\\\"The Family Circle\\\", in blue, on back \\\"Daura\\\", in blue, on back",
   "text": "",
   "description": "3 abstracted standing men resting their hands on the shoulders of 2 kneeling men; blues and greens at top",
+  "provenance": "",
   "creditline": "Gift of Martha R. Daura",
-  "accession_number": "2002.29.22",
-  "artist": "Pierre Daura"
+  "accession_number": "2002.29.22"
 }

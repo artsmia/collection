@@ -5,6 +5,7 @@
   "life_date": "French, 1811 - 1889",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jules Dupré",
   "dated": "1835",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/1392",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature LR in dark brown: [Jules Dupré]",
   "text": "",
   "description": "Landscape with figures and cattle.",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Gertrude Hill Gavin",
-  "accession_number": "61.17                                     ",
-  "artist": "Jules Dupré"
+  "accession_number": "61.17"
 }

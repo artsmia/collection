@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1867-1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Lloyd Wright",
   "dated": "c. 1895-1900",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Wright designed this weed holder shortly after establishing his own architectural practice in 1893. He used it in several of his interiors, including the octagonal library in his own studio in Oak Park (1898) and the dining room of the Susan Lawrence Dana house in Springfield, Illinois (1902). The unusually slender shape was meant to accommodate the prairie plants of the Midwest.",
   "description": "copper vase, original patina",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.2                                  ",
-  "artist": "Frank Lloyd Wright"
+  "accession_number": "98.276.2"
 }

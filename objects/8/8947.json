@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1675",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Tin-glazed earthenware",
   "title": "Master salt",
   "id": "http://api.artsmia.org/objects/8947",
-  "room": "G332",
+  "room": "Not on View",
   "style": "17th century",
   "marks": "Sticker ",
   "text": "",
   "description": "blue and white design; face on either long side; floral image in salt basin",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. George R. Steiner",
-  "accession_number": "96.36.5                                   ",
-  "artist": ""
+  "accession_number": "96.36.5"
 }

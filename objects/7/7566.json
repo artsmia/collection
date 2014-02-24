@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Wayne Thiebaud %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wayne Thiebaud %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1920",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wayne Thiebaud",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Mark\r\n\r\nsee Signed on sheet, in graphite below image at LR: [43/60 Th",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
-  "accession_number": "P.79.22                                   ",
-  "artist": "Wayne Thiebaud"
+  "accession_number": "P.79.22"
 }

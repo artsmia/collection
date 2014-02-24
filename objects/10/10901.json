@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BSusanne Busse",
+  "image_copyright": "%26Acirc%3B%26copy%3BSusanne Busse",
   "life_date": "American (Vadnais Heights, Minnesota)",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Susanne Busse",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "portfolio published by the photographers",
+  "provenance": "",
   "creditline": "Gift of the artist and Sandi Fellman",
-  "accession_number": "82.70.4                                   ",
-  "artist": "Susanne Busse"
+  "accession_number": "82.70.4"
 }

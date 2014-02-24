@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of George Warren Rickey %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Warren Rickey %2F VAGA%2C New York",
   "life_date": "American, 1907-2002",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Warren Rickey",
   "dated": "1969",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LLC, in pencil: [Alfred Moir in Berlin]; LRC, in p",
   "text": "",
   "description": "portrait of seated man, in profile from PL, looking at a piece of paper held in his PL hand; man has shaggy hair, beard and wears glasses and a jacket",
+  "provenance": "",
   "creditline": "Bequest of Professor Alfred Moir",
-  "accession_number": "2012.58.230                               ",
-  "artist": "George Warren Rickey"
+  "accession_number": "2012.58.230"
 }

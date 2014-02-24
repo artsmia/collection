@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Garry Winogrand%2C courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1928 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Garry Winogrand",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Inscription in pencil, LL corner, on back: [Garry Winogrand 37",
   "text": "",
   "description": "woman wearing a low-cut, bare midriff blouse and long skirt with a cigarette in her mouth, lighting a match; people in a park in background",
+  "provenance": "",
   "creditline": "Gift of Elaine Dines Cox and Kris Cox",
-  "accession_number": "98.265.4                                  ",
-  "artist": "Garry Winogrand"
+  "accession_number": "98.265.4"
 }

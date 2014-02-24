@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BJasper Johns %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1930",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jasper Johns",
   "dated": "1985-1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition and Stamp\r\n\r\nLLC below im LRC below image, in pencil: [Jasper Johns / \\'85 - ",
   "text": "",
   "description": "abstract image with seahorse, Mona Lisa\\'s face, stars, squares, circles and triangles in dark blue",
+  "provenance": "",
   "creditline": "Gift of Mary and Bob Mersky",
-  "accession_number": "2002.239                                  ",
-  "artist": "Jasper Johns"
+  "accession_number": "2002.239"
 }

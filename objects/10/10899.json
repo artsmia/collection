@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jerry Burchfield",
   "life_date": "American, 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerry Burchfield",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of The Minneapolis Institute of Arts",
-  "accession_number": "80.25.3                                   ",
-  "artist": "Jerry Burchfield"
+  "accession_number": "80.25.3"
 }

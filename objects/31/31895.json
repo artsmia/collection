@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
   "life_date": "American, 1906 - 1970",
   "nationality": "American",
   "role": "Artist",
+  "artist": "A. Aubrey Bodine",
   "dated": "1959",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription ",
   "text": "",
   "description": "2 black men, one on L wearing a hat, with PL foot on porch, one on R wearing a small cap and holding a cane with his PR hand, standing in front of a small house with porch; sign hanging from L side of porch \\'DR. L.J. MORRIS/GLOUCESTER Va./PHYSICIAN & SURGEON/OFFICE PHONE 123\\'",
+  "provenance": "",
   "creditline": "Gift of Steven Nordman",
-  "accession_number": "99.229.2",
-  "artist": "A. Aubrey Bodine"
+  "accession_number": "99.229.2"
 }

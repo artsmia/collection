@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1971",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "66 etchings; type: Garamond Corps 10",
+  "provenance": "",
   "creditline": "The Bruce B. Dayton Fund",
-  "accession_number": "B.74.1",
-  "artist": "Pablo Picasso"
+  "accession_number": "B.74.1"
 }

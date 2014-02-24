@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1593 - 1670",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Claude Vignon",
   "dated": "1623-1625",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date ML (incised with fine pointed instrument on spine ",
   "text": "One of the Four Fathers of the Catholic Church, Saint Ambrose (334'-397 A.D.) was Bishop of Milan, once the administrative center of the western part of the Roman Empire.  He is shown with a knotted scourge to signify that he drove the Arian heretics from the Church.  This is generally considered the most important painting by this artist in North America.",
   "description": "Saint Ambrose Father of the Catholic Church",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "68.43",
-  "artist": "Claude Vignon"
+  "accession_number": "68.43"
 }

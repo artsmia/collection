@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lisette Model",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lisette Model",
   "life_date": "American (born Austria), 1901 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisette Model",
   "dated": "c. 1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "90.133.6",
-  "artist": "Lisette Model"
+  "accession_number": "90.133.6"
 }

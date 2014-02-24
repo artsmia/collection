@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Clem Clarke %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Clem Clarke %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Clem Clarke",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on verso in pencil: [John Clem Clarke]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Francisca S. Winston Fund, by exchange",
-  "accession_number": "P.70.104",
-  "artist": "John Clem Clarke"
+  "accession_number": "P.70.104"
 }

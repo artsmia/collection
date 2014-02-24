@@ -5,6 +5,7 @@
   "life_date": "French, 1824 - 1904",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean-Léon Gérôme",
   "dated": "1863",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/9212",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Inscription, Signature [A Aimé Millet* J. Gérôme]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "69.139                                    ",
-  "artist": "Jean-Léon Gérôme"
+  "accession_number": "69.139"
 }

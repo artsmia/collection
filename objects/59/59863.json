@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BDale R. Peterson%2C Photographer",
+  "image_copyright": "%26Acirc%3B%26copy%3BDale R. Peterson%2C Photographer",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dale R. Peterson",
   "dated": "1949-1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "71.14.1                                   ",
-  "artist": "Dale R. Peterson"
+  "accession_number": "71.14.1"
 }

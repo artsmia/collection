@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Bratnober",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Bratnober",
   "dated": "c. 1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "74.88.5                                   ",
-  "artist": "John Bratnober"
+  "accession_number": "74.88.5"
 }

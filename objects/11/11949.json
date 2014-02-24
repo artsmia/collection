@@ -5,7 +5,8 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
-  "dated": "c. 20000 B.C.",
+  "artist": "",
+  "dated": "c. 20,000 BCE",
   "culture": "Paleolithic",
   "country": "Found: France",
   "continent": "Europe",
@@ -13,12 +14,12 @@
   "medium": "Sandstone",
   "title": "Venus figure",
   "id": "http://api.artsmia.org/objects/11949",
-  "room": "G377",
-  "style": "201st-200th century B.C.",
+  "room": "G241",
+  "style": "201st-200th century BCE",
   "marks": " ",
-  "text": "",
+  "text": "Small prehistoric female figurines dating to the time period known as the Paleolithic Age have been found across Europe. Emphasis placed on the breasts, abdomen and hips of the nude figures earned them the name Venus, after the Roman goddess of love and fertility. \r\n\r\nThis figure's small size and lack of a base suggest that it was a ritual object and may have been regarded as possessing magical power. Given the importance of survival through reproduction and securing a food supply, this Venus may have represented female fertility and the ability to bear children.",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "72.10                                     ",
-  "artist": ""
+  "accession_number": "72.10"
 }

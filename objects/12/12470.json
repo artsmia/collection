@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "17th century",
   "culture": null,
   "country": "Italy",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "H.3 x Dia.9-½ in.",
   "medium": "Glass",
   "title": "Fruit dish",
   "id": "http://api.artsmia.org/objects/12470",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Venetian Glass Fruit Dish, Murano blown white glass, flat circular bowl, cylindrical stem, spreading circular foot, center decorated in blue glass.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "16.743.1                                  ",
-  "artist": ""
+  "accession_number": "16.743.1"
 }

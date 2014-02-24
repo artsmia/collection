@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Gossage",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Gossage",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the American Telephone and Telegraph Company",
-  "accession_number": "81.120.36                                 ",
-  "artist": "John Gossage"
+  "accession_number": "81.120.36"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Man Ray Trust %2F Artists Rights Society %28ARS%29%2C NY %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Man Ray Trust %2F Artists Rights Society %28ARS%29%2C NY %2F ADAGP%2C Paris",
   "life_date": "American, 1890 - 1976",
   "nationality": null,
   "role": "Artist",
+  "artist": "Man Ray (Emmanuel Rudnitsky)",
   "dated": "1921",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR scratched in surface: [Man Ray 38-21]; verso UL",
   "text": "A leading figure in both New York and Paris Dada, and later in Surrealism, Man Ray worked in several media exploring the concept of the \"found object\" - treating discarded materials as valued artifacts. Many of these objects recur over many years in a range of the artist's work. The motif of the unwinding swath of paper first appeared in Man Ray's controversial Dada sculpture of 1919, <I>Lampshade</I>, in which an unrolled paper lampshade curled around a metal shaft. He returned to the motif in four subsequent works, three of which are titled <I>Return to Reason</I>. This painting is the earliest. A three minute film followed in 1923, and a larger version of our painting was executed in 1939.",
   "description": "framed under glass",
+  "provenance": "",
   "creditline": "The Margaret G. Deal Fund in honor of Gertrude C. Deal, Harrison H. Deal and Mary Deal Selcer",
-  "accession_number": "96.21                                     ",
-  "artist": "Man Ray (Emmanuel Rudnitsky)"
+  "accession_number": "96.21"
 }

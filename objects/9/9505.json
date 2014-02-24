@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, (born Japan) 1886 - 1968",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Tsugouharu Foujita",
   "dated": "1924",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Signature; Date Untranslated character, [Foujita/1924], in ink, lo",
   "text": "",
   "description": "Line drawing of a veiled woman holding an infant on her lap",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
-  "accession_number": "24.35",
-  "artist": "Tsugouharu Foujita"
+  "accession_number": "24.35"
 }

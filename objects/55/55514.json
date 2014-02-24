@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Rolf Nesch %2F Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Rolf Nesch %2F Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
   "life_date": "Norwegian, 1893 - 1951",
   "nationality": "Norwegian",
   "role": "Artist",
+  "artist": "Rolf Nesch",
   "dated": "1954",
   "culture": null,
   "country": "Norway",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nsee Signed in pencil: [Nesch]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
-  "accession_number": "P.13,887                                  ",
-  "artist": "Rolf Nesch"
+  "accession_number": "P.13,887"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Collection Center for Creative Photography %26copy%3B1981 Arizona Board of Regents",
+  "image_copyright": "Center for Creative Photography %26Acirc%3B%26copy%3B1981 Arizona Board of Regents",
   "life_date": "American, 1886 - 1958",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Weston",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Dorothy Millett Lindeke",
-  "accession_number": "84.56.1                                   ",
-  "artist": "Edward Weston"
+  "accession_number": "84.56.1"
 }

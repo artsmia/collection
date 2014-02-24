@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "India",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.82-½ x W.52 in.",
   "medium": "wool",
   "title": "Shawl",
   "id": "http://api.artsmia.org/objects/15177",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Shawl of red woolen material. Embroidered with tree and birds in center panel which is arch-shaped. The spandrels of the arch and the borders are heavily embroidered with interlacing palmettes. Wool, embroidered.",
+  "provenance": "",
   "creditline": "Bequest of Miss Lily Place",
-  "accession_number": "30.23.36                                  ",
-  "artist": ""
+  "accession_number": "30.23.36"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1880 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Derain",
   "dated": "1906",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LL in black: [aderain]",
   "text": "After the great financial success of Claude Monet's views of the Thames River, André Derain's dealer, Ambroise Vollard, convinced him to paint London, too. During two trips to England in 1905 and 1906, Derain made thirty views of the city. This one features Sir Christopher Wren's famous 17th-century cathedral. A Fauve painter, Derain has distilled and expressed his emotions about the subject using intensified colors and a simplified design.",
   "description": "Fauve. London: Church. St. Paul\\'s Cathedral",
+  "provenance": "",
   "creditline": "Bequest of Putnam Dana McMillan",
-  "accession_number": "61.36.9                                   ",
-  "artist": "André Derain"
+  "accession_number": "61.36.9"
 }

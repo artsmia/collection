@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 1972 Estate of William Scott",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1972 Estate of William Scott",
   "life_date": "British, 1913 - 1989",
   "nationality": "British",
   "role": "Artist",
+  "artist": "William Scott",
   "dated": "1972",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Susan Bondy",
-  "accession_number": "P.80.62                                   ",
-  "artist": "William Scott"
+  "accession_number": "P.80.62"
 }

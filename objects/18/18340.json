@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1880 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Derain",
   "dated": "20th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [Derain], lower left",
   "text": "",
   "description": "Head and shoulders of a 20ish woman in a blouse with something, perhaps a shawl or wrap, over proper left shoulder",
+  "provenance": "",
   "creditline": "Presented by Mr. & Mrs. Arthur Wiesenberger in recognition of the outstanding achievements in the field of finance by Mr. Grady Clark, President of Investors Diversified Services, Inc., of Minneapolis, Minnesota.",
-  "accession_number": "60.29",
-  "artist": "André Derain"
+  "accession_number": "60.29"
 }

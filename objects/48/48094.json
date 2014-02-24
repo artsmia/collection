@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "footed bowl with rounded bottom and straight sides; raised band on exterior; blue-grey glaze with unglazed foot",
+  "provenance": "",
   "creditline": "Gift of Charlotte Karlen",
-  "accession_number": "2001.120.1",
-  "artist": "Warren MacKenzie"
+  "accession_number": "2001.120.1"
 }

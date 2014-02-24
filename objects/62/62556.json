@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "1880/12/02 - 1921/02/24",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Hashiguchi Goyo_",
   "dated": "March 1920",
   "culture": "Japan",
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/62556",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "[??????] {Taisho_ kunen sangatsu} (March 1920) [???] {Goyo_ ga}",
+  "marks": "[大正九年三月] {Taisho_ kunen sangatsu} (March 1920) [五葉画] {Goyo_ ga}",
   "text": "",
   "description": "head and torso of woman with very long hair, combing with a yellow comb; blue and white floral garment",
+  "provenance": "",
   "creditline": "Gift of Ellen and Fred Wells",
-  "accession_number": "2002.161.3",
-  "artist": "Hashiguchi Goyo_"
+  "accession_number": "2002.161.3"
 }

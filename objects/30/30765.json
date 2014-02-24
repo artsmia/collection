@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BSchneider Gallery %2F Luis Gonz%26aacute%3Blez Palma",
+  "image_copyright": "%26Acirc%3B%26copy%3BSchneider Gallery %2F Luis Gonz%26Atilde%3B%26iexcl%3Blez Palma",
   "life_date": "Guatemalan, born 1957",
   "nationality": "Guatemalan",
   "role": "Artist",
+  "artist": "Luis González Palma",
   "dated": "1998",
   "culture": null,
   "country": "Guatemala",
@@ -18,7 +19,7 @@
   "marks": "Label ",
   "text": "",
   "description": "woman\\'s face with closed eyes, covered with black lace veil; handwritten and printed documents visible behind top half of woman\\'s face; framed",
+  "provenance": "",
   "creditline": "Gift of funds from Patricia McNulty Mitchell",
-  "accession_number": "98.180                                    ",
-  "artist": "Luis González Palma"
+  "accession_number": "98.180"
 }

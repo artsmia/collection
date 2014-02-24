@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.23-¼ x W.7-3/8 in.",
   "medium": "satin, silk, cotton",
   "title": "Narrow Panel",
   "id": "http://api.artsmia.org/objects/16812",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Narrow panel of crimson satin brocaded with rows of dragon medallions and stylized clouds in shades of turquoise, yellow, blue, rose and gold threads. Cf. 42.8.174. Border of plain rust red satin bound on both sides with thin blue silk. Lining of coarse white cotton.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "42.8.176                                  ",
-  "artist": ""
+  "accession_number": "42.8.176"
 }

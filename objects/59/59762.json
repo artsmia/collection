@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1997",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\\\"98 [underlined]/ in pencil, LRC on back: [Toby Old 1997]",
   "text": "",
   "description": "woman with straight blonde hair wearing a t-shirt printed with the word \\\"product\\\" and holding a champagne glass with both hands; leaning against a counter in front of a large lighted mirror",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.53                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.53"
 }

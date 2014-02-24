@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "India",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.143 x W.58-½ in.",
   "medium": "wool, cotton",
   "title": "Long Shawl",
   "id": "http://api.artsmia.org/objects/16659",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Long Shawl, of hand-loom woven patchwork. The design of floral cones, arabesques and leaves is uncommon, and does not repeat throughout the length of the shawl. An exceptionally fine example with great delicacy of detail. Lining of black cotton.  #12 in travelling exhibition.",
+  "provenance": "",
   "creditline": "Gift of Mrs. C.C. Bovey",
-  "accession_number": "42.47.12                                  ",
-  "artist": ""
+  "accession_number": "42.47.12"
 }

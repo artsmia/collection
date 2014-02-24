@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1972",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscriptions in graphite, along bottom edge, verso: [Gilles Per",
   "text": "",
   "description": "line of men wearing suits and bowler hats; man standing in front of line holding flag which reads \\'Ulster Special...Branch\\'",
+  "provenance": "",
   "creditline": "Gift of David L. and Mary M. D. Parker",
-  "accession_number": "2002.183.86",
-  "artist": "Gilles Peress"
+  "accession_number": "2002.183.86"
 }

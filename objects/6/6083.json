@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1946",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "25 full page lithographs plus numerous ornaments and initials; binding: lithographic paper cover, printed in purple (unbound, loose sheets); 2nd cover beige cloth; endpapers: Arches wove; slip case: beige cloth",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.85.4.3",
-  "artist": "Henri Matisse"
+  "accession_number": "B.85.4.3"
 }

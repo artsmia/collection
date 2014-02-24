@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Morgan Art Foundation %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Morgan Art Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1928",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Indiana",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title, Edition\r\n\r\nInscribed and n Signed, dated in pencil, LR: [R Indiana 1978]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Margaret P. Cost",
-  "accession_number": "2001.256",
-  "artist": "Robert Indiana"
+  "accession_number": "2001.256"
 }

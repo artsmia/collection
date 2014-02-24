@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Asante",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Goldweight [Geometric]",
   "id": "http://api.artsmia.org/objects/27228",
-  "room": "G240",
+  "room": "G254",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "One of 37 Gold weights, bronze, various sizes; pattern center row of 3 diamonds with triangles above and below",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "90.76.16                                  ",
-  "artist": ""
+  "accession_number": "90.76.16"
 }

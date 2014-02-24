@@ -1,7 +1,7 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1870 - 1953",
   "nationality": "American",
   "role": "Artist",

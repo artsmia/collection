@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3BRed Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Red Grooms",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription\r\n\r\nin graphite, entire shee Lower center signed: [Red]",
   "text": "",
   "description": "Letter written by the artist to Steve Anderson",
+  "provenance": "",
   "creditline": "Gift of The Northern Star Foundation and The Hersey Foundation",
-  "accession_number": "86.114.1                                  ",
-  "artist": "Red Grooms"
+  "accession_number": "86.114.1"
 }

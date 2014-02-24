@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Garry Winogrand%2C courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1928 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Garry Winogrand",
   "dated": "1961",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Jackie Robinson at Home in Connecticut",
   "id": "http://api.artsmia.org/objects/25054",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "86.110.3                                  ",
-  "artist": "Garry Winogrand"
+  "accession_number": "86.110.3"
 }

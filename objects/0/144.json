@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26quot%3BThe Man Who Planted Trees%26quot%3B by Jean Giono%2C illustrated by Martine Franck%2C %26copy%3B Martine Franck %2F Magnum Photos",
+  "image_copyright": "%26quot%3BThe Man Who Planted Trees%26quot%3B by Jean Giono%2C illustrated by Martine Franck%2C %26Acirc%3B%26copy%3B Martine Franck %2F Magnum Photos",
   "life_date": "Belgian, born 1938",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "Martine Franck",
   "dated": "20th century",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": "Edition; Signature ",
   "text": "",
   "description": "2 small trails extending up a small hill at R with trees and mountains at L",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2000.111.5",
-  "artist": "Martine Franck"
+  "accession_number": "2000.111.5"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Franco Fontana",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Franco Fontana",
   "life_date": "Italian, born 1933",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Franco Fontana",
   "dated": "1975",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LLC, in black ink: [Seascape 3/15]; LRC, in black ",
   "text": "",
   "description": "shadowed sandy beach with one bright swath in sunlight; water and blue sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.106",
-  "artist": "Franco Fontana"
+  "accession_number": "2013.35.106"
 }

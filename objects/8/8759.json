@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FADAGP%2C Paris",
   "life_date": "French, 1885 - 1962",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Lhote",
   "dated": "20th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [A. LHOTE], lower left corner",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "68.13.2",
-  "artist": "André Lhote"
+  "accession_number": "68.13.2"
 }

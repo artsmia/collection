@@ -5,6 +5,7 @@
   "life_date": "Dutch, 1588 - 1629",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Hendrick ter Brugghen",
   "dated": "1623",
   "culture": null,
   "country": "Netherlands",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "The Gamblers",
   "id": "http://api.artsmia.org/objects/1378",
-  "room": "Not on View",
+  "room": "G313",
   "style": "17th century",
   "marks": "Signature and Date LC (left of ace of spades): [HTB fecit 1623]\r\n\r\nNB",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "60.17                                     ",
-  "artist": "Hendrick ter Brugghen"
+  "accession_number": "60.17"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B William Klein",
+  "image_copyright": "%26Acirc%3B%26copy%3B William Klein",
   "life_date": "American, born 1928",
   "nationality": "American",
   "role": "Artist",
+  "artist": "William Klein",
   "dated": "1964",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "85.91.14                                  ",
-  "artist": "William Klein"
+  "accession_number": "85.91.14"
 }

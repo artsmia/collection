@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BMary Frank%2C Courtesy of DC Moore Gallery%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BMary Frank%2C Courtesy of DC Moore Gallery%2C New York",
   "life_date": "American (born England), born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mary Frank",
   "dated": "c. 1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dr. and Mrs. Wesley Halpert",
-  "accession_number": "82.117.2",
-  "artist": "Mary Frank"
+  "accession_number": "82.117.2"
 }

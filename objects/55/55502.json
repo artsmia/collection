@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "life_date": "Mexican, born 1934",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "José Luis Cuévas",
   "dated": "1966",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Chop Mark\r\n\r\nsee Signed Signed in pencil: [Cuevas]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "P.68.55                                   ",
-  "artist": "José Luis Cuévas"
+  "accession_number": "P.68.55"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Meissen, Germany, est. 1710",
   "nationality": "",
   "role": "Artist",
+  "artist": "Meissen Porcelain Factory",
   "dated": "before 1756 (?)",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Teacup and Saucer, ceramic, cat. card dims diam 2-3/4 x H 2-3/4\\' White ground with scenes of ships landing in panel on cup and landscape panel with bridge on saucer with border of gold and lavendar.",
+  "provenance": "",
   "creditline": "Bequest of Alfred Duane Pell",
-  "accession_number": "25.417.81a,b                              ",
-  "artist": "Meissen Porcelain Factory"
+  "accession_number": "25.417.81a,b"
 }

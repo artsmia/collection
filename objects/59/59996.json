@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1988]",
   "text": "",
   "description": "woman with long blonde hair wearing a chauffer\\'s cap with 2 pins, long earrings, large rings, 2 belts and revealing blouse, held closed with a large pin",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.18                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.18"
 }

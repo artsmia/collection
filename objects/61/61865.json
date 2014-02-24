@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1901-1979",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beauford Delaney",
   "dated": "1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription\r\n\r\nLLC in black ink:  LRC in black ink: [Beauford Delaney/55/Spain]",
   "text": "",
   "description": "tan wash in background; thick black lines and curves; blue forms; torn from notebook",
+  "provenance": "",
   "creditline": "Gift of the Harriet Hanley Estate",
-  "accession_number": "2002.114.1                                ",
-  "artist": "Beauford Delaney"
+  "accession_number": "2002.114.1"
 }

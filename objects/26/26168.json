@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BDie Photographische Sammlung%2FSK Stiftung Kultur - August Sander Archiv%2C K%26ouml%3Bln%3B ARS New York 1998",
+  "image_copyright": "%26Acirc%3B%26copy%3BDie Photographische Sammlung %2F SK Stiftung Kultur - August Sander Archiv%2C K%26Atilde%3B%26para%3Bln %2F ARS New York 1998",
   "life_date": "German, 1876 - 1964",
   "nationality": "German",
   "role": "Artist",
+  "artist": "August Sander",
   "dated": "c. 1912",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.15                                 ",
-  "artist": "August Sander"
+  "accession_number": "89.125.15"
 }

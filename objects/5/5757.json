@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3BIPM International Photo Marketing",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3BIPM International Photo Marketing",
   "life_date": "Malian, 1921-2001",
   "nationality": "Malian",
   "role": "Artist",
+  "artist": "Seydou Keïta",
   "dated": "1921-1988",
   "culture": null,
   "country": "Mali",
@@ -17,8 +18,8 @@
   "style": "20th century",
   "marks": " ",
   "text": "",
-  "description": null,
+  "description": "two female friends seated and dressed in loose \\'grand Dakar\\' dresses, one in a flower print and the other with large white spots within banding\r\nTwo friends dressed in loose \\\"grand Dakar\\\" dresses, one in a flower print, and the other with large white spots known as \\\"petites pièces d\\'un franc\\\" (tama-tama ni).\r\n",
+  "provenance": "",
   "creditline": "Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "98.39.3",
-  "artist": "Seydou Keïta"
+  "accession_number": "98.39.3"
 }

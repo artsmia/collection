@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "American, 1780 - 1839",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Wesley Jarvis",
   "dated": "1815",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Captain Samuel Reid was one of the heroes of the War of 1812, defeating the British in 1814 and saving New Orleans from British conquest. In 1817, two years after this portrait was painted, Reid designed the present pattern of the American flag of stars and bars, with thirteen stripes representing the original American colonies and a new star being added each time a new state is admitted to the Union. The flag depicted in this portrait shows a style of American flag with white stripes on the outer edges, one of the unconventional versions of the flag which preceded Reid's standardization.",
   "description": "Portrait. American flag. One of a series of portraits of heroes of the War of 1812.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "45.6                                      ",
-  "artist": "John Wesley Jarvis"
+  "accession_number": "45.6"
 }

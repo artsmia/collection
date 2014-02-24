@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B1970 Eileen Cowin",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Eileen Cowin",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "w/ welded aluminum frame",
+  "provenance": "",
   "creditline": "Kate and Hall J. Peterson Fund",
-  "accession_number": "71.21.3                                   ",
-  "artist": "Eileen Cowin"
+  "accession_number": "71.21.3"
 }

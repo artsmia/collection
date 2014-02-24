@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1952",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Title, Inscription, Stamps ",
   "text": "",
   "description": "two Koreans knitting",
+  "provenance": "",
   "creditline": "Gift of Joseph Chanin and Susan Carolanza",
-  "accession_number": "97.158.12                                 ",
-  "artist": "Werner Bischof"
+  "accession_number": "97.158.12"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BDaniel Ranalli%2C 1978",
+  "image_copyright": "%26Acirc%3B%26copy%3BDaniel Ranalli%2C 1978",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Daniel Ranalli",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "matted",
+  "provenance": "",
   "creditline": "Gift of Dr. Lee A. Kitzenberg",
-  "accession_number": "90.129.14                                 ",
-  "artist": "Daniel Ranalli"
+  "accession_number": "90.129.14"
 }

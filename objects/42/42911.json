@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1929",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Lithograph",
   "title": "Orientale à la croix trifoliée",
   "id": "http://api.artsmia.org/objects/42911",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Concurrent with the numerous shaded lithographs from the 1920s, Matisse also executed many lithographs linear in character, such as this example. The exuberant ornamentation in this print does not appear in the décor but on the model’s Persian robe. Matisse creates an evident visual opposition between the profusion of curved lines that describes the robe and the sparse network of straight lines across the background. ",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Rev. Richard L. Hillstrom in memory of his Parents, Martin and Anna Hillstrom",
-  "accession_number": "P.91.23.3",
-  "artist": "Henri Matisse"
+  "accession_number": "P.91.23.3"
 }

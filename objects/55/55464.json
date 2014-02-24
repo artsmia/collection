@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Russian, 1890 - 1967",
   "nationality": "Russian",
   "role": "Artist",
+  "artist": "Ossip Zadkine",
   "dated": "1964",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nsee Signed in pencil: [O. Zadkine]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Abby Weed Grey",
-  "accession_number": "P.83.55                                   ",
-  "artist": "Ossip Zadkine"
+  "accession_number": "P.83.55"
 }

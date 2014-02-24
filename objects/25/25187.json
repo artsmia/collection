@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1895-1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John B. Flannagan",
   "dated": "c. 1930-1939",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Brush and brown ink",
   "title": "Female Nude",
   "id": "http://api.artsmia.org/objects/25187",
-  "room": "Not on View",
+  "room": "G344",
   "style": "20th century",
   "marks": "Signature; Inscription Signed, inscribed in pencil, LR: [To Friedel John ",
   "text": "Fargo, North Dakota native John Flannagan attended the Minneapolis School of Art. He is primarily known as a sculptor, but he appreciated the immediacy of drawing and was a prolific draftsman. He tried to reduce forms to spare calligraphic lines. Here, the result bears the unmistakable imprint of Matisse.",
   "description": "",
+  "provenance": "",
   "creditline": "GIft of Dr. and Mrs. John E. Larkin, Jr.",
-  "accession_number": "87.102.1",
-  "artist": "John B. Flannagan"
+  "accession_number": "87.102.1"
 }

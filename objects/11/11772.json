@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Allen Downs",
   "life_date": "American, 1915 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Allen Downs",
   "dated": "1950",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title ",
   "text": "",
   "description": "horse at left facing a large snowcovered haystack; snowcovered field in background; mounted on a board",
+  "provenance": "",
   "creditline": "Gift of Wayne R. Lazorik",
-  "accession_number": "98.194.2                                  ",
-  "artist": "Allen Downs"
+  "accession_number": "98.194.2"
 }

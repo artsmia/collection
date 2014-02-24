@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Jack Youngerman %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jack Youngerman %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1926",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jack Youngerman",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, date and edition LRC, in pencil: [ JY 80]",
   "text": "",
   "description": "dark blue and brown woodgrain in background; brown lines at corners; three blue swirling shapes inside a turquoise circle; abstract image",
+  "provenance": "",
   "creditline": "Gift of Terrence D. Curley",
-  "accession_number": "2003.255.3                                ",
-  "artist": "Jack Youngerman"
+  "accession_number": "2003.255.3"
 }

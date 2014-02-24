@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photograph by Irving Penn%2C %26copy%3B by Irving Penn",
+  "image_copyright": "Photograph by Irving Penn%2C %26Acirc%3B%26copy%3B by Irving Penn",
   "life_date": "American, 1917 - 2009",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Irving Penn",
   "dated": "1948",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\no on back, in pencil: [Irving Penn] and [TRUMAN CAPO",
   "text": "",
   "description": "man wearing a coat, kneeling on a chair in a corner",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.125",
-  "artist": "Irving Penn"
+  "accession_number": "2013.35.125"
 }

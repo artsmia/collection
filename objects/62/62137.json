@@ -1,16 +1,17 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1430",
   "culture": null,
   "country": "China",
   "continent": null,
   "dimension": "18 x 11 1/2 x 11 1/2 in. (45.72 x 29.21 x 29.21 cm)",
-  "medium": null,
+  "medium": "Porcelain with incised and cobalt blue painted décor under a clear glaze",
   "title": "Dragon and Phoenix Vase (Mei-ping)",
   "id": "http://api.artsmia.org/objects/62137",
   "room": "G210",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The entire body of this extraordinary vessel serves as a ground for a magnificently painted composition dominated by a dragon on one side and a phoenix on the other, each reserved in white, against a blue ground. The features of both creatures are carefully incised as are the white reserve clouds, which appear to drift through a deep blue sky. The artist applied cobalt blue unsparingly. Piled thickly in places, it attains the highly prized, richly mottled effect known as \"heaped and piled.\" This occurs through the eruptions of naturally occurring iron-oxide impurities in the cobalt during firing. The vertically placed dragon and phoenix appearing on opposite sides of the vessel are unprecedented and known only in this example.",
   "description": "large bird with long neck and long feathers, tail extended; rampant dragon; white figures on blue ground; incised details",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2002.126.1                                ",
-  "artist": ""
+  "accession_number": "2002.126.1"
 }

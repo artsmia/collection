@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Kawase Hasui",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Kawase Hasui",
   "life_date": "Japanese, 1883 - 1957",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kawase Hasui",
   "dated": "December 1929",
   "culture": null,
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/76589",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [??] {Hasui}",
+  "marks": " [巴水] {Hasui}",
   "text": "",
   "description": "landscape",
+  "provenance": "",
   "creditline": "Gift of Paul Schweitzer",
-  "accession_number": "P.77.28.18",
-  "artist": "Kawase Hasui"
+  "accession_number": "P.77.28.18"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BFrank Stella %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Stella %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Stella",
   "dated": "1996",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions ",
   "text": "",
   "description": "abstract sculpture with rounded section on bottom cut into parallel arcs and separated; horizontal bar at top with wedge-shaped plate on one side at top",
+  "provenance": "",
   "creditline": "Gift of Diane and Richard Cohen",
-  "accession_number": "2000.237.12",
-  "artist": "Frank Stella"
+  "accession_number": "2000.237.12"
 }

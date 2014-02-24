@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Staffordshire, England, est. 1759",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wedgwood",
   "dated": "19th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Creamer, ceramic, buff colored cane ware with band of grape vine design in relief, octagonal shape, English, XIXc  cat. card dims 2-1/2 x 3 x 5-1/2; needs renumbering (last # unreadable); rim chipped",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.8.59                                   ",
-  "artist": "Wedgwood"
+  "accession_number": "23.8.59"
 }

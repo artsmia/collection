@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Reinold Reiss %2F The Reiss Partnership",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Reinold Reiss %2F The Reiss Partnership",
   "life_date": "American (b. Germany), 1886 - 1953",
   "nationality": "American (b. Germany)",
   "role": "Artist",
+  "artist": "Winold Reiss",
   "dated": "1927",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LR: [Winold / Reiss]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "73.54.1",
-  "artist": "Winold Reiss"
+  "accession_number": "73.54.1"
 }

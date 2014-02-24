@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Francis Bacon %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Francis Bacon %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British (born Ireland), 1909 - 1992",
   "nationality": "British (born Ireland)",
   "role": "Artist",
+  "artist": "Francis Bacon",
   "dated": "1953",
   "culture": null,
   "country": "England",
@@ -16,9 +17,9 @@
   "room": "G375",
   "style": "20th century",
   "marks": "Inscription\r\n\r\nOn verso (in red): [#3] ",
-  "text": "",
+  "text": "The human figure was Francis Bacon's principal object of study throughout his career.  This picture belongs to a series of eight paintings, which began as a portrait of Bacon's friend and biographer David Sylvester but became, in the final project, studies of a seated pope. Inspired by Eadweard Muybridge's sequential photos of the human body in movement, Bacon made his figures more and more agititated until, in the final painting, the pope is convulsive. Here his ambiguous facial expression rests somewhere between the grimace of Portrait V and the horrific scream of Portrait VII.\r\nThis painting is one of the first Francis Bacon paintings acquired by an American museum.",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "58.35                                     ",
-  "artist": "Francis Bacon"
+  "accession_number": "58.35"
 }

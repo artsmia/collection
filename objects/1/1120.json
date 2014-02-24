@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "4th-3rd century B.C.",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "7 5/8 in. (19.37 cm)",
-  "medium": "Chin-ts?un style\r\nBronze inlaid with gold",
+  "medium": "Chin-ts’un style\r\nBronze inlaid with gold",
   "title": "Ko (Dagger-Axe)",
   "id": "http://api.artsmia.org/objects/1120",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "The curling dragon and bird-dragon decor of this weapon is inlaid with silver. The slits in the blade served as passages for the thong that bound the haft to the kuo. Patina green Bronze with gold inlay.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.54                                  ",
-  "artist": ""
+  "accession_number": "50.46.54"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Dmitrii Baltermants",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Dmitrii Baltermants",
   "life_date": "Russian, 1912 - 1990",
   "nationality": "Russian",
   "role": "Artist",
+  "artist": "Dmitrii Baltermants",
   "dated": "20th century",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Stamp ",
   "text": "",
   "description": "Man dressed in dark pants, shoes, socks and long-sleeved shirt sitting in a folding beach chair reading a newspaper; city visible in background; water at left",
+  "provenance": "",
   "creditline": "Gift of Richard and Linda Parins",
-  "accession_number": "98.266.9",
-  "artist": "Dmitrii Baltermants"
+  "accession_number": "98.266.9"
 }

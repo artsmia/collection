@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BSylvia Plachy",
+  "image_copyright": "%26Acirc%3B%26copy%3BSylvia Plachy",
   "life_date": "American (b. Hungary), born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sylvia Plachy",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Patty and Astor",
   "id": "http://api.artsmia.org/objects/30567",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "98.143.8                                  ",
-  "artist": "Sylvia Plachy"
+  "accession_number": "98.143.8"
 }

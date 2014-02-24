@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Richard Hunt%2C C.M.%2C O.B.C.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Hunt%2C C.M.%2C O.B.C.",
   "life_date": "Canadian, born 1951",
   "nationality": "Canadian",
   "role": "Artist",
+  "artist": "Richard Hunt",
   "dated": "1993",
   "culture": "Kwakwaka'wakw (Kwakiutl)",
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Anne and Hadlai Hull Fund",
-  "accession_number": "93.42",
-  "artist": "Richard Hunt"
+  "accession_number": "93.42"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLawrence McFarland",
+  "image_copyright": "%26Acirc%3B%26copy%3BLawrence McFarland",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lawrence McFarland",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.2                                  ",
-  "artist": "Lawrence McFarland"
+  "accession_number": "98.144.2"
 }

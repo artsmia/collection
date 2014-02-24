@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "American, 1871 - 1956",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lyonel Feininger",
   "dated": "1916",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "In pencil \\\"Frl. v. Przthowsky gewidmet 13 III25\\\" In pencil at l.l. margin",
   "text": "",
   "description": "Abendgruss, 1917 by Leona Prasse; Annotated: To Frl. Przthowski 13 III25; Vanderbank, Frankfurt\r\n",
+  "provenance": "",
   "creditline": "The Hall James Peterson Fund",
-  "accession_number": "P.68.344                                  ",
-  "artist": "Lyonel Feininger"
+  "accession_number": "P.68.344"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FADAGP%2C Paris",
   "life_date": "French, 1883 - 1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Maurice Utrillo",
   "dated": "20th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature in brush and wash, LLC: [Maurice Utrillo V.]",
   "text": "",
   "description": "street curving up a hill with buildings, walls and trees on both sides",
+  "provenance": "",
   "creditline": "Gift of the Estate of Dorothy Millet Lindeke",
-  "accession_number": "84.74",
-  "artist": "Maurice Utrillo"
+  "accession_number": "84.74"
 }

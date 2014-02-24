@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 18th-early 19th century",
   "culture": null,
   "country": "France or England",
   "continent": "Europe",
   "dimension": null,
-  "medium": "",
+  "medium": null,
   "title": "Fashion Plate",
   "id": "http://api.artsmia.org/objects/78687",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.22,084                                  ",
-  "artist": ""
+  "accession_number": "P.22,084"
 }

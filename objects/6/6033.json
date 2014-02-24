@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "5th century BC",
   "culture": "Greek",
   "country": "Greece",
-  "continent": "",
+  "continent": null,
   "dimension": "3 11/16 x 6 15/16 x 3 3/16 in. (9.37 x 17.62 x 8.1 cm)",
   "medium": "Bronze",
   "title": "Kantharos",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The <I>kantharos<I> (plural, <I>kantharoi<I>), a type of drinking cup with two high loop handles and a deep bowl, is particularly associated with Dionysos, the Greek god of wine and vegetation. Its horizontal handles make this cup unusual, since they more closely resemble those of a shallower type of cup known as a <I>kylix<I>than those of other <I>kantharoi<I>. Since few ceramic examples of <I>kantharoi<I> survive, it is believed that they were more usually made of bronze, silver, or gold. Metal examples, often destroyed by corrosion or melted down for other uses, are also rare.",
   "description": "two wire-like handles; two lobes on body which rests on lobed stem attached to foot",
+  "provenance": "",
   "creditline": "Gift of John E. Andrus III, in memory of Marion H. Andrus",
-  "accession_number": "99.92                                     ",
-  "artist": ""
+  "accession_number": "99.92"
 }

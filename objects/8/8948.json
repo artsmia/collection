@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1720",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Delft (tin-glazed earthenware)",
   "title": "Barber's bowl",
   "id": "http://api.artsmia.org/objects/8948",
-  "room": "G332",
+  "room": "Not on View",
   "style": "18th century",
   "marks": "Sticker ",
   "text": "",
   "description": "blue and white design; birds around rim; scissors, razor, comb and mirror images inside basin; rim indent for neck",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. George R. Steiner",
-  "accession_number": "96.36.6                                   ",
-  "artist": ""
+  "accession_number": "96.36.6"
 }

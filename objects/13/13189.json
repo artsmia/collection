@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1891 - 1969",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Otto Dix",
   "dated": "1919",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nOn verso, in graphite [150] [DIX], in LR",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Kate Butler Peterson",
-  "accession_number": "2000.242.9",
-  "artist": "Otto Dix"
+  "accession_number": "2000.242.9"
 }

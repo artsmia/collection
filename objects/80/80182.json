@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "German, 1891 - 1976",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Ernst",
   "dated": "1934",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "binding: paper; slip case: cardboard with 2 collages",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.84.4.4",
-  "artist": "Max Ernst"
+  "accession_number": "B.84.4.4"
 }

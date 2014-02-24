@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "2nd-9th century",
   "culture": "Coptic",
   "country": "Egypt",
@@ -13,12 +14,12 @@
   "medium": "Wool and linen",
   "title": "Framed Embroidery",
   "id": "http://api.artsmia.org/objects/22087",
-  "room": "Not on View",
+  "room": "G316",
   "style": "2nd-9th century",
   "marks": " ",
   "text": "",
   "description": "red and black zig zag design with two medallions in green and brown, one medallion in blue and brown",
+  "provenance": "",
   "creditline": "Gift of Murray Waters",
-  "accession_number": "79.30.1                                   ",
-  "artist": ""
+  "accession_number": "79.30.1"
 }

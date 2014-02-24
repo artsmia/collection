@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Alen MacWeeney",
   "life_date": "American, (born Ireland), 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alen MacWeeney",
   "dated": "1965-1966",
   "culture": null,
   "country": "Ireland",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ivor Massey",
-  "accession_number": "82.127.25                                 ",
-  "artist": "Alen MacWeeney"
+  "accession_number": "82.127.25"
 }

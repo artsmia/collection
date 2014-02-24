@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Kenneth Callahan",
+  "image_copyright": "%26Acirc%3B%26copy%3B Kenneth Callahan",
   "life_date": "American, 1905-1986",
   "nationality": null,
   "role": "Artist",
+  "artist": "Kenneth Callahan",
   "dated": "1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature Signed LR: [Kenneth Callahan]",
   "text": "",
   "description": "Landscape with jagged cliffs on left, figures in foreground, with one figure on horseback.",
+  "provenance": "",
   "creditline": "Bequest of Emily Winthrop Miles",
-  "accession_number": "64.21.1",
-  "artist": "Kenneth Callahan"
+  "accession_number": "64.21.1"
 }

@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1786 - 1865",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Kunisada",
   "dated": "c. 1830-1844",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "10 1/8 x 6 7/8 in. (25.7 x 17.4 cm) (image, sheet)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "View of Arai",
   "id": "http://api.artsmia.org/objects/66777",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Ko_cho_ro_ Kunisada ga",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "P.75.51.54                                ",
-  "artist": "Utagawa Kunisada"
+  "accession_number": "P.75.51.54"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "25-220",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "This magnificent statue of a young stallion represents one of the fabled \"heavenly horses\" of the Eastern Han dynasty (A.D. 25-220). Imported along the Silk Road from Ferghana in Central Asia, western horses were greatly admired for their strength, size, and endurance by the Han military and aristocracy. All members of Han elite owned horses for riding and to pull their beautifully appointed carriages. Bronze horses such as this one were placed in elaborately furnished aristocratic tombs and were meant to provide transportation for the deceased in the afterlife. \r\n<P>This horse was constructed of nine separately cast bronze sections. The surface of the bronze has corroded to brilliant green and blue tones. Traces of paint--black, red, and white--are clearly visible in areas around the eyes, mouth, neck, mane, and belly. The original coppery bronze color is also visible in large patches around the girth of the horse.\r\n<P>Most large-scale bronze horses, such as this one, have come from Eastern Han tombs in southwest China, principally Sichuan province. This outstanding example of an Eastern Han bronze sculpture is the first horse of its type to enter an American collection.\r\n",
   "description": "standing horse with legs slightly splayed outward; wide eyes; open mouth with exposed teeth; upward-pointed ears; green patina with white, blue and red pigment traces",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2002.45                                   ",
-  "artist": ""
+  "accession_number": "2002.45"
 }

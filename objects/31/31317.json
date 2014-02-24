@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJames Henkel",
+  "image_copyright": "%26Acirc%3B%26copy%3BJames Henkel",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James Henkel",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, Inscription, Signature, Date ",
   "text": "",
   "description": "collage with two boxes and two soap bars at center",
+  "provenance": "",
   "creditline": "Gift of John and Beverly Rollwagen",
-  "accession_number": "99.203.9                                  ",
-  "artist": "James Henkel"
+  "accession_number": "99.203.9"
 }

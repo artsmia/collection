@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BWellington Lee",
+  "image_copyright": "%26Acirc%3B%26copy%3BWellington Lee",
   "life_date": "American (born China), 1918 - 2001",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wellington Lee",
   "dated": "1944",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "in Camera Club, New York",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "93.35.13                                  ",
-  "artist": "Wellington Lee"
+  "accession_number": "93.35.13"
 }

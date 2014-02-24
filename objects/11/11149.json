@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Baldessari",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Baldessari",
   "life_date": "American, born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Baldessari",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Benton Case, Jr.",
-  "accession_number": "81.99.1",
-  "artist": "John Baldessari"
+  "accession_number": "81.99.1"
 }

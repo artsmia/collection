@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3B Man Ray Trust %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Man Ray Trust %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "American, 1890 - 1976",
   "nationality": null,
   "role": "Artist",
+  "artist": "Man Ray (Emmanuel Rudnitsky)",
   "dated": "1924",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund and The Putnam Dana McMillan Fund",
-  "accession_number": "96.24",
-  "artist": "Man Ray (Emmanuel Rudnitsky)"
+  "accession_number": "96.24"
 }

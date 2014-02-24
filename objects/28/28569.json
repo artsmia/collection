@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael A. Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael A. Smith",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael A. Smith",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date; Series; Number ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Christopher Cardozo",
-  "accession_number": "94.99.5",
-  "artist": "Michael A. Smith"
+  "accession_number": "94.99.5"
 }

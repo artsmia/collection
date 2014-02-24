@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "April 1857",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "image, sheet: 14 7/16 x 9 7/16 in. (36.7 x 73.9 cm)\r\n29 15/16 x 39 3/4 in. (76 x 101 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "View of the Whirlpool at Awa",
   "id": "http://api.artsmia.org/objects/65420",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nishiki-e, triptych",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.225a-c                             ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.225a-c"
 }

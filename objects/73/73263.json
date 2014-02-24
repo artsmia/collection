@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Antony Jakob Goedkint",
   "dated": "1678",
   "culture": null,
   "country": "The Netherlands",
@@ -13,12 +14,12 @@
   "medium": "Hand-colored engraving",
   "title": "Frontispiece for Volume 1 of  Hortus Indicus Malabaricus",
   "id": "http://api.artsmia.org/objects/73263",
-  "room": "Not on View",
+  "room": "G103",
   "style": "17th-18th century",
   "marks": " ",
-  "text": "This title page perfectly illustrates the melding of Indian and European influences in the creation of van Reede's tome describing the medicinal properties of Indic plants. The artist inscribed the title in the center of a classical Greco-Roman entablature, upheld by two caryatids, in the middle of a tropical garden. In the foreground, he invents an Indian goddess of botany, who holds a rake and is attended to by four Indian cherubs. Every illustration within the Hortus also attests to the synthesis of European and Indic descriptive practices by listing the local plant name in Roman, Malayalam, Nagari, and Arabic scripts.      ",
+  "text": "This title page perfectly illustrates the melding of Indian and European influences in the creation of van Reede’s tome describing the medicinal properties of Indic plants. The artist inscribed the title in the center of a classical Greco-Roman entablature, upheld by two caryatids, in the middle of a tropical garden. In the foreground, he invents an Indian goddess of botany, who holds a rake and is attended to by four Indian cherubs. Every illustration within the Hortus also attests to the synthesis of European and Indic descriptive practices by listing the local plant name in Roman, Malayalam, Nagari, and Arabic scripts.      ",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.17,680",
-  "artist": "Antony Jakob Goedkint"
+  "accession_number": "P.17,680"
 }

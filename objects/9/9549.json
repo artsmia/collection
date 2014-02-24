@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Louise Nevelson %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Louise Nevelson %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born Ukraine), 1899-1988",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Louise Nevelson",
   "dated": "c. 1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions; Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
-  "accession_number": "P.98.20.1",
-  "artist": "Louise Nevelson"
+  "accession_number": "P.98.20.1"
 }

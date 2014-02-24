@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart D. Klipper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart D. Klipper",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart D. Klipper",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Lincoln Center (portrait of a man in the subway)",
   "id": "http://api.artsmia.org/objects/10883",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.3                                  ",
-  "artist": "Stuart D. Klipper"
+  "accession_number": "89.125.3"
 }

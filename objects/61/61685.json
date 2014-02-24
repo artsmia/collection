@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Lee Friedlander. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Lee Friedlander. All rights reserved.",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lee Friedlander",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "man and boy behind window with signs",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "78.37.3",
-  "artist": "Lee Friedlander"
+  "accession_number": "78.37.3"
 }

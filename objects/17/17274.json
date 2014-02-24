@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignees",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Floyd E. Brewer",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LR: [Floyd E. Brewer]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "46.29                                     ",
-  "artist": "Floyd E. Brewer"
+  "accession_number": "46.29"
 }

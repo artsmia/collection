@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1898 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Reginald Marsh",
   "dated": "c. 1946",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "Although Reginald Marsh wrote that painting was \"a laborious way to make a bad drawing,\" he was an excellent watercolorist. Marsh's early days as an illustrator, including seven years on staff at The New Yorker, served him well in his observations of humanity. His expert draughtsmanship is evident in the mass of uninhibited bodies caught in the Coney Island surf.",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Felicia Meyer Marsh",
-  "accession_number": "82.103.1",
-  "artist": "Reginald Marsh"
+  "accession_number": "82.103.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B David P. Little",
+  "image_copyright": "%26Acirc%3B%26copy%3B David P. Little",
   "life_date": "American (Oglala), born 1953",
   "nationality": null,
   "role": "Artist",
+  "artist": "David P. Little",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "92.9.2",
-  "artist": "David P. Little"
+  "accession_number": "92.9.2"
 }

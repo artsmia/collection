@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BWellington Lee",
+  "image_copyright": "%26Acirc%3B%26copy%3BWellington Lee",
   "life_date": "American (born China), 1918 - 2001",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wellington Lee",
   "dated": "1984",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "gelatin silver print",
   "title": "Getting Water, Li River, Peoples Republic of China",
   "id": "http://api.artsmia.org/objects/13255",
-  "room": "G280",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Inscription; Title; Stamp; Signature ",
   "text": "",
   "description": "figure wearing short pants and carrying a yoke with 2 buckets, walking into a body of water at LLC; triangular land formations on opposite bank; Li River, Peoples Republic of China",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Wellington Lee",
-  "accession_number": "2000.278.13                               ",
-  "artist": "Wellington Lee"
+  "accession_number": "2000.278.13"
 }

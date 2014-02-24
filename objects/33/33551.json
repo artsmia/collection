@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJoan Moss",
+  "image_copyright": "%26Acirc%3B%26copy%3BJoan Moss",
   "life_date": "American (born Canada), born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joan Moss",
   "dated": "1984",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature; Title; Inscription ",
   "text": "",
   "description": "2 figures kissing in foreground; woman wearing leotard and light colored pants at R with PR hand behind head; fountain in background; matted",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2002.182.16                               ",
-  "artist": "Joan Moss"
+  "accession_number": "2002.182.16"
 }

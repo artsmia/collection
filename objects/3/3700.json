@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1818 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Adolphe Appian",
   "dated": "1868",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date Lower left, in charcoal: [Appian 1868]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "88.1                                      ",
-  "artist": "Adolphe Appian"
+  "accession_number": "88.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "American, (born Germany) 1920-1984",
   "nationality": null,
   "role": "Artist",
+  "artist": "Jimmy Ernst",
   "dated": "1967",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR (scraped out): [Jimmy Ernst 67]",
   "text": "",
   "description": "Abstraction in a circular format.",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "96.133.1                                  ",
-  "artist": "Jimmy Ernst"
+  "accession_number": "96.133.1"
 }

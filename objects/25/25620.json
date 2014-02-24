@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Manuel Komroff",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Manuel Komroff",
   "life_date": "American, 1890-1974",
   "nationality": null,
   "role": "Artist",
+  "artist": "Manuel Komroff",
   "dated": "1905-1974",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nude",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "88.6",
-  "artist": "Manuel Komroff"
+  "accession_number": "88.6"
 }

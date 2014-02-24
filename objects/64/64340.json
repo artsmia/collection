@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1910-1962",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Franz Kline",
   "dated": "1940",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription\r\n\r\nLLC in pencil: [Me LRC, in the plate: [F KUNE/ 1940]",
   "text": "",
   "description": "large room with rocking chair in foreground; woman with a tray and man painting at an easel right of center in background; stove with tea kettle at right, background; two tables with various objects at left, background",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy in honor of Richard J. Campbell, in recognition of his 20 years of service to the Prints and Drawings Department, MIA",
-  "accession_number": "2002.246                                  ",
-  "artist": "Franz Kline"
+  "accession_number": "2002.246"
 }

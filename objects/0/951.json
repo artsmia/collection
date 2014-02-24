@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "11th century BCE",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Chariot Finial with Bird",
   "id": "http://api.artsmia.org/objects/951",
-  "room": "Not on View",
+  "room": "G214",
   "style": "11th century BCE",
   "marks": " ",
   "text": "",
   "description": "This pole top and its companion (50.46.23) resemble the two scored flanges (50.46.46, 50.46.91). In this instance, however, the whole conception is simpler. The bird on the present pole top has only a lightly scored crest that turns up in a short hook at the back. It also has a pellet in the body, thus making it a rattle or a bell. Patina blue-green.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.28",
-  "artist": ""
+  "accession_number": "50.46.28"
 }

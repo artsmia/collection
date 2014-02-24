@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BDavid Husom",
+  "image_copyright": "%26Acirc%3B%26copy%3BDavid Husom",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "David Husom",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Film in the Cities",
-  "accession_number": "96.37.38                                  ",
-  "artist": "David Husom"
+  "accession_number": "96.37.38"
 }

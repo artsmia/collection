@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th-11th century BCE",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "The profile of the body is S-shaped with the inward curvature placed close to the rim of the vessel. Dragonized t\\'ao-t\\'ieh (winged-dragon type) and rising blades with stylized cicadas decorate the neck belt. The body t\\'ao-t\\'ieh, on a ground of squared spirals, displays unusual features horns with the alternate T-shaped and straight scores usually associated with flanges, and a hybrid forehead shield with the upper part hooked and the lower half drawn as the rounded-top shield. Also to be noted is the small vertical dragon beneath the tail of the cleft t\\'ao-t\\'ieh under the handle. For a discussion of this element, see Karlgren, Number 11, Plate 14 (50.46.43). The handle, with a bovine head at the top, terminates with curved legs ending in hoofs on the sides. Underneath, in the place for an inscription, is a human figure in flat relief on a spiral ground. Patina grey-green and blue.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.43                                  ",
-  "artist": ""
+  "accession_number": "50.46.43"
 }

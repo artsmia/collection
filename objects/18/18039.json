@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th-17th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "one of a pair of hairpins, Feng Huang (Phoenix), filigree, openwork, gold, green patina;",
+  "provenance": "",
   "creditline": "Gift of Mrs. Charles S. Pillsbury, Phillip Winston Pillsbury, Mary Stinson Pillsbury Lord, Katherine Stevens Pillsbury McKee and Helen Winston Pillsbury Becker in memory of Charles S. Pillsbury",
-  "accession_number": "51.27.57.2                                ",
-  "artist": ""
+  "accession_number": "51.27.57.2"
 }

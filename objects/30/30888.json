@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1950",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Inscription; Stamp; Label ",
   "text": "",
   "description": "Row house with chimneys and laundry hanging outside; man with a bag over in shoulder, walking on road, lower right corner",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "98.263.1                                  ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "98.263.1"
 }

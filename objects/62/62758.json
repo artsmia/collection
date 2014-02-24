@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "c. 1831-1832",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "10 1/16 x 15 in. (25.5 x 38.1 cm) (image)\r\n10 1/4 x 15 in. (26.1 x 38.1 cm) (sheet)\r\n18 x 22 1/16 in. (45.7 x 56 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Bridge at Fukui in Echizen Province",
   "id": "http://api.artsmia.org/objects/62758",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " sakino Hokusai Iitsu hitsu",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
-  "accession_number": "P.13,726                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "P.13,726"
 }

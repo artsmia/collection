@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1914-1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Saul P. Steinberg",
   "dated": "1964",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Chop; Stamp LR in ink: [STEINBERG/1964]",
   "text": "",
   "description": "Cover illustration for New Yorker magazine",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "78.58",
-  "artist": "Saul P. Steinberg"
+  "accession_number": "78.58"
 }

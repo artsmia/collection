@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Mark Power",
+  "image_copyright": "%26Acirc%3B%26copy%3B Mark Power",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mark Power",
   "dated": "1952-1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.18",
-  "artist": "Mark Power"
+  "accession_number": "89.125.18"
 }

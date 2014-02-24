@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Joel Janowitz",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Janowitz",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Janowitz",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, signature, date and edition LLC, below image, in pencil: [\\\"Greenhouse Space/ F",
   "text": "",
   "description": "abstracted view inside an orange-framed greenhouse; clusters of green leaves throughout",
+  "provenance": "",
   "creditline": "The Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
-  "accession_number": "2003.151.2",
-  "artist": "Joel Janowitz"
+  "accession_number": "2003.151.2"
 }

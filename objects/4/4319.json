@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "ca. 1780-90",
   "culture": null,
   "country": "India",
@@ -13,12 +14,12 @@
   "medium": "Opaque watercolor and gold on paper",
   "title": "Lovers Watching an Approaching Thunderstorm",
   "id": "http://api.artsmia.org/objects/4319",
-  "room": "Not on View",
+  "room": "G103",
   "style": "late 18th century",
   "marks": "Verso:\r\n\r\n53 and A.1 written in pencil ",
   "text": "",
   "description": "A princely couple, surrounded by female musicians and attendants, gaze upon an approaching storm.  The pastoral countryside is darkened on the right by thunder and lightning and punctuated by flying birds.",
+  "provenance": "",
   "creditline": "The Margaret McMillan Webber Fund",
-  "accession_number": "92.102",
-  "artist": ""
+  "accession_number": "92.102"
 }

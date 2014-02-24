@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Paul Ickovic",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paul Ickovic",
   "life_date": "English, born 1944",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Paul Ickovic",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "two women in maid uniforms leaning against marble wall, holding open-faced sandwiches; L woman has PR hand over mouth; R woman has PR hand up to chin",
+  "provenance": "",
   "creditline": "Ellen and Fred Wells Fund",
-  "accession_number": "98.40.6",
-  "artist": "Paul Ickovic"
+  "accession_number": "98.40.6"
 }

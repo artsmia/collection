@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BCharles Harbutt",
+  "image_copyright": "%26Acirc%3B%26copy%3BCharles Harbutt",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Harbutt",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date ",
   "text": "",
   "description": "Charles Bronson billboard in left background",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.31                                 ",
-  "artist": "Charles Harbutt"
+  "accession_number": "98.144.31"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Ende",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Ende",
   "life_date": "Israeli, born 1945",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Michael Ende",
   "dated": "c. 1985",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription ",
   "text": "",
   "description": "plaque with arch at top (with chain fringe) over a door with 2 arched windows, 2 square filigree windows and arched door with rail; 3 characters below door",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.46",
-  "artist": "Michael Ende"
+  "accession_number": "2003.228.46"
 }

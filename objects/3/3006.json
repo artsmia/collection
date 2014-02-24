@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1760",
   "culture": null,
   "country": "Jingdezhen, China",
@@ -13,12 +14,12 @@
   "medium": "Porcelain",
   "title": "Coffee pot from a coffee set",
   "id": "http://api.artsmia.org/objects/3006",
-  "room": "G180",
+  "room": "G209",
   "style": "18th century",
   "marks": " ",
   "text": "This coffee pot is part of a service decorated with scenes of Dutch ships in Capetown Harbor, in what is now South Africa. Investors created the Dutch East India Company in 1609 to provide support for Dutch trade. Other European nations created competing companies. Capetown was an important stop for European ships seeking provisions on the trade routes to and from China -- in this scene dock workers roll barrels of supplies toward the ships at the port.",
   "description": "coffee pot, ceramic, Chinese Export; no ab on card scene of barrel rolling, monestary in the distance",
+  "provenance": "",
   "creditline": "Gift of Louise J. Drews in memory of her parents Margaret and Carson Jamieson",
-  "accession_number": "82.110.4a,b                               ",
-  "artist": ""
+  "accession_number": "82.110.4a,b"
 }

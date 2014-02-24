@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Roderick H. Massey",
+  "image_copyright": "%26Acirc%3B%26copy%3B Roderick H. Massey",
   "life_date": "American, 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roderick Massey",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. John Ryman",
-  "accession_number": "74.48",
-  "artist": "Roderick Massey"
+  "accession_number": "74.48"
 }

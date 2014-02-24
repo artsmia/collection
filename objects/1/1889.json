@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1930",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Venus in a Shell I",
   "id": "http://api.artsmia.org/objects/1889",
-  "room": "Not on View",
+  "room": "G377",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Venus, the ancient Roman goddess of love and beauty, sits upon a seashell, the traditional symbol of her birth from the waters of the sea. Matisse chose to emphasize a strong vertical accent in this sculpture, creating a pronounced sense of ascendancy that underscores the mythological theme.  \r\n\r\n\r\n ",
   "description": "Cast no. 6/ 10; cast in 1931",
+  "provenance": "",
   "creditline": "Gift of the Dayton Hudson Corporation",
-  "accession_number": "71.9.4",
-  "artist": "Henri Matisse"
+  "accession_number": "71.9.4"
 }

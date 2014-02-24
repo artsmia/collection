@@ -5,11 +5,12 @@
   "life_date": "French, 1800 - 1857",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Achille Devéria",
   "dated": "c. 1830",
   "culture": null,
   "country": "France",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Hand-colored lithograph",
   "title": "Plate from a Fashion Journal",
   "id": "http://api.artsmia.org/objects/75390",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Miscellaneous subjects of maternal love and disillusions of matrimony.",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.21,150                                  ",
-  "artist": "Achille Devéria"
+  "accession_number": "P.21,150"
 }

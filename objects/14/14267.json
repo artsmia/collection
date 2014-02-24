@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
+  "image_copyright": "%26Acirc%3B%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
   "life_date": "American, 1882 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rockwell Kent",
   "dated": "October 18, 1922",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date; Inscriptions (verso)\r\n\r\nse [Macy Island, Oct. 18,1922, Rockwell Kent, T.d.F.]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
-  "accession_number": "24.50",
-  "artist": "Rockwell Kent"
+  "accession_number": "24.50"
 }

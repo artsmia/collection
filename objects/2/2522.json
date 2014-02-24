@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "No. 45006 %26copy%3BMarsha Burns 1979",
+  "image_copyright": "No. 45006 %26Acirc%3B%26copy%3BMarsha Burns 1979",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Marsha Burns",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Anonymous gift of funds",
-  "accession_number": "78.100                                    ",
-  "artist": "Marsha Burns"
+  "accession_number": "78.100"
 }

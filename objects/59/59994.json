@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1980]",
   "text": "",
   "description": "2 women seated at a small table, smoking; woman on L wears fringed dress and small cap over hear ears; woman on R wears printed dress; flowered wallpaper behind table",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.16                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.16"
 }

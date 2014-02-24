@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLarry Merrill",
+  "image_copyright": "%26Acirc%3B%26copy%3B Larry Merrill",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lawrence J. Merrill",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "(poles, aquarium under tree)",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "79.38.3                                   ",
-  "artist": "Lawrence J. Merrill"
+  "accession_number": "79.38.3"
 }

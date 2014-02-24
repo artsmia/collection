@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Estate of Jacques Lipchitz%2C courtesy Marlborough Gallery%2C New York. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Jacques Lipchitz%2C courtesy Marlborough Gallery%2C New York. All rights reserved.",
   "life_date": "American (born Lithuania), 1891-1973",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jacques Lipchitz",
   "dated": "1956",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature at back of base: [Lipchitz]",
   "text": "",
   "description": "on pedestal one of five casts, one given to the Des Moines Art Center",
+  "provenance": "",
   "creditline": "Gift of Sage and John Cowles, Jr.",
-  "accession_number": "83.38",
-  "artist": "Jacques Lipchitz"
+  "accession_number": "83.38"
 }

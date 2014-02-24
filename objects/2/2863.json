@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1871 - 1958",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Georges Rouault",
   "dated": "1906",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Inscription\r\n\r\nInscribed on verso Signed, dated upper right, in black ink: [G. Rouau",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard S. Wilcox, Jr. in memory of Alice M. O'Brien",
-  "accession_number": "81.127",
-  "artist": "Georges Rouault"
+  "accession_number": "81.127"
 }

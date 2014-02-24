@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
   "life_date": "American, 1906 - 1970",
   "nationality": "American",
   "role": "Artist",
+  "artist": "A. Aubrey Bodine",
   "dated": "c. 1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamps ",
   "text": "",
   "description": "five men watching two others play checkers, seated under an overhang; Pepsi thermometer hangs on wall behind the men",
+  "provenance": "",
   "creditline": "Gift of Jennifer B. Bodine",
-  "accession_number": "96.153.1",
-  "artist": "A. Aubrey Bodine"
+  "accession_number": "96.153.1"
 }

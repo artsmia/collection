@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B 1973 Estate of William Scott",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1973 Estate of William Scott",
   "life_date": "British, 1913 - 1989",
   "nationality": "British",
   "role": "Artist",
+  "artist": "William Scott",
   "dated": "1973",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
-  "accession_number": "81.106.2                                  ",
-  "artist": "William Scott"
+  "accession_number": "81.106.2"
 }

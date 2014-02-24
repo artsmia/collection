@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "c. 1950",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Stamp on bottom, in black: [EDITION/ PICASSO/ MADOURA]",
   "text": "",
   "description": "jug with ring base; rounded bottom with long, outward-tapering neck; long, thick handle; white body; black, white, blue and brown; decorated to resemble an owl",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Margery Carpenter",
-  "accession_number": "2002.263",
-  "artist": "Pablo Picasso"
+  "accession_number": "2002.263"
 }

@@ -5,6 +5,7 @@
   "life_date": "Austrian, 1889 - 1952",
   "nationality": null,
   "role": "Artist",
+  "artist": "Karl Klaus",
   "dated": "c. 1912",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Vase",
   "id": "http://api.artsmia.org/objects/40576",
   "room": "Not on View",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": "Stamp, Mark ",
   "text": "",
   "description": "Vase with flaring top decorated with strong lines and stylized floral motif",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.240",
-  "artist": "Karl Klaus"
+  "accession_number": "98.276.240"
 }

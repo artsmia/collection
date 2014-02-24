@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tod Papageorge%2C Courtesy Pace%2FMacGill Gallery",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Tod Papageorge",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of First Banks",
-  "accession_number": "87.35.68                                  ",
-  "artist": "Tod Papageorge"
+  "accession_number": "87.35.68"
 }

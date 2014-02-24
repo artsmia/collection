@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1867-1947",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre Bonnard",
   "dated": "1918",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Joel Itman",
-  "accession_number": "93.83.1",
-  "artist": "Pierre Bonnard"
+  "accession_number": "93.83.1"
 }

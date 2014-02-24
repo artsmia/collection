@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B1990%2C Amon Carter Museum%2C Fort Worth%2C Texas%2C Gift of the Estate of Nell Dorr",
+  "image_copyright": "%26Acirc%3B%26copy%3B1990%2C Amon Carter Museum%2C Fort Worth%2C Texas%2C Gift of the Estate of Nell Dorr",
   "life_date": "American, 1893 - 1989",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nell Dorr",
   "dated": "1908-1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ed and Dianne Hodges",
-  "accession_number": "86.53.2",
-  "artist": "Nell Dorr"
+  "accession_number": "86.53.2"
 }

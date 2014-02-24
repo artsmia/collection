@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Marshall",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Marshall",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "74.40.4                                   ",
-  "artist": "John Marshall"
+  "accession_number": "74.40.4"
 }

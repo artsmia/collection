@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
   "life_date": "American (born Germany), 1893 - 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grosz",
   "dated": "1913",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscriptions, Stamp\r\n\r\nSee Signed Signed in black ink, LR, below image: [Grosz]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Mr. and Mrs. Hall James Peterson Fund",
-  "accession_number": "69.28                                     ",
-  "artist": "George Grosz"
+  "accession_number": "69.28"
 }

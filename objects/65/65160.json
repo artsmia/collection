@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Reinold Reiss %2F The Reiss Partnership",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Reinold Reiss %2F The Reiss Partnership",
   "life_date": "American (b. Germany), 1886 - 1953",
   "nationality": "American (b. Germany)",
   "role": "Artist",
+  "artist": "Winold Reiss",
   "dated": "19th-20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "abstract design in blue, black, gray and white; made up of circles, half circles and lines",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.78",
-  "artist": "Winold Reiss"
+  "accession_number": "P.98.33.78"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1812 - 1895",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jeremiah Gurney",
   "dated": "c. 1867",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "from wet plate negative",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "89.114.105",
-  "artist": "Jeremiah Gurney"
+  "accession_number": "89.114.105"
 }

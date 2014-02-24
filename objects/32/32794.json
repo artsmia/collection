@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1981",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription ",
   "text": "",
   "description": "about a dozen young men standing along a city street; young man in dark sleeve shirt with hands in pockets is in the right foreground",
+  "provenance": "",
   "creditline": "Gift of David and Mary Parker",
-  "accession_number": "2006.90.9",
-  "artist": "Gilles Peress"
+  "accession_number": "2006.90.9"
 }

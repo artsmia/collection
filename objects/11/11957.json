@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1250",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The city of Limoges, France, was renowned for the quality of its metalwork and enamels throughout the Middle Ages. The artist formed this relief by hammering the rough design into the copper from the reverse, a technique known as repoussé, then finishing the scene by chasing details into the front surface. The blue enamel eyes, gilt surface, and engraved decorative elements all lend added richness.\r\n\r\nThis relief has been linked to a series of extant repoussé panels depicting scenes from the Passion of Christ, including the Last Supper, The Betrayal of Christ, and the Flagellation.  In the Entombment, Christ is being prepared for burial. Joseph of Arimathea clasps his head in grief while Nicodemus and Mary Magdalene anoint his body with ointments and Mary cradles her dead son's head. The Entombment would have been a highly valued object of devotion on the church's altar.\r\n\r\n",
   "description": "The Anointing of the Body, copper, enamel frieze",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "58.8",
-  "artist": ""
+  "accession_number": "58.8"
 }

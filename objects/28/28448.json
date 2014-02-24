@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Nickolas Muray",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nickolas Muray",
   "life_date": "American (born Hungary), 1892-1965",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nickolas Muray",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Handwriting ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "94.101.3",
-  "artist": "Nickolas Muray"
+  "accession_number": "94.101.3"
 }

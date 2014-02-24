@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Archivo Pietro Consagra",
+  "image_copyright": "%26Acirc%3B%26copy%3B Archivo Pietro Consagra",
   "life_date": "Italian, 1920 - 2005",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Pietro Consagra",
   "dated": "c. 1968",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Fountain sculpture",
+  "provenance": "",
   "creditline": "Gift of Ann H. and Louis N. Zelle",
-  "accession_number": "93.64",
-  "artist": "Pietro Consagra"
+  "accession_number": "93.64"
 }

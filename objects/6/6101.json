@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "life_date": "Austrian, 1886 - 1980",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Oskar Kokoschka",
   "dated": "1906-1909",
   "culture": null,
   "country": "Austria",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The Dreaming Youths was Kokoschka's first graphic work, published when the artist was only twenty-one years old. Commissioned by the Weiner Werkstätte, the important progenitor of Jugendstil (Viennese Art Nouveau), Kokoschka's illustrated book was designed as a \"picture-poem\" featuring ten lithographs and a text written by the artist. Kokoschka's colorful, exotic landscape imagery supports the book's loose narrative, a stream-of-consciousness account of the fantastic dreams of adolescent boys.\r\n\r\nWhen first published in 1908, only a few copies of the book were sold. The remaining edition was later purchased by a German publisher and re-issued in the present binding in 1917.\r\n",
   "description": "binding: pouch binding; beige linen over cardboard, b&w illustration applied to front cove; endpapers: off-white wove; 10 pp.",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "B.89.4",
-  "artist": "Oskar Kokoschka"
+  "accession_number": "B.89.4"
 }

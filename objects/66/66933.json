@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "French, 19th century",
-  "nationality": null,
+  "life_date": "French, 1810 - 1884",
+  "nationality": "French",
   "role": "Artist",
+  "artist": "Ferdinand Joubert",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of George A. Goddard, 1919",
-  "accession_number": "P.6,591                                   ",
-  "artist": "Joubert"
+  "accession_number": "P.6,591"
 }

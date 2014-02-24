@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1914-1915",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Monotype",
   "title": "Three Apples and Plate",
   "id": "http://api.artsmia.org/objects/67513",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": "Signature, Inscription\r\n\r\nSee Signed Signed and annotated in brown ink, LR: [monotype /",
-  "text": "",
+  "text": "The creation of a monotype involves drawing a design in ink on a smooth, nonabsorbent printing plate. While the ink is still wet, a sheet of paper is applied to the plate, which is then run through a press to transfer the image to the sheet of paper. Unlike other printing processes, the monotype technique allows for only one unique impression to be taken from the plate. \r\n \r\nMatisse monotypes all date from a short period during the mid-teens, when he produced a total of about seventy. Artists frequently use monotype to create their images by building up desired areas of the dark ink on the surface of the plate. Matisse, however, reversed the process. He began with a plate completely covered in black ink, and subsequently scratched lines of varying width through the field of wet ink. The resulting white lines in his printed monotypes electrify and seem to quiver against the deep black ground. ",
   "description": "",
+  "provenance": "",
   "creditline": "The Putnam Dana McMillan Fund",
-  "accession_number": "P.86.4",
-  "artist": "Henri Matisse"
+  "accession_number": "P.86.4"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Marc Riboud",
+  "image_copyright": "%26Acirc%3B%26copy%3B Marc Riboud",
   "life_date": "French, born 1923",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marc Riboud",
   "dated": "1963",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "candidates wearing numbers so that illiterate voters may identify them during the first election in Algeria after independence",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.19",
-  "artist": "Marc Riboud"
+  "accession_number": "91.123.19"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1913",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "G344",
   "style": "20th century",
   "marks": "Signature, Edition and Stamp LRC, in black: [H M 44/50]",
-  "text": "Matisse told his students, 'One must always search for the desire of the line, where it wishes to enter and where to die away.'",
+  "text": "Matisse told his students, “One must always search for the desire of the line, where it wishes to enter and where to die away.”",
   "description": "line drawing style; seated figure with PR hand on PL thigh; hair in two buns at nape of neck",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "2000.283.1",
-  "artist": "Henri Matisse"
+  "accession_number": "2000.283.1"
 }

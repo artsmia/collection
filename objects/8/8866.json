@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BFoundation Romare Bearden %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BFoundation Romare Bearden %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1911-1988",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Romare Howard Bearden",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature In pencil: [Romare Beardon]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Alan Fingerhut",
-  "accession_number": "P.86.33                                   ",
-  "artist": "Romare Howard Bearden"
+  "accession_number": "P.86.33"
 }

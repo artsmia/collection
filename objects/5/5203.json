@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLinda Connor",
+  "image_copyright": "%26Acirc%3B%26copy%3B Linda Connor",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Linda Connor",
   "dated": "1992",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Ellen and Fred Wells",
-  "accession_number": "97.144.5                                  ",
-  "artist": "Linda Connor"
+  "accession_number": "97.144.5"
 }

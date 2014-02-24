@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BMagdalene Odundo",
-  "life_date": "Kenya, born 1950",
-  "nationality": "Kenya",
+  "image_copyright": "%26Acirc%3B%26copy%3BMagdalene Odundo",
+  "life_date": "Kenyan, b. 1950",
+  "nationality": "Kenyan",
   "role": "Artist",
+  "artist": "Magdalene Odundo",
   "dated": "1990",
   "culture": null,
   "country": "Kenya",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Sticker ",
   "text": "Contemporary artist Odundo achieves perfect symmetry in her work without mechanical aids: all of her pieces are formed by handbuilding and coiling techniques. Born in Kenya but trained in Nigeria and New Mexico, Odundo draws on her knowledge of African utilitarian vessels to create her pots while expressing an international, multicultural identity.",
   "description": "circular body, lower body angled to small circular foot; long neck terminated by a wide flaring mouth; black high gloss glaze; thin wall construction",
+  "provenance": "",
   "creditline": "Gift of funds from the John E. Andrus III Charitable Trust",
-  "accession_number": "97.5",
-  "artist": "Magdalene Odundo"
+  "accession_number": "97.5"
 }

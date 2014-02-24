@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Lois Conner",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Lois Conner",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lois Conner",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nat botto at bottom edge of sheet, in pencil: [Lois Conner] ",
   "text": "",
   "description": "rice fields framed by vertical rock formations",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.214",
-  "artist": "Lois Conner"
+  "accession_number": "2013.35.214"
 }

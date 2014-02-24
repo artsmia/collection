@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "Russia",
   "continent": null,
   "dimension": "15 in. (38.1 cm) (single element)",
-  "medium": null,
+  "medium": "Leather, silver thread; appliqué, embroidery",
   "title": "Boots",
   "id": "http://api.artsmia.org/objects/14503",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Miss Lily Place",
-  "accession_number": "26.73a,b                                  ",
-  "artist": ""
+  "accession_number": "26.73a,b"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1923 - 2002",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Larry Rivers",
   "dated": "1961",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Mark\r\n\r\nsee Signed\r\n\r\nNumbered Signed and dated in pencil, LR: [Rivers \\'61]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Francisca S. Winston Fund, by exchange",
-  "accession_number": "P.70.63",
-  "artist": "Larry Rivers"
+  "accession_number": "P.70.63"
 }

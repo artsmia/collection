@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Pierre Pittet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Pierre Pittet",
   "life_date": "Swiss, born 1927",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Pierre Pittet",
   "dated": "20th century",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.65",
-  "artist": "Pierre Pittet"
+  "accession_number": "93.70.65"
 }

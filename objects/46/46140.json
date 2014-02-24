@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Ed Ruscha",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ed Ruscha",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Ruscha",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Titled in pencil, LC [Home with Electronic Securit Signed and dated in pencil LR [Ed Ruscha \\'82]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Target Corporation",
-  "accession_number": "2001.293.59",
-  "artist": "Edward Ruscha"
+  "accession_number": "2001.293.59"
 }

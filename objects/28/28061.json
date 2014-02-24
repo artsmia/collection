@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
   "life_date": "American, 1925-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Rauschenberg",
   "dated": "1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Mark Signed and dated in orange pencil, LC: [68 RAUSCHE",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Sandra K. and Peter M. Butler",
-  "accession_number": "92.96",
-  "artist": "Robert Rauschenberg"
+  "accession_number": "92.96"
 }

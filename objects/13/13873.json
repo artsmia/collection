@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "17th century",
   "culture": null,
   "country": "Italy",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "W.1-1/8 x L.4¼ in.",
   "medium": "linen (?)",
   "title": "Border",
   "id": "http://api.artsmia.org/objects/13873",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Piece of border of 21.65a.",
+  "provenance": "",
   "creditline": "Gift of Countess Phelps Resse",
-  "accession_number": "21.65b                                    ",
-  "artist": ""
+  "accession_number": "21.65b"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
   "life_date": "American, 1912 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harry Callahan",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "beach, boats and people",
+  "provenance": "",
   "creditline": "National Endowment for the Arts Photography Grant and  the Kate and Hall J. Peterson Fund",
-  "accession_number": "76.17.3",
-  "artist": "Harry Callahan"
+  "accession_number": "76.17.3"
 }

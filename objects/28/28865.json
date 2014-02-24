@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Cotton",
   "title": "Belt",
   "id": "http://api.artsmia.org/objects/28865",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "long band with white section of cloth in middle and pink on either side; each band is decorated with embroidery and white tassels",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund and Gift of funds from Thirza Cleveland and Joan Wurtele",
-  "accession_number": "95.43.59                                  ",
-  "artist": ""
+  "accession_number": "95.43.59"
 }

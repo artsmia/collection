@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "1688 - 1749",
-  "nationality": "Japan",
+  "life_date": "Japanese, 1688 - 1749",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "O_baku Hyakusetsu",
   "dated": "18th century",
   "culture": null,
   "country": "Japan",
@@ -13,12 +14,12 @@
   "medium": "Ink on paper",
   "title": "Eight Line Poem: \"The Bodhisattva Jizo's Seal and Staff Reveal Shining Words\"",
   "id": "http://api.artsmia.org/objects/31145",
-  "room": "G225",
+  "room": "Not on View",
   "style": "18th century",
   "marks": " ",
   "text": "Hyakusetsu was a Buddhist priest of the O_baku sect of Zen Buddhism in Japan. He became friends with the courtier Konoe Iehiro (1667-1736), a renowned calligrapher and tea master. Through Iehiro, Hyakusetsu was introduced to cultural circles in Kyoto. Eventually he became a well-known painter, calligrapher, tea-master, and poet in his own right. Here, Hyakusetsu used his buoyant semi-cursive script for a poem exalting the boundless compassion of the Buddhist deity, Jizo_.",
   "description": "13 rows of text with one character above 2 seals at left edge and one seal in upper right corner",
+  "provenance": "",
   "creditline": "Gift of funds from the Asian Art Council",
-  "accession_number": "99.117                                    ",
-  "artist": "O_baku Hyakusetsu"
+  "accession_number": "99.117"
 }

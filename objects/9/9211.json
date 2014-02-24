@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "Flemish, 1523 - 1605",
   "nationality": "Flemish",
   "role": "Artist",
+  "artist": "Joannes Stradanus",
   "dated": "c. 1596",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscriptions\r\n\r\nInscribed in brown ink, Signed in ink, LR: [Stradanu. f.]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Collector's Fund",
-  "accession_number": "69.54",
-  "artist": "Joannes Stradanus"
+  "accession_number": "69.54"
 }

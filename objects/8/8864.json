@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Milton Avery Trust %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Milton Avery Trust %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1885 - 1965",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Milton Avery",
   "dated": "1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dolly J. Fitterman Fine Arts",
-  "accession_number": "P.88.49",
-  "artist": "Milton Avery"
+  "accession_number": "P.88.49"
 }

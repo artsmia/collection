@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "H.15-¼ x W.15 in.",
   "medium": "silk, embroidery",
   "title": "Two Joined Panels",
   "id": "http://api.artsmia.org/objects/14936",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Two panels of dull yellow silk damask sewed together and embroidered in silk thread chiefly with Peking stitch. The pattern consists of closely arranged flower and small animals outlined with gold thread. Silk.",
+  "provenance": "",
   "creditline": "Bequest of Miss Lily Place",
-  "accession_number": "30.23.101                                 ",
-  "artist": ""
+  "accession_number": "30.23.101"
 }

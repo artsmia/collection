@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Wing Young Huie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wing Young Huie",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wing Young Huie",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Inscription ",
   "text": "",
   "description": "black and white photo of man in white shirt on street; church in background",
+  "provenance": "",
   "creditline": "Gift of David and Mary Parker",
-  "accession_number": "2005.101.2                                ",
-  "artist": "Wing Young Huie"
+  "accession_number": "2005.101.2"
 }

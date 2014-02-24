@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Nicola Sansone",
+  "image_copyright": "%26Acirc%3B%26copy%3B Nicola Sansone",
   "life_date": "Italian",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Nicola Sansone",
   "dated": "20th century",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "\\'Exposition Internationale de Photographie Regards sur la terre des hommes / International Exhibition of Photography The Camera as Witness,\\' Montreal Expo 67, 1967.    Photographer\\'s stamp verso",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.5",
-  "artist": "Nicola Sansone"
+  "accession_number": "91.123.5"
 }

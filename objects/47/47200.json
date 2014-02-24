@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B JoAnn Verburg",
+  "image_copyright": "%26Acirc%3B%26copy%3B JoAnn Verburg",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "JoAnn Verburg",
   "dated": "1998",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "4 images (L to R): tree, blurred on R side, with branches and leaves in LRC; blurry image of branches and leaves; straight tree trunk in foreground; 2 trees; each mounted on board",
+  "provenance": "",
   "creditline": "Gift of the artist with appreciation to Chip Specht and the staff of Pictura for their fine craftsmanship",
-  "accession_number": "2001.181a-d                               ",
-  "artist": "JoAnn Verburg"
+  "accession_number": "2001.181a-d"
 }

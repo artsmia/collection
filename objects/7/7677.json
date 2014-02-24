@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "2001 %26copy%3B Bridget Riley%2C All Rights Reserved Courtesy%2C Karsten Schubert%2C London",
+  "image_copyright": "2001 %26Acirc%3B%26copy%3B Bridget Riley%2C All Rights Reserved Courtesy%2C Karsten Schubert%2C London",
   "life_date": "British, born 1931",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Bridget Riley",
   "dated": "1968",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition Signed, dated in pencil, LR: [BRIDGET RILEY \\'68]",
   "text": "In her suite of screenprints Nineteen Greys, Riley explores the optical and perceptual realm through carefully calculated manipulation of visual frequency and spatial illusion, forming abstract images that both engage the intellect and delight the eye of the viewer. Part of what became known as the Op art movement, Riley's optical experiments exhibit a surprisingly emotional tenor. \"No matter what I do,\" she said, \"it will be subjective.\"",
   "description": "variations of grey on a light grey field, 12 x 12 dots",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Julius E. Davis",
-  "accession_number": "P.86.21.1",
-  "artist": "Bridget Riley"
+  "accession_number": "P.86.21.1"
 }

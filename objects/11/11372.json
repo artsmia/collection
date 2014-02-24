@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1997",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [Henri Cartier-Bresson]",
   "text": "",
   "description": "red cover; white label with title and author on cover; has red box case; illustrated with four photogravures \\'Nude, Italy\\', 1933 [woman in water], \\'Mexico\\', 1934 [couple in bed], \\'Martine\\'s Legs\\', 1968 [woman\\'s legs], and \\'La Pause Entre Deux Poses de Dessin, Paris\\', 1989 [two nude women]",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "97.110.1                                  ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "97.110.1"
 }

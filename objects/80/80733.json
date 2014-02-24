@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
+  "image_copyright": "%26Acirc%3B%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
   "life_date": "American, 1882 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rockwell Kent",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\r\n \r\n ",
   "text": "",
   "description": "binding: cream fabric with blue-green lettering and designs; endpapers: cream wove; 292 pp.",
+  "provenance": "",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
-  "accession_number": "B.87.4.39",
-  "artist": "Rockwell Kent"
+  "accession_number": "B.87.4.39"
 }

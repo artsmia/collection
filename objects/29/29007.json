@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Jan Saudek. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jan Saudek. All rights reserved.",
   "life_date": "Czech, born 1935",
   "nationality": "Czech",
   "role": "Artist",
+  "artist": "Jan Saudek",
   "dated": "1975",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature front; signed in ink LR",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mickey Pallas",
-  "accession_number": "95.82.13",
-  "artist": "Jan Saudek"
+  "accession_number": "95.82.13"
 }

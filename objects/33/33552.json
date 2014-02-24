@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJoan Moss",
+  "image_copyright": "%26Acirc%3B%26copy%3BJoan Moss",
   "life_date": "American (born Canada), born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joan Moss",
   "dated": "1985",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Date; Signature; Title ",
   "text": "",
   "description": "little girl with dark hair, wearing long jeweled earrings and open-toed shoes, reclining against a figure, whose PR arm encircles her; foliage in background",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2002.182.1                                ",
-  "artist": "Joan Moss"
+  "accession_number": "2002.182.1"
 }

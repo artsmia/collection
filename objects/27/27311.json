@@ -5,6 +5,7 @@
   "life_date": "French, born 1931",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Mounicq",
   "dated": "1959",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "England, High Society, Bal dans le Northamptonshire",
   "id": "http://api.artsmia.org/objects/27311",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": "Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.33                                 ",
-  "artist": "Jean Mounicq"
+  "accession_number": "91.123.33"
 }

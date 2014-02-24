@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Rosalee Vogel",
   "life_date": "American, 1918 - 1987",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rosalee Vogel",
   "dated": "before 1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "windows",
+  "provenance": "",
   "creditline": "Bequest of the artist",
-  "accession_number": "87.39.16                                  ",
-  "artist": "Rosalee Vogel"
+  "accession_number": "87.39.16"
 }

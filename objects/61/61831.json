@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C The Netherlands",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C The Netherlands",
   "life_date": "Dutch, 1888-1964",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Gerrit Rietveld",
   "dated": "1959 (designed 1919)",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": "Signature on underside of top right drawer, in pen: [G.A. v.",
   "text": "",
   "description": "whitewashed and painted white on listel elements",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.329                                ",
-  "artist": "Gerrit Rietveld"
+  "accession_number": "98.276.329"
 }

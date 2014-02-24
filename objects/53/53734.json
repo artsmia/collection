@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Allan D%27Arcangelo %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Allan D%27Arcangelo %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1930-1998",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Allan D'Arcangelo",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition In pencil: D\\'Arcangelo",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Herschel V. Jones Fund, by exchange",
-  "accession_number": "P.70.13                                   ",
-  "artist": "Allan D'Arcangelo"
+  "accession_number": "P.70.13"
 }

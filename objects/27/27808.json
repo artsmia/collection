@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BSchneider Gallery %2F Luis Gonz%26aacute%3Blez Palma",
+  "image_copyright": "%26Acirc%3B%26copy%3BSchneider Gallery %2F Luis Gonz%26Atilde%3B%26iexcl%3Blez Palma",
   "life_date": "Guatemalan, born 1957",
   "nationality": "Guatemalan",
   "role": "Artist",
+  "artist": "Luis González Palma",
   "dated": "1991",
   "culture": null,
   "country": "Guatemala",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Jud and Lisa Dayton",
-  "accession_number": "92.120.4                                  ",
-  "artist": "Luis González Palma"
+  "accession_number": "92.120.4"
 }

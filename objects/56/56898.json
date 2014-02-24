@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Sylvia Plimack Mangold",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sylvia Plimack Mangold",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sylvia Plimack Mangold",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; edition stamped, verso LR: [S. Mangold]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
-  "accession_number": "P.79.23.8",
-  "artist": "Sylvia Plimack Mangold"
+  "accession_number": "P.79.23.8"
 }

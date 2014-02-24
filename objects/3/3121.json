@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BChristopher Cardozo",
+  "image_copyright": "%26Acirc%3B%26copy%3BChristopher Cardozo",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Cardozo",
   "dated": "c. 1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "82.94.10                                  ",
-  "artist": "Christopher Cardozo"
+  "accession_number": "82.94.10"
 }

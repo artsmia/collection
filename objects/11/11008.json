@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BFrank Agar%2C Jr.",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Agar%2C Jr.",
   "life_date": "American, 1917 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Agar Jr.",
   "dated": "c. 1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "63.31.27                                  ",
-  "artist": "Frank Agar Jr."
+  "accession_number": "63.31.27"
 }

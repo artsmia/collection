@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The Estate of Ralph Eugene Meatyard courtesy Fraenkel Gallery%2C San Francisco",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Ralph Eugene Meatyard courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1925 - 1972",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ralph Eugene Meatyard",
   "dated": "Date Unknown",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions\r\n\r\non back, in pencil: [59 A] and [13 ",
   "text": "",
   "description": "bare trees on a gently sloping, leaf-covered hill",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.511",
-  "artist": "Ralph Eugene Meatyard"
+  "accession_number": "2013.35.511"
 }

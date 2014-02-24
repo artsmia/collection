@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1994",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp; Number ",
   "text": "",
   "description": "decomposing body on street in front of a church",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.46.42",
-  "artist": "Gilles Peress"
+  "accession_number": "95.46.42"
 }

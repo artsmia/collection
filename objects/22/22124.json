@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Charles Chatteaux",
   "dated": "20th century",
   "culture": null,
   "country": "Belgium",
@@ -13,12 +14,12 @@
   "medium": "Porcelain",
   "title": "Vase",
   "id": "http://api.artsmia.org/objects/22124",
-  "room": "G107",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature [Ch. CHATTEEAUX]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marguerite and Russell Cowles",
-  "accession_number": "79.12.4                                   ",
-  "artist": "Charles Chatteaux"
+  "accession_number": "79.12.4"
 }

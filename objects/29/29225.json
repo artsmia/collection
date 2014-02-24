@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Maya",
   "country": "Guatemala",
-  "continent": "",
+  "continent": null,
   "dimension": "99 1/2 x 13 3/4 in. (252.73 x 34.9 cm)",
   "medium": "Cotton, silk; warp-faced with supplementary weft patterning",
   "title": "Man's Sash (banda)",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "red ground; multicolor DSWP at one end, rectangular field of diamonds with band at top and bottom of brocade; warp string fringe",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons in memory of Roberta Grodberg Simmons",
-  "accession_number": "96.159.32                                 ",
-  "artist": ""
+  "accession_number": "96.159.32"
 }

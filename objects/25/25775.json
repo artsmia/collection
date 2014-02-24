@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Ramon J. Muxter",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ramon J. Muxter",
   "life_date": "American, 1945 - 2007",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ramon J. Muxter",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of James and Deidre Szalapski",
-  "accession_number": "89.100.40                                 ",
-  "artist": "Ramon J. Muxter"
+  "accession_number": "89.100.40"
 }

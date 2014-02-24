@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875 - 1963",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Villon",
   "dated": "1953",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "binding: tan leather with color leather inlays; endpapers: mauve silk; slip case: Box: marbled paper, edged in leather; type: Didot developed for this edition",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "P.78.61",
-  "artist": "Jacques Villon"
+  "accession_number": "P.78.61"
 }

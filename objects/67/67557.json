@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Mangold",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on verso",
   "text": "",
   "description": "From suite of five prints",
+  "provenance": "",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
-  "accession_number": "P.79.10.4                                 ",
-  "artist": "Robert Mangold"
+  "accession_number": "P.79.10.4"
 }

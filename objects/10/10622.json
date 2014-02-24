@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1938",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Cardinal Pacelli at Montmartre, Paris",
   "id": "http://api.artsmia.org/objects/10622",
-  "room": "Not on View",
+  "room": "G280",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Here Henri Cartier-Bresson snapped what he termed a \"decisive moment,\" capturing the emotive energy surrounding Cardinal Pacelli (who would be crowned Pope Pius XII the year after this photograph was taken). Masses of followers come to meet him in Montmartre, the quintessentially avant-garde quarter of Paris and a site of frequent artistic rebellion against religious figures.",
   "description": "man kissing the hand of a Cardinal",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.6.23                                   ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "95.6.23"
 }

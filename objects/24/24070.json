@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Bernhard A. Skomars",
   "life_date": "American,  1913-1988",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bernhard A. Skomars",
   "dated": "1928-1923",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "lobby of Old Rand Tower, now Dain Tower, Minneapolis",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "83.64.1                                   ",
-  "artist": "Bernhard A. Skomars"
+  "accession_number": "83.64.1"
 }

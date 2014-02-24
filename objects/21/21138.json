@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Warren",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Warren",
   "dated": "1963-1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
-  "accession_number": "76.67.7                                   ",
-  "artist": "Joel Warren"
+  "accession_number": "76.67.7"
 }

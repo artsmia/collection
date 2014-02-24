@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Annotations and chop mark ",
   "text": "",
   "description": "Sculptural abstraction featuring a large red elliptical object with an orange center surrounded by black spiraling lines\r\n\r\n",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "P.86.63.53                                ",
-  "artist": "John Newman"
+  "accession_number": "P.86.63.53"
 }

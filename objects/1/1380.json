@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "early 10th century",
   "culture": null,
   "country": "India",
@@ -13,12 +14,12 @@
   "medium": "Granite",
   "title": "Yogini holding a jar",
   "id": "http://api.artsmia.org/objects/1380",
-  "room": "G211",
+  "room": "Not on View",
   "style": "early 10th century",
   "marks": " ",
   "text": "",
   "description": "A yogini bearing a jar.  One of 19 known sculptures from a set originating in Kanchipuram, Tamil Nadu, India.",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "60.21                                     ",
-  "artist": ""
+  "accession_number": "60.21"
 }

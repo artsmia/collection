@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate of Alberto Giacometti %2F Artists Rights Society %28ARS%29%2C New York %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Alberto Giacometti %2F Artists Rights Society %28ARS%29%2C New York %2F VAGA%2C New York",
   "life_date": "Swiss, 1900 - 1962",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Alberto Giacometti",
   "dated": "1965",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark\r\nSigned in pencil by eleven of the ",
   "text": "",
   "description": "binding: paper dustcover, gray cardboard cover guard and slip case",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.83.11.3                                 ",
-  "artist": "Alberto Giacometti"
+  "accession_number": "B.83.11.3"
 }

@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1753 - 1806",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kitagawa Utamaro",
   "dated": "1790",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "9 5/16 x 14 11/16 in. (23.6 x 37.3 cm) (image)\r\n9 7/8 x 14 13/16 in. (25.1 x 37.7 cm) (sheet)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "\"Mallards and a Kingfisher\"",
   "id": "http://api.artsmia.org/objects/67922",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "2 poems(kyo_ka)\r\n\r\nright:To a man\r\nSending a love  ",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "P.75.51.128                               ",
-  "artist": "Kitagawa Utamaro"
+  "accession_number": "P.75.51.128"
 }

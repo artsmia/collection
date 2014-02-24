@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875 - 1963",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Villon",
   "dated": "1928",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and edition LRC, in pencil: [Jacques Villon]",
   "text": "",
   "description": "slightly cubist image of figure lying down, holding a book",
+  "provenance": "",
   "creditline": "Gift of Barbara Mackey Kaerwer",
-  "accession_number": "2004.21.3",
-  "artist": "Jacques Villon"
+  "accession_number": "2004.21.3"
 }

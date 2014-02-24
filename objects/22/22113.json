@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B1977 Mark Orlove",
+  "image_copyright": "%26Acirc%3B%26copy%3B1977 Mark Orlove",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mark Orlove",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "78.94.2                                   ",
-  "artist": "Mark Orlove"
+  "accession_number": "78.94.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26copy%3B by the Trustees of Princeton University All rights reserved.",
+  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26Acirc%3B%26copy%3B by the Trustees of Princeton University All rights reserved.",
   "life_date": "American, 1908 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Minor White",
   "dated": "1947 (printed before 1960)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, Date, Inscription, Stamp and Sticker\r\n\r\non  on back of mount, in pencil: [FEET, TOM MURPHY SF ",
   "text": "",
   "description": "man\\'s feet; man wears rolled-up pants",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.374",
-  "artist": "Minor White"
+  "accession_number": "2013.35.374"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate of Alexander Calder %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Alexander Calder %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1898 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alexander Calder",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "In graphite, LL:  33/75 In graphite LR:  Calder",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fay Gallus and Richard Sweet M.D.",
-  "accession_number": "P.99.31.1",
-  "artist": "Alexander Calder"
+  "accession_number": "P.99.31.1"
 }

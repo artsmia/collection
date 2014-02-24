@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1871 - 1958",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Georges Rouault",
   "dated": "1927-1993",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscribed in blue ink, lower left margin <Automne  on stone: [Rouault]; in blue ink, lower right marg",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.13,828",
-  "artist": "Georges Rouault"
+  "accession_number": "P.13,828"
 }

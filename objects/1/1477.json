@@ -5,6 +5,7 @@
   "life_date": "French, 1863 - 1935",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Paul Signac",
   "dated": "1923",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Blessing of the Tuna Fleet at Groix",
   "id": "http://api.artsmia.org/objects/1477",
-  "room": "Not on View",
+  "room": "G351",
   "style": "20th century",
   "marks": "Signature LL in black: [P Signac]",
   "text": "",
   "description": "Harbor. Pointillism.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund, the John R. Van Derlip Fund and Gift of funds from Bernice Dalrymple",
-  "accession_number": "62.36                                     ",
-  "artist": "Paul Signac"
+  "accession_number": "62.36"
 }

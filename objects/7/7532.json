@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Ed Ruscha",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ed Ruscha",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Ruscha",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, date, mark\r\n\r\nsee Signed Signed and dated in pencil LL: [E. Ruscha 1971]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.71.179",
-  "artist": "Edward Ruscha"
+  "accession_number": "P.71.179"
 }

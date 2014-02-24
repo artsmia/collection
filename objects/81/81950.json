@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
-  "culture": null,
+  "culture": "Maya, Quiché",
   "country": "Guatemala",
   "continent": null,
   "dimension": "108 x 8 1/4 in. (274.32 x 20.96 cm) (includes fringe)",
-  "medium": null,
+  "medium": "Cotton, rayon; jaspé (ikat) and supplementary weft patterning",
   "title": "Sash, from a ceremonial costume",
   "id": "http://api.artsmia.org/objects/81950",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Red with black and white ikat stripes; three setions in purple, green and white arrows at both ends and center.",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons in memory of Roberta Grodberg Simmons",
-  "accession_number": "2003.227.26.3",
-  "artist": ""
+  "accession_number": "2003.227.26.3"
 }

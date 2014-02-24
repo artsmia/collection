@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Spanish, 1893 - 1983",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Joan Miró",
   "dated": "1961",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/82427",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature on edition page, in pencil: [Miró.]",
   "text": "",
   "description": "portfolio format exhibition catalogue; six abstract color lithographs with text; red slipcover and portfolio cover; paper cover with red, blue and black abstract lithograph",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2003.218a-j",
-  "artist": "Joan Miró"
+  "accession_number": "2003.218a-j"
 }

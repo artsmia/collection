@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "London, c.1743-1784",
   "nationality": null,
   "role": "Artist",
+  "artist": "Chelsea Porcelain Manufactory",
   "dated": "c. 1775",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "garniture of vases, oval panels in sepia of landscapes or figures, framed by striped gold background",
+  "provenance": "",
   "creditline": "Gift of Mrs. Sumner T. McKnight",
-  "accession_number": "24.90.2a,b                                ",
-  "artist": "Chelsea Porcelain Manufactory"
+  "accession_number": "24.90.2a,b"
 }

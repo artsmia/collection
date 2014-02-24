@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Linda Gammell",
+  "image_copyright": "%26Acirc%3B%26copy%3B Linda Gammell",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Linda Gammell",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "74.87.1",
-  "artist": "Linda Gammell"
+  "accession_number": "74.87.1"
 }

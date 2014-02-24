@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "1847-1852",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "14 5/16 x 9 7/16 in. (36.3 x 24 cm) (image)\r\n14 5/16 x 9 11/16 in. (36.3 x 24.6 cm) (sheet)\r\n22 1/16 x 18 in. (56 x 45.7 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Totsuka",
   "id": "http://api.artsmia.org/objects/65076",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Hiroshige ga",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.217                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.217"
 }

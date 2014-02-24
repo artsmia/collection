@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "Egypt",
   "continent": "Africa",
-  "dimension": null,
+  "dimension": "L.69-½ x W.24-7/8 in.",
   "medium": "Coarse canvas panel with applied design",
   "title": "Panel showing an Slaves bringing sacrifices of Wine and Bread",
   "id": "http://api.artsmia.org/objects/14160",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Miss Frances Janney",
-  "accession_number": "23.6.2                                    ",
-  "artist": ""
+  "accession_number": "23.6.2"
 }

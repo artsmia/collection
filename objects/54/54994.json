@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
+  "image_copyright": "%26Acirc%3B%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
   "life_date": "American, 1882 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rockwell Kent",
   "dated": "1937",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Wood engraving",
   "title": "Workers of the World, Unite!",
   "id": "http://api.artsmia.org/objects/54994",
-  "room": "G315",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature ",
   "text": "Rockwell Kent's wood engraving was produced as the cover illustration for a 1937 issue of the New Masses, a prominent American leftwing publication. Kent was active in socialist causes and politics throughout his lifetime and regularly championed workers' rights and their role in society, primarily through his graphic art. Among Kent's most overtly proletarian illustrations, the engraving features a young, muscular man confronting his unseen adversaries, swinging his shovel against their raised bayonets, as fires of revolution roar in the background. Emblematic of the workers struggle against the excesses of capitalism, the image suggests solidarity with the working class, while also emphasizing the individual's role in fighting oppression.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard D. Humleker in memory of Mrs. John S. Wier",
-  "accession_number": "P.76.35.5",
-  "artist": "Rockwell Kent"
+  "accession_number": "P.76.35.5"
 }

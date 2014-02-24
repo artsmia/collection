@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1889-1981",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Gerhard Marcks",
   "dated": "1921",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LLC, in two areas, in pencil: [Gerhard Marcks 1921",
   "text": "",
   "description": "two cats walking toward L; striped cat in foreground carries a mouse; cat in background has spots and turns to face out of picture plane; small insect at L edge",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Curatorial Council in memory of Marianne Baird Wallman",
-  "accession_number": "2003.113",
-  "artist": "Gerhard Marcks"
+  "accession_number": "2003.113"
 }

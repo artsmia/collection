@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1742-1826",
   "nationality": null,
   "role": "Artist",
+  "artist": "Jean Baptiste Stouf",
   "dated": "c. 1787",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "18th century",
   "marks": " ",
-  "text": "Saint Vincent de Paul (1581-1660), known as <I>le grand apôtre de la charité</I> ('the Great Apostle of Charity'), dedicated his life to helping the poorest of the poor in 17th-century France: galley-slaves, the rural population, and (as seen here) abandoned and abused infants and children. In the age of Enlightenment, his statue was one of the few religious personalities to be included in the series of the Great Men of France, which was installed in the Louvre's Grande Galerie. The terracotta model in Minneapolis, which was shown at the Salon in 1787, is the only record of Stouf's first proposal for this statue. After heavy criticism at the fact that the model showed only the Saint's compassion but not his active deed of charity, the sculptor modified it accordingly. His final version shows the saint lifting one of the children off the ground, symbolizing their salvation.",
+  "text": "Saint Vincent de Paul (1581-1660), known as <I>le grand apôtre de la charité</I> (‘the Great Apostle of Charity’), dedicated his life to helping the poorest of the poor in 17th-century France: galley-slaves, the rural population, and (as seen here) abandoned and abused infants and children. In the age of Enlightenment, his statue was one of the few religious personalities to be included in the series of the Great Men of France, which was installed in the Louvre’s Grande Galerie. The terracotta model in Minneapolis, which was shown at the Salon in 1787, is the only record of Stouf’s first proposal for this statue. After heavy criticism at the fact that the model showed only the Saint’s compassion but not his active deed of charity, the sculptor modified it accordingly. His final version shows the saint lifting one of the children off the ground, symbolizing their salvation.",
   "description": "Stouf\\'s representation of the saint shows him standing and looking down at two dead infants at his feet. His facial expression registers his horror at he devastations of the \\\"Fronde\\\"--the civil war of 1648-1653. The resultant life-size statue was the sculptor\\'s first major work.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "70.15",
-  "artist": "Jean Baptiste Stouf"
+  "accession_number": "70.15"
 }

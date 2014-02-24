@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Nicolas Africano",
+  "image_copyright": "%26Acirc%3B%26copy%3B Nicolas Africano",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nicholas Africano",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "P.86.63.9",
-  "artist": "Nicholas Africano"
+  "accession_number": "P.86.63.9"
 }

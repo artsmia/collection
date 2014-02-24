@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1884 - 1950",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Beckmann",
   "dated": "1918",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nbelow image, in pencil: [(illegible ",
   "text": "The vibrant energy of Max Beckman's landscape makes clear his interest in the art of Vincent van Gogh. Rich with drypoint burr, this particular impression of Landscape with Balloon was one of sixty sheets pulled before the plate was steel faced. ",
   "description": "abstracted landscape with tall tree at left; road in front of buildings at right; grove of trees below at left; air balloon in sky, ULQ",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "2000.283.3",
-  "artist": "Max Beckmann"
+  "accession_number": "2000.283.3"
 }

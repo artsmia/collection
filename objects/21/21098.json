@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joseph Jachna",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joseph Jachna",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
-  "accession_number": "76.64.9                                   ",
-  "artist": "Joseph Jachna"
+  "accession_number": "76.64.9"
 }

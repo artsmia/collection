@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
   "life_date": "Norwegian, 1863 - 1944",
   "nationality": "Norwegian",
   "role": "Artist",
+  "artist": "Edvard Munch",
   "dated": "1895",
   "culture": null,
   "country": "Norway",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Inscription\r\n\r\nsee Signed\r\n\r\nInsc Signed and dated in pencil, LR: [E Munch, 1895]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Kate Butler Peterson",
-  "accession_number": "2000.242.13",
-  "artist": "Edvard Munch"
+  "accession_number": "2000.242.13"
 }

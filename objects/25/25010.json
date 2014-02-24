@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BRobert Cumming %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BRobert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Cumming",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, date, inscription\r\n\r\n UL: [Cumming]\r\nLL in blue felt-tip pen: [Cyclone C",
   "text": "",
   "description": "Four small pen studies for \\'Apex Oculus\\'; three of the studies crossed out with graphite",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "86.115.5                                  ",
-  "artist": "Robert Cumming"
+  "accession_number": "86.115.5"
 }

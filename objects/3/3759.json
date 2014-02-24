@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gyorgy Kepes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gyorgy Kepes",
   "life_date": "American, (born Hungary) 1906 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gyorgy Kepes",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "88.76.3",
-  "artist": "Gyorgy Kepes"
+  "accession_number": "88.76.3"
 }

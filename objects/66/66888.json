@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1556-1650",
   "culture": null,
   "country": "Japan",
@@ -17,8 +18,8 @@
   "style": "16th-17th century",
   "marks": " ",
   "text": "",
-  "description": "Six fold screen painting.",
+  "description": "",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "63.3                                      ",
-  "artist": ""
+  "accession_number": "63.3"
 }

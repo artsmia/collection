@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Willenbecher",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Willenbecher",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Willenbecher",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions ",
   "text": "",
   "description": "Rectangular box, painted on 4 sides; four photos attached to top; model of a baffel for an exhibition",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "99.64.3",
-  "artist": "John Willenbecher"
+  "accession_number": "99.64.3"
 }

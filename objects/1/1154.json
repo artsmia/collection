@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 12th-11th century BCE",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Chariot Finial with Bird",
   "id": "http://api.artsmia.org/objects/1154",
-  "room": "Not on View",
+  "room": "G214",
   "style": "11th century BCE",
   "marks": " ",
   "text": "",
   "description": "This example, on a high, cylindrical base, is closely related to 50.46.24. Here, however the scored flanges extend to the back of the head and the front of the neck instead of being confined to the back. The S-shaped horns are reminiscent of those seen on many t\\'ao-t\\'ieh, e.g. Karlgren Number 31 (50.46.104). Patina grey-green.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.91",
-  "artist": ""
+  "accession_number": "50.46.91"
 }

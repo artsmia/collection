@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lisette Model",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lisette Model",
   "life_date": "American (born Austria), 1901 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisette Model",
   "dated": "1939-1942",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription, Edition and Stamp\r\n\r\nURC o on back, in pencil: [Lisette Model]",
   "text": "",
   "description": "man with beard leaning against fire box; man is wearing a hat, plaid scarf and a double-breasted checked overcoat",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2002.230.11",
-  "artist": "Lisette Model"
+  "accession_number": "2002.230.11"
 }

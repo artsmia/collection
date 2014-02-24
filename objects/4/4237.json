@@ -5,6 +5,7 @@
   "life_date": "Flemish (active France), 1759-1840",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre-Joseph Redouté",
   "dated": "c. 1798-1807",
   "culture": null,
   "country": "Belgium",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/4237",
   "room": "Not on View",
   "style": "18th-19th century",
-  "marks": null,
+  "marks": "Signature Signed in pencil, LL: [P.J. Redouté]",
   "text": "",
-  "description": null,
+  "description": "Original watercolor drawing for plate 148 of \\\"Les Liliacées,\\\" Paris: Chez l\\'Auteur. De l\\'Imprimerie de Didot jeune, 1802-1816.",
+  "provenance": "",
   "creditline": "Gift of funds from the Friends of the Institute",
-  "accession_number": "91.32",
-  "artist": "Pierre-Joseph Redouté"
+  "accession_number": "91.32"
 }

@@ -2,9 +2,10 @@
   "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "American, born 1921",
+  "life_date": "American, 1921-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harold Tovish",
   "dated": "1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date LR: [H Tovish \\'53]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "54.8                                      ",
-  "artist": "Harold Tovish"
+  "accession_number": "54.8"
 }

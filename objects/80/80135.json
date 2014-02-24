@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1889 - 1963",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Cocteau",
   "dated": "1923",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "272 pp.",
+  "provenance": "",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
-  "accession_number": "B.87.4.18                                 ",
-  "artist": "Jean Cocteau"
+  "accession_number": "B.87.4.18"
 }

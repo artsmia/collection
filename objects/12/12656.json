@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Brocade: blue satin with a silver pattern of pomegranates and grapes",
-  "creditline": null,
-  "accession_number": "19.9",
-  "artist": ""
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "19.9"
 }

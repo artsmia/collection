@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Karel Appel %2F Artists Rights Society %28ARS%29%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Karel Appel %2F Artists Rights Society %28ARS%29%2C New York%2C NY",
   "life_date": "Dutch, 1921 - 2006",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Karel Appel",
   "dated": "1966-1967 (?)",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " \\\"Appel\\\", in black, LRC",
   "text": "",
   "description": "highly abstracted yellow face with blue and purple eyes and mouth; blue ground; very thick paint",
+  "provenance": "",
   "creditline": "Gift of George W. Rickey",
-  "accession_number": "2001.272.34                               ",
-  "artist": "Karel Appel"
+  "accession_number": "2001.272.34"
 }

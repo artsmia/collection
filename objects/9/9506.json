@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1882",
   "nationality": null,
   "role": "Artist",
+  "artist": "Leopold Levy",
   "dated": "1918",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date [Leopold-Levy 1918], in ink, lower left corner",
   "text": "",
   "description": "Bridge across a river with buildings lining the shore",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
-  "accession_number": "25.35",
-  "artist": "Leopold Levy"
+  "accession_number": "25.35"
 }

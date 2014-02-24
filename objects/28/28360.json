@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "mid 20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silk, cotton, embroidery",
   "title": "Woman's Festive Wrap Around Skirt",
   "id": "http://api.artsmia.org/objects/28360",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "tabby ground silk damask with embroidered auspicious flower decor, attached cotton waistband and fringe applique",
+  "provenance": "",
   "creditline": "Gift of funds from Cliff and Sue Roberts",
-  "accession_number": "94.55.9                                   ",
-  "artist": ""
+  "accession_number": "94.55.9"
 }

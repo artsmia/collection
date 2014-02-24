@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "2000",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil, bott in pencil, LRC on back: [Toby Old 2000]",
   "text": "",
   "description": "young man in profile from PL, wearing a nylon jacket and pants, playing a video game with a photo of a bald man in a costume on the side of the machine",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.67                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.67"
 }

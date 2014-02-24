@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Andrew Baugnet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Andrew Baugnet",
   "life_date": "American, born 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andrew Baugnet",
   "dated": "1994",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\'Baker Park Medina, Minnesota 1994 Andrew G. Baugn ",
   "text": "",
   "description": "2 bird feeders facing opposite directions on top of barbed wire fence posts; trees at right with grasses, wildflowers in front",
+  "provenance": "",
   "creditline": "Gift of Andrew Baugnet",
-  "accession_number": "2001.246.1",
-  "artist": "Andrew Baugnet"
+  "accession_number": "2001.246.1"
 }

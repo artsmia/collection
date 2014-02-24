@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1904-1988",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Isamu Noguchi",
   "dated": "c. 1951 design (manufactured c. mid-1960s)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Walker Art Center",
-  "accession_number": "92.72.8                                   ",
-  "artist": "Isamu Noguchi"
+  "accession_number": "92.72.8"
 }

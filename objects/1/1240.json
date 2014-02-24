@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2009 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2009 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1867-1947",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre Bonnard",
   "dated": "1913",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR: [Bonnard 1913]",
   "text": "In 1912, Pierre Bonnard bought a country house called \"My Caravan\" (<I>Ma Roulotte</I>) at Vernonnet, a small town on the Seine. This painting shows the dining room there, with cats perching on the chairs and Marthe de Méligny, the artist's wife, leaning on the windowsill.\u000bBonnard, who considered himself \"the last of the Impressionists,\" emphasized the expressive qualities of bright colors and loose brushstrokes in this picture. He united the interior with the exterior through the open window and door, and linked the forms by bathing them in related hues. Unlike the Impressionists, however, Bonnard painted entirely from memory. And like the Symbolists, he wanted his works to reflect his subjective response to the subject.",
   "description": "Interior of the house",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "54.15                                     ",
-  "artist": "Pierre Bonnard"
+  "accession_number": "54.15"
 }

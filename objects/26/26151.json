@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Homer Page",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Homer Page",
   "life_date": "American, 1918-1986",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Homer Page",
   "dated": "1960s",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "girl with skip rope",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.33",
-  "artist": "Homer Page"
+  "accession_number": "89.125.33"
 }

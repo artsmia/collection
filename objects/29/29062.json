@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1993",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp ",
   "text": "",
   "description": "conscious woman with large thigh wound being operated on",
+  "provenance": "",
   "creditline": "Gift of the Victor, David and Steven Parker Family Trust",
-  "accession_number": "96.152.2",
-  "artist": "Gilles Peress"
+  "accession_number": "96.152.2"
 }

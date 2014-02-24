@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Coffee Pot with cover, ceramic, ribbed with floral decoration in carmine and gold. Cover from smaller vessel of same design,  German XVIIIc  cat. dims 7-1/2 x 5-1/2\\'",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.8.47a,b                                ",
-  "artist": ""
+  "accession_number": "23.8.47a,b"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Berenice Abbott %2F Howard Greenberg Gallery%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Berenice Abbott %2F Howard Greenberg Gallery%2C New York",
   "life_date": "American, 1898-1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Berenice Abbott",
   "dated": "1926",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\\"PARIS/1926\\\", in pencil, LRC \\\"ABBOTT\\\", in pencil, LRC",
   "text": "",
   "description": "portrait of a man wearing an eye patch on his PL eye under glasses, light-colored jacket, striped shirt and bow tie; head resting on PR hand",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "2002.257                                  ",
-  "artist": "Berenice Abbott"
+  "accession_number": "2002.257"
 }

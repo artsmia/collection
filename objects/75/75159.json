@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "English, 1812-1888",
   "nationality": null,
   "role": "Artist",
+  "artist": "Edward Lear",
   "dated": "1833-1835",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "\r\n\r\n\r\n\r\n ",
   "text": "",
   "description": "birds; pl. 9 (toucan)",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.19,810                                  ",
-  "artist": "Edward Lear"
+  "accession_number": "P.19,810"
 }

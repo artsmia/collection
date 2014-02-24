@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1992",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1992]",
   "text": "",
   "description": "woman with medium length hair at R corner, with shoulder and legs of child visible behind her and young girl\\'s head and shoulder at UR corner; woman with long dark hair facing camera and smiling, bent over facing a pig, seen from behind, wearing a tutu",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.40                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.40"
 }

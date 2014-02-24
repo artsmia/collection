@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1861 - 1944",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Aristide Maillol",
   "dated": "c. 1902",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "cat. card dims H 11-1/2 x W 5 x L 4-7/8\\'",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "72.56",
-  "artist": "Aristide Maillol"
+  "accession_number": "72.56"
 }

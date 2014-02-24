@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1860-1945",
   "nationality": "French",
   "role": "Artist",
+  "artist": "René Jules Lalique",
   "dated": "1900-1942",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [R. Lalique, France]",
   "text": "",
   "description": "shallow bowl of milky blue Lalique glass; rim decorated with wide band of swirling fish blowing bubbles which form decoration on bottom of bowl",
+  "provenance": "",
   "creditline": "Gift of Mrs. C. C. Bovey",
-  "accession_number": "42.59                                     ",
-  "artist": "René Jules Lalique"
+  "accession_number": "42.59"
 }

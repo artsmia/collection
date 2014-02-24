@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photograph by Irving Penn%2C %26copy%3B by Irving Penn",
+  "image_copyright": "Photograph by Irving Penn%2C %26Acirc%3B%26copy%3B by Irving Penn",
   "life_date": "American, 1917 - 2009",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Irving Penn",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "standing woman seen from back with head in shadow; woman wears a backless stain dress with bow on PL hip and holds a large feather fan; mounted on aluminum sheet",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "2001.182.2",
-  "artist": "Irving Penn"
+  "accession_number": "2001.182.2"
 }

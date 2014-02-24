@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Roman Vishniac %2F International Center of Photography%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Roman Vishniac %2F International Center of Photography%2C New York",
   "life_date": "American (b. Russia), 1897 - 1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roman Vishniac",
   "dated": "1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature signed LR on mat",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "92.25.1",
-  "artist": "Roman Vishniac"
+  "accession_number": "92.25.1"
 }

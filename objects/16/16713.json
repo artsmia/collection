@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.12-¼ x W.11-3/4 in.",
   "medium": "satin, silk",
   "title": "Mandarin Square",
   "id": "http://api.artsmia.org/objects/16713",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Mandarin square of blue k\\'ossu with peacock design. All-over background of spirals and blossoms in gold thread. Clouds, bats, sun, narcissus and eternal sea. Border of running spiral and blossom design in gold. Unlined. See inscription on back of sun disk.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "42.8.185                                  ",
-  "artist": ""
+  "accession_number": "42.8.185"
 }

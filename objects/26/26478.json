@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
-  "image_copyright": "",
+  "restricted": 1,
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Aaron Siskind Foundation",
   "life_date": "American, 1903 - 1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Aaron Siskind",
   "dated": "1963",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Rome 73",
   "id": "http://api.artsmia.org/objects/26478",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "90.133.2                                  ",
-  "artist": "Aaron Siskind"
+  "accession_number": "90.133.2"
 }

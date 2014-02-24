@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michel Brelet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michel Brelet",
   "life_date": "French",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Michel Brelet",
   "dated": "c. 1965",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Title, date and mark titled and dated verso",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.20",
-  "artist": "Michel Brelet"
+  "accession_number": "91.123.20"
 }

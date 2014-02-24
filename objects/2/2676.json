@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BCarl Chiarenza",
+  "image_copyright": "%26Acirc%3B%26copy%3BCarl Chiarenza",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Carl Chiarenza",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "80.12.21                                  ",
-  "artist": "Carl Chiarenza"
+  "accession_number": "80.12.21"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Clara Klinghoffer",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Clara Klinghoffer",
   "life_date": "English, 1900-1970",
   "nationality": null,
   "role": "Artist",
+  "artist": "Clara Klinghoffer",
   "dated": "20th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature [C. Klinghoffer], LR corner",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
-  "accession_number": "23.50.18",
-  "artist": "Clara Klinghoffer"
+  "accession_number": "23.50.18"
 }

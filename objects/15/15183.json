@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "Indonesia",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.39-½ x W.39-½ in.",
   "medium": "cotton",
   "title": "Batik Square",
   "id": "http://api.artsmia.org/objects/15183",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Square, batik, printed. Leaf and vine design in dull red, dark blue and black on tan ground. Square center of dull red.",
+  "provenance": "",
   "creditline": "Bequest of Miss Lily Place",
-  "accession_number": "30.23.46                                  ",
-  "artist": ""
+  "accession_number": "30.23.46"
 }

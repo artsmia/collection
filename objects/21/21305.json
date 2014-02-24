@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st-5th century",
   "culture": "Roman",
   "country": "Roman",
-  "continent": "",
+  "continent": null,
   "dimension": "4 1/2 x 1 5/8 x 1 5/8 in. (11.4 x 4.1 x 4.13 cm)",
   "medium": "Glass",
   "title": "Small Vase",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "vase, pale green glass",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. I. D. Fink",
-  "accession_number": "76.73.58                                  ",
-  "artist": ""
+  "accession_number": "76.73.58"
 }

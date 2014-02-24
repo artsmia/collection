@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Alexander Leventon",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Alexander Leventon",
   "life_date": "American, born Russia, 1895-1950",
   "nationality": null,
   "role": "Artist",
+  "artist": "Alexander Leventon",
   "dated": "1944",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "vintage print",
+  "provenance": "",
   "creditline": "Gift of Joseph Bellows",
-  "accession_number": "93.92.2",
-  "artist": "Alexander Leventon"
+  "accession_number": "93.92.2"
 }

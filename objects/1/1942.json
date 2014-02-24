@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1923 - 2002",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Larry Rivers",
   "dated": "1954",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Recent conservation of this picture was made possible by a generous contribution from Patty Canney and an anonymous patron through the Adopt-a-Painting program.",
   "description": "Portrait.",
+  "provenance": "",
   "creditline": "Gift of David M. Daniels",
-  "accession_number": "72.76                                     ",
-  "artist": "Larry Rivers"
+  "accession_number": "72.76"
 }

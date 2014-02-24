@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "probably 17th century",
   "culture": null,
   "country": "Venice, Italy",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "H.12 x Diam.6-½ in.",
   "medium": "Amber glass",
   "title": "Flask",
   "id": "http://api.artsmia.org/objects/12479",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Murano blown amber color glass, globular body, segmental gadroonings, tall cylindrical neck with quilled band.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "16.743.5                                  ",
-  "artist": ""
+  "accession_number": "16.743.5"
 }

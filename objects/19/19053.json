@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "16th century",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
-  "accession_number": "66.25.110                                 ",
-  "artist": "Artist Unknown"
+  "accession_number": "66.25.110"
 }

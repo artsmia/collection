@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1780",
   "culture": null,
   "country": "India",
@@ -13,12 +14,12 @@
   "medium": "Opaque watercolor, gouache and gold on paper",
   "title": "The Vilaval Ragini",
   "id": "http://api.artsmia.org/objects/3136",
-  "room": "Not on View",
+  "room": "G103",
   "style": "18th century",
   "marks": "Verso: 9 (circled) ",
   "text": "",
   "description": "Woman stands on footstool at left surrounded by sarus cranes.  Two female attendants hold a portrait or a mirror and a tray of flasks beside her.",
+  "provenance": "",
   "creditline": "Gift of Catherine and Ralph Benkaim",
-  "accession_number": "83.111",
-  "artist": ""
+  "accession_number": "83.111"
 }

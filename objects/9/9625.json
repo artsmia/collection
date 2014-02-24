@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Kenneth Callahan",
+  "image_copyright": "%26Acirc%3B%26copy%3B Kenneth Callahan",
   "life_date": "American, 1905-1986",
   "nationality": null,
   "role": "Artist",
+  "artist": "Kenneth Callahan",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non verso of board: inscription in r ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Sally J. Anson",
-  "accession_number": "91.53",
-  "artist": "Kenneth Callahan"
+  "accession_number": "91.53"
 }

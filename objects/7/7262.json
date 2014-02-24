@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1884 - 1950",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Beckmann",
   "dated": "1921",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature LR: [Beckmann]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The F.S. Winston Fund, 1957",
-  "accession_number": "P.12,538                                  ",
-  "artist": "Max Beckmann"
+  "accession_number": "P.12,538"
 }

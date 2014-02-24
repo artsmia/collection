@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michael Ende",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Ende",
   "life_date": "Israeli, born 1945",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Michael Ende",
   "dated": "c. 1900",
   "culture": null,
   "country": "Jerusalem",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "very delicate filigree scroll with handle on one end and crown on opposite end; green gem at top of crown; hand-painted scroll",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.45",
-  "artist": "Michael Ende"
+  "accession_number": "2003.228.45"
 }

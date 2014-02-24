@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Cy Twombly Foundation",
+  "image_copyright": "%26Acirc%3B%26copy%3B Cy Twombly Foundation",
   "life_date": "American, 1928-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Cy Twombly",
   "dated": "1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Numbered in pencil LLC [16/30] Signed in white chalk [Cy Twombly]",
   "text": "",
   "description": "Title page from a portfolio of eight screenprints",
+  "provenance": "",
   "creditline": "The David Draper Dayton Fund",
-  "accession_number": "P.74.15",
-  "artist": "Cy Twombly"
+  "accession_number": "P.74.15"
 }

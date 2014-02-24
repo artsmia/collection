@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Eggleston Artistic Trust. Courtesy Cheim %26amp%3B Read%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eggleston Artistic Trust. Courtesy Cheim %26amp%3B Read%2C New York",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "William Eggleston",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the American Telephone and Telegraph Company",
-  "accession_number": "81.120.24                                 ",
-  "artist": "William Eggleston"
+  "accession_number": "81.120.24"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Paris, est. 1756",
   "nationality": null,
   "role": "Artist",
+  "artist": "Sèvres Porcelain Factory",
   "dated": "1810",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark ",
   "text": "",
   "description": "Plate, ceramic-porcelain, dark blue with gold border; large medallion head in the center of Antinous, signed by \\'Mlle de Gaule\\', French, XIXc cat. card dims H 1-1/4 x diam 9-3/8\\'",
+  "provenance": "",
   "creditline": "Bequest of Alfred Duane Pell",
-  "accession_number": "25.417.32                                 ",
-  "artist": "Sèvres Porcelain Factory"
+  "accession_number": "25.417.32"
 }

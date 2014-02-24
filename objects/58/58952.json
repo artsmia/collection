@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James Rosenquist",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Edition\r\n\r\nNumbered in pencil, LL LC: [Rosenquist 1973]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.79.146.19                               ",
-  "artist": "James Rosenquist"
+  "accession_number": "P.79.146.19"
 }

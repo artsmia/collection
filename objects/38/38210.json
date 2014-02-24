@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Frantisek Drtikol",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Frantisek Drtikol",
   "life_date": "Czechoslovakian, 1883 - 1961",
   "nationality": "Czechoslovakian",
   "role": "Artist",
+  "artist": "Frantisek Drtikol",
   "dated": "c. 1925",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [PF7293] ",
   "text": "",
   "description": "nude man, holding a tall dark pole, standing in front of three white poles with three large white disks at top",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.109",
-  "artist": "Frantisek Drtikol"
+  "accession_number": "2013.35.109"
 }

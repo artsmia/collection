@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "470-460 B.C.",
   "culture": "Etruscan",
   "country": "Etruria",
-  "continent": "",
+  "continent": null,
   "dimension": "11 1/2 x 2 3/4 in. (29.21 x 6.99 cm)",
   "medium": "Bronze",
   "title": "Figure of a Youth",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "possibly a votary figure for placement in a tomb; dimensions include permanent mount.",
+  "provenance": "",
   "creditline": "Gift of Judge Irwin Untermeyer",
-  "accession_number": "47.39                                     ",
-  "artist": ""
+  "accession_number": "47.39"
 }

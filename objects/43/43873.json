@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1889 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas Hart Benton",
   "dated": "1943",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature [Benton], recto",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John and Myrtle Coe",
-  "accession_number": "P.98.28.1                                 ",
-  "artist": "Thomas Hart Benton"
+  "accession_number": "P.98.28.1"
 }

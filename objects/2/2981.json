@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image": "invalid",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "81.94.4                                   ",
-  "artist": "Richard Avedon"
+  "accession_number": "81.94.4"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Snyder",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Snyder",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "76.83.6                                   ",
-  "artist": "Joel Snyder"
+  "accession_number": "76.83.6"
 }

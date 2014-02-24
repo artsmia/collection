@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1946",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "little boy and little girl, seen from back, walking through a small clearing",
+  "provenance": "",
   "creditline": "Gift of funds from the Regis Foundation and Michael Snow",
-  "accession_number": "2003.208.2                                ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "2003.208.2"
 }

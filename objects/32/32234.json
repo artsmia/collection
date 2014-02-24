@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B David Parker",
+  "image_copyright": "%26Acirc%3B%26copy%3B David Parker",
   "life_date": "American, born 1951",
   "nationality": null,
   "role": "Artist",
+  "artist": "David Parker",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Laborer, Pumice Quarry, Lombok, Indonesia",
   "id": "http://api.artsmia.org/objects/32234",
-  "room": "G316",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature; Date; Title in graphite, along top edge, verso: [Laborer, Pumi",
   "text": "",
   "description": "shirtless child with covered head leaning against pole and sacks",
+  "provenance": "",
   "creditline": "Gift of Thomas F.  Arndt",
-  "accession_number": "99.234.20                                 ",
-  "artist": "David Parker"
+  "accession_number": "99.234.20"
 }

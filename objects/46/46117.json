@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Frank Gohlke",
+  "image_copyright": "%26Acirc%3B%26copy%3B Frank Gohlke",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank W. Gohlke",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\\"View of Mt. St. Helens from a ridge 3.5 miles to  \\\"Frank Gohlke 1983\\\", in black ink, LRC",
   "text": "",
   "description": "barren mountains with smoke and clouds at top",
+  "provenance": "",
   "creditline": "Gift of Target Corporation",
-  "accession_number": "2001.293.36",
-  "artist": "Frank W. Gohlke"
+  "accession_number": "2001.293.36"
 }

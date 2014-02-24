@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1897 - 1966",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Albert Renger-Patzsch",
   "dated": "1912-1966",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Steering Wheel",
   "id": "http://api.artsmia.org/objects/23021",
-  "room": "Not on View",
+  "room": "G379",
   "style": "20th century",
   "marks": " ",
   "text": "The time was the early 20th century and the setting was a trade show of the latest industrial inventions. Two now-famous artist friends, Contantin Brancusi and Marcel Duchamp, were walking through the show and came up to a propeller from a large ship. Duchamp turned to Brancusi and challenged him: \"beat that.\" In other words, make a modern sculpture as beautiful as a functionally-designed propeller. \r\n\r\nThe revelation that industrial design has aesthetic qualities is one reason why John R. Morgan's <I>Waterwitch Outboard Motor</I> (left) is on display at the MIA. With the advancement of industry in the late 19th and early 20th century, the notion of \"good design\" began to spread globally in advanced industrial nations. \r\n\r\nRoughly around the same time, photographers began to look closely at industrial objects, cars, typewriters, etc. In fact, they often looked <I>very closely</I>, capturing the alluring details of industrial design with tight, up-close shots of designs. Renger-Patzsch, for example, shows us the steering wheel, not the car. He focuses the camera on the circular gauges, steering wheel, bolts, and the brushed pattern of the dashboard. Renger-Patzsch \"beat that\" by \"showing that\" in detail.",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "81.82                                     ",
-  "artist": "Albert Renger-Patzsch"
+  "accession_number": "81.82"
 }

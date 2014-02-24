@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Manuel Carrillo",
   "life_date": "Mexican, born 1915",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Manuel Carrillo",
   "dated": "1930-1976",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Arnold M. Gilbert",
-  "accession_number": "76.48.9                                   ",
-  "artist": "Manuel Carrillo"
+  "accession_number": "76.48.9"
 }

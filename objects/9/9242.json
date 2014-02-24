@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1879 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Frélaut",
   "dated": "1921",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date [Frelaut 1921]",
   "text": "",
   "description": "Small stone cottage at right, foliage to left",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
-  "accession_number": "23.50.44",
-  "artist": "Jean Frélaut"
+  "accession_number": "23.50.44"
 }

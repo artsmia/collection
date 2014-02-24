@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Atelier Robert Doisneau",
+  "image_copyright": "%26Acirc%3B%26copy%3B Atelier Robert Doisneau",
   "life_date": "French, 1912 - 1994",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Doisneau",
   "dated": "1948",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition LRC below image, in black: [Robert Doisneau]; URC ",
   "text": "",
   "description": "man and woman looking at art in a shop window; woman looks at object in foreground, man looks at Impressionist-style painting of a nude wearing stockings at L",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.82",
-  "artist": "Robert Doisneau"
+  "accession_number": "2007.35.82"
 }

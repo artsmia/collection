@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1972 negative (printed 1991)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Inscription ",
   "text": "",
   "description": "crowd of people in street; right 1/2 of image includes a man making the \\'peace\\' symbol and a sign reading \\'central cafe\\'",
+  "provenance": "",
   "creditline": "Gift of David and Mary M.D. Parker",
-  "accession_number": "2003.211.14",
-  "artist": "Gilles Peress"
+  "accession_number": "2003.211.14"
 }

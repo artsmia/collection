@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Italian, 1883 - 1966",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Gino Severini",
   "dated": "1955",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Richard Lewis Hillstrom in honor of Leslie Bendtsen",
-  "accession_number": "2000.238.4",
-  "artist": "Gino Severini"
+  "accession_number": "2000.238.4"
 }

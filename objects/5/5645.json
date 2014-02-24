@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Glazed stoneware",
   "title": "Box",
   "id": "http://api.artsmia.org/objects/5645",
-  "room": "Not on View",
+  "room": "G304",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "hexagonal shaped box with rounded corners; 2 small buttonlike seals, on lid and base, on one side; brown and tan slightly dripped glaze",
+  "provenance": "",
   "creditline": "The Anne and Hadlai Hull Fund",
-  "accession_number": "98.207.2a,b",
-  "artist": "Warren MacKenzie"
+  "accession_number": "98.207.2a,b"
 }

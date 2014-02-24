@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1860",
   "culture": null,
   "country": "France (?)",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Porcelain",
   "title": "Pot de Creme",
   "id": "http://api.artsmia.org/objects/83416",
@@ -18,7 +19,7 @@
   "marks": "Mark; Sticker ",
   "text": "",
   "description": "white glaze; apple green borders with gilt trim; flowers opposite handles on cup",
+  "provenance": "",
   "creditline": "Gift of Leo A. and Doris Hodroff",
-  "accession_number": "97.153.67.2a,b                            ",
-  "artist": ""
+  "accession_number": "97.153.67.2a,b"
 }

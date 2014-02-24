@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Edward Landon %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Edward Landon %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1911-1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Landon",
   "dated": "1947",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature On sheet and work",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Members of the Print & Drawing Council's New York Trip",
-  "accession_number": "P.86.32",
-  "artist": "Edward Landon"
+  "accession_number": "P.86.32"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": "Akan",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Brass",
   "title": "Goldweight [Pair of Sandals]",
   "id": "http://api.artsmia.org/objects/30153",
-  "room": "G240",
+  "room": "G254",
   "style": "19th-20th century",
   "marks": "Inscription ",
   "text": "",
   "description": "Pair of sandals with dogbone-shaped soles; two straps creating X over each sole; round element in center of each X",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "98.1.161                                  ",
-  "artist": ""
+  "accession_number": "98.1.161"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BHarvey Himelfarb",
+  "image_copyright": "%26Acirc%3B%26copy%3BHarvey Himelfarb",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harvey Himelfarb",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Film in the Cities",
-  "accession_number": "96.37.36                                  ",
-  "artist": "Harvey Himelfarb"
+  "accession_number": "96.37.36"
 }

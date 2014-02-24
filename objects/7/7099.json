@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1897-1945",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Puiforcat",
   "dated": "c. 1938",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "Silver-gilt with rock crystal handle and lid knob; two vermeil rings",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.70",
-  "artist": "Jean Puiforcat"
+  "accession_number": "98.276.70"
 }

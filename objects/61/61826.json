@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th-13th century",
   "culture": null,
   "country": "China",
   "continent": null,
   "dimension": "4 5/8 x 5 11/16 x 5 11/16 in. (11.75 x 14.45 x 14.45 cm)",
-  "medium": null,
+  "medium": "Tz'u-chou ware\r\nStoneware with painted black décor on white slip under a clear glaze",
   "title": "Bowl",
   "id": "http://api.artsmia.org/objects/61826",
   "room": "G204",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "A group of deep globular bowls and lidded jars with painted iron pigment decoration of leaf sprays has been identified archaeologically with kilns in the Tz'u-chou region. These vessels are datable to the twelfth-thirteenth centuries. The large leaf designs like those on this bowl are apparently derived from peony leaves. They are amongst the most common motifs on this small group of bowls, although spiral designs and feathery, frond-like leaf patterns, have also been found.",
   "description": "deep globular bowl on short ring foot; white glaze with 3 large brown glaze leaf sprays on exterior",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2002.95.2                                 ",
-  "artist": ""
+  "accession_number": "2002.95.2"
 }

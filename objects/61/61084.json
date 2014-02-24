@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "August 1854",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "14 9/16 x 10 1/16 in. (37 x 25.5 cm) (image)\r\n14 13/16 x 10 1/4 in. (37.7 x 26 cm) (sheet)\r\n22 1/16 x 18 1/16 in. (56 x 45.8 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "\"Okitsu\"",
   "id": "http://api.artsmia.org/objects/61084",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.228                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.228"
 }

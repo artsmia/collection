@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
-  "life_date": "American, born 1943",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Jan Groover %2F Janet Borden%2C Inc.",
+  "life_date": "American, 1943 - 2012",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jan Groover",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the American Telephone and Telegraph Company",
-  "accession_number": "81.120.40                                 ",
-  "artist": "Jan Groover"
+  "accession_number": "81.120.40"
 }

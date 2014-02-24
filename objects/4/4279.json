@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Willenbecher",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Willenbecher",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Willenbecher",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Inscription\r\n\r\nLL: [FOR MINNEAPOL In black chalk: LR: [J.W.]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John Willenbecher",
-  "accession_number": "91.78.2",
-  "artist": "John Willenbecher"
+  "accession_number": "91.78.2"
 }

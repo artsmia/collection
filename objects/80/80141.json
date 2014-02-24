@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Joel Janowitz",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Janowitz",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Janowitz",
   "dated": "2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, signature, date and edition LLC, below image, in pencil: [Glow a/b]; LRC, belo",
   "text": "",
   "description": "abstracted ground with blue and purple blocks and bars; blue dog with greenish legs, LRC; two dogs (?), in dark blue, ULQ",
+  "provenance": "",
   "creditline": "The Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
-  "accession_number": "2003.151.1",
-  "artist": "Joel Janowitz"
+  "accession_number": "2003.151.1"
 }

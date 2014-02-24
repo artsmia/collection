@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil: [27  in pencil, on back: [Toby Old 1987]",
   "text": "",
   "description": "man seated in a folding chair in front of a cinderblock wall with a coatrack above him; man wears a jacket with hood over his head, slacks and light-colored shoes; another figure at right",
+  "provenance": "",
   "creditline": "Gift of Michael K. Hsu and Anonymous Gift",
-  "accession_number": "2000.68.32                                ",
-  "artist": "Toby Old"
+  "accession_number": "2000.68.32"
 }

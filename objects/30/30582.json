@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJerry N. Uelsmann",
+  "image_copyright": "%26Acirc%3B%26copy%3BJerry N. Uelsmann",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerry N. Uelsmann",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Initials; Date; Signature; Artist\\'s Sticker ",
   "text": "",
   "description": "trees with angels in foreground",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.14                                 ",
-  "artist": "Jerry N. Uelsmann"
+  "accession_number": "98.144.14"
 }

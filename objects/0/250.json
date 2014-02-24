@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "15th century",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Cassone with Intarsia decoration",
+  "provenance": "",
   "creditline": "Gift funds from the Friends of the Institute",
-  "accession_number": "22.16.5                                   ",
-  "artist": ""
+  "accession_number": "22.16.5"
 }

@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th-13th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "3 1/2 x 3 3/8 in. (8.9 x 8.57 cm)",
-  "medium": null,
+  "medium": "Ch'ing-pai ware\r\nPorcelain with molded décor under a pale blue glaze\r\n",
   "title": "Six-lobed Covered Box",
   "id": "http://api.artsmia.org/objects/29492",
   "room": "G204",
@@ -18,7 +19,7 @@
   "marks": "Sticker ",
   "text": "",
   "description": "light green six-lobed box with flower design on lid; in storage box",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "97.134.3a,b                               ",
-  "artist": ""
+  "accession_number": "97.134.3a,b"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Elliott Erwitt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Elliott Erwitt",
   "life_date": "American, born France, 1928",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Elliott Erwitt",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Martin Sklar",
-  "accession_number": "81.122.2.9",
-  "artist": "Elliott Erwitt"
+  "accession_number": "81.122.2.9"
 }

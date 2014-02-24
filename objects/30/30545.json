@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": "Akan",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Brass",
   "title": "Goldweight [Lizard with Fish in Mouth]",
   "id": "http://api.artsmia.org/objects/30545",
-  "room": "G240",
+  "room": "G254",
   "style": "19th-20th century",
   "marks": "Inscription ",
   "text": "",
   "description": "Lizard (crocodile) with a diamond shape stomach, Football shaped eyes with slits, Long snout with flat fish in mouth. Flat ridge down back from head to tip of tail.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "98.1.78                                   ",
-  "artist": ""
+  "accession_number": "98.1.78"
 }

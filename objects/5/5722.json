@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Dmitrii Baltermants",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Dmitrii Baltermants",
   "life_date": "Russian, 1912 - 1990",
   "nationality": "Russian",
   "role": "Artist",
+  "artist": "Dmitrii Baltermants",
   "dated": "1946",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": "Stamps; Inscription ",
   "text": "",
   "description": "Large military procession through a Russian street",
+  "provenance": "",
   "creditline": "Gift of Richard and Linda Parins",
-  "accession_number": "98.266.5",
-  "artist": "Dmitrii Baltermants"
+  "accession_number": "98.266.5"
 }

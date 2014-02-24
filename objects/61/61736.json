@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jim Dine",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on last page in pencil: [Jim Dine]",
   "text": "",
   "description": "44 sheets in a red cloth-covered box; booklet in pocket in front cover; text interspersed with lithographs; pages numbered on back",
+  "provenance": "",
   "creditline": "Gift of the Harriet Hanley Estate",
-  "accession_number": "2002.115.1a-tt                            ",
-  "artist": "Jim Dine"
+  "accession_number": "2002.115.1a-tt"
 }

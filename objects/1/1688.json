@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Belorussian, 1887 - 1985",
   "nationality": "Belorussian",
   "role": "Artist",
+  "artist": "Marc Chagall",
   "dated": "mid 1930s",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription\r\n\r\nsee Signed\r\n\r\nInscribed  Signed, LR: [Marc Chagall]",
   "text": "",
   "description": "Tree in center, mother and child to right, bird and goat (previously identified as donkey/horse) to left",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "68.78",
-  "artist": "Marc Chagall"
+  "accession_number": "68.78"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "2000",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil, bott in pencil, LRC on back: [Toby Old 2000]",
   "text": "",
   "description": "muscular, sweaty black man, in profile from PR, with head turned slightly toward R, wearing tank top and boxing gloves",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.8                                ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.8"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1884 - 1950",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Beckmann",
   "dated": "1916",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\nselp. w. chalk, 1916 \r\n LR: [Beckmann]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "F.S. Winston Fund or Gift of Donald Winston",
-  "accession_number": "P.12,616                                  ",
-  "artist": "Max Beckmann"
+  "accession_number": "P.12,616"
 }

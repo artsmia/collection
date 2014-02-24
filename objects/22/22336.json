@@ -5,6 +5,7 @@
   "life_date": "British, active about 1800",
   "nationality": "British",
   "role": "Artist",
+  "artist": "J. Culbert",
   "dated": "1798",
   "culture": null,
   "country": "England",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/22336",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature; Date; Inscription [J. Culber invü delü 1798], in grey ink, in margin",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "80.51.4                                   ",
-  "artist": "J. Culbert"
+  "accession_number": "80.51.4"
 }

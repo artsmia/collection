@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Fritz Herz",
   "dated": "1923",
   "culture": null,
   "country": "Germany",
   "continent": "Europe",
   "dimension": "18 3/4 x 12 1/2 in. (47.63 x 31.75 cm) (sheet, each, approximate)",
-  "medium": "",
+  "medium": null,
   "title": "Neue Farbige Vorlagen for de Textil-Industrie, Serie I and Serie II",
   "id": "http://api.artsmia.org/objects/67167",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Serie I and Serie II together in one portfolio, each with 24 color plates of textile designs; portfolio cover is brown with black text",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.76a-vv                            ",
-  "artist": "Fritz Herz"
+  "accession_number": "P.98.33.76a-vv"
 }

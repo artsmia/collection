@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJerry N. Uelsmann",
+  "image_copyright": "%26Acirc%3B%26copy%3BJerry N. Uelsmann",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerry N. Uelsmann",
   "dated": "1984",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Initials; Date; Title; Date; Signature; Artist\\'s S ",
   "text": "",
   "description": "footprints in sand and half a woman\\'s body hanging from sphere above water",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.12                                 ",
-  "artist": "Jerry N. Uelsmann"
+  "accession_number": "98.144.12"
 }

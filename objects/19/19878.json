@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Gary Hallman",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gary Hallman",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gary L. Hallman",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.111",
-  "artist": "Gary L. Hallman"
+  "accession_number": "72.111"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nUR in litho crayon: [JAN/1985 Archi ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "86.115.11                                 ",
-  "artist": "John Newman"
+  "accession_number": "86.115.11"
 }

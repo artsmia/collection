@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "400-301 BCE",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Ko (Dagger-Axe)",
   "id": "http://api.artsmia.org/objects/1119",
-  "room": "G214",
+  "room": "Not on View",
   "style": "4th century BCE",
   "marks": " ",
   "text": "",
   "description": "The yuan is slender with narrow bevels on the cutting edge. It is decorated with an indeterminate design in niello and is further adorned in the upper part by a pierced pattern displaying a circle from from which two pierced lines issue, one toward the point, the other toward the nei. Mr. Karlbeck sees in this motif a resembles to a chu. The rounded end of the nei also displays a circle in openwork. Along the narrow flanges of the hu are three U-shaped holes. These served to bind the haft to the Kuo with thongs. Patinasoft greyed-green.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.53",
-  "artist": ""
+  "accession_number": "50.46.53"
 }

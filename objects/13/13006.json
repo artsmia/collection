@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Larpent",
   "dated": "mid 19th century",
   "culture": null,
   "country": "England",
   "continent": "Europe",
   "dimension": "H.51-1/2 x W.15-3/4 x D.9-1/2 in. (overall)",
-  "medium": null,
+  "medium": "Wood, pigment, metal, felt, papier maché",
   "title": "Firescreen",
   "id": "http://api.artsmia.org/objects/13006",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "black stand with finial top and wide turned base; fan-shaped screen with polychrome fruits in a cornucopia; grapes on back",
+  "provenance": "",
   "creditline": "Gift of the Decorative Arts Council",
-  "accession_number": "2000.219a,b                               ",
-  "artist": "Larpent"
+  "accession_number": "2000.219a,b"
 }

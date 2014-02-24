@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jim Dine",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date LR: [Jim Dine 1988]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton, Donna and Cargill MacMillan Jr., and the John R. Van Derlip Fund",
-  "accession_number": "90.23                                     ",
-  "artist": "Jim Dine"
+  "accession_number": "90.23"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\\\"62 [underlined]/ in pencil, LRC on back: [Toby Old 1979]",
   "text": "",
   "description": "woman at R wearing a bustier and holding a baby doll partially wrapped in toilet paper; man at L wearing a t-shirt and blue jeans with suspenders, holding a beer bottle in his PL hand and drinking from another bottle in his PR hand",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.11                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.11"
 }

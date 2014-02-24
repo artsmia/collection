@@ -5,9 +5,10 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th-19th century",
   "culture": null,
-  "country": "",
+  "country": null,
   "continent": "Europe",
   "dimension": "23 x 5 in. (58.42 x 12.7 cm)",
   "medium": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "fringe in purple and gold with tassels and rosettes",
+  "provenance": "",
   "creditline": "Gift of Funds from Stanford and Phyllis Lehmberg",
-  "accession_number": "85.78.4                                   ",
-  "artist": ""
+  "accession_number": "85.78.4"
 }

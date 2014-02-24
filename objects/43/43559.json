@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1876 - 1958",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Maurice de Vlaminck",
   "dated": "c. 1923",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth A. and Elliot J. Brebner",
-  "accession_number": "P.96.15.1",
-  "artist": "Maurice de Vlaminck"
+  "accession_number": "P.96.15.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "German, 1874 - 1930",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Otto Mueller",
   "dated": "1924",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Lithograph",
   "title": "Woman Standing Before a Mirror",
   "id": "http://api.artsmia.org/objects/56387",
-  "room": "Not on View",
+  "room": "G344",
   "style": "19th century",
   "marks": " ",
-  "text": "Otto Mueller cast himself as an outsider, a man of mystery who appeared from nowhere. He enjoyed being seen as exotic'rumors circulated that he was a gypsy'and added to the intrigue by depicting women with un-Germanic features.",
+  "text": "Otto Mueller cast himself as an outsider, a man of mystery who appeared from nowhere. He enjoyed being seen as exotic—rumors circulated that he was a gypsy—and added to the intrigue by depicting women with un-Germanic features.",
   "description": "",
+  "provenance": "",
   "creditline": "The Hall James Peterson Fund",
-  "accession_number": "P.68.361",
-  "artist": "Otto Mueller"
+  "accession_number": "P.68.361"
 }

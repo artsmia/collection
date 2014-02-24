@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Duncan Hannah%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Duncan Hannah%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Duncan Hannah",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, titled LL: [Duncan Hannah 90] \r\nLC: [Study for Jump Rope]",
   "text": "",
   "description": "Young girl jumping rope outdoors",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "92.57.7",
-  "artist": "Duncan Hannah"
+  "accession_number": "92.57.7"
 }

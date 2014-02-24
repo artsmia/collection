@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BBurk Uzzle",
+  "image_copyright": "%26Acirc%3B%26copy%3BBurk Uzzle",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Burk Uzzle",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Auto Boom in Detroit",
   "id": "http://api.artsmia.org/objects/27313",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": "Stamp, Title ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.31                                 ",
-  "artist": "Burk Uzzle"
+  "accession_number": "91.123.31"
 }

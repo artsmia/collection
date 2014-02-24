@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sarah Moon. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sarah Moon. All rights reserved.",
   "life_date": "French, born 1941",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Sarah Moon",
   "dated": "2000",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "slightly blurred image of a woman wearing a form-fitting legless and armless garment, with head bent, PL hand to forehead",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "2002.181.9",
-  "artist": "Sarah Moon"
+  "accession_number": "2002.181.9"
 }

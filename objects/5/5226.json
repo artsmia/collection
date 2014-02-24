@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 18th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "3 1/4 x 19 x 4 5/8 in. (8.26 x 48.26 x 11.75 cm)",
-  "medium": null,
+  "medium": "Cloisonné enamel and white jade",
   "title": "Ju-i Sceptre",
   "id": "http://api.artsmia.org/objects/5226",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Sticker ",
   "text": "",
   "description": "bronze oval with grey jade pierced phoenix and lotus; shaft with similar rectangular jade; base with jade flowers; metal surface with hibiscus and peony scrolls",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Leo Hodroff",
-  "accession_number": "97.153.47                                 ",
-  "artist": ""
+  "accession_number": "97.153.47"
 }

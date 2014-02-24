@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1575",
   "culture": null,
   "country": "Rome, Italy",
@@ -13,12 +14,12 @@
   "medium": "Silver, gilt",
   "title": "Tazza",
   "id": "http://api.artsmia.org/objects/2226",
-  "room": "G350",
+  "room": "Not on View",
   "style": "16th century",
   "marks": " ",
   "text": "This tazza is from a set of twelve made for display on a sideboard. The ornamental imagery was inspired by the <I>Lives of the Caesars<I/>, a second century a.d. book in every Renaissance library that describes the lives of the first twelve Roman emperors. Each tazza featured a different emperor rising from the center, with events of his reign depicted around the inside of the bowl.  The set was dismantled in the late 19th century, then incorrectly reassembled by a Parisian antiques dealer.  As a result, the Institute's tazza combines Augustus's portrait with scenes from the life of Caligula.  This example is sometimes called the Aldobrandini tazza after one of its early owners, Cardinal Ippolito Aldobrandini, who became Pope Clement VIII in 1592.",
   "description": "silver gilt, separates into five parts; fluted foot and bowl with four panels embossed with scenes of the life of the emperor Caligula and capped with a cast and chased figure of Emperor Augustus",
+  "provenance": "",
   "creditline": "The James Ford Bell Family Foundation Fund, the M. R. Schweitzer Fund, and the Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "75.54",
-  "artist": ""
+  "accession_number": "75.54"
 }

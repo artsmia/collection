@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Alan Anderson",
   "dated": "2011",
   "culture": null,
   "country": "United States",
   "continent": "North America",
-  "dimension": null,
+  "dimension": "10 13/16 × 9 1/8 × 1/2 in. (27.46 × 23.18 × 1.27 cm) (book, closed)",
   "medium": "Archival pigment ink prints",
   "title": "Location, Volume 5",
   "id": "http://api.artsmia.org/objects/119080",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "tan cover; color reproductions of works of art--collages, photo collages and abstract imagery",
-  "creditline": null,
-  "accession_number": "L2014.16.1.5",
-  "artist": "Alan Anderson"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "L2014.16.1.5"
 }

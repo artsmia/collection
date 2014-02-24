@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1986",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature in graphite, LRC, verso: [Gilles Peress]",
   "text": "",
   "description": "silhouette of donkey\\'s head in foreground; river with fence on far side running diagonally through image",
+  "provenance": "",
   "creditline": "Gift of David L. and Mary M. D. Parker",
-  "accession_number": "2002.183.91",
-  "artist": "Gilles Peress"
+  "accession_number": "2002.183.91"
 }

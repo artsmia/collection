@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
   "dimension": "10 1/8 x 14 3/4 in. (25.7 x 37.5 cm) (image, sheet)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "(Courtesan and a Man Kissing)",
   "id": "http://api.artsmia.org/objects/27377",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "waka poem ",
   "text": "",
   "description": "nishiki-e, shunga in Utamaro style",
+  "provenance": "",
   "creditline": "Gift of Mrs. Charles B. Meech",
-  "accession_number": "91.112.80",
-  "artist": ""
+  "accession_number": "91.112.80"
 }

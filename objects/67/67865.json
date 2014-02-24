@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BAndy Warhol Foundation for the Visual Arts %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BAndy Warhol Foundation for the Visual Arts %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1928 - 1987",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andy Warhol",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition Signed in ink, numbered with rubber stamp, verso",
   "text": "",
   "description": "From suite of 10 color screenprints",
+  "provenance": "",
   "creditline": "Gift of Marguerite and Russell Cowles",
-  "accession_number": "P.83.23.7",
-  "artist": "Andy Warhol"
+  "accession_number": "P.83.23.7"
 }

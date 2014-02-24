@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F DACS%2C London",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F DACS%2C London",
   "life_date": "Scottish, 1924 - 2005",
   "nationality": "Scottish",
   "role": "Artist",
+  "artist": "Sir Eduardo Paolozzi",
   "dated": "1967",
   "culture": null,
   "country": "Scotland",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.69.163.58",
-  "artist": "Sir Eduardo Paolozzi"
+  "accession_number": "P.69.163.58"
 }

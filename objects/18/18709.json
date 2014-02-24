@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1898 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Reginald Marsh",
   "dated": "c. 1935",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark LL in pencil, estate signature: [Reginald Marsh (F",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "64.69",
-  "artist": "Reginald Marsh"
+  "accession_number": "64.69"
 }

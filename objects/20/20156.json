@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BTerry Husebye",
+  "image_copyright": "%26Acirc%3B%26copy%3BTerry Husebye",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Terry L. Husebye",
   "dated": "c. 1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "74.15.13                                  ",
-  "artist": "Terry L. Husebye"
+  "accession_number": "74.15.13"
 }

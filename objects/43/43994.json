@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BMary Frank%2C Courtesy of DC Moore Gallery%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BMary Frank%2C Courtesy of DC Moore Gallery%2C New York",
   "life_date": "American (born England), born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mary Frank",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LR, in pencil",
   "text": "",
   "description": "two images of a reclining female nude; upper image white on black; PL leg bent under and PR leg knee up; head to right edge; lower image red nude with hair spilling over marked left edge of image frame; black piraminds upper right; shadow of bird in flight lower right",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "P.98.26.3",
-  "artist": "Mary Frank"
+  "accession_number": "P.98.26.3"
 }

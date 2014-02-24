@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1940",
   "culture": "Maya",
   "country": "Guatemala",
   "continent": "North America",
   "dimension": "18 3/4 x 79 in. (47.6 x 200.7 cm) (each)",
-  "medium": null,
+  "medium": "Cotton; jaspé",
   "title": "Shawl segments (Perraje)",
   "id": "http://api.artsmia.org/objects/25254",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Two fabric lengths; weft stripes, bands of indigo and white ikat alternating with solid color stripes in ochre, red, green, yellow, indigo.",
+  "provenance": "",
   "creditline": "Gift of Elizabeth and Lloyd Olson in memory of Selma Groethe",
-  "accession_number": "86.98.9a,b                                ",
-  "artist": ""
+  "accession_number": "86.98.9a,b"
 }

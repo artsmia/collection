@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignees",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%27s estate%2C or assignees",
   "life_date": "American, 1892 - 1980",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Cameron Booth",
   "dated": "c. 1935",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature In graphite, LR:  [Cameron Booth]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Allen Brookins-Brown",
-  "accession_number": "2000.248                                  ",
-  "artist": "Cameron Booth"
+  "accession_number": "2000.248"
 }

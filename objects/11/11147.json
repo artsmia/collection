@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1964",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature Lower left corner",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Bruce B.Dayton",
-  "accession_number": "82.134                                    ",
-  "artist": "Richard Avedon"
+  "accession_number": "82.134"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3BFoundation Romare Bearden %2F Copyright VAGA%2C New York%2C NY",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3BFoundation Romare Bearden %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1911-1988",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Romare Howard Bearden",
   "dated": "1942",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gouache and casein on Kraft paper",
   "title": "Factory Workers",
   "id": "http://api.artsmia.org/objects/4428",
-  "room": "G315",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature in black, LR: [- Romare Bearden -]",
   "text": "Romare Bearden produced Factory Workers as the frontispiece for the June 1942 Fortune magazine article \"The Negro's War,\" which examined the high social and financial costs of racial discrimination during wartime and advocated for full integration of the American workplace. Painted in a representational style often associated with social realism, the gouache drawing presents a somber, yet dignified portrayal of African American workers who have been denied work at a steel mill because of the color of their skin. By highlighting the lack of progress for blacks in the workplace during World War II, Bearden casts a skeptical eye on the larger state of race relations in mid-century America. Typical of his finest work of the 1940s, Factory Workers represents the political and social concerns that would dominate Bearden's work for the remainder of his career.",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "92.24                                     ",
-  "artist": "Romare Howard Bearden"
+  "accession_number": "92.24"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1963",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Lithographs, letterpress",
   "title": "Une fête en cimmérie",
   "id": "http://api.artsmia.org/objects/32644",
-  "room": "Not on View",
+  "room": "G359",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Matisse created his illustrations for this exceptional project before the author’s text had been completed. The story, by his son-in-law, Georges Duthuit, was a fictional account of the meeting between a modern civilized society and a primitive one, that of “Cimmérie”, which he based on North American Inuits.\r\n \r\nBecause of the nature of the subject, Matisse relied upon second-hand sources for his illustrations: photography, film, reference books, and Inuit masks.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "B.91.5.49",
-  "artist": "Henri Matisse"
+  "accession_number": "B.91.5.49"
 }

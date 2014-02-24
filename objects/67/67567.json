@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Mangold",
   "dated": "1973-1976; 1977 (printed)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature in pencil",
   "text": "",
   "description": "\r\n",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Samuel H. Maslon",
-  "accession_number": "P.79.81.9                                 ",
-  "artist": "Robert Mangold"
+  "accession_number": "P.79.81.9"
 }

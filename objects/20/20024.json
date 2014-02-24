@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Joseph Drapell",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joseph Drapell",
   "life_date": "Canadian, born 1940",
   "nationality": "Canadian",
   "role": "Artist",
+  "artist": "Joseph Drapell",
   "dated": "1971",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Abstraction with gestural brushstrokes and areas of thick paint.",
+  "provenance": "",
   "creditline": "Gift of Mr. Robert Elkon",
-  "accession_number": "73.41.3                                   ",
-  "artist": "Joseph Drapell"
+  "accession_number": "73.41.3"
 }

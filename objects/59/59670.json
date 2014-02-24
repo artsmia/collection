@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1986]",
   "text": "",
   "description": "standing cut-out of George Bush at left; display with photos and large flag clipped to bottom at center, with small dog lying behind it; man in wheelchair smoking a cigar at R; another man carrying a trash bag and reaching into a trash can in background; in a park",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.34                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.34"
 }

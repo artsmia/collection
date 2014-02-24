@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Frantisek Drtikol",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Frantisek Drtikol",
   "life_date": "Czechoslovakian, 1883 - 1961",
   "nationality": "Czechoslovakian",
   "role": "Artist",
+  "artist": "Frantisek Drtikol",
   "dated": "1924",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\non back  LRC on mount, in pencil: [Dritkol 1924]; on back o",
   "text": "",
   "description": "man looking toward his PL, with face in profile, holding a small hatchet in his PL hand; man stands behind 3 white posts, extending upward toward UL and UR corners; curved white element in URC",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.110",
-  "artist": "Frantisek Drtikol"
+  "accession_number": "2013.35.110"
 }

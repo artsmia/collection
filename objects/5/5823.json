@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1720",
   "culture": null,
   "country": "Jingdezhen, China",
@@ -13,12 +14,12 @@
   "medium": "Porcelain, silver (later addition)",
   "title": "\"Make-do\" teapot",
   "id": "http://api.artsmia.org/objects/5823",
-  "room": "Not on View",
+  "room": "G209",
   "style": "18th century",
   "marks": " ",
   "text": "This teapot probably lost its original porcelain spout in transit.  Objects with such repairs such as this are often called \"make-dos.\" They illustrate the extent to which even broken pieces of Chinese Export were highly prized, that they would be custom-fitted with silver rather than discarded.",
   "description": "Kangxi drum-shaped famille verte teapot decorated with a panel of flowers on each side within bands of stud moulding; the original spout replaced with a silver spout",
+  "provenance": "",
   "creditline": "Gift of Christopher Monkhouse and Catherine Futter in honor of Leo and Doris Hodroff",
-  "accession_number": "98.90a,b                                  ",
-  "artist": ""
+  "accession_number": "98.90a,b"
 }

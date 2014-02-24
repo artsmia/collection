@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Copyright 1995%2C Chihuly Studio",
+  "image_copyright": "%26Acirc%3B%26copy%3B Copyright 1995%2C Chihuly Studio",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dale Chihuly",
   "dated": "1995",
   "culture": "American",
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dayton's",
-  "accession_number": "97.64a-c",
-  "artist": "Dale Chihuly"
+  "accession_number": "97.64a-c"
 }

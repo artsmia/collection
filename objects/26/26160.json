@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Enrico Sarsini",
+  "image_copyright": "%26Acirc%3B%26copy%3B Enrico Sarsini",
   "life_date": "Italian, born 1939",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Enrico Sarsini",
   "dated": "1954-1989",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.22",
-  "artist": "Enrico Sarsini"
+  "accession_number": "89.125.22"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart D. Klipper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart D. Klipper",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart D. Klipper",
   "dated": "1984",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Stuart D. Klipper in Appreciation of Ted Hartwell and to Commemorate the Publication of his book, 'The Making of a Collection'",
-  "accession_number": "85.4.6                                    ",
-  "artist": "Stuart D. Klipper"
+  "accession_number": "85.4.6"
 }

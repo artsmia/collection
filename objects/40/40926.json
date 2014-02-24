@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Viktor Schreckengost Foundation",
+  "image_copyright": "%26Acirc%3B%26copy%3B Viktor Schreckengost Foundation",
   "life_date": "American, 1906 - 2008",
   "nationality": null,
   "role": "Artist",
+  "artist": "Viktor Schreckengost",
   "dated": "1942",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.144.1a,b",
-  "artist": "Viktor Schreckengost"
+  "accession_number": "98.276.144.1a,b"
 }

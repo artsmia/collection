@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of James G. Bennett",
   "life_date": "American, 1898 - 1962",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James G. Bennett",
   "dated": "1941",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lillian Bennett Markoe",
-  "accession_number": "83.45                                     ",
-  "artist": "James G. Bennett"
+  "accession_number": "83.45"
 }

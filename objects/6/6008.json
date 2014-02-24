@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "12 13/16 x 6 3/4 in. (32.54 x 17.15 cm)",
-  "medium": "Tz?u-chou ware\r\nStoneware with \"oil-spot\" glaze\r\n",
+  "medium": "Tz’u-chou ware\r\nStoneware with \"oil-spot\" glaze\r\n",
   "title": "Pear-shaped Bottle",
   "id": "http://api.artsmia.org/objects/6008",
   "room": "G204",
@@ -18,7 +19,7 @@
   "marks": "Sticker ",
   "text": "Used primarily for serving wine during the Chin (1115-1234) and Yuan (1279-1368) dynasties, the distinctive form of pear-shaped bottles seem to have originated in eleventh century silver vessels which were imitated in ceramic at the Ting kilns of north China.\r\n<P>The rare \"oil-spot\" glaze of this bottle was developed earlier at the Chien kilns in Fujian province during the Northern Sung (960-1127). The dark brown-black glaze is covered with an \"oil-spot\" pattern comprised of numerous rust-brown spots each with a silvery metallic fleck in the center. After the first coat of glaze had dried, a solution rich in iron compounds was applied to create the desired silvery brown oil spots upon firing.",
   "description": "Pear-shaped body with narrow neck and flaring mouth; flared foot ring; \\'oilspot\\' glaze in shiny black with russet sport and small metallic flecks",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "99.69.2                                   ",
-  "artist": ""
+  "accession_number": "99.69.2"
 }

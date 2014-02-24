@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\n in pencil, bottom ed in pencil, LRC on back: [Toby Old 1980]",
   "text": "",
   "description": "young man in jacket with velvet lapels and cuffs and bandana tied around his neck, smoking a cigarette and touching the front of his pompador hairstyle with his PL hand; 3 other figures reflected in mirror at R; bar at front of image",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.15                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.15"
 }

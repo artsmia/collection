@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1703 - 1770",
   "nationality": "French",
   "role": "Artist",
+  "artist": "François Boucher",
   "dated": "c. 1755",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Boucher painted this picture for his patron, Madame de Pompadour, the mistress of Louis XV. Partly to please the religious faction at court, she commissioned devotional pictures for the chapels in her various residences. She ordered this one of Saint John, her patron saint, for a chapel in the Capuchin Convent in Paris, where she had an apartment and went for periodic retreats.\r\n",
   "description": "Saint John the Baptist in the Wilderness in a loin cloth reclining on red drapery under a tree by a stream with his hands clasped with the lamb and the cross by his side. in the clouds above are seven infant Angels\\' heads",
+  "provenance": "",
   "creditline": "The Putnam Dana McMillan Fund",
-  "accession_number": "75.8",
-  "artist": "François Boucher"
+  "accession_number": "75.8"
 }

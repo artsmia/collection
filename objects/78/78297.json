@@ -3,8 +3,9 @@
   "image": "invalid",
   "image_copyright": "",
   "life_date": null,
-  "nationality": null,
+  "nationality": "French",
   "role": "Artist",
+  "artist": "Anatole France",
   "dated": "1912",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.16,749                                  ",
-  "artist": "Anatole France"
+  "accession_number": "P.16,749"
 }

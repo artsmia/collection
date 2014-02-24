@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart D. Klipper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart D. Klipper",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart D. Klipper",
   "dated": "1978 and 1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature ",
   "text": "",
   "description": "three images on one sheet; across top red truck, road, brick building and white building; LRQ Cream of Wheat Company entrance; LLQ parking lot and white silos in front of brick building",
+  "provenance": "",
   "creditline": "Gift of funds from the Beverly J. and John A. Rollwagen Fund of The Minneapolis Foundation",
-  "accession_number": "97.149                                    ",
-  "artist": "Stuart D. Klipper"
+  "accession_number": "97.149"
 }

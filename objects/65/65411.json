@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "c. 1840-1842",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "28 1/8 x 9 9/16 in. (71.5 x 24.3 cm) (image)\r\n36 x 17 15/16 in. (91.5 x 45.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "(Kiso Gorge in Snow)",
   "id": "http://api.artsmia.org/objects/65411",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Hiroshige hitsu",
   "text": "",
   "description": "nishiki-e, kakemono-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.223                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.223"
 }

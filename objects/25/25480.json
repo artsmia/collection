@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Julia Marshall",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Julia Marshall",
   "life_date": "American (Duluth, Minnesota), 1896 - 1994",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Julia Marshall",
   "dated": "1938",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the children of Harvie A. Garver, in memory of their father",
-  "accession_number": "87.93.6",
-  "artist": "Julia Marshall"
+  "accession_number": "87.93.6"
 }

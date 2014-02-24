@@ -5,6 +5,7 @@
   "life_date": "French, born 1740",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre Thomas Le Clerc",
   "dated": "1778",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/19275",
   "room": "Not on View",
   "style": "18th century",
-  "marks": null,
+  "marks": "Inscription\r\n[La Distraite, cette femme après s\\'et ",
   "text": "",
   "description": "No. 68; Vol. I, cahier no. 12",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
-  "accession_number": "66.25.90                                  ",
-  "artist": "Pierre Thomas Le Clerc"
+  "accession_number": "66.25.90"
 }

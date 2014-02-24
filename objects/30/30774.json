@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sarah Moon. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sarah Moon. All rights reserved.",
   "life_date": "French, born 1941",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Sarah Moon",
   "dated": "1993",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Blurry close-up of woman\\'s face with closed eyes, large lips; matted",
+  "provenance": "",
   "creditline": "Gift of funds from the Lieberman Foundation",
-  "accession_number": "98.229",
-  "artist": "Sarah Moon"
+  "accession_number": "98.229"
 }

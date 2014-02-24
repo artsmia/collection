@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C NY %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C NY %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1888 - 1944",
   "nationality": null,
   "role": "Artist",
+  "artist": "Willi Jaeckel",
   "dated": "20th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature [W.Jaeckel], lower right corner, recto",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
-  "accession_number": "25.42",
-  "artist": "Willi Jaeckel"
+  "accession_number": "25.42"
 }

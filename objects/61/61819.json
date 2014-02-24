@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881-1953",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Charles Schneider",
   "dated": "c. 1930",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non top of base, incised: [Le Verre  ",
   "text": "",
   "description": "acid-etched geometric design with orange overlay at bottom third and a deep purple-black base",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.325                                ",
-  "artist": "Charles Schneider"
+  "accession_number": "98.276.325"
 }

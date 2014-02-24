@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Ray K. Metzker",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ray K. Metzker",
   "life_date": "American, born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ray K. Metzker",
   "dated": "1965",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Photography Deaccessions and The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "90.112.4",
-  "artist": "Ray K. Metzker"
+  "accession_number": "90.112.4"
 }

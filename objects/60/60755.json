@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Akan",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Wood",
   "title": "Comb",
   "id": "http://api.artsmia.org/objects/60755",
-  "room": "Not on View",
+  "room": "G254",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "comb topped with triangular head with scarifications below eyes; stylized shoulders and breasts",
+  "provenance": "",
   "creditline": "Gift of George W. Rickey in memory of Edith L. Rickey",
-  "accession_number": "2001.272.5                                ",
-  "artist": ""
+  "accession_number": "2001.272.5"
 }

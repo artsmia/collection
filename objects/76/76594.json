@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881-1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Fernand Léger",
   "dated": "1949",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\nat bottom edge, in penc LLC, in black: [F.L.]",
   "text": "",
   "description": "four faces with wavy hair and five hands; three orange forms",
+  "provenance": "",
   "creditline": "Gift of Mary and Robyn Campbell",
-  "accession_number": "2003.156.14",
-  "artist": "Fernand Léger"
+  "accession_number": "2003.156.14"
 }

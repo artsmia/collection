@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Jil Evans",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jil Evans",
   "life_date": "American, born 1958",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jil Evans",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title verso: signed, dated, titled in blue marker",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dan and Nancy Schneider",
-  "accession_number": "94.69",
-  "artist": "Jil Evans"
+  "accession_number": "94.69"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "American, 1871 - 1956",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lyonel Feininger",
   "dated": "1944",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date; Tag, Mark\r\n\r\nbottom right  Bottom left corner, recto: [Feninger] and [Harbor]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John and Myrtle Coe",
-  "accession_number": "98.269.5",
-  "artist": "Lyonel Feininger"
+  "accession_number": "98.269.5"
 }

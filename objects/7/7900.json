@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lucian Freud Archive %2F Bridgeman Art Library",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lucian Freud Archive %2F Bridgeman Art Library",
   "life_date": "British, born Germany, 1922-2011",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Lucian Freud",
   "dated": "1996",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription [L.F.], in graphite, LR",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Robert C. Winton Fund",
-  "accession_number": "P.97.7",
-  "artist": "Lucian Freud"
+  "accession_number": "P.97.7"
 }

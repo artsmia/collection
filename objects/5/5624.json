@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1951",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Stamps; Inscriptions ",
   "text": "",
   "description": "three men walking on a beam with sacks on their heads",
+  "provenance": "",
   "creditline": "Gift of Stephen Daiter Gallery",
-  "accession_number": "98.193                                    ",
-  "artist": "Werner Bischof"
+  "accession_number": "98.193"
 }

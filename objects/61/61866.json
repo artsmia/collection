@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1901-1979",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beauford Delaney",
   "dated": "1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nLRC below image in blue ink: [Beauf ",
   "text": "",
   "description": "Yellow ground; irregular turquoise and pink forms throughout; greenish tint in ground areas",
+  "provenance": "",
   "creditline": "Gift of the Harriet Hanley Estate",
-  "accession_number": "2002.114.2                                ",
-  "artist": "Beauford Delaney"
+  "accession_number": "2002.114.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, 1916 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Louis Faurer",
   "dated": "1950",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Edition ",
   "text": "",
   "description": "middle-aged, heavy set man wearing a tuxedo and smoking a cigar, seen from the chest up; dollar bills attached together in hanging ribbons in background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "99.103.1                                  ",
-  "artist": "Louis Faurer"
+  "accession_number": "99.103.1"
 }

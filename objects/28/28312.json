@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Frank J. Heller",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Frank J. Heller",
   "life_date": "American, 1917 - 2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank J. Heller",
   "dated": "c. 1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Thomas and Agnes Limborg",
-  "accession_number": "94.12.12",
-  "artist": "Frank J. Heller"
+  "accession_number": "94.12.12"
 }

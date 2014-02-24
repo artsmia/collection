@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Cuna",
   "country": "Panama",
   "continent": "South America",
   "dimension": "15 1/4 x 17 1/2in. (38.7 x 44.4cm)",
-  "medium": null,
+  "medium": "Cotton, appliqué embroidery",
   "title": "Mola",
   "id": "http://api.artsmia.org/objects/28650",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "red background with images of birds (blue, green, yellow and orange); center motif two large half birds joined at center",
+  "provenance": "",
   "creditline": "Gift of the Irene Wood Estate",
-  "accession_number": "95.29                                     ",
-  "artist": ""
+  "accession_number": "95.29"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1884 - 1950",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Beckmann",
   "dated": "c. 1934",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Woman standing in front of a building with two large trees on either side of her",
+  "provenance": "",
   "creditline": "Bequest of Margaret McMillan Webber",
-  "accession_number": "51.36",
-  "artist": "Max Beckmann"
+  "accession_number": "51.36"
 }

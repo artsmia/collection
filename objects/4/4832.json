@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photograph by Irving Penn%2C %26copy%3B by Irving Penn",
+  "image_copyright": "Photograph by Irving Penn%2C %26Acirc%3B%26copy%3B by Irving Penn",
   "life_date": "American, 1917 - 2009",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Irving Penn",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Annotation verso, with stamps and pencil",
   "text": "",
   "description": "four-section platinum palladium print",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.45a-d",
-  "artist": "Irving Penn"
+  "accession_number": "95.45a-d"
 }

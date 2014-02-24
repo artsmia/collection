@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Reinold Reiss %2F The Reiss Partnership",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Reinold Reiss %2F The Reiss Partnership",
   "life_date": "American (b. Germany), 1886 - 1953",
   "nationality": "American (b. Germany)",
   "role": "Artist",
+  "artist": "Winold Reiss",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.312",
-  "artist": "Winold Reiss"
+  "accession_number": "98.276.312"
 }

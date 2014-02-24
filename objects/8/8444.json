@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2003 Artists Rights Society %28ARS%29%2C New York%2FVG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B2003 Artists Rights Society %28ARS%29%2C New York%2FVG Bild-Kunst%2C Bonn",
   "life_date": "Germany, 1912 - 1992",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Johnny Friedlander",
   "dated": "c. 1972",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition in chalk (?), LR: [Friedlander]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Terrence D. Curley",
-  "accession_number": "P.99.30.4",
-  "artist": "Johnny Friedlander"
+  "accession_number": "P.99.30.4"
 }

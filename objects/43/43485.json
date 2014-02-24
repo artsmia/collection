@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Christopher Brown",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christopher Brown",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Brown",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Council",
-  "accession_number": "P.94.12",
-  "artist": "Christopher Brown"
+  "accession_number": "P.94.12"
 }

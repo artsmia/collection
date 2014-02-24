@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Archivo Pietro Consagra",
+  "image_copyright": "%26Acirc%3B%26copy%3B Archivo Pietro Consagra",
   "life_date": "Italian, 1920 - 2005",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Pietro Consagra",
   "dated": "1958",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "on wood base",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "59.26",
-  "artist": "Pietro Consagra"
+  "accession_number": "59.26"
 }

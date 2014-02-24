@@ -5,6 +5,7 @@
   "life_date": "German, 1858 - 1925",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Lovis Corinth",
   "dated": "1920",
   "culture": null,
   "country": "Germany",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/50027",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Inscription\r\nII Zustanddrücke Nr. 2 ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Mr. and Mrs. Hall James Peterson Fund",
-  "accession_number": "P.69.133                                  ",
-  "artist": "Lovis Corinth"
+  "accession_number": "P.69.133"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1919",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Graphite",
   "title": "Antoinette with Long Hair",
   "id": "http://api.artsmia.org/objects/5140",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": "Signature Signed in pencil, UR: [Henri Matisse]; initialed i",
   "text": "After his move to Nice in the south of France in 1917, Matisse's drawing style became more relaxed and fluid, a sign of his increasing confidence as a draftsman. In 1919, Matisse recruited the stylish 19-year-old model, Antoinette Arnaud. Her strong, classic features, long hair, and casual directness inspired a wealth of drawings and paintings during this incredibly productive period in Matisse's career.\r\n In this drawing, Matisse uses a fine pencil to achieve a clarity of line and a luminosity that seems to sparkle from the smooth paper. His goal was to suggest the character of Antoinette through a few rapid strokes, fixing expression through the most simple of marks and details. This insightful portrait was one of 50 drawings published by Matisse in 1920 to commemorate his 50th birthday.",
   "description": "",
+  "provenance": "",
   "creditline": "The Putnam Dana McMillan Fund, The Richard Lewis Hillstrom Fund and Gift of Ruth and Bruce Dayton and Gift of funds from the Print and Drawing Council",
-  "accession_number": "96.88",
-  "artist": "Henri Matisse"
+  "accession_number": "96.88"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "life_date": "Mexican, 1883 - 1949",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "José Clemente Orozco",
   "dated": "1929",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nsee Signed Signed on the stone, LR: [J.C.O.]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Estate of George W. Morgan, 1958",
-  "accession_number": "P.12,602                                  ",
-  "artist": "José Clemente Orozco"
+  "accession_number": "P.12,602"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Mrs. Scott",
   "dated": "June 15, 1797",
   "culture": null,
   "country": "England",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Engraving",
   "title": "Portrait of Charles Walter Scott of Harden and Dog Dash",
   "id": "http://api.artsmia.org/objects/76550",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.15,819                                  ",
-  "artist": "Mrs. Scott"
+  "accession_number": "P.15,819"
 }

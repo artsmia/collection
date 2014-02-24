@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gertrude Duby Blom %2F Asociaci%26oacute%3Bn Cultural Na Bolom A.C.%2C San Crist%26oacute%3Bbal De Las Casas%2C Chiapas%2C  Mexico",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gertrude Duby Blom %2F Asociaci%26Atilde%3B%26sup3%3Bn Cultural Na Bolom A.C.%2C San Crist%26Atilde%3B%26sup3%3Bbal De Las Casas%2C Chiapas%2C  Mexico",
   "life_date": "Mexican, (born Switzerland) 1901 - 1994",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Gertrude Duby Blom",
   "dated": "1946",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "86.110.4",
-  "artist": "Gertrude Duby Blom"
+  "accession_number": "86.110.4"
 }

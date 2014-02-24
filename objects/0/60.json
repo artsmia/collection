@@ -5,6 +5,7 @@
   "life_date": "American, 1872 - 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edwin M. Dawes",
   "dated": "1913",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Channel to the Mills",
   "id": "http://api.artsmia.org/objects/60",
-  "room": "G302",
+  "room": "G303",
   "style": "20th century",
   "marks": "Signature LL in brown: [Edwin M. Dawes]",
   "text": "",
   "description": "Landscape",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "15.296",
-  "artist": "Edwin M. Dawes"
+  "accession_number": "15.296"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Jean Charlot %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Jean Charlot %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French and American (born France), 1898-1979",
   "nationality": "French and American",
   "role": "Artist",
+  "artist": "Jean Charlot",
   "dated": "1934",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition On stone and on sheet",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Estate of George W. Morgan, 1958",
-  "accession_number": "P.12,601",
-  "artist": "Jean Charlot"
+  "accession_number": "P.12,601"
 }

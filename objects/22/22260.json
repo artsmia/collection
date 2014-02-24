@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Jack Welpott Legacy Trust",
   "life_date": "American,1923-2007",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jack Welpott",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "a portfolio of twenty photographs in both color and gelatin silver prints by twenty artists",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of The Minneapolis Institute of Arts",
-  "accession_number": "80.24.18                                  ",
-  "artist": "Jack Welpott"
+  "accession_number": "80.24.18"
 }

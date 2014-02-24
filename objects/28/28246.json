@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Tokutaro Tanaka",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Tokutaro Tanaka",
   "life_date": "Japanese, born 1909",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Tokutaro Tanaka",
   "dated": "20th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "[children and bird]",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.69",
-  "artist": "Tokutaro Tanaka"
+  "accession_number": "93.70.69"
 }

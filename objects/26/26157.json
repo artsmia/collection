@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Sergio Larrain",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Sergio Larrain",
   "life_date": "1931 - 2012",
   "nationality": null,
   "role": "Artist",
+  "artist": "Sergio Larrain",
   "dated": "1963",
   "culture": null,
   "country": "Chile",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "couple kissing",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.27",
-  "artist": "Sergio Larrain"
+  "accession_number": "89.125.27"
 }

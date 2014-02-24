@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1994",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Rwanda",
   "id": "http://api.artsmia.org/objects/10577",
-  "room": "G280",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Artist\\'s Stamp; Number ",
   "text": "During times of natural disasters, plague, and war reliable sources of water can become contaminated by runoff containing bacteria or human and animal feces resulting in deadly typhoid and cholera which spread quickly. Here, a wounded woman collects raindrops while trying to survive the genocide in Rwanda in 1994.",
   "description": "woman with bandaged right hand holding a pitcher in her right hand; she is standing under an awning",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.46.10",
-  "artist": "Gilles Peress"
+  "accession_number": "95.46.10"
 }

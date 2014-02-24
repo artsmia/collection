@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Antony Jakob Goedkint",
   "dated": "1678-1703",
   "culture": null,
   "country": "The Netherlands",
@@ -13,12 +14,12 @@
   "medium": "Hand-colored engraving",
   "title": "Kaida-taddi, from Hortus Indicus Malabaricus (Vol. 2)",
   "id": "http://api.artsmia.org/objects/73264",
-  "room": "Not on View",
+  "room": "G103",
   "style": "17th-18th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.17,681",
-  "artist": "Antony Jakob Goedkint"
+  "accession_number": "P.17,681"
 }

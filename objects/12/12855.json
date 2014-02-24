@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Richard Estes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Estes",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Estes",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "In graphite, LL: AP 7/10\r\n In graphite, LR:  Richard Estes",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marlborough Graphics, New York",
-  "accession_number": "2000.187.1                                ",
-  "artist": "Richard Estes"
+  "accession_number": "2000.187.1"
 }

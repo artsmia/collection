@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1947",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Henri Matisse's intuitive approach to art is brilliantly realized in Jazz, his best known and most compelling book project. Inspired by what Matisse described as \"crystallizations of memories of the circus, folk tales, and voyages,\" Jazz is a masterwork of 20th-century graphic art. Matisse regarded the vivid hand-painted designs in Jazz as chromatic and rhythmic improvisations, the visual equivalent of jazz music distilled into pure form. He designed the images by cutting paper that had been painted with gouache, a process he called \"drawing with scissors.\" His cut-paper designs were then converted into metal stencils, which provided the guides for the hand-painting process.\r\n\r\nInterspersed among Matisse's designs are personal meditations on the role of the artist and the inspiration of music that he wrote out by hand to create a \"sonorous ground\" to temper the intensity of his images. \"I'd like to introduce my color prints under the most favorable of conditions,\" he said. \"For this reason I must separate them by intervals of a different character. I decided that handwriting was best suited for this purpose. The exceptional size of the writing seems necessary to me in order to be in a decorative relationship with the character of the color prints. These pages, therefore, will serve only to accompany my colors, just as asters help in the composition of a bouquet of more important flowers. Their role is purely visual.\"\r\n",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.82.1",
-  "artist": "Henri Matisse"
+  "accession_number": "B.82.1"
 }

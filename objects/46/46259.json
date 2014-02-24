@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Austrian, 1867 - 1916",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Maximilian Kurzweil",
   "dated": "1903",
   "culture": null,
   "country": "Austria",
@@ -13,12 +14,12 @@
   "medium": "Woodcut",
   "title": "Der Polster",
   "id": "http://api.artsmia.org/objects/46259",
-  "room": "Not on View",
+  "room": "G344",
   "style": "20th century",
   "marks": " ",
-  "text": "The melancholy of this woodcut expresses the true condition of its creator. Maximilian Kurzweil was one of the founders of the progressive Vienna Succession and editor of Ver Sacrum, its highly influential journal of art and design. As professor of the Women's Art School, he met attractive young students, one of whom, Helene Heger became his lover and joined him in a double suicide in 1916.",
+  "text": "The melancholy of this woodcut expresses the true condition of its creator. Maximilian Kurzweil was one of the founders of the progressive Vienna Succession and editor of Ver Sacrum, its highly influential journal of art and design. As professor of the Women’s Art School, he met attractive young students, one of whom, Helene Heger became his lover and joined him in a double suicide in 1916.",
   "description": "",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.5,421",
-  "artist": "Maximilian Kurzweil"
+  "accession_number": "P.5,421"
 }

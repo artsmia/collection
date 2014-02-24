@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Chuck Close%2C courtesy PaceWildenstein%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Chuck Close%2C courtesy PaceWildenstein%2C New York",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Chuck Close",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition; Chop Mark\r\n\r\nInsc Signed, dated in pencil, LR: [C. Close 1975]",
   "text": "",
   "description": "Four two-color lithographs printed from eight stones on a single sheet of paper",
+  "provenance": "",
   "creditline": "Gift of John and Marcia Levine",
-  "accession_number": "P.82.45                                   ",
-  "artist": "Chuck Close"
+  "accession_number": "P.82.45"
 }

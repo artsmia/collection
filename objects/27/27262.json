@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJerome Liebling Photography",
+  "image_copyright": "%26Acirc%3B%26copy%3BJerome Liebling Photography",
   "life_date": "American, 1924-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerome Liebling",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Paul Skjervold, DFL, 5th District Caucus, Minneapolis",
   "id": "http://api.artsmia.org/objects/27262",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.1                                  ",
-  "artist": "Jerome Liebling"
+  "accession_number": "91.123.1"
 }

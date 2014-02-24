@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
   "life_date": "German, 1881 - 1955",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Pechstein",
   "dated": "1919",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Inscription LLC, in pencil: [Pechstein Man + Wife] ",
   "text": "",
   "description": "seated figure in LRC; torso of woman at L; third face between first two faces; abstracted image",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
-  "accession_number": "2003.115",
-  "artist": "Max Pechstein"
+  "accession_number": "2003.115"
 }

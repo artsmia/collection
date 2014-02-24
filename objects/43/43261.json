@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1943-1944",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Linoleum cut",
   "title": "The Embrace, No. 4",
   "id": "http://api.artsmia.org/objects/43261",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Could an embrace be represented in a more concise, abstract, yet tender way' \r\n\r\nMatisse made the acquaintance of the writer Henri de Motherlant in Nice. The idea of working together resulted in the artist's illustrations for Pasiphaé, Chant de Minos, published in 1944. Matisse, who was now forced to rest frequently following an operation, found himself drawing more than ever, and the book illustration project suited him. The new work engrossed him for over ten months, as he stuck to his self-imposed directions: “A simple white line on an absolutely black background. A simple line, without shading.” \r\n \r\nMatisse fussed greatly over his prints and rejected many tests and studies. What mattered was the fragility and complexity of the line, together with the constant awareness of the format and the need to integrate the text harmoniously. He asked himself, in fact, “How can I balance the black illustrating page against the comparatively white page of type' By composing with the arabesque of my drawings, but also by bringing the engraved page and the facing page together so that they form a unit.” \r\n \r\n ",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce B. Dayton",
-  "accession_number": "P.92.10.9",
-  "artist": "Henri Matisse"
+  "accession_number": "P.92.10.9"
 }

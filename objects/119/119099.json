@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Paula McCartney",
   "dated": "2011",
   "culture": null,
   "country": "United States",
   "continent": "North America",
-  "dimension": null,
+  "dimension": "11 1/16 × 9 × 9/16 in. (28.1 × 22.86 × 1.43 cm) (book, closed)",
   "medium": "Archival pigment ink prints",
   "title": "As If Everything You Imagined Were True",
   "id": "http://api.artsmia.org/objects/119099",
@@ -18,7 +19,7 @@
   "marks": "Signature on colophon page (last page), in black ink: [Paula",
   "text": "",
   "description": "blue cover with title in silver embossed printing; reproductions of color photographs of clouds, black and white photographs of birds in jungle landscapes and birds flying",
-  "creditline": null,
-  "accession_number": "L2014.16.3",
-  "artist": "Paula McCartney"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "L2014.16.3"
 }

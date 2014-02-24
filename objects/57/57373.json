@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BSid Kaplan",
+  "image_copyright": "%26Acirc%3B%26copy%3BSid Kaplan",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sid Kaplan",
   "dated": "1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\\"Lexington Local-1953\\\", impressed, LLC of image \\\"Kaplan 89\\\", impressed, LRC of image",
   "text": "",
   "description": "little boy at L with hands on top of his head, crying; woman seated behind boy; man wearing a hat, reading newspaper at R",
+  "provenance": "",
   "creditline": "Gift of Timothy G. Piotrowski",
-  "accession_number": "2001.183                                  ",
-  "artist": "Sid Kaplan"
+  "accession_number": "2001.183"
 }

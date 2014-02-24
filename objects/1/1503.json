@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Spanish, 1893 - 1983",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Joan Miró",
   "dated": "1920",
   "culture": null,
   "country": "Spain",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/1503",
   "room": "G367",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature and Date LL in black: [Miró/1920]",
   "text": "Joan Miró's first encounter with the Cubist works of Picasso and Braque in 1919 inspired a group of still lifes - including <I>Spanish Playing Cards</I> - that he executed in 1920. Here, the stylized realism of Miró's previous work combined with the geometric faceting of synthetic Cubism. The densely painted objects retain their identity, but the surrounding space is fractured into patterned lines and angles. Miró continued working in this manner until 1924, when he joined the Surrealist movement.",
   "description": "Still life. Cubist.",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
-  "accession_number": "62.73.2",
-  "artist": "Joan Miró"
+  "accession_number": "62.73.2"
 }

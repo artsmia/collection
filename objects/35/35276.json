@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gerome Kamrowski",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gerome Kamrowski",
   "life_date": "American, 1914-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gerome Kamrowski",
   "dated": "1942",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Gerome Kamrowski",
-  "accession_number": "2005.42",
-  "artist": "Gerome Kamrowski"
+  "accession_number": "2005.42"
 }

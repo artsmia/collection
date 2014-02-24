@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Cotton",
   "title": "Coat",
   "id": "http://api.artsmia.org/objects/28889",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "white field with red and black diamond and cross patterns; thick banding of red and black over shoulder and along both sides of opening; embroidered square on back with long strands of string with tassels on end",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund and Gift of funds from Thirza Cleveland and Joan Wurtele",
-  "accession_number": "95.43.77                                  ",
-  "artist": ""
+  "accession_number": "95.43.77"
 }

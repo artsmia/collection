@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": "",
+  "dimension": null,
   "medium": "Silk, embroidery, metallic thread",
   "title": "Pair of Civil Rank Badges",
   "id": "http://api.artsmia.org/objects/27715",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "91.5.1a,b                                 ",
-  "artist": ""
+  "accession_number": "91.5.1a,b"
 }

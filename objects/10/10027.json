@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignee",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%27s estate%2C or assignee",
   "life_date": "American (born Scotland), 1869-1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grant Elmslie",
   "dated": "1907-1908",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "rectangular window with five small rectangles in a horizontal row at top, overall linear decoration",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.1                                  ",
-  "artist": "George Grant Elmslie"
+  "accession_number": "98.276.1"
 }

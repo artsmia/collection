@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Cornell Verlaan",
+  "image_copyright": "%26Acirc%3B%26copy%3B Cornell Verlaan",
   "life_date": "Dutch",
   "nationality": null,
   "role": "Artist",
+  "artist": "Cornell Verlaan",
   "dated": "1972",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": "Signature [5-72. -1947- / Cornell Verlaan], lower left",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "72.90",
-  "artist": "Cornell Verlaan"
+  "accession_number": "72.90"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BFrancesco Clemente",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrancesco Clemente",
   "life_date": "Italian, born 1952",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Francesco Clemente",
   "dated": "1982",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/36697",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "Signed and inscribed. LR, in pencil: [Francesco Clemente]\r\nLL, in pencil",
+  "marks": "Signed, Inscribed\r\n\r\nsee Signed\r\n\r\nInscribed in pe LR, in pencil: [Francesco Clemente]\r\nLL, in pencil",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Kate Butler Peterson",
-  "accession_number": "2007.122.1                                ",
-  "artist": "Francesco Clemente"
+  "accession_number": "2007.122.1"
 }

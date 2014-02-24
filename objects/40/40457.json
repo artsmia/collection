@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Marcel Breuer %2F Gebr%26uuml%3Bder Thonet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Marcel Breuer %2F Gebr%26Atilde%3B%26frac14%3Bder Thonet",
   "life_date": "American (born Hungary), 1902-1981",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Marcel Lajos Breuer",
   "dated": "1926-1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Chromium-plated steel with ebonized wood tops",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.146.1",
-  "artist": "Marcel Lajos Breuer"
+  "accession_number": "98.276.146.1"
 }

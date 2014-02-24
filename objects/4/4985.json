@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1856",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Wood, pigment",
   "title": "Odd Fellows ceremonial quill pen",
   "id": "http://api.artsmia.org/objects/4985",
-  "room": "G304",
+  "room": "G331",
   "style": "19th century",
   "marks": " ",
   "text": "",
   "description": "replica of a feather quill pen, gold",
+  "provenance": "",
   "creditline": "Gift of Dolly J. Fiterman in honor of the Donor's Family, the Everett S. Janssen Family",
-  "accession_number": "96.130.3.2                                ",
-  "artist": ""
+  "accession_number": "96.130.3.2"
 }

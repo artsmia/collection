@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Wing Young Huie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wing Young Huie",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wing Young Huie",
   "dated": "1994",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Basketball, Frogtown",
   "id": "http://api.artsmia.org/objects/5659",
-  "room": "G365",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Title; Date; Signature; Inscription ",
   "text": "",
   "description": "black and white photo of four black men under basketball hoop",
+  "provenance": "",
   "creditline": "Gift of funds from David L. Parker and Mary M. D. Parker",
-  "accession_number": "98.22.7                                   ",
-  "artist": "Wing Young Huie"
+  "accession_number": "98.22.7"
 }

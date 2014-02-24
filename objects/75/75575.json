@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "British, 1804 - 1881",
   "nationality": "British",
   "role": "Artist",
+  "artist": "John Gould",
   "dated": "1891-1898",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "\r\n\r\n\r\n\r\n ",
   "text": "",
   "description": "birds (red bird of paradise)",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.19,908                                  ",
-  "artist": "John Gould"
+  "accession_number": "P.19,908"
 }

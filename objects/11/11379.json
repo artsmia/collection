@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Calogero Cascio",
+  "image_copyright": "%26Acirc%3B%26copy%3B Calogero Cascio",
   "life_date": "Italian",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Calogero Cascio",
   "dated": "20th century",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Title; stamp title vero",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.28",
-  "artist": "Calogero Cascio"
+  "accession_number": "91.123.28"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
   "life_date": "Belgian, 1860 - 1949",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "James Ensor",
   "dated": "1888",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. David Tunick in honor of Samuel Sachs II",
-  "accession_number": "P.84.67",
-  "artist": "James Ensor"
+  "accession_number": "P.84.67"
 }

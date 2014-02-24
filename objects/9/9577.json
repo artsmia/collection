@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, (born Hungary) 1908 - 1997",
   "nationality": "French (born Hungary)",
   "role": "Artist",
+  "artist": "Victor Vasarely",
   "dated": "1967",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription [Vasarely], lower right corner",
   "text": "",
   "description": "composition of geometric shapes, a few colored in",
+  "provenance": "",
   "creditline": "Gift of The Maslon Foundation",
-  "accession_number": "82.18.1",
-  "artist": "Victor Vasarely"
+  "accession_number": "82.18.1"
 }

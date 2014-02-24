@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1946",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Lithograph",
   "title": "Catherinette",
   "id": "http://api.artsmia.org/objects/55603",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": " ",
-  "text": "Matisse was an obsessive artist. He would return to a theme dozens if not hundreds of times. At the close of World War II, he produced many sketches of faces, especially those of women. He would often have the sketches transferred to lithographic stones as a means of making his spare, elegant studies available to wide audiences.",
+  "text": "Catherinette brilliantly illustrates the artist’s concern with reducing the picture’s subject matter to the most concise shorthand. By tracing the essential features of his models, suppressing or minimizing details, and condensing and abstracting form, Matisse tried to find the clearest way to create an image that would impress itself on the viewer in an indelible and timeless manner.",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury, 1958",
-  "accession_number": "P.12,755",
-  "artist": "Henri Matisse"
+  "accession_number": "P.12,755"
 }

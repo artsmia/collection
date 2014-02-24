@@ -5,6 +5,7 @@
   "life_date": "British, born 1932",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Howard Hodgkin",
   "dated": "1980",
   "culture": null,
   "country": null,
@@ -13,12 +14,12 @@
   "medium": "Lithograph in beige and black with hand-coloring and watercolor; diptych",
   "title": "Black Moonlight",
   "id": "http://api.artsmia.org/objects/65021",
-  "room": "Not on View",
+  "room": "G100",
   "style": "20th century",
   "marks": "Signature, Date, Edition\r\n\r\nLRC, in pencil: [15/50 LLC, in pencil: [HH/ 1980]",
   "text": "",
   "description": "two sheets of different sizes mounted together; greys and black on white; floating head and shoulders of man at left, in front of grey ground with white arcs, circles and zigzags; grey arrow at center, pointing down; black rectangle at right",
+  "provenance": "",
   "creditline": "Gift of Mary and Bob Mersky",
-  "accession_number": "2002.259.5                                ",
-  "artist": "Howard Hodgkin"
+  "accession_number": "2002.259.5"
 }

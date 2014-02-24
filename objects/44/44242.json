@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Suzanne Caporael and Tandem Press",
+  "image_copyright": "%26Acirc%3B%26copy%3B Suzanne Caporael and Tandem Press",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Suzanne Caporael",
   "dated": "1997 (signed 1998)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "On lower left:  AP 7/8 On lower right:  CAPORAEL 1998",
   "text": "",
   "description": "Artist\\'s proof",
+  "provenance": "",
   "creditline": "Gift of Suzanne Caporael and Tandem Press",
-  "accession_number": "P.99.5.3",
-  "artist": "Suzanne Caporael"
+  "accession_number": "P.99.5.3"
 }

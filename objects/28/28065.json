@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michael O%27Cleary",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael O%27Cleary",
   "life_date": "English, born 1938",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Michael O'Cleary",
   "dated": "c. 1967",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "92.92.18",
-  "artist": "Michael O'Cleary"
+  "accession_number": "92.92.18"
 }

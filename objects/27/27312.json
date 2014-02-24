@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Sabine Weiss. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Sabine Weiss. All rights reserved.",
   "life_date": "French, born 1924",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Sabine Weiss",
   "dated": "1960",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.32",
-  "artist": "Sabine Weiss"
+  "accession_number": "91.123.32"
 }

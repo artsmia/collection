@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
   "life_date": "Italian, 1890 - 1964",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Giorgio Morandi",
   "dated": "1934",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Morandi's still life is composed entirely of black lines on white paper; yet, he assiduously avoids using any single line to define the contour of any of the depicted objects. Instead he uses the lines to create areas of tone that capture the play of dim light over the ceramic, glass, and metal surfaces of the containers on the table. In this quietly elusive image, the objects seem solid in one moment and spectral in the next.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce B. Dayton",
-  "accession_number": "P.92.10.11",
-  "artist": "Giorgio Morandi"
+  "accession_number": "P.92.10.11"
 }

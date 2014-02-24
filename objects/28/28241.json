@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Roger Mayne",
+  "image_copyright": "%26Acirc%3B%26copy%3B Roger Mayne",
   "life_date": "British, born 1929",
   "nationality": null,
   "role": "Artist",
+  "artist": "Roger Mayne",
   "dated": "1929-1999",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.64",
-  "artist": "Roger Mayne"
+  "accession_number": "93.70.64"
 }

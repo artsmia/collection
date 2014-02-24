@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jonas Dovydenas",
   "life_date": "American (born Lithuania), 1939",
   "nationality": null,
   "role": "Artist",
+  "artist": "Jonas Dovydenas",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts Purchase Grant and gift of funds from Jerome I. and Margaret L. Peterson",
-  "accession_number": "76.27.1                                   ",
-  "artist": "Jonas Dovydenas"
+  "accession_number": "76.27.1"
 }

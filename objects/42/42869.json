@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1889-1981",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Gerhard Marcks",
   "dated": "1951",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition\r\n\r\nSee Signed\r\n\r\nNumbered in Signed in pencil, LR: [G. Marcks]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Charles B. Meech",
-  "accession_number": "P.91.1.7",
-  "artist": "Gerhard Marcks"
+  "accession_number": "P.91.1.7"
 }

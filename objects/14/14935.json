@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.13-½ x W.6-½ in.",
   "medium": "silk",
   "title": "Four Embroidered Pieces",
   "id": "http://api.artsmia.org/objects/14935",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Four embroidered pieces intended for pouches on a net ground. Cloud forms and a dragon are placed on a black ground and outlined with a gold border pattern. Silk",
+  "provenance": "",
   "creditline": "Bequest of Miss Lily Place",
-  "accession_number": "30.23.100.1-4",
-  "artist": ""
+  "accession_number": "30.23.100.1-4"
 }

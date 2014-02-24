@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "11th century BCE",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "Tsue (Chueh), inscribed. This \\'Wine cup (in bird shape)\\' is an unusually fine example of its type. The ample well-proportioned bowl of this vessel provides and admirable balance for the slender, spreading legs. In the principal decor belt is a strongly dissolved t\\'ao-t\\'ieh, its horns, shield and c-shaped mouth-line so filled with spirals that they almost coalesce with the background spirals.The neck bears a band of rising blades, the one under the spout elongated. An animal\\'s head of the bovine type decorates the top of the handle, and whorl circles appear on the tops of the uprights. Patina blue -green. The inscription probably depicts a scene of human sacrifice.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.84                                  ",
-  "artist": ""
+  "accession_number": "50.46.84"
 }

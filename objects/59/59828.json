@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil, bott in pencil, LRC on back: [Toby Old 1998]",
   "text": "",
   "description": "older man with light hair, wearing a knit shirt and pants, leaning on a reception counter with 2 telephones; pictures of boxers on walls",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.9                                ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.9"
 }

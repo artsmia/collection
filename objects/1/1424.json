@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1920",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark; Date\r\nsee Signed UL: [27-5-20 Picasso]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Putnam Dana McMillan",
-  "accession_number": "61.36.3",
-  "artist": "Pablo Picasso"
+  "accession_number": "61.36.3"
 }

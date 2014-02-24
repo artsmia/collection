@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Dutch, 1636 - 1691",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Hendrik Adriaan van Rheede tot Drakenstein",
   "dated": "1678-1703",
   "culture": null,
   "country": "Netherlands",
@@ -13,12 +14,12 @@
   "medium": "Hand-colored engraving",
   "title": "Nialel, from Hortus Indicus Malebaricus (Vol. 4)",
   "id": "http://api.artsmia.org/objects/66645",
-  "room": "Not on View",
+  "room": "G103",
   "style": "17th-18th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Charles C. Bovey, 1941",
-  "accession_number": "P.12,210",
-  "artist": "Hendrik Adriaan van Rheede tot Drakenstein"
+  "accession_number": "P.12,210"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "life_date": "Italian, 1912 - 1976",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Afro Basaldella",
   "dated": "1955",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC in blue: [Afro. 55]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Samuel H. Maslon",
-  "accession_number": "57.49                                     ",
-  "artist": "Afro Basaldella"
+  "accession_number": "57.49"
 }

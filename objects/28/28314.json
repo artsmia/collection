@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate P.H. Oelman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate P.H. Oelman",
   "life_date": "American, 1880-1957",
   "nationality": null,
   "role": "Artist",
+  "artist": "P. H. Oelman",
   "dated": "c. 1950",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Thomas and Agnes Limborg",
-  "accession_number": "94.12.14",
-  "artist": "P. H. Oelman"
+  "accession_number": "94.12.14"
 }

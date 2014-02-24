@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, (born Germany) 1920-1984",
   "nationality": null,
   "role": "Artist",
+  "artist": "Jimmy Ernst",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "In LL:  105/125\r\n In LR:  Jimmy Ernst 70",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Terrence D. Curley",
-  "accession_number": "P.99.30.11",
-  "artist": "Jimmy Ernst"
+  "accession_number": "P.99.30.11"
 }

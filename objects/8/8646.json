@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "16th century",
   "culture": null,
   "country": "Japan",
@@ -17,8 +18,8 @@
   "style": "16th century",
   "marks": " ",
   "text": "",
-  "description": "Title changed per Robert Jacobsen, \\'Aizen Myo-o\\', January 16, 1985.",
+  "description": "",
+  "provenance": "",
   "creditline": "Gift of Dr. Robert Poor",
-  "accession_number": "80.90.1                                   ",
-  "artist": ""
+  "accession_number": "80.90.1"
 }

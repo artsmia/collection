@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Dave Heath%2C Courtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dave Heath%2C Courtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dave Heath",
   "dated": "1956",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Inscriptions; Labels ",
   "text": "",
   "description": "little boy at bottom center lying on a concrete step crying; little girl at left running out of picture plane with head raised and mouth open; mounted to stiff cardboard and matted under mylar",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "99.73                                     ",
-  "artist": "Dave Heath"
+  "accession_number": "99.73"
 }

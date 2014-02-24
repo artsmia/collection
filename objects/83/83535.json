@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Mary Ellen Mark",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Mary Ellen Mark",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mary Ellen Mark",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print (selenium toned)",
   "title": "Tiny in her Halloween Costume, Seattle, Washington",
   "id": "http://api.artsmia.org/objects/83535",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "upper body and head of young woman with long hair wearing a sleeveless black dress, black gloves and hat with veil",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2003.245.1",
-  "artist": "Mary Ellen Mark"
+  "accession_number": "2003.245.1"
 }

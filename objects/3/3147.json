@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3B 2012 Banco de M%26eacute%3Bxico Diego Rivera Frida Kahlo Museums Trust%2C Mexico%2C D.F. %2F Artists Rights Society %28ARS%29%2C New York",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Banco de M%26Atilde%3B%26copy%3Bxico Diego Rivera Frida Kahlo Museums Trust%2C Mexico%2C D.F. %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Mexican, 1886 - 1957",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Diego Rivera",
   "dated": "1946",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": "Inscription [Retrato de Dick Knight, Nora Knight y Dinah Knigh",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Dinah Ellingson",
-  "accession_number": "83.121                                    ",
-  "artist": "Diego Rivera"
+  "accession_number": "83.121"
 }

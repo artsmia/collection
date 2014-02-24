@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st-5th century",
   "culture": "Roman",
   "country": "Roman",
-  "continent": "",
+  "continent": null,
   "dimension": "2 1/2 x 1 1/2 x 1 1/2in. (6.4 x 3.8 x 3.8cm)",
   "medium": "Glass",
   "title": "Globular Bottle",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "clear globular bottle, glass",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. I. D. Fink",
-  "accession_number": "76.73.43                                  ",
-  "artist": ""
+  "accession_number": "76.73.43"
 }

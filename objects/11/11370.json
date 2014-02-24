@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, 1916 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Louis Faurer",
   "dated": "1947",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Edition ",
   "text": "",
   "description": "man wearing long blue overcoat, hat and goggles, with hands in his coat pockets and PL arm wrapped around a sign post; pedestrians in a busy street behind",
+  "provenance": "",
   "creditline": "Gift of Deborah Bell in memory of Marcella Kuhlmann Bell",
-  "accession_number": "99.150.1                                  ",
-  "artist": "Louis Faurer"
+  "accession_number": "99.150.1"
 }

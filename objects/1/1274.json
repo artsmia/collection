@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Romanian, 1876 - 1957",
   "nationality": "Romanian",
   "role": "Artist",
+  "artist": "Constantin Brancusi",
   "dated": "c. 1919",
   "culture": null,
   "country": "Romania",
@@ -18,7 +19,7 @@
   "marks": "Signature (at base): [C. Brancusi]",
   "text": "Constantin Brancusi began making abstract sculptures at about the same time Wassily Kandinsky, his contemporary was exploring abstraction in painting. Kandinsky eventually chose to obscure the natural objects that provided the starting point for his abstractions, whereas Brancusi took natural forms to an extreme of simplification but never completely excluded them from his work. <I>Golden Bird</I> belongs to a series of twenty-eight marbles and bronzes exploring the theme of birds and their flight, which Brancusi executed between 1910 and the early 1950s. His inspiration for these sculptures was a Romanian folktale about a dazzling golden bird called the <I>Maiastra</I>, whose magical song restored sight to the blind and youth to the aged. The shiny polished bronze of <I>Golden Bird</I> recalls the <I>Maiastra's</I> brilliant plumage, and the vertical thrust of the neck suggests open-throated song.",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "55.39",
-  "artist": "Constantin Brancusi"
+  "accession_number": "55.39"
 }

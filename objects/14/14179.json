@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Teacup, ceramic, flaring side, gold bands, with floral swags in orange, German XVIIIc  cat. card dims 2-3/8 x 3-1/4\\' Saucer, No Dims on card catalogue",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.8.41a,b                                ",
-  "artist": ""
+  "accession_number": "23.8.41a,b"
 }

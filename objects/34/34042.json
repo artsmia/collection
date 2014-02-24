@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1985 negative (printed 1991)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Label\r\n\r\non back of frame, in blac ",
   "text": "",
   "description": "many people standing on hillside with switchback path; several of the people are holding crosses",
+  "provenance": "",
   "creditline": "Gift of David and Mary Parker",
-  "accession_number": "2009.68.4",
-  "artist": "Gilles Peress"
+  "accession_number": "2009.68.4"
 }

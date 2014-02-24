@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1898",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/50137",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Inscription and Stamp\r\n\r\nLLC, in pencil LRC, in pencil: [A Lepère]",
   "text": "",
   "description": "people gathered around a lake; miniature sailboats on lake; building in background, LRQ; printed in rust red, lavender, khaki and black",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.612",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.612"
 }

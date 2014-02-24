@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Todd Webb%2C courtesy Evans Gallery",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Todd Webb%2C courtesy Evans Gallery",
   "life_date": "American, 1905 - 2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Todd Webb",
   "dated": "1948",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "print is eight panels joined together",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein in memory of Joseph A. Weinstein",
-  "accession_number": "84.125.4",
-  "artist": "Todd Webb"
+  "accession_number": "84.125.4"
 }

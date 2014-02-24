@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
+  "image_copyright": "%26Acirc%3B%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
   "life_date": "American, 1926-2010",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beth Van Hoesen",
   "dated": "1966",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " on sheet",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David Draper Dayton Fund",
-  "accession_number": "P.74.14                                   ",
-  "artist": "Beth Van Hoesen"
+  "accession_number": "P.74.14"
 }

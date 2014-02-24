@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Brumfield",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Brumfield",
   "dated": "c. 1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of The Minneapolis Institute of Arts",
-  "accession_number": "80.25.2                                   ",
-  "artist": "John Brumfield"
+  "accession_number": "80.25.2"
 }

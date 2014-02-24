@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BPat Horner",
+  "image_copyright": "%26Acirc%3B%26copy%3BPat Horner",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Patricia Horner",
   "dated": "c. 1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "figure with sunset",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "78.45.2                                   ",
-  "artist": "Patricia Horner"
+  "accession_number": "78.45.2"
 }

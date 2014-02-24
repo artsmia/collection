@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "Stickers ",
   "text": "Exceptional for its size and finely textured grain, this container is large enough to have been used for storing large brushes, rolls of paper, handscrolls, paper weights, and other accoutrements of the scholar's table. Tzu-t'an, an extremely dense hardwood, became popular during the eighteenth century as the supply of huang-hua-li began to decline. The Ch'ing court eventually assumed control of the imported wood and used much of it for the making of fine furniture for the forbidden city. This plain, unadorned container draws its aesthetic appeal from the clean lines, pleasing proportions, and natural beauty of the heavily waxed hardwood.",
   "description": "massive zitan brushpot; slightly waisted, cylindrical form with wide thick mouth; rich dark hue to wood with fine textured grain and scattered gold flecks",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "97.142.3                                  ",
-  "artist": ""
+  "accession_number": "97.142.3"
 }

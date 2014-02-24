@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Courtesy%2C the artist",
+  "image_copyright": "Courtesy Lewis Baltz",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lewis Baltz",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Dated; Numbered ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marvin Heiferman",
-  "accession_number": "86.111.1.14                               ",
-  "artist": "Lewis Baltz"
+  "accession_number": "86.111.1.14"
 }

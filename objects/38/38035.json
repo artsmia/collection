@@ -1,16 +1,17 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Adolf Arthur Dehn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Adolf Arthur Dehn",
   "life_date": "American, 1895 - 1968",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Adolf Dehn",
   "dated": "1928",
   "culture": null,
   "country": "United States",
   "continent": "North America",
   "dimension": null,
-  "medium": null,
+  "medium": "Lithograph on chiné applique",
   "title": "Lohengrin",
   "id": "http://api.artsmia.org/objects/38035",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Adolf Dehn",
-  "accession_number": "2002.279.7                                ",
-  "artist": "Adolf Dehn"
+  "accession_number": "2002.279.7"
 }

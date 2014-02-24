@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate John R. Hogan",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate John R. Hogan",
   "life_date": "American, 1888-1965",
   "nationality": null,
   "role": "Artist",
+  "artist": "John R. Hogan",
   "dated": "c. 1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Family of Charles B. Phelps, Jr.",
-  "accession_number": "93.71.5",
-  "artist": "John R. Hogan"
+  "accession_number": "93.71.5"
 }

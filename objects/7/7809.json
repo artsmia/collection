@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Manzavrakos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Manzavrakos",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael Manzavrakos",
   "dated": "1978/1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John and Julie Roth",
-  "accession_number": "P.91.26.2",
-  "artist": "Michael Manzavrakos"
+  "accession_number": "P.91.26.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Erich Vogel",
   "life_date": "American (born Germany), born 1918",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Erich Vogel",
   "dated": "c. 1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "(windows)",
+  "provenance": "",
   "creditline": "Bequest of Rosalee Vogel",
-  "accession_number": "87.39.23                                  ",
-  "artist": "Erich Vogel"
+  "accession_number": "87.39.23"
 }

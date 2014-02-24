@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignee",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%27s estate%2C or assignee",
   "life_date": "American (born Scotland), 1869-1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grant Elmslie",
   "dated": "1917",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription; Sticker [G.G.E.], in graphite LL",
   "text": "",
   "description": "Front view architectural sketch of a boxlike building with ribbon windows; trees at edges; matted and framed.  Sheet backed with coated white wove paper.  Sheet is creased vertically.",
+  "provenance": "",
   "creditline": "Gift of Roger G. Kennedy",
-  "accession_number": "98.256.1                                  ",
-  "artist": "George Grant Elmslie"
+  "accession_number": "98.256.1"
 }

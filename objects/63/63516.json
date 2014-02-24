@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lisette Model",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lisette Model",
   "life_date": "American (born Austria), 1901 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisette Model",
   "dated": "c. 1934",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition and Stamp on back, in pencil: [Lisette Model]",
   "text": "",
   "description": "heavy-set woman seated on a bench, wearing a white hat with a dark chevron pattern, a long dress covered with small flowers and white lace-up shoes; woman is holding a closed umbrella in one hand; car in background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2002.230.3",
-  "artist": "Lisette Model"
+  "accession_number": "2002.230.3"
 }

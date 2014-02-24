@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1981",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\nLLC verso, in graphit LRC verso, in graphite: [Gilles Peress]",
   "text": "",
   "description": "boy in sheriff shirt center foreground; five story building in background; man and young children in the square",
+  "provenance": "",
   "creditline": "Gift of David and Mary Parker",
-  "accession_number": "2009.68.8",
-  "artist": "Gilles Peress"
+  "accession_number": "2009.68.8"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B 1979 Richard E. De Vore",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1979 Richard E. De Vore",
   "life_date": "American, 1933-2006",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard De Vore",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "parabolic form with dimple and uneven rim; matte, parchment colored glaze",
+  "provenance": "",
   "creditline": "Gift of funds from Anne Dayton with matching funds from the National Endowment for the Arts",
-  "accession_number": "81.27",
-  "artist": "Richard De Vore"
+  "accession_number": "81.27"
 }

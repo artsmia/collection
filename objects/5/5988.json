@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B John Willenbecher",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Willenbecher",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Willenbecher",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "2 ft. squares of granite on surface of plaza; sierra white- and academy black granite; white granite columns in pavillion; black steel roof of pavillion with maze cut into it; fluorescent light tubes in cutout areas on inside of middle column of each side",
+  "provenance": "",
   "creditline": "Gift of funds from US West and the Gerald Rauenhorst Family Foundation",
-  "accession_number": "99.56",
-  "artist": "John Willenbecher"
+  "accession_number": "99.56"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLarry Bell",
+  "image_copyright": "%26Acirc%3B%26copy%3BLarry Bell",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Larry Bell",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Abstraction. Mixed media on seven panels of canvas applied to one larger white canvas.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "95.71                                     ",
-  "artist": "Larry Bell"
+  "accession_number": "95.71"
 }

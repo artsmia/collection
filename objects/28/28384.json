@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silk",
   "title": "Sash",
   "id": "http://api.artsmia.org/objects/28384",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "handwoven geometric pattern in red, brown, magenta, mint, purple, orange and white; supplemental fringe threads added 1 inch from each edge",
+  "provenance": "",
   "creditline": "The Helen Jones Fund for Asian Art",
-  "accession_number": "94.54.8                                   ",
-  "artist": ""
+  "accession_number": "94.54.8"
 }

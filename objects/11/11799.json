@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Herman De Wetter",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Herman De Wetter",
   "life_date": "American (born Estonia), 1880 - 1950",
   "nationality": null,
   "role": "Artist",
+  "artist": "Herman De Wetter",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Family of Charles B. Phelps, Jr.",
-  "accession_number": "93.71.2",
-  "artist": "Herman De Wetter"
+  "accession_number": "93.71.2"
 }

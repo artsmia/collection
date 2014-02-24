@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Eugenia de Olazabal",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eugenia de Olazabal",
   "life_date": "Mexican, born 1936",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Eugenia de Olazabal",
   "dated": "1984",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Eugenia de Olazabal",
-  "accession_number": "88.91",
-  "artist": "Eugenia de Olazabal"
+  "accession_number": "88.91"
 }

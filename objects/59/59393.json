@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Elizabeth Olds",
+  "image_copyright": "%26Acirc%3B%26copy%3B Elizabeth Olds",
   "life_date": "American, 1896 - 1991",
   "nationality": null,
   "role": "Artist",
+  "artist": "Elizabeth Olds",
   "dated": "1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature On work",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. C.C. Bovey, 1941",
-  "accession_number": "P.11,767",
-  "artist": "Elizabeth Olds"
+  "accession_number": "P.11,767"
 }

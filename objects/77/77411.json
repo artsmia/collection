@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "British, 1756 - 1827",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Thomas Rowlandson",
   "dated": "November 1, 1820",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "caricature; plate 5",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.17,422                                  ",
-  "artist": "Thomas Rowlandson"
+  "accession_number": "P.17,422"
 }

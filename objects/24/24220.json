@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Ethel M. Smith",
   "life_date": "American, 1886 - 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ethel M. Smith",
   "dated": "c. 1945",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Elsie Mason",
-  "accession_number": "83.89.1                                   ",
-  "artist": "Ethel M. Smith"
+  "accession_number": "83.89.1"
 }

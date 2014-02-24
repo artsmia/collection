@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Mario Giacomelli",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Mario Giacomelli",
   "life_date": "Italian, 1925 - 2000",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Mario Giacomelli",
   "dated": "1971",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark ",
   "text": "",
   "description": "fields; bottom half view of buildings and conical haystacks, top half aerial view of a field and four trees clustered in a square",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.278",
-  "artist": "Mario Giacomelli"
+  "accession_number": "2007.35.278"
 }

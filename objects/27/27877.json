@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Frank Gohlke",
+  "image_copyright": "%26Acirc%3B%26copy%3B Frank Gohlke",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank W. Gohlke",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Dayton Hudson Corporation",
-  "accession_number": "92.160.3",
-  "artist": "Frank W. Gohlke"
+  "accession_number": "92.160.3"
 }

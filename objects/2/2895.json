@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJane Tuckerman",
+  "image_copyright": "%26Acirc%3B%26copy%3BJane Tuckerman",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jane Tuckerman",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "81.43.2                                   ",
-  "artist": "Jane Tuckerman"
+  "accession_number": "81.43.2"
 }

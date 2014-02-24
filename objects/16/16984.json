@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Vernon E. Nelson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Vernon E. Nelson",
   "life_date": "American, born 1921",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Vernon Nelson",
   "dated": "c. 1943",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature Signed in pencil LR corner: [Vernon Nelson]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Julia B. Bigelow Fund",
-  "accession_number": "43.36                                     ",
-  "artist": "Vernon Nelson"
+  "accession_number": "43.36"
 }

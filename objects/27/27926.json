@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1965",
   "culture": "Maya",
   "country": "Guatemala",
   "continent": "North America",
   "dimension": "22 1/4 x 37 in. (56.5 x 94 cm)",
-  "medium": null,
+  "medium": "Cotton; supplementary weft patterning, embroidery, appliqué",
   "title": "Woman's blouse (Huipil)",
   "id": "http://api.artsmia.org/objects/27926",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Two panel huipil with square-cut neck opening; machine applied embroidered collar; white ground with pink, green and blue supplementary weft patterning; design consists of rows of geometric patterns of zig-zags, diamonds, etc.",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons, in memory of Roberta Grodberg Simmons",
-  "accession_number": "92.156.19                                 ",
-  "artist": ""
+  "accession_number": "92.156.19"
 }

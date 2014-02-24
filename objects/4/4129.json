@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Roloff Beny",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Roloff Beny",
   "life_date": "Canadian, 1924 - 1984",
   "nationality": "Canadian",
   "role": "Artist",
+  "artist": "Roloff Beny",
   "dated": "20th century",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Title and mark titled verso",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.11",
-  "artist": "Roloff Beny"
+  "accession_number": "91.123.11"
 }

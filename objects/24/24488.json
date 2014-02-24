@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BJasper Johns %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1930",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jasper Johns",
   "dated": "1965-1966",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "sketch for R.I.S.D. exhibition poster, Recent Still Life.",
+  "provenance": "",
   "creditline": "Gift of Mr. Robert H. Luck",
-  "accession_number": "84.80                                     ",
-  "artist": "Jasper Johns"
+  "accession_number": "84.80"
 }

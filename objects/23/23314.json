@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Estate of Edward Steichen %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Edward Steichen %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born Luxembourg), 1879 - 1973",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Steichen",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Dana\\'s hands",
+  "provenance": "",
   "creditline": "Bequest of Edward Steichen by direction of Joanna T. Steichen and George Eastman House",
-  "accession_number": "82.28.3",
-  "artist": "Edward Steichen"
+  "accession_number": "82.28.3"
 }

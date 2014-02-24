@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Stephen Hartman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stephen Hartman",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stephen Hartman",
   "dated": "1984",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein in memory of Barbara Pentelovitch",
-  "accession_number": "94.90.4",
-  "artist": "Stephen Hartman"
+  "accession_number": "94.90.4"
 }

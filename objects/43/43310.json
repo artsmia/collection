@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875-1947",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Albert Marquet",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Estate of Kemper Kirkpatrick",
-  "accession_number": "P.92.8.88",
-  "artist": "Albert Marquet"
+  "accession_number": "P.92.8.88"
 }

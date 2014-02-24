@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
   "life_date": "Belgian, 1860 - 1949",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "James Ensor",
   "dated": "1888",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.1,031                                   ",
-  "artist": "James Ensor"
+  "accession_number": "P.1,031"
 }

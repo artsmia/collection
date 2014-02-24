@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Yves Tanguy %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Yves Tanguy %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1900 - 1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Yves Tanguy",
   "dated": "1943",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR in black: [Yves Tanguy\\'43]; also on verso",
   "text": "Joining the flight of artists from Paris to New York during World War II, Yves Tanguy emigrated to America in 1939. Considered to be Tanguy's finest work from his \"first American period\" of 1939 to 1945, the Institute's painting is characterized by bright colors and mysterious, biomorphic forms. In this surreal otherworldly landscape, Tanguy presents us with an ultra-realistic depiction of the unreal by employing a deliberate, precise method of painting.\u000bInexplicable titles, often evocative of a dream state, were used by Surrealists to compel the viewer to search for a deeper meaning or truth in the artwork.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Donald Winston in tribute to Richard S. Davis",
-  "accession_number": "75.72.2                                   ",
-  "artist": "Yves Tanguy"
+  "accession_number": "75.72.2"
 }

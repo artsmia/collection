@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown",
   "dated": "17th century",
   "culture": null,
   "country": "Japan",
@@ -17,8 +18,8 @@
   "style": "17th century",
   "marks": " ",
   "text": "",
-  "description": "Pair six panel screens.  Right screen.  Artist unknown, Tosa School.",
+  "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "70.23.2                                   ",
-  "artist": ""
+  "accession_number": "70.23.2"
 }

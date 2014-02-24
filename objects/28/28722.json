@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1994",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp; Number ",
   "text": "",
   "description": "torso of standing child with adult\\'s hand near child\\'s chin; top of child\\'s face is not shown; bodies are stacked in the background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "95.46.72",
-  "artist": "Gilles Peress"
+  "accession_number": "95.46.72"
 }

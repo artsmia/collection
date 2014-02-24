@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York %2F SIAE%2C Rome",
   "life_date": "Italian, born Greece, 1888 - 1978",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Giorgio de Chirico",
   "dated": "1917",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR in black: [G. de Chirico 5-1917]",
   "text": "As a leader of the Metaphysical school of painting in Italy, Giorgio de Chirico had an important influence on the development of Surrealism in the early 1920s. In his own art, he combined stark images of buildings and empty urban spaces with objects from everyday life and often distorted scale and perspective to accentuate their haunting quality.\r\n\r\nMade while serving in the Italian army during World War I, this painting dates to the height of the artist's Metaphysical period. On the left he pictured a view of a factory in Modena, the city where he was stationed. The other objects included - drafting tools and anatomical charts - symbolize the \"playthings\" of the artist who must study anatomy, drawing, and architecture as part of his training. The anatomical charts may also be an autobiographical allusion to the artist's frequent illnesses.",
   "description": "Metaphysical School. Scuola Metafisica. Surrealist still life with anatomical charts, drafting triangles and tools, and banded rod or maulstick. Architectural drawing in foreground. Various abstracted rectangles and triangles in remainder of composition.",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Samuel H. Maslon",
-  "accession_number": "72.75                                     ",
-  "artist": "Giorgio de Chirico"
+  "accession_number": "72.75"
 }

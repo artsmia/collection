@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Berenice Abbott %2F Howard Greenberg Gallery%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Berenice Abbott %2F Howard Greenberg Gallery%2C New York",
   "life_date": "American, 1898-1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Berenice Abbott",
   "dated": "December 29, 1936",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\\"12416-m[in circle]\\\", \\\"Provincetown Playhouse 133  ",
   "text": "",
   "description": "black and white; front of building with sign: \\\"Provincetown Playhouse\\\"; two men at right",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2001.238.1                                ",
-  "artist": "Berenice Abbott"
+  "accession_number": "2001.238.1"
 }

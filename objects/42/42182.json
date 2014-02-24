@@ -5,11 +5,12 @@
   "life_date": "British, 1794 - 1878",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Robert Wallis",
   "dated": "1831",
   "culture": null,
   "country": "England",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Etching",
   "title": "Ludlow Castle, Shropshire",
   "id": "http://api.artsmia.org/objects/42182",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.3,353                                   ",
-  "artist": "Robert Wallis"
+  "accession_number": "P.3,353"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Alberto Giacometti %2F Artists Rights Society %28ARS%29%2C New York %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Alberto Giacometti %2F Artists Rights Society %28ARS%29%2C New York %2F VAGA%2C New York",
   "life_date": "Swiss, 1900 - 1962",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Alberto Giacometti",
   "dated": "1962",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Edition; Signature; Inscription ",
   "text": "A remarkable example of Giacometti's late sculpture, this bronze portrait bust of Diego Giacometti, the artist's younger brother and frequent model, was executed as part of a series completed three years before Alberto's death.  Diego, a gifted furniture designer, often assisted in the casting of his brother's work. This bust exhibits an expressive power attributable to the fuller forms and more vigorous modeling of Giacometti's later style.  Recognizable details such as facial features and clothing also evidence the greater naturalism of this period.  In portrait sculpture, one of Giacometti's primary goals was to transfix the viewer by the sitter's gaze; in this instance, he succeeds with poignancy. ",
   "description": "head and sketchy armless torso of a man, looking forward, with large nose and ears and wrinkled brow",
+  "provenance": "",
   "creditline": "Gift of the Sara Lee Corporation",
-  "accession_number": "2000.109                                  ",
-  "artist": "Alberto Giacometti"
+  "accession_number": "2000.109"
 }

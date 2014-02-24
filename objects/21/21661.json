@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American (born Bulgaria), 1885 - 1930",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jules Pascin",
   "dated": "1927",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Pen and ink",
   "title": "Lou Lou",
   "id": "http://api.artsmia.org/objects/21661",
-  "room": "Not on View",
+  "room": "G344",
   "style": "20th century",
   "marks": "Signature\r\n\r\nsee Signed LR: [Pascin]",
-  "text": "Though born in Bulgaria and naturalized as an American citizen, Pascin's true home was Paris, especially the gritty, bohemian world of Montparnasse. He was transfixed by female sexuality, and sometimes seems to have been overpowered by femininity. Shortly after their affair ended, he wrote a suicide note in blood to his lover and muse Lucy Krohg.",
+  "text": "Though born in Bulgaria and naturalized as an American citizen, Pascin’s true home was Paris, especially the gritty, bohemian world of Montparnasse. He was transfixed by female sexuality, and sometimes seems to have been overpowered by femininity. Shortly after their affair ended, he wrote a suicide note in blood to his lover and muse Lucy Krohg.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
-  "accession_number": "77.76",
-  "artist": "Jules Pascin"
+  "accession_number": "77.76"
 }

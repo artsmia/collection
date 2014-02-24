@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Adolf Arthur Dehn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Adolf Arthur Dehn",
   "life_date": "American, 1895 - 1968",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Adolf Dehn",
   "dated": "1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date On bottom right, recto: [Adolf Dehn 1940]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John and Myrtle Coe",
-  "accession_number": "P.98.28.2                                 ",
-  "artist": "Adolf Dehn"
+  "accession_number": "P.98.28.2"
 }

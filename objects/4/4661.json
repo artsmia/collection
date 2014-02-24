@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Andrew Baugnet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Andrew Baugnet",
   "life_date": "American, born 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andrew Baugnet",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, Date, Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "94.104.1",
-  "artist": "Andrew Baugnet"
+  "accession_number": "94.104.1"
 }

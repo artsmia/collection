@@ -5,6 +5,7 @@
   "life_date": "English, 1694 - 1773",
   "nationality": null,
   "role": "Artist",
+  "artist": "George Edwards",
   "dated": "1802-1805",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Hand-colored engraving",
   "title": "The Swallow-Tailed Indian Roller",
   "id": "http://api.artsmia.org/objects/8908",
-  "room": "Not on View",
+  "room": "G103",
   "style": "19th century",
   "marks": "Inscription ",
-  "text": "",
+  "text": "A Natural History of Uncommon Birds was an early and important contribution to the burgeoning field of ornithological illustration in England. This depiction of an Indian Roller illustrates the predominant conventions for representing birds at the time, showing it in a static profile view and perched on a stump. The detail may be exacting, but the representation is very different than the approach taken to showing Lady Impey’s birds.",
   "description": "birds; plate 327",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.18,934                                  ",
-  "artist": "George Edwards"
+  "accession_number": "P.18,934"
 }

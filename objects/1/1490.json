@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 2500-2400 B.C.",
   "culture": "Cycladic",
   "country": "Greece",
@@ -13,12 +14,12 @@
   "medium": "Marble",
   "title": "Female Figure",
   "id": "http://api.artsmia.org/objects/1490",
-  "room": "Not on View",
+  "room": "G241",
   "style": "26th-24th century B.C.",
   "marks": " ",
   "text": "This female figure comes from the Cyclades, a chain of islands off the coast of mainland Greece. Scholars classify it among the late Spedos variety, so named after the Bronze Age cemetery where a number of such sculptures were discovered. Examples have been found only on the Cycladic islands of Naxos and Keros. Identifying features include a deep groove separating the legs, individually carved feet, and minimal incised details. Although their exact function is unknown, these abstract stone forms may have been fertility figures or served other religious purposes in life, or perhaps were objects made exclusively for the grave.",
   "description": "may represent the nature goddess or \\\"Great Mother\\\" of early man.; simple, schematic standing figure with crossed arms",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "62.52                                     ",
-  "artist": ""
+  "accession_number": "62.52"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Morgan Art Foundation %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Morgan Art Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1928",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Indiana",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and date. Signed and dated on verso, in stencil with red pai",
   "text": "",
   "description": "Black stenciled \\\"8\\\" inside a red hexagon, inside a yellow circle, inside a black square.",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "76.90",
-  "artist": "Robert Indiana"
+  "accession_number": "76.90"
 }

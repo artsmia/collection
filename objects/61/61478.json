@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British, 1894 - 1982",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Ben Nicholson",
   "dated": "1943",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Labels and Tag on back in pencil:  [Ben Nicholson/1943]",
   "text": "",
   "description": "white, off-white, grey and tan composition of overlapping squares, rectangles and two circles",
+  "provenance": "",
   "creditline": "Gift of the Paintings Council in honor of Ingrid Lenz Harrison",
-  "accession_number": "2002.105                                  ",
-  "artist": "Ben Nicholson"
+  "accession_number": "2002.105"
 }

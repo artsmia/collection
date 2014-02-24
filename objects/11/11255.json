@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Robert Cumming %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Cumming",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of The Minneapolis Institute of Arts",
-  "accession_number": "80.24.3                                   ",
-  "artist": "Robert Cumming"
+  "accession_number": "80.24.3"
 }

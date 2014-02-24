@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1948",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "41 etchings; binding: morocco with color leather inlays, P.L. Martin, 1958; endpapers: suede; slip case: suede coverguard & slip case, edged in leather",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.81.4",
-  "artist": "Pablo Picasso"
+  "accession_number": "B.81.4"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Gene Davis %2F Smithsonian American Art Museum",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Gene Davis %2F Smithsonian American Art Museum",
   "life_date": "American, 1920-1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gene Davis",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Numbered in ink, verso Signed in ink, verso",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Allen Brookins-Brown",
-  "accession_number": "P.91.35.17",
-  "artist": "Gene Davis"
+  "accession_number": "P.91.35.17"
 }

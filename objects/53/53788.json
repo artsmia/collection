@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Richard J. Haas %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard J. Haas %2F VAGA%2C New York",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard J. Haas",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Mark\r\n\r\nsee Signed in pencil: [Richard Haas]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.74.39                                   ",
-  "artist": "Richard J. Haas"
+  "accession_number": "P.74.39"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BBerenice Abbott %2F Commerce Graphics Ltd.",
+  "image_copyright": "%26Acirc%3B%26copy%3BBerenice Abbott %2F Commerce Graphics Ltd.",
   "life_date": "American, 1898-1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Berenice Abbott",
   "dated": "1943",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Shed Six, For Storage of Dry Lumber,  Red River Lumber Company, California",
   "id": "http://api.artsmia.org/objects/4626",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": "Signature, title and stamp signed on backing board: [Bernice Abbott]; stamped",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.72                                  ",
-  "artist": "Berenice Abbott"
+  "accession_number": "93.70.72"
 }

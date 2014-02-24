@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Donald Blumberg",
+  "image_copyright": "%26Acirc%3B%26copy%3B Donald Blumberg",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Donald Blumberg",
   "dated": "c. 1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "newspaper photograph of a man looking down",
+  "provenance": "",
   "creditline": "The Photography Miscellaneous Purchase Fund",
-  "accession_number": "97.78.10",
-  "artist": "Donald Blumberg"
+  "accession_number": "97.78.10"
 }

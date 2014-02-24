@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart D. Klipper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart D. Klipper",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart D. Klipper",
   "dated": "1989-1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature [S.D.K.], in black ink, LRC of sheet",
   "text": "",
   "description": "two images on one sheet, each of a different mountain peak; sheet mounted to backing board",
+  "provenance": "",
   "creditline": "Gift of Kitzenberg Family Dental Group",
-  "accession_number": "97.184.7                                  ",
-  "artist": "Stuart D. Klipper"
+  "accession_number": "97.184.7"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
   "life_date": "Swiss (born Germany), 1930 - 1998",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Dieter Roth",
   "dated": "1971",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "\r\n\r\nsee Signed ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Herschel V. Jones Fund, by exchange",
-  "accession_number": "P.73.14.1                                 ",
-  "artist": "Dieter Roth"
+  "accession_number": "P.73.14.1"
 }

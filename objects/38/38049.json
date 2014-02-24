@@ -1,16 +1,17 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Adolf Arthur Dehn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Adolf Arthur Dehn",
   "life_date": "American, 1895 - 1968",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Adolf Dehn",
   "dated": "1930",
   "culture": null,
   "country": "United States",
   "continent": "North America",
   "dimension": "11 x 15 1/8 in. (27.94 x 38.42 cm) (image)\r\n13 13/16 x 19 3/4 in. (35.08 x 50.17 cm) (sheet)",
-  "medium": null,
+  "medium": "Lithograph on chiné applique",
   "title": "Love in Berlin",
   "id": "http://api.artsmia.org/objects/38049",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Adolf Dehn",
-  "accession_number": "2002.279.8                                ",
-  "artist": "Adolf Dehn"
+  "accession_number": "2002.279.8"
 }

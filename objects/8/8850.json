@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lucian Freud Archive %2F Bridgeman Art Library",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lucian Freud Archive %2F Bridgeman Art Library",
   "life_date": "British, born Germany, 1922-2011",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Lucian Freud",
   "dated": "1982",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Driscoll Arts Accession Endowment Fund and Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.96.13.1                                 ",
-  "artist": "Lucian Freud"
+  "accession_number": "P.96.13.1"
 }

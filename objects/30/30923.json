@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignee",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%27s estate%2C or assignee",
   "life_date": "American (born Scotland), 1869-1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grant Elmslie",
   "dated": "c. 1922",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "clear glass panel with blue and yellow circle in one corner; blue, orange, green, dark blue, yellow, white and mint green small squares; received mounted in frame with 98.256.5.8,.10-12 and 98.256.6.3-7",
+  "provenance": "",
   "creditline": "Gift of Roger G. Kennedy",
-  "accession_number": "98.256.5.9                                ",
-  "artist": "George Grant Elmslie"
+  "accession_number": "98.256.5.9"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1981",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions ",
   "text": "",
   "description": "parking lot viewed at an angle; two women cheering at left; girl with flagpole bottom center; group of people standing near building URC",
+  "provenance": "",
   "creditline": "Gift of David L. and Mary M. D. Parker",
-  "accession_number": "2002.183.88",
-  "artist": "Gilles Peress"
+  "accession_number": "2002.183.88"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BWill Agar",
+  "image_copyright": "%26Acirc%3B%26copy%3BWill Agar",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Will M. Agar",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Inscription ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Film in the Cities",
-  "accession_number": "96.37.1                                   ",
-  "artist": "Will M. Agar"
+  "accession_number": "96.37.1"
 }

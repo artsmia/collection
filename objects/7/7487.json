@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Chilean, 1911-2002",
   "nationality": "Chilean",
   "role": "Artist",
+  "artist": "Roberto Matta (Roberto Antonio Sebastián Matta Echaurren)",
   "dated": "1968",
   "culture": null,
   "country": "Chile",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.69.142",
-  "artist": "Roberto Matta (Roberto Antonio Sebastián Matta Echaurren)"
+  "accession_number": "P.69.142"
 }

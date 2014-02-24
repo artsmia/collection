@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1996",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 1996]",
   "text": "",
   "description": "woman, seen from back, wearing satin dress; older man in tuxedo with large glasses and woman in a dark outfit talking to first woman; torso, arms and legs of a nude male classical sculpture in background",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.19                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.19"
 }

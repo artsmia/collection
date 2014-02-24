@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Paul Ickovic",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paul Ickovic",
   "life_date": "English, born 1944",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Paul Ickovic",
   "dated": "1987",
   "culture": null,
   "country": "Egypt",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "sphinx seen through a metal framed opening in a barbed wire fence; deep trench at left foreground, pyramid at right background, pile of rubble to right side",
+  "provenance": "",
   "creditline": "Ellen and Fred Wells Fund",
-  "accession_number": "98.40.7",
-  "artist": "Paul Ickovic"
+  "accession_number": "98.40.7"
 }

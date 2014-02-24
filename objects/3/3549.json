@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1700",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Walnut, cane",
   "title": "Armchair",
   "id": "http://api.artsmia.org/objects/3549",
-  "room": "G331",
+  "room": "Not on View",
   "style": "17th-18th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund and Gift of funds from the Decorative Arts Council",
-  "accession_number": "87.31.1                                   ",
-  "artist": ""
+  "accession_number": "87.31.1"
 }

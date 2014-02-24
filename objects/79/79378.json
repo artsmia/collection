@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Roy Lichtenstein",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Roy Lichtenstein",
   "life_date": "American, 1923 - 1997",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roy Lichtenstein",
   "dated": "1967",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp unsigned",
   "text": "",
   "description": "red and black dot design; yellow spotlight; column at R",
+  "provenance": "",
   "creditline": "Gift of Michael and Rosalyn Baker",
-  "accession_number": "2003.219.26                               ",
-  "artist": "Roy Lichtenstein"
+  "accession_number": "2003.219.26"
 }

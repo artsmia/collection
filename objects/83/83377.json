@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1871 - 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Sloan",
   "dated": "1926",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Edition; Title LLC, in the plate: [John Sloan  1926]",
   "text": "",
   "description": "men wearing overcoats and hats, and women wearing pumps, knee-length dresses, coats and hats viewing an exhibit of 18th- 19th century clothing",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.69                               ",
-  "artist": "John Sloan"
+  "accession_number": "2003.228.69"
 }

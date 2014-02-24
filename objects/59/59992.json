@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1999",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil, bott \\\"Toby Old 1999\\\", in pencil, LRC on back",
   "text": "",
   "description": "woman wearing costume with feathered skirt, fishnet stockings and high-heeled, open-toed shoes, standing on stairs; bald man with small beard and pierced ear, in profile from PR, in LLC",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.14                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.14"
 }

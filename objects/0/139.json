@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1950",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Guardia Civil, Spain",
   "id": "http://api.artsmia.org/objects/139",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Inscription; Stamp ",
   "text": "",
   "description": "3 men wearing uniforms and shiny leather caps; 2 men at R have mustaches and gun barrels are visible behind their PR shoulders",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2000.110.3                                ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "2000.110.3"
 }

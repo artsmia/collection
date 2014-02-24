@@ -5,6 +5,7 @@
   "life_date": "French, 1839 - 1899",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Alfred Sisley",
   "dated": "1888",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Le Pont de Moret",
   "id": "http://api.artsmia.org/objects/61319",
-  "room": "Not on View",
+  "room": "G355",
   "style": "19th century",
   "marks": " LR in purple: [Sisley]",
   "text": "Painted just over a decade before Sisley's death in 1899, <I>Le Pont de Moret</I> is one of his most masterful compositions of the small medieval town on the edge of the Forest of Fontainebleau where he lived for the last part of his life.  He felt a profound affinity with both the town and the surrounding tranquil countryside along the banks of the river Loing, which provided him with most of the subjects of his late work.\r\n\r\nArchitecture is comparatively rare in Sisley's work. He was predominantly a painter of river landscapes and open landscapes.  <I>Le Pont de Moret</I> exemplifies Sisley's gift for compositional structure with the different architectural elements held in perfect balance.  The sense of authority and calm derives also from the even, interwoven brushwork beautifully articulated over the entire surface of the canvas, and the balancing of warm and cool tones.",
   "description": "buildings and bridges with water in foreground; church left of center",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "2002.67                                   ",
-  "artist": "Alfred Sisley"
+  "accession_number": "2002.67"
 }

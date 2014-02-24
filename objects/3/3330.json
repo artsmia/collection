@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographs by Paul Strand %26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
+  "image_copyright": "Photographs by Paul Strand %26Acirc%3B%26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
   "life_date": "American, 1890 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Strand",
   "dated": "1951",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "boy with wavy hair, seated, staring at camera",
+  "provenance": "",
   "creditline": "Gift of John A. Rollwagen and Beverly J. Baranowski",
-  "accession_number": "85.118                                    ",
-  "artist": "Paul Strand"
+  "accession_number": "85.118"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Italian, 1884 - 1920",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Amedeo Modigliani",
   "dated": "1911-1912",
   "culture": null,
   "country": "Italy",
@@ -13,12 +14,12 @@
   "medium": "Limestone",
   "title": "Head",
   "id": "http://api.artsmia.org/objects/1502",
-  "room": "G241",
+  "room": "G367",
   "style": "20th century",
   "marks": " ",
-  "text": "Fifty years ago the MIA acquired two works of art that have much in common although they were produced over 4000 years apart. Amedeo Modigliani was a painter who concentrated on the human figure, primarily portraits and nudes. In 1909, he became interested in trying his hand at sculpture and became a student of Constantin Brancusi, the Romanian minimalist sculptor whose <I>Golden Bird</I> can be seen in Gallery 369. \r\n\r\nModigliani preferred not to reduce form to the extreme that Brancusi did; instead he choose to continue his exploration of the essence of humanity. He looked to Egyptian, African, and above all archaic Greek art -specifically from the Cyclades islands in the Aegean Sea-for the shorthand glyphs that they used for the representation of human features. The balance of curves and angularities of the MIA's Cycladic figure (adjacent) are remarkably similar, and it could be argued that Modigliani's art was one of the main reasons that modern art collectors in the 20th century avidly sought Cycladic sculpture.",
+  "text": "A protaganist of the vibrant artistic community in Paris around 1910, the Italian Amedeo Modigliani sought to establish a new sculptural language, inspired significantly by African and ancient Greek and Egyptian examples. The present <I>Head</I> was one of seven that were exhibited at the <I>Salon d'Automne</I> in Paris in October 1912. A few months earlier, it was photographed in the artist's studio - which makes it one of his best-documented works. Modigliani intended for the heads to be parts of 'columns of tenderness' within a primordial 'temple of beauty' that remained unrealized. According to the account of his close friend Jacob Epstein, Modigliani used to place candles on top of these heads during the night. Spurred on by marijuana, he would give the totemic, illuminated sculptures affectionate embraces.",
   "description": "Head of a woman with a base, stone on a marble base, size; 26in.; base R5 column MS",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
-  "accession_number": "62.73.1",
-  "artist": "Amedeo Modigliani"
+  "accession_number": "62.73.1"
 }

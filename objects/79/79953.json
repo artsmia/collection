@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silver",
   "title": "Necklace, from a set of five",
   "id": "http://api.artsmia.org/objects/79953",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "silver collar necklace, wider at front; incised foliate designs; part of five-piece set",
+  "provenance": "",
   "creditline": "The Suzanne S. Roberts Fund for Asian Art",
-  "accession_number": "2003.134.10.1                             ",
-  "artist": ""
+  "accession_number": "2003.134.10.1"
 }

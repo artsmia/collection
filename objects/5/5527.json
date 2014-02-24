@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Photograph by Robert Capa%2C %26copy%3BCornell Capa",
+  "image_copyright": "Photograph by Robert Capa%2C %26Acirc%3B%26copy%3BCornell Capa",
   "life_date": "American (born Hungary), 1913 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Capa",
   "dated": "1948",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Mark; Inscription ",
   "text": "",
   "description": "three men at podium with framed portrait behind; center white-haired man reading",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "98.109.3                                  ",
-  "artist": "Robert Capa"
+  "accession_number": "98.109.3"
 }

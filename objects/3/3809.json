@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BGoldbeck Co.",
+  "image_copyright": "%26Acirc%3B%26copy%3BGoldbeck Co.",
   "life_date": "American, 1892 - 1986",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Eugene Omar Goldbeck",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "The Great Pyramids and Sphinx, Cairo, Egypt",
   "id": "http://api.artsmia.org/objects/3809",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.1                                  ",
-  "artist": "Eugene Omar Goldbeck"
+  "accession_number": "89.125.1"
 }

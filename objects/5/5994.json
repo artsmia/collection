@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "17th century",
   "culture": null,
   "country": "Korea",
@@ -13,12 +14,12 @@
   "medium": "White porcelain",
   "title": "Flask",
   "id": "http://api.artsmia.org/objects/5994",
-  "room": "G206",
+  "room": "Not on View",
   "style": "17th century",
   "marks": " ",
   "text": "",
   "description": "Flat, circular body; greenish white glaze; has lidded wood box",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund and Gift of funds from Fred and Ellen Wells",
-  "accession_number": "99.6",
-  "artist": ""
+  "accession_number": "99.6"
 }

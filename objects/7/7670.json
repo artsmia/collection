@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Jonathan Borofsky",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jonathan Borofsky",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jonathan Borofsky",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition, Chop mark ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Helen C. Levitt",
-  "accession_number": "P.85.34                                   ",
-  "artist": "Jonathan Borofsky"
+  "accession_number": "P.85.34"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Willem de Kooning Revocable Trust %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Willem de Kooning Revocable Trust %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born The Netherlands), 1904-1997",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Willem de Kooning",
   "dated": "1957 (pub. 1960)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition\r\n\r\nTitled on plate as part of c Signed and numbered in pencil, lower margin: [40/5",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Walter Bareiss",
-  "accession_number": "P.86.59.5",
-  "artist": "Willem de Kooning"
+  "accession_number": "P.86.59.5"
 }

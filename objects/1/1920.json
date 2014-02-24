@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, (born Japan) 1886 - 1968",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Tsugouharu Foujita",
   "dated": "1954",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Accepted into Record Book in 1972 (L72.132.8); given Perm. Coll. status as of April 26, 1979",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "72.138.2",
-  "artist": "Tsugouharu Foujita"
+  "accession_number": "72.138.2"
 }

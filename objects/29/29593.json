@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "6-7/8 x 3-1/16 x 3-1/16 in. (17.5 x 7.8 x 7.8 cm)",
-  "medium": null,
+  "medium": "Cloisonné",
   "title": "Candlestick, one of a pair",
   "id": "http://api.artsmia.org/objects/29593",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "cloisonne candlestick; blue ground with green and brown floral motif; bell-shaped foot, column body and flared top",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Howard P. Clarke",
-  "accession_number": "97.172.1.2                                ",
-  "artist": ""
+  "accession_number": "97.172.1.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B G%26uuml%3Bnter R. Reitz",
+  "image_copyright": "%26Acirc%3B%26copy%3B G%26Atilde%3B%26frac14%3Bnter R. Reitz",
   "life_date": "German",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Günter R. Reitz",
   "dated": "20th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.4",
-  "artist": "Günter R. Reitz"
+  "accession_number": "91.123.4"
 }

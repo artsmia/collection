@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BFrank Gaard",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Gaard",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Gaard",
   "dated": "1984",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nLL in blue pastel: [EROS SELAVEY] ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "91.42.3a,b",
-  "artist": "Frank Gaard"
+  "accession_number": "91.42.3a,b"
 }

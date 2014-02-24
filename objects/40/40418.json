@@ -5,6 +5,7 @@
   "life_date": "Austrian, 1868-1918",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Koloman Moser",
   "dated": "c. 1905",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Chandelier",
   "id": "http://api.artsmia.org/objects/40418",
   "room": "Not on View",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": " ",
   "text": "",
   "description": "Silvered-metal in two sections (a) together with a cylindrical glass shade (b) with cushion-form base washed in opal iridescence and decorated with azure dots and tendrils",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.117a,b                             ",
-  "artist": "Koloman Moser"
+  "accession_number": "98.276.117a,b"
 }

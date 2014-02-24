@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Lynn Geesaman. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Lynn Geesaman. All rights reserved.",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lynn Geesaman",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Fred and Ellen Wells",
-  "accession_number": "92.78.5",
-  "artist": "Lynn Geesaman"
+  "accession_number": "92.78.5"
 }

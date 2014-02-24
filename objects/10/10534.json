@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1856 - 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Douglas Volk",
   "dated": "c. 1890",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LR in red: [Douglas Volk]",
   "text": "In 1884, John Bradstreet moved into the Judd House, a boarding house located directly across from the Minneapolis City Hall that was occupied by some of the most fashionable people in the city.  Bradstreet remodeled his rooms according to his own taste for the exotic, and Volk depicts him seated among turkeywork carpets and Moorish-inspired architectural elements and furniture.",
   "description": "Portrait. Interior.",
+  "provenance": "",
   "creditline": "Gift of John Scott Bradstreet",
-  "accession_number": "06.2                                      ",
-  "artist": "Douglas Volk"
+  "accession_number": "06.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B the artist",
+  "image_copyright": "%26Acirc%3B%26copy%3B the artist",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisa Bradley",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription medium on back center stretcher bar, artist\\'s last",
   "text": "",
   "description": "dark blue ground with streaks of turquoise, white and black",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "94.94                                     ",
-  "artist": "Lisa Bradley"
+  "accession_number": "94.94"
 }

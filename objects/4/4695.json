@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1861 - 1944",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Aristide Maillol",
   "dated": "c. 1902",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "standing female figure holding an apple in her proper left hand",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "94.30.4",
-  "artist": "Aristide Maillol"
+  "accession_number": "94.30.4"
 }

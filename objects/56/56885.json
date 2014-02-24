@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British, 1894 - 1982",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Ben Nicholson",
   "dated": "1960",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature on margin",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Walter Bareiss",
-  "accession_number": "P.86.59.12                                ",
-  "artist": "Ben Nicholson"
+  "accession_number": "P.86.59.12"
 }

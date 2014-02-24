@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Bruce Charlesworth",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bruce Charlesworth",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "each photographic acrylic and collage on polaroid SX-70",
+  "provenance": "",
   "creditline": "Mr. and Mrs. Harrison R. Johnston, Jr. Fund",
-  "accession_number": "78.42.1                                   ",
-  "artist": "Bruce Charlesworth"
+  "accession_number": "78.42.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1928 - 2007",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sol LeWitt",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition\r\n\r\nNumbered in pencil, LL: [37/ Signed in pencil, LR: [LeWitt]",
   "text": "Sol LeWitt was one of the pioneering figures in both the Conceptual and Minimalist art movements of the 1960s and '70s. Whether working as a painter, draftsman, photographer, printmaker, or sculptor, LeWitt conceived works of art that were fundamentally geometric and architectonic, and relied on the cube as a starting point for his explorations of space, time, form, volume, repetition, sequence, and variation. \r\n\r\nIn Horizontal Composite, LeWitt generates a geometric motif from a limited repertoire of repeated lines, shapes and colors. These basic compositional elements were LeWitt's personal grammar and syntax that he freely manipulated to illustrate visual, spatial, and mathematical problems or concepts.  For LeWitt, the ideas expressed through his work always took precedence over the objects themselves.\r\n",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
-  "accession_number": "P.78.20                                   ",
-  "artist": "Sol LeWitt"
+  "accession_number": "P.78.20"
 }

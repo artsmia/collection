@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1834-1917",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Edgar Degas",
   "dated": "c. 1880-1882",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Stamp, Inscription ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Julius Boehler",
-  "accession_number": "26.10",
-  "artist": "Edgar Degas"
+  "accession_number": "26.10"
 }

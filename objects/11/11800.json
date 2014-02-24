@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Anne Pilger Dewey",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Anne Pilger Dewey",
   "life_date": "American, 1890 - 1980",
   "nationality": null,
   "role": "Artist",
+  "artist": "Anne Pilger Dewey",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " signed LR; titled LL",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred W. and Jane Bell Edwards",
-  "accession_number": "91.128.16",
-  "artist": "Anne Pilger Dewey"
+  "accession_number": "91.128.16"
 }

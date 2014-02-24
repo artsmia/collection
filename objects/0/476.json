@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "16th century",
   "culture": null,
   "country": "Spain",
@@ -13,12 +14,12 @@
   "medium": "Linen, silk, metallic threads; embroidery",
   "title": "Dalmatic",
   "id": "http://api.artsmia.org/objects/476",
-  "room": "Not on View",
+  "room": "G280",
   "style": "16th century",
   "marks": " ",
-  "text": "A dalmatic is the outer liturgical vestment worn by a deacon during Mass and other church services.  Based on a Roman garment in general use in the province of Dalmatia in the 3rd century, the dalmatic was adapted by senators in Rome as a sign of their rank.  Christian deacons began wearing the dalmatic during the reign of Pope Sylvester (315-335 A.D.).  \r\n\r\nThe richly ornamented embroidery on this vestment, called orphrey, characterizes liturgical vestments made in 16th century Spain. The roundel on one side contains a depiction of the Madonna and Child and St. John the Baptist, and on the other, St. John the Baptist as an adult with his traditional attributes of a pilgrim's staff and a lamb.\r\nThe double presence of this saint suggests this dalmatic was made for a church that fostered a particular devotion to him.\r\n",
+  "text": "The rich, skillful embroidery on this dalmatic, or outer vestment worn by a Catholic deacon during Mass and other services, is characteristic of 16th-century Spanish liturgical wear. Its two roundels featuring Saint John the Baptist-as a child with the Madonna (seen here) and as an adult-would have connected the congregation with the celebrant who wore it. The presence of the saint on both sides suggests that it was made for a church that fostered a particular devotion to him.",
   "description": "Dalmatic of red velvet with orphreys embroidered in gold thread and colored silks in a design of vases and floral arabesques. The medallion appliqued to the front represents the Virgin with the Baptist as a man. The side seams are finished with finely fringed braid in alternate red and yellow sections.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "31.65                                     ",
-  "artist": ""
+  "accession_number": "31.65"
 }

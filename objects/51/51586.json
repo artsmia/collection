@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1780",
   "culture": "English",
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Porcelain",
   "title": "Miniature creamer",
   "id": "http://api.artsmia.org/objects/51586",
-  "room": "G180",
+  "room": "Not on View",
   "style": "18th century",
   "marks": " ",
   "text": "The popularity of Chinese blue and white porcelain was so pervasive by the late 18th century that English firms produced good quality children's tea services with Chinese motifs. These toys were meant to be used to teach good social skills. Though the handle-less tea bowl is Chinese in form, the creamer is based on silver forms. Although this set is not marked (which is not uncommon for early children's wares), it is similar to services produced with Chinese landscapes by the English firm of Caughley, purchased by Coalport in 1799.",
   "description": "small pitcher with bulbous body; pointed spout; decorated with blue and white image of Chinese landscape and boatman with birds; geometric design at rim",
+  "provenance": "",
   "creditline": "Given in memory of Olivia Carpenter Coan by her family",
-  "accession_number": "2001.164.16.1                             ",
-  "artist": ""
+  "accession_number": "2001.164.16.1"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "Japan",
@@ -13,12 +14,12 @@
   "medium": "Silk brocade",
   "title": "Priest's hat",
   "id": "http://api.artsmia.org/objects/12390",
-  "room": "Not on View",
+  "room": "G280",
   "style": "19th century",
   "marks": " ",
-  "text": "Formalization of Japan's indigenous religious beliefs did not begin to occur until after the introduction of Buddhism from the continental mainland in the sixth century.  In order to distinguish themselves from Buddhist clerics, Shint' priests wore a type of costume typical of male aristocrats at Japan's imperial court during the Heian period (794-1185).  This costume, consisting of a long loose garment with a lapped side closure, was known as a kariginu and was particularly associated with hunting excursions. In addition, priests also wore eboshi, fine lacquered hats also part of formal court attire.  As a bridge between the spiritual and the secular, the kariginu and eboshi came to constitute the everyday wear of Shint' priests. ",
+  "text": "",
   "description": "Hat, Priest\\'s, black; belongs with yellow silk brocade Priest\\'s robe.  (14.86a)",
+  "provenance": "",
   "creditline": "Bequest of John Scott Bradstreet",
-  "accession_number": "14.86.2",
-  "artist": ""
+  "accession_number": "14.86.2"
 }

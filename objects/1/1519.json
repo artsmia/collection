@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st century",
   "culture": "Roman",
   "country": "Roman",
-  "continent": "",
+  "continent": null,
   "dimension": "21 1/2 x 32 in. (54.61 x 81.28 cm)",
   "medium": "Marble",
   "title": "Ram",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "white marble, no legs. Head Modern",
+  "provenance": "",
   "creditline": "Gift of Hans M. Calmann",
-  "accession_number": "63.22                                     ",
-  "artist": ""
+  "accession_number": "63.22"
 }

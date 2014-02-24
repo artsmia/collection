@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Andr%26Atilde%3B%26copy%3B Kert%26Atilde%3B%26copy%3Bsz",
   "life_date": "American (born Austria-Hungary), 1894 - 1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "André Kertész",
   "dated": "1939",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel\r\n",
-  "accession_number": "98.144.10                                 ",
-  "artist": "André Kertész"
+  "accession_number": "98.144.10"
 }

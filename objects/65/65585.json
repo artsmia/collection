@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "1817",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "7 1/8 x 10 1/8 in. (18.1 x 25.7 cm) (image)\r\n7 13/16 x 10 1/2 in. (19.9 x 26.7 cm) (sheet)",
-  "medium": "color woodblock print, tansai-zuri(sumi+light color)",
+  "medium": "From a woodblock printed book; ink and limited color on paper",
   "title": "Practice of Long-handled Sword",
   "id": "http://api.artsmia.org/objects/65585",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "double page from a illustrated book",
+  "provenance": "",
   "creditline": "Gift of Gardner Teall",
-  "accession_number": "17.204.8                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "17.204.8"
 }

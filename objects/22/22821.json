@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26copy%3B by the Trustees of Princeton University. All rights reserved.",
+  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26Acirc%3B%26copy%3B by the Trustees of Princeton University. All rights reserved.",
   "life_date": "American, 1908 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Minor White",
   "dated": "1970 (printed 1975)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "81.40.11",
-  "artist": "Minor White"
+  "accession_number": "81.40.11"
 }

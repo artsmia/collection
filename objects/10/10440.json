@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Ad Reinhardt %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Ad Reinhardt %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1913 - 1967",
   "nationality": null,
   "role": "Artist",
+  "artist": "Ad Reinhardt",
   "dated": "1960-1966",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "74.73                                     ",
-  "artist": "Ad Reinhardt"
+  "accession_number": "74.73"
 }

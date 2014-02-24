@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Conrad Felixm%26uuml%3Bller %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Conrad Felixm%26Atilde%3B%26frac14%3Bller %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "German, 1897 - 1977",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Conrad Felixmüller",
   "dated": "1919",
   "culture": null,
   "country": "Germany",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/1855",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature; Date; Title [Felixmüller 1919], in graphite, lower left corner",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Herschel V. Jones Fund, by exchange",
-  "accession_number": "71.39                                     ",
-  "artist": "Conrad Felixmüller"
+  "accession_number": "71.39"
 }

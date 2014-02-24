@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1895 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Samuel Chamberlain",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Estate of Kemper Kirkpatrick",
-  "accession_number": "P.92.8.29",
-  "artist": "Samuel Chamberlain"
+  "accession_number": "P.92.8.29"
 }

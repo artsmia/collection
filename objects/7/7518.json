@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
   "life_date": "American, 1925-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Rauschenberg",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, numbered Signed, dated, and numbered in graphite pencil wit",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Special Arts Reserve Fund",
-  "accession_number": "P.70.78",
-  "artist": "Robert Rauschenberg"
+  "accession_number": "P.70.78"
 }

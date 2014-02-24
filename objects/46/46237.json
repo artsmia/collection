@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Linda Gammell",
+  "image_copyright": "%26Acirc%3B%26copy%3B Linda Gammell",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Linda Gammell",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\nsee Signed on back of sheet",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.76.24.2",
-  "artist": "Linda Gammell"
+  "accession_number": "P.76.24.2"
 }

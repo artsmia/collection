@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Belorussian, 1887 - 1985",
   "nationality": "Belorussian",
   "role": "Artist",
+  "artist": "Marc Chagall",
   "dated": "1927-1930 (pub. 1952)",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Parisian publisher Ambroise Vollard commissioned Chagall to design book illustrations for Jean de la Fontaine's Fables in 1926. Vollard's decision to use a Russian artist to illustrate a revered French text provoked some criticism. But Vollard defended his choice by saying that the fables were part of Asia Minor's oral tradition, not France's, and would benefit from being drawn by an artist from the East. Between 1927 and 1930, Chagall produced 100 etchings of the fables, but the project was delayed and only completed in 1952.\r\n\r\nIn this etching, a lion commands a fly to leave him alone, but in response the fly declares war, fearing nothing from the king of beasts. \"An ox is a bulkier creature,\" says the fly, \"but by my fancy is easily moved.\" The fly then attacks the lion, diving into its mane, its back, and then its muzzle, biting it in a hundred places. The lion lashes out with tooth and claw, shredding itself in the process and falling exhausted in defeat. The fly goes off to tell of its victory, but flies headlong into a spider web, where it also meets its end.",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1964",
-  "accession_number": "P.13,202",
-  "artist": "Marc Chagall"
+  "accession_number": "P.13,202"
 }

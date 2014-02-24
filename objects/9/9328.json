@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "17th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions and Marks\r\n\r\non old mount, in pencil, ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David M. Daniels Fund",
-  "accession_number": "67.46.1                                   ",
-  "artist": "Artist Unknown"
+  "accession_number": "67.46.1"
 }

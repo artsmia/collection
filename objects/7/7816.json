@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1867-1947",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre Bonnard",
   "dated": "1899",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " [No. 68/ P.Bonnard] in pencil l.r.",
   "text": "One of Bonnard's favorite themes was the variety of pedestrian and vehicular traffic along the boulevard de Clichy, a busy thoroughfare near both his home and studio.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "P.92.10.5",
-  "artist": "Pierre Bonnard"
+  "accession_number": "P.92.10.5"
 }

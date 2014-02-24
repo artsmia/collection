@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1892 - 1971",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marcel Gromaire",
   "dated": "1926",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\nat bottom edge of sheet, in pencil: [ ",
   "text": "",
   "description": "simplified image of man with spectacles, bow tie and jacket, pointing with a stick at abstracted images of man and woman; book and tray with bottle and goblet on table in foreground, bottom; face looking up, LLC; printed text on back",
+  "provenance": "",
   "creditline": "Gift of Mary and Robyn Campbell",
-  "accession_number": "2003.156.13",
-  "artist": "Marcel Gromaire"
+  "accession_number": "2003.156.13"
 }

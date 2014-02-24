@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BDavid Hockney",
+  "image_copyright": "%26Acirc%3B%26copy%3BDavid Hockney",
   "life_date": "British, born 1937",
   "nationality": "British",
   "role": "Artist",
+  "artist": "David Hockney",
   "dated": "1969",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.74.53                                   ",
-  "artist": "David Hockney"
+  "accession_number": "P.74.53"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silver",
   "title": "Necklace",
   "id": "http://api.artsmia.org/objects/79960",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "continuous curling loops of wire in graduated 3-D design; ends wrapped with chain; large hook closure",
+  "provenance": "",
   "creditline": "The Suzanne S. Roberts Fund for Asian Art",
-  "accession_number": "2003.134.13                               ",
-  "artist": ""
+  "accession_number": "2003.134.13"
 }

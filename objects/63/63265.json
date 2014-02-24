@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Kawase Hasui",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Kawase Hasui",
   "life_date": "Japanese, 1883 - 1957",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kawase Hasui",
   "dated": "1930",
   "culture": null,
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/63265",
   "room": "Not on View",
   "style": "20th century",
-  "marks": " [??] {Hasui}",
+  "marks": " [巴水] {Hasui}",
   "text": "",
   "description": "landscape; man walking on path flanked by tall trees.",
+  "provenance": "",
   "creditline": "Gift of Nancy M. Rose",
-  "accession_number": "2003.241.12",
-  "artist": "Kawase Hasui"
+  "accession_number": "2003.241.12"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Mario Giacomelli",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Mario Giacomelli",
   "life_date": "Italian, 1925 - 2000",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Mario Giacomelli",
   "dated": "1966",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Artist\\'S Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "94.101.10",
-  "artist": "Mario Giacomelli"
+  "accession_number": "94.101.10"
 }

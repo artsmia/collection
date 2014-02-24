@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Cup and Saucer, ceramic, flaring side, gold bands, with floral swags in orange, German XVIIIc  NO DIMS. ON CAT. CARDS",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.8.40a,b                                ",
-  "artist": ""
+  "accession_number": "23.8.40a,b"
 }

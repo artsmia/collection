@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenry Gilpin",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenry Gilpin",
   "life_date": "American, born 1922",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Henry E. Gilpin",
   "dated": "1965",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Artist\\'S Stamp ",
   "text": "",
   "description": "winding road on hillside by ocean",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.30                                 ",
-  "artist": "Henry E. Gilpin"
+  "accession_number": "98.144.30"
 }

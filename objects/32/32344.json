@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1934",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Mark\r\nin back ",
   "text": "",
   "description": "binding: paper with collotype (?) designs in brown, red and blue; brown label attached, printed lettering; endpapers: white wove; slip case: paper over cardboard inner sleeve, blue stamped lettering; lined with designs matchingbook sides; slip case of paper over cardboard; type: Linotype Caslon; 118 pp.",
+  "provenance": "",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
-  "accession_number": "B.87.4.55",
-  "artist": "Pablo Picasso"
+  "accession_number": "B.87.4.55"
 }

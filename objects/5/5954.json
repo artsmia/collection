@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Andrew Baugnet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Andrew Baugnet",
   "life_date": "American, born 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andrew Baugnet",
   "dated": "1996",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title ",
   "text": "",
   "description": "night scene with grain elevators behind 3 large piles of sand; building at left",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "99.35.1",
-  "artist": "Andrew Baugnet"
+  "accession_number": "99.35.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
   "life_date": "American, 1925-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Rauschenberg",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Rauschenberg]",
   "text": "In 1969, the Metropolitan Museum of Art in New York commissioned Rauschenberg to produce a lithograph commemorating the 100th anniversary of the museum. For this print, he combined representative imagery selected from the Metropolitan's extensive permanent collection of art. During the project, Rauschenberg learned that the Metropolitan museum's original goals were detailed in a \"certificate\" dating to 1870, a document that had been prepared on graph paper. Using this concept, Rauschenberg prepared an updated certificate with his own text, which was then signed by Metropolitan officials, including the museum director, Thomas Hoving.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dayton's Gallery 12",
-  "accession_number": "P.70.29",
-  "artist": "Robert Rauschenberg"
+  "accession_number": "P.70.29"
 }

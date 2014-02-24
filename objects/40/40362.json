@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C Netherlands",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C Netherlands",
   "life_date": "Dutch, 1885-1977",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Piet (Pieter) Zwart",
   "dated": "1928",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.32",
-  "artist": "Piet (Pieter) Zwart"
+  "accession_number": "P.98.33.32"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Jarom%26iacute%3Br Funke",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Jarom%26Atilde%3B%26shy%3Br Funke",
   "life_date": "Czechoslovakian, 1896 - 1945",
   "nationality": "Czechoslovakian",
   "role": "Artist",
+  "artist": "Jaromír Funke",
   "dated": "1923",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "93.45",
-  "artist": "Jaromír Funke"
+  "accession_number": "93.45"
 }

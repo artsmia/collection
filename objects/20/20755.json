@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Glenn Halvorson",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Glenn Halvorson",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "75.45.4                                   ",
-  "artist": "Glenn Halvorson"
+  "accession_number": "75.45.4"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Margaret Bourke-White",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Margaret Bourke-White",
   "life_date": "American, 1904 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Margaret Bourke-White",
   "dated": "1933",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamps; Inscription ",
   "text": "",
   "description": "view to top of the Washington Monument covered with scaffolding",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2000.240.2",
-  "artist": "Margaret Bourke-White"
+  "accession_number": "2000.240.2"
 }

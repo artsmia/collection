@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1991",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, inscribed, and VEL chop mark. LR: [Sam Gilliam \\'91]\r\nLR: [A.P.]\r\n",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "P.92.6.44",
-  "artist": "Sam Gilliam"
+  "accession_number": "P.92.6.44"
 }

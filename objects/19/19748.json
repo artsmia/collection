@@ -1,16 +1,17 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "c. 1903",
   "culture": null,
   "country": "Germany",
   "continent": "Europe",
   "dimension": "16 7/8 x 24 11/16 in. (42.8 x 62.7 cm) (image)\r\n23 5/8 x 29 1/2 x 7/8 in. (60.01 x 74.93 x 2.22 cm) (outer frame)\r\n19 x 24 11/16 in. (48.2 x 62.7 cm) (sheet)",
-  "medium": null,
+  "medium": "Conté crayon with stumping",
   "title": "Two Studies of a Woman's Head",
   "id": "http://api.artsmia.org/objects/19748",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Signature In graphite, lower right: [Kollwitz]",
   "text": "Kollwitz approached drawing as an aid for composing her editioned prints. In this black chalk study for a lithograph, she is experimenting with the angle of the mother's head as it rests on her dead child's chest.",
   "description": "Preliminary study for \\\"Pieta\\\" lithograph (1903)",
+  "provenance": "",
   "creditline": "Gift of David M. Daniels",
-  "accession_number": "71.65",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "71.65"
 }

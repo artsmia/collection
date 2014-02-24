@@ -5,6 +5,7 @@
   "life_date": "Austrian?",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Röll",
   "dated": "1800-1833",
   "culture": null,
   "country": "Austria (?)",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/18959",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature; Marks\r\n\r\nsee Signed Lower center: [Röll fec]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
-  "accession_number": "66.25.143                                 ",
-  "artist": "Röll"
+  "accession_number": "66.25.143"
 }

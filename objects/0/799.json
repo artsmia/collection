@@ -5,7 +5,8 @@
   "life_date": "French, 1798 - 1863",
   "nationality": "French",
   "role": "Artist",
-  "dated": "1856?1858",
+  "artist": "Eugène Delacroix",
+  "dated": "1856–1858",
   "culture": null,
   "country": "France",
   "continent": "Europe",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "View of Tangier from the Seashore",
   "id": "http://api.artsmia.org/objects/799",
-  "room": "G305",
+  "room": "Not on View",
   "style": "19th century",
   "marks": "Signature and Date LL in dark brown: [Eug Delacroix 1858]",
   "text": "This painting once belonged to James J. Hill (1838-1916), the Minnesota railroad magnate whose collection of European paintings forms the basis of the Institute's nineteenth-century holdings.",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Erasmus C. Lindley in memory of her father, James J. Hill",
-  "accession_number": "49.4                                      ",
-  "artist": "Eugène Delacroix"
+  "accession_number": "49.4"
 }

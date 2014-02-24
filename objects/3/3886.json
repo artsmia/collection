@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Edmund Teske Archives",
+  "image_copyright": "%26Acirc%3B%26copy%3B Edmund Teske Archives",
   "life_date": "American, 1911 - 1996",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edmund Teske",
   "dated": "1938",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody, Fund",
-  "accession_number": "89.85",
-  "artist": "Edmund Teske"
+  "accession_number": "89.85"
 }

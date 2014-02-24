@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3BDag Alveng %2F Courtesy Deborah Bell%2C New York",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3BDag Alveng %2F Courtesy Deborah Bell%2C New York",
   "life_date": "Norwegian, born 1953",
   "nationality": "Norwegian",
   "role": "Artist",
+  "artist": "Dag Alveng",
   "dated": "1981",
   "culture": null,
   "country": "Norway",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "84.9.1                                    ",
-  "artist": "Dag Alveng"
+  "accession_number": "84.9.1"
 }

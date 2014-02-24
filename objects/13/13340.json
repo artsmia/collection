@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "KO'd on TV, New York City",
   "id": "http://api.artsmia.org/objects/13340",
-  "room": "G266-G274",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature; Date; Inscription\r\n\r\nin pencil, on back in pencil, on back: [Toby Old 1983]",
   "text": "",
   "description": "image of the head and shoulders of a fallen boxer on a TV on a small stand; fireplace at left",
+  "provenance": "",
   "creditline": "Gift of Michael K. Hsu and Anonymous Gift",
-  "accession_number": "2000.68.37                                ",
-  "artist": "Toby Old"
+  "accession_number": "2000.68.37"
 }

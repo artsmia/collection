@@ -5,6 +5,7 @@
   "life_date": "American, 1890 - 1981",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frances Cranmer Greenman",
   "dated": "1923",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Self Portrait",
   "id": "http://api.artsmia.org/objects/21172",
-  "room": "Not on View",
+  "room": "G360",
   "style": "20th century",
   "marks": "Signature and date Signed LR: [Frances Cranmer Greenman 1923]",
   "text": "Recent conservation of this picture was made possible by a generous contribution from Sam and Patty McCullough through the Adopt-a-Painting program.",
   "description": "Portrait.",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "76.6.1",
-  "artist": "Frances Cranmer Greenman"
+  "accession_number": "76.6.1"
 }

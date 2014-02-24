@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographs by Paul Strand %26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
+  "image_copyright": "Photographs by Paul Strand %26Acirc%3B%26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
   "life_date": "American, 1890 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Strand",
   "dated": "1933",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Photogravure (printed 1967)",
   "title": "Plaza, State of Puebla",
   "id": "http://api.artsmia.org/objects/19368",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "town square with low building with partial roof and water trough to the right",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "68.23.10                                  ",
-  "artist": "Paul Strand"
+  "accession_number": "68.23.10"
 }

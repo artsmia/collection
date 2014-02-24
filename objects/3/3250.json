@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSABAM%2C Brussels",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSABAM%2C Brussels",
   "life_date": "Belgian, born 1933",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "Pierre Cordier",
   "dated": "1972",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "84.12.1",
-  "artist": "Pierre Cordier"
+  "accession_number": "84.12.1"
 }

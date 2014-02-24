@@ -5,12 +5,13 @@
   "life_date": "English, 1779 - 1832",
   "nationality": "English",
   "role": "Artist",
+  "artist": "William Hooker",
   "dated": "19th century",
   "culture": null,
   "country": "England",
   "continent": "Europe",
   "dimension": null,
-  "medium": "",
+  "medium": null,
   "title": "Pomona Londinensis",
   "id": "http://api.artsmia.org/objects/72084",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.18,480                                  ",
-  "artist": "William Hooker"
+  "accession_number": "P.18,480"
 }

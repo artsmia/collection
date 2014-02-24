@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Staffordshire, England, est. 1759",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wedgwood",
   "dated": "19th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Covered sugar bowl, buff colored cane ware with band of grapevine design in relief, octagonal shape, ceramic, English, XIXc  cat. card dims 3 x 4-1/2 x 5-1/2\\'; needs to be renumbered (says \\'a\\' and \\'g\\')",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.8.58a,b                                ",
-  "artist": "Wedgwood"
+  "accession_number": "23.8.58a,b"
 }

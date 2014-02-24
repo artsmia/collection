@@ -1,7 +1,7 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
@@ -14,11 +14,11 @@
   "medium": "Etching, letterpress",
   "title": "\"Le Guignon,\" page from Poésies",
   "id": "http://api.artsmia.org/objects/6064",
-  "room": "Not on View",
+  "room": "G359",
   "style": "20th century",
   "marks": " ",
   "text": "",
-  "description": null,
+  "description": "page from the book: Poésies",
   "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
   "accession_number": "B.81.13.1"

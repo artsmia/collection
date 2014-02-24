@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
   "life_date": "Italian, 1890 - 1964",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Giorgio Morandi",
   "dated": "1942",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LR: [Morandi 1942]",
   "text": "",
   "description": "Still life.",
+  "provenance": "",
   "creditline": "Bequest of Putnam Dana McMillan",
-  "accession_number": "61.36.23                                  ",
-  "artist": "Giorgio Morandi"
+  "accession_number": "61.36.23"
 }

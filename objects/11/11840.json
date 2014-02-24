@@ -5,6 +5,7 @@
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bruce Davidson",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Untitled [man with umbrella, jumping]",
   "id": "http://api.artsmia.org/objects/11840",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.57                                  ",
-  "artist": "Bruce Davidson"
+  "accession_number": "93.70.57"
 }

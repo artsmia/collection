@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BStephanie Torbert",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stephanie Torbert",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stephanie B. Torbert",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Edition; Date \\\"Stephanie Torbert\\\", in pencil, bottom edge on bac",
   "text": "",
   "description": "tall brick building with 3 windows on each level at L; green grid with clouds and blue sky at R",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "2002.24                                   ",
-  "artist": "Stephanie B. Torbert"
+  "accession_number": "2002.24"
 }

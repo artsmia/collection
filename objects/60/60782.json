@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "Cameroon",
@@ -13,12 +14,12 @@
   "medium": "Beads, cloth, plant fibers, wood",
   "title": "Bottle Stopper",
   "id": "http://api.artsmia.org/objects/60782",
-  "room": "Not on View",
+  "room": "G236",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "stopper in the shape of an animal with a long tail; fused legs coming together to form bottle insert; beaded overall in blue and white with shell facial features",
+  "provenance": "",
   "creditline": "Gift of George W. Rickey in memory of Edith L. Rickey",
-  "accession_number": "2001.272.27                               ",
-  "artist": ""
+  "accession_number": "2001.272.27"
 }

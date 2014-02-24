@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gordon Parks",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gordon Parks",
   "life_date": "American, 1912-2006",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gordon Parks",
   "dated": "1948",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Red Jackson, Harlem Gang Leader",
   "id": "http://api.artsmia.org/objects/3751",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Inscription\r\n[Trapped in abandoned building by a r ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "88.72.2                                   ",
-  "artist": "Gordon Parks"
+  "accession_number": "88.72.2"
 }

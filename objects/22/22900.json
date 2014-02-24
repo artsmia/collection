@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Barbara Karant",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Barbara Karant",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "purple tile bathroom",
+  "provenance": "",
   "creditline": "Gift of Barbara Karant",
-  "accession_number": "81.71                                     ",
-  "artist": "Barbara Karant"
+  "accession_number": "81.71"
 }

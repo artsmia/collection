@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BWillem de Kooning Revocable Trust %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BWillem de Kooning Revocable Trust %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born The Netherlands), 1904-1997",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Willem de Kooning",
   "dated": "1948",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LR in black: [de Kooning]",
   "text": "The forms of <I>Night</I> are rich with suggestion. Some vaguely resemble human anatomy, while others recall architecture. These ambiguous shapes seem to float and jostle on the canvas. <I>Night</I> belongs to a series of abstract black-and-white paintings--inspired by de Kooning's late-night walks in New York--that express the spirit and texture of the modern metropolis. The broken brushwork and areas of scraping and reworking suggest the nervous energy of urban life--or the inner turmoil of the artist.\r\n\r\nDe Kooning was one of the most emotionally expressive Abstract Expressionists and an important influence on younger gestural painters.",
   "description": "Abstraction.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund and The Ethel Morrison Van Derlip Fund",
-  "accession_number": "63.36                                     ",
-  "artist": "Willem de Kooning"
+  "accession_number": "63.36"
 }

@@ -5,11 +5,12 @@
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nancy Rexroth",
   "dated": "1973",
   "culture": null,
   "country": "United States",
   "continent": "North America",
-  "dimension": "",
+  "dimension": null,
   "medium": "Gelatin silver print",
   "title": "Mountain, Carpenter, Ohio",
   "id": "http://api.artsmia.org/objects/12753",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "curving gravel road at L with trees in distance; grass at R",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2000.110.7                                ",
-  "artist": "Nancy Rexroth"
+  "accession_number": "2000.110.7"
 }

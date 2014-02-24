@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BKenneth Noland %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BKenneth Noland %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Kenneth Noland",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature Stamped signature, verso",
   "text": "Kenneth Noland is a leading proponent of Color Field painting, which emerged from Abstract Expressionism. In the late 1940s, Noland attended Black Mountain College in North Carolina, where he studied color theory and painting with Josef Albers and Ilya Bolotowsky, two pioneers of 20th-century geometric abstraction. Their influence is apparent in many of Noland's paintings and prints, which typically feature precise geometric arrangements defined by fields or bands of flat, solid color. \r\n\r\nNoland's screenprint was published in a portfolio of 30 prints, multiples, and photographs that also included the work of such prominent artists as Donald Judd, Sol LeWitt, Ellsworth Kelly, Roy Lichtenstein, Robert Rauschenberg, and Cy Twombly.\r\n",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.79.146.16                               ",
-  "artist": "Kenneth Noland"
+  "accession_number": "P.79.146.16"
 }

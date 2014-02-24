@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1867-1947",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre Bonnard",
   "dated": "1900",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Decorative binding by Georges Crette, French, 1893-1969. Binding: gray morocco with inlaid rose morocco, gilt and blind fillets, and gilt lettering. Doublures of rose silk, with paste paper guards; all edges gilt. Matching chemise and slipcase.",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.85.1",
-  "artist": "Pierre Bonnard"
+  "accession_number": "B.85.1"
 }

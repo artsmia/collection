@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3BRed Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Walker Art Center",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "image of doughnut girl making doughnuts at the discount store",
+  "provenance": "",
   "creditline": "Gift of Michael and Rosalyn Baker",
-  "accession_number": "2003.219.19                               ",
-  "artist": "Walker Art Center"
+  "accession_number": "2003.219.19"
 }

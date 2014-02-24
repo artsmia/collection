@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2011 The Murray-Holman Family Trust %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2011 The Murray-Holman Family Trust %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1940-2007",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Elizabeth Murray",
   "dated": "1986-1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Edition; Signature; Date\r\n\r\nIn graphite, LL:  37/7 In graphite LL",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Diane and Richard Cohen",
-  "accession_number": "2000.237.5                                ",
-  "artist": "Elizabeth Murray"
+  "accession_number": "2000.237.5"
 }

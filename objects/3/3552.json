@@ -1,11 +1,12 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Eames Office",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eames Office",
   "life_date": "American, 1907-1978",
   "nationality": "American",
   "role": "Artist",
-  "dated": "c. 1950?1955",
+  "artist": "Charles Eames",
+  "dated": "c. 1950–1955",
   "culture": null,
   "country": "United States",
   "continent": "North America",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Side Chair, molded birch plywood",
+  "provenance": "",
   "creditline": "Gift of Don and Bev Smith",
-  "accession_number": "87.33.1.2",
-  "artist": "Charles Eames"
+  "accession_number": "87.33.1.2"
 }

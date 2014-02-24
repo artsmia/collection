@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BGoldbeck Co.",
+  "image_copyright": "%26Acirc%3B%26copy%3BGoldbeck Co.",
   "life_date": "American, 1892 - 1986",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Eugene Omar Goldbeck",
   "dated": "1922",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "85.110                                    ",
-  "artist": "Eugene Omar Goldbeck"
+  "accession_number": "85.110"
 }

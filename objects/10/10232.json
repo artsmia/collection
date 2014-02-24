@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of John V. Sigford",
   "life_date": "American, 1913 - 1973",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John V. Sigford",
   "dated": "c. 1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lillian A. Sigford",
-  "accession_number": "83.61                                     ",
-  "artist": "John V. Sigford"
+  "accession_number": "83.61"
 }

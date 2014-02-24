@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "11th century BCE",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Chariot Finial with Bird",
   "id": "http://api.artsmia.org/objects/1111",
-  "room": "Not on View",
+  "room": "G214",
   "style": "11th century BCE",
   "marks": " ",
   "text": "",
   "description": "The cylindrical base of this bird is lower than that of the companion pole top (50.46.91). In other respects the scored flanges, S-shaped horns, and openings in the body, it is very similar. This example has a pellet in the body, however, thus serving as a rattle -- or a bell. Patina grey-green.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.46",
-  "artist": ""
+  "accession_number": "50.46.46"
 }

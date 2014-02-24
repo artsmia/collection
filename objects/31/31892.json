@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Jan Saudek. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jan Saudek. All rights reserved.",
   "life_date": "Czech, born 1935",
   "nationality": "Czech",
   "role": "Artist",
+  "artist": "Jan Saudek",
   "dated": "1984",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription in blue ink, LR quadrant: [Jan Saudek]",
   "text": "",
   "description": "shoulders and back of head of figure in front, facing open window in front of blotchy wall; blotchy walls next to window on interior",
+  "provenance": "",
   "creditline": "Gift of Steven Nordman",
-  "accession_number": "99.229.15",
-  "artist": "Jan Saudek"
+  "accession_number": "99.229.15"
 }

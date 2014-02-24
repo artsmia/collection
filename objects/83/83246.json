@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Ende",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Ende",
   "life_date": "Israeli, born 1945",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Michael Ende",
   "dated": "c. 1985",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Marks ",
   "text": "",
   "description": "small domed brick bldg. with 9 windows atop ring; \\\"V\\\" shapes connect bldg. to ring at sides; 4 silver birds at bottom edges of ring; gold chain",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.32",
-  "artist": "Michael Ende"
+  "accession_number": "2003.228.32"
 }

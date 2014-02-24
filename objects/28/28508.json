@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLida Moser%2C Photographer",
+  "image_copyright": "%26Acirc%3B%26copy%3BLida Moser%2C Photographer",
   "life_date": "American, born 1920",
   "nationality": null,
   "role": "Artist",
+  "artist": "Lida Moser",
   "dated": "May 13, 1974",
   "culture": null,
   "country": "Unknown",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "94.30.7                                   ",
-  "artist": "Lida Moser"
+  "accession_number": "94.30.7"
 }

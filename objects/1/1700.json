@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "2nd century",
   "culture": "Roman",
   "country": "Roman",
-  "continent": "",
+  "continent": null,
   "dimension": "32 in. (81.28 cm)",
   "medium": "Marble",
   "title": "Tondo: Portrait of a Young Noblewoman",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The half-figure relief was a common form used for Roman funerary sculpture. Here the deceased is depicted with a veil over her head signifying piety. Holes drilled in her ear lobes show that this figure once wore earrings which, together with the large size of the relief, indicate that the deceased came from a wealthy family.\r\n<P>During the century following the reign of the emperor Augustus (27 B.C.-14 A.D.) the depiction of a maternal figure was also a moral statement, reflecting his program aimed at restoring ancient Roman virtues. A series of laws were passed to promote good moral behavior and to encourage marriage, curb adultery and divorce, and increase the birth rate.",
   "description": "tondo; tomb relief",
+  "provenance": "",
   "creditline": "Gift of funds from the Morse Foundation",
-  "accession_number": "68.9.4                                    ",
-  "artist": ""
+  "accession_number": "68.9.4"
 }

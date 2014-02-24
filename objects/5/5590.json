@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Atelier Robert Doisneau",
+  "image_copyright": "%26Acirc%3B%26copy%3B Atelier Robert Doisneau",
   "life_date": "French, 1912 - 1994",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Doisneau",
   "dated": "1953",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.34",
-  "artist": "Robert Doisneau"
+  "accession_number": "98.144.34"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BBruce Nauman %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BBruce Nauman %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bruce Nauman",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature In pen: [B. Nauman]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Francisca S. Winston Fund, by exchange",
-  "accession_number": "P.70.68.4                                 ",
-  "artist": "Bruce Nauman"
+  "accession_number": "P.70.68.4"
 }

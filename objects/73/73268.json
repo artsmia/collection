@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Antony Jakob Goedkint",
   "dated": "1678-1703",
   "culture": null,
   "country": "The Netherlands",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.17,685",
-  "artist": "Antony Jakob Goedkint"
+  "accession_number": "P.17,685"
 }

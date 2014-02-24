@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, on back: [ in pencil, on back: [Toby Old 1988]",
   "text": "",
   "description": "2 men seated across a table from each other, eating; older, heavy-set man at left has white hair and wears striped sweater; man at right wears plaid shirt",
+  "provenance": "",
   "creditline": "Gift of Michael K. Hsu and Anonymous Gift, by exchange",
-  "accession_number": "2002.1.18                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.18"
 }

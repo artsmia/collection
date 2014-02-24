@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "1898 - 1944",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yamakawa Shu_ho_",
   "dated": "December 1927",
   "culture": null,
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/62465",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "[????????] {Sho_wa ninen ju_nigatsu saku} [??] {Shu_ho_}",
-  "text": "",
+  "marks": "[昭和二年十二月作] {Sho_wa ninen ju_nigatsu saku} [秀峰] {Shu_ho_}",
+  "text": "Yamakawa Shūhō was a painter, print designer, and illustrator from Kyoto who lived and worked in Tokyo. His paintings were accepted to an impressive 17 exhibitions organized by the Ministry of Education. Only a few woodblock prints by Shūhō exist and the series Women in Four Settings is considered amongst his best. Each image is associated with one of the four seasons. Here, winter is indicated by snow-covered nandina branches with red berries, a motif that decorates the woman’s blue kimono. \r\n\r\nThis print is featured in the MIA exhibition and publication \"Seven Masters: 20th Century Japanese Woodblock Prints from the Wells Collection\".",
   "description": "head and shoulders of a woman with a black sleeve held up to her PR cheek; orange striped, and blue and orange organic design, collars",
+  "provenance": "",
   "creditline": "Gift of Ellen and Fred Wells",
-  "accession_number": "2002.161.55",
-  "artist": "Yamakawa Shu_ho_"
+  "accession_number": "2002.161.55"
 }

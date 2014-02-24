@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "life_date": "Austrian, 1886 - 1980",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Oskar Kokoschka",
   "dated": "1914",
   "culture": null,
   "country": "Austria",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David Draper Dayton Fund, 1958",
-  "accession_number": "P.12,593",
-  "artist": "Oskar Kokoschka"
+  "accession_number": "P.12,593"
 }

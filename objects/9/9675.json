@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1856",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Wood, pigment",
   "title": "Odd Fellows ceremonial ark",
   "id": "http://api.artsmia.org/objects/9675",
-  "room": "G304",
+  "room": "G331",
   "style": "19th century",
   "marks": " ",
   "text": "",
   "description": "box with knob feet painted red with blue, black and gold decoration; central decoration is three rings, with a crossed axe and staff; three rings and eye on either end",
+  "provenance": "",
   "creditline": "Gift of Dolly J. Fiterman in honor of the Donor's Family, Everett, Sheldon and Ann Janssen",
-  "accession_number": "96.130.3.12                               ",
-  "artist": ""
+  "accession_number": "96.130.3.12"
 }

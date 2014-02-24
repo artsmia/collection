@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 6th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Tomb figurine, one of a pair, representing a Civil dignitary. the type is individualized, and the features indicate that this person was of Khotanese origin. The figure made in a mould, is solid. The grey clay body, covered with a white slip, is painted with unfired pigments flesh tints, green, blue, gold. Details of the figure were completed by hand.",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "50.3.2                                    ",
-  "artist": ""
+  "accession_number": "50.3.2"
 }

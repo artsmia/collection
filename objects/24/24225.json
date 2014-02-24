@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Alfred Stieglitz %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "life_date": "American, 1864 - 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alfred Stieglitz",
   "dated": "1895",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Stieglitz\\'s mother\\'s first cousin",
+  "provenance": "",
   "creditline": "Gift of Curtis Squire, Inc.",
-  "accession_number": "83.85.1                                   ",
-  "artist": "Alfred Stieglitz"
+  "accession_number": "83.85.1"
 }

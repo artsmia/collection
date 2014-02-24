@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Christopher Faust",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christopher Faust",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Faust",
   "dated": "1994",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature; Title ",
   "text": "",
   "description": "night time; train car under loading bay of grain elevators; back ladder of a train car in foreground;company building with yard light on in middle ground",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "96.135.1",
-  "artist": "Christopher Faust"
+  "accession_number": "96.135.1"
 }

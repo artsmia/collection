@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Christopher Faust",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christopher Faust",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Faust",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature; Title ",
   "text": "",
   "description": "night time; large freighter moving in a narrow canal lined on both sides by grain elevators",
+  "provenance": "",
   "creditline": "Gift of funds from Morgan Clifford",
-  "accession_number": "95.99",
-  "artist": "Christopher Faust"
+  "accession_number": "95.99"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Hans Finsler",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Hans Finsler",
   "life_date": "Swiss, 1891 - 1972",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Hans Finsler",
   "dated": "20th century",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "roller coaster tracks at night",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "94.101.9",
-  "artist": "Hans Finsler"
+  "accession_number": "94.101.9"
 }

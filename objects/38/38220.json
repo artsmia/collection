@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gyorgy Kepes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gyorgy Kepes",
   "life_date": "American, (born Hungary) 1906 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gyorgy Kepes",
   "dated": "1948",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC on mount, in pencil: [Gyorgy Kepes 1948]",
   "text": "",
   "description": "stick silhouette against fluted glass backdrop; crystals at top, ULQ",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.117",
-  "artist": "Gyorgy Kepes"
+  "accession_number": "2013.35.117"
 }

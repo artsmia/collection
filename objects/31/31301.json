@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1981 Len Jenshel",
   "life_date": "born 1949",
   "nationality": null,
   "role": "Artist",
+  "artist": "Len Jenshel",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date ",
   "text": "",
   "description": "plant with red flower on windowsill; Corinthian column in left 1/3 of image",
+  "provenance": "",
   "creditline": "Gift of John and Beverly Rollwagen",
-  "accession_number": "99.203.12                                 ",
-  "artist": "Len Jenshel"
+  "accession_number": "99.203.12"
 }

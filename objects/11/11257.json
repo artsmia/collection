@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BDarryl S. Curran",
+  "image_copyright": "%26Acirc%3B%26copy%3BDarryl S. Curran",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Darryl Curran",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts Photography Purchase Grant",
-  "accession_number": "77.39.3                                   ",
-  "artist": "Darryl Curran"
+  "accession_number": "77.39.3"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Ilya Bolotowsky %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Ilya Bolotowsky %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, (born Russia) 1907 - 1981",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ilya Bolotowsky",
   "dated": "1922-1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature in pencil: [Ilya Bolotowsky]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Heinze Schultz",
-  "accession_number": "P.70.105                                  ",
-  "artist": "Ilya Bolotowsky"
+  "accession_number": "P.70.105"
 }

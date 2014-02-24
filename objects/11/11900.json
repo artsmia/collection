@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJoe Deal",
+  "image_copyright": "%26Acirc%3B%26copy%3BJoe Deal",
   "life_date": "American, 1947 - 2010",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joe Deal",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council The Minneapolis Institute of Arts",
-  "accession_number": "81.72.10                                  ",
-  "artist": "Joe Deal"
+  "accession_number": "81.72.10"
 }

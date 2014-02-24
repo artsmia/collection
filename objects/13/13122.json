@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Paschal Donaldson",
   "dated": "1848",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "book",
   "title": "The Odd-Fellows Minstrel",
   "id": "http://api.artsmia.org/objects/13122",
-  "room": "G304",
+  "room": "G331",
   "style": "19th century",
   "marks": " ",
   "text": "",
   "description": "red-stamped card binding with gilt decorations and page edges; color and gilt lithograph in front",
+  "provenance": "",
   "creditline": "Gift of Christopher Monkhouse in honor of Dolly Fiterman",
-  "accession_number": "2000.232.12                               ",
-  "artist": "Paschal Donaldson"
+  "accession_number": "2000.232.12"
 }

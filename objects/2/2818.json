@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1650",
   "culture": null,
   "country": "India",
@@ -18,7 +19,7 @@
   "marks": "Verso: 43/5 written in pencil at lower left ",
   "text": "",
   "description": "illustration from a Ramayana series; Bikaner",
+  "provenance": "",
   "creditline": "Gift from Catherine and Ralph Benkaim",
-  "accession_number": "81.116.9",
-  "artist": ""
+  "accession_number": "81.116.9"
 }

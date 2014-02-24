@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
   "life_date": "American, 1912 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harry Callahan",
   "dated": "c. 1956",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "collage of faces in pink",
+  "provenance": "",
   "creditline": "Gift of Emanuel M. Brotman",
-  "accession_number": "80.69.7",
-  "artist": "Harry Callahan"
+  "accession_number": "80.69.7"
 }

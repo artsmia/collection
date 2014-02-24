@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "life_date": "Austrian, 1886 - 1980",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Oskar Kokoschka",
   "dated": "1966",
   "culture": null,
   "country": "Austria",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\nsee Signed in graphite: [Oskar Kokoschka]",
   "text": "",
   "description": "housed in leather clamshell box inside folding covers",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2000.126",
-  "artist": "Oskar Kokoschka"
+  "accession_number": "2000.126"
 }

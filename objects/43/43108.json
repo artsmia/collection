@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, titled, numbered LR: [Sam Gilliam \\'81]\r\nLC: [\\\"Coffee Thyme\\\"]\r\nLL: [",
   "text": "",
   "description": "Abstract expressionist composition; predominantly red with areas of blue",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "P.92.5.56",
-  "artist": "Sam Gilliam"
+  "accession_number": "P.92.5.56"
 }

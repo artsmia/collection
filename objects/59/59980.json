@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1915-1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Motherwell",
   "dated": "1966",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription\r\n\r\nOn verso:  Beside the Se Signed in red pencil at L.R.: [R Motherwell]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Council",
-  "accession_number": "P.87.10                                   ",
-  "artist": "Robert Motherwell"
+  "accession_number": "P.87.10"
 }

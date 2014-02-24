@@ -5,6 +5,7 @@
   "life_date": "American, born 1897",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Hazel Moore",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "White Bowl",
   "id": "http://api.artsmia.org/objects/17014",
-  "room": "EXS",
+  "room": "G378",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "Still life. Interior.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "44.29                                     ",
-  "artist": "Hazel Moore"
+  "accession_number": "44.29"
 }

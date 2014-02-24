@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "German, born 1960",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Zoltán Jokáy",
   "dated": "1998",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "color coupler print",
   "title": "Untitled",
   "id": "http://api.artsmia.org/objects/63359",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "woman with a square face wearing a light blue sleeveless dress and black slides, with a black bag over her PL shoulder and a cigarette in her PL hand",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "2002.181.7                                ",
-  "artist": "Zoltán Jokáy"
+  "accession_number": "2002.181.7"
 }

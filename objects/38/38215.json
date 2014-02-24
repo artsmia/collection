@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Andr%26eacute%3B Kert%26eacute%3Bsz",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Andr%26Atilde%3B%26copy%3B Kert%26Atilde%3B%26copy%3Bsz",
   "life_date": "American (born Austria-Hungary), 1894 - 1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "André Kertész",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/38215",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature LRC below image on mount, in pencil: [A Kertéz]",
   "text": "",
   "description": "aerial view of a street with horse-drawn cart at center, turning corner; figure on bicycle behind cart; figure on motorbike, URQ; another horse at left center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.14",
-  "artist": "André Kertész"
+  "accession_number": "2013.35.14"
 }

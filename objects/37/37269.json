@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1954",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Dr. Albert Schweitzer and Leper, Lambaréné; French Equatorial Africa",
   "id": "http://api.artsmia.org/objects/37269",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature and Title on image lower left in black: [W. EUGENE SMITH]; b",
   "text": "",
   "description": "Dr. Schweitzer in foreground; black man seated on ledge above and behind; wood beams at top and left side",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.203                               ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "2007.35.203"
 }

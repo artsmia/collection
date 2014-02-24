@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Claire Trotter",
   "life_date": "American, born 1913",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Claire Trotter",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Carl Sheppard",
-  "accession_number": "76.13                                     ",
-  "artist": "Claire Trotter"
+  "accession_number": "76.13"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1840 - 1916",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Odilon Redon",
   "dated": "1911",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on paper attached to linen",
   "title": "Silence",
   "id": "http://api.artsmia.org/objects/1539",
-  "room": "G359",
+  "room": "G351",
   "style": "20th century",
   "marks": "Signature LR: [Odilon Redon]",
   "text": "",
   "description": "Being Silent",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
-  "accession_number": "63.74",
-  "artist": "Odilon Redon"
+  "accession_number": "63.74"
 }

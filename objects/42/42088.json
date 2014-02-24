@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "British, 1804 - 1881",
   "nationality": "British",
   "role": "Artist",
+  "artist": "John Gould",
   "dated": "1862-1873",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
-  "creditline": "The Sdwight and Helen Minnich Collection, The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.19,985                                  ",
-  "artist": "John Gould"
+  "provenance": "",
+  "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
+  "accession_number": "P.19,985"
 }

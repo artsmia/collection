@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artist Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artist Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1880-1960",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Edgar Brandt",
   "dated": "c. 1923",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "polished cast-iron with fountain motif; two removable feet; originally backed with a fine wire mesh screen",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.20a-c",
-  "artist": "Edgar Brandt"
+  "accession_number": "98.276.20a-c"
 }

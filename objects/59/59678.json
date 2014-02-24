@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B2014 Donald Sultan %2F Artists Rights Society %28ARS%29%2C New York",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B2014 Donald Sultan %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Donald Sultan",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition, Chop Mark\r\n\r\nsee Signed  Signed and dated in pencil",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.80.41",
-  "artist": "Donald Sultan"
+  "accession_number": "P.80.41"
 }

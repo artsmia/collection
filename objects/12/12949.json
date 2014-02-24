@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Ralph Eugene Meatyard courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1925 - 1972",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ralph Eugene Meatyard",
   "dated": "1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "rough wall painted with an image of a woman; paint flakes lost at woman\\'s face and upper torso",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2000.239                                  ",
-  "artist": "Ralph Eugene Meatyard"
+  "accession_number": "2000.239"
 }

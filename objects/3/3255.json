@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
   "life_date": "American, 1912 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harry Callahan",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "New York",
   "id": "http://api.artsmia.org/objects/3255",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "84.125.2",
-  "artist": "Harry Callahan"
+  "accession_number": "84.125.2"
 }

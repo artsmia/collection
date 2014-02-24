@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "valid",
   "image_copyright": "",
-  "life_date": "Japan, 1504 - 1589",
-  "nationality": null,
+  "life_date": "Japanese, 1504 - 1589",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Sesson Shūkei",
   "dated": "16th century",
   "culture": null,
   "country": "Japan",
@@ -17,8 +18,8 @@
   "style": "16th century",
   "marks": "Signature ",
   "text": "",
-  "description": "Six-fold Painted Screen, one of pair.",
+  "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Mr. and Mrs. Richard P. Gale",
-  "accession_number": "65.7.2",
-  "artist": "Sesson Shu_kei"
+  "accession_number": "65.7.2"
 }

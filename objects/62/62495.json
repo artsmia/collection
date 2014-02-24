@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "c. 1832",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "10 x 7 1/4 in. (25.4 x 18.4 cm) (image, sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Japanese Nightingale and Spray of Roses",
   "id": "http://api.artsmia.org/objects/62495",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "poem(haiku or kyo_ka) zen Hokusai Iitsu hitsu",
   "text": "",
   "description": "nishiki-e, kacho_-ga",
+  "provenance": "",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
-  "accession_number": "P.13,910                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "P.13,910"
 }

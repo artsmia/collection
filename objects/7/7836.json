@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Nicolas Africano",
+  "image_copyright": "%26Acirc%3B%26copy%3B Nicolas Africano",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nicholas Africano",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, and chop mark LL: [Nicolas Africano 1989]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "P.92.6.24",
-  "artist": "Nicholas Africano"
+  "accession_number": "P.92.6.24"
 }

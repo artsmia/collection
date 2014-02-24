@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Lisette Model",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lisette Model",
   "life_date": "American (born Austria), 1901 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisette Model",
   "dated": "1949",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription, Edition and Stamp\r\n\r\nULC o on back, in pencil: [Lisette Model]",
   "text": "",
   "description": "seated older woman wearing a flower hat with a net veil covering her face, a ruffled lace blouse and a floral corsage; woman is holding a pair of white gloves and a clutch purse with a fur coat draped over her arm",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2002.230.1",
-  "artist": "Lisette Model"
+  "accession_number": "2002.230.1"
 }

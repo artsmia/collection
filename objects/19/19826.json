@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJerry N. Uelsmann",
+  "image_copyright": "%26Acirc%3B%26copy%3BJerry N. Uelsmann",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerry N. Uelsmann",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.48                                     ",
-  "artist": "Jerry N. Uelsmann"
+  "accession_number": "72.48"
 }

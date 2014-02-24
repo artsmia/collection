@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1915",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Bronze",
   "title": "Head of Marguerite",
   "id": "http://api.artsmia.org/objects/11463",
-  "room": "Not on View",
+  "room": "G377",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "About a third of Matisse’s sculptures are portrait busts or heads. This one depicts his daughter Marguerite. For a long time she served as an assistant in Matisse’s studio, and was frequently depicted by the artist up until her marriage in 1923.  Its forceful modeling, asymmetrical gaunt head, and evocative fusion of bust and pedestal endow Head of Marguerite with a unique expressionistic power among Matisse’s sculpted portraits. ",
   "description": "cast no. 7; head",
+  "provenance": "",
   "creditline": "Gift of the Dayton-Hudson Corporation",
-  "accession_number": "71.9.2",
-  "artist": "Henri Matisse"
+  "accession_number": "71.9.2"
 }

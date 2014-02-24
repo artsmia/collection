@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F BONO%2C Norway",
   "life_date": "Norwegian, 1863 - 1944",
   "nationality": "Norwegian",
   "role": "Artist",
+  "artist": "Edvard Munch",
   "dated": "1903",
   "culture": null,
   "country": "Norway",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark\r\n\r\nsee Signed Signed in pencil: [E. Munch]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Francisca S. Winston Fund and The Miscellaneous Works of Art Purchase Fund, 1957",
-  "accession_number": "P.12,559",
-  "artist": "Edvard Munch"
+  "accession_number": "P.12,559"
 }

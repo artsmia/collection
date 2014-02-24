@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B JoAnn Verburg",
+  "image_copyright": "%26Acirc%3B%26copy%3B JoAnn Verburg",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "JoAnn Verburg",
   "dated": "1990",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "person reading in bed and holding book up in front of face; Kodak film text across top; image area edge irregular",
+  "provenance": "",
   "creditline": "The McClurg Photography Purchase Fund",
-  "accession_number": "2004.17.1                                 ",
-  "artist": "JoAnn Verburg"
+  "accession_number": "2004.17.1"
 }

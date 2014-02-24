@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michael Desjardins",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Desjardins",
   "life_date": "French, born 1932",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Michael Desjardins",
   "dated": "20th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Title and Stamp title verso",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.25",
-  "artist": "Michael Desjardins"
+  "accession_number": "91.123.25"
 }

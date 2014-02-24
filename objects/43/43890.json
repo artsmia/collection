@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The Cyril Power Estate %2F Bridgeman Art Library",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Cyril Power Estate %2F Bridgeman Art Library",
   "life_date": "English, 1872 - 1951",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Cyril E. Power",
   "dated": "c. 1930",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nsee Signed\r\n\r\nTitle,  Signed in pencil, lower left: [Cyril E. Power]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "P.98.5.2",
-  "artist": "Cyril E. Power"
+  "accession_number": "P.98.5.2"
 }

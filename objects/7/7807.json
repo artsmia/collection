@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Spanish, 1893 - 1983",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Joan Miró",
   "dated": "1948",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Reverend Richard L. Hillstrom",
-  "accession_number": "P.91.23.1",
-  "artist": "Joan Miró"
+  "accession_number": "P.91.23.1"
 }

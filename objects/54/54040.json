@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "16th century",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
-  "creditline": null,
-  "accession_number": "P.84.77.40                                ",
-  "artist": "Artist Unknown"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "P.84.77.40"
 }

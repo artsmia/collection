@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Staffordshire, England, est. 1759",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wedgwood",
   "dated": "c. 1820",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "Teapot with lid, ceramic, English, XIXc  cat. card dims 3-3/4 x 5-3/8 x 8-1/8\\'",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "23.8.57a,b                                ",
-  "artist": "Wedgwood"
+  "accession_number": "23.8.57a,b"
 }

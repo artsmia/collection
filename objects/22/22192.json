@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BGraham Howe",
+  "image_copyright": "%26Acirc%3B%26copy%3BGraham Howe",
   "life_date": "American, born Australia 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Graham Howe",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of The Minneapolis Institute of Arts",
-  "accession_number": "80.24.8                                   ",
-  "artist": "Graham Howe"
+  "accession_number": "80.24.8"
 }

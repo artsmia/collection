@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Richard Erdman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Erdman",
   "life_date": "American, born 1952",
   "nationality": null,
   "role": "Artist",
+  "artist": "Richard Erdman",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "8 rectangular marble blocks attached in a vertical format; smooth polished sides with roughly chiseled ends",
+  "provenance": "",
   "creditline": "Gift of Dolly J. Fiterman",
-  "accession_number": "98.240",
-  "artist": "Richard Erdman"
+  "accession_number": "98.240"
 }

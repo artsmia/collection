@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BMiriam Grossman Cohen %2F Courtesy Howard Greenberg Gallery",
+  "image_copyright": "%26Acirc%3B%26copy%3BMiriam Grossman Cohen %2F Courtesy Howard Greenberg Gallery",
   "life_date": "American, 1913 - 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sidney Grossman",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp; Title ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "94.101.1",
-  "artist": "Sidney Grossman"
+  "accession_number": "94.101.1"
 }

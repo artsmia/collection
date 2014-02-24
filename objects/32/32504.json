@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1767(8) - 1809",
   "nationality": null,
   "role": "Artist",
+  "artist": "Jacques Barraband",
   "dated": "1801-1806",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "First edition. Volume one of two.",
+  "provenance": "",
   "creditline": "Gift of the Morrison Family",
-  "accession_number": "B.91.6.1                                  ",
-  "artist": "Jacques Barraband"
+  "accession_number": "B.91.6.1"
 }

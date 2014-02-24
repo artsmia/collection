@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Bob Adelman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Bob Adelman",
   "life_date": "American, born 1930",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Adelman",
   "dated": "1930-2000",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Periodical reference \\'Exposition Internationale de Photographie Regards sur la terre des hommes / International Exhibition of Photography The Camera as Witness,\\' Montreal Expo 67, 1967.",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.30",
-  "artist": "Robert Adelman"
+  "accession_number": "91.123.30"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BAlessi S. P. A. - Crusinallo - Italy",
+  "image_copyright": "%26Acirc%3B%26copy%3BAlessi S. P. A. - Crusinallo - Italy",
   "life_date": "Austrian, born 1934",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Hans Hollein",
   "dated": "1981-1983",
   "culture": null,
   "country": "Austria",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "tray is designed to resemble an aircraft carrier with a large landing strip sanded into its surface",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "84.86.1                                   ",
-  "artist": "Hans Hollein"
+  "accession_number": "84.86.1"
 }

@@ -5,6 +5,7 @@
   "life_date": "American, born 1951",
   "nationality": null,
   "role": "Artist",
+  "artist": "David Parker",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Garbage Picker, Arequipa, Peru",
   "id": "http://api.artsmia.org/objects/32228",
-  "room": "G280",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature; Date; Title in pencil, at top edge on back: [Garbage picker, A",
   "text": "Lack of access to safe sources of drinking water and proper sanitation facilities contribute to the great majority of deaths in children from diarrheal diseases. In developing countries these diseases are the leading cause of death in children and account for nearly 1.5 million deaths worldwide annually.",
   "description": "child wearing short sleeved sweater and knit hat, holding flowers up to his mouth and standing up to his waist in dirty plastic bottles",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "99.233.45                                 ",
-  "artist": "David Parker"
+  "accession_number": "99.233.45"
 }

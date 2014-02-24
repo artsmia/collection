@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1923",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Kollwitz reworked the motif of the bereaved parents multiple times as both a print and a sculpture. She planned the sculpture to serve as a memorial to her son Peter who was killed in World War I. She struggled with this image and wrote in her journal, \"Yet again I am not finished with the <I>War<I> series. Done the sheet 'Parents' over again. Suddenly it looks entirely bad to me. Far too bright and hard and distinct. Pain is totally dark.\" Yet in the end, Kollwitz succeeded in capturing the grief of the bereaved parents that she knew only too well.",
   "description": "Plate 3",
+  "provenance": "",
   "creditline": "The Print and Drawing Seminar Fund",
-  "accession_number": "P.71.142",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "P.71.142"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1867-1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Lloyd Wright",
   "dated": "c. 1903",
   "culture": null,
   "country": "United States",
@@ -17,8 +18,8 @@
   "style": "Arts and Crafts",
   "marks": " ",
   "text": "",
-  "description": null,
+  "description": "molded and hand-hammered; of spherical form, worked in répeussé with four circular designs with crenelated edge, within elliptical and lozenge frame borders, raised on four spreading rectangular feet",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.3                                  ",
-  "artist": "Frank Lloyd Wright"
+  "accession_number": "98.276.3"
 }

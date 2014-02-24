@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BAnn Marsden",
+  "image_copyright": "%26Acirc%3B%26copy%3BAnn Marsden",
   "life_date": "American, born 1956",
   "nationality": null,
   "role": "Artist",
+  "artist": "Ann Marsden",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "man wearing a black hat, a dark shirt, and a pattered scarf around his neck",
+  "provenance": "",
   "creditline": "Gift of Lisa Nebenzahl-Ahl in memory of C. Michael O'Brian",
-  "accession_number": "96.136                                    ",
-  "artist": "Ann Marsden"
+  "accession_number": "96.136"
 }

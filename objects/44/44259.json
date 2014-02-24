@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1895 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Samuel Chamberlain",
   "dated": "1928",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "In LL:  11/50 In LR:  Samuel Chamberlain",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Charlotte Griffin Weld",
-  "accession_number": "P.99.8.4",
-  "artist": "Samuel Chamberlain"
+  "accession_number": "P.99.8.4"
 }

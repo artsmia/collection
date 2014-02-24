@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1884 - 1974",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Albert Marie Dunoyer de Segonzac",
   "dated": "20th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [A. Dunoyer de Segonzac], in ink, lower left",
   "text": "",
   "description": "one large tree and two smaller ones in a landscape",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
-  "accession_number": "81.128                                    ",
-  "artist": "André Albert Marie Dunoyer de Segonzac"
+  "accession_number": "81.128"
 }

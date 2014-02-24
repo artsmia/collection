@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Ende",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Ende",
   "life_date": "Israeli, born 1945",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Michael Ende",
   "dated": "c. 1985",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "miniature pointing finger on \\\"stem\\\" with leaves and berries; black ribbon attached with sliding pendant at center with leaves on one side and Hebrew text on opposite side; stationary pendant at end with leaves",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.1",
-  "artist": "Michael Ende"
+  "accession_number": "2003.228.1"
 }

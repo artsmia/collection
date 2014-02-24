@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image": "valid",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Known for his character, \"The Little Tramp,\" English-born Sir Charles Spencer Chaplin (1889-1977) was a founder of United Artists Corporation and an international star. He left the United States the year this portrait was made and did not return for twenty years, when he accepted a special Academy Award.\r\nThis image is from a group of eleven prints in the \"Minneapolis Portfolio,\" which Avedon produced in 1970 on the occasion of his exhibition at the Minneapolis Institute of Arts. The show included photographs of Marilyn Monroe and Dwight D. Eisenhower, among others. Avedon said about this work, \"I want to make portraits as intense as people. I want your intensity to pass into me, go through the camera and become a recognition to a stranger.\"  \r\n\tUnlike the sharp focus maintained by August Sander, Avedon chose to use a blurred image for Chaplin's portrait. Chaplin's grin may be seen as a devilish reference to his self-imposed horns, a clever reflection of the American media's disapproval of his bohemian lifestyle. Notice how neutral backgrounds and even lighting allows Avedon's portraits of Chaplin and Buster Keaton to pop.\r\n",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "81.94.1                                   ",
-  "artist": "Richard Avedon"
+  "accession_number": "81.94.1"
 }

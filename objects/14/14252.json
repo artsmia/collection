@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "London, c.1743-1784",
   "nationality": null,
   "role": "Artist",
+  "artist": "Chelsea Porcelain Manufactory",
   "dated": "c. 1763",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "LOCATED 1996-11/12",
   "description": "vase, ceramic-porcelain, one of a pair of old Chelsea vases comprising of three figures of children in dancing attitudes and playing musical instruments around a vase ornamented, delicately painted flowers and encrusted with colored flowers",
+  "provenance": "",
   "creditline": "Gift of Mrs. Sumner T. McKnight",
-  "accession_number": "25.395.2                                  ",
-  "artist": "Chelsea Porcelain Manufactory"
+  "accession_number": "25.395.2"
 }

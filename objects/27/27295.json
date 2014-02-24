@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Buck Hoy",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Buck Hoy",
   "life_date": "American, 1901-1980",
   "nationality": "American, 1901-1980",
   "role": "Artist",
+  "artist": "Buck Hoy",
   "dated": "c. 1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred W. and Jane Bell Edwards",
-  "accession_number": "91.128.14",
-  "artist": "Buck Hoy"
+  "accession_number": "91.128.14"
 }

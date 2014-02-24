@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Stuart Nielsen",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart Nielsen",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart Nielsen",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Abstraction. Screen made up of five segments",
+  "provenance": "",
   "creditline": "Gift of Cowles Media Company/Minneapolis Star and Tribune",
-  "accession_number": "84.55a-e",
-  "artist": "Stuart Nielsen"
+  "accession_number": "84.55a-e"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1924",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Lithograph",
   "title": "Standing Odalisque with a Plate of Fruit",
   "id": "http://api.artsmia.org/objects/8848",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "Standing Odalisque attests to Matisse’s ability in many of his lithographs of the 1920s to fuse refined modeling and tonal effects with decorative design. Note how the shape of the sensuously modeled torso finds an echo in the flat arch motifs behind. The luxurious ornamental borders of the wall complement the floral design of the skirt worn by the odalisque. Even the judiciously arranged still-life objects seem to appear as components of the profusely patterned Oriental rug.\r\n \r\nThis impression is one of ten artist’s proofs of a lithograph subsequently issued in a numbered edition of fifty. ",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "P.92.10.8",
-  "artist": "Henri Matisse"
+  "accession_number": "P.92.10.8"
 }

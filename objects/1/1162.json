@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1907",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Boy with Butterfly Net",
   "id": "http://api.artsmia.org/objects/1162",
-  "room": "G371",
+  "room": "G377",
   "style": "20th century",
   "marks": "Signature and Date LR in green: [Henri-Matisse, 1907]",
-  "text": "Visiting Italy in 1907, Henri Matisse was deeply impressed by the frescoes of Giotto, the 14th-century artist who ushered in the Italian Renaissance. Matisse especially liked Giotto's simplified volumes and restricted primary colors. In response to his Italian experiences, Matisse set about making Fauvism more dramatic and monumental. Here, he created a spare landscape composed of flat areas of land and sky with a single grand figure. The boy was modeled after the nephew of Leo and Gertrude Stein.",
+  "text": "Visiting Italy in 1907, Henri Matisse was deeply impressed by the frescoes of Giotto, the 14th-century artist who ushered in the Italian Renaissance. Matisse especially liked Giotto's simplified volumes and restricted primary colors. In response to his Italian experiences, Matisse set about making his paintings more dramatic and monumental. Here, he created a spare landscape composed of flat areas of land and sky with a single grand figure. \r\n\r\nThe model is Allan Stein, nephew of Leo and Gertrude Stein who were important patrons of Matisse. His casual summer clothing and butterfly net suggest a slice of contemporary life. But the figure also seems to inhabit a mythic, timeless realm, and his stiff pose recalls ancient Greek sculptures of athletes and gods. The large scale of the painting reinforces this sense of elevation and magnifies its daring simplicity.",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "51.18",
-  "artist": "Henri Matisse"
+  "accession_number": "51.18"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date Signed, dated LR: [Sam Gilliam \\'87]\r\n",
   "text": "",
   "description": "Artist\\'s multiple",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.88.12.12",
-  "artist": "Sam Gilliam"
+  "accession_number": "P.88.12.12"
 }

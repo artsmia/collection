@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1909",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/50143",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature Signature: [A. Lepère]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Miss Eileen Bigelow and Mrs. O. H. Ingram, in memory of their mother, Mrs. Alice F. Bigelow, 1965",
-  "accession_number": "P.13,293",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "P.13,293"
 }

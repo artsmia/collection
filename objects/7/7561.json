@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Roy Lichtenstein",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Roy Lichtenstein",
   "life_date": "American, 1923 - 1997",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roy Lichtenstein",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Edition; Inscription\r\n\r\nNumbered in pencil, verso: Unsigned as issued",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.79.146.13",
-  "artist": "Roy Lichtenstein"
+  "accession_number": "P.79.146.13"
 }

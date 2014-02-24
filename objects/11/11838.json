@@ -5,6 +5,7 @@
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bruce Davidson",
   "dated": "1966-1968",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "East 100th Street",
   "id": "http://api.artsmia.org/objects/11838",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "89.125.9                                  ",
-  "artist": "Bruce Davidson"
+  "accession_number": "89.125.9"
 }

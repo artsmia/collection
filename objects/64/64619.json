@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "July 1855",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "13 7/16 x 8 13/16 in. (34.2 x 22.4 cm) (image)\r\n14 3/8 x 9 15/16 in. (36.5 x 25.2 cm) (sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "No. 46 Historic Remain of Shiratori Tomb, Sho_no",
   "id": "http://api.artsmia.org/objects/64619",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Hiroshige hitsu",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.189                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.189"
 }

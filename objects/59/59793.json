@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1999",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition\r\n\r\nin pencil, bott in pencil, LRC on back: [Toby Old 1999]",
   "text": "",
   "description": "man, seen from back, wearing a g-string, with tattoos over his body; photographer setting up a tripod in front of him, at L; bus in street behind figures",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.58                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.58"
 }

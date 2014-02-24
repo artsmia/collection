@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1368-1644",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Foo dog, one of a pair; three-color glaze; holds ball under paw",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "76.72.52.1                                ",
-  "artist": ""
+  "accession_number": "76.72.52.1"
 }

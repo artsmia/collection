@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Staffordshire, England, est. 1759",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wedgwood",
   "dated": "18th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Cup and saucer, ceramic, English, XVIIIc  cat. card dims cup 2-1/8 x 4\\' saucer 1x5-1/8   Holiday Traditions, Charleston Drawing Room",
-  "creditline": null,
-  "accession_number": "23.8.55a,b                                ",
-  "artist": "Wedgwood"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "23.8.55a,b"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Louise Bourgeois %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Louise Bourgeois %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American (b. France),1911-2010",
   "nationality": null,
   "role": "Artist",
+  "artist": "Louise Bourgeois",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "In graphite on LL:  6/35\r\n In graphite on LR:  Louise Bourgeois 95",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of John E. Andrus III",
-  "accession_number": "2000.125                                  ",
-  "artist": "Louise Bourgeois"
+  "accession_number": "2000.125"
 }

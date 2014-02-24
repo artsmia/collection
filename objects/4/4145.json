@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BCharly Herscovici%2C Brussels %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BCharly Herscovici%2C Brussels %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Belgian, 1898 - 1967",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "René Magritte",
   "dated": "1948",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscriptions LR: [Magritte]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "91.132",
-  "artist": "René Magritte"
+  "accession_number": "91.132"
 }

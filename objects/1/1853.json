@@ -5,6 +5,7 @@
   "life_date": "French (Paris, Nice), 1836 - 1932",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jules Chéret",
   "dated": "c. 1900",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/1853",
   "room": "Not on View",
   "style": "19th-20th century",
-  "marks": null,
+  "marks": "Signature [Chéret], lower left",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Bruce B. Dayton Fund",
-  "accession_number": "71.27                                     ",
-  "artist": "Jules Chéret"
+  "accession_number": "71.27"
 }

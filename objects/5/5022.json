@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
   "life_date": "American, 1906 - 1970",
   "nationality": "American",
   "role": "Artist",
+  "artist": "A. Aubrey Bodine",
   "dated": "1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Stamp ",
   "text": "",
   "description": "farm between two bodies of water; town off in the distance at far side of water; rain clouds fill the sky",
+  "provenance": "",
   "creditline": "Gift of Jennifer B. Bodine",
-  "accession_number": "96.153.3",
-  "artist": "A. Aubrey Bodine"
+  "accession_number": "96.153.3"
 }

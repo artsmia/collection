@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "Photograph by Robert Capa%2C %26copy%3BCornell Capa",
+  "image_copyright": "Photograph by Robert Capa%2C %26Acirc%3B%26copy%3BCornell Capa",
   "life_date": "American (born Hungary), 1913 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Capa",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp, Handwriting ",
   "text": "",
   "description": "men in destroyed building",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "94.101.2                                  ",
-  "artist": "Robert Capa"
+  "accession_number": "94.101.2"
 }

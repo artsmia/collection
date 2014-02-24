@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1669 - 1773",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Hubert François Gravelot",
   "dated": "18th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David M. Daniels Fund",
-  "accession_number": "67.70.1                                   ",
-  "artist": "Hubert François Gravelot"
+  "accession_number": "67.70.1"
 }

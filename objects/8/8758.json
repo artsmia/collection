@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1879 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Frélaut",
   "dated": "June 1926",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Signature; Date [A Monsieur et Madame Pillsbury/Souvenirs respecte",
   "text": "",
   "description": "two trees and some shrubbery in foreground, field with livestock in middle ground, building in background",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury, 1958",
-  "accession_number": "89.104",
-  "artist": "Jean Frélaut"
+  "accession_number": "89.104"
 }

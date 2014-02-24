@@ -5,6 +5,7 @@
   "life_date": "French, 1821 - 1868",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Charles Meryon",
   "dated": "1853",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/50573",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Inscription and watermark\r\nInscription: [tiré par  ",
   "text": "From his perch high atop Notre-Dame cathedral in Paris, this gargoyle lusts after the city's blood. Such was the vision of the print's creator, Charles Meryon. Disturbed by the city's rapid modernization in the 1850s, Meryon saw the vampire as a symbol of stupidity, cruelty, lust, and hypocrisy. The Paris he surveys is not the \"city of light,\" but rather a forbidding place of blackened windows, shadowy streets, and ominous black birds. Meryon's dark visions foreshadowed his eventual collapse into mental illness, which prematurely ended the career of one of the era's most gifted printmakers.",
   "description": "",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.3,007                                   ",
-  "artist": "Charles Meryon"
+  "accession_number": "P.3,007"
 }

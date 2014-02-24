@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate A.J. Patel",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate A.J. Patel",
   "life_date": "Indian, c.1907 - 1961",
   "nationality": "Indian",
   "role": "Artist",
+  "artist": "A. J. Patel",
   "dated": "c. 1938",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title LR; LL",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred W. and Jane Bell Edwards",
-  "accession_number": "91.128.12",
-  "artist": "A. J. Patel"
+  "accession_number": "91.128.12"
 }

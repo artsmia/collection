@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Cotton, embroidery, indigo dye",
   "title": "Apron",
   "id": "http://api.artsmia.org/objects/28466",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "blue lining; wide embroidered border in red, orange, blue and white surrounding white indigo dyed band, surrounding second, narrower embroidered band, surrounding central square of white, indigo dyed",
+  "provenance": "",
   "creditline": "The Helen Jones Fund for Asian Art",
-  "accession_number": "94.54.3                                   ",
-  "artist": ""
+  "accession_number": "94.54.3"
 }

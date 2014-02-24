@@ -5,6 +5,7 @@
   "life_date": "German, 1897 - 1977",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Conrad Felixmüller",
   "dated": "1918",
   "culture": null,
   "country": "Germany",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/55131",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature in pencil: [Felixmüller]; on stone: [FM]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
-  "accession_number": "P.13,901                                  ",
-  "artist": "Conrad Felixmüller"
+  "accession_number": "P.13,901"
 }

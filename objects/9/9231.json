@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
   "life_date": "Swiss (born Germany), 1930 - 1998",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Dieter Roth",
   "dated": "1980",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Inscription\r\nprinted on cover of  In graphite, bottom center recto: [Dieter Roth 80]",
   "text": "",
   "description": "\\\"Speedy Drawing\\\" from the book \\\"246 Little Clouds.\\\"",
+  "provenance": "",
   "creditline": "Gift of Donald G. Lehn (given through the Martin Ackerman Foundation)",
-  "accession_number": "80.84                                     ",
-  "artist": "Dieter Roth"
+  "accession_number": "80.84"
 }

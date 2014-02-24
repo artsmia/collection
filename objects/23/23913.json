@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eve Sonneman",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Eve Sonneman",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date, Signature ",
   "text": "",
   "description": "diptych; previously listed as a cibachrome color photograph",
+  "provenance": "",
   "creditline": "Gift of Estelle Schwartz",
-  "accession_number": "83.104.2                                  ",
-  "artist": "Eve Sonneman"
+  "accession_number": "83.104.2"
 }

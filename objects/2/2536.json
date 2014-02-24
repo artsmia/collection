@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "life_date": "British, 1867 - 1956",
   "nationality": "British (Wales)",
   "role": "Artist",
+  "artist": "Sir Frank William Brangwyn",
   "dated": "c. 1912",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Monogram LL in orange-red: [FB]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Regis Collection",
-  "accession_number": "78.2                                      ",
-  "artist": "Sir Frank William Brangwyn"
+  "accession_number": "78.2"
 }

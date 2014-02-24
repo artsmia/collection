@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1861 - 1944",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Aristide Maillol",
   "dated": "1935",
   "culture": null,
   "country": "France",
@@ -17,8 +18,8 @@
   "style": "20th century",
   "marks": " ",
   "text": "",
-  "description": null,
+  "description": "Published in L\\'Art d\\'aimer (The Art of Love), by Les Frères Gonin, Lausanne",
+  "provenance": "",
   "creditline": "Gift of Bruce D. Dayton",
-  "accession_number": "P.83.82",
-  "artist": "Aristide Maillol"
+  "accession_number": "P.83.82"
 }

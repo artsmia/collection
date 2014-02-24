@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJohn Chamberlain %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BJohn Chamberlain %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1927-2011",
   "nationality": null,
   "role": "Artist",
+  "artist": "John Chamberlain",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition LL: [1/4 T.P. Chamberlain]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "P.79.146.3                                ",
-  "artist": "John Chamberlain"
+  "accession_number": "P.79.146.3"
 }

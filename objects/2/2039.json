@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Copyright Charles Biederman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Copyright Charles Biederman",
   "life_date": "American, 1906 - 2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Biederman",
   "dated": "1950",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. John P. Anderson",
-  "accession_number": "74.29",
-  "artist": "Charles Biederman"
+  "accession_number": "74.29"
 }

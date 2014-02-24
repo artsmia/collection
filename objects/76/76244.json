@@ -5,12 +5,13 @@
   "life_date": "French",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Guy Arnoux",
   "dated": "20th century",
   "culture": null,
   "country": "France",
   "continent": "Europe",
-  "dimension": "",
-  "medium": "",
+  "dimension": null,
+  "medium": null,
   "title": "Les Femmes de ce Temps",
   "id": "http://api.artsmia.org/objects/76244",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.22,076.1                                ",
-  "artist": "Guy Arnoux"
+  "accession_number": "P.22,076.1"
 }

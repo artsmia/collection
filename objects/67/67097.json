@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1826 - 1869",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige II",
   "dated": "March 1857",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "13 3/8 x 8 7/8 in. (34 x 22.5 cm) (image)\r\n14 9/16 x 9 13/16 in. (37 x 25 cm) (sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Evening Snow at Hira",
   "id": "http://api.artsmia.org/objects/67097",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "yes(poem) Hiroshige ga",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.321                                ",
-  "artist": "Hiroshige II"
+  "accession_number": "96.146.321"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gerome Kamrowski",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gerome Kamrowski",
   "life_date": "American, 1914-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gerome Kamrowski",
   "dated": "1959",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date UR: [G. KAMROWSKI-A2-1959]",
   "text": "",
   "description": "Abstraction.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "88.65.2",
-  "artist": "Gerome Kamrowski"
+  "accession_number": "88.65.2"
 }

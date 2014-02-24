@@ -5,6 +5,7 @@
   "life_date": "German, 1792 - 1875",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Johann Adam Klein",
   "dated": "1819",
   "culture": null,
   "country": "Germany",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/63122",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Date and Inscription\r\n\r\nsee Signed LRC, in black: [J.A. Klein fet Müchen 1819.]",
   "text": "",
   "description": "4 men in a landscape, from L to R:  man wearing an overcoat and top hat, leaning on a walking stick; man in an overcoat with a bag, holding a large umbrella; seated man drawing; man in a cap with a knapsack, a canteen and a bag",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Council",
-  "accession_number": "2002.184.2                                ",
-  "artist": "Johann Adam Klein"
+  "accession_number": "2002.184.2"
 }

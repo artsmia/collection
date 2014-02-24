@@ -5,6 +5,7 @@
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "AET Company, Ltd",
   "dated": "Date Unknown",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/52796",
   "room": "Not on View",
   "style": null,
-  "marks": null,
+  "marks": "\\\"A.E.T. Cº LIMITED\\\", stamped, on back ",
   "text": "",
   "description": "brown ground with pumpkin design of circles, bars and curves",
+  "provenance": "",
   "creditline": "Gift of Nancy M. Rose",
-  "accession_number": "2001.173.13                               ",
-  "artist": "AET Company, Ltd"
+  "accession_number": "2001.173.13"
 }

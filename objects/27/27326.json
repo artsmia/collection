@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Roman Vishniac %2F International Center of Photography%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Roman Vishniac %2F International Center of Photography%2C New York",
   "life_date": "American (b. Russia), 1897 - 1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roman Vishniac",
   "dated": "1934",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title verso in pencil",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.124.6",
-  "artist": "Roman Vishniac"
+  "accession_number": "91.124.6"
 }

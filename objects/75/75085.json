@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Dover Publications, Inc.",
   "dated": "Date Unknown",
   "culture": null,
   "country": null,
   "continent": null,
   "dimension": null,
-  "medium": "",
+  "medium": null,
   "title": "Durer's Rhinocerous",
   "id": "http://api.artsmia.org/objects/75085",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "\r\n\r\n\r\n\r\n ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.14,081X                                 ",
-  "artist": "Dover Publications, Inc."
+  "accession_number": "P.14,081X"
 }

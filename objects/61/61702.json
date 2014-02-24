@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "c. 1835-1836",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "8 7/8 x 13 15/16 in. (22.6 x 35.4 cm) (image)\r\n9 11/16 x 15 3/16 in. (24.6 x 38.6 cm) (sheet)\r\n14 x 17 15/16 in. (35.5 x 45.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Evening Snow at Uchikawa",
   "id": "http://api.artsmia.org/objects/61702",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "yes(kyo_ka) ",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
-  "accession_number": "P.13,919                                  ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "P.13,919"
 }

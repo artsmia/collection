@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1860-1945",
   "nationality": "French",
   "role": "Artist",
+  "artist": "René Jules Lalique",
   "dated": "1900",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [Lalique]",
   "text": "",
   "description": "comb, gold and enamel set with diamonds, from special design made and executed by Lalique of Paris for Mr. Howard Mansfield in 1900",
+  "provenance": "",
   "creditline": "Gift of Mrs. Howard Mansfield",
-  "accession_number": "25.17                                     ",
-  "artist": "René Jules Lalique"
+  "accession_number": "25.17"
 }

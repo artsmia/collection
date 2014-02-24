@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michael A. Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael A. Smith",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael A. Smith",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date in pencil, on mountboard below image: [1979/Michae",
   "text": "",
   "description": "street scene; mountain top LLQ; \\'No Turns\\' sign top center; bridge across image",
+  "provenance": "",
   "creditline": "Gift of Kitzenberg Family Dental Group",
-  "accession_number": "97.184.13",
-  "artist": "Michael A. Smith"
+  "accession_number": "97.184.13"
 }

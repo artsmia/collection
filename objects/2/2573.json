@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "2001 %26copy%3B Bridget Riley%2C All Rights Reserved Courtesy%2C Karsten Schubert%2C London",
+  "image_copyright": "2001 %26Acirc%3B%26copy%3B Bridget Riley%2C All Rights Reserved Courtesy%2C Karsten Schubert%2C London",
   "life_date": "British, born 1931",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Bridget Riley",
   "dated": "1966",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Op art",
+  "provenance": "",
   "creditline": "Gift of Willard M. Bollenbach, Jr.",
-  "accession_number": "78.74.1",
-  "artist": "Bridget Riley"
+  "accession_number": "78.74.1"
 }

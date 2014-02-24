@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1720",
   "culture": null,
   "country": "India",
@@ -18,7 +19,7 @@
   "marks": "Verso: 69/4 (or 9? 4 or 9 is circled) ",
   "text": "",
   "description": "illustration from a Ramayana series; Bundi",
+  "provenance": "",
   "creditline": "Gift of Ralph and Catherine Benkaim",
-  "accession_number": "81.116.11",
-  "artist": ""
+  "accession_number": "81.116.11"
 }

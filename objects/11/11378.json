@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1968",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition in pencil, recto, LRC of sheet: [Henri Cartier-Bre",
   "text": "",
   "description": "woman seated on rug reading book; PR leg extended; head is out of image; L97.290.2.1-4 in red portfolio",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "97.110.2.4                                ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "97.110.2.4"
 }

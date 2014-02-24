@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Arthur Siegel",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Arthur Siegel",
   "life_date": "American, 1913 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Arthur Siegel",
   "dated": "1939 (printed 1977)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein in honor of Carroll T. Hartwell",
-  "accession_number": "91.124.1",
-  "artist": "Arthur Siegel"
+  "accession_number": "91.124.1"
 }

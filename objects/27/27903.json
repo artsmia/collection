@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Donald Scott Harter",
   "life_date": "American, 1950-1993",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Donald Scott Harter",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on back, in ink: [Donald Scott Harter]",
   "text": "",
   "description": "12 gelatin silver prints bound as a flipbook",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "92.151                                    ",
-  "artist": "Donald Scott Harter"
+  "accession_number": "92.151"
 }

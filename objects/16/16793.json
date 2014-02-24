@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1662-1722",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silk",
   "title": "Buddhist robe",
   "id": "http://api.artsmia.org/objects/16793",
-  "room": "Not on View",
+  "room": "G280",
   "style": "17th-18th century",
   "marks": " ",
   "text": "",
   "description": "Buddhist priest robe of fine quality k\\'ossu woven in squares and strips of different color to represent the rags of Buddha in his mendicant days.  Yellow is predominant, with pieces of red, black, gold, green, blue, white, brown, and pale blue.  Designs include Buddhist symbols, sacred vessels, cursive profile dragons, loose clouds, chilin, elephant, peonies, phoenix, Foo dog, and imperial five-clawed dragon in shades of blue, red, green, pink, puce, black, olive-green, yellow, and mauve.  The border contains a running design of large peonies and leaves.  Note some of the weaving done with peacock feathers.  Lining of burnt orange damask of large cloud pattern.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "42.8.132",
-  "artist": ""
+  "accession_number": "42.8.132"
 }

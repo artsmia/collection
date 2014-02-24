@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Art %26copy%3B Elizabeth Catlett %2F Licensed by VAGA%2C New York%2C NY",
+  "image_copyright": "Art %26Acirc%3B%26copy%3B Elizabeth Catlett %2F Licensed by VAGA%2C New York%2C NY",
   "life_date": "American and Mexican, 1915-2012",
   "nationality": "MAmerican and Mexican (dual citizen)",
   "role": "Artist",
+  "artist": "Elizabeth Catlett",
   "dated": "1952, printed 1968-1970",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Color linocut",
   "title": "Sharecropper",
   "id": "http://api.artsmia.org/objects/7890",
-  "room": "G316",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature Signed in pencil, LR:  [E Catlett]; signed with in",
   "text": "Elizabeth Catlett's best known print, Sharecropper is a sympathetic portrayal of a former slave working as a farmer in the post-Civil War South. Sharecroppers typically worked the fields of former plantation lands in exchange for a portion of the harvest, usually cotton. The granddaughter of slaves herself, Catlett emphasizes the woman's hard life, highlighting her weathered skin, simple clothing, and weary expression. Though freed from captivity, sharecroppers were routinely exploited by their former masters, who continued to control their land and by extension, their workers.",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.97.1",
-  "artist": "Elizabeth Catlett"
+  "accession_number": "P.97.1"
 }

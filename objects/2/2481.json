@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BBob Firth %2F Firthphotobank.com",
+  "image_copyright": "%26Acirc%3B%26copy%3BBob Firth %2F Firthphotobank.com",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bob Firth",
   "dated": "October 1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "77.12                                     ",
-  "artist": "Bob Firth"
+  "accession_number": "77.12"
 }

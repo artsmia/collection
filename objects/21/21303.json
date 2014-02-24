@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st-5th century",
   "culture": "Roman",
   "country": "Roman",
-  "continent": "",
+  "continent": null,
   "dimension": "2 3/8 x 1 5/8 x 1 5/8 in. (6 x 4.1 x 4.13 cm)",
   "medium": "Glass",
   "title": "Globular Vessel",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "clear globular vessel, glass",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. I. D. Fink",
-  "accession_number": "76.73.52                                  ",
-  "artist": ""
+  "accession_number": "76.73.52"
 }

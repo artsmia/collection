@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription, and Edition\r\n on back at bottom edge, in pencil: [Standard Devia",
   "text": "",
   "description": "man wearing a mask over his eyes, dressed in sheer sequined short dress, holding sheer shawl behind him with outstretched arms, emerging from a giant clown\\'s mouth",
+  "provenance": "",
   "creditline": "Given in memory of Ted Hartwell",
-  "accession_number": "2008.91.1                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2008.91.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Kawase Hasui",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Kawase Hasui",
   "life_date": "Japanese, 1883 - 1957",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kawase Hasui",
   "dated": "Early Autumn 1920",
   "culture": null,
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/67488",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "Taisho_ 11 nen shoshu_(early autumn) [??] {Hasui}",
+  "marks": "Taisho_ 11 nen shoshu_(early autumn) [巴水] {Hasui}",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Margaret McMillan Webber Estate",
-  "accession_number": "51.40.2",
-  "artist": "Kawase Hasui"
+  "accession_number": "51.40.2"
 }

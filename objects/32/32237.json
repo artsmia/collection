@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BAndy Warhol Foundation for the Visual Arts %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BAndy Warhol Foundation for the Visual Arts %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1928 - 1987",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andy Warhol",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription\r\n\r\nInscribed in brown marke LC in reddish-brown ink: [Andy Warhol] and in blac",
   "text": "",
   "description": "drawing is on the first title page and bound in book entitled, \\'The Philosophy of Andy Warhol (From A to B and Back Again)\\', Harcourt-Brace-Jovanovich, New York, 1975.",
+  "provenance": "",
   "creditline": "Gift of Terrence D. Curley",
-  "accession_number": "99.239",
-  "artist": "Andy Warhol"
+  "accession_number": "99.239"
 }

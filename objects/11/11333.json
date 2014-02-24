@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BChristopher Cardozo",
+  "image_copyright": "%26Acirc%3B%26copy%3BChristopher Cardozo",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Cardozo",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaenous matching funds",
-  "accession_number": "76.69.3                                   ",
-  "artist": "Christopher Cardozo"
+  "accession_number": "76.69.3"
 }

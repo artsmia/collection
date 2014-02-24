@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B David J.G. Oxtoby",
+  "image_copyright": "%26Acirc%3B%26copy%3B David J.G. Oxtoby",
   "life_date": "British, 1938",
   "nationality": "British",
   "role": "Artist",
+  "artist": "David J. G. Oxtoby",
   "dated": "1967",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David M. Daniels Fund",
-  "accession_number": "67.45",
-  "artist": "David J. G. Oxtoby"
+  "accession_number": "67.45"
 }

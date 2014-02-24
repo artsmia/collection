@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1826 - 1869",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige II",
   "dated": "December 1863",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "14 1/4 x 9 15/16 in. (36.2 x 25.2 cm) (image)\r\n14 3/8 x 10 3/16 in. (36.5 x 25.8 cm) (sheet)\r\n22 1/16 x 18 in. (56 x 45.7 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Jewel River of  Ko_ya in Kii Province",
   "id": "http://api.artsmia.org/objects/65161",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "poem(waka) Hiroshige ga",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.315                                ",
-  "artist": "Hiroshige II"
+  "accession_number": "96.146.315"
 }

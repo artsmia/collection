@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Joel Janowitz",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Janowitz",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Janowitz",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.92.7",
-  "artist": "Joel Janowitz"
+  "accession_number": "P.92.7"
 }

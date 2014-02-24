@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate Adolph Gottlieb %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Adolph Gottlieb %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1903 - 1974",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Adolph Gottlieb",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Mark in pencil: [Adolph Gottlieb]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Alan Fingerhut",
-  "accession_number": "P.86.34                                   ",
-  "artist": "Adolph Gottlieb"
+  "accession_number": "P.86.34"
 }

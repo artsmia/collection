@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1870 - 1943",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Maurice Denis",
   "dated": "1898",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "IMarice Denis was a theoretician of the Nabis, and it was he who wrote the group's manifesto in 1890. The intimate, symbolist, and often religious quality of his work led his friends to call him the \"Nabi of the beautiful icons.\" He completed paintings, prints, illustrated books, theater sets and programs, as well as designs for various decorative art objects. He was deeply in love with his wife Marthe Meurier, who figures prominently in many of his compositions. This color lithograph is from the <I>Amour<I> series of twelve prints that form a love poem to Marthe.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
-  "accession_number": "P.70.30",
-  "artist": "Maurice Denis"
+  "accession_number": "P.70.30"
 }

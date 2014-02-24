@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Paul Ickovic",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paul Ickovic",
   "life_date": "English, born 1944",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Paul Ickovic",
   "dated": "1980",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Signature; Edition ",
   "text": "",
   "description": "black and white photo of pruned trees in front of wall",
+  "provenance": "",
   "creditline": "Gift of Jane Tuckerman",
-  "accession_number": "98.98.3",
-  "artist": "Paul Ickovic"
+  "accession_number": "98.98.3"
 }

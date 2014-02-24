@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "Cameroon",
   "continent": "Africa",
   "dimension": "42 1/2 x 35 5/8 in. (107.95 x 90.49 cm) (image, sheet)",
-  "medium": null,
+  "medium": "Cotton; appliqué",
   "title": "Fon's Tunic",
   "id": "http://api.artsmia.org/objects/5112",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "applique embroidery; black ground with white and red applique patterning",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "96.6.1                                    ",
-  "artist": ""
+  "accession_number": "96.6.1"
 }

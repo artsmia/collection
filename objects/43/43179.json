@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart Nielsen",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart Nielsen",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart Nielsen",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, Dated, Numbered, and Titled LR: [Nielsen 1983]\r\nLL: [A.P. 1/4]\r\nLL: [Water Gaz",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "P.92.5.16",
-  "artist": "Stuart Nielsen"
+  "accession_number": "P.92.5.16"
 }

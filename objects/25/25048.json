@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BRobert Cumming %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BRobert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Cumming",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date LR: [Cumming 1985]",
   "text": "",
   "description": "Symetrical composition featuring a large central object resembling a light bulb",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "86.115.3                                  ",
-  "artist": "Robert Cumming"
+  "accession_number": "86.115.3"
 }

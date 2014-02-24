@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Alexander Leventon",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Alexander Leventon",
   "life_date": "American, born Russia, 1895-1950",
   "nationality": null,
   "role": "Artist",
+  "artist": "Alexander Leventon",
   "dated": "1929",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Title; Signature; Date ",
   "text": "",
   "description": "young boy looking up and to his right, he is wearing a heavy coat and fur hat",
+  "provenance": "",
   "creditline": "Gift of Kaori Hashimoto and Tom Jacobson",
-  "accession_number": "2000.55",
-  "artist": "Alexander Leventon"
+  "accession_number": "2000.55"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "life_date": "German, 1887 - 1948",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Kurt Schwitters",
   "dated": "1922",
   "culture": null,
   "country": "Netherlands",
@@ -17,8 +18,8 @@
   "style": "20th century",
   "marks": " ",
   "text": "",
-  "description": null,
+  "description": "red and black ink on off-white paper; black images and text, including \\\"Kleine Dada Soirée\\\" in URC over the word \\\"Dada\\\" (five times)",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.36                                ",
-  "artist": "Kurt Schwitters"
+  "accession_number": "P.98.33.36"
 }

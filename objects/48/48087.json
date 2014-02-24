@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Henry Moore Foundation. All Rights Reserved %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Henry Moore Foundation. All Rights Reserved %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British, 1898 - 1986",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Henry Moore",
   "dated": "1967",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date Signed, dated on the plate only",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Samuel Sachs II",
-  "accession_number": "P.79.78                                   ",
-  "artist": "Henry Moore"
+  "accession_number": "P.79.78"
 }

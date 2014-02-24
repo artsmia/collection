@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Inscription; Stamps ",
   "text": "",
   "description": "barefoot standing man with fuzzy grey hair holding two fish in his PR hand; tree branch above",
+  "provenance": "",
   "creditline": "Gift of Donald Waldoch",
-  "accession_number": "99.182.9                                  ",
-  "artist": ""
+  "accession_number": "99.182.9"
 }

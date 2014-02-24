@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 1970 The Estate of Diane Arbus%2C LLC",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1970 The Estate of Diane Arbus%2C LLC",
   "life_date": "American, 1923 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Diane Arbus",
   "dated": "1966 (printed 1971)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.109.5                                  ",
-  "artist": "Diane Arbus"
+  "accession_number": "72.109.5"
 }

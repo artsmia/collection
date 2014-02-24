@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881-1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Fernand Léger",
   "dated": "1950",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "63 lithographs (34 color and 29 black and white) & 22 illumination and decoration; binding: Arches paper with color litho on front and b&w litho on back; endpapers: Arches white wove; slip case: laid paper on firm support",
+  "provenance": "",
   "creditline": "The Bruce B. Dayton Fund",
-  "accession_number": "B.80.13",
-  "artist": "Fernand Léger"
+  "accession_number": "B.80.13"
 }

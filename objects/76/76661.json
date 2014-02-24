@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875-1947",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Albert Marquet",
   "dated": "1937",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, inscription and stamp\r\nbottom edge in p LLC, in the plate: [Marquet]",
   "text": "",
   "description": "view of a curve in a city street with three vehicles; shadowy figures standing and walking, some with umbrellas; bare trees and rain",
+  "provenance": "",
   "creditline": "Gift of Mary and Robyn Campbell",
-  "accession_number": "2003.156.22",
-  "artist": "Albert Marquet"
+  "accession_number": "2003.156.22"
 }

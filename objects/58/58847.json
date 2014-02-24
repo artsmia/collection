@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "life_date": "Mexican, 1883 - 1949",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "José Clemente Orozco",
   "dated": "1928",
   "culture": null,
   "country": "Mexico",
@@ -13,12 +14,12 @@
   "medium": "Lithograph",
   "title": "El requiem",
   "id": "http://api.artsmia.org/objects/58847",
-  "room": "G261a",
+  "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature\r\n\r\nsee Signed Signed in pencuil, LR: [Josè Clemente Orozco]; sig",
   "text": "Orozco published these prints as a series, \"Mexico in Revolution\" to supplement his income while living in New York. Both prints were originally part of a series entitled \"Horrores de la Revolución\" (<I>Horrors of the Revolution</I>). However, he chose to rename the suite and select less violent images for his New York audience. \r\n\r\nBoth <I>El Requiem</I> and <I>The Flag</I> illustrate Orozco's contempt for war. Instead of romanticizing the Mexican Revolution's glorious moments, he dwells on its devastating emotional and psychological impact. Orozco's Mexico is not a triumphant, unified nation; rather it is a land of people struggling to survive in the shadow of violence and oppression. In both prints, Orozco depicts anonymous, timeless figures burdened by crippling grief. His roughly sketched lines and heavy shading reinforce the universal feelings of isolation and agony. While his subject is the Mexican Revolution, Orozco's depictions of human suffering transcend national, political, and temporal boundaries.\r\n",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Estate of George W. Morgan, 1958",
-  "accession_number": "P.12,603                                  ",
-  "artist": "José Clemente Orozco"
+  "accession_number": "P.12,603"
 }

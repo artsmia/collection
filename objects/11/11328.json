@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Photograph by Robert Capa%2C %26copy%3BCornell Capa",
+  "image_copyright": "Photograph by Robert Capa%2C %26Acirc%3B%26copy%3BCornell Capa",
   "life_date": "American (born Hungary), 1913 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Capa",
   "dated": "1938",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Inscriptions ",
   "text": "",
   "description": "Asian man wearing round glasses and holding a straw hat with his PR hand and a folded piece of paper in his PL hand; small flag with text behind man\\'s PL hand; matted",
+  "provenance": "",
   "creditline": "Gift of Simon Lowinsky",
-  "accession_number": "99.154                                    ",
-  "artist": "Robert Capa"
+  "accession_number": "99.154"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "Bill Brandt %26copy%3BBill Brandt Archive Ltd.",
+  "image_copyright": "Bill Brandt %26Acirc%3B%26copy%3B Bill Brandt Archive Ltd",
   "life_date": "British, 1904 - 1983",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Bill Brandt",
   "dated": "1952",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nude portrait; page 90 from \\\"Perspectives of Nudes\\\"",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.127                                    ",
-  "artist": "Bill Brandt"
+  "accession_number": "72.127"
 }

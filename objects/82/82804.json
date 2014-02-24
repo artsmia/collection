@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American (born Luxembourg), 1879 - 1973",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Steichen",
   "dated": "(printed 1906)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "64.34.15.11                               ",
-  "artist": "Edward Steichen"
+  "accession_number": "64.34.15.11"
 }

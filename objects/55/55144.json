@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "life_date": "German, 1884 - 1976",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Karl Schmidt-Rottluff",
   "dated": "1919",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Woodcut",
   "title": "Russische Landschaft mit Wasserträger (Russian Landscape with Watercarrier), from the Zehn Holzschnitte (Ten Woodcuts) portfolio",
   "id": "http://api.artsmia.org/objects/55144",
-  "room": "G316",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature in pencil: [S. Rottluff]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Heinz Schultz",
-  "accession_number": "P.69.12                                   ",
-  "artist": "Karl Schmidt-Rottluff"
+  "accession_number": "P.69.12"
 }

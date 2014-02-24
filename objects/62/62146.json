@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Dave Heath%2C Courtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dave Heath%2C Courtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dave Heath",
   "dated": "c. 1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Inscription\r\n\r\nOn back in pencil LL below image in black ink: [Dave Heath]\r\nOn back",
   "text": "",
   "description": "man with bowed head, holding his hat to his stomach and a small American flag to his PL shoulder; man wears a bowtie and overcoat; large cigar in his PL hand",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2002.153.2                                ",
-  "artist": "Dave Heath"
+  "accession_number": "2002.153.2"
 }

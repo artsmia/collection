@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "1847 - 1911",
-  "nationality": null,
+  "life_date": "English, 1847 - 1911",
+  "nationality": "English",
   "role": "Artist",
+  "artist": "Ernest Crofts, N.A.",
   "dated": "19th century",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature E surrounded by a C",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The DeLaittre Fund",
-  "accession_number": "23.50.27                                  ",
-  "artist": "Ernest Crofts, N.A."
+  "accession_number": "23.50.27"
 }

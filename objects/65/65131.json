@@ -5,6 +5,7 @@
   "life_date": "French",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Menard",
   "dated": "1916-1917",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/65131",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature\r\n signed in print; in light brown, LLC: [Andrée Mena",
   "text": "",
   "description": "helmet filled with tobacco products; orange background; text at top and bottom; abstract smoke design in background from lit cigarettes and a cigar at bottom",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.87                                ",
-  "artist": "André Menard"
+  "accession_number": "P.98.33.87"
 }

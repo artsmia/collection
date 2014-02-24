@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stephen Hartman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stephen Hartman",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stephen Hartman",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription verso: [Stephen Hartman 1979/ Untitled/ 74\\' x 37-1",
   "text": "",
   "description": "abstraction on handmade paper on linen support",
+  "provenance": "",
   "creditline": "Gift of the American Academy and Institute of Arts and Letters, the Hassam and Speicher Purchase Fund",
-  "accession_number": "80.61",
-  "artist": "Stephen Hartman"
+  "accession_number": "80.61"
 }

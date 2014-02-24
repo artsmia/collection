@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "restricted": 1,
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881-1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Fernand Léger",
   "dated": "1909",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/773",
   "room": "G367",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature LR in black: [F Léger]",
   "text": "",
   "description": "Cubist still life.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "47.8                                      ",
-  "artist": "Fernand Léger"
+  "accession_number": "47.8"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Jean Mohr",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Jean Mohr",
   "life_date": "Swiss, born 1925",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Jean Mohr",
   "dated": "1925-1991",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.18",
-  "artist": "Jean Mohr"
+  "accession_number": "91.123.18"
 }

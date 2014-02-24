@@ -1,15 +1,16 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
   "life_date": "American, 1925-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Rauschenberg",
   "dated": "1970",
   "culture": null,
   "country": "United States",
   "continent": "North America",
-  "dimension": null,
+  "dimension": "34 1/4 × 26 3/4 in. (87 × 67.95 cm) (image)\r\n43 × 34 in. (109.22 × 86.36 cm) (sheet)",
   "medium": "Color screenprint",
   "title": "Signs",
   "id": "http://api.artsmia.org/objects/7519",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered Signed and dated in pencil, LR: [RAUSCHENBERG 70];",
   "text": "This color screenprint of 1970 is a powerful example of Rauschenberg's assemblage  technique. Originally conceived as the cover for an issue of Time magazine, this now-famous photomontage epitomized Rauschenberg's concern for the state of contemporary American society, something that was vital to much of his work. Using images clipped from contemporary newspapers and magazines, he summarized the politically-charged turbulence of the 1960s with images that included U.S. soldiers on patrol in Vietnam; student anti-war protests; astronaut Buzz Aldrin walking on the moon; legendary blues singer Janis Joplin; and slain American leaders President John F. Kennedy, Senator Robert Kennedy, and the Reverend Martin Luther King. Signs was, according to the artist, \"conceived to remind us of love, terror, violence of the last ten years. Danger lies in forgetting.\"",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from Mr. and Mrs. Russell Cowles",
-  "accession_number": "P.70.96",
-  "artist": "Robert Rauschenberg"
+  "accession_number": "P.70.96"
 }

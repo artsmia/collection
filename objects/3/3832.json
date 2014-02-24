@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Esther Bubley Estate Collection %2F Standard Oil Collection%2C Special Collections%2C University of Louisville",
+  "image_copyright": "%26Acirc%3B%26copy%3B Esther Bubley Estate Collection %2F Standard Oil Collection%2C Special Collections%2C University of Louisville",
   "life_date": "American, 1921-1998",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Esther Bubley",
   "dated": "June 1945",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "89.3",
-  "artist": "Esther Bubley"
+  "accession_number": "89.3"
 }

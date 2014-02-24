@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B 1972 by Edward Ruscha %26amp%3B Mutiples Inc.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B 1972 by Edward Ruscha %26amp%3B Mutiples Inc.",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Ruscha",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nsee Signed Signed and dated in pencil LL: [E. Ruscha 1972]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "P.73.39",
-  "artist": "Edward Ruscha"
+  "accession_number": "P.73.39"
 }

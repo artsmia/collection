@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Fee Schlapper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Fee Schlapper",
   "life_date": "German, born 1927",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Fee Schlapper",
   "dated": "20th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Title ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.23",
-  "artist": "Fee Schlapper"
+  "accession_number": "91.123.23"
 }

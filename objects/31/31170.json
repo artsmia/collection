@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Esther Bubley Estate Collection",
+  "image_copyright": "%26Acirc%3B%26copy%3B Esther Bubley Estate Collection",
   "life_date": "American, 1921-1998",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Esther Bubley",
   "dated": "1947",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Signature; Stamp; Inscriptions ",
   "text": "",
   "description": "train tracks running into distance with rows of train cars filled with ore; steam engine in background near R edge; matted",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "99.103.6",
-  "artist": "Esther Bubley"
+  "accession_number": "99.103.6"
 }

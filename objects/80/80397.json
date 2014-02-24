@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
   "life_date": "American (born Germany), 1893 - 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grosz",
   "dated": "1935",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition\r\n\r\nSee Signed\r\n\r\nNumbered in Signed in black ink on colophon page: [George Gros",
   "text": "",
   "description": "binding: black fabric, gold-stamped lettering; endpapers: white wove; slip case: violet fabric over cardboard, gold-stamped lettering; type: Linotype Janson; 278 pp.",
+  "provenance": "",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
-  "accession_number": "B.87.4.32",
-  "artist": "George Grosz"
+  "accession_number": "B.87.4.32"
 }

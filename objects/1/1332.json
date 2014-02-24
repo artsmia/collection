@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "life_date": "American, 1912 - 1963",
   "nationality": "American",
   "role": "Artist",
+  "artist": "William Baziotes",
   "dated": "1957",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC in reddish-brown: [Baziotes]",
   "text": "",
   "description": "Landscape. Abstraction.",
+  "provenance": "",
   "creditline": "The Julia B. Bigelow Fund",
-  "accession_number": "57.37                                     ",
-  "artist": "William Baziotes"
+  "accession_number": "57.37"
 }

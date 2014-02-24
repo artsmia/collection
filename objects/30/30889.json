@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "c. 1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Label ",
   "text": "",
   "description": "Kneeling man spray painting a mannequin\\'s arm; mannequin legs in foreground",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "98.263.2                                  ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "98.263.2"
 }

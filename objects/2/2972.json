@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Heinz Hajek-Halke",
   "life_date": "German, born 1898",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Heinz Hajek-Halke",
   "dated": "c. 1930",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "81.81                                     ",
-  "artist": "Heinz Hajek-Halke"
+  "accession_number": "81.81"
 }

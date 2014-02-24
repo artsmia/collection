@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Roman Opalka %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Roman Opalka %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Polish, 1931 - 2011",
   "nationality": "Polish",
   "role": "Artist",
+  "artist": "Roman Opalka",
   "dated": "1973",
   "culture": null,
   "country": "Poland",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The M. R. Schweitzer Fund",
-  "accession_number": "74.32                                     ",
-  "artist": "Roman Opalka"
+  "accession_number": "74.32"
 }

@@ -5,6 +5,7 @@
   "life_date": "French, 1803 - 1860",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Alexandre-Gabriel Decamps",
   "dated": "c. 1852",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Job and His Friends",
   "id": "http://api.artsmia.org/objects/575",
-  "room": "Not on View",
+  "room": "G305",
   "style": "19th century",
   "marks": " No signature visible",
   "text": "This painting once belonged to James J. Hill (1838-1916), the Minnesota railroad magnate whose collection of European paintings forms the basis of the Institute's nineteenth-century holdings.",
   "description": "Job discussing with his friends",
+  "provenance": "",
   "creditline": "Gift of Mrs. Erasmus C. Lindley",
-  "accession_number": "39.48                                     ",
-  "artist": "Alexandre-Gabriel Decamps"
+  "accession_number": "39.48"
 }

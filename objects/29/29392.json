@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Cheryl Younger",
+  "image_copyright": "%26Acirc%3B%26copy%3B Cheryl Younger",
   "life_date": "American, born 1946",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Cheryl Younger",
   "dated": "January 1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Film in the Cities",
-  "accession_number": "96.37.73",
-  "artist": "Cheryl Younger"
+  "accession_number": "96.37.73"
 }

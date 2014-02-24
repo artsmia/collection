@@ -5,6 +5,7 @@
   "life_date": "French, born 1740",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre Thomas Le Clerc",
   "dated": "1778",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/19281",
   "room": "Not on View",
   "style": "18th century",
-  "marks": null,
+  "marks": "Inscription\r\n[Cuisinière nouvellemt. arrivée de Pr ",
   "text": "",
   "description": "No. 47; Vol. I, cahier no. 8",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
-  "accession_number": "66.25.87                                  ",
-  "artist": "Pierre Thomas Le Clerc"
+  "accession_number": "66.25.87"
 }

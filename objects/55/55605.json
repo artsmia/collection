@@ -5,6 +5,7 @@
   "life_date": "French, 1821 - 1868",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Charles Meryon",
   "dated": "1855",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/55605",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Inscription and watermark\r\nInscription: [à Monsieu ",
   "text": "",
   "description": "black ink; plate tone",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.3,024                                   ",
-  "artist": "Charles Meryon"
+  "accession_number": "P.3,024"
 }

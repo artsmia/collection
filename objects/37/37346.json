@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown, Japanese",
   "dated": "c. 1750",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
   "dimension": "8 1/2 x 6 1/8 in. (21.6 x 15.6 cm) (image, sheet)\r\n14 15/16 x 10 5/8 in. (38 x 27 cm) (mat)",
-  "medium": "Woodblock print",
+  "medium": "From a woodblock printed book; ink on paper",
   "title": "(Crab and a Lotus Leaf)",
   "id": "http://api.artsmia.org/objects/37346",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "page of a book",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.107                                ",
-  "artist": "Unknown, Japanese"
+  "accession_number": "96.146.107"
 }

@@ -5,6 +5,7 @@
   "life_date": "French, active c.1375",
   "nationality": null,
   "role": "Artist",
+  "artist": "Master of the Passion Diptych",
   "dated": "c. 1375",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Ivory",
   "title": "Diptych with scenes from the life of Christ",
   "id": "http://api.artsmia.org/objects/3210",
-  "room": "G281",
+  "room": "G343",
   "style": "14th century",
   "marks": " ",
   "text": "The carved scenes of this diptych (hinged two-paneled object) read from left to right, beginning at the bottom: the Annunciation, the Nativity, the Adoration of the Magi, the Betrayal of Judas, the Crucifixion, the Resurrection, the Ascension, and Pentecost. <P>In the Middle Ages, wealthy nobles commissioned exquisite diptychs, illustrated prayer books, and other portable religious objects which they could carry on their frequent travels. These works provided a focus for private meditation and attested to the owner's refined taste.  Visual storytelling served as an important instructional aid in an age before books were widely available.",
   "description": "six scenes from the life of Christ; bottom row the Annunciation, Nativity and Adoration of the Magi; middle row Betrayal of Christ by Judas, the Crucifixion, the Resurrection; top row Ascension and Pentecost",
+  "provenance": "",
   "creditline": "Gift of funds from Mr. and Mrs. John E. Andrus III, Atherton and Winifred W. Bean, and an Anonymous Donor",
-  "accession_number": "83.72                                     ",
-  "artist": "Master of the Passion Diptych"
+  "accession_number": "83.72"
 }

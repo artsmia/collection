@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1885 - 1956",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marie Laurencin",
   "dated": "c. 1925",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark [Marie Laurencin] in graphite at upper right corne",
   "text": "",
   "description": "Woman astride a rearing horse, facing to our right; a dog jumps below horse",
+  "provenance": "",
   "creditline": "Gift of The Frederick and Margaret L. Weyerhaeuser Foundation",
-  "accession_number": "99.204.1",
-  "artist": "Marie Laurencin"
+  "accession_number": "99.204.1"
 }

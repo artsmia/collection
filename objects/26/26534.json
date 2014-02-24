@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Yoruba",
   "country": "Nigeria",
   "continent": "Africa",
-  "dimension": "",
+  "dimension": null,
   "medium": "Cotton",
   "title": "Blue Woven Trousers and Top (Gbariye)",
   "id": "http://api.artsmia.org/objects/26534",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Strip woven, gbariye with embroidered decoration",
+  "provenance": "",
   "creditline": "Gift of Richard and Roberta Simmons",
-  "accession_number": "90.146.12a,b                              ",
-  "artist": ""
+  "accession_number": "90.146.12a,b"
 }

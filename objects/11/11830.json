@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Atelier Robert Doisneau",
+  "image_copyright": "%26Acirc%3B%26copy%3B Atelier Robert Doisneau",
   "life_date": "French, 1912 - 1994",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Doisneau",
   "dated": "1960",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Stamp; Inscriptions ",
   "text": "",
   "description": "black man with raised eyebrows looking intently at a mother and child figure held in both hands; African sculptures of an animal at R and a figure at L; smoke on R side of image",
+  "provenance": "",
   "creditline": "Gift of Steven Nordman",
-  "accession_number": "99.229.7",
-  "artist": "Robert Doisneau"
+  "accession_number": "99.229.7"
 }

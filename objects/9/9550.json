@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York%2FADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York%2FADAGP%2C Paris",
   "life_date": "Czech, 1871 - 1957",
   "nationality": null,
   "role": "Artist",
+  "artist": "Frantisek Kupka",
   "dated": "1903",
   "culture": null,
   "country": "Czech Republic",
@@ -18,7 +19,7 @@
   "marks": "Label; Inscription\r\n\r\nrecto: various notations to  ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Council and The Dr. Frances E. Schaar Fund in memory of Leon and Anna Schaar",
-  "accession_number": "P.99.1",
-  "artist": "Frantisek Kupka"
+  "accession_number": "P.99.1"
 }

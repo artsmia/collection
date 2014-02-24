@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Koichiro Kurita",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Koichiro Kurita",
   "life_date": "Japanese, born 1943",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Koichiro Kurita",
   "dated": "2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, title, date, edition and inscription LRC, in pencil: [K. Kurita]; on back at bottom edg",
   "text": "",
   "description": "calm water; long branch with few leaves extending over water from L; branch at top center",
+  "provenance": "",
   "creditline": "The McClurg Photography Purchase Fund",
-  "accession_number": "2003.174.2",
-  "artist": "Koichiro Kurita"
+  "accession_number": "2003.174.2"
 }

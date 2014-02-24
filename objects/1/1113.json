@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "12th century BCE",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "inscription ",
   "text": "",
   "description": "Low, narrow flanges, corresponding to the legs, form the central ridges in t\\'ao-t\\'ieh figures on a ground of squared spirals. The t\\'ao-t\\'ieh of the belly is the ordinary, bodied type with C-shaped horns, hooked forehead shield, and strongly protruding eyes. It is flanked by vertical gaping dragons. Dragonized t\\'ao-t\\'ieh, the halves fromed as winged dragons, appear on a ground of squared spirals in the neck belt. Patina green with patches of red.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.48                                  ",
-  "artist": ""
+  "accession_number": "50.46.48"
 }

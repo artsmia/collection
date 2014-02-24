@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B1996 Lois Bryant",
+  "image_copyright": "%26Acirc%3B%26copy%3B1996 Lois Bryant",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Lois Bryant",
   "dated": "1996",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Label ",
   "text": "",
   "description": "design of yellow and blue swirl pattern merged with a square grid pattern; four yellow circles of increasing size move from center to LLC",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "97.34                                     ",
-  "artist": "Lois Bryant"
+  "accession_number": "97.34"
 }

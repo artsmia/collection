@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Ralph Eugene Meatyard courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1925 - 1972",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ralph Eugene Meatyard",
   "dated": "1964",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "ten photographs, mounted and cased",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "73.57.3                                   ",
-  "artist": "Ralph Eugene Meatyard"
+  "accession_number": "73.57.3"
 }

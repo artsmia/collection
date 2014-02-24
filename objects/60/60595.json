@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BStephanie Torbert",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stephanie Torbert",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stephanie B. Torbert",
   "dated": "c. 1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "Mr. and Mrs. Donald Torbert; elderly couple, each wearing glasses and underwear, seated on a bentwood and cane bench",
+  "provenance": "",
   "creditline": "Gift of Barbara Mackey Kaerwer",
-  "accession_number": "2002.23                                   ",
-  "artist": "Stephanie B. Torbert"
+  "accession_number": "2002.23"
 }

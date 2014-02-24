@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Marisol %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Marisol %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1930",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Marisol (Escobar)",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature at bottom center",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Dayton's",
-  "accession_number": "P.78.44                                   ",
-  "artist": "Marisol (Escobar)"
+  "accession_number": "P.78.44"
 }

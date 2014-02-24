@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F SABAM%2C Belgium",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F SABAM%2C Belgium",
   "life_date": "Belgian, 1863-1957",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "Henry van de Velde",
   "dated": "1925",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.44",
-  "artist": "Henry van de Velde"
+  "accession_number": "P.98.33.44"
 }

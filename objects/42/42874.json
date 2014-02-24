@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1898 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Reginald Marsh",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature In lower right",
   "text": "",
   "description": "18/?",
+  "provenance": "",
   "creditline": "Bequest of Tess Clyman Armstrong in loving memory of Samuel Saipe Clyman and Orval J. Armstrong",
-  "accession_number": "P.91.2.2",
-  "artist": "Reginald Marsh"
+  "accession_number": "P.91.2.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1931",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition, Watermark\r\n\r\nNumbered in penci Signed in pencil on the colophon page",
   "text": "Interspersed within the text are 13 original etchings created specifically by Picasso for this book. All deal directly or indirectly with the subject of an artist and his model. In this etching the bull, like the artist, is male and the horse, his female model, both engaged in a stand-off in which the bull clearly dominates. Picasso often used the bull as a symbol of the artistic prowess of the artist in the studio.",
   "description": "12 etchings by Picasso and 67 wood engravings after drawings by Picasso\r\n",
+  "provenance": "",
   "creditline": "The Bruce B. Dayton Fund",
-  "accession_number": "B.80.11",
-  "artist": "Pablo Picasso"
+  "accession_number": "B.80.11"
 }

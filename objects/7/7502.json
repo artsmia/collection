@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James Rosenquist",
   "dated": "1969-1970",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Color lithograph",
   "title": "Night Smoke",
   "id": "http://api.artsmia.org/objects/7502",
-  "room": "G316",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [James Rosenquist]",
   "text": "Smokestack discharge is the unusual subject of Rosenquist's imaginative interpretation of industrial might. For Rosenquist, brilliant contrasting color and the print's symmetrical design take precedence over the factory-related imagery.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Funds of Mr. and Mrs. Kenneth Smith",
-  "accession_number": "P.70.125                                  ",
-  "artist": "James Rosenquist"
+  "accession_number": "P.70.125"
 }

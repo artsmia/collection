@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BAnne Noggle",
+  "image_copyright": "%26Acirc%3B%26copy%3BAnne Noggle",
   "life_date": "American, born 1922",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Anne Noggle",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
-  "accession_number": "76.61.14                                  ",
-  "artist": "Anne Noggle"
+  "accession_number": "76.61.14"
 }

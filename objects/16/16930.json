@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.35-¼ x W.30-1/8 in.",
   "medium": "silk",
   "title": "Seat Cover, One of a Pair",
   "id": "http://api.artsmia.org/objects/16930",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Seat Cover, seamed up middle, of cut velvet with a design of lotus blossoms, bats, and clouds. Mate to 42.8.249",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "42.8.250                                  ",
-  "artist": ""
+  "accession_number": "42.8.250"
 }

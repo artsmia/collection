@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Isamu Noguchi %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Isamu Noguchi %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1904-1988",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Isamu Noguchi",
   "dated": "1937",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "ovoid shaped; horizontal indentations across front; horizontal \\\"handle\\\" at bottom at back; dial at bottom on back; dark brown; attached to black metal mount",
+  "provenance": "",
   "creditline": "Gift of funds from Dolly J. Fiterman",
-  "accession_number": "2003.91                                   ",
-  "artist": "Isamu Noguchi"
+  "accession_number": "2003.91"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1947",
   "culture": null,
   "country": "Switzerland",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nat lower edge on back, in black: [( ",
   "text": "",
   "description": "3 figures seen through a window:  standing girl at R wearing a sweater and paper tag on a string around her neck, tears in her eyes; head of girl at center with a large bow in her hair; chin, neck and shoulders of a third figure at L visible below reflection",
+  "provenance": "",
   "creditline": "Gift of funds from Alfred and Ingrid Lenz Harrison",
-  "accession_number": "2002.108.14                               ",
-  "artist": "Werner Bischof"
+  "accession_number": "2002.108.14"
 }

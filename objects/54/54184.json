@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
   "life_date": "American, 1925-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Rauschenberg",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\nNumb Signed in pencil: [Rauschenberg]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marguerite and Russell Cowles",
-  "accession_number": "P.79.84.5",
-  "artist": "Robert Rauschenberg"
+  "accession_number": "P.79.84.5"
 }

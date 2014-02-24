@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jim Dine",
   "dated": "1999",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature On second page following title page, in pencil: [J",
   "text": "",
   "description": "Poems by the artist\r\n\r\nblack cover with gold lettering; etchings on L face poems on R; bird, animal and figural etchings; in grey slipcase",
+  "provenance": "",
   "creditline": "The Richard Lewis Hillstrom Fund",
-  "accession_number": "2003.77.2                                 ",
-  "artist": "Jim Dine"
+  "accession_number": "2003.77.2"
 }

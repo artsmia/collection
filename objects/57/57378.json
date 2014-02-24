@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1915-1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Motherwell",
   "dated": "1930-1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark Signed in pencil at L.R. margin",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.80.47                                   ",
-  "artist": "Robert Motherwell"
+  "accession_number": "P.80.47"
 }

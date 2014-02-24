@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Italian, 1899 - 1968",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Lucio Fontana",
   "dated": "1966",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition; Watermark\r\n\r\nsee Signed\r\n\r\nNum Signed in pencil on colophon page: [Guido Ballo]",
   "text": "",
   "description": "Double-page illustration, pp. 42-43",
+  "provenance": "",
   "creditline": "Gift of Gordon Locksley and George Shea",
-  "accession_number": "P.69.224.7                                ",
-  "artist": "Lucio Fontana"
+  "accession_number": "P.69.224.7"
 }

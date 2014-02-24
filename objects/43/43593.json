@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Robert Rauschenberg %2F VAGA%2C New York",
   "life_date": "American, 1925-2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Rauschenberg",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Like the Surface Series from \"Currents,\" the Features Series screenprints were based on unique newspaper collages that Rauschenberg produced in September 1969 as part of an exhibition project at Dayton's Gallery 12, one of Minneapolis's leading contemporary art galleries at the time. There are 18 prints in each series.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Joel Itman",
-  "accession_number": "P.94.40.1",
-  "artist": "Robert Rauschenberg"
+  "accession_number": "P.94.40.1"
 }

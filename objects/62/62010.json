@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "1830-1844",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "8 13/16 x 13 3/4 in. (22.4 x 34.9 cm) (image)\r\n9 1/8 x 14 3/16 in. (23.1 x 36.1 cm) (sheet)\r\n14 x 17 15/16 in. (35.5 x 45.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "No. 47 O_i",
   "id": "http://api.artsmia.org/objects/62010",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
-  "accession_number": "P.13,714                                  ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "P.13,714"
 }

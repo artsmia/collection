@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Lee Friedlander%2C courtesy Fraenkel Gallery%2C San Francisco",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lee Friedlander%2C courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lee Friedlander",
   "dated": "c. 1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " \\\"Lee Friedlander Jim Dine 53/75\\\", in pencil, botto",
   "text": "",
   "description": "photo of a black dog holding a tin pie plate on the L side of sheet; etching of bathrobe on R side",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2001.123                                  ",
-  "artist": "Lee Friedlander"
+  "accession_number": "2001.123"
 }

@@ -5,6 +5,7 @@
   "life_date": "French, 1803 - 1860",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Alexandre-Gabriel Decamps",
   "dated": "c. 1837",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Landscape with the Good Samaritan",
   "id": "http://api.artsmia.org/objects/1351",
-  "room": "G355",
+  "room": "G357",
   "style": "19th century",
   "marks": "Signature (initials) LR in red: [DC]",
   "text": "This painting once belonged to James J. Hill (1838-1916), the Minnesota railroad magnate whose collection of European paintings forms the basis of the Institute's nineteenth-century holdings.",
   "description": "The good samaritan",
+  "provenance": "",
   "creditline": "Gift of Mrs. Egil Boeckmann",
-  "accession_number": "58.31                                     ",
-  "artist": "Alexandre-Gabriel Decamps"
+  "accession_number": "58.31"
 }

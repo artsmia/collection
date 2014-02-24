@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Robert Adams%2C courtesy Fraenkel Gallery%2C San Francisco",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Adams%2C courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Adams",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of American Telephone and Telegraph Company\r\n",
-  "accession_number": "81.120.3",
-  "artist": "Robert Adams"
+  "accession_number": "81.120.3"
 }

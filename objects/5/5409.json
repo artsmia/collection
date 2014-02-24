@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "1997",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Glazed stoneware",
   "title": "Large plate",
   "id": "http://api.artsmia.org/objects/5409",
-  "room": "Not on View",
+  "room": "G304",
   "style": "20th century",
   "marks": " ",
-  "text": "Warren MacKenzie has been creating functional and well-crafted wares in Minnesota since the mid-1950s. After graduating from the Art Institute of Chicago and apprenticing with English potter Bernard Leach, MacKenzie and his first wife Alix established a pottery outside Stillwater, Minnesota. While professor of art at the University of Minnesota, he encouraged many students, some of whom who have stayed in the area to make Minnesota a thriving and important center for the ceramic arts. In 1998 MacKenzie was honored with the American Crafts Council Gold Award, and the 1999 McKnight Distinguished Artist Award. MacKenzie's everyday ceramics are steeped in the Japanese folk craft, or <I>mingei</I>, tradition. This large, muted yellow-green plate features striking dark brown slip decoration.",
+  "text": "",
   "description": "large stoneware plate with foot; interior of bowl decorated by bands of high gloss brown glaze over a matte brownish green overall glaze",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "97.45.1",
-  "artist": "Warren MacKenzie"
+  "accession_number": "97.45.1"
 }

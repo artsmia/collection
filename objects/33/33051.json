@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "2 crouching men man at L wears tank top, shorts, thongs and sunglasses; man at R wears shorts and holds a stack of cassette tapes, with 2 cases of tapes on the ground in front of him; suitcases, boxes and other objects scattered throughout",
+  "provenance": "",
   "creditline": "Gift of Steven M. Andersen",
-  "accession_number": "2005.160.2                                ",
-  "artist": "Richard Avedon"
+  "accession_number": "2005.160.2"
 }

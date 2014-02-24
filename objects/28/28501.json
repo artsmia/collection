@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Cotton",
   "title": "Dress",
   "id": "http://api.artsmia.org/objects/28501",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "blue and black cotton, woven and embroidered decorative bands at sleeves, neck and front",
+  "provenance": "",
   "creditline": "Gift of funds fromCliff and Sue Roberts",
-  "accession_number": "94.5.6                                    ",
-  "artist": ""
+  "accession_number": "94.5.6"
 }

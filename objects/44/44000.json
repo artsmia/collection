@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1890",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/44000",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Title, Inscription and Stamp\r\n\r\nLRC, in LRC, in pencil: [A. Lepère]; see Inscription",
   "text": "",
   "description": "dock in foreground with long footbridge at right extending toward buildings beyond in background; rows of boats on water at left; figures on footbridge; little girl, LLC, talking to bearded sailor looking up onto dock",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "P.98.26.9                                 ",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "P.98.26.9"
 }

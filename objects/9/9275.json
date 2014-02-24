@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Muirhead Bone %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C United Kingdom",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Muirhead Bone %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C United Kingdom",
   "life_date": "Scottish, 1876 - 1953",
   "nationality": "Scottish",
   "role": "Artist",
+  "artist": "Sir Muirhead Bone",
   "dated": "1909",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription\r\n\r\n[Ruins, the Great Fire,  Signed in pencil, LR: [Muirhead Bone]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "14.24",
-  "artist": "Sir Muirhead Bone"
+  "accession_number": "14.24"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1725 - 1805",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean-Baptiste Greuze",
   "dated": "c. 1775",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription and mark\r\n\r\nin cartouche on mat: [J.B. ",
   "text": "The painter Greuze was a maverick in the art world of the 18th century. He came to Paris in 1750 and aspired to be a history painter. However, in 1769, Greuze was received into the Royal Academy with the more humble title of genre painter. Fortuitously, the celebrated philosopher and art critic Denis Diderot praised Greuze's genre works as the paradigm of morality and family values as opposed to the frivolous and erotic art of Boucher and Fragonard. The drawing depicts a simple scene of domestic happiness. A gamekeeper tells a proud father about his son's skill as a hunter after their outing. The mother embraces her son and his little sister beams with pride as she listens to the account of the gamekeeper. Greuze's drawing is not related to a painting. The artist considered it to be a finished work of art in itself. His drawings were prized by contemporary collectors.",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "70.13                                     ",
-  "artist": "Jean-Baptiste Greuze"
+  "accession_number": "70.13"
 }

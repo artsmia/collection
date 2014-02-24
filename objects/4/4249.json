@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BDick Arentz",
+  "image_copyright": "%26Acirc%3B%26copy%3BDick Arentz",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dick Arentz",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Title ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Harry M. Drake",
-  "accession_number": "91.48.1                                   ",
-  "artist": "Dick Arentz"
+  "accession_number": "91.48.1"
 }

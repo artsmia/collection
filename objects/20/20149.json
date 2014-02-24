@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Cy Twombly Foundation",
+  "image_copyright": "%26Acirc%3B%26copy%3B Cy Twombly Foundation",
   "life_date": "American, 1928-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Cy Twombly",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date Signed with initials, dated UL: [C.T. 1971]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "74.20.2",
-  "artist": "Cy Twombly"
+  "accession_number": "74.20.2"
 }

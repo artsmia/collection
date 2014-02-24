@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Garry Winogrand%2C courtesy Fraenkel Gallery%2C San Francisco",
   "life_date": "American, 1928 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Garry Winogrand",
   "dated": "c. 1963",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Untitled",
   "id": "http://api.artsmia.org/objects/3533",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund and Gift of funds from Christopher Cardozo, David A. Jones, Lee E. Sheehy, and Linda Jadwin",
-  "accession_number": "86.93.3                                   ",
-  "artist": "Garry Winogrand"
+  "accession_number": "86.93.3"
 }

@@ -2,15 +2,16 @@
   "restricted": 0,
   "image": "valid",
   "image_copyright": "",
-  "life_date": "Japanese, 1797 - 1861",
+  "life_date": "Japanese, 1798 - 1861",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Kuniyoshi",
   "dated": "1847-1852",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
   "dimension": "14 1/4 x 9 5/8 in. (36.2 x 24.5 cm) (image)\r\n14 7/16 x 9 13/16 in. (36.6 x 25 cm) (sheet)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "(Yamanaya Urasato)",
   "id": "http://api.artsmia.org/objects/69274",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Ichiyu_sai Kuniyoshi ga",
   "text": "",
   "description": "nishiki-e, probably the left panel of triptych",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "P.75.51.69                                ",
-  "artist": "Utagawa Kuniyoshi"
+  "accession_number": "P.75.51.69"
 }

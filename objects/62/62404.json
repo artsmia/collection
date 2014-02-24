@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Nobuko Kajitani",
+  "image_copyright": "%26Acirc%3B%26copy%3B Nobuko Kajitani",
   "life_date": "Japanese, born 1935",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Nobuko Kajitani",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date LRC on back, in black: [Nobuko Kajitani 1969/Study",
   "text": "",
   "description": "4 small drawings of patterns in black on graph paper, mounted to a board",
+  "provenance": "",
   "creditline": "Gift of Nobuko Kajitani",
-  "accession_number": "2002.192.4                                ",
-  "artist": "Nobuko Kajitani"
+  "accession_number": "2002.192.4"
 }

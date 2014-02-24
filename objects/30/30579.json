@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1955",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Pittsburgh",
   "id": "http://api.artsmia.org/objects/30579",
-  "room": "G316",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature; Artist\\'s Stamp ",
   "text": "",
   "description": "steel mills belching out thick dark smoke",
+  "provenance": "",
   "creditline": "Gift of Fred Scheel",
-  "accession_number": "98.144.8                                  ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "98.144.8"
 }

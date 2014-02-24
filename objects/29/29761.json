@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 19th century",
   "culture": null,
   "country": "United States",
   "continent": "North America",
   "dimension": "68 1/2 x 51 1/2in. (174 x 130.8cm)",
-  "medium": null,
+  "medium": "Silk; appliqué",
   "title": "Quilt",
   "id": "http://api.artsmia.org/objects/29761",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "black silk with tan chevrons around border; multicolor tumbling block applique design",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons",
-  "accession_number": "97.189.42                                 ",
-  "artist": ""
+  "accession_number": "97.189.42"
 }

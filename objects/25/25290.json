@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Larry Merrill",
+  "image_copyright": "%26Acirc%3B%26copy%3B Larry Merrill",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lawrence J. Merrill",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of First Banks",
-  "accession_number": "87.35.59",
-  "artist": "Lawrence J. Merrill"
+  "accession_number": "87.35.59"
 }

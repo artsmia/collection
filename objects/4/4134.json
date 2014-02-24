@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Marc and Evelyne Bernheim",
+  "image_copyright": "%26Acirc%3B%26copy%3B Marc and Evelyne Bernheim",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Marc Bernheim",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "Mrs. Adesida plays with little girls at a kindergarten she helped organize for children of working mothers in Akure. \\'There was nothing here in Akure when we came. It\\'s up to us to organize day nurseries, women\\'s groups, social welfare, adult education. There is so much to do here\\'",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.34",
-  "artist": "Marc Bernheim"
+  "accession_number": "91.123.34"
 }

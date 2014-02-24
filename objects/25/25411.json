@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Max Yavno %26copy%3B 1998 Center for Creative Photography%2C The University of Arizona Foundation",
+  "image_copyright": "Max Yavno %26Acirc%3B%26copy%3B 1998 Center for Creative Photography%2C The University of Arizona Foundation",
   "life_date": "American, 1911 - 1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Max Yavno",
   "dated": "1949",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature signed on verso",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "87.55.1",
-  "artist": "Max Yavno"
+  "accession_number": "87.55.1"
 }

@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "400-350 B.C.",
   "culture": "Italy",
   "country": "Italy",
-  "continent": "",
+  "continent": null,
   "dimension": "10 1/2 x 7 x 8 in. (26.67 x 17.78 x 20.32 cm) (head)\r\n8 1/2 x 7 1/4 x 5 3/4 in. (21.59 x 18.42 x 14.61 cm) (base)",
   "medium": "Terracotta",
   "title": "Portrait Head of a Young Woman",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "votive portrait head",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "74.46                                     ",
-  "artist": ""
+  "accession_number": "74.46"
 }

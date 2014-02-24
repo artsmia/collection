@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, 1916 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Louis Faurer",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Edition ",
   "text": "",
   "description": "view into a window with PR side of head and shoulders of a figure seen from behind, seated in front of an easel; half of woman\\'s face at R side of window; sign in bottom of window \\'FINE ART RESTORATION\\'",
+  "provenance": "",
   "creditline": "Gift of Deborah Bell in memory of Marcella Kuhlmann Bell",
-  "accession_number": "99.150.3                                  ",
-  "artist": "Louis Faurer"
+  "accession_number": "99.150.3"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Dave Heath%2C Courtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dave Heath%2C Courtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dave Heath",
   "dated": "c. 1957",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund and Gift of funds from Jud and Lisa Dayton",
-  "accession_number": "90.49.10                                  ",
-  "artist": "Dave Heath"
+  "accession_number": "90.49.10"
 }

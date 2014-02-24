@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.11-½ in.",
   "medium": "satin, silk, cotton",
   "title": "Elbow Pillow",
   "id": "http://api.artsmia.org/objects/16923",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Elbow Pillow of light olive-green brocaded satin. Design of trees and pagodas in shades of blue. Section bindings of black satin. Pink cotton lining.",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "42.8.277                                  ",
-  "artist": ""
+  "accession_number": "42.8.277"
 }

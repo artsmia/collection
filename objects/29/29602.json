@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "China",
   "continent": "Asia",
   "dimension": "2-3/4 x 8-1/14 x 8-1/4 in. (7.0 x 20.5 x 21.0 cm)",
-  "medium": null,
+  "medium": "Cloisonné",
   "title": "Bowl",
   "id": "http://api.artsmia.org/objects/29602",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Cloisonne bowl with stand; white ground, gold rim, foot and small reptitive cloud pattern throughout; interior design basket filled with flowers and branches",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Howard P. Clarke",
-  "accession_number": "97.172.6                                  ",
-  "artist": ""
+  "accession_number": "97.172.6"
 }

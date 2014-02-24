@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Judy Coleman. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Judy Coleman. All rights reserved.",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Judy Coleman",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition Number back center",
   "text": "",
   "description": "Portfolio published by G. Ray Hawkins Gallery",
+  "provenance": "",
   "creditline": "Gift of David J. Parins",
-  "accession_number": "94.102.6",
-  "artist": "Judy Coleman"
+  "accession_number": "94.102.6"
 }

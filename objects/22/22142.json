@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Jerry Mathiason",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jerry Mathiason",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerome D. Mathiason",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "79.48.8",
-  "artist": "Jerome D. Mathiason"
+  "accession_number": "79.48.8"
 }

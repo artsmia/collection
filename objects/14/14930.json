@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "English, dates unknown",
   "nationality": "English",
   "role": "Artist",
+  "artist": "John Pennington",
   "dated": "1792",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "covered sauce tureen and stand, gold and bleu du roi borders, grisaille medallions",
+  "provenance": "",
   "creditline": "Gift of Mrs. Sumner T. McKnight",
-  "accession_number": "27.9.1a-c                                 ",
-  "artist": "John Pennington"
+  "accession_number": "27.9.1a-c"
 }

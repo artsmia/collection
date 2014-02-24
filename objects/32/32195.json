@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B David Parker",
+  "image_copyright": "%26Acirc%3B%26copy%3B David Parker",
   "life_date": "American, born 1951",
   "nationality": null,
   "role": "Artist",
+  "artist": "David Parker",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Date in graphite, along top edge, verso: [David Parker/",
   "text": "",
   "description": "boy (wearing miner\\'s hat) looking down in right half of image; person wearing mask (?) in left half of image",
+  "provenance": "",
   "creditline": "Gift of Thomas F.  Arndt",
-  "accession_number": "99.234.14                                 ",
-  "artist": "David Parker"
+  "accession_number": "99.234.14"
 }

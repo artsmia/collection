@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1954",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp, Title, Date ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mickey Pallas",
-  "accession_number": "95.82.16                                  ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "95.82.16"
 }

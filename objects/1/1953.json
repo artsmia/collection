@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1770 - 1828",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Louis Lafitte",
   "dated": "c. 1804-1805",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nInscribed in black chalk, lower lef ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The David M. Daniels Fund",
-  "accession_number": "72.94                                     ",
-  "artist": "Louis Lafitte"
+  "accession_number": "72.94"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Spanish, 1893 - 1983",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Joan Miró",
   "dated": "1938",
   "culture": null,
   "country": "Spain",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/1555",
   "room": "G376",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature and Date LR in black: [Miró]; UL on verso: [JOAN MIRó./Tête",
   "text": "",
   "description": "Head of a woman.",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
-  "accession_number": "64.44.1                                   ",
-  "artist": "Joan Miró"
+  "accession_number": "64.44.1"
 }

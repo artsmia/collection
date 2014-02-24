@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BThe Georgia O%27Keeffe Foundation %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BThe Georgia O%27Keeffe Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1887 - 1986",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Georgia O'Keeffe",
   "dated": "1926",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Landscape. Urban. Architecture.",
+  "provenance": "",
   "creditline": "Gift of funds from the Regis Corporation, Mr. and Mrs. W. John Driscoll, the Beim Foundation, the Larsen Fund, and by public subscription",
-  "accession_number": "80.28                                     ",
-  "artist": "Georgia O'Keeffe"
+  "accession_number": "80.28"
 }

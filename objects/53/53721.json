@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B John Randolph Carter",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Randolph Carter",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Randolph Carter",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature In pencil: [John Randolph Carter]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.76.27.6",
-  "artist": "John Randolph Carter"
+  "accession_number": "P.76.27.6"
 }

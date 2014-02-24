@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1720",
   "culture": null,
   "country": "India",
@@ -13,12 +14,12 @@
   "medium": "Opaque watercolor on paper",
   "title": "Vasudeva carries the Infant Krishna across the Yamuna River",
   "id": "http://api.artsmia.org/objects/4543",
-  "room": "Not on View",
+  "room": "G103",
   "style": "18th century",
   "marks": "Verso:\r\n\r\nUntranslated devanagari script written i ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "93.3",
-  "artist": ""
+  "accession_number": "93.3"
 }

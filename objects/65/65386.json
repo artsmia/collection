@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Erté",
   "dated": "Date Unknown",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/65386",
   "room": "Not on View",
   "style": null,
-  "marks": null,
+  "marks": "Signature LRQ, incised: [Erté]",
   "text": "",
   "description": "Art Deco style; tall, thin woman wearing a flowing skirt and flowing draperies around her upper body at right; blooming tree with gnarled branches at L; relief design on frosted plastic; curved brass at bottom",
+  "provenance": "",
   "creditline": "Gift of Dr. Vance W. Rawlings",
-  "accession_number": "2002.269.2                                ",
-  "artist": "Erté"
+  "accession_number": "2002.269.2"
 }

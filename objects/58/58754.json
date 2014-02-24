@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, inscribed, and titled. LR: [Sam Gilliam \\'81]\r\nLL: [AP]\r\nLC: [Last Coffee ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
-  "accession_number": "P.83.60.3",
-  "artist": "Sam Gilliam"
+  "accession_number": "P.83.60.3"
 }

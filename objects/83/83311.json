@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Russel Wright Studios",
+  "image_copyright": "%26Acirc%3B%26copy%3B Russel Wright Studios",
   "life_date": "American, 1904-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Russel Wright",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "green plate with tall rim; raised foot",
+  "provenance": "",
   "creditline": "Gift of Charlotte Karlen",
-  "accession_number": "2003.195.1",
-  "artist": "Russel Wright"
+  "accession_number": "2003.195.1"
 }

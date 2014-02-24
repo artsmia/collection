@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "1950",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Welsh Miners",
   "id": "http://api.artsmia.org/objects/66330",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Title and Signature LLC below image, in pencil: [WELSH MINERS]; LRC be",
   "text": "",
   "description": "three men with dirty faces, wearing caps; central man smoking; buildings in rows in background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2003.15                                   ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "2003.15"
 }

@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "early 20th century",
   "culture": null,
   "country": "Bolivia",
   "continent": "South America",
   "dimension": "81 x 28 1/4 in. (205.7 x 71.8 cm)",
-  "medium": null,
+  "medium": "Vicuña",
   "title": "Shawl",
   "id": "http://api.artsmia.org/objects/29754",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "brown color; four bands of open design at each end; curled fringe at short sides; scalloping at long sides",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "97.4                                      ",
-  "artist": ""
+  "accession_number": "97.4"
 }

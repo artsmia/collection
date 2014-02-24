@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "1928",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Velvetone Company, San Francisco",
-  "accession_number": "P.72.21",
-  "artist": "Artist Unknown"
+  "accession_number": "P.72.21"
 }

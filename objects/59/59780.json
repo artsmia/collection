@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
+  "image_copyright": "%26Acirc%3B%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
   "life_date": "American, 1926-2010",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beth Van Hoesen",
   "dated": "1961",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition; Mark\r\n\r\nsee Signe in pencil, on sheet",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Abby Weed Grey",
-  "accession_number": "P.83.31                                   ",
-  "artist": "Beth Van Hoesen"
+  "accession_number": "P.83.31"
 }

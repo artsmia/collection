@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 20th century",
   "culture": "Maya, Tz'utujil",
   "country": "Guatemala",
   "continent": null,
   "dimension": "17 x 32 in. (43.18 x 81.28 cm)",
-  "medium": null,
+  "medium": "Cotton; jaspé (ikat), plain weave",
   "title": "Boy's shirt",
   "id": "http://api.artsmia.org/objects/63838",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Belongs with 2002.280.52 and 53 as a costume. Multi-colored ikat in green, blue, orange, yellow, pink, white and black",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons in memory of Roberta Grodberg Simmons",
-  "accession_number": "2002.280.54",
-  "artist": ""
+  "accession_number": "2002.280.54"
 }

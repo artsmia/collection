@@ -5,11 +5,12 @@
   "life_date": "French, 1758 - 1836",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Carle Vernet",
   "dated": "late 18th-early 19th century",
   "culture": null,
   "country": "France",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Engraving",
   "title": "Fashion Plate",
   "id": "http://api.artsmia.org/objects/76139",
@@ -18,7 +19,7 @@
   "marks": "\r\n\r\n ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
-  "accession_number": "P.20,769                                  ",
-  "artist": "Carle Vernet"
+  "accession_number": "P.20,769"
 }

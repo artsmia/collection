@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Suzanne Hellmuth and Jock Reynolds",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Suzanne Hellmuth",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Exchange",
   "id": "http://api.artsmia.org/objects/23144",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": "Signature; Date; Title ",
   "text": "",
   "description": "left piece of triptych",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "82.133.1                                  ",
-  "artist": "Suzanne Hellmuth"
+  "accession_number": "82.133.1"
 }

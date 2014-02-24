@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Mario Jorrin",
   "life_date": "American, 1932-1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mario Jorrin",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "enlarged contact sheet of a conversation",
+  "provenance": "",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
-  "accession_number": "82.96                                     ",
-  "artist": "Mario Jorrin"
+  "accession_number": "82.96"
 }

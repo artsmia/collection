@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignees",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%27s estate%2C or assignees",
   "life_date": "American, born 1927",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Urban Couch",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LR: [Urban]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "56.46                                     ",
-  "artist": "Urban Couch"
+  "accession_number": "56.46"
 }

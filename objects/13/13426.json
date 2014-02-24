@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875 - 1963",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Villon",
   "dated": "1962",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; edition signed in graphite, LR: [Jacques Villon]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Allen Brookins-Brown",
-  "accession_number": "2000.62.2",
-  "artist": "Jacques Villon"
+  "accession_number": "2000.62.2"
 }

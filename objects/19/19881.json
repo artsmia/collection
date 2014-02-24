@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Photograph by Jacques Henri Lartigue %26Acirc%3B%26copy%3B Ministry of Culture %26acirc%3B%80%93 France %2F AAJHL",
   "life_date": "French, 1894 - 1986",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Henri Lartigue",
   "dated": "1912 (printed 1972)",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print (printed 1972)",
   "title": "Grand Prix of the Automobile Club of France",
   "id": "http://api.artsmia.org/objects/19881",
-  "room": "G266-G274",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.118.8                                  ",
-  "artist": "Jacques Henri Lartigue"
+  "accession_number": "72.118.8"
 }

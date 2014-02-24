@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "David Novros",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date Signed w/ initials, dated, verso, LR: [D N \\'75]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Marguerite and Russell Cowles",
-  "accession_number": "79.12.18                                  ",
-  "artist": "David Novros"
+  "accession_number": "79.12.18"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJoan Moss",
+  "image_copyright": "%26Acirc%3B%26copy%3BJoan Moss",
   "life_date": "American (born Canada), born 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joan Moss",
   "dated": "1988",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature; Title; Inscription ",
   "text": "",
   "description": "tiny baby wearing cap with breathing tube attached to her nose, with a hand behind her head and a hand across her chest",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2002.182.8                                ",
-  "artist": "Joan Moss"
+  "accession_number": "2002.182.8"
 }

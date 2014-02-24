@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Italian, c. 1677-1753",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Federico Bencovich",
   "dated": "c. 1720",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "recto:  head of a bald man with long dark moustache, beard and eyebrows, in profile from PR, at center; drapery studies at right (very light); seated figure study, ULC; two studies of hands and one of foot, LRQ; verso not examined (received framed)",
+  "provenance": "",
   "creditline": "Bequest of Professor Alfred Moir",
-  "accession_number": "2012.58.10                                ",
-  "artist": "Federico Bencovich"
+  "accession_number": "2012.58.10"
 }

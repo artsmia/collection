@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Suku",
   "country": "Democratic Republic of Congo",
@@ -13,12 +14,12 @@
   "medium": "Wood, raffia",
   "title": "Initiation mask",
   "id": "http://api.artsmia.org/objects/3790",
-  "room": "G240",
+  "room": "Not on View",
   "style": "19th century",
   "marks": " ",
   "text": "The red-faced mask with the thick collar of natural raffia comes from the Congolese Suku people. This mask appeared during male initiation rituals: it was danced in a forest camp while teaching adolescents about the rules of good behavior and the secrets of life. It appeared again when, after up to a year, they returned to the village as adult members of society. That masks played a major role in the context of initiation is related to the fact that masks were among the objects used in attempts to approach and influence the invisible realm of ancestors, spirits, and magic forces. As such they had an important part to play in the religious life of the community.",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "89.113                                    ",
-  "artist": ""
+  "accession_number": "89.113"
 }

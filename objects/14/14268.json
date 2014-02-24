@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1879 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Frélaut",
   "dated": "1922",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date [Frelaut 1922], lower left",
   "text": "",
   "description": "Similar scene etched under title \\'Petit Port of Seine\\' No.133 Delteil Catalogue",
+  "provenance": "",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
-  "accession_number": "24.40",
-  "artist": "Jean Frélaut"
+  "accession_number": "24.40"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": null,
   "country": null,
@@ -13,12 +14,12 @@
   "medium": "Silver",
   "title": "Buckle",
   "id": "http://api.artsmia.org/objects/83200",
-  "room": "Not on View",
+  "room": "G362",
   "style": null,
   "marks": " ",
-  "text": "",
+  "text": "<I>Yom Kippur</I>, or the Day of Atonement, is one of the most revered holidays of the Jewish year. Traditionally, Orthodox Jewish worshippers have worn a white gown on this day to symbolize purity and the hope of their sins being absolved. The only adornment of such gowns could be belts with special silver belt buckles, which are engraved with either biblical quotes or names, as may be demonstrated by the center inscription of this buckle which says the name “Shoshana” (שושנה).\r\n \r\nThe ten days preceding Yom Kippur, known as the <I>Yaimim Nora’im</I>, or Days of Awe, are to be spent in repentance before God and neighbors, as Yom Kippur is considered the last day for one to be forgiven for the year and be inscribed in God’s “Book of Life” for another year. Thus, a common greeting during the Days of Awe is the blessing “May you be inscribed in the Book of Life.” ",
   "description": "buckle with 4 loops on back; rectangular shape with squared-off corners; Hebrew text in relief at center; wavy wire border flanked by 2 twisted wires at inner edge and 5 twisted wires in 2 thicknesses on outer edge",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.3                                ",
-  "artist": ""
+  "accession_number": "2003.228.3"
 }

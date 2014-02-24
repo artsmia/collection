@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1814 - 1875",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean-François Millet",
   "dated": "c. 1855-1956",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Etching",
   "title": "The Diggers",
   "id": "http://api.artsmia.org/objects/50661",
-  "room": "G315",
+  "room": "Not on View",
   "style": "19th century",
   "marks": " ",
   "text": "To tell the truth, the peasant subjects suit my temperament best; for I must confess, even if you think me a socialist, that the human side of art is what touches me most. \r\n-Jean-François Millet\r\n\r\nA founding member of the Barbizon school of painters in rural France, Jean-François Millet is renowned for his solemn and dignified images of peasant laborers. The son of Norman peasants, Millet was sympathetic to the hardships and frequent poverty of the rural working class, often presenting his subjects in idealized poses and settings intended as veiled criticisms of the excesses and indifference of the bourgeoisie. One of most famous images, The Diggers shows two farm workers turning over the soil by hand, their backbreaking labor reinforced by the vast expanse of the untilled field. Millet was an important source of inspiration for Vincent Van Gogh, who produced an oil painting of the same subject using a photograph of this etching as his model.\r\n",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "P.28                                      ",
-  "artist": "Jean-François Millet"
+  "accession_number": "P.28"
 }

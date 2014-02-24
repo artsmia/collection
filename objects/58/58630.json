@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Allan D%27Arcangelo %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Allan D%27Arcangelo %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1930-1998",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Allan D'Arcangelo",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition, Plaque, Inscription\r\n\r\nN Signed, dated LR: [A. D\\'Arcangelo 78]\r\n",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
-  "accession_number": "P.83.59.20                                ",
-  "artist": "Allan D'Arcangelo"
+  "accession_number": "P.83.59.20"
 }

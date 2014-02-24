@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Aaron Siskind Foundation%2C courtesy Silverstein Photography",
+  "image_copyright": "%26Acirc%3B%26copy%3B Aaron Siskind Foundation%2C courtesy Silverstein Photography",
   "life_date": "American, 1903 - 1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Aaron Siskind",
   "dated": "1954",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2001.46                                   ",
-  "artist": "Aaron Siskind"
+  "accession_number": "2001.46"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "France (?)",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "H.1 x W.11-½ x D.11-½ in.",
   "medium": "wood",
   "title": "Woodblock for printing Toiles",
   "id": "http://api.artsmia.org/objects/16287",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Woodblock used for printing toiles. Conventional floral and leaf pattern in relief; two hollow depressions on back for a grip. Front of block split down center.",
+  "provenance": "",
   "creditline": "Gift of Mrs. C.C. Bovey",
-  "accession_number": "40.24                                     ",
-  "artist": ""
+  "accession_number": "40.24"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Meissen, Germany, est. 1710",
   "nationality": "",
   "role": "Artist",
+  "artist": "Meissen Porcelain Factory",
   "dated": "1760-1780",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "teacup, ceramic; green basket pattern border, scene of river and water front; saucer, ceramic, green basket pattern border, scene of river and water front; Dietrich period",
+  "provenance": "",
   "creditline": "Bequest of Alfred Duane Pell",
-  "accession_number": "25.417.83a,b                              ",
-  "artist": "Meissen Porcelain Factory"
+  "accession_number": "25.417.83a,b"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1972",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "20th century",
   "marks": "Mark ",
-  "text": "",
+  "text": "Although Poésies Antillaises was published eighteen years after Matisse’s death, its overall design and illustrations had been rigorously planned by the artist. In fact, Matisse began the project in 1945. Matisse’s illustrations were comprised of a series of head and bust images of his then current models. \r\n \r\nHead of a Female Model, 1945-46\r\nHead of a Female Model, 1945-46\r\nThis image and its partner facing are two of the twelve supplementary lithographs for a special deluxe edition of Poésies Antillaises. ",
   "description": "28 lithographs in brown (portrait heads) & 102 pages with lithographic initials, etc. in blue",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.82.11",
-  "artist": "Henri Matisse"
+  "accession_number": "B.82.11"
 }

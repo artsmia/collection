@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated and titled LC: [Sam Gilliam -81]\r\nLL: [First Collage for Latt",
   "text": "",
   "description": "Maquette using leftover fragments from Coffee Thyme project, taped together",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
-  "accession_number": "92.56.9",
-  "artist": "Sam Gilliam"
+  "accession_number": "92.56.9"
 }

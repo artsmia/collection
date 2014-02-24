@@ -5,6 +5,7 @@
   "life_date": "Austrian (born Czechoslovakia), 1870-1956",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Josef Hoffmann",
   "dated": "1929-1930",
   "culture": null,
   "country": "Austria",
@@ -14,11 +15,11 @@
   "title": "Teapot",
   "id": "http://api.artsmia.org/objects/40446",
   "room": "Not on View",
-  "style": null,
+  "style": "Wiener Werkstätte",
   "marks": " ",
   "text": "",
   "description": "Handmade brass with teakwood finial and handle",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.208a,b",
-  "artist": "Josef Hoffmann"
+  "accession_number": "98.276.208a,b"
 }

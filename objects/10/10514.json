@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Peter Busa %2F Courtesy Christopher Busa",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Peter Busa %2F Courtesy Christopher Busa",
   "life_date": "American, 1914-1985",
   "nationality": null,
   "role": "Artist",
+  "artist": "Peter Busa",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature Signed LR: [Busa]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "94.25",
-  "artist": "Peter Busa"
+  "accession_number": "94.25"
 }

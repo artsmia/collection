@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Walter Chappell. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Walter Chappell. All rights reserved.",
   "life_date": "American, 1925 - 2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Walter Chappell",
   "dated": "1958",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and date On mount, in black: [Walter Chappell 1958]",
   "text": "",
   "description": "abstract image of smudgy grey and white circle shapes with white sketchy lines at center",
+  "provenance": "",
   "creditline": "The Ethelyn Bros Photography Purchase Fund",
-  "accession_number": "2003.147.2",
-  "artist": "Walter Chappell"
+  "accession_number": "2003.147.2"
 }

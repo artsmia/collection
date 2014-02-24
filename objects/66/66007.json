@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1889 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas Hart Benton",
   "dated": "1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "two volumes; rawhide spines, \\\"grass cloth\\\" covers; spine printed in silver; text with illustrations printed in yellow and black",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2003.14.1a,b                              ",
-  "artist": "Thomas Hart Benton"
+  "accession_number": "2003.14.1a,b"
 }

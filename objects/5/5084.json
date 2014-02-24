@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Marc Norberg",
+  "image_copyright": "%26Acirc%3B%26copy%3B Marc Norberg",
   "life_date": "American, born 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Marc Norberg",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Film in the Cities",
-  "accession_number": "96.37.47",
-  "artist": "Marc Norberg"
+  "accession_number": "96.37.47"
 }

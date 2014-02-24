@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michael A. Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael A. Smith",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael A. Smith",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lucy and Ron Moody",
-  "accession_number": "80.21.1",
-  "artist": "Michael A. Smith"
+  "accession_number": "80.21.1"
 }

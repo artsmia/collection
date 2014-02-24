@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tom Arndt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Arndt",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas F. Arndt",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Title ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of David Parker",
-  "accession_number": "91.49.1                                   ",
-  "artist": "Thomas F. Arndt"
+  "accession_number": "91.49.1"
 }

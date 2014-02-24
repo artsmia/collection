@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tony Berlant",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tony Berlant",
   "life_date": "American, born 1941",
   "nationality": "",
   "role": "Artist",
+  "artist": "Tony Berlant",
   "dated": "c. 1989-1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Artist, 1996",
-  "accession_number": "96.143.2",
-  "artist": "Tony Berlant"
+  "accession_number": "96.143.2"
 }

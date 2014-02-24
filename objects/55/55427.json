@@ -5,6 +5,7 @@
   "life_date": "Spanish, 1913-2005",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Antonio Clavé",
   "dated": "1966",
   "culture": null,
   "country": "Spain",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/55427",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature; Mark in pencil: [Clavé]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "P.84.51                                   ",
-  "artist": "Antonio Clavé"
+  "accession_number": "P.84.51"
 }

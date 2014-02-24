@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Paul Ickovic",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paul Ickovic",
   "life_date": "English, born 1944",
   "nationality": "English",
   "role": "Artist",
+  "artist": "Paul Ickovic",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "child wearing glasses, stocking cap and fur coat, LR corner; baby carriage center; on street",
+  "provenance": "",
   "creditline": "Ellen and Fred Wells Fund",
-  "accession_number": "98.40.2",
-  "artist": "Paul Ickovic"
+  "accession_number": "98.40.2"
 }

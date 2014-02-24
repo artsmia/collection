@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\\\"56 [underlined]/Night  in pencil, LRC on back: [Toby Old 1980]",
   "text": "",
   "description": "Andy Warhol wearing a tuxedo at R; woman wearing light-colored beaded suit and fur stole, with a flower behind her PL ear, at L",
+  "provenance": "",
   "creditline": "Gift of the Artist",
-  "accession_number": "2001.193.17                               ",
-  "artist": "Toby Old"
+  "accession_number": "2001.193.17"
 }

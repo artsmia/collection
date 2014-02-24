@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Arthur Hammond",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Arthur Hammond",
   "life_date": "American, 1882 - 1962",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Arthur Hammond",
   "dated": "1939",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "New York World\\'s Fair",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "94.50",
-  "artist": "Arthur Hammond"
+  "accession_number": "94.50"
 }

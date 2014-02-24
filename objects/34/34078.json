@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, (born Hungary) 1908 - 1997",
   "nationality": "French (born Hungary)",
   "role": "Artist",
+  "artist": "Victor Vasarely",
   "dated": "c. 1969",
   "culture": null,
   "country": "Hungary",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition in graphite, LR: [Vasarely]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Brian and Julia Morrison Palmer",
-  "accession_number": "2002.242.2",
-  "artist": "Victor Vasarely"
+  "accession_number": "2002.242.2"
 }

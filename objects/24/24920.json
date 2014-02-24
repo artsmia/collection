@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 19th-early 20th century",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Terra cotta with black slip",
   "title": "Black Horse",
   "id": "http://api.artsmia.org/objects/24920",
-  "room": "G107",
+  "room": "Not on View",
   "style": "19th-20th century",
   "marks": " ",
   "text": "",
   "description": "reproduction; in style of T\\'ang Dynasty",
+  "provenance": "",
   "creditline": "Bequest of Dorothy Millett Lindeke",
-  "accession_number": "85.42.5                                   ",
-  "artist": ""
+  "accession_number": "85.42.5"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": "Akan",
   "country": "Ghana",
@@ -13,12 +14,12 @@
   "medium": "Brass",
   "title": "Goldweight [Scorpion]",
   "id": "http://api.artsmia.org/objects/30264",
-  "room": "G240",
+  "room": "G254",
   "style": "19th-20th century",
   "marks": "Inscription; Sticker ",
   "text": "",
   "description": "Brass scorpion with 8 legs, 2 front pinchers; has forked tail; horizontal rings around body and up the tail;",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "98.1.264                                  ",
-  "artist": ""
+  "accession_number": "98.1.264"
 }

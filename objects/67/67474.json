@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJasper Johns %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1930",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jasper Johns",
   "dated": "1966",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "trial proof for RISD poster",
+  "provenance": "",
   "creditline": "Gift of Robert H. Luck",
-  "accession_number": "P.84.34.1                                 ",
-  "artist": "Jasper Johns"
+  "accession_number": "P.84.34.1"
 }

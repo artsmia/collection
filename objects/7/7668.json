@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BMilton Avery Trust %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BMilton Avery Trust %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1885 - 1965",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Milton Avery",
   "dated": "1939",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription:  # & s. & d.; Signature; Date; Number Signed on sheet and plate",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.85.30                                   ",
-  "artist": "Milton Avery"
+  "accession_number": "P.85.30"
 }

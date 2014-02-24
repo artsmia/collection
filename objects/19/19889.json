@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Photograph by Jacques Henri Lartigue %26Acirc%3B%26copy%3B Ministry of Culture %26acirc%3B%80%93 France %2F AAJHL",
   "life_date": "French, 1894 - 1986",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Henri Lartigue",
   "dated": "1930",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "72.120                                    ",
-  "artist": "Jacques Henri Lartigue"
+  "accession_number": "72.120"
 }

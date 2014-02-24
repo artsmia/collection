@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1935",
   "culture": null,
   "country": "Norway (?)",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/59627",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "\\\"*JACKIE DUNN*SONJA-ILDFEST·21-2-1935·OSLO\\\", inscr ",
   "text": "",
   "description": "rounded cone-shaped cup on a flat foot; 3 rings around top of cup with rounded cone-shaped cover and round gold knob",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Mike Birt",
-  "accession_number": "2001.227.2a,b                             ",
-  "artist": ""
+  "accession_number": "2001.227.2a,b"
 }

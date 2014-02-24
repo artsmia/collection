@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B S.L. Shaw. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B S.L. Shaw. All rights reserved.",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Susan Shaw",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "91.158",
-  "artist": "Susan Shaw"
+  "accession_number": "91.158"
 }

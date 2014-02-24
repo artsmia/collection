@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Wayne Thiebaud %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wayne Thiebaud %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1920",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wayne Thiebaud",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition\r\n\r\nsee Signed Signed in pencil: [Thiebaud]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.73.37                                   ",
-  "artist": "Wayne Thiebaud"
+  "accession_number": "P.73.37"
 }

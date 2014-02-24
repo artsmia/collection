@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
+  "image_copyright": "%26Acirc%3B%26copy%3BLouis Faurer Estate%2FCourtesy Howard Greenberg Gallery%2C NYC",
   "life_date": "American, 1916 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Louis Faurer",
   "dated": "1948",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature; Title; Edition ",
   "text": "",
   "description": "woman wearing dark suit and gloves, veiled hat and heavy makeup carrying a handbag with a metal clasp; 2 men at L seen from back",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "99.103.4                                  ",
-  "artist": "Louis Faurer"
+  "accession_number": "99.103.4"
 }

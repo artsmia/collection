@@ -5,7 +5,8 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
-  "dated": "1st century B.C.-A.D. 1st century",
+  "artist": "",
+  "dated": "1st century BCE - CE 1st century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
@@ -14,11 +15,11 @@
   "title": "Do_taku Bell",
   "id": "http://api.artsmia.org/objects/1541",
   "room": "G205",
-  "style": "1st century B.C.-A.D. 1st century",
+  "style": "1st century BCE - CE 1st century",
   "marks": " ",
   "text": "Among the most impressive examples of early bronze casting in Japan are large, bronze bells known as <I>do_taku<I>. Metallurgy, together with wet-rice cultivation, was probably first introduced to Japan by a new wave of immigrants from the Korean peninsula during the 3rd century a.d. Although <I>do_taku<I> resemble Chinese bells in overall shape, most lack musical resonance because of the thinness of their casting. Thus, <I>do_taku<I> seem to have been ritual objects and symbols of political authority. This bell was one of fourteen excavated in 1881 on Mt. O_iwa in Shiga Prefecture.",
   "description": "Bronze bell (Dotaku); Dotaku- Bronze Bell with so-called \\'crossing bands\\' (in Japanese Kesadasuki) decoration. Fine natural green patina; no repairs, in excellent condition. Excavated at Chiwa-Yama, Yashu-gun, Ohmi Province (now Shiga Prefecture) in the 14th year of Meiji, or 1881 A.D. This was on the 14 bells found, the largest of which is now in the Tokyo national Museum. with a box authentication of Professor Sueji Umehara.\r\n\r\nModern wooden storage box has authentication by Professor Umchara.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "64.1                                      ",
-  "artist": ""
+  "accession_number": "64.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Jos%26eacute%3B Ortiz-Echag%26uuml%3Be",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Jos%26Atilde%3B%26copy%3B Ortiz-Echag%26Atilde%3B%26frac14%3Be",
   "life_date": "Spanish, 1886 - 1980",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "José Ortiz-Echagüe",
   "dated": "1931",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Carl S. Anderson",
-  "accession_number": "91.126",
-  "artist": "José Ortiz-Echagüe"
+  "accession_number": "91.126"
 }

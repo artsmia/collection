@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "15th-16th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "Stickers ",
   "text": "",
   "description": "two rows of brown glazed V-shaped applied decorative elements with brown bands underneath along front top edge; open doorway into hollow interior; lattice design, in brown glaze, on either side of doorway and on upper door jamb; incised brick-like design, glazed green, around podium and lower edges on upper structure",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "98.68.2                                   ",
-  "artist": ""
+  "accession_number": "98.68.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Nolde Stiftung Seeb%26uuml%3Bll",
+  "image_copyright": "%26Acirc%3B%26copy%3B Nolde Stiftung Seeb%26Atilde%3B%26frac14%3Bll",
   "life_date": "German, 1867 - 1956",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Emil Nolde",
   "dated": "1906",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Hall James Peterson Fund",
-  "accession_number": "P.68.367                                  ",
-  "artist": "Emil Nolde"
+  "accession_number": "P.68.367"
 }

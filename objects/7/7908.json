@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Craig McPherson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Craig McPherson",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Craig McPherson",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Edition; Inscription\r\n\r\nse Signed and dated in pencil, LR: [McPHERSON \\'93 IMP",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.98.16.1",
-  "artist": "Craig McPherson"
+  "accession_number": "P.98.16.1"
 }

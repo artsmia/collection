@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Paul Wolff",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paul Wolff",
   "life_date": "German, 1887-1951",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Paul Wolff",
   "dated": "c. 1933",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Stickers; Inscriptions ",
   "text": "",
   "description": "icicles hanging from an evergreen branch at top with 2 other snow covered evergreens behind and blanket of snow on ground; matted",
+  "provenance": "",
   "creditline": "Gift of Warren and Margot Coville",
-  "accession_number": "98.195.46",
-  "artist": "Paul Wolff"
+  "accession_number": "98.195.46"
 }

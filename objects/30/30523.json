@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1954",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Velvet with embroidery",
   "title": "Torah mantle",
   "id": "http://api.artsmia.org/objects/30523",
-  "room": "Not on View",
+  "room": "G362",
   "style": "20th century",
   "marks": " ",
   "text": "Because of its revered status, the Torah is kept covered when not in use. Sephardic communities use a hard case called a Tik and Ashkenazi (Jews of German and Eastern European origin) communities use a richly decorated cloth mantle such as this one. The mantle iconography includes a Keter Torah (Crown of the Torah) at the top, which refers to the royal status the Torah holds in Judaism.  Below the crown, lions of Judah support the decalogue. The inscription reads, \"5714 [1954] For the memory of the soul of Reb Tzvi, the son of Joseph Edelstein, May his soul be bound up in the bond of life.\"",
   "description": "purple velvet cover with gold cord fringe; rigid covered top with two holes",
+  "provenance": "",
   "creditline": "Gift of Harold and Mickey Smith",
-  "accession_number": "98.136.17                                 ",
-  "artist": ""
+  "accession_number": "98.136.17"
 }

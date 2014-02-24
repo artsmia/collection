@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "3 standing men man at L looks toward his PL, wearing a belted shirt and slacks; central man holds a footed dish in his PR hand, wearing a tank-top, cut-offs, thongs and glasses; man at R looking forward, holding a cigarette in his PR hand, wearing a polo shirt and a striped cloth tie around his waist",
+  "provenance": "",
   "creditline": "Gift of Steven M. Andersen",
-  "accession_number": "2005.160.3                                ",
-  "artist": "Richard Avedon"
+  "accession_number": "2005.160.3"
 }

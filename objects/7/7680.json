@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Spanish, 1893 - 1983",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Joan Miró",
   "dated": "1973",
   "culture": null,
   "country": "Spain",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/7680",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Mirò ",
   "text": "",
   "description": "in three colors, red, green and black",
+  "provenance": "",
   "creditline": "Gift of David T. Bennett",
-  "accession_number": "P.86.30",
-  "artist": "Joan Miró"
+  "accession_number": "P.86.30"
 }

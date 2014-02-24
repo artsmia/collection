@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Leonard Baskin",
+  "image_copyright": "%26Acirc%3B%26copy%3B Leonard Baskin",
   "life_date": "American, 1922 - 2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Leonard Baskin",
   "dated": "1963",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Volume of 60 drawing reproductions with 3 original etchings Number 51/60 - (a second suite of the prints plus one drawing is intending for this part of the edition.  Only the 3 etchings of the second suite are included)\r\n",
+  "provenance": "",
   "creditline": "Gift of Gordon Locksley and George Shea",
-  "accession_number": "P.69.203",
-  "artist": "Leonard Baskin"
+  "accession_number": "P.69.203"
 }

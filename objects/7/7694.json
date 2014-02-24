@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, numbered, titled, inscribed, and ch LR: [Sam Gilliam 1982]\r\nLC: [1/6]\r\nLC: [Lattice]\r\n",
   "text": "",
   "description": "From a suite of four prints.",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
-  "accession_number": "P.86.62.12",
-  "artist": "Sam Gilliam"
+  "accession_number": "P.86.62.12"
 }

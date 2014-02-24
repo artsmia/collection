@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1942",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "In 1936, the Parisian publisher Ambrose Vollard commissioned Picasso to create a suite of etchings to illustrate texts from Histoire naturelle (Natural History), the encyclopedic eighteenth-century publication written by renowned French naturalist and author Georges Louis Leclerc, comte de Buffon. Using a range of intaglio techniques that included etching, drypoint, and lift ground aquatint, a process that allowed for subtle gradations of tone, Picasso created a personal menagerie of animals, birds, and insects for the project. The 31 etched plates were printed in 1937, but the project was postponed after the unexpected death of Vollard in 1939. Vollard's associate Martin Fabiani later revived the project and the volume was published in 1942. A highly prolific printmaker, Picasso completed more than 34,000 illustrations during his long career. Histoire naturelle ranks among his most engaging graphic works.",
   "description": "slip case: mottled green cardboard",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "B.87.1",
-  "artist": "Pablo Picasso"
+  "accession_number": "B.87.1"
 }

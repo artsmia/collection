@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Wing Young Huie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wing Young Huie",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wing Young Huie",
   "dated": "1994",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Signature; Inscription ",
   "text": "",
   "description": "Black and white photo of door with photographs and signs",
+  "provenance": "",
   "creditline": "Gift of David L. and Mary Parker",
-  "accession_number": "99.96.17                                  ",
-  "artist": "Wing Young Huie"
+  "accession_number": "99.96.17"
 }

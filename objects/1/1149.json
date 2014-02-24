@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "13th-12th century BCE",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "\\'Kia\\', with uprights. A strongly S-profiled wall, its inward curvature placed low, creates a high, flaring collar decorated with a band of dragonized t\\'ao-t\\'ieh. Above is a row of rising blades filled with stylized cicadas. On the body, three deeply scored flanges form the central ridges of three dissolved t\\'ao-t\\'ieh on a spiral ground. The handle is surmounted by an animal\\'s head with well defined feratures. The upper part, forming the neck of the animal, is covered with rows of scales; the lower part, starting from the mouth, is decorated with incised compound spirals in front and with lozenges in low relief on the sides. Directly under the handle, two small dragons with turned heads stand opposite each other. Patina blue-green.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.87                                  ",
-  "artist": ""
+  "accession_number": "50.46.87"
 }

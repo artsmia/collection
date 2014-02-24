@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2014 Donald Sultan %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B2014 Donald Sultan %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Donald Sultan",
   "dated": "October 24, 1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Number\r\nsigned by author and sign ",
   "text": "",
   "description": "unbound book; slip case: blue linen clamshell box by Brewer-Cantelmo; type: 42 pt. Cheltenham Bold; 14 pp.",
+  "provenance": "",
   "creditline": "Gift of funds from the National Endowment for the Arts and Kirt and Angela Woodhouse",
-  "accession_number": "B.89.9",
-  "artist": "Donald Sultan"
+  "accession_number": "B.89.9"
 }

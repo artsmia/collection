@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Estate of Graham Sutherland",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Graham Sutherland",
   "life_date": "British, 1903 - 1980",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Graham Sutherland",
   "dated": "1968",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition\r\n\r\nNumbered in pencil, LL: [52/ Signed in pencil, LR: [Sutherland]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
-  "accession_number": "P.79.3",
-  "artist": "Graham Sutherland"
+  "accession_number": "P.79.3"
 }

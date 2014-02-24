@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1986",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Label ",
   "text": "",
   "description": "man\\'s forehead bottom center; mannequin wearing sign \\'Lundy the Traiter\\' hanging from column at left",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2000.49.3",
-  "artist": "Gilles Peress"
+  "accession_number": "2000.49.3"
 }

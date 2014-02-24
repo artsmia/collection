@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BFrank Stella %2F Artists Rights Society %28ARS%29%2C New York%0D%0A",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Stella %2F Artists Rights Society %28ARS%29%2C New York%0D%0A",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Stella",
   "dated": "1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Edition; Chop Mark Signed and dated, LR",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.93.3",
-  "artist": "Frank Stella"
+  "accession_number": "P.93.3"
 }

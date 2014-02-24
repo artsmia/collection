@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1800",
   "culture": null,
   "country": "India",
@@ -18,7 +19,7 @@
   "marks": "Verso: 32/5 ",
   "text": "",
   "description": "illustration from a Ramayana series; Kishangarh",
+  "provenance": "",
   "creditline": "Gift of Ralph and Catherine Benkaim",
-  "accession_number": "81.116.7",
-  "artist": ""
+  "accession_number": "81.116.7"
 }

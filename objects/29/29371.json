@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sue C. Robinson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sue C. Robinson",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sue C. Robinson",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC below image in pencil: [Sue Robinson]",
   "text": "",
   "description": "child and man on bed",
+  "provenance": "",
   "creditline": "Gift of Film in the Cities",
-  "accession_number": "96.37.50",
-  "artist": "Sue C. Robinson"
+  "accession_number": "96.37.50"
 }

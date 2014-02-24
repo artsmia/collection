@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BThe Mondrian Trust %2F Holtzman Trust. All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3BThe Mondrian Trust %2F Holtzman Trust. All rights reserved",
   "life_date": "Dutch, 1872 - 1944",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Piet Mondrian",
   "dated": "c. 1906",
   "culture": null,
   "country": "Netherlands",
@@ -18,7 +19,7 @@
   "marks": " LR: [P. MONDRIAN]",
   "text": "",
   "description": "Small bouquet of red gladioli",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "91.148.4",
-  "artist": "Piet Mondrian"
+  "accession_number": "91.148.4"
 }

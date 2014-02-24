@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Copyright Beaumont Newhall%2C 1940%2C The Estate of Beaumont Newhall and Nancy Newhall. Courtesy of Scheinbaum and Russek Ltd.%2C Santa Fe%2C New Mexico.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Copyright Beaumont Newhall%2C 1940%2C The Estate of Beaumont Newhall and Nancy Newhall. Courtesy of Scheinbaum and Russek Ltd.%2C Santa Fe%2C New Mexico.",
   "life_date": "American, 1908 - 1993",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beaumont Newhall",
   "dated": "1940",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
-  "accession_number": "76.61.13                                  ",
-  "artist": "Beaumont Newhall"
+  "accession_number": "76.61.13"
 }

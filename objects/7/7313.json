@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tom Wesselmann %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Wesselmann %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1931 - 2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Tom Wesselmann",
   "dated": "1965",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition\r\n\r\nNumbered in pencil on the ma Signed in pencil on the mat:, LL [Tom Wesselmann]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
-  "accession_number": "P.13,985                                  ",
-  "artist": "Tom Wesselmann"
+  "accession_number": "P.13,985"
 }

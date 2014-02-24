@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographs by Paul Strand %26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
+  "image_copyright": "Photographs by Paul Strand %26Acirc%3B%26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
   "life_date": "American, 1890 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Strand",
   "dated": "1933",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription ",
   "text": "",
   "description": "seated man wearing a hat and simple shirt, with dark hair and mustache, holding the handle of a hoe in his PR hand, blade on his lap",
+  "provenance": "",
   "creditline": "Gift of Warren and Nancy MacKenzie",
-  "accession_number": "2000.244.1                                ",
-  "artist": "Paul Strand"
+  "accession_number": "2000.244.1"
 }

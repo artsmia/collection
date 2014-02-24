@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "dark brown exterior with attached handle; striations around top exterior; light tan interior",
+  "provenance": "",
   "creditline": "Gift of Jane B. and Martin E. Abel, from the estate of Dr. Samuel and Edith K. Beirstein",
-  "accession_number": "2003.54.3.1",
-  "artist": "Warren MacKenzie"
+  "accession_number": "2003.54.3.1"
 }

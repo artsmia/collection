@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BThe Georgia O%27Keeffe Foundation %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BThe Georgia O%27Keeffe Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1887 - 1986",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Georgia O'Keeffe",
   "dated": "1956",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "O'Keeffe was particularly fond of Pedernal Peak, a prominent mesa near her home at Ghost Ranch, New Mexico. \"It is my private mountain,\" she once said, \"God told me if I painted it enough, I could have it.\" In an unusual juxtaposition, she has framed the mountain within the opening of an abstracted bone, a common motif in her later work.",
   "description": "Landscape.",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
-  "accession_number": "64.43.2                                   ",
-  "artist": "Georgia O'Keeffe"
+  "accession_number": "64.43.2"
 }

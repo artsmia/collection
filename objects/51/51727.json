@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881 - 1953",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Albert Gleizes",
   "dated": "1946",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature signed in plate",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.69.119                                  ",
-  "artist": "Albert Gleizes"
+  "accession_number": "P.69.119"
 }

@@ -1,7 +1,7 @@
 {
   "restricted": 1,
-  "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image": "invalid",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881 - 1953",
   "nationality": "French",
   "role": "Artist",

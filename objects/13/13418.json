@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B David Parker",
+  "image_copyright": "%26Acirc%3B%26copy%3B David Parker",
   "life_date": "American, born 1951",
   "nationality": null,
   "role": "Artist",
+  "artist": "David Parker",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title in graphite along top edge, verso: [Brick Worker, ",
   "text": "",
   "description": "boy with head cover standing in front of brick wall",
+  "provenance": "",
   "creditline": "Gift of Susan and Thomas F.  Arndt",
-  "accession_number": "2000.275.7                                ",
-  "artist": "David Parker"
+  "accession_number": "2000.275.7"
 }

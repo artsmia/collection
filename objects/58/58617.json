@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BRobert Cumming %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BRobert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Cumming",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, titled, numbered, chop mark LR: [Cumming 1986]\r\nLC: [C.T.P. 4/5]\r\nLL: [APEX-OC",
   "text": "",
   "description": "Symmetrical composition featuring a large central object that simulates the shape of a light bulb; in its center, a ray-like projection extends from its base to its top; colors: black, grey, brown, yellow",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "P.83.63.20                                ",
-  "artist": "Robert Cumming"
+  "accession_number": "P.83.63.20"
 }

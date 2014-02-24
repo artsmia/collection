@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Gustave Adolphe Mossa %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Gustave Adolphe Mossa %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1883 - 1971",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gustave Adolf Mossa",
   "dated": "1906",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Date; Signature\r\n\r\nInscribed in pen, in lower marg [GUSTAV ADOLF MOSSA/NICIENSIS PINXIT/MCMVI], lower",
   "text": "",
   "description": "Woman in a ball gown with a distorted body face to face with a skull; candles on candlesticks in left foreground; stone arch bridge in background",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "74.18",
-  "artist": "Gustave Adolf Mossa"
+  "accession_number": "74.18"
 }

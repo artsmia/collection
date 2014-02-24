@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1876 - 1958",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Maurice de Vlaminck",
   "dated": "1906",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscriptions\r\n\r\nin pencil, verso: [M signed in black crayon, LR: [Vlaminck]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Kate Butler Peterson",
-  "accession_number": "2010.107.5",
-  "artist": "Maurice de Vlaminck"
+  "accession_number": "2010.107.5"
 }

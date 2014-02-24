@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Lisette Model",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lisette Model",
   "life_date": "American (born Austria), 1901 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lisette Model",
   "dated": "1934",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition and Stamp on back, in pencil: [Lisette Model]",
   "text": "",
   "description": "tanned man in 3-piece suit lounging in a chair outside; woman in a hat, reading a newspaper, in the background, looking in the direction of the man",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2002.230.5",
-  "artist": "Lisette Model"
+  "accession_number": "2002.230.5"
 }

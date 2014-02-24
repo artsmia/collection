@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Fran%26ccedil%3Bois Kollar",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Fran%26Atilde%3B%26sect%3Bois Kollar",
   "life_date": "French (born Czechoslovakia), 1904-1979",
   "nationality": "French",
   "role": "Artist",
+  "artist": "François Kollar",
   "dated": "1937",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Virginia Zabriskie",
-  "accession_number": "83.154.19",
-  "artist": "François Kollar"
+  "accession_number": "83.154.19"
 }

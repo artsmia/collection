@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gary Hallman",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gary Hallman",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gary L. Hallman",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of First Banks",
-  "accession_number": "87.35.37",
-  "artist": "Gary L. Hallman"
+  "accession_number": "87.35.37"
 }

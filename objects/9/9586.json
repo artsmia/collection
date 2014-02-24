@@ -5,6 +5,7 @@
   "life_date": "French, 1812 - 1867",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Théodore Rousseau",
   "dated": "1825",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/9586",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature; Title [Théodore Rousseau], in graphite, lower center",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Wheelock Whitney III",
-  "accession_number": "82.104.11                                 ",
-  "artist": "Théodore Rousseau"
+  "accession_number": "82.104.11"
 }

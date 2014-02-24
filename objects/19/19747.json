@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1901",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Inscription\r\nsee Signed\r\nDated al Inscribed and signed in brown ink at the upper rig",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of David M. Daniels in memory of Mr. Stanley Hawks",
-  "accession_number": "71.64",
-  "artist": "Pablo Picasso"
+  "accession_number": "71.64"
 }

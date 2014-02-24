@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Jane Kent",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jane Kent",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jane Kent",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Council",
-  "accession_number": "P.91.16",
-  "artist": "Jane Kent"
+  "accession_number": "P.91.16"
 }

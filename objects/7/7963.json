@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Richard Estes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Estes",
   "life_date": "American, born 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Estes",
   "dated": "1974",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " In graphite LC:  Richard Estes/46/100",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
-  "accession_number": "P.99.31.3",
-  "artist": "Richard Estes"
+  "accession_number": "P.99.31.3"
 }

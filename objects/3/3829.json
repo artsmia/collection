@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
   "life_date": "American, 1906 - 1970",
   "nationality": "American",
   "role": "Artist",
+  "artist": "A. Aubrey Bodine",
   "dated": "1946",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund",
-  "accession_number": "89.29.1",
-  "artist": "A. Aubrey Bodine"
+  "accession_number": "89.29.1"
 }

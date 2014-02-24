@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Robert Arneson %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Robert Arneson %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1930-1992",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Arneson",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Glazed ceramic, gilt",
   "title": "Viola with Gold",
   "id": "http://api.artsmia.org/objects/59857",
-  "room": "G317",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "\\\"Viola\\\", incised, PR side of neck \\\"Arneson/1988\\\", incised, PL side, at back of neck",
   "text": "Robert Arneson's portrait busts, though a referencing a longstanding artistic tradition, embodied his identification with the California \"Funk\" movement--less a style than an attitude. He employed vivid glazes and facial expressions that recalled both pop culture and Pop Art. \r\n\r\nAt the same time, Arneson's work rises above material and process, which he himself considered irrelevant to the final product.  He made personal statements by depicting himself, and also celebrated through portraiture the work of other artists he admired, including Van Gogh, Picasso and Jackson Pollock. <I>Viola with Gold</I> is a powerful and passionate portrayal of his friend, the influential ceramic artist Viola Frey, who helped define 20th century ceramic sculpture along with Arneson and Peter Voulkos (whose sculpture <I>Sevillanas</I> is on view in Gallery 376).  \r\n",
   "description": "head of a woman, open on top with blue glaze at interior; gold stripe down center of face; one orange eye and one green eye; white and green mottled base",
+  "provenance": "",
   "creditline": "Gift of various donors, by exchange",
-  "accession_number": "2001.216                                  ",
-  "artist": "Robert Arneson"
+  "accession_number": "2001.216"
 }

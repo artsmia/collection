@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "1843-1847",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "image, sheet: 6 3/4 x 10 13/16 in. (17.1 x 27.4 cm)\r\n14 x 17 15/16 in. (35.5 x 45.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Onono Komachi",
   "id": "http://api.artsmia.org/objects/65052",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "poem(waka) by Komachi\r\n\r\nOmoitsutsu\r\nnereba ya \r\nh Hiroshige ga",
   "text": "This fan print is from a series by Utagawa Hiroshige inspired by poems composed by renowned poetesses. It shows the ninth-century court lady and a legendary beauty, Ono no Komachi sitting in her elegantly appointed room at night, suggested by the darkness outside and presence of an oil lamp. Hiroshige depicts her composing the following poem (inscribed in the red cartouche on the print): \r\n\r\n\tBecause I fell asleep thinking of you, \r\n                I dreamed of you.\r\n    \tIf I knew it was a dream, \r\n                I would have never woken from it. \r\n",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.205                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.205"
 }

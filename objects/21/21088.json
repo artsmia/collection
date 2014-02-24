@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Aaron Siskind Foundation",
   "life_date": "American, 1903 - 1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Aaron Siskind",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "a portfolio of photographs published by the Photography Department of the School of the Art Institute of Chicago",
+  "provenance": "",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
-  "accession_number": "76.64.12                                  ",
-  "artist": "Aaron Siskind"
+  "accession_number": "76.64.12"
 }

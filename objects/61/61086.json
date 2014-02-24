@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1797 - 1858",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Hiroshige",
   "dated": "August 1854",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "14 7/16 x 9 1/2 in. (36.7 x 24.1 cm) (image)\r\n14 7/16 x 9 1/2 in. (36.7 x 24.1 cm) (sheet),trimmed\r\n22 1/16 x 18 1/16 in. (56 x 45.8 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Yoshiwara",
   "id": "http://api.artsmia.org/objects/61086",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "The priest Saigyo_ (1118-1190) was a descendant of the aristocratic Fujiwara family but withdrew from courtly circles to lead a religious life. He remained friends with noble poets, however, and was admired for his own verse. Shortly after his death, an imperial poetry anthology known as the Shinkokinshu_ included over ninety of his poems. Here, Kunisada depicts Saigyo_ in a moment of poetic reverie as he views Mount Fuji, illustrated above by Hiroshige as seen through the pine trees as Yoshiwara.",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.226                                ",
-  "artist": "Utagawa Hiroshige"
+  "accession_number": "96.146.226"
 }

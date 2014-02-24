@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Photograph by Cornell Capa%2C %26copy%3BCornell Capa",
+  "image_copyright": "Photograph by Cornell Capa%2C %26Acirc%3B%26copy%3BCornell Capa",
   "life_date": "American, 1918 - 2008",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Cornell Capa",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Untitled",
   "id": "http://api.artsmia.org/objects/11325",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "the leader",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "91.123.15                                 ",
-  "artist": "Cornell Capa"
+  "accession_number": "91.123.15"
 }

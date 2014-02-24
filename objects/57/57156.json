@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Copyright 2001%2C Chihuly Studio",
+  "image_copyright": "%26Acirc%3B%26copy%3B Copyright 2001%2C Chihuly Studio",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dale Chihuly",
   "dated": "2001",
   "culture": null,
   "country": "United States",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "21st century",
   "marks": " ",
-  "text": "Chihuly's popular <I>Macchia<I> series is named for the word for 'spotted' in Italian.  Each sculpture is formed from a unique combination of colors and topped with a colorful \"lip wrap.\"  Sandra Seibert won this studio edition piece in a raffle at the 18th Annual Antiques Show and Sale benefiting the Institute's department of Decorative Arts, Sculpture and Architecture.",
+  "text": "Chihuly’s popular <I>Macchia<I> series is named for the word for “spotted” in Italian.  Each sculpture is formed from a unique combination of colors and topped with a colorful \"lip wrap.\"  Sandra Seibert won this studio edition piece in a raffle at the 18th Annual Antiques Show and Sale benefiting the Institute’s department of Decorative Arts, Sculpture and Architecture.",
   "description": "red interior; irridescent exterior; brownish spots; green rim",
+  "provenance": "",
   "creditline": "Gift of Sandra J. Seibert in memory of her niece Beth Seibert\r\n\r\n",
-  "accession_number": "2001.277",
-  "artist": "Dale Chihuly"
+  "accession_number": "2001.277"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Target Corporation",
-  "accession_number": "2001.293.58                               ",
-  "artist": "John Newman"
+  "accession_number": "2001.293.58"
 }

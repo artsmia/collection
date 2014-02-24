@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1861 - 1944",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Aristide Maillol",
   "dated": "1907",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Maillol's portrait of his friend, the painter Auguste Renoir contrasts with the majority of the sculptor's oeuvre. He is known primarily for his depiction of female nudes in a formalized manner, which references classical Greek sculpture, much like his <i>Leda<i> on the opposite wall. <i>The Head of Renoir<i>, however, provides an intimate portrayal of the artist's friend.",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Bruce B. Dayton",
-  "accession_number": "66.60",
-  "artist": "Aristide Maillol"
+  "accession_number": "66.60"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Eames Office",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eames Office",
   "life_date": "American, 1907-1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Eames",
   "dated": "c. 1950",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "After developing a serie of molded plastic chairs, the Eameses turned to fiberglass. the \"DAR\" Chair was among the first plastic furniture to be truly mass-produced. Inexpensive, lightweight, and versatile, it was especially popular with young families in the post-war period. The shells were coupled with a wide variety of bases, including the \"Eiffel Tower\" wire strut seen here.",
   "description": "Molded fiberglass body, steel legs",
+  "provenance": "",
   "creditline": "Gift of Don and Bev Smith",
-  "accession_number": "87.33.2.2",
-  "artist": "Charles Eames"
+  "accession_number": "87.33.2.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1844-1901",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre-Adrien Dalpayrat",
   "dated": "c. 1900",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature [Dalpayrat] painted on bottom",
   "text": "",
   "description": "Vessel with handle incised with whiplash tendrils at top and bottom points of handle",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.235                                ",
-  "artist": "Pierre-Adrien Dalpayrat"
+  "accession_number": "98.276.235"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BThe Harold %26amp%3B Esther Edgerton Foundation%2C 2001%2C Courtesy of Palm Press%2C Inc.",
+  "image_copyright": "%26Acirc%3B%26copy%3BThe Harold %26amp%3B Esther Edgerton Foundation%2C 2001%2C Courtesy of Palm Press%2C Inc.",
   "life_date": "American, 1903 - 1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harold E. Edgerton",
   "dated": "1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription in pencil, verso LRQ: [Harold Edgerton]",
   "text": "",
   "description": "three images of a man jumping off a diving board and into a swimming pool; from a portfolio of 10 prints",
+  "provenance": "",
   "creditline": "Gift of the Harold and Esther Edgerton Family Foundation",
-  "accession_number": "96.149.32.2",
-  "artist": "Harold E. Edgerton"
+  "accession_number": "96.149.32.2"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1856",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Wood, pigment",
   "title": "Odd Fellows ceremonial snake staff",
   "id": "http://api.artsmia.org/objects/9670",
-  "room": "G304",
+  "room": "G331",
   "style": "19th century",
   "marks": " ",
   "text": "",
   "description": "red staff with gold snake wrapped around several times",
+  "provenance": "",
   "creditline": "Gift of Dolly J. Fiterman in honor of the Donor's Family, Everett, Sheldon and Ann Janssen",
-  "accession_number": "96.130.3.7                                ",
-  "artist": ""
+  "accession_number": "96.130.3.7"
 }

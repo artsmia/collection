@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BKenneth Noland %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BKenneth Noland %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Kenneth Noland",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Tag ",
   "text": "",
   "description": "Ecru background; pattern of a triangle with stripes in blue, green, orange, sky blue; triangle yellow",
+  "provenance": "",
   "creditline": "Gift of the Estate of Gloria F. Ross",
-  "accession_number": "99.99.1                                   ",
-  "artist": "Kenneth Noland"
+  "accession_number": "99.99.1"
 }

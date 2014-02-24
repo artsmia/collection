@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Maya",
   "country": "Guatemala",
   "continent": "North America",
   "dimension": "33 x 42 in. (83.8 x 106.7 cm)",
-  "medium": null,
+  "medium": "Cotton, rayon; supplementary weft patterning, appliqué",
   "title": "Woman's ceremonial blouse (Huipil)",
   "id": "http://api.artsmia.org/objects/28273",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Three panel huipil, round-cut neck opening with applied lace; lace at arm openings; ribbon rosettes applied to front, back and both shoulders; white ground cloth with supplementary weft patterning in yellow and purple covering upper half of garment; design consists of highly stylized forms, plant forms, rayed diamonds and others; lower half of garment patterned in whtite on white in diamond/trellis pattern.",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons, in memory of Roberta Grodberg Simmons",
-  "accession_number": "93.85.8                                   ",
-  "artist": ""
+  "accession_number": "93.85.8"
 }

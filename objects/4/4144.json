@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1911",
   "culture": null,
   "country": "Germany",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/4144",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature; Mark; Inscription [Käthe Kollwitz], in graphite, lower right",
   "text": "",
   "description": "Framed; chalk sketch of mother\\'s hand verso",
+  "provenance": "",
   "creditline": "Gift of Marion and John Andrus",
-  "accession_number": "91.131.2",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "91.131.2"
 }

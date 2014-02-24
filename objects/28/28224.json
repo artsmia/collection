@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Gerald G. Granger",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Gerald G. Granger",
   "life_date": "American, 1903-1946",
   "nationality": null,
   "role": "Artist",
+  "artist": "Gerald G. Granger",
   "dated": "c. 1941",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "chloro-bromide print: according to TMS, gelatin silver according to catalog card",
+  "provenance": "",
   "creditline": "Gift of the Family of Charles B. Phelps, Jr.",
-  "accession_number": "93.71.3",
-  "artist": "Gerald G. Granger"
+  "accession_number": "93.71.3"
 }

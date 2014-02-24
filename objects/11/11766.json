@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Allen Downs",
   "life_date": "American, 1915 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Allen Downs",
   "dated": "1946",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "82.91.2                                   ",
-  "artist": "Allen Downs"
+  "accession_number": "82.91.2"
 }

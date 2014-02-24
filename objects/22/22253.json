@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Richard Misrach. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Richard Misrach. All rights reserved.",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Misrach",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "a portfolio of twenty photographs in both color and gelatin silver prints by twenty artists",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Council of The Minneapolis Institute of Arts",
-  "accession_number": "80.24.12",
-  "artist": "Richard Misrach"
+  "accession_number": "80.24.12"
 }

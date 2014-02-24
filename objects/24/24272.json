@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BWolf von dem Bussche",
+  "image_copyright": "%26Acirc%3B%26copy%3BWolf von dem Bussche",
   "life_date": "American (b. Germany), born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wolf Von Dem Bussche",
   "dated": "1976",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "84.125.7                                  ",
-  "artist": "Wolf Von Dem Bussche"
+  "accession_number": "84.125.7"
 }

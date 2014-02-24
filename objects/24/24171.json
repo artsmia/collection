@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Max Thorek",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Max Thorek",
   "life_date": "American (born Hungary), 1880 - 1960",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Max Thorek",
   "dated": "c. 1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "84.101.3",
-  "artist": "Max Thorek"
+  "accession_number": "84.101.3"
 }

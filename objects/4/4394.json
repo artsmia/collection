@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Philip Guston %2F The Guston Foundation",
+  "image_copyright": "%26Acirc%3B%26copy%3B Philip Guston %2F The Guston Foundation",
   "life_date": "American, 1913-1980",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Philip Guston",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Prospects",
   "id": "http://api.artsmia.org/objects/4394",
-  "room": "G369",
+  "room": "MS",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "Abstraction with six horseshoe shapes.",
+  "provenance": "",
   "creditline": "Bequest of Musa Guston",
-  "accession_number": "92.149",
-  "artist": "Philip Guston"
+  "accession_number": "92.149"
 }

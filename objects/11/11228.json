@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Mark Boyle",
+  "image_copyright": "%26Acirc%3B%26copy%3B Mark Boyle",
   "life_date": "British, born 1934",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Mark Boyle",
   "dated": "c. 1978",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of William H. Hahn via the Martin Ackerman Foundation",
-  "accession_number": "79.49.2",
-  "artist": "Mark Boyle"
+  "accession_number": "79.49.2"
 }

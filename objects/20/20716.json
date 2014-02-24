@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BMichael Simon",
+  "image_copyright": "%26Acirc%3B%26copy%3BMichael Simon",
   "life_date": "American (born Hungary) 1936",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael Simon",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "dock with kids, island in distance",
+  "provenance": "",
   "creditline": "The Kate and Hall J. Peterson Fund",
-  "accession_number": "74.90.8                                   ",
-  "artist": "Michael Simon"
+  "accession_number": "74.90.8"
 }

@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
-  "life_date": null,
+  "life_date": "American, 1901 - 1981 (Nybro, Smäland, Sweden)",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Henry Holmstrom",
   "dated": "1940",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature LR: [H. Holmstrom]",
   "text": "",
   "description": "Genre. Architecture.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "41.45                                     ",
-  "artist": "Henry Holmstrom"
+  "accession_number": "41.45"
 }

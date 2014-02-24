@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B1976 George Krause",
+  "image_copyright": "%26Acirc%3B%26copy%3B1976 George Krause",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Krause",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nude with floodlights",
+  "provenance": "",
   "creditline": "Gift of Lee Kitzenberg",
-  "accession_number": "87.37                                     ",
-  "artist": "George Krause"
+  "accession_number": "87.37"
 }

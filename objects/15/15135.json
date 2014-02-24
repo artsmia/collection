@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th century",
   "culture": null,
   "country": "Persia (Iran)",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "L.86 x W.24-¼ in.",
   "medium": "silk with metallic thread",
   "title": "Sash",
   "id": "http://api.artsmia.org/objects/15135",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Banded scarf of polonaise type made with narrow alternating stripes of two patterns and with a wide silver border at the bottom on which are fine flowering trees. Finished all around with a narrow floral border and at each end with added silver fringe.",
+  "provenance": "",
   "creditline": "Bequest of Miss Lily Place",
-  "accession_number": "30.23.156                                 ",
-  "artist": ""
+  "accession_number": "30.23.156"
 }

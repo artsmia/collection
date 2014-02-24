@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Richard Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Smith",
   "life_date": "British, born 1931",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Richard Smith",
   "dated": "1966",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of W. M. Bollenbach, Jr.",
-  "accession_number": "78.74.2                                   ",
-  "artist": "Richard Smith"
+  "accession_number": "78.74.2"
 }

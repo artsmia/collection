@@ -5,6 +5,7 @@
   "life_date": "American, 1856-1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Louis Henri Sullivan",
   "dated": "c. 1908",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Cast iron, pigment",
   "title": "\"Consultation Rooms\" sign",
   "id": "http://api.artsmia.org/objects/30905",
-  "room": "Not on View",
+  "room": "G300",
   "style": "20th century",
   "marks": " ",
-  "text": "",
+  "text": "The lettering on this sign is in a playful font designed by Elmslie for the Owatonna bank’s signage. The letter T is in the form of a T square, a traditional drafting tool. This particular sign may never have been installed.",
   "description": "green with gold letters; rectangular with vertical rectangular element with leaves and organic designs in relief at left",
+  "provenance": "",
   "creditline": "Gift of Roger G. Kennedy",
-  "accession_number": "98.256.22                                 ",
-  "artist": "Louis Henri Sullivan"
+  "accession_number": "98.256.22"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "1957-1959",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Mark ",
   "text": "",
   "description": "bulbous ceramic body on wood base; striations at top and around midsection; 5 swirls around center body; greenish-grey with brown specks",
+  "provenance": "",
   "creditline": "Gift of Jane B. and Martin E. Abel, from the estate of Dr. Samuel and Edith K. Beirstein",
-  "accession_number": "2003.54.1",
-  "artist": "Warren MacKenzie"
+  "accession_number": "2003.54.1"
 }

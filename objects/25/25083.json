@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Aaron Siskind Foundation",
   "life_date": "American, 1903 - 1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Aaron Siskind",
   "dated": "1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Fiduciary Fund",
-  "accession_number": "86.73.4                                   ",
-  "artist": "Aaron Siskind"
+  "accession_number": "86.73.4"
 }

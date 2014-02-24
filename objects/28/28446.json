@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "N.A.S.A.",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print mounted on paper",
   "title": "U.S. Geological Survey, Segment 3, Sector 9-10",
   "id": "http://api.artsmia.org/objects/28446",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "30 photos overlapped to create an image for sectors 9 and 10, Segment 3",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "94.101.14                                 ",
-  "artist": "N.A.S.A."
+  "accession_number": "94.101.14"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, Dated, and Inscribed VERSO: [John Newman / 1985]\r\nVERSO: [Trial Proof /",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
-  "accession_number": "P.87.11.8                                 ",
-  "artist": "John Newman"
+  "accession_number": "P.87.11.8"
 }

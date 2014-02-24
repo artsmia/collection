@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1914 - 1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Nicolas de Stael",
   "dated": "1954",
   "culture": null,
   "country": "Russia",
@@ -18,7 +19,7 @@
   "marks": "Signature LR: [Stael]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
-  "accession_number": "64.44.4                                   ",
-  "artist": "Nicolas de Stael"
+  "accession_number": "64.44.4"
 }

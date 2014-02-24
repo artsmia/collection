@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Belorussian, 1887 - 1985",
   "nationality": "Belorussian",
   "role": "Artist",
+  "artist": "Marc Chagall",
   "dated": "1927-1930 (pub. 1952)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " signed in plate",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The John Washburn Memorial Fund, 1961",
-  "accession_number": "P.12,813",
-  "artist": "Marc Chagall"
+  "accession_number": "P.12,813"
 }

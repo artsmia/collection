@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, 1915-1991",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Motherwell",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Mark, Edition\r\n\r\nsee Signed LRC, in pencil: [Motherwell 59/69]",
   "text": "",
   "description": "red rectangle with outlines of three rectangles in black at top center; rough grey pigment on two outer rectangles and bottom of rectangles; black bar at L edge of red rectangle",
+  "provenance": "",
   "creditline": "Gift of Marguerite and Russell Cowles",
-  "accession_number": "2003.244.1                                ",
-  "artist": "Robert Motherwell"
+  "accession_number": "2003.244.1"
 }

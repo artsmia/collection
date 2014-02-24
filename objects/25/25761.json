@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Connie Sullivan",
+  "image_copyright": "%26Acirc%3B%26copy%3B Connie Sullivan",
   "life_date": "American, born 1934",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Connie Sullivan",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "ashes on table, fish image at top, 379CS",
+  "provenance": "",
   "creditline": "Gift of James H. Rombke II",
-  "accession_number": "89.102.2",
-  "artist": "Connie Sullivan"
+  "accession_number": "89.102.2"
 }

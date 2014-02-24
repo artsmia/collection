@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1871 - 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Sloan",
   "dated": "1905",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Imperial Japan edition;\r\nErased: Limited to ten (1 In plate, on sheet",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund, 1915",
-  "accession_number": "P.49                                      ",
-  "artist": "John Sloan"
+  "accession_number": "P.49"
 }

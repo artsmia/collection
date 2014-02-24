@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "1811-1820",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "10 3/8 x 9 5/8 in. (26.3 x 24.5 cm) (image)\r\n11 x 9 5/8 in. (28 x 24.5 cm) (sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Moon Underneath the Bridge",
   "id": "http://api.artsmia.org/objects/62726",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Katsushika Taito",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
-  "accession_number": "P.13,956                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "P.13,956"
 }

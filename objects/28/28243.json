@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Marc Riboud",
+  "image_copyright": "%26Acirc%3B%26copy%3B Marc Riboud",
   "life_date": "French, born 1923",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marc Riboud",
   "dated": "20th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.66",
-  "artist": "Marc Riboud"
+  "accession_number": "93.70.66"
 }

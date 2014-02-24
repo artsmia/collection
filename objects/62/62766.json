@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "c. 1831-1832",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "image, sheet: 15 1/16 x 10 3/16 in. (38.3 x 25.9 cm)\r\n22 1/16 x 18 in. (56 x 45.7 cm) (mat)",
-  "medium": "Color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Waterfall at Aoigaoka in Edo",
   "id": "http://api.artsmia.org/objects/62766",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " zen Hokusai Iitsu hitsu",
   "text": "",
   "description": "nishiki-e, omohan ai-zuri",
+  "provenance": "",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
-  "accession_number": "P.13,727                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "P.13,727"
 }

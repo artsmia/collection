@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B1970 The Imogen Cunningham Trust",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Imogen Cunningham Trust",
   "life_date": "American, 1883-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Imogen Cunningham",
   "dated": "1934",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Ethel Morrison Van Derlip Fund",
-  "accession_number": "76.51                                     ",
-  "artist": "Imogen Cunningham"
+  "accession_number": "76.51"
 }

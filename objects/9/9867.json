@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2012 Banco de M%26eacute%3Bxico Diego Rivera Frida Kahlo Museums Trust%2C Mexico%2C D.F. %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Banco de M%26Atilde%3B%26copy%3Bxico Diego Rivera Frida Kahlo Museums Trust%2C Mexico%2C D.F. %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Mexican, 1886 - 1957",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Diego Rivera",
   "dated": "c. 1940-50",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\nsee Signed LL in black chalk: [Diego Rivera]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Ruth A. and Elliot J. Brebner",
-  "accession_number": "96.83.1                                   ",
-  "artist": "Diego Rivera"
+  "accession_number": "96.83.1"
 }

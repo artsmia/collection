@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Mary Ellen Mark",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Mary Ellen Mark",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mary Ellen Mark",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print (selenium toned)",
   "title": "Homeless Damm Family in Their Car, Los Angeles, California",
   "id": "http://api.artsmia.org/objects/83539",
-  "room": "Not on View",
+  "room": "G365",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "view of family through open car door; bearded man with arms around tired-looking woman wearing jeans; girl with long dark hair and boy with blonde hair in back seat",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2003.245.5",
-  "artist": "Mary Ellen Mark"
+  "accession_number": "2003.245.5"
 }

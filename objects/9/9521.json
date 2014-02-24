@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1882 - 1960",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Herbin",
   "dated": "1920",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Mark; Label LRC: [A herbin]",
   "text": "",
   "description": "Oblong abstract figure",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard Wilcox",
-  "accession_number": "87.103.1",
-  "artist": "Auguste Herbin"
+  "accession_number": "87.103.1"
 }

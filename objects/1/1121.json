@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "4th century BCE",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Bronze inlaid with gold",
   "title": "Ko (Dagger-Axe)",
   "id": "http://api.artsmia.org/objects/1121",
-  "room": "G214",
+  "room": "Not on View",
   "style": "4th century BCE",
   "marks": " ",
   "text": "",
   "description": "The yuan has narrow, sharpened bevels on both edges and a narrow ridge approximately midway the length of the blade. The nei is rectangular and is decorated on both sides with a rectangular panel displaying a pattern of T forms inlaid with gold. The hu is adorned on the face with two slender birds in gold inlay just opposite the lower slits designed to lash the haft to the Kuo. A third slit occurs at the nei end of the blade, and still another at the base of the gold motif on the nei itself. Patina green and sharp green.",
+  "provenance": "",
   "creditline": "Bequest of Alfred F. Pillsbury",
-  "accession_number": "50.46.55",
-  "artist": ""
+  "accession_number": "50.46.55"
 }

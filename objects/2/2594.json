@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographe Brassa%26iuml%3B Copyright %26copy%3BGilberte Brassa%26iuml%3B",
+  "image_copyright": "Photographe Brassa%26Atilde%3B%26macr%3B Copyright %26Acirc%3B%26copy%3BGilberte Brassa%26Atilde%3B%26macr%3B",
   "life_date": "(Gyula Halsz) French (born Hungary), 1899 - 1984",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Brassaï",
   "dated": "1933",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Anonymous gift of funds",
-  "accession_number": "78.92.2                                   ",
-  "artist": "Brassaï"
+  "accession_number": "78.92.2"
 }

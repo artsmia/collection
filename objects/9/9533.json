@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2002 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1892 - 1971",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marcel Gromaire",
   "dated": "1964",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date LRC: [Gromaire/1964]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mrs. Patrick Butler",
-  "accession_number": "72.102",
-  "artist": "Marcel Gromaire"
+  "accession_number": "72.102"
 }

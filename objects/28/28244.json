@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Walter Siebert",
+  "image_copyright": "%26Acirc%3B%26copy%3B Walter Siebert",
   "life_date": "German",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Walter Siebert",
   "dated": "20th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.67",
-  "artist": "Walter Siebert"
+  "accession_number": "93.70.67"
 }

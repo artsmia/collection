@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "late 20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Cotton",
   "title": "Apron Bottom",
   "id": "http://api.artsmia.org/objects/28483",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "blue, black, grey cotton, with embroidered floral panel",
+  "provenance": "",
   "creditline": "Gift of funds from Cliff and Sue Roberts",
-  "accession_number": "94.5.15                                   ",
-  "artist": ""
+  "accession_number": "94.5.15"
 }

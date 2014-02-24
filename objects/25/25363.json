@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJerome Liebling Photography",
+  "image_copyright": "%26Acirc%3B%26copy%3BJerome Liebling Photography",
   "life_date": "American, 1924-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jerome Liebling",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of First Banks",
-  "accession_number": "87.35.56                                  ",
-  "artist": "Jerome Liebling"
+  "accession_number": "87.35.56"
 }

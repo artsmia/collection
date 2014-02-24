@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Wing Young Huie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wing Young Huie",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wing Young Huie",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "St. Adalbert's, Frogtown",
   "id": "http://api.artsmia.org/objects/39332",
-  "room": "Not on View",
+  "room": "G280",
   "style": "20th century",
   "marks": "Title; Date; Signature; Inscription ",
   "text": "",
   "description": "black and white photo of man in white robe walking away from camera; robes on hangers, left side of image",
+  "provenance": "",
   "creditline": "Gift of David L. and Mary M. D. Parker",
-  "accession_number": "2002.183.55                               ",
-  "artist": "Wing Young Huie"
+  "accession_number": "2002.183.55"
 }

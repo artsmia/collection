@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "15th-16th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "Stickers ",
   "text": "",
   "description": "ribbed roof, glazed green; round elements in three rows on one long side; blue glazed element on top edge and 3/4 way down each side edge; circular hole on each short side",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "98.68.5                                   ",
-  "artist": ""
+  "accession_number": "98.68.5"
 }

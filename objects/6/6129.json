@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BSusan Lipper 1990",
+  "image_copyright": "%26Acirc%3B%26copy%3BSusan Lipper 1990",
   "life_date": "American, born 1953",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Susan Lipper",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition ",
   "text": "",
   "description": "book of photographs with short section of text at back; gelatin silver print of a barechested boy standing in front of trees inside a plastic cover attached to inner back cover; in a black slipcase",
+  "provenance": "",
   "creditline": "Gift of the McClurg Fund",
-  "accession_number": "B.98.3a-c                                 ",
-  "artist": "Susan Lipper"
+  "accession_number": "B.98.3a-c"
 }

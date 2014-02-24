@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "2000",
   "culture": null,
   "country": "Cuba",
@@ -18,7 +19,7 @@
   "marks": "Signature; Title; Edition\r\n\r\nin pencil, bottom edg in pencil, LRC on back: [Toby Old 2000]",
   "text": "",
   "description": "woman at R walking on a run-down street; van at L; mural of a man, seen from back, looking at the sea, L of center",
+  "provenance": "",
   "creditline": "Gift of the Artist, by exchange",
-  "accession_number": "2002.1.43                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2002.1.43"
 }

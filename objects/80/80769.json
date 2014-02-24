@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1885 - 1962",
   "nationality": "French",
   "role": "Artist",
+  "artist": "André Lhote",
   "dated": "1927",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "\r\n ",
   "text": "",
   "description": "binding: paper cover with ship designs in black and brown; endpapers: wove",
+  "provenance": "",
   "creditline": "Bequest of Putman Dana McMillian",
-  "accession_number": "B.61.1",
-  "artist": "André Lhote"
+  "accession_number": "B.61.1"
 }

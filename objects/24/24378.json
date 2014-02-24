@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BJames Knipe",
+  "image_copyright": "%26Acirc%3B%26copy%3BJames Knipe",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James Knipe",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "84.25.2                                   ",
-  "artist": "James Knipe"
+  "accession_number": "84.25.2"
 }

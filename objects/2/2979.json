@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image": "valid",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Considered one of film history's greatest comedic actors, Joseph Francis Keaton (1895-1966) began acting in vaudeville at age three. He discovered early on that, \"the more serious I turned, the bigger laugh I got.\" Though the comedian is not smiling here, Avedon's image hints at Keaton's nature via rakish angles and composition. Elements are arranged to frame the eyes and face. Keaton's fingers appear light and loose around the hat's brim, contradicting his stone-faced expression.",
   "description": "",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "81.94.2                                   ",
-  "artist": "Richard Avedon"
+  "accession_number": "81.94.2"
 }

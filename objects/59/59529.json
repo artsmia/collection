@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "18th-19th century",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "concave horizontal mouldings on sides resembling bamboo; plain top with incised line at edge; wide foot rim and recessed base",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2001.210.2a,b                             ",
-  "artist": ""
+  "accession_number": "2001.210.2a,b"
 }

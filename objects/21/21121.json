@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "960-1127",
   "culture": null,
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Stoneware, glaze",
   "title": "Vase",
   "id": "http://api.artsmia.org/objects/21121",
-  "room": "G180",
+  "room": "Not on View",
   "style": "10th-12th century",
   "marks": " ",
   "text": "During the Northern Song, a thriving urban class grew, and the desire for porcelain filtered down from the upper strata. Economic restrictions prevented those of a lower rank from attaining true porcelain, and as a result, stoneware objects meant to imitate porcelain, such as this vase were produced in order to satisfy this desire. One can see from the crumbled glaze that this vase does not possess the vitrified qualities of porcelain.",
   "description": "vase pear-shaped body on high, spread foot and with long neck; relief underglazed lotus motif; pale green glaze on stoneware",
+  "provenance": "",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "accession_number": "76.72.104                                 ",
-  "artist": ""
+  "accession_number": "76.72.104"
 }

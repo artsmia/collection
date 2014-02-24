@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Antonin Roubicek",
+  "image_copyright": "%26Acirc%3B%26copy%3B Antonin Roubicek",
   "life_date": "Czech, born 1920",
   "nationality": "Czech",
   "role": "Artist",
+  "artist": "Antonin Roubicek",
   "dated": "1986",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title; Stamp; Inscriptions recto: [A. Roubicek 1986]",
   "text": "",
   "description": "received unmatted",
+  "provenance": "",
   "creditline": "Gift of Lora and Martin G. Weinstein",
-  "accession_number": "93.70.48",
-  "artist": "Antonin Roubicek"
+  "accession_number": "93.70.48"
 }

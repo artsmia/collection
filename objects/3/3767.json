@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Philip Jones Griffiths%2C courtesy Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Philip Jones Griffiths%2C courtesy Magnum Photos",
   "life_date": "Welsh, born 1936",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Philip Jones Griffiths",
   "dated": "1967",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Napalm Victim, South Vietnam",
   "id": "http://api.artsmia.org/objects/3767",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Stephen Daiter",
-  "accession_number": "88.92                                     ",
-  "artist": "Philip Jones Griffiths"
+  "accession_number": "88.92"
 }

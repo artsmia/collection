@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/50285",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Inscriptions\r\nnotes by Lepère ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Herschel V. Jones, 1925",
-  "accession_number": "P.10,388                                  ",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "P.10,388"
 }

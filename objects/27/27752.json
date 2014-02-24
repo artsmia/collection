@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Karl F. Kunkel",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Karl F. Kunkel",
   "life_date": "American, 1900 - 1995",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Karl F. Kunkel",
   "dated": "c. 1949",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Karl F. Kunkel",
-  "accession_number": "91.50",
-  "artist": "Karl F. Kunkel"
+  "accession_number": "91.50"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Edward L. Bafford",
+  "image_copyright": "%26Acirc%3B%26copy%3B Edward L. Bafford",
   "life_date": "American, 1902 - 1981",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward L. Bafford",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Thomas and Agnes Limborg",
-  "accession_number": "94.12.10",
-  "artist": "Edward L. Bafford"
+  "accession_number": "94.12.10"
 }

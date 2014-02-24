@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1660",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Silver",
   "title": "Two-handled cup",
   "id": "http://api.artsmia.org/objects/507",
-  "room": "G332",
+  "room": "Not on View",
   "style": "17th century",
   "marks": "Mark\r\n\r\n-On the side is engraved a coat of arms, u ",
   "text": "",
   "description": "covered two-handled cup,  with elaborate floral design; the handles are formed of two female figures",
+  "provenance": "",
   "creditline": "Gift of Mrs. John Washburn and Miss Elisabeth Pope Washburn in memory of Mr. John Washburn",
-  "accession_number": "32.43a,b                                  ",
-  "artist": ""
+  "accession_number": "32.43a,b"
 }

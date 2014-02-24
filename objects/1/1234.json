@@ -5,6 +5,7 @@
   "life_date": "French, 1840 - 1926",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Claude Monet",
   "dated": "1864",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "The Seashore at Sainte-Adresse",
   "id": "http://api.artsmia.org/objects/1234",
-  "room": "Not on View",
+  "room": "G355",
   "style": "19th century",
   "marks": "Signature LR in black: [C. Monet]",
   "text": "",
   "description": "Impressionist. Landscape with coast.",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Theodore Bennett",
-  "accession_number": "53.13                                     ",
-  "artist": "Claude Monet"
+  "accession_number": "53.13"
 }

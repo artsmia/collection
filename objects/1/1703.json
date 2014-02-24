@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1767 - 1855",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean-Baptiste Isabey",
   "dated": "c. 1798-1799",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Mark, Inscription\r\n\r\nInscribed on verso in black i cream wove paper",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of David M. Daniels",
-  "accession_number": "69.131.1                                  ",
-  "artist": "Jean-Baptiste Isabey"
+  "accession_number": "69.131.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The Estate of Graham Sutherland",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Estate of Graham Sutherland",
   "life_date": "British, 1903 - 1980",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Graham Sutherland",
   "dated": "1968",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature; Edition\r\n\r\nNumbered in pencil: [55/70] Signed in pencil: [Sutherland]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.69.9",
-  "artist": "Graham Sutherland"
+  "accession_number": "P.69.9"
 }

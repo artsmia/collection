@@ -5,6 +5,7 @@
   "life_date": "American, 1912-1992",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Cage",
   "dated": "January 3, 1978",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Etching, drypoint, and soft-ground etching",
   "title": "Day II",
   "id": "http://api.artsmia.org/objects/56993",
-  "room": "Not on View",
+  "room": "G225",
   "style": "20th century",
   "marks": "Signature, Edition, Inscription, Stamp\r\n\r\nsee Sign Signed in pencil, LR: [John Cage]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
-  "accession_number": "P.78.25.4                                 ",
-  "artist": "John Cage"
+  "accession_number": "P.78.25.4"
 }

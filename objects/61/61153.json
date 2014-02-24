@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
   "life_date": "American (born Spain), 1896-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Pierre Daura",
   "dated": "c. 1937-1939",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "\\\"Valdeceun ca/ceruet/CIVILISATION 1937 The innocen ",
   "text": "",
   "description": "child lying on his PL side on a bed, surrounded by 5 weeping adults",
+  "provenance": "",
   "creditline": "Gift of Martha R. Daura",
-  "accession_number": "2002.29.8                                 ",
-  "artist": "Pierre Daura"
+  "accession_number": "2002.29.8"
 }

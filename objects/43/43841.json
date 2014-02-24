@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Duncan Hannah",
+  "image_copyright": "%26Acirc%3B%26copy%3B Duncan Hannah",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Duncan Hannah",
   "dated": "1990",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, numbered, annotated, chopmark LR: [Working Proof - archive - / Duncan Hannah - 9",
   "text": "",
   "description": "View from beneath a subway platform of a wide open street; a pedestrian on L walks away from the viewer; across the street and to the R is a large white billboard and some non-descript buildings; subtle to increasing detail towards foreground; colors: black, pale green, cream",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Dr. Glen D. Nelson",
-  "accession_number": "P.98.18.4",
-  "artist": "Duncan Hannah"
+  "accession_number": "P.98.18.4"
 }

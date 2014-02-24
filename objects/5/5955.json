@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Andrew Baugnet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Andrew Baugnet",
   "life_date": "American, born 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andrew Baugnet",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Title ",
   "text": "",
   "description": "field with tall grain at right extending toward left into a field of shorter grasses in middle ground; cluster of trees at right in background",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "99.35.2",
-  "artist": "Andrew Baugnet"
+  "accession_number": "99.35.2"
 }

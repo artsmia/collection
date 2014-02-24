@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
   "life_date": "American, 1928-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Helen Frankenthaler",
   "dated": "1983",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Edition; Artist\\'s stamp; Chop mar Signed in pencil, LR: [Frankenthaler]",
   "text": "",
   "description": "10-color woodcut",
+  "provenance": "",
   "creditline": "Gift of the First National Bank of St. Paul",
-  "accession_number": "P.84.1                                    ",
-  "artist": "Helen Frankenthaler"
+  "accession_number": "P.84.1"
 }

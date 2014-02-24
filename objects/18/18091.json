@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignees",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Helen V. Forsberg",
   "dated": "1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LL: [H. Forsberg-\\'53]",
   "text": "",
   "description": "Abstraction.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "53.9                                      ",
-  "artist": "Helen V. Forsberg"
+  "accession_number": "53.9"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "French, 1869 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Matisse",
   "dated": "1929",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Drypoint",
   "title": "Girl with Fishbowl",
   "id": "http://api.artsmia.org/objects/50372",
-  "room": "Not on View",
+  "room": "G369",
   "style": "20th century",
   "marks": "Signature Signature on plate and in pencil",
-  "text": "",
+  "text": "To make his etchings, Matisse frequently sketched from the subject directly onto small, hand-held copper plates. He showed little interest in reworking a plate to produce different states, or printed stages, of the composition. Instead, Matisse was far more intrigued by creating independent variations of a motif. \r\n\r\nIn November 1929 he produced a series of ten etchings of a female head and goldfish bowl. Matisse forced himself to approach the subject anew each time to enable him to set down all his sensory impressions. In most of these etchings, she peers at or dozes before the goldfish bowl. Here, she gazes out at the viewer. \r\nThis impression is one of two rare trial proofs. Subsequently, Matisse printed this etching in a numbered edition of ten.",
   "description": "",
+  "provenance": "",
   "creditline": "The Margaret McMillan Webber Estate, by exchange",
-  "accession_number": "P.78.6.9",
-  "artist": "Henri Matisse"
+  "accession_number": "P.78.6.9"
 }

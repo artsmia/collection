@@ -5,6 +5,7 @@
   "life_date": "French, 1592 - 1635",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Callot",
   "dated": "1633",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Etching",
   "title": "Les Mendiants et les Mourants",
   "id": "http://api.artsmia.org/objects/49107",
-  "room": "G344",
+  "room": "Not on View",
   "style": "17th century",
   "marks": "Number\r\n\r\nin plate: [16] ",
   "text": "",
   "description": "Plate 16",
+  "provenance": "",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
-  "accession_number": "P.1,372                                   ",
-  "artist": "Jacques Callot"
+  "accession_number": "P.1,372"
 }

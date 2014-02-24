@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Albert Dammouse",
   "dated": "1883-1885",
   "culture": null,
   "country": "France",
   "continent": "Europe",
   "dimension": "H.9-5/8 x W.4-1/8 x D.5-5/8 in.",
-  "medium": null,
+  "medium": "incised earthenware (grès brun) with enamel decoration",
   "title": "Pitcher",
   "id": "http://api.artsmia.org/objects/32040",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": "Stamps; Inscription ",
   "text": "",
   "description": "brown with gold and blue-green decoration including yellow band at rim, dots on neck, and flowers below shoulder",
+  "provenance": "",
   "creditline": "Gift of Christopher Monkhouse in honor of Naomi Maurer and the publication of her book, 'The Pursuit of Spiritual Wisdom: The Thought and Art of Vincent Van Gogh and Paul Gauguin'",
-  "accession_number": "99.224.3                                  ",
-  "artist": "Albert Dammouse"
+  "accession_number": "99.224.3"
 }

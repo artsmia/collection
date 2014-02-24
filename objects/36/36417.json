@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Gilles Peress%2FMagnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gilles Peress%2FMagnum Photos",
   "life_date": "French, born 1946",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gilles Peress",
   "dated": "1993",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s Stamp ",
   "text": "",
   "description": "group of children reaching and looking up at camera",
+  "provenance": "",
   "creditline": "Gift of Stephen Parker and Michelle Parker",
-  "accession_number": "2001.284.3",
-  "artist": "Gilles Peress"
+  "accession_number": "2001.284.3"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Michael Ende",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Ende",
   "life_date": "Israeli, born 1945",
   "nationality": "Israeli",
   "role": "Artist",
+  "artist": "Michael Ende",
   "dated": "c. 1985",
   "culture": null,
   "country": "Israel",
@@ -18,7 +19,7 @@
   "marks": "Signature; Inscription ",
   "text": "",
   "description": "pointing finger at bottom; \\\"stem\\\" covered with leaves and vines, surmounted by standing bearded man holding open scroll topped with the Ark of the Covenant (?); man wears movable hooded garment with wire \\\"fringe\\\"",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Sally Leafman Appelbaum",
-  "accession_number": "2003.228.16",
-  "artist": "Michael Ende"
+  "accession_number": "2003.228.16"
 }

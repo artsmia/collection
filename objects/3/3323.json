@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "life_date": "American, 1901-1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Clarence K. Bros",
   "dated": "c. 1936",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Ford Bell house, Lake Minnetonka",
+  "provenance": "",
   "creditline": "Gift of the artist",
-  "accession_number": "85.108.2                                  ",
-  "artist": "Clarence K. Bros"
+  "accession_number": "85.108.2"
 }

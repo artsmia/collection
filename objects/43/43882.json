@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image_copyright": "%26Acirc%3B%26copy%3B2001 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1921",
   "culture": null,
   "country": "Germany",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/43882",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature in pencil, LR: [Kathë Kollwitz](Title?)",
   "text": "In this lithograph a mother reacts to the news that a loved one has been killed in action. Her children run to comfort her and in turn react to her immense grief and agony.",
   "description": "woman with hands grasping her head, surrounded by 4 clinging children",
+  "provenance": "",
   "creditline": "The Estate of Charles J. Winton and Henrietta McDonald Winton",
-  "accession_number": "P.98.25.3",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "P.98.25.3"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1879 - 1954",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Frélaut",
   "dated": "1907",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
-  "accession_number": "P.58.401",
-  "artist": "Jean Frélaut"
+  "accession_number": "P.58.401"
 }

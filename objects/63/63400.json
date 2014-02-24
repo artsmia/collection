@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1760 - 1849",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Katsushika Hokusai",
   "dated": "1816",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "7 1/16 x 10 1/16 in. (18 x 25.5 cm) (image)\r\n8 1/16 x 10 13/16 in. (20.5 x 27.5 cm) (sheet)\r\n14 x 17 15/16 in. (35.5 x 45.5 cm) (mat)",
-  "medium": "Color woodblock print, tansai-zuri(sumi+light color)",
+  "medium": "From a woodblock printed book; ink and limited color on paper",
   "title": "Kakinomoto Hitomaro and Ten?? Mountain",
   "id": "http://api.artsmia.org/objects/63400",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "double page from a book",
+  "provenance": "",
   "creditline": "Gift of Gardner Teall",
-  "accession_number": "17.204.1                                  ",
-  "artist": "Katsushika Hokusai"
+  "accession_number": "17.204.1"
 }

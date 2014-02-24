@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1883 - 1970",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Erich Heckel",
   "dated": "1914",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Woodcut",
   "title": "Crouching Nude",
   "id": "http://api.artsmia.org/objects/50312",
-  "room": "Not on View",
+  "room": "G344",
   "style": "20th century",
   "marks": "Signature in pencil: [Erich Heckel]",
   "text": "One of the leading German Expressionist artists, Erich Heckel championed the reinvigoration of German art by a return to the woodcut, a medium associated with both medieval German art and the primal energies of tribal art. Here Heckel portrays his future wife, Sidi Riha, with downcast eyes, full of melancholic, brooding emotion. Sidi was a dancer and seems to have been well aware of the power of gesture.",
   "description": "",
+  "provenance": "",
   "creditline": "The Mr. and Mrs. Hall James Peterson Fund",
-  "accession_number": "P.69.140",
-  "artist": "Erich Heckel"
+  "accession_number": "P.69.140"
 }

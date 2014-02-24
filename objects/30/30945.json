@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Judy Coleman. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Judy Coleman. All rights reserved.",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Judy Coleman",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title; Date; Edition; Signature in pencil, on back: [\\'Awakening Nude\\'/(C)/1988 34/",
   "text": "",
   "description": "nude woman\\'s arms, face and one side of torso; proper right hand on forehead, proper left hand behind head; blobs, scratching and tears surrounding and overlapping figure",
+  "provenance": "",
   "creditline": "Gift of Elaine Dines Cox and Kris Cox",
-  "accession_number": "98.265.7.1",
-  "artist": "Judy Coleman"
+  "accession_number": "98.265.7.1"
 }

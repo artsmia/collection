@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Gene Davis %2F Smithsonian American Art Museum",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Gene Davis %2F Smithsonian American Art Museum",
   "life_date": "American, 1920-1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gene Davis",
   "dated": "1967",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date Verso right edge: [GENE DAVIS (1966) BLACK ACES]",
   "text": "",
   "description": "multi-colored vertical stripes of uniform width",
+  "provenance": "",
   "creditline": "Gift of an Anonymous Twin Cities Friend",
-  "accession_number": "91.106",
-  "artist": "Gene Davis"
+  "accession_number": "91.106"
 }

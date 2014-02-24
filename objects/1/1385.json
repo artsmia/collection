@@ -5,6 +5,7 @@
   "life_date": "American, 1882 - 1925",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Bellows",
   "dated": "1920",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Mrs. T. in Cream Silk, No.2",
   "id": "http://api.artsmia.org/objects/1385",
-  "room": "Not on View",
+  "room": "G302",
   "style": "20th century",
   "marks": "Signature LR: [Geo. Bellows]",
   "text": "",
   "description": "Portrait. Former stretcher for the canvas to this piece is on P67A MS.",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "60.33                                     ",
-  "artist": "George Bellows"
+  "accession_number": "60.33"
 }

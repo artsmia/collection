@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Burton D. Holley",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Burton D. Holley",
   "life_date": "American, 1900-1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Burton D. Holley",
   "dated": "c. 1944",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription: [To Fred Edwards with best wishes Bur ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Fred W. and Jane Bell Edwards",
-  "accession_number": "91.128.17",
-  "artist": "Burton D. Holley"
+  "accession_number": "91.128.17"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Cotton (?), felt",
   "title": "Robe, from a three-piece High Holy Day costume",
   "id": "http://api.artsmia.org/objects/83291",
-  "room": "Not on View",
+  "room": "G280",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "robe with buttons; bell sleeves with brown waves and circles in reds at hems; lower edge decorated with brown wave-topped area filled with leaf, fruit and other organic designs and Hebrew characters in pinks, reds and purples; brown circles below; tan body",
+  "provenance": "",
   "creditline": "Gift of Laeh and Bernard Solomon Raskas",
-  "accession_number": "2004.173.3                                ",
-  "artist": ""
+  "accession_number": "2004.173.3"
 }

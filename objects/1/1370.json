@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York%2FVG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3B2002 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, born 1923",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Hans Platschek",
   "dated": "1958",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature UR: [Platschek]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Ricahrd P. Gale",
-  "accession_number": "59.23                                     ",
-  "artist": "Hans Platschek"
+  "accession_number": "59.23"
 }

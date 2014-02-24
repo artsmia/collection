@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "French, 1850-1924",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jules Auguste Habert-Dys",
   "dated": "1905",
   "culture": null,
   "country": "France",
@@ -13,12 +14,12 @@
   "medium": "Silver, enamel",
   "title": "Caviar server",
   "id": "http://api.artsmia.org/objects/40885",
-  "room": "Not on View",
+  "room": "G379",
   "style": "Art Nouveau",
-  "marks": null,
+  "marks": "Signature; Date [J. Habert-Dys · 905]",
   "text": "",
-  "description": null,
+  "description": "silver with inlaid enamel work (champlevé) and engraved decoration; removable cap with tube insert",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "98.276.35a,b                              ",
-  "artist": "Jules Auguste Habert-Dys"
+  "accession_number": "98.276.35a,b"
 }

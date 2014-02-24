@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British, 1936 - 2005",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Patrick Caulfield",
   "dated": "1967",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature in pencil: [Patrick Caulfield]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Carl Waring Jones",
-  "accession_number": "P.78.50",
-  "artist": "Patrick Caulfield"
+  "accession_number": "P.78.50"
 }

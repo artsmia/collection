@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1934",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Albert Besnard",
   "dated": "c. 1886",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/54088",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Inscription\r\n\r\n[Tirée a 100] ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Van Derlip Funds",
-  "accession_number": "P.13,374                                  ",
-  "artist": "Albert Besnard"
+  "accession_number": "P.13,374"
 }

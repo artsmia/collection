@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BLarry Fink",
+  "image_copyright": "%26Acirc%3B%26copy%3B Larry Fink",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Larry Fink",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Paul N. Rifkin",
-  "accession_number": "82.124.25                                 ",
-  "artist": "Larry Fink"
+  "accession_number": "82.124.25"
 }

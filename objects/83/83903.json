@@ -5,6 +5,7 @@
   "life_date": "French, 1870 - 1943",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Maurice Denis",
   "dated": "1896",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/83903",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature and edition LLC, in pencil: [3me état/ Maurice Denis]",
   "text": "",
   "description": "two embracing figures in foreground (one wearing dark cloak, one wearing light cloak); three dark-cloaked figures at R; horse behind fence at center",
+  "provenance": "",
   "creditline": "Gift of Barbara Mackey Kaerwer",
-  "accession_number": "2004.21.1",
-  "artist": "Maurice Denis"
+  "accession_number": "2004.21.1"
 }
