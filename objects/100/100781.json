@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Max Yavno %26copy%3B 1998 Center for Creative Photography%2C The University of Arizona Foundation",
+  "image_copyright": "Max Yavno %26Acirc%3B%26copy%3B 1998 Center for Creative Photography%2C The University of Arizona Foundation",
   "life_date": "American, 1911 - 1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Max Yavno",
   "dated": "1947",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on verso lower right in pencil: [YAVNO]",
   "text": "",
   "description": "cable car at the turn-around point; three uniformed men turning car",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.261",
-  "artist": "Max Yavno"
+  "accession_number": "2007.35.261"
 }

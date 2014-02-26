@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Collection Center for Creative Photography%2C University of Arizona %26copy%3B The Ansel Adams Publishing Rights Trust",
+  "image_copyright": "Collection Center for Creative Photography%2C University of Arizona %26Acirc%3B%26copy%3B The Ansel Adams Publishing Rights Trust",
   "life_date": "American, 1902 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ansel Adams",
   "dated": "1941 (printed 1961)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Title on verso in blue: [MOONRISE, HERNANDEZ, NEW MEXICO",
   "text": "",
   "description": "desert scene - small village, church and cemetery; mountains with cloudbank above - moon in center of image",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.301                               ",
-  "artist": "Ansel Adams"
+  "accession_number": "2007.35.301"
 }

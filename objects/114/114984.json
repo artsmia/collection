@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Roger Mertin",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Roger Mertin",
   "life_date": "American, 1942 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Roger Mertin",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nsee Sign LLC, in black ink: [Ludington, Michigan, 18. May 1",
   "text": "",
   "description": "view from a street corner of street sign (Loomis St. and Lewis St.) and small marina with boats; buildings at left; rainbow in sky, ULQ",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.529",
-  "artist": "Roger Mertin"
+  "accession_number": "2013.35.529"
 }

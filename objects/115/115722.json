@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Charles Cameron Macauley",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Charles Cameron Macauley",
   "life_date": "American, 1923 - 2007",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Cameron Macauley",
   "dated": "c. 1955-1965",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription, Stamp and Label\r\n\r\non back on back, in pencil: [C. Cameron Macauley]",
   "text": "",
   "description": "view from above of little boy leaning over bar of curved jungle gym; small striped ball near center right on ground; mounted on trimmed card",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.61",
-  "artist": "Charles Cameron Macauley"
+  "accession_number": "2013.35.61"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "c. 1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Stamp\r\n\r\non back, in pe LRC below image, in black ink: [Henri Cartier-Bres",
   "text": "",
   "description": "smiling little boy wearing a sweater and shorts, walking down street carrying two bottles of wine; other children and walking figures in background at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.122",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "2013.35.122"
 }

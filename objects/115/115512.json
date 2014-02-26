@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Lois Conner",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Lois Conner",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lois Conner",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Edition\r\n\r below image, center, in pencil: [Lotus, Beijing, C",
   "text": "",
   "description": "lotus leaves on water",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.213",
-  "artist": "Lois Conner"
+  "accession_number": "2013.35.213"
 }

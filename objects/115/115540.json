@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Bullock Family Photography LLC",
+  "image_copyright": "%26Acirc%3B%26copy%3B Bullock Family Photography LLC",
   "life_date": "American, 1902 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wynn Bullock",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Stamp\r\n\r\non back, in pencil: [GM74 ",
   "text": "",
   "description": "deteriorating leaf on top of pine needles and other leaves",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.570",
-  "artist": "Wynn Bullock"
+  "accession_number": "2013.35.570"
 }

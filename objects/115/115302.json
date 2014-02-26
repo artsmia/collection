@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Kenna Photography %7C All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Kenna Photography %7C All Rights Reserved",
   "life_date": "British, born 1953",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Michael Kenna",
   "dated": "1993 (printed 1994)",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LRC below image on mount, in pencil: [Michael Kenn",
   "text": "",
   "description": "two lines of trees on either side of a road with a glowing dotted line at center; fog/mist",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.282",
-  "artist": "Michael Kenna"
+  "accession_number": "2013.35.282"
 }

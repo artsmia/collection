@@ -5,11 +5,12 @@
   "life_date": "French, 1784 - 1844",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Baptiste Mauzaisse",
   "dated": "c. 1705",
   "culture": null,
-  "country": null,
+  "country": "France",
   "continent": "Europe",
-  "dimension": "10 1/2 x 8 in. (26.67 x 20.32 cm) (image, sheet)\r\n11 7/8 x 9 9/16 in. (30.16 x 24.29 cm) (mount)",
+  "dimension": "10 3/16 x 8 9/16 in. (25.88 x 21.75 cm) (plate)\r\n11 15/16 x 9 5/16 in. (30.32 x 23.65 cm) (sheet)",
   "medium": "Lithograph",
   "title": "Michel-Ange",
   "id": "http://api.artsmia.org/objects/116443",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nin plate in black: [Gmy(?) de Villa ",
   "text": "",
   "description": "portrait bust of bearded man with curly hair looking left; 3/4 view; cloak over right shoulder;  jacket with high collar and 3 stripes down front",
+  "provenance": "",
   "creditline": "Gift of John Crosby",
-  "accession_number": "P.47.15                                   ",
-  "artist": "Jean Baptiste Mauzaisse"
+  "accession_number": "P.47.15"
 }

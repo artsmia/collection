@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1918",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115051",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Inscription and Stamp\r\n\r\nLLC, in pencil LRQ, in the print: [A Lepère / 18]; LRC, in the pr",
   "text": "",
   "description": "bridge with arches at center; boats at right; clouds of smoke, URC; people fishing, LLC; large boat passing under bridge left of center; buildings at center top",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.585",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.585"
 }

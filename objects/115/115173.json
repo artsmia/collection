@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "British, 1802 - 1828",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Richard Parkes Bonington",
   "dated": "1826-1827",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Inscription\r\n\r\nat bottom cent LRC below image, in the plate: [RPB]; bottom cente",
   "text": "",
   "description": "view down a city street with many pedestrians; dog, LLC; tall buildings on either side; tower with domed top at center background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.754",
-  "artist": "Richard Parkes Bonington"
+  "accession_number": "2013.35.754"
 }

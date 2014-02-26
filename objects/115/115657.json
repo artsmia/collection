@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B L%3Fassociation des Amis de Lucien Herv%26eacute%3B et de Rodolf Herv%26eacute%3B%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B L%26acirc%3B%80%99association des Amis de Lucien Herv%26Atilde%3B%26copy%3B et de Rodolf Herv%26Atilde%3B%26copy%3B%2C Paris",
   "life_date": "French, 1910 - 2007",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Lucien Hervé",
   "dated": "1950",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\no on back, in pencil: [Pont de Paris / 1950 / L.H]",
   "text": "",
   "description": "blurry image man and little boy walking at right; wide sidewalk with short concrete wall to PR of figures; buildings in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.217",
-  "artist": "Lucien Hervé"
+  "accession_number": "2013.35.217"
 }

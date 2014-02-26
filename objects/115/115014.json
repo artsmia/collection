@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Robert Polidori. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Polidori. All rights reserved.",
   "life_date": "American (born Canada), born 1951",
   "nationality": "Canadian",
   "role": "Artist",
+  "artist": "Robert Polidori",
   "dated": "1986 (printed 1999)",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\non back at bott on back at LRC, in black ink: [Polidori \\'99]",
   "text": "",
   "description": "unfinished painting by David leaning against the wall in a gallery; tan walls, wood floors in zigzag design; sawhorses stanchioning off painting on floor, LLC; pair of shoes at bottom center; pink sweater hanging over sawhorse at center; two wooden stepladders; white and green pail with red diamond-shaped label at right center on floor",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.528",
-  "artist": "Robert Polidori"
+  "accession_number": "2013.35.528"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c.1830",
   "culture": null,
   "country": null,
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "3 3/4 × 4 in. (9.53 × 10.16 cm) (image, sheet)\r\n11 13/16 × 9 in. (30 × 22.86 cm) (mount)",
   "medium": "Etching and engraving",
   "title": "Grégorie Brandmuller",
   "id": "http://api.artsmia.org/objects/118751",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nin plate in black: [GREGORIE/ BRAND ",
   "text": "",
   "description": "portrait of Gregorie Brandmuller in an architectural frame with a painting on easel on right and a portrait on the left",
+  "provenance": "",
   "creditline": "Gift of John Crosby",
-  "accession_number": "P.47.118",
-  "artist": ""
+  "accession_number": "P.47.118"
 }

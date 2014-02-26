@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Lewis Koch. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Lewis Koch. All rights reserved.",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lewis Koch",
   "dated": "1986 (printed 1987)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nSee sign on back, in pencil: [near Waunakee, Wisconsin, 198",
   "text": "",
   "description": "firefighter at night shooting a fire hose upward toward light from a fire at L",
+  "provenance": "",
   "creditline": "Gift of the artist in memory of Ted Hartwell",
-  "accession_number": "2007.118",
-  "artist": "Lewis Koch"
+  "accession_number": "2007.118"
 }

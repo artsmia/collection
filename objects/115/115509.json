@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Elio Ciol",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Elio Ciol",
   "life_date": "Italian, born 1929",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Elio Ciol",
   "dated": "1970",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LLC below image, in pencil: [Laguna di Grado - 197",
   "text": "",
   "description": "water (appearing white) at center; tops of grasses at bottom in foreground; reflections of thin, straight bare trees on opposite bank; buildings behind trees",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.101",
-  "artist": "Elio Ciol"
+  "accession_number": "2013.35.101"
 }

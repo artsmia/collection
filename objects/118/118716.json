@@ -5,11 +5,12 @@
   "life_date": "English, 1792 - 1825",
   "nationality": "English",
   "role": "Artist",
+  "artist": "John Corner",
   "dated": "1816",
   "culture": null,
   "country": "England",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "5 3/4 × 3 3/4 in. (14.61 × 9.53 cm) (image)\r\n9 11/16 × 7 1/16 in. (24.61 × 17.94 cm) (sheet)\r\n11 13/16 × 9 1/2 in. (30 × 24.13 cm) (mount)",
   "medium": "Etching and engraving",
   "title": "John Both",
   "id": "http://api.artsmia.org/objects/118716",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non sheet in black: [JOHN BOTH/ Will ",
   "text": "",
   "description": "half length portrait of Jan Both facing left, looking at viewer, holding cloak; in a rectangular frame; small landscape below portrait",
+  "provenance": "",
   "creditline": "Gift of John Crosby",
-  "accession_number": "P.47.105",
-  "artist": "John Corner"
+  "accession_number": "P.47.105"
 }

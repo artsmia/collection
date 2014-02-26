@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Paula Chamlee",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paula Chamlee",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paula Chamlee",
   "dated": "2008",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nLRC on b back center, in pencil: [Chicago / 2008 / 45R #1/1",
   "text": "",
   "description": "small white wave in water; clouds; blue sky at horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.483",
-  "artist": "Paula Chamlee"
+  "accession_number": "2013.35.483"
 }

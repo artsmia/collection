@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Wolf Suschitzky",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wolf Suschitzky",
   "life_date": "British, born 1912",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Wolf Suschitzky",
   "dated": "c. 1937",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\non back, on back, in black pencil: [LONDON / FROM 84 CHARIN",
   "text": "",
   "description": "city street; car and double-decker bus at right; small tree at center; four figures walking on sidewalk at left; signs on stores at left; stoplight to left of tree",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.557",
-  "artist": "Wolf Suschitzky"
+  "accession_number": "2013.35.557"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1915-2008",
   "nationality": null,
   "role": "Artist",
+  "artist": "Ruth Greenberg",
   "dated": "1980s",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on side of handle, incised: [R]",
   "text": "",
   "description": "biomorphic shapes; curved design; curved tines",
+  "provenance": "",
   "creditline": "Gift of Phillip Greenberg, Daniel Greenberg, and Susan Steinhauser",
-  "accession_number": "2013.8.2                                  ",
-  "artist": "Ruth Greenberg"
+  "accession_number": "2013.8.2"
 }

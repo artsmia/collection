@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st century B.C.-A.D. 1st century",
   "culture": null,
   "country": "Khmer",
@@ -13,12 +14,12 @@
   "medium": "Glazed ceramic, brown ware",
   "title": "Covered Vessel with Rabbit Motif",
   "id": "http://api.artsmia.org/objects/99907",
-  "room": "G107",
+  "room": "Not on View",
   "style": "1st century B.C.-A.D. 1st century",
   "marks": " ",
   "text": "",
   "description": "rounded, egg-shaped body; brown glaze; very fat rabbit with applied ears, eyes, tail and feet; incised face; radiating designs at shoulder and hips; diamonds on sides",
+  "provenance": "",
   "creditline": "Gift of Peggy and Leonard Lindborg",
-  "accession_number": "2007.135.11a,b                            ",
-  "artist": ""
+  "accession_number": "2007.135.11a,b"
 }

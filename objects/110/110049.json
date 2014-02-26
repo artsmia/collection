@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "life_date": "Mexican, born 1940",
   "nationality": "Mexican",
   "role": "Artist",
+  "artist": "Francisco Toledo",
   "dated": "1970",
   "culture": null,
   "country": "Mexico",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Edition Signed, titled, and numbered below image, in penci",
   "text": "",
   "description": "slightly abstracted image; lion tamer at right with chair, with lines and decorations on his face and rather undifferentiated, rippling body; male lion seated at left; lioness lying at bottom of image",
+  "provenance": "",
   "creditline": "Gift of Robert and Jane Keller",
-  "accession_number": "2010.70                                   ",
-  "artist": "Francisco Toledo"
+  "accession_number": "2010.70"
 }

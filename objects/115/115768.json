@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nata Piaskowski",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nata Piaskowski",
   "life_date": "American, 1912 - 2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nata Piaskowski",
   "dated": "1949",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on back of mount, in pencil: [Nata Piaskowski / St",
   "text": "",
   "description": "still life with loaf of bread and knife on cutting board, apple and teapot with a covered teacup on top",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.443",
-  "artist": "Nata Piaskowski"
+  "accession_number": "2013.35.443"
 }

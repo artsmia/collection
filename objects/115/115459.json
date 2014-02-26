@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The Brett Weston Archive%2C L.L.C.",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Brett Weston Archive%2C L.L.C.",
   "life_date": "American, 1911 - 1993",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Brett Weston",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC on mount, in pencil: [Brett Weston 1976]",
   "text": "",
   "description": "lake with small ripples at twilight or sunrise; silhouettes of bare trees rooted in water; low mountains at horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.52",
-  "artist": "Brett Weston"
+  "accession_number": "2013.35.52"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silk, cotton, velvet, metallic threads, beads",
   "title": "Skirt",
   "id": "http://api.artsmia.org/objects/92168",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "21 separate three-part velvet panels on black waistband; top part of panels have flowers embroidered on black velvet; center ovals have fauna embroidered on varied colored silk; bottom portion has flora and fauna embroidered in bright colors on red satin; green and yellow tassels alternate on top two panels, which are separated by silver glass beads; all highlighted with gold thread; lined in red plaid; woven ties on waistband",
+  "provenance": "",
   "creditline": "Gift of Gregory K. Page",
-  "accession_number": "2004.67.82                                ",
-  "artist": ""
+  "accession_number": "2004.67.82"
 }

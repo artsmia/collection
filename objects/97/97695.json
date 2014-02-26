@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
   "continent": null,
   "dimension": "15 x 53 in. (38.1 x 134.62 cm) (including ties)\r\n18 1/2 in. (46.99 cm) (object part, ties, each)",
-  "medium": "",
+  "medium": null,
   "title": "Woman's Frontal Apron",
   "id": "http://api.artsmia.org/objects/97695",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "lined in dark blue with blue front band and two woven black and white ties; center blue and white rectangular batik insert surrounded on three sides by embroidery in shade of red; surrounding that is narrow blue and white border",
+  "provenance": "",
   "creditline": "The Ruth Ann Dayton Chinese Room Endowment Fund, The Suzanne S. Roberts Fund for Asian Art, and The Helen Jones Fund for Asian Art",
-  "accession_number": "2004.67.623                               ",
-  "artist": ""
+  "accession_number": "2004.67.623"
 }

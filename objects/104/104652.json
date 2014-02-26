@@ -2,9 +2,10 @@
   "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "Japan, 1883 - 1959",
-  "nationality": "Japan",
+  "life_date": "Japanese, 1883-1959",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kitaōji Rosanjin",
   "dated": "20th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non bottom, in red: [L76.15.31B] ",
   "text": "",
   "description": "roughly square slab with squared-off corners; corners slightly lifted; seven shallow ribs; tan and green with reddish unglazed area at center",
+  "provenance": "",
   "creditline": "Gift of Stephen Addiss and Audrey Seo",
-  "accession_number": "2007.99.38.2                              ",
-  "artist": "Kitao_ji Rosanjin"
+  "accession_number": "2007.99.38.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1616 - 1671",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Sébastien Bourdon",
   "dated": "17th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\nsee Signed; on back,  ULC, in the print: [Seb. Bourdon jnuenit et fecit ",
   "text": "",
   "description": "woman seated on blocks with a baby tied to her back, holding a bowl from which a young boy is drinking; another woman in URC; reclining figure in front center, leaning on a cylindrical object; dog behind drinking boy; hunched figure, LRC, in middle ground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.759",
-  "artist": "Sébastien Bourdon"
+  "accession_number": "2013.35.759"
 }

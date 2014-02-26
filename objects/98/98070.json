@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B artist%2C artist%27s estate%2C or assignees",
+  "image_copyright": "%26Acirc%3B%26copy%3B artist%2C artist%27s estate%2C or assignees",
   "life_date": "American, 1902 - 1968",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Walter Quirt",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC, in black: [Quirt]",
   "text": "",
   "description": "abstracted image of a horse (white with black outlines); green and brown tones around horse",
+  "provenance": "",
   "creditline": "Given in honor of Helen and Loren Hartwell",
-  "accession_number": "2005.108.2                                ",
-  "artist": "Walter Quirt"
+  "accession_number": "2005.108.2"
 }

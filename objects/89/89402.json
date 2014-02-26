@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3BFrank Gaard",
+  "image_copyright": "%26Acirc%3B%26copy%3BFrank Gaard",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank Gaard",
   "dated": "2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and date LRC, in red acrylic: [Frank Gaard \\'03]",
   "text": "",
   "description": "portrait of man against blue ground; red glasses; grey beard; green jacket with red and black lapels; blue and white striped shirt",
+  "provenance": "",
   "creditline": "Gift of Philip Brunelle",
-  "accession_number": "2004.100",
-  "artist": "Frank Gaard"
+  "accession_number": "2004.100"
 }

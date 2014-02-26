@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "born 1981",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wendy Red Star",
   "dated": "2012",
   "culture": "Apsaalooka (Crow)",
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "After graduating from college at Montana State University-Bozeman, Wendy Red Star moved to Los Angeles, where she was struck by the lack of natural environment. Lonesome for home, she wandered into the Natural History Museum of Los Angeles to explore any Native American exhibits. To her surprise, she saw a pair of moccasins that was created by one of her ancestors on display. She was taken with the dioramas in the museum. \r\n\r\nShe explores issues of display, representation of Native American culture, and authenticity, in her <I>The Four Seasons</I> series.\r\n",
   "description": "Native American woman in traditional dress kneels on floor surrounded by artificial and natural props: inflated elk, dried flowers, buffalo skull, and colored leaves; painted landscape backdrop",
+  "provenance": "",
   "creditline": "Bequest of Virginia Doneghy, by exchange",
-  "accession_number": "2012.69.1                                 ",
-  "artist": "Wendy Red Star"
+  "accession_number": "2012.69.1"
 }

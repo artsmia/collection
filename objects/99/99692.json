@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
   "life_date": "American, 1912 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harry Callahan",
   "dated": "1949",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ LRC, impressed with stylus(?): [Harry Callahan]",
   "text": "",
   "description": "two windows in a brick building; curved on top, with curved lighter-colored element above and light-colored keystone",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.52",
-  "artist": "Harry Callahan"
+  "accession_number": "2007.35.52"
 }

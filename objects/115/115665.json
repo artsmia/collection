@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Chip Forelli",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Chip Forelli",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Chip Forelli",
   "dated": "1986 (printed 2001)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription, Stamp and Label\r\n\r\non back LRC below image on mount and on back of mount, in ",
   "text": "",
   "description": "large rocks on beach with pools of water; storm clouds in sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.62",
-  "artist": "Chip Forelli"
+  "accession_number": "2013.35.62"
 }

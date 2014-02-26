@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1833 - 1914",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Bracquemond",
   "dated": "1868",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Stamp\r\n\r\nURC, in pencil: [B.187 /  LR in ink",
   "text": "",
   "description": "two boats on shore at left center; figures on shore, LRC; fence with foliage behind at left; water at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.680",
-  "artist": "Félix Bracquemond"
+  "accession_number": "2013.35.680"
 }

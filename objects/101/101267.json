@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BThe Pirkle Jones Foundation",
+  "image_copyright": "%26Acirc%3B%26copy%3BThe Pirkle Jones Foundation",
   "life_date": "American, 1914 - 2009",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Pirkle Jones",
   "dated": "1954 (printed c. 1968)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Stamp on verso above stamp in blue: [PIRKLE JONES]",
   "text": "",
   "description": "large rock formation covered with patches of lichen in foreground; leafless oak tree behind",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.359.9                             ",
-  "artist": "Pirkle Jones"
+  "accession_number": "2007.35.359.9"
 }

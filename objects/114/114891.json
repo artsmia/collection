@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1907",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/114891",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature and Inscription\r\n\r\nLRC, in black: illegi LRC, in black: [A LEPÈRE]",
   "text": "",
   "description": "landscape with dark shadows/foliage at lower right; line of tall trees with thin trunks in front of a thatch-roofed house at left middle ground; village buildings and church in background at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.79.23",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.79.23"
 }

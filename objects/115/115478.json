@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael A. Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael A. Smith",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael A. Smith",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nsee Sign LLC on mount below image, in pencil: [1988]; LRC o",
   "text": "",
   "description": "water in foreground with reflection of rugged mountain peak at middle background; pine trees at left in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.253",
-  "artist": "Michael A. Smith"
+  "accession_number": "2013.35.253"
 }

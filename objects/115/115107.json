@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1872 - 1913",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Amédée Joyau",
   "dated": "1896",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "head of a man in profile from PR; man has short hair and thick moustache and wears a turtleneck; printed in green and tan",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.576",
-  "artist": "Amédée Joyau"
+  "accession_number": "2013.35.576"
 }

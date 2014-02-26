@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "flat foot; body flares out to pointed shoulder; incised V\\'s on shoulder; short neck with mouth ring; greenish glaze with brown spots",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein in honor of Christopher Monkhouse",
-  "accession_number": "2005.145.1",
-  "artist": "Warren MacKenzie"
+  "accession_number": "2005.145.1"
 }

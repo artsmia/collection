@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael A. Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael A. Smith",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael A. Smith",
   "dated": "2010",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nsee Sign LLC on mount below image, in pencil: [2010]; LRC o",
   "text": "",
   "description": "dark cloud and fog over water with part of a dock with birds at left; dark mountains",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.273",
-  "artist": "Michael A. Smith"
+  "accession_number": "2013.35.273"
 }

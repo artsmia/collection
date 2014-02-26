@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Carroll Dunham",
+  "image_copyright": "%26Acirc%3B%26copy%3B Carroll Dunham",
   "life_date": "American, born 1949",
   "nationality": null,
   "role": "Artist",
+  "artist": "Carroll Dunham",
   "dated": "1987-1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Stamp ULC, in pencil: [C.D.  1987-88]",
   "text": "",
   "description": "one of a suite of five lithographs (framed separately); abstract image in predominately blue and red; rounded, bulbous shapes at top center with organic, coral-like image in URC; horizontal painterly marks at bottom",
+  "provenance": "",
   "creditline": "Gift of Wells Fargo",
-  "accession_number": "2011.88.1.2                               ",
-  "artist": "Carroll Dunham"
+  "accession_number": "2011.88.1.2"
 }

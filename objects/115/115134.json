@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115134",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Title, Edition and Stamp LRC, in pencil: [A Lepère]; LLC, in the print: [A.",
   "text": "",
   "description": "boats on water; figures on shore at bottom center; trees at right; smoke over buildings in distance",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.608",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.608"
 }

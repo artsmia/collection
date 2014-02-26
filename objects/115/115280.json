@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Paul Caponigro. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Paul Caponigro. All rights reserved.",
   "life_date": "American, born 1932",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Caponigro",
   "dated": "c. 1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC below image on mount, in pencil: [Paul Caponig",
   "text": "",
   "description": "evergreen trees in foreground; snow-covered mountain peaks in middle ground with clouds between trees and mountains and in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.465",
-  "artist": "Paul Caponigro"
+  "accession_number": "2013.35.465"
 }

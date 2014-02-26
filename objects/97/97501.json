@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silver",
   "title": "Collar",
   "id": "http://api.artsmia.org/objects/97501",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "openwork 3-D \\\"pendant\\\" with pairs of dragons and lions and a fish; double chain with round and floral links attached to top; two top clips with butterfly motifs; long chains with wheel pendants and three bells alternate short chains with floral pendants and bugle beads below large pendant",
+  "provenance": "",
   "creditline": "The Suzanne S. Roberts Fund for Asian Art",
-  "accession_number": "2006.77.2                                 ",
-  "artist": ""
+  "accession_number": "2006.77.2"
 }

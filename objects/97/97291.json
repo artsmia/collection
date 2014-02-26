@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875 - 1963",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Villon",
   "dated": "1929",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription and Edition\r\n\r\nLRC, i LRC below image, in pencil: [Jacques Villon]; LLC,",
   "text": "",
   "description": "slightly blocky style; shaded with crosshatching; head of a young girl with bobbed hair, frowning, looking toward PR",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
-  "accession_number": "2005.67.2",
-  "artist": "Jacques Villon"
+  "accession_number": "2005.67.2"
 }

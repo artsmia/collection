@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "Italian, 1573 - 1638",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Odoardo Fialetti",
   "dated": "1608",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Inscriptions, signature, marks\r\n\r\nTitle page (1) : Signed\r\n\r\nPlate with artist\\'s studio (p. 2), at lo",
   "text": "Drawing manuals like this work were common teaching tools for artists and amateurs learning to draw in the 16th and 17th centuries. This model book, comprising 43 etchings, is by Odoardo Fialetti, a painter and printmaker active in Venice. It was published in 1608 as an expanded, more systematic edition of an earlier book. As the title page explains, the work presents \"every part of the human body divided into many pieces.\" Progressing from the head, the plates depict isolated body parts-eyes, ears, noses, hands, arms, feet, legs, torsos-providing aspiring draftsmen with patterns to copy to learn the art of figure drawing as well as conventions of foreshortening. There is also a series of plates with character heads that depict a range of ages, hair styles, and facial hair, and show the heads from different viewpoints. The final two etchings of the book are by the Venetian artist Palma Giovane, executed presumably under Fialetti's guidance, and depict religious scenes, Virgin and Child with Saints and Christ Among the Doctors.",
   "description": "cream-colored leather cover; two pairs of green ties on outer edge; book of 43 engraved plates; artist\\'s copy book with images of faces and facial features, feet, hands, arms and torsos",
+  "provenance": "",
   "creditline": "Gift of funds from the Prints and Drawings Affinity Group",
-  "accession_number": "2012.95                                   ",
-  "artist": "Odoardo Fialetti"
+  "accession_number": "2012.95"
 }

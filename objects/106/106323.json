@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Cy DeCosse",
+  "image_copyright": "%26Acirc%3B%26copy%3B Cy DeCosse",
   "life_date": "American, born 1929",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Cy DeCosse",
   "dated": "2005",
   "culture": null,
   "country": "Unites States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LRC below image, in pencil: [Cy DeCosse 2005]; on ",
   "text": "",
   "description": "white lotus flower blossom; two large wavy green leaves at L and bottom; two buds at L",
+  "provenance": "",
   "creditline": "Gift of Cy DeCosse",
-  "accession_number": "2008.90",
-  "artist": "Cy DeCosse"
+  "accession_number": "2008.90"
 }

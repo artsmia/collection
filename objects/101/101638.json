@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "",
+  "image_copyright": "Photographs by Paul Strand %26Acirc%3B%26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
   "life_date": "American, 1890 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Strand",
   "dated": "1945 (printed c. 1976)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "3/4-length portrait of a woman standing in a doorway, wearing a dress and white apron",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.364.9                             ",
-  "artist": "Paul Strand"
+  "accession_number": "2007.35.364.9"
 }

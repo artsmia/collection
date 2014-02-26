@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1948",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non verso LL, in penci on LR below image, in black ink: [HENRI CATIER-BRE",
   "text": "",
   "description": "four robed figures in foreground on a plateau overlooking a village; water and mountains in background",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.66                                ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "2007.35.66"
 }

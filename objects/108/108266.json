@@ -5,6 +5,7 @@
   "life_date": "American, born 1956",
   "nationality": null,
   "role": "Artist",
+  "artist": "Paul Shambroom",
   "dated": "1999",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/108266",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Title, Inscription and Edition\r\n\r\nSee S on back, in pencil: [© 1999 Paul Shambroom/ Dassel",
   "text": "",
   "description": "four women-three seated at a long table, one seated at smaller table at R; city plans hanging on wall behind women; American flag in L corner, Minnesota flag in R corner; printed in slightly painterly style",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Curatorial Council",
-  "accession_number": "2009.44                                   ",
-  "artist": "Paul Shambroom"
+  "accession_number": "2009.44"
 }

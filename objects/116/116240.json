@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Finnish, born 1946",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Karin Widnäs",
   "dated": "2012",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Edition on underside, incised: [For / Savoy / 7/70 / Karin",
   "text": "",
   "description": "cylindrical form with wide spout; S-shaped handle; flat bottom; white",
+  "provenance": "",
   "creditline": "Gift of funds from Gayle Fuguitt and Tom Veitch",
-  "accession_number": "2013.6.15                                 ",
-  "artist": "Karin Widnäs"
+  "accession_number": "2013.6.15"
 }

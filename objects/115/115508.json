@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 1996 Craig Blacklock",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1996 Craig Blacklock",
   "life_date": "American, born 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Craig Blacklock",
   "dated": "1996",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nsee Sign on back, in pencil: [SUPERIOR, ONT. 467A  Island i",
   "text": "",
   "description": "abstract image; wavy off-white line with pink area on grey; cracks; some white lines; water at top",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.80",
-  "artist": "Craig Blacklock"
+  "accession_number": "2013.35.80"
 }

@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Mende",
   "country": "Sierra Leone",
   "continent": "Africa",
-  "dimension": null,
+  "dimension": "44 × 25 × 24 in. (111.76 × 63.5 × 60.96 cm) (approx.)",
   "medium": "Plant fibers, cotton",
   "title": "Costume",
   "id": "http://api.artsmia.org/objects/113487",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "to be worn with mask, 2011.70.3.1; thick dark brown raffia attached to a garment of dark blue thick cotton; long-sleeved garment with head opening with drawstring",
+  "provenance": "",
   "creditline": "Gift of William Siegmann",
-  "accession_number": "2011.70.3.2",
-  "artist": ""
+  "accession_number": "2011.70.3.2"
 }

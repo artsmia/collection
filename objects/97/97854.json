@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
   "life_date": "American, 1913-1997",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nathan Lerner",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Stamp\r\n\r\non back, in pencil: [INV  ",
   "text": "",
   "description": "reflections of cars and buildings in a glass window",
+  "provenance": "",
   "creditline": "Gift of Kiyoko Lerner",
-  "accession_number": "2005.99.4",
-  "artist": "Nathan Lerner"
+  "accession_number": "2005.99.4"
 }

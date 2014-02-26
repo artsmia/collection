@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Matthew Pillsbury",
+  "image_copyright": "%26Acirc%3B%26copy%3B Matthew Pillsbury",
   "life_date": "American, born 1973",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Matthew Pillsbury",
   "dated": "2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Inscription\r\n\r left margin, printed vertically in black: [Matthew",
   "text": "",
   "description": "room with bed in LLC; photos on wall at right; framed photos, clock and Pillsbury Dough Boy figure on heater and window ledge at center; shadowy figure seated at computer desk at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.235",
-  "artist": "Matthew Pillsbury"
+  "accession_number": "2013.35.235"
 }

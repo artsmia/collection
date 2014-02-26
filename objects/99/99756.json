@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Robert Dawson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Dawson",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Dawson",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date\r\n at center on back, in pencil: [Photograph by/ Robe",
   "text": "",
   "description": "landscape with water on R and L; salt deposit-like rugged peaks at center and flat areas in foreground; irregular clouds in sky",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.78",
-  "artist": "Robert Dawson"
+  "accession_number": "2007.35.78"
 }

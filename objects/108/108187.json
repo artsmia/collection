@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1886 - 1945",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Mallet-Stevens",
   "dated": "1987 (published)",
   "culture": null,
   "country": "France",
@@ -17,8 +18,8 @@
   "style": "20th century",
   "marks": "Signature and Title\r\n\r\n in plate UL corner, in black: [R. M-S.]; below ima",
   "text": "",
-  "description": null,
+  "description": "building on stilts; left side upper section supported by pillars; central staircase leading to upper level; \\\"ECOLE\\\" above entry at top of stairs; \\\"GARÇON\\\" on left side, \\\"FILLES\\\" on right side; clock at top of central facade; yellow door lower level below stairs",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.118.11                            ",
-  "artist": "Robert Mallet-Stevens"
+  "accession_number": "P.98.33.118.11"
 }

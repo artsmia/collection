@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Joel Meyerowitz Photography%2C LLC. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Meyerowitz Photography%2C LLC. All rights reserved.",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Meyerowitz",
   "dated": "2002-2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Edition\r\n\r on back, in black ink: [Linden Tree, Tuscany Fall ",
   "text": "",
   "description": "tree with leaves turning from green to gold; tree on tiny triangular patch of ground between stone streets and buildings in European village",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.130",
-  "artist": "Joel Meyerowitz"
+  "accession_number": "2013.35.130"
 }

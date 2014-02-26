@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Bill Schwab. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Bill Schwab. All rights reserved.",
   "life_date": "American, born 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Bill Schwab",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LRC below image, in pencil: [Bill Schwab 2002]; on",
   "text": "",
   "description": "calm water; rock protruding from water at left; land mass with flat, barren top at left in background; jagged rock forms at horizon line at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.36",
-  "artist": "Bill Schwab"
+  "accession_number": "2013.35.36"
 }

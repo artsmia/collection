@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Alec Soth",
+  "image_copyright": "%26Acirc%3B%26copy%3B Alec Soth",
   "life_date": "American, born 1969",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alec William Soth",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Chromogenic print",
   "title": "Peter's Houseboat, Winona, Minnesota",
   "id": "http://api.artsmia.org/objects/105013",
-  "room": "G280",
+  "room": "Not on View",
   "style": "21st century",
   "marks": "Title, Date, Edition and Label see Mark",
   "text": "",
   "description": "tiny blue house with platform (dock?) around it; many skulls and animal bones above and around door; snowy; clothes on clothesline at left",
+  "provenance": "",
   "creditline": "Gift of the artist and Dan and Mary Solomon",
-  "accession_number": "2007.110.1                                ",
-  "artist": "Alec William Soth"
+  "accession_number": "2007.110.1"
 }

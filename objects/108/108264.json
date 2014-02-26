@@ -5,6 +5,7 @@
   "life_date": "Swiss, 1930 - 1985",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "André Thomkins",
   "dated": "1965",
   "culture": null,
   "country": "Switzerland",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/108264",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature and Edition on inner spine, in black: [André Thompkins]",
   "text": "",
   "description": "black clamshell box containing cardboard with ten hexagonal cards printed with words in German, French and English in purple, blue and red; cards attached to backing with metal bolts",
+  "provenance": "",
   "creditline": "Transfer from the MIA Research and Reference Library; The John R. Van Derlip Library Fund, 1969",
-  "accession_number": "2009.54.4a,b                              ",
-  "artist": "André Thomkins"
+  "accession_number": "2009.54.4a,b"
 }

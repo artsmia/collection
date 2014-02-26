@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "early 20th century",
   "culture": "Asmat",
   "country": "Papua",
@@ -13,12 +14,12 @@
   "medium": "Mangrove root wood, pigment",
   "title": "Shield",
   "id": "http://api.artsmia.org/objects/105685",
-  "room": "Not on View",
+  "room": "G280",
   "style": "early 20th century",
   "marks": "Sticker ",
-  "text": "Every Asmat man owned a shield to help safeguard him from the dangers that were part of the traditional Asmat way of life.  Shields were carved in one piece from the root of a mangrove tree and embellished with individual designs meaningful to the owner. These could represent ancestors, significant animals, or features of the landscape.  Sometimes they were purely abstract, as on this example.  The motifs chosen added to the power and protective value of the shield.  Besides serving this necessary function, shields provided Asmat artists with a medium to most fully express their culture's distinctive aesthetic.  This rare shield from the early 20th century shows off the skill of the sculptor in the quality and strength of its carved elements and through the balance of its composition.  ",
+  "text": "",
   "description": "roughly wedge-shaped, slightly curved, with pointed arched top; carved in relief and decorated with dark orange, white and yellow pigments and traces of black pigment; two relief designs on top of one another, each with four corner spiraling loops and two vertical \\\"legs\\\"; handle on back",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "2008.13                                   ",
-  "artist": ""
+  "accession_number": "2008.13"
 }

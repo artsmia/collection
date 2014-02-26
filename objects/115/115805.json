@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Center for Creative Photography %26copy%3B1981 Arizona Board of Regents",
+  "image_copyright": "Center for Creative Photography %26Acirc%3B%26copy%3B1981 Arizona Board of Regents",
   "life_date": "American, 1886 - 1958",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Weston",
   "dated": "1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, Signature, Date and Inscription\r\n\r\non back  LRC below image on mount, in pencil: [EW 1937]; on",
   "text": "",
   "description": "view of water and beach; rocks in foreground; fence at middle; bluffs in ULC",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.96",
-  "artist": "Edward Weston"
+  "accession_number": "2013.35.96"
 }

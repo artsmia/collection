@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B 2012 Estate of Luis A. Jimenez%2C Jr. %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2012 Estate of Luis A. Jimenez%2C Jr. %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1940 - 2006",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Luis Jimenez",
   "dated": "2004",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Color lithograph",
   "title": "Assyrian Lion",
   "id": "http://api.artsmia.org/objects/112646",
-  "room": "G261a",
+  "room": "Not on View",
   "style": "21st century",
   "marks": "Signature, Date, Edition and Mark\r\n\r\non back, in p bottom edge, in pencil: [(c) Luis Jimenez 2004]",
   "text": "Jimenez deeply resented war and its devastating effects on human lives and cultures. In <I>Assyrian Lion</I>, Jimenez presents a harsh critique of the United States' military invasion of Iraq. The iconic Babylonian lion, a symbol of the Middle East's rich heritage, slowly dies of her wounds from American missiles. In the background, a ziggurat, perhaps the legendary Tower of Babel, topples into the bloody inferno. Similar to José Clemente Orozco's prints of the Mexican Revolution - examples of which are on view in this gallery - Jimenez depicts the bitter, lasting wounds of war, rather than its heroic moments or romanticized justifications. While Jimenez typically focused on issues of oppression in the US, his concern for human rights, dignity, and for the preservation of cultural heritage was universal. ",
   "description": "lioness with flaming red, white and blue darts in her back and shoulders, and with a bleeding wound in her belly; cracked stacked tower behind lionness; orange and yellow flames in background and smoke at top",
+  "provenance": "",
   "creditline": "The Richard Lewis Hillstrom Fund",
-  "accession_number": "2011.76.1                                 ",
-  "artist": "Luis Jimenez"
+  "accession_number": "2011.76.1"
 }

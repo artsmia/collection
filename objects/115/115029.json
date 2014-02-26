@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Kenneth D. Snelson",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Kenneth D. Snelson",
   "life_date": "American, born 1927",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Kenneth D. Snelson",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition LRC, scratched into emulsion: [K. Snelson 1982]",
   "text": "",
   "description": "panoramic photo of narrow canals in Venice; three street signs; boats at right beyond buildings; two sheets joined together to left of \\\"Sotoportego / S. Cristoforo\\\" sign (may be three sheets?)",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.185",
-  "artist": "Kenneth D. Snelson"
+  "accession_number": "2013.35.185"
 }

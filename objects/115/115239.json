@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1905",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115239",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Title, Edition and Inscription\r\n\r\nsee S LRC, in the print: [A. Lepère.]; LRC, in pencil: [",
   "text": "",
   "description": "small square building at center; boards next to building behind fence, LLC; woman with two children, LLC; other figures at right; boats at left on water; bridge at right",
-  "creditline": null,
-  "accession_number": "2013.35.653",
-  "artist": "Auguste Louis Lepère"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "2013.35.653"
 }

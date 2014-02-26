@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1870 - 1953",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Marin",
   "dated": "1913",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Label Signed in pencil below image at LR : [John Marin].",
   "text": "",
   "description": "bridge arching across center of print; New York skyline behind with reflection of city and bridge in lower half; border",
+  "provenance": "",
   "creditline": "Gift of Barbara M. Kaerwer",
-  "accession_number": "2010.49                                   ",
-  "artist": "John Marin"
+  "accession_number": "2010.49"
 }

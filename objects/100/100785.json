@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Margaret Bourke-White",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Margaret Bourke-White",
   "life_date": "American, 1904 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Margaret Bourke-White",
   "dated": "1931",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on mat below image right in pencil: [BOURKE-/WHITE",
   "text": "",
   "description": "two men assembling pipe organ pipes",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.265",
-  "artist": "Margaret Bourke-White"
+  "accession_number": "2007.35.265"
 }

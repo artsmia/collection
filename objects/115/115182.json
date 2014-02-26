@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1847 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Buhot",
   "dated": "1877",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\nL LRC, in the print: [Buhot Felix 77]; LLC, in the p",
   "text": "",
   "description": "people on shore; large boat with dark smoke coming from smokestack at center; flags on flagpoles at right; water at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.684",
-  "artist": "Félix Buhot"
+  "accession_number": "2013.35.684"
 }

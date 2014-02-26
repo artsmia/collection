@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Frederick William Quandt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Frederick William Quandt",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Frederick William Quandt",
   "dated": "1946",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature and Date below LRC of sheet on mount, in pencil: [QUANDT 47",
   "text": "",
   "description": "docks and buildings on stilts in a harbor",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.114",
-  "artist": "Frederick William Quandt"
+  "accession_number": "2013.35.114"
 }

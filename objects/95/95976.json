@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1871 - 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Sloan",
   "dated": "1907",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nbelow im LR, in pencil: [John Sloan]; LL, in pencil: title;",
   "text": "",
   "description": "woman at wooden barrel holding object in PL hand; small cat seated behind her",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "2004.254.14                               ",
-  "artist": "John Sloan"
+  "accession_number": "2004.254.14"
 }

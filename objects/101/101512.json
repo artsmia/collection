@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographs by Ansel Adams. Copyright %26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
+  "image_copyright": "Photographs by Ansel Adams. Copyright %26Acirc%3B%26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
   "life_date": "American, 1902 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ansel Adams",
   "dated": "c. 1940 (printed c. 1985)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Artist\\'s stamp ",
   "text": "",
   "description": "dark clouds above valley; cliffs on either side; waterfall on right; low clouds or fog in foreground behind pine trees",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.368.1                             ",
-  "artist": "Ansel Adams"
+  "accession_number": "2007.35.368.1"
 }

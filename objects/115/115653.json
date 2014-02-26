@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Nicholas Dean",
+  "image_copyright": "%26Acirc%3B%26copy%3B Nicholas Dean",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nicholas Dean",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Inscription\r\n\r LRC below image on mount, in pencil: [Nicholas Dea",
   "text": "",
   "description": "shiny doorknob on a weathered louvered door with cracked paint",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.447",
-  "artist": "Nicholas Dean"
+  "accession_number": "2013.35.447"
 }

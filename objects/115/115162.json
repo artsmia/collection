@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1847 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Buhot",
   "dated": "1879",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Stamp\r\n\r\nLRC, in the pr LRC, in the print: [1879 FTB]; LRC, in pencil: [(i",
   "text": "",
   "description": "silhouette of sailboat left of center; silhouette of man sitting on wood structure in LLQ; cloudy sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.682",
-  "artist": "Félix Buhot"
+  "accession_number": "2013.35.682"
 }

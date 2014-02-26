@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B William Clift",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B William Clift",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "William Clift",
   "dated": "1975",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC below image on mount, in pencil: [William Clif",
   "text": "",
   "description": "rock formation at center on horizon line; tiny tufts of grass on flat land in foreground; pair of tire tracks through scrub grass toward rock formation",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.553",
-  "artist": "William Clift"
+  "accession_number": "2013.35.553"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Joel Janowitz",
+  "image_copyright": "%26Acirc%3B%26copy%3B Joel Janowitz",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joel Janowitz",
   "dated": "2005",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LLC, on mount, impressed in paper: [HP (intertwine",
   "text": "",
   "description": "vertical format; abstracted image with leaves and trellis-like structure at top; greens, blues, yellows; torn at edges and attached to backing sheet",
+  "provenance": "",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
-  "accession_number": "2006.18",
-  "artist": "Joel Janowitz"
+  "accession_number": "2006.18"
 }

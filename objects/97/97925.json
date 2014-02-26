@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
   "life_date": "American, 1913-1997",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nathan Lerner",
   "dated": "1976",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, Date and Inscription\r\n\r\nsee Signed on back, in pencil: [The Shopping Bag 1976 / #J6 /",
   "text": "",
   "description": "seated woman wearing a white coat and dark skirt, with head and lower legs and feet outside of picture plane, holding a shopping bag with a picture of a pair of eyes on her lap",
+  "provenance": "",
   "creditline": "Gift of Kiyoko Lerner",
-  "accession_number": "2005.99.41",
-  "artist": "Nathan Lerner"
+  "accession_number": "2005.99.41"
 }

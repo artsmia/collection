@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1901",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\nLLC below image, in p LRC below image, in pencil: [Kathe Kollwitz]",
   "text": "",
   "description": "two men at left embracing; standing woman at right; seated man playing accordion at center; another seated man at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.735",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "2013.35.735"
 }

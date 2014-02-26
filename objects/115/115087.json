@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Kenro Izu. All right reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Kenro Izu. All right reserved.",
   "life_date": "Japanese, born 1949",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Izu Kenro",
   "dated": "1998 (printed 2002)",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription, Edition and S LRC, in pencil: [2002 Kenro Izu]; see Mark",
   "text": "",
   "description": "expansive view of mountain landscape; clouds in sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.190",
-  "artist": "Kenro Izu"
+  "accession_number": "2013.35.190"
 }

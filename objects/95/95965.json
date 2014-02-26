@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Gilliam",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Gilliam",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Gilliam",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition and Stamp LRC, in pencil: signature and date",
   "text": "",
   "description": "geometric design; a variety of triangles in red, blue, yellow; large grey rectangle with one corner missing in center background; blue square center left",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "2004.254.6",
-  "artist": "Sam Gilliam"
+  "accession_number": "2004.254.6"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "Italian (Rome), active 1597-1629",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Pietro Stefanoni",
   "dated": "1599-1629",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscriptions, Marks,\r\n\r\nTitle page: [Al all plates (except pp. 32, 34) at lower edge: [P.S",
   "text": "Drawing manuals like this work were common teaching tools for artists and amateurs learning to draw in the 16th and 17th centuries This model book was published by Pietro Stefanoni in Rome in the early 17th century and features designs by the famous and recently deceased Bolognese artist Agostino Carracci. The engravings were produced by Luca Ciamberlano and perhaps also Francesco Brizio. Some 81 engravings were published by Stefanoni's print shop for the project, but a formal book was never published. Prints from the series, instead, appear to have been sold separately and assembled into unique albums. This example comprises 41 engravings. The prints are a pattern book for the aspiring draftsman to study and copy with concise, accomplished depictions of body parts-ears, eyes, feet, hands-head studies, and animals. ",
   "description": "artist\\'s copybook with images of body parts, portraits with heads in various positions, babies\\' heads, and animals; book has mottled golden-brown leather cover with gold stamping; end papers have swirled green, blue, red, and yellow designs; 41 engraved plates",
+  "provenance": "",
   "creditline": "The Mary and Robyn Campbell Fund for Art Books",
-  "accession_number": "2012.93.1                                 ",
-  "artist": "Pietro Stefanoni"
+  "accession_number": "2012.93.1"
 }

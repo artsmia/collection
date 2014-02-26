@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Christopher Faust",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christopher Faust",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Faust",
   "dated": "2011",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LLC on back, in black: [OLD ORE DOCK Piles, Ashlan",
   "text": "",
   "description": "tops of many small, weathered wooden posts of various heights sticking out of water",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.77",
-  "artist": "Christopher Faust"
+  "accession_number": "2013.35.77"
 }

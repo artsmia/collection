@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1988",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " none seen",
   "text": "",
   "description": "abstract image; central biomorphic and geometric form in blue, grey, white and yellow; football shaped element at center with basket-weave design; red and blue grid and guidelines throughout; small sketches in red and blue of three-dimensional forms in ULC and LLC",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.74.10                                ",
-  "artist": "John Newman"
+  "accession_number": "2011.74.10"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Japanese, 1930 - 2012",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Shomei Tomatsu",
   "dated": "1961 (printed 1980)",
   "culture": null,
   "country": "Japan",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Atomic Bomb Damage:  Wristwatch Stopped at 11:02, August 9, 1945, Nagasaki",
   "id": "http://api.artsmia.org/objects/116116",
-  "room": "Not on View",
+  "room": "G277",
   "style": "20th century",
   "marks": "Signature and Date on back, in pencil: [1961 Tomatsu \\'80]",
-  "text": "",
+  "text": "On August 9, 1945, at 11:02 a.m, an atomic bomb, code named “Fat Man,” was dropped on Nagasaki, Japan by the United States  in the final months of World War II. Shomei Tomatsu, the most important and influential photographer of post-war Japan, has photographed a watch that survived the destruction of the atomic bomb, which killed an estimated 60,000 to 80,000 people, most of whom were civilians. On display at the Nagasaki Atomic Bomb Museum, the watch remains forever frozen at the exact moment that “Fat Man” incinerated the city. \r\n \r\nTomatsu has removed the watch from any visual context, and it appears to exist in a dream world void of time and space. The watch is no longer an artifact on display, but has been transformed through photography into a symbolic expression of a moment when an unbelievable amount of lives were extinguished. The photograph memorializes the victims of Nagasaki, and reminds us of humanity’s terrifying destructive capability. ",
   "description": "damaged wristwatch without a band against light-colored fabric background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Purchase Fund",
-  "accession_number": "2013.22.1                                 ",
-  "artist": "Shomei Tomatsu"
+  "accession_number": "2013.22.1"
 }

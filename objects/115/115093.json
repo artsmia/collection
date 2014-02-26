@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1845 - 1916",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Luigi Loir",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LLC, in black: [L L]",
   "text": "",
   "description": "house at center with lights in windows; two bare trees at right in front of house; grey image overall",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.739",
-  "artist": "Luigi Loir"
+  "accession_number": "2013.35.739"
 }

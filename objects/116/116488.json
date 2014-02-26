@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "early 20th century",
   "culture": null,
   "country": "India",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "54 × 192 in. (137.16 × 487.68 cm)",
   "medium": "Mineral colors on canvas",
   "title": "Scroll Painting Dedicated to Pabuji",
   "id": "http://api.artsmia.org/objects/116488",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "surface covered with paintings of warriors; battle scenes, horses, carts, and more; large mustachioed figure in red at center holds a spear and lotus; faces four other seated figures",
+  "provenance": "",
   "creditline": "Gift of Jim Billings, Fifty Years of Friendship",
-  "accession_number": "2013.59",
-  "artist": ""
+  "accession_number": "2013.59"
 }

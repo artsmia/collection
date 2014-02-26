@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, born 1961",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mark Dion",
   "dated": "2012-2013",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Mixed media",
   "title": "Curator's Office",
   "id": "http://api.artsmia.org/objects/116294",
-  "room": "EXS",
+  "room": "G378",
   "style": "21st century",
   "marks": " ",
   "text": "",
   "description": "gallery installation/\\\"period room\\\"",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "2013.17                                   ",
-  "artist": "Mark Dion"
+  "accession_number": "2013.17"
 }

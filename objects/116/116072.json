@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "German, c. 1450-1491",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Martin Schongauer",
   "dated": "late 15th century",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature bottom edge, center, in the print: [M + S]",
   "text": "",
   "description": "standing young woman with long curly hair, wiping her PR eye with her hand; woman holds a cone-shaped lamp in her PL hand; wreath of flowers at woman\\'s feet in LLC",
+  "provenance": "",
   "creditline": "Gift of Peter R. Spokes in memory of C.C. and Beecher Hogan",
-  "accession_number": "2013.26.1                                 ",
-  "artist": "Martin Schongauer"
+  "accession_number": "2013.26.1"
 }

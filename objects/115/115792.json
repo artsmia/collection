@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Graham Smith",
+  "image_copyright": "%26Acirc%3B%26copy%3B Graham Smith",
   "life_date": "British, born 1947",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Graham Smith",
   "dated": "1976",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\non back, on back, in pencil: [Graham Smith] and [EASINGTON ",
   "text": "",
   "description": "two figures walking down sidewalk next to a concrete wall at left; brick buildings on opposite side of road at right; camoflaged dog standing by a building at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.116",
-  "artist": "Graham Smith"
+  "accession_number": "2013.35.116"
 }

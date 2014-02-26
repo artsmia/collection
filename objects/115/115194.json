@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "life_date": "American, 1869 - 1931",
+  "life_date": "American (born Canada), 1869 - 1931",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Wesley Cotton",
   "dated": "c. 1915",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition LRC below image, in pencil: [J. Cotton]",
   "text": "",
   "description": "landscape in fall colors; two standing men in LLQ on yellow grasses; very tall, thin trees in middle ground in front of houses and blue church steeple; orange clouds; low horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.726",
-  "artist": "John Wesley Cotton"
+  "accession_number": "2013.35.726"
 }

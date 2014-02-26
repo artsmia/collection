@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Koichiro Kurita",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Koichiro Kurita",
   "life_date": "Japanese, born 1943",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Koichiro Kurita",
   "dated": "1991 (printed 1994)",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition LRC, in pencil: [K Kurita]",
   "text": "",
   "description": "bare fallen tree branch caught at top of waterfall with patterns of cascading water",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.197",
-  "artist": "Koichiro Kurita"
+  "accession_number": "2013.35.197"
 }

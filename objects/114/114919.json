@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Austrian, 1890 - 1918",
   "nationality": "Austrian",
   "role": "Artist",
+  "artist": "Egon Schiele",
   "dated": "1909",
   "culture": null,
   "country": "Austria",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date\r\n\r\nsee Signed LLC, in pencil: [SCHIELE / EGON / 09.]",
   "text": "",
   "description": "line drawing of head and torso of a woman seen in profile from PL, looking down at a book; woman\\'s PR hand beneath her PL elbow",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.672",
-  "artist": "Egon Schiele"
+  "accession_number": "2013.35.672"
 }

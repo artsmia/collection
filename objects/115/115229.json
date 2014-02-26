@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1897",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115229",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Date and Inscription\r\n\r\nbottom center,  LLC, in the print: [A. Lepère / 97]",
   "text": "",
   "description": "people exiting a boat on a long ramp; woman in foreground at left wearing a short black cape and white dress with blue flowers, carrying a small bouquet of flowers; boats on background on water",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.645",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.645"
 }

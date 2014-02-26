@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The Lotte Jacobi Collection%2C University of New Hampshire. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Lotte Jacobi Collection%2C University of New Hampshire. All rights reserved.",
   "life_date": "American (born Germany), 1896 - 1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lotte Jacobi",
   "dated": "1962",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on back, in pencil: [Lotte Jacobi]",
   "text": "",
   "description": "portrait of grey-haired man seated sideways in a chair, slouching, looking down toward left, wearing an open long-sleeved shirt and white t-shirt; wood paneling behind sitter",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.215",
-  "artist": "Lotte Jacobi"
+  "accession_number": "2013.35.215"
 }

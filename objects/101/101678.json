@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Fritz Eichenberg %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Fritz Eichenberg %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American (born Germany), 1901-1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Fritz Eichenberg",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition LLC, in the plate: [EICHENBERG]; below image, in p",
   "text": "",
   "description": "printed in black; full moon at center; two figures in Haz-mat suits pour chemicals into a cauldron at bottom center; dead animals and skull at bottom center and L; various vignettes of figures fighting, a figure attempting to fly in URC and a thin figure reaching a bowl out to a fat figure at bottom center; received framed",
+  "provenance": "",
   "creditline": "Gift of John and Susan Lentz",
-  "accession_number": "2006.116.4                                ",
-  "artist": "Fritz Eichenberg"
+  "accession_number": "2006.116.4"
 }

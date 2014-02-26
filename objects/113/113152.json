@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Philip Guston %2F The Guston Foundation",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Philip Guston %2F The Guston Foundation",
   "life_date": "American, 1913-1980",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Philip Guston",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition\r\n\r\nsee Signed\r\n\r\nInscr LRC, in pencil: [Philip Guston  \\'70]",
   "text": "",
   "description": "gloved fist in ULQ; falling brick-like forms; abstract skyscrapers at left and right; shoes, seen from bottom, in a pile of debris with pipe and board with nails at bottom center",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.74.5",
-  "artist": "Philip Guston"
+  "accession_number": "2011.74.5"
 }

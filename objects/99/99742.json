@@ -1,13 +1,14 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1933",
   "culture": null,
-  "country": "",
+  "country": null,
   "continent": null,
   "dimension": "9 5/8 x 14 1/4 in. (24.45 x 36.2 cm) (image)\r\n12 x 15 15/16 in. (30.48 x 40.48 cm) (sheet)",
   "medium": "Gelatin silver print",
@@ -18,7 +19,7 @@
   "marks": "Signature on LR below image, on sheet, in black ink: [HENRI ",
   "text": "",
   "description": "children playing in rubble seen through a hole in the foreground wall; one child on crutches, a second with a hoop; fifteen figures visible",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.63                                ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "2007.35.63"
 }

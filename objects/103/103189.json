@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jim Dine",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\nsee Signed bottom right, in charcoal and pencil: [Jim Dine 19",
   "text": "",
   "description": "3/4 length nude female with a large conch shell in front of her abdomen; undefined face with dark hair; head turned slightly to PR; turquoise and red areas of ground with grey",
+  "provenance": "",
   "creditline": "Gift of G&K Services",
-  "accession_number": "2007.76.1                                 ",
-  "artist": "Jim Dine"
+  "accession_number": "2007.76.1"
 }

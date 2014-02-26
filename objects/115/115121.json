@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "British, 1864-1929",
   "nationality": null,
   "role": "Artist",
+  "artist": "Arthur Tucker",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature and Title LLC, in black: [A. Tucker]; on back, in pencil: [W",
   "text": "",
   "description": "mountains--blue, green and brown; clouds and grey mist; water in foreground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.579",
-  "artist": "Arthur Tucker"
+  "accession_number": "2013.35.579"
 }

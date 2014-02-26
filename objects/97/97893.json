@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
   "life_date": "American, 1913-1997",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nathan Lerner",
   "dated": "1936",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [INV 2812] ",
   "text": "",
   "description": "two men asleep on concrete steps in front of a brick building",
+  "provenance": "",
   "creditline": "Gift of Kiyoko Lerner",
-  "accession_number": "2005.99.12",
-  "artist": "Nathan Lerner"
+  "accession_number": "2005.99.12"
 }

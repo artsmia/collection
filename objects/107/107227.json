@@ -5,6 +5,7 @@
   "life_date": "French, 1824 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Eugène-Louis Boudin",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/107227",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature LR corner, in pencil: [Oaramé]\r\n",
   "text": "",
   "description": "two women washing clothes; woman on right standing at a stool holding a paddle in right hand; woman on left bending over a board; received framed with L2009.52.35 (\\\"Encampment\\\")",
+  "provenance": "",
   "creditline": "Gift of the Joseph F. McCrindle Collection",
-  "accession_number": "2009.53.34                                ",
-  "artist": "Eugène-Louis Boudin"
+  "accession_number": "2009.53.34"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Mangold",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition\r\n\r\nsee Signed\r\n\r\nNumbered LL LRC, in pencil: [R. Mangold]",
   "text": "",
   "description": "four-sided form with arched top made up of three colored panels--grey, dark green and maroon; two grey ovoid shapes inside form",
+  "provenance": "",
   "creditline": "Gift of Wells Fargo",
-  "accession_number": "2011.88.3                                 ",
-  "artist": "Robert Mangold"
+  "accession_number": "2011.88.3"
 }

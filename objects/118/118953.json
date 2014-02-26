@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "c. 1985",
   "culture": "Senufo Culture",
-  "country": null,
+  "country": "Côte d'Ivoire",
   "continent": "Africa",
-  "dimension": null,
+  "dimension": "54 1/2 × 79 3/4 in. (138.43 × 202.57 cm)",
   "medium": "Cotton, pigments",
   "title": "Panel",
   "id": "http://api.artsmia.org/objects/118953",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "12 strips of loosely-woven cream-colored cloth sewn together; painted design in brown:  foliage, deer, birds, elephant and lion devouring a deer; all animals have various decorative patterning on their bodies",
+  "provenance": "",
   "creditline": "Gift of Joanne B. Eicher",
-  "accession_number": "2013.78.11",
-  "artist": "Artist Unknown"
+  "accession_number": "2013.78.11"
 }

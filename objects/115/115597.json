@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B William Clift",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B William Clift",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "William Clift",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nLLC belo LRC below sheet on mount and LRC below mat opening",
   "text": "",
   "description": "peak-shaped shadow on sand with rivulets; high horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.554",
-  "artist": "William Clift"
+  "accession_number": "2013.35.554"
 }

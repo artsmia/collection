@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Flemish, 1641 - 1711",
   "nationality": "Flemish",
   "role": "Artist",
+  "artist": "Gerard de Lairesse",
   "dated": "17th century",
   "culture": null,
   "country": "Flanders",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nat bottom, printed in black: [Vinum ",
   "text": "",
   "description": "Silenus sleeping at center, with his PL leg over a jug; two small satyrs asleep to Silenus\\' right; three women laughing at Silenus--one at right squeezing bunch of grapes over his head; archway with figures carrying basket of grapes at left; tree at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.695",
-  "artist": "Gerard de Lairesse"
+  "accession_number": "2013.35.695"
 }

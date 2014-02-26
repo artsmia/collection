@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Walter Chappell. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Walter Chappell. All rights reserved.",
   "life_date": "American, 1925 - 2000",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Walter Chappell",
   "dated": "1973",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC below image on mount, in pencil: [WALTER CHAPP",
   "text": "",
   "description": "nude young boy with long dark hair seated on and leaning against a large rock",
+  "provenance": "",
   "creditline": "Gift of Dr. James L. and Mrs. Bambi P. Anderson",
-  "accession_number": "2006.11.5",
-  "artist": "Walter Chappell"
+  "accession_number": "2006.11.5"
 }

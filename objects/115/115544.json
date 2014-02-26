@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1894",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115544",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Inscription, Edition and Stamp\r\n\r\nLLC,  LRC, in pencil: [A Lepère no 11 / tir 30 Ep]",
   "text": "",
   "description": "man in LLC resting; walking figure at left in middle ground; figure seated at water\\'s edge at right in middle ground; boats on water; buildings on opposite shore",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.631",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.631"
 }

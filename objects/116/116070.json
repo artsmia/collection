@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "German, 1471-1528",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Albrecht Dürer",
   "dated": "1514",
   "culture": null,
   "country": "Germany",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "16th century",
   "marks": "Signature and Date right edge, center, in the print: [1514 / A D]",
-  "text": "Albrecht Dürer was the premier artist of renaissance Germany and remains the greatest engraver of all time. This exquisite work comes from the period when the artist's handling of the burin'the engraver's tool'was at its apogee. With countless minute incisions into the copper printing plate, he created an image filled with seemingly microscopic detail that seems monumental at the same time. He gives us a convincing impression of the Virgin's silken robes contrasted with the stony foundations of the massive fortification. Similarly the solidity of the foreground objects is matched against the airiness of the verdant countryside. Yet another contrast is that between the quiet peace and contentment of the mother and the disquiet of the Christ child, who firmly displays his apple, an allegory of the earthly world and man's sin, while looking at us with an probing gaze. Indeed this image conveys a yearning for a return to the Garden in a time before man ate from the Tree of Knowledge'redemption made possible through faith and symbolized by Mary's location outside the walls of a recognizable Nuremberg.",
+  "text": "Albrecht Dürer was the premier artist of renaissance Germany and remains the greatest engraver of all time. This exquisite work comes from the period when the artist's handling of the burin—the engraver's tool—was at its apogee. With countless minute incisions into the copper printing plate, he created an image filled with seemingly microscopic detail that seems monumental at the same time. He gives us a convincing impression of the Virgin's silken robes contrasted with the stony foundations of the massive fortification. Similarly the solidity of the foreground objects is matched against the airiness of the verdant countryside. Yet another contrast is that between the quiet peace and contentment of the mother and the disquiet of the Christ child, who firmly displays his apple, an allegory of the earthly world and man's sin, while looking at us with an probing gaze. Indeed this image conveys a yearning for a return to the Garden in a time before man ate from the Tree of Knowledge—redemption made possible through faith and symbolized by Mary's location outside the walls of a recognizable Nuremberg.",
   "description": "Mary wearing a garment with hard creases, holding baby Jesus, who holds an apple in his PR hand; wall at right; buildings in ULQ; landscape over Mary\\'s PR shoulder",
+  "provenance": "",
   "creditline": "Gift of Peter R. Spokes in memory of C.C. and Beecher Hogan",
-  "accession_number": "2013.26.3                                 ",
-  "artist": "Albrecht Dürer"
+  "accession_number": "2013.26.3"
 }

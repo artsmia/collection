@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Edouard Boubat %2F l%27agence Gamma-Rapho%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Edouard Boubat %2F l%27agence Gamma-Rapho%2C Paris",
   "life_date": "French, 1923 - 1999",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Edouard Boubat",
   "dated": "1980 (printed 1981)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Stamp on back at bottom edge, in pencil: [E. Boubat]",
   "text": "",
   "description": "two light-colored flowers and foliage in a clear vase; light-colored tabletop",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard A. Hunter",
-  "accession_number": "2005.62.3.5",
-  "artist": "Edouard Boubat"
+  "accession_number": "2005.62.3.5"
 }

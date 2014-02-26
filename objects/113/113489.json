@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Lynn Davis. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lynn Davis. All rights reserved.",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lynn Davis",
   "dated": "2006",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "black and white image of iceberg spanning entire length of piece at center; water at bottom and sky with light wispy clouds at top; highest point of iceberg at center with very light lines forming triangle-like tip incised in ice face; L and R sides appear to be mirror images of each other; framed behind Plexiglas in white wood frame; seam in Plexiglas at 79\\\" from R",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.94.1                                 ",
-  "artist": "Lynn Davis"
+  "accession_number": "2011.94.1"
 }

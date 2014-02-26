@@ -1,15 +1,16 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
   "life_date": "Swiss (born Germany), 1930 - 1998",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Dieter Roth",
   "dated": "1978",
   "culture": null,
   "country": "Germany",
   "continent": "Europe",
-  "dimension": "",
+  "dimension": null,
   "medium": "Collaged color offset lithograph",
   "title": "Cover for \"2 times 5 Trophies\" porftfolio",
   "id": "http://api.artsmia.org/objects/94778",
@@ -18,7 +19,7 @@
   "marks": "Signed, numbered ",
   "text": "",
   "description": "a portfolio of ten prints, plus one frontispiece, one collaged cover, and one pencil Speedy Drawing (79.56)",
+  "provenance": "",
   "creditline": "Gift of funds from Joe Harless",
-  "accession_number": "P.79.176.1                                ",
-  "artist": "Dieter Roth"
+  "accession_number": "P.79.176.1"
 }

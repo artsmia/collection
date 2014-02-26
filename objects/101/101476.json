@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The Brett Weston Archive%2C L.L.C.",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Brett Weston Archive%2C L.L.C.",
   "life_date": "American, 1911 - 1993",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Brett Weston",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date on mount lower right edge in pencil: [BRETT WESTON",
   "text": "",
   "description": "palm fronds reflected in rippled water",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.366.2",
-  "artist": "Brett Weston"
+  "accession_number": "2007.35.366.2"
 }

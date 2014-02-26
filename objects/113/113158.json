@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Joan Mitchell",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Joan Mitchell",
   "life_date": "American, 1926-1992",
   "nationality": null,
   "role": "Artist",
+  "artist": "Joan Mitchell",
   "dated": "1992",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition LRC on b, in pencil: [21/34  Joan Mitchell  1992]",
   "text": "",
   "description": "diptych, framed together; abstract images of painterly, zigzag and swirling lines in red, green, dark blue and black; b has concentration of wide blue marks at top center",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.74.9a,b                              ",
-  "artist": "Joan Mitchell"
+  "accession_number": "2011.74.9a,b"
 }

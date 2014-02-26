@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Chinese, 1833 - 1911",
   "nationality": "Chinese",
   "role": "Artist",
+  "artist": "Qian Hui'an",
   "dated": "c. 1875",
   "culture": null,
   "country": "China",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "19th century",
   "marks": "Stamp, Seal and Sticker ",
-  "text": "",
+  "text": "For this leaf, the artist shows a boat just as its oarsman poles it into view. An old gentleman sits in the prow, gazing into the distance. His hat is of a kind associated with Su Shi, a renowned Northern Song poet and statesman and also a popular theme of Chinese painting, but it would probably be a mistake to think that the leaf illustrates any particular poem by the poet. Rather, the Su Shi reference turns the passenger into an emblem of poetic sensibility. It is a painting of so-called yuyin (“reclusion in a fishing boat”), a theme concerning eremitism rather than fishing. Those seen on boats are not fishermen but scholar-recluses who are escaping an official career, fame and other social burdens.",
   "description": "two men in a boat--one standing, one seated; seated bearded man at left wears a grey cap and holds up a white fan; hunched-over standing man at right has white hair and wears a straw hat; basket with orange fruits in boat; plants at bottom, center and right",
+  "provenance": "",
   "creditline": "The Friends of Bruce Dayton Art Acquisition Fund",
-  "accession_number": "2013.13.4                                 ",
-  "artist": "Qian Hui'an"
+  "accession_number": "2013.13.4"
 }

@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Metal",
   "title": "Mezuzah (doorpost)",
   "id": "http://api.artsmia.org/objects/92371",
-  "room": "Not on View",
+  "room": "G362",
   "style": null,
   "marks": " ",
   "text": "The Shema (Deuteronomy 6:4-9) commands, \"And you shall write them on the doorposts of your house and on your gates.\"  To fulfill this commandment, the Shema is written on a tiny scroll of parchment along with a companion passage, Deut. 11:13-21.  The scroll is placed in a case and affixed to the right side of every doorpost at an angle while reciting a special blessing.  This mezuzah is from the Metropolitan-Mount Sinai Medical Center, which closed in 1991.",
   "description": "silver architectural-like element with four pieces of gold twisted wire, in a rough star of David, surrounding the Hebrew letter Shin.",
+  "provenance": "",
   "creditline": "Anonymous Gift to honor the Metropolitan-Mt. Sinai Hospital",
-  "accession_number": "2004.200                                  ",
-  "artist": ""
+  "accession_number": "2004.200"
 }

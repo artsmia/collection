@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Man Ray Trust %2F Artists Rights Society %28ARS%29%2C NY %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Man Ray Trust %2F Artists Rights Society %28ARS%29%2C NY %2F ADAGP%2C Paris",
   "life_date": "American, 1890 - 1976",
   "nationality": null,
   "role": "Artist",
+  "artist": "Man Ray (Emmanuel Rudnitsky)",
   "dated": "1930",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "nude woman with light bobbed hair, seated, looking down; rug with linear design on wall behind woman",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2006.85.1",
-  "artist": "Man Ray (Emmanuel Rudnitsky)"
+  "accession_number": "2006.85.1"
 }

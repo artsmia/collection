@@ -5,6 +5,7 @@
   "life_date": "French, 1846 - 1897",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri-Charles Guérard",
   "dated": "c. 1890",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/108710",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature and Stamp LRC, in black ink: [H. Guérard]",
   "text": "Henri-Charles Guérard was an ardent collector and admirer of Japanese art, going so far as to learn to write with Japanese characters. In Chestnut Tree Leaves, he used a horizontal swath of yellow silk as the support for his drawing. Using several stencils, Guérard created a frieze of large and small chestnut leaves across the surface. He used a vaporisateur (atomizer) to apply subtle sprays of orange, blue, and green paint, after which he painted the distinctive veins and stems of the chestnut leaves. Objects such as Nakayama Komin's Writing Box, also in this gallery, provided inspiration for Guérard's art.",
   "description": "yellow silk ground; repeating images of five-leaf clusters of different sizes in yellow and green; splatter-like green spots on ground",
+  "provenance": "",
   "creditline": "Gift of funds from Ann and David Heider",
-  "accession_number": "2009.70.2                                 ",
-  "artist": "Henri-Charles Guérard"
+  "accession_number": "2009.70.2"
 }

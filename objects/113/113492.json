@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
+  "image_copyright": "%26Acirc%3B%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
   "life_date": "American, 1926-2010",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beth Van Hoesen",
   "dated": "1979",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nverso, L LRC, in pencil: [Two Squash Blossoms / Beth Van Ho",
   "text": "",
   "description": "drawing of two orange squash blossoms with green stems in a glass of water; tiny insect on blossom on left",
+  "provenance": "",
   "creditline": "Gift of E. Mark Adams and Beth Van Hoesen Adams Trust",
-  "accession_number": "2011.101.3                                ",
-  "artist": "Beth Van Hoesen"
+  "accession_number": "2011.101.3"
 }

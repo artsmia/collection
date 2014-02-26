@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
   "life_date": "American (born Germany), 1893 - 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grosz",
   "dated": "1923",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscriptions\r\n\r\nsee Sig Signed in pencil, LRC: [GROSZ]",
   "text": "",
   "description": "moustached standing, saluting soldier wearing a helmet with two small horns, glasses, grenades around his belt and sword at his PL side",
+  "provenance": "",
   "creditline": "The Richard Lewis Hillstrom Fund and the Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
-  "accession_number": "2006.62                                   ",
-  "artist": "George Grosz"
+  "accession_number": "2006.62"
 }

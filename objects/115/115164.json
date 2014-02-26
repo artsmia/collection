@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1847 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Buhot",
   "dated": "1875",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ bottom center, in the plate: [Felix Buhot SC]; LRC",
   "text": "",
   "description": "couple in a boat watching swimming ducks in a marsh",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.690",
-  "artist": "Félix Buhot"
+  "accession_number": "2013.35.690"
 }

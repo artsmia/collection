@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B John Goodman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Goodman",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Goodman",
   "dated": "2005",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition on back, in pencil: [ECHO/#6/20  John Goodman  200",
   "text": "",
   "description": "blurry image of back of a woman in a gown with a scarf on her head, dancing; possible other dancers in ULQ",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.131",
-  "artist": "John Goodman"
+  "accession_number": "2013.35.131"
 }

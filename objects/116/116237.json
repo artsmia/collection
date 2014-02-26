@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
   "life_date": "Dutch, 1607 - 1681",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Cornelis Saftleven",
   "dated": "mid 17th century",
   "culture": null,
   "country": "Netherlands",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "17th century",
   "marks": " ",
-  "text": "Cornelis Saftleven was a prolific painter of rustic genre scenes, scenes of witchcraft, religious pictures, animal studies, landscapes, and portraits. He was also a prolific draftsman and frequently signed his drawings, which suggests that they were already collected in his own day. \r\nMore than one third of Saftleven's known drawings are studies of single figures. He seems to have relished the humorous possibilities of slightly awkward poses, and the present study of a youth displays just that quality. The young man's fancy garb, slouching posture, smile and unfocused eyes suggest that he may be a tipsy gentleman. \r\nSaftleven sometimes, as here, drew on brown paper, using it as a middle tone beneath his application of line, shadow, and highlights in black and white chalks. ",
+  "text": "Cornelis Saftleven was a prolific painter of rustic genre scenes, scenes of witchcraft, religious pictures, animal studies, landscapes, and portraits. He was also a prolific draftsman and frequently signed his drawings, which suggests that they were already collected in his own day. \r\nMore than one third of Saftleven’s known drawings are studies of single figures. He seems to have relished the humorous possibilities of slightly awkward poses, and the present study of a youth displays just that quality. The young man’s fancy garb, slouching posture, smile and unfocused eyes suggest that he may be a tipsy gentleman. \r\nSaftleven sometimes, as here, drew on brown paper, using it as a middle tone beneath his application of line, shadow, and highlights in black and white chalks. ",
   "description": "young man wearing knickers, jacket, ruffled collar and cap, seated on a rock; PR hand on lap",
+  "provenance": "",
   "creditline": "Gift of funds from The Joseph F. McCrindle Collection",
-  "accession_number": "2013.43.2",
-  "artist": "Cornelis Saftleven"
+  "accession_number": "2013.43.2"
 }

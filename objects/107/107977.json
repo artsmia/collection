@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Courtesy Regen Projects%2C Los Angeles%2C CA %26copy%3B Catherine Opie",
+  "image_copyright": "Courtesy Regen Projects%2C Los Angeles%2C CA %26Acirc%3B%26copy%3B Catherine Opie",
   "life_date": "American, born 1961",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Catherine Opie",
   "dated": "2001",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition on back, in black ink: [Catherine Opie / Untitled ",
   "text": "",
   "description": "white image with two very light grey rectangles at right center",
+  "provenance": "",
   "creditline": "Gift of Donna and Cargill MacMillan Jr.",
-  "accession_number": "2010.58.1                                 ",
-  "artist": "Catherine Opie"
+  "accession_number": "2010.58.1"
 }

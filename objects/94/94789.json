@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dieter Roth Estate Courtesy Hauser %26amp%3B Wirth",
   "life_date": "Swiss (born Germany), 1930 - 1998",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Dieter Roth",
   "dated": "1978",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature, edition ",
   "text": "",
   "description": "a portfolio of ten prints, one frontispiece, one collaged cover and one pencil drawing (79.56)",
+  "provenance": "",
   "creditline": "Gift of funds from Joe Harless",
-  "accession_number": "P.79.176.12                               ",
-  "artist": "Dieter Roth"
+  "accession_number": "P.79.176.12"
 }

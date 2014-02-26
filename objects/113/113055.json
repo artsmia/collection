@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Sam Francis Foundation. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Francis Foundation. All rights reserved.",
   "life_date": "American, 1923 - 1994",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Francis",
   "dated": "1966",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\no on back, ULQ, in pencil: [Sam Francis / Sketch 196",
   "text": "",
   "description": "vertical formal; black roughly triangular form at top, with line extending downward along left edge of sheet; some black and grey ink spots in lower section",
+  "provenance": "",
   "creditline": "Gift of the Sam Francis Foundation, California",
-  "accession_number": "2011.81.1                                 ",
-  "artist": "Sam Francis"
+  "accession_number": "2011.81.1"
 }

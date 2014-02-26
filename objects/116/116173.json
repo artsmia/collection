@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": "Japanese, born 1953",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Akiyama Yō",
   "dated": "2006",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non bottom, incised: untranslated in ",
   "text": "",
   "description": "sculptural form; vessel on its side with elongated vertical slit mouth opening on one side; opposite end (near bottom) has vertical rough slit opening; cracked, planar elements on walls; black patina with some reddish undertones",
+  "provenance": "",
   "creditline": "Gift of Edward A. Studzinski, Chicago, IL",
-  "accession_number": "2013.15                                   ",
-  "artist": "Akiyama Yo_"
+  "accession_number": "2013.15"
 }

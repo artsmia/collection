@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
   "life_date": "American, 1928-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Helen Frankenthaler",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition ",
   "text": "",
   "description": "Vertical yellow lines along R side; green circle near top center with blue lines and shapes below; one vertical brown and blue streak along L side; small green and red spot at bottom center; flat profile, natural hardwood frame",
+  "provenance": "",
   "creditline": "Gift of Mom, Mary Haldeman Dayton, and her family",
-  "accession_number": "2010.94.4                                 ",
-  "artist": "Helen Frankenthaler"
+  "accession_number": "2010.94.4"
 }

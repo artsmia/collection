@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Christopher Faust",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christopher Faust",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Faust",
   "dated": "1997",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LLC, in black ink: [Corn Crib Near Le Center MN.];",
   "text": "",
   "description": "empty narrow corn crib in a snowy landscape; tracks in snow at center toward corn crib; two silos and cluster of farm buildings at left middle ground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.79",
-  "artist": "Christopher Faust"
+  "accession_number": "2013.35.79"
 }

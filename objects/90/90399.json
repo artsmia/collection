@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/90399",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Inscription\r\n\r\non bottom, in pencil: [FT/ 45ºº]\r\n\r ",
   "text": "",
   "description": "brown ceramic elephant; standing; trunk down curled into mouth; coin slot in back",
+  "provenance": "",
   "creditline": "Gift of Katherine Kierland Herberger",
-  "accession_number": "2003.236.916",
-  "artist": ""
+  "accession_number": "2003.236.916"
 }

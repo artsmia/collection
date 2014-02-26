@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Kawase Hasui",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Kawase Hasui",
   "life_date": "Japanese, 1883 - 1957",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kawase Hasui",
   "dated": "1936",
   "culture": null,
   "country": "Japan",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/113419",
   "room": "Not on View",
   "style": "20th century",
-  "marks": "Inscription\r\n\r\nLLC, in pencil: [C-9] [??] {Hasui}",
+  "marks": "Inscription\r\n\r\nLLC, in pencil: [C-9] [巴水] {Hasui}",
   "text": "",
   "description": "bridge with umbrellas (blue and purple with white) held by figures on bridge visible over railing; trees on opposite side of bridge; grey sky with rain falling",
+  "provenance": "",
   "creditline": "Gift of Gary L. Gliem",
-  "accession_number": "2011.93.2",
-  "artist": "Kawase Hasui"
+  "accession_number": "2011.93.2"
 }

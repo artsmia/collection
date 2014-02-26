@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Estate A. Aubrey Bodine %2F Jennifer B. Bodine",
   "life_date": "American, 1906 - 1970",
   "nationality": "American",
   "role": "Artist",
+  "artist": "A. Aubrey Bodine",
   "dated": "1955",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Stamp on mount, LR, in pencil: [A.AUBREY BODINE/ LONGSHO",
   "text": "",
   "description": "five men, three with dollies working next to a net hanging from a ship",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.344",
-  "artist": "A. Aubrey Bodine"
+  "accession_number": "2007.35.344"
 }

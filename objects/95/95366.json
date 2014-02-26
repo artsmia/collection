@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Ralph Gibson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ralph Gibson",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ralph Gibson",
   "dated": "1980 (printed 1982)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Stamp on back at bottom edge, in pencil: [Ralph Gibson 1",
   "text": "",
   "description": "architectural elements:  turned spooled column and beveled diamond shape; dark shadows",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard A. Hunter",
-  "accession_number": "2005.62.1.2",
-  "artist": "Ralph Gibson"
+  "accession_number": "2005.62.1.2"
 }

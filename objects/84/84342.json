@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1786 - 1865",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Utagawa Kunisada",
   "dated": "1847-1852",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "14 3/8 x 9 5/8 in. (36.5 x 24.5 cm) (image, sheet) each",
-  "medium": "color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "Scene from the Kabuki Play \"Hakkenden (the Eight Dog Warriors)\"",
   "id": "http://api.artsmia.org/objects/84342",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Toyokuni ga(on each)",
   "text": "",
   "description": "nishiki-e",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.106.7a-c                           ",
-  "artist": "Utagawa Kunisada"
+  "accession_number": "96.146.106.7a-c"
 }

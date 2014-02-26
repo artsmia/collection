@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1951",
   "culture": null,
   "country": null,
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "In the Court of the Meiji Temple, Tokyo",
   "id": "http://api.artsmia.org/objects/99485",
-  "room": "G364",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Stamp and Sticker ",
   "text": "",
   "description": "three figure walking in snow, umbrellas raised, in front of temple wall; evergreen trees in middle ground and background",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.19                                ",
-  "artist": "Werner Bischof"
+  "accession_number": "2007.35.19"
 }

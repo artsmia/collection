@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
+  "image_copyright": "%26Acirc%3B%26copy%3B E. Mark Adams and Beth Van Hoesen Trust",
   "life_date": "American, 1926-2010",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Beth Van Hoesen",
   "dated": "1963",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Edition and Inscription\r\n\r\nverso below image, in pencil: [Peppers  7/35  beth van h",
   "text": "",
   "description": "cluster of three bell peppers with stipple shading against a dark grey ground",
+  "provenance": "",
   "creditline": "Gift of E. Mark Adams and Beth Van Hoesen Adams Trust",
-  "accession_number": "2011.101.2                                ",
-  "artist": "Beth Van Hoesen"
+  "accession_number": "2011.101.2"
 }

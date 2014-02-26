@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "c. 1975",
   "culture": "Senufo Culture",
   "country": "Mali",
   "continent": "Africa",
-  "dimension": null,
+  "dimension": "385 1/2 × 7 7/16 in. (979.17 × 18.89 cm)",
   "medium": "Cotton",
   "title": "Panel",
   "id": "http://api.artsmia.org/objects/118933",
@@ -18,7 +19,7 @@
   "marks": "Tag ",
   "text": "",
   "description": "long strip of woven fabric; black and white stripes flanking four central orange stripes with thin black and white stripes between",
+  "provenance": "",
   "creditline": "Gift of Joanne B. Eicher",
-  "accession_number": "2013.78.8",
-  "artist": "Artist Unknown"
+  "accession_number": "2013.78.8"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Japanese, born 1958",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yoshida Ayomi",
   "dated": "2012",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Edition LRC, in pencil: [A Yoshida]; bottom center, in pen",
   "text": "",
   "description": "abstract image; printed in black; slightly irregular rows of small black shapes--primarily rectangles; black frame; glazed with Plexiglas",
+  "provenance": "",
   "creditline": "Gift of Room & Board",
-  "accession_number": "2013.16.6                                 ",
-  "artist": "Yoshida Ayomi"
+  "accession_number": "2013.16.6"
 }

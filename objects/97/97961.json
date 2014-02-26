@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp and Label ",
   "text": "",
   "description": "vessel flares out at center and inward; wide mouth with flat, outward-flaring mouth rim; brown-green glaze",
+  "provenance": "",
   "creditline": "Gift of Charlotte Karlen",
-  "accession_number": "2005.76.2",
-  "artist": "Warren MacKenzie"
+  "accession_number": "2005.76.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Fritz Eichenberg %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Fritz Eichenberg %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American (born Germany), 1901-1990",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Fritz Eichenberg",
   "dated": "1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition LLC, in the plate: [EICHENBERG]; below image, in p",
   "text": "",
   "description": "printed in black; various figures making offerings to and bowing to sculptures of the Madonna, St. George and various other saints, a skull and a foot; received framed",
+  "provenance": "",
   "creditline": "Gift of John and Susan Lentz",
-  "accession_number": "2006.116.3                                ",
-  "artist": "Fritz Eichenberg"
+  "accession_number": "2006.116.3"
 }

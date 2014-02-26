@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1886 - 1945",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Mallet-Stevens",
   "dated": "1987 (published)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Title and Inscription\r\n\r\nsee Signed\r\n\r\n on front cover, in light blue-gray: [Un Cite Moder",
   "text": "",
   "description": "cover for portfolio; silk screened in ligh blue-gray on charcoal fabric; three sets of black ties (top, side, bottom)",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.118.33                            ",
-  "artist": "Robert Mallet-Stevens"
+  "accession_number": "P.98.33.118.33"
 }

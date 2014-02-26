@@ -5,6 +5,7 @@
   "life_date": "Italian, 1483 - 1520",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Raphael Sanzio",
   "dated": "18th century",
   "culture": null,
   "country": "Italy",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/112120",
   "room": "Not on View",
   "style": "18th century",
-  "marks": null,
+  "marks": "Title and Inscription\r\n\r\nin plate in black: [Romæ  see inscriptions",
   "text": "",
   "description": "man tied to tree at left; man with knife in hand on one knee; man with lyre, seated, pointing; man seated at right; all figures in foreground; arched bridge left middle ground; gate with arch middle ground center; field with sheep left distance; trees at right middle ground; hills and fields at distance",
+  "provenance": "",
   "creditline": "Gift of John Crosby",
-  "accession_number": "P.47.672                                  ",
-  "artist": "Raphael Sanzio"
+  "accession_number": "P.47.672"
 }

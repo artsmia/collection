@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Willy Ronis",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Willy Ronis",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Willy Ronis",
   "dated": "1948 (printed 2000)",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\no LRC, in black ink: [Willy Ronis]; on back, in penc",
   "text": "",
   "description": "three women on city street with cars; misty or hazy sky with low sun",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.556",
-  "artist": "Willy Ronis"
+  "accession_number": "2013.35.556"
 }

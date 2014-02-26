@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1861 - 1932",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gustave Leheutre",
   "dated": "1903",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Edition and Inscription\r\n\r\nLRC,  LRC, in pencil: [G Leheutre]; LLC, in pencil: [Le ",
   "text": "",
   "description": "open-sided shed on stilts by water in foreground; foliage at center and ULC",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.700",
-  "artist": "Gustave Leheutre"
+  "accession_number": "2013.35.700"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Harry Callahan %2F PaceWildensteinMacGill%2C New York",
   "life_date": "American, 1912 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Harry Callahan",
   "dated": "1982",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on sheet below image, right, in pencil: [HARRY CAL",
   "text": "",
   "description": "two buildings: left with blue trim, right with brown; red tile roofs on distant buildings; cobbled sidewalk and TV antennas",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.269",
-  "artist": "Harry Callahan"
+  "accession_number": "2007.35.269"
 }

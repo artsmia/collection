@@ -5,6 +5,7 @@
   "life_date": "Dutch, 1603 - 1684",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Cornelis Bloemaert",
   "dated": "17th century",
   "culture": null,
   "country": "Netherlands",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/111753",
   "room": "Not on View",
   "style": "17th century",
-  "marks": null,
+  "marks": "Inscription\r\n\r\nIn plate in black: [ Græcia quas pe ",
   "text": "",
   "description": "allegorical scene; three women exiting a doorway with Medici Family arms above; first woman holding geometric tools and unwinding string held by second woman; second woman has algebraic symbols on hem of robe; third woman holding open globe shaped object",
+  "provenance": "",
   "creditline": "Gift of John Crosby",
-  "accession_number": "P.47.80                                   ",
-  "artist": "Cornelis Bloemaert"
+  "accession_number": "P.47.80"
 }

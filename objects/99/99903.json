@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1st century B.C.-A.D. 1st century",
   "culture": null,
   "country": "Thailand",
@@ -13,12 +14,12 @@
   "medium": "Sawankalok ware\r\nGlazed ceramic, celadon",
   "title": "Three Birds",
   "id": "http://api.artsmia.org/objects/99903",
-  "room": "G107",
+  "room": "Not on View",
   "style": "1st century B.C.-A.D. 1st century",
   "marks": "Sticker ",
   "text": "",
   "description": "stylized bird with low eyes and small beak; small bird on each shoulder of larger stylized bird; green",
+  "provenance": "",
   "creditline": "Gift of Peggy and Leonard Lindborg",
-  "accession_number": "2007.135.7                                ",
-  "artist": ""
+  "accession_number": "2007.135.7"
 }

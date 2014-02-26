@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Milos Sindelar",
+  "image_copyright": "%26Acirc%3B%26copy%3B Milos Sindelar",
   "life_date": "Czech, born 1945",
   "nationality": "Czech",
   "role": "Artist",
+  "artist": "Milos Sindelar",
   "dated": "1975",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\non back, in pen on back, in pencil: [Milos Sindelar]",
   "text": "",
   "description": "cluttered room with papers in cubbyholes at left and book and papers on table, LLC; old man seen from back in front of window at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.300",
-  "artist": "Milos Sindelar"
+  "accession_number": "2013.35.300"
 }

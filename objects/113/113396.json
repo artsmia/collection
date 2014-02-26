@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Lee Bontecou",
+  "image_copyright": "%26Acirc%3B%26copy%3B Lee Bontecou",
   "life_date": "American, born 1931",
   "nationality": null,
   "role": "Artist",
+  "artist": "Lee Bontecou",
   "dated": "1964",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition, Chop Mark\r\n\r\nsee Signed  below image at center, in pencil: [Bontecou-64]",
   "text": "",
   "description": "off-white paper; concentric ovals at center in black and yellow ink; black rectangular background; behind glass in black wood frame",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.94.6",
-  "artist": "Lee Bontecou"
+  "accession_number": "2011.94.6"
 }

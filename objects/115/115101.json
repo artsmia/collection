@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1867 - 1931",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Eugène Béjot",
   "dated": "1902",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nLRC at b LRC below image, in pencil: [E Bejot]; LLC, in the",
   "text": "",
   "description": "view over water with buildings on both sides, on shorelines; boat at center; bridge in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.673",
-  "artist": "Eugène Béjot"
+  "accession_number": "2013.35.673"
 }

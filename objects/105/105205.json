@@ -5,6 +5,7 @@
   "life_date": "active 1870 - 1959",
   "nationality": null,
   "role": "Artist",
+  "artist": "Baker Art Gallery",
   "dated": "c. 1910",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/105205",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Inscription \r\n\r\nLRC in the image, in white: [©/ BA ",
   "text": "",
   "description": "portrait of Theodore Roosevelt wearing tweed jacket and vest, dark tie and pince-nez glasses; pin with five stars on PL lapel",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2007.138.1                                ",
-  "artist": "Baker Art Gallery"
+  "accession_number": "2007.138.1"
 }

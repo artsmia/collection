@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Vallila Interior %2F Kelohonka%2C Tanja Orsjoki%2C 2008",
+  "image_copyright": "%26Acirc%3B%26copy%3B Vallila Interior %2F Kelohonka%2C Tanja Orsjoki%2C 2008",
   "life_date": "Finnish, born 1967",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Tanja Orsjoki",
   "dated": "2008",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Tag along one long side, printed (repeating) in black:",
   "text": "",
   "description": "silhouettes of bare trees in black over purples and white",
+  "provenance": "",
   "creditline": "Gift of Vallila Interior, Helsinki - Finland",
-  "accession_number": "2012.42.1",
-  "artist": "Tanja Orsjoki"
+  "accession_number": "2012.42.1"
 }

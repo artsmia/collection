@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Frank E. Cummings III",
+  "image_copyright": "%26Acirc%3B%26copy%3B Frank E. Cummings III",
   "life_date": "American, born 1938",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank E. Cummings III",
   "dated": "1985-87",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Zebrawood, ivory, gold, etched glass",
   "title": "Ode to Friendship, Old Faces and New (Magic Wand with Portraits of Frank Cummings and David Ellsworth)",
   "id": "http://api.artsmia.org/objects/108791",
-  "room": "Not on View",
+  "room": "G280",
   "style": "20th century",
   "marks": "Signature LR edge of Plexi, incised: [Frank E. Cummings III]",
-  "text": "This object originated from an assignment Cummings gave to his design students at the School of the Arts at California State University Fullerton, based on \"things or events to which there is an emotional response, but which is also difficult to explain.\" He describes it further: \"The students were asked to write about a magical event in their lives...[and] bring together concept of a magical event or emotion, then design and produce a visual object that expressed the essence of their own personal magic\" using wood and other materials. \r\n\r\nCummings was so excited about the student project, he created a series of works referred to by collector Irving Lipton as \"Magic Wands.\" This one depicts Cummings on the right and fellow turner David Ellsworth on the left, signifying Ellsworth's role as a mentor to turners like Cummings who were newer in the field at the time. Cummings's highly-ornamented style of wood art, accented by precious materials, adds to the power of this piece.",
+  "text": "This object originated from an assignment Cummings gave to his design students based on \"things or events to which there is an emotional response, but which is also difficult to explain.\" He describes it further: \"The students were asked to write about a magical event in their lives... [and] bring together concept of a magical event or emotion, then design and produce a visual object that expressed the essence of their own personal magic.\" It propelled Cummings to create a series of works referred to by collector Irving Lipton as \"Magic Wands.\" This one depicts Cummings on the right and wood turner David Ellsworth on the left, signifying Ellsworth's role as a mentor. His highly-ornamented style of wood art, accented by precious materials, adds to the power of this piece.",
   "description": "tapering stem with ivory (?) tip on bottom; spool of ivory (?) with gold vertical lines near bottom; larger spool at top below round element with wavy scalloped edges; ovoid element at top with etched Plexiglas portrait of two men",
+  "provenance": "",
   "creditline": "Gift of the collection of Mari and Irving Lipton",
-  "accession_number": "2009.74.6                                 ",
-  "artist": "Frank E. Cummings III"
+  "accession_number": "2009.74.6"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Werner Bischof Estate All Rights Reserved",
   "life_date": "Swiss, 1916 - 1954",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Werner Bischof",
   "dated": "1954",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "boy playing a flute, walking, carrying a bundle low on back",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.343                               ",
-  "artist": "Werner Bischof"
+  "accession_number": "2007.35.343"
 }

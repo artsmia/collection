@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Kenneth D. Snelson",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Kenneth D. Snelson",
   "life_date": "American, born 1927",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Kenneth D. Snelson",
   "dated": "1984",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition LRC, scratched into emulsion: [K. Snelson 1984]",
   "text": "",
   "description": "panoramic photo of Paris streets with Seine River at center; Notre Dame at right; white car beside curb at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.184",
-  "artist": "Kenneth D. Snelson"
+  "accession_number": "2013.35.184"
 }

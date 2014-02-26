@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of George Grosz %2F VAGA%2C NY",
   "life_date": "American (born Germany), 1893 - 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "George Grosz",
   "dated": "c. 1953",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Inscription, Labels\r\n\r\nsee Signe Signed in blue watercolor, LLC: [GROSZ]; signed in",
   "text": "",
   "description": "abstracted rooftops and skyscrapers in bright colors",
+  "provenance": "",
   "creditline": "Bequest of Dr. John I. Coe",
-  "accession_number": "2011.80.6",
-  "artist": "George Grosz"
+  "accession_number": "2011.80.6"
 }

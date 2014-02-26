@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1910",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115402",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature and Edition LRC, in black ink: [A Lepère]",
   "text": "",
   "description": "Arc de Triumph with pedestrians and horses; tree at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.659.19",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.659.19"
 }

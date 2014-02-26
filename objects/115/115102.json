@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Dutch, c. 1600 - 1653",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Simon de Vlieger",
   "dated": "17th century",
   "culture": null,
   "country": "Holland",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ LLC in the print, in black: [S. De Vliger]",
   "text": "",
   "description": "figures--men, women and children--with fish in baskets; horse grazing at center; dog at left; boats in background at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.761",
-  "artist": "Simon de Vlieger"
+  "accession_number": "2013.35.761"
 }

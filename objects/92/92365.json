@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Cotton, beads",
   "title": "Jacket",
   "id": "http://api.artsmia.org/objects/92365",
-  "room": "Not on View",
+  "room": "G218",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "neck band is braid flanked by 2\\\" trim with long white running stitches and purple print patches;  trim ends have silver and black beads which weave into pattern before forming \\\"fringe\\\"; reverse has elaborate silver on black 9.25 x 7.25\\\" attached embroidery panel which forms 17\\\" black and silver fringe; white tape band on sides and reverse bottom",
+  "provenance": "",
   "creditline": "The Ruth Ann Dayton Chinese Room Endowment Fund, The Suzanne S. Roberts Fund for Asian Art, and The Helen Jones Fund for Asian Art",
-  "accession_number": "2004.67.250                               ",
-  "artist": ""
+  "accession_number": "2004.67.250"
 }

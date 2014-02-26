@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Paula Chamlee",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paula Chamlee",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paula Chamlee",
   "dated": "1999",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nLRC on b LRC below image on mount, in pencil: [Paula Chamle",
   "text": "",
   "description": "buildings and road on edge of tree-covered mountain",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.487",
-  "artist": "Paula Chamlee"
+  "accession_number": "2013.35.487"
 }

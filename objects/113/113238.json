@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Artist Unknown",
   "dated": "17th-18th century",
   "culture": "Dogon Culture",
   "country": "Mali",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, on edge of base, in white: ",
   "text": "This musician has been playing his xylophone for more than 250 years. Among the oldest woodcarvings in these galleries, it was created by the Dogon people from Mali, who have a very old art tradition. Its dry surface and lack of a thick crust of offerings suggest that it was not used as an altarpiece, as many Dogon figures are. Instead, it was probably made as a reference to migrations long ago, when the ancestors of the Dogon left the Mali Empire around the 14th century.",
   "description": "standing male figure playing a small xylophone-like instrument held at his stomach; man\\'s hair styled in rows of braids; man wears a necklace or collar; small facial features",
+  "provenance": "",
   "creditline": "Gift of Heinrich C. Schweizer in honor of William C. Siegmann",
-  "accession_number": "2011.72",
-  "artist": "Artist Unknown"
+  "accession_number": "2011.72"
 }

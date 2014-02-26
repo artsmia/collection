@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Spanish, 1881-1973",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Pablo Picasso",
   "dated": "1952",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Stamp\r\n\r\non bottom, in black: [MAD ",
   "text": "",
   "description": "wide-mouthed vase, flaring out and in near base, with slightly flaring mouth; two-sided design with large owls in brown and black on white; scattered incised details",
+  "provenance": "",
   "creditline": "Gift of Kenneth and Margery Carpenter",
-  "accession_number": "2004.239",
-  "artist": "Pablo Picasso"
+  "accession_number": "2004.239"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Finnish, born 1946",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Karin Widnäs",
   "dated": "2012",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on underside, incised: [For / Savoy / Karin / Widn",
   "text": "",
   "description": "small round covered vessel; six round feet on bottom; white",
+  "provenance": "",
   "creditline": "Gift of funds from Gayle Fuguitt and Tom Veitch",
-  "accession_number": "2013.6.10a,b                              ",
-  "artist": "Karin Widnäs"
+  "accession_number": "2013.6.10a,b"
 }

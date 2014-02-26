@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Margaret Bourke-White",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Margaret Bourke-White",
   "life_date": "American, 1904 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Margaret Bourke-White",
   "dated": "1945",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "group of men looking out from behind barbed wire; four men wear striped pants and coats; old man at right leans against a cane",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Purchase Fund",
-  "accession_number": "2012.47.1",
-  "artist": "Margaret Bourke-White"
+  "accession_number": "2012.47.1"
 }

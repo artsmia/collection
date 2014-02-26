@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Ruth Orkin Photo Archive",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Ruth Orkin Photo Archive",
   "life_date": "American, 1921 - 1985",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ruth Orkin",
   "dated": "1951",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "young woman wearing sandals, a shawl and a dark-colored dress, walking down a street where standing men, men seated at a cafe and men on a motorbike gaze at her",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.532",
-  "artist": "Ruth Orkin"
+  "accession_number": "2013.35.532"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Max Thorek",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Max Thorek",
   "life_date": "American (born Hungary), 1880 - 1960",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Max Thorek",
   "dated": "c. 1932",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "portrait of a man wearing a dark jacket and striped tie playing the oboe",
+  "provenance": "",
   "creditline": "Gift of Fred Pajerski",
-  "accession_number": "2008.33",
-  "artist": "Max Thorek"
+  "accession_number": "2008.33"
 }

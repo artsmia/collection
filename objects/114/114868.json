@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Dan Burkholder",
+  "image_copyright": "%26Acirc%3B%26copy%3B Dan Burkholder",
   "life_date": "American, born 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Dan Burkholder",
   "dated": "Date Unknown",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC below image, in pencil: [Dan Burkholder]",
   "text": "",
   "description": "trees on rolling hills with fog in middle and background; fog or clouds covering sun, URC",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.84",
-  "artist": "Dan Burkholder"
+  "accession_number": "2013.35.84"
 }

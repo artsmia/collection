@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Helena Chapellin Wilson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Helena Chapellin Wilson",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Helena Chapellin Wilson",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\nsee Signed LRC, in pencil: [Helena Chapellin Wilson - #7409 /",
   "text": "",
   "description": "five upside-down boats leaning against each other in a row; bare trees in background; printed in blues and greens; purple, green and yellow in margins",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.120",
-  "artist": "Helena Chapellin Wilson"
+  "accession_number": "2013.35.120"
 }

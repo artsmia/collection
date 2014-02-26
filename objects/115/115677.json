@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Yasuhiro Ishimoto",
+  "image_copyright": "%26Acirc%3B%26copy%3B Yasuhiro Ishimoto",
   "life_date": "Japanese, born 1921",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ishimoto Yasuhiro",
   "dated": "1980s",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature on back, in black ink: [Yasuhiro Ishimoto]",
   "text": "",
   "description": "abstracted image of tree limbs and trunk with radiating colors",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.445",
-  "artist": "Yasuhiro Ishimoto"
+  "accession_number": "2013.35.445"
 }

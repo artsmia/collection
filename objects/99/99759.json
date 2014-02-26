@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Atelier Robert Doisneau",
+  "image_copyright": "%26Acirc%3B%26copy%3B Atelier Robert Doisneau",
   "life_date": "French, 1912 - 1994",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Doisneau",
   "dated": "1952",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LRC below image, in black: [Robert Doisneau]; at c",
   "text": "",
   "description": "Picasso wearing a striped shirt and dark pants, seated at the foot of a bed in the corner of a room; three drawings on wall above Picasso\\'s head; head and shoulders of a woman with long dark hair in LLC",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.81",
-  "artist": "Robert Doisneau"
+  "accession_number": "2007.35.81"
 }

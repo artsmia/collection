@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1923-2000",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature below image, right, on sheet in black: [HENRI CART",
   "text": "",
   "description": "line of soldiers in front of snow-covered evergreens; cobblestone(?) street; large building behind wall",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.275                               ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "2007.35.275"
 }

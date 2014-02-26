@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1740 - 1812",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Philippe Jacques de Loutherbourg II",
   "dated": "18th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nat bottom, printed in black: [Dessi ",
   "text": "",
   "description": "sailboat in very rough water, left of center; tiny figure on shore right of center motioning to figures in boat; cloudy skies",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.747.2",
-  "artist": "Philippe Jacques de Loutherbourg II"
+  "accession_number": "2013.35.747.2"
 }

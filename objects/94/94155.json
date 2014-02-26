@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "c. 1910-1920",
   "culture": "Maya",
   "country": "Guatemala",
   "continent": null,
   "dimension": "31 1/2 x 31 in. (80.01 x 78.74 cm)",
-  "medium": null,
+  "medium": "Cotton, silk; supplementary weft patterning, jaspé (ikat), embroidery",
   "title": "Ceremonial Tzute",
   "id": "http://api.artsmia.org/objects/94155",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "two panels stitched together with purple, orange, green, yellow, white, purple randa; background of stripes--red, blue, ikat red and blue; two rows of zoomorphic figures--double-headed eagle, rooster, turkey and copulating deer; three selvedges",
+  "provenance": "",
   "creditline": "Gift of Richard L. Simmons in memory of Roberta Grodberg Simmons",
-  "accession_number": "2004.169.114",
-  "artist": ""
+  "accession_number": "2004.169.114"
 }

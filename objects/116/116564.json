@@ -1,15 +1,16 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1865 - 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alexis Jean Fournier",
   "dated": "c. 1895-1898",
   "culture": null,
   "country": "United States",
   "continent": "North America",
-  "dimension": null,
+  "dimension": "39 1/2 × 33 1/2 in. (100.33 × 85.09 cm) (outer frame)\r\n30 1/2 × 24 15/16 in. (77.47 × 63.34 cm) (sight)",
   "medium": "Oil on canvas",
   "title": "The Visitor",
   "id": "http://api.artsmia.org/objects/116564",
@@ -18,7 +19,7 @@
   "marks": " Signed\r\n\r\nLR corner, in black: [AJ Fournier]",
   "text": "",
   "description": "painting of a seated woman in a red hat with a cane; generally green and red pallette",
+  "provenance": "",
   "creditline": "Gift of Sheila and John Morgan",
-  "accession_number": "2013.40",
-  "artist": "Alexis Jean Fournier"
+  "accession_number": "2013.40"
 }

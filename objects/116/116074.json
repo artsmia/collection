@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "German, 1471-1528",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Albrecht Dürer",
   "dated": "1519",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date bottom edge, right, in the print: [A D]; top cente",
   "text": "",
   "description": "standing man wearing tunic and cloth boots, with PR arm outstretched; woman carrying a bundle of sticks (or arrows?) on her back, holding a chicken by the feet in her PL hand, places her PR hand in man\\'s outstretched hand; jug and basket with eggs, LLC",
+  "provenance": "",
   "creditline": "Gift of Peter R. Spokes in memory of C.C. and Beecher Hogan",
-  "accession_number": "2013.26.2                                 ",
-  "artist": "Albrecht Dürer"
+  "accession_number": "2013.26.2"
 }

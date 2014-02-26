@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Alec Soth",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Alec Soth",
   "life_date": "American, born 1969",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alec William Soth",
   "dated": "2005",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "color photograph for blue sky and white clouds over water and a horseshoe shaped waterfall",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2013.42.2",
-  "artist": "Alec William Soth"
+  "accession_number": "2013.42.2"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Henri Rivi%26egrave%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Henri Rivi%26Atilde%3B%26uml%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1864 - 1951",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Rivière",
   "dated": "1901",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115010",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Title and Inscription\r\n\r\nsee Signed LRC in the print, in black: [Henri Rivère]; LRC in",
   "text": "",
   "description": "woman wearing brown skirt, checked apron, blue blouse and white bonnet, rushing after three cows walking down a path with puddles in the rain; ducks, LRC; stone buildings, URC; water in background with two sailboats",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.705",
-  "artist": "Henri Rivière"
+  "accession_number": "2013.35.705"
 }

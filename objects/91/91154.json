@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Belorussian, 1887 - 1985",
   "nationality": "Belorussian",
   "role": "Artist",
+  "artist": "Marc Chagall",
   "dated": "1960",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": " Unsigned",
   "text": "",
   "description": "head and torso of figure with PL hand drawn up to chin; winged figure, ULC; black, fuscha, green, grey; small black litho of sun and birds on back;",
+  "provenance": "",
   "creditline": "Gift of Iletta M. Holman",
-  "accession_number": "2004.165",
-  "artist": "Marc Chagall"
+  "accession_number": "2004.165"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1884 - 1950",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Beckmann",
   "dated": "c. 1921",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Stamp\r\n\r\n LRC below image, in pencil: [Beckmann]",
   "text": "",
   "description": "close-up view of a man with a cigarette in his mouth, pointing his PR hand and holding a bell in his PL hand; sign behind man\\'s head reads, \\\"CIRCUS BECKM...\\\"",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2006.63                                   ",
-  "artist": "Max Beckmann"
+  "accession_number": "2006.63"
 }

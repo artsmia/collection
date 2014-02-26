@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1892",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115064",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Title, Inscription and Stamp\r\n\r\nLLC, in LRC, in pencil: [A Lepère no 15.]; on back, in pen",
   "text": "",
   "description": "driver seated on a carriage, LLC; man pulling cart, bottom center, with a walking woman; other pedestrians and horse at left; view of river with cluster of bare trees in ULC; buildings on opposite bank of river",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.598",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.598"
 }

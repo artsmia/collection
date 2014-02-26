@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1944",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\nsheet stamped/ emboss below image, in black: [HENRI CATIER-BRESSON]",
   "text": "",
   "description": "Bonnard seated in his studio; drawings and sketches on walls and tables; two drawings on wall behind head",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.72                                ",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "2007.35.72"
 }

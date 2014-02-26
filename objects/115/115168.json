@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1832 - 1883",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Gustave Doré",
   "dated": "c. 1878",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Edition\r\n\r LLC, in the print: [G Dore]; LLC, in pencil: [Cont",
   "text": "",
   "description": "group of people seated outdoors; four men and right lying down, reclining and sitting--two with rifles; woman at center wearing large hoop earrings and a flowered blouse, with a child leaning against her; old woman at left with a standing toddler; four dogs",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.699",
-  "artist": "Gustave Doré"
+  "accession_number": "2013.35.699"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Chuck Close%2C courtesy PaceWildenstein%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Chuck Close%2C courtesy PaceWildenstein%2C New York",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Chuck Close",
   "dated": "2004",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition Signed, dated, numbered in bottom margin, in penci",
   "text": "",
   "description": "portrait of the artist James Siena wearing a blue shirt, with a serious facial expression, made up of chevrons, rectangles, and diamonds filled with smaller organic shapes of various colors",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.74.2                                 ",
-  "artist": "Chuck Close"
+  "accession_number": "2011.74.2"
 }

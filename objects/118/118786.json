@@ -1,15 +1,16 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "Swedish",
   "nationality": "Swedish",
   "role": "Artist",
+  "artist": "Gustaf Edolf Fjaestad",
   "dated": "1908",
   "culture": null,
   "country": "Sweden",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "56 1/8 × 58 1/2 in. (142.56 × 148.59 cm) (sight)\r\n65 × 67 1/4 × 1 1/4 in. (165.1 × 170.82 × 3.18 cm) (outer frame)",
   "medium": "Oil on canvas",
   "title": "Winter Landscape",
   "id": "http://api.artsmia.org/objects/118786",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC, in black: [G. Fjaestad 08]",
   "text": "",
   "description": "pointillist style; shades of white, blue, blue-grey, cream; snow falling; snow-covered ground with two pairs of tracks in foreground, LRQ; five snow-covered evergreen trees",
+  "provenance": "",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
-  "accession_number": "2013.74",
-  "artist": "Gustaf Edolf Fjaestad"
+  "accession_number": "2013.74"
 }

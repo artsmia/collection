@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Yoruba",
   "country": "Nigeria",
   "continent": "Africa",
-  "dimension": null,
+  "dimension": "13 × 12 1/2 × 17 1/2 in. (33.02 × 31.75 × 44.45 cm)",
   "medium": "Wood",
   "title": "Mask",
   "id": "http://api.artsmia.org/objects/116480",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "large wooden head with protruding nose and mouth, squinting eyes; large coiled wooden hat/hairpiece that curves around the face and connects to chin piece; top of head has round hat with 4 wooden daggers, 2 on either side",
+  "provenance": "",
   "creditline": "Gift of Julie and Babe Davis",
-  "accession_number": "2013.85.1",
-  "artist": ""
+  "accession_number": "2013.85.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photographs by Ansel Adams. Copyright %26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
+  "image_copyright": "Photographs by Ansel Adams. Copyright %26Acirc%3B%26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
   "life_date": "American, 1902 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ansel Adams",
   "dated": "1958",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Stamp LRC below image on mat, in black ink: [Ansel Adams",
   "text": "",
   "description": "portrait of Minor White seated on a sofa in a corner in front of two windows; white wire plant stand at left; taped with masking tape on left and right edges to back of shiny paper mat",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.31",
-  "artist": "Ansel Adams"
+  "accession_number": "2013.35.31"
 }

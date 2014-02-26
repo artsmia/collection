@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BChristian Boltanski %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3BChristian Boltanski %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, born 1944",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Christian Boltanski",
   "dated": "1986",
   "culture": null,
   "country": "France",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "20th century",
   "marks": "Signature, Date, Inscription and Label\r\n\r\nsee Sign LLC, in pencil: [21 Monuments / instalations varia",
-  "text": "Born to a Corsican mother and Jewish father of Ukrainian heritage at the end of Germany's hold over Paris in World War II, Christian Boltanski is a self-taught multi-media artist who works with found objects including old photographs, clothing, and phonebooks. Using these found objects, he creates dramatic installations that explore cultural and personal histories as well as the inconsistency of memory.\r\n\r\nThis work is the artist's preparatory drawing for the 1986 <I>Monuments (Installation Salle Petriere)</I>, a major installation by Boltanski in the Minneapolis Institute of Arts' collection. In addition to documenting the details of the work's multiple components, it serves as a certificate of authenticity for this unique work.",
+  "text": "Born to a Corsican mother and Jewish father of Ukrainian heritage at the end of Germany’s hold over Paris in World War II, Christian Boltanski is a self-taught multi-media artist who works with found objects including old photographs, clothing, and phonebooks. Using these found objects, he creates dramatic installations that explore cultural and personal histories as well as the inconsistency of memory.\r\n\r\nThis work is the artist’s preparatory drawing for the 1986 <I>Monuments (Installation Salle Petriere)</I>, a major installation by Boltanski in the Minneapolis Institute of Arts’ collection. In addition to documenting the details of the work’s multiple components, it serves as a certificate of authenticity for this unique work.",
   "description": "preparatory drawing/\\\"certificate of authenticity\\\" for \\\"Monuments\\\" installation; 21 elements consisting of a grid of 12 colored rectangles at bottom of each element (turquoise, yellow or grey), with rectangular element at top center of each with a sketch of a face, and three circles (lights) connected with lines (wires) drawn to bottom of sheet",
+  "provenance": "",
   "creditline": "Gift of Gordon Locksley, from the collection of George T. Shea and Gordon Locksley",
-  "accession_number": "2011.55                                   ",
-  "artist": "Christian Boltanski"
+  "accession_number": "2011.55"
 }

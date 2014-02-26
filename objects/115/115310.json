@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Kenna Photography %7C All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Kenna Photography %7C All Rights Reserved",
   "life_date": "British, born 1953",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Michael Kenna",
   "dated": "2001 (printed 2002)",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LRC below image on mount, in pencil: [Michael Kenn",
   "text": "",
   "description": "lines of blocky dark elements in calm water; dark mountains at horizon line at right; radiating sunbeams",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.291",
-  "artist": "Michael Kenna"
+  "accession_number": "2013.35.291"
 }

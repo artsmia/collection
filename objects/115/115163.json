@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1592 - 1635",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Callot",
   "dated": "1633",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nLRC, in pencil: [16] and [1354]; LL ",
   "text": "",
   "description": "two reclining figures leaning against haystack in LRC, with priest and two kneeling figures; other figures at left; buildings at left in middle ground; tree at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.711",
-  "artist": "Jacques Callot"
+  "accession_number": "2013.35.711"
 }

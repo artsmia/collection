@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Finnish, born 1946",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Karin Widnäs",
   "dated": "2012",
   "culture": null,
   "country": "Finland",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/116187",
   "room": "Not on View",
   "style": "21st century",
-  "marks": null,
+  "marks": "Signature and Title on underside, incised: [For Savoy Karin Widnäs]",
   "text": "",
   "description": "flat round saucer with central hole--doughnut-shaped; subtile concentric incised rings; 24 round feet on bottom; white",
+  "provenance": "",
   "creditline": "Gift of funds from Gayle Fuguitt and Tom Veitch",
-  "accession_number": "2013.6.1",
-  "artist": "Karin Widnäs"
+  "accession_number": "2013.6.1"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Sam Francis Foundation %2F Artists Rights Society %28ARS%29%2C NY. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sam Francis Foundation %2F Artists Rights Society %28ARS%29%2C NY. All rights reserved.",
   "life_date": "American, 1923 - 1994",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sam Francis",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition and Chop\r\n\r\nsee Signed\r\n\r\nNumbe Signed bottom edge, LRQ, in pencil: [Sam Francis]",
   "text": "",
   "description": "abstract image with medium blue, light blue, light grey and dark grey drips and spots, heavier around edges of image",
+  "provenance": "",
   "creditline": "Gift of Helen and J. Kimball Whitney",
-  "accession_number": "2007.140                                  ",
-  "artist": "Sam Francis"
+  "accession_number": "2007.140"
 }

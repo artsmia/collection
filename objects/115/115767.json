@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Olivia Parker. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Olivia Parker. All rights reserved.",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Olivia Parker",
   "dated": "1976 (printed 1978)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date left margin, in black ink: [<- 21 (circled) \\\"Three",
   "text": "",
   "description": "two pears inside a wooden box; one pear behind wall of box",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.448",
-  "artist": "Olivia Parker"
+  "accession_number": "2013.35.448"
 }

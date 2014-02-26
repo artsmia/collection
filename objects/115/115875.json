@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26copy%3B by the Trustees of Princeton University All rights reserved.",
+  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26Acirc%3B%26copy%3B by the Trustees of Princeton University All rights reserved.",
   "life_date": "American, 1908 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Minor White",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC on mount below image, in pencil: [Minor White]",
   "text": "",
   "description": "tall, jagged rock formation at right, with horizontal striations and squared-off rock plates; vertical rock formations at left in LLQ; clear sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.334",
-  "artist": "Minor White"
+  "accession_number": "2013.35.334"
 }

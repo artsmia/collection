@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photographs by Paul Strand %26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
+  "image_copyright": "Photographs by Paul Strand %26Acirc%3B%26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
   "life_date": "American, 1890 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Strand",
   "dated": "1928 (printed c. 1980)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "plant leaves; fern fronds in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.480",
-  "artist": "Paul Strand"
+  "accession_number": "2013.35.480"
 }

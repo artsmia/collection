@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Vallila Interior %2F Viiskulma%2C Elizabeth Salonen%2C 2011",
+  "image_copyright": "%26Acirc%3B%26copy%3B Vallila Interior %2F Viiskulma%2C Elizabeth Salonen%2C 2011",
   "life_date": "Finnish-Canadian, born 1981",
   "nationality": "Finnish-Canadian",
   "role": "Artist",
+  "artist": "Elizabeth Salonen",
   "dated": "2011",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Tag along one long side, printed (repeating) in black:",
   "text": "",
   "description": "repeating rows of arched windows with columns; most windows are bare--five different styles of drapes in some windows; black and red printed on white (red ground)",
+  "provenance": "",
   "creditline": "Gift of Vallila Interior, Helsinki - Finland",
-  "accession_number": "2012.42.3",
-  "artist": "Elizabeth Salonen"
+  "accession_number": "2012.42.3"
 }

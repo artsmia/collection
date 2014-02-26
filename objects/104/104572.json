@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Japanese, born 1945",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Sugimoto Daikichi",
   "dated": "20th century",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature and Seal on image with two bowls, in black: [DAIKICHI]",
   "text": "",
   "description": "six images mounted together as hanging scroll:  man with dark brown skin and bushy black beard wearing white robe; orange bowl with brown dots; brown, black and red insect; blue vessel with brown bottom and black bird on side; blue vessel with black and red flower form; two brown and white bowls--one with black bird--and signature; green and beige mount",
+  "provenance": "",
   "creditline": "The Louis W. Hill, Jr. Fund",
-  "accession_number": "2007.99.15                                ",
-  "artist": "Daikichi Sugimoto"
+  "accession_number": "2007.99.15"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Daniel Buren %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Daniel Buren %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, born 1938",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Daniel Buren",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "15 pieces of white wood, 15 pieces of red wood; five elements are formed when assembled",
+  "provenance": "",
   "creditline": "Gift of Darwin and Geri Reedy",
-  "accession_number": "2004.230.4a-o                             ",
-  "artist": "Daniel Buren"
+  "accession_number": "2004.230.4a-o"
 }

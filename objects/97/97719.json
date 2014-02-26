@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Henri Rivi%26egrave%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Henri Rivi%26Atilde%3B%26uml%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1864 - 1951",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Rivière",
   "dated": "1894",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature in pencil l.v. on third sheet: [Henri Riviere]; on",
   "text": "",
   "description": "one of three sheets (10 blocks each sheet)",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund",
-  "accession_number": "P.81.41.3                                 ",
-  "artist": "Henri Rivière"
+  "accession_number": "P.81.41.3"
 }

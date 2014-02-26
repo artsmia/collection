@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Briscoe",
   "dated": "c. 1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on underside, incised: [Briscoe]",
   "text": "",
   "description": "plate form; wide sloping rim; wide ring foot; top surface has white ground with four grey triangular shapes; central brown cross; dark grey ring near inner edge of rim; pairs of blue and grey linear marks; tan-brown underside",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.9.5                                  ",
-  "artist": "Robert Briscoe"
+  "accession_number": "2013.9.5"
 }

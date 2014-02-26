@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Mario Giacomelli",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Mario Giacomelli",
   "life_date": "Italian, 1925 - 2000",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Mario Giacomelli",
   "dated": "1961",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Stamp on back, in black ink: [Mario Giacomelli / 1961]",
   "text": "",
   "description": "young priests in an open field with trees in background; group playing soccer at center; figure at right riding a bike; priest in foreground playing with a kitten",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.232",
-  "artist": "Mario Giacomelli"
+  "accession_number": "2013.35.232"
 }

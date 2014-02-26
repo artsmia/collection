@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photographs by Paul Strand %26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
+  "image_copyright": "Photographs by Paul Strand %26Acirc%3B%26copy%3BAperture Foundation Inc.%2C Paul Strand Archive",
   "life_date": "American, 1890 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Strand",
   "dated": "1953 (printed 1997)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date, Inscription, Edition and Stamp\r\n\r\nLRC, in pe LRC, in pencil: [1997]",
   "text": "",
   "description": "five men, one woman, standing in doorway, leaning on walls, seated of doorstep; man at right leans on bicycle",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.482",
-  "artist": "Paul Strand"
+  "accession_number": "2013.35.482"
 }

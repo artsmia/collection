@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "United States",
+  "nationality": "United States",
   "role": "Artist",
+  "artist": "Modrone",
   "dated": "1976",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Corduroy.  Basketweave design. Dark blue. Lapis",
+  "provenance": "",
   "creditline": "Gift of Cowtan & Tout, Inc.",
-  "accession_number": "99.1.111.1                                ",
-  "artist": ""
+  "accession_number": "99.1.111.1"
 }

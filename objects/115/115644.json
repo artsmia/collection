@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Andrew Baugnet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Andrew Baugnet",
   "life_date": "American, born 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andrew Baugnet",
   "dated": "1997 (printed 1998)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on back, in pencil: [City Park, Bullhead City, Nev",
   "text": "",
   "description": "roofed white open structure at edge of water; hills with scrubby brush on opposite shore; tiny bus at summit of hill at left at horizon line; dark sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.25",
-  "artist": "Andrew Baugnet"
+  "accession_number": "2013.35.25"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1834 - 1903",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James McNeill Whistler",
   "dated": "1873",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\n\r\nVerso, in pencil, by artist: [The Sho bottom edge, LLQ, on tab, in pencil: [(butterfly s",
   "text": "",
   "description": "abstracted image of shore line; waves or clouds at top; horizontal lines at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.723",
-  "artist": "James McNeill Whistler"
+  "accession_number": "2013.35.723"
 }

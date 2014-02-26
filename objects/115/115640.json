@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Paul Bong%26eacute%3B Photography %2F The Lyle Bong%26eacute%3B Estate %26amp%3B Archive",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Paul Bong%26Atilde%3B%26copy%3B Photography %2F The Lyle Bong%26Atilde%3B%26copy%3B Estate %26amp%3B Archive",
   "life_date": "American, 1929 - 2009",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lyle Bongé",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115640",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature on back, in black ink: [Bongé]",
   "text": "",
   "description": "foreshortened nude woman, seen from the top of her head, lying on sand, with arms outstretched",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.218",
-  "artist": "Lyle Bongé"
+  "accession_number": "2013.35.218"
 }

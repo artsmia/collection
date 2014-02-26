@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1889",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115154",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Title and Inscription\r\n\r\nat bottom edge LRC, in pencil: [A Lepère]; LRC of mount, in penci",
   "text": "",
   "description": "large firework explosion in LRQ at right edge on water\\'s edge; bridge with arches at left center; people on boats with strings of lanterns on water; two ladies in foreground at bottom center in boat",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.624",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.624"
 }

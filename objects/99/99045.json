@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Ed Ruscha",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ed Ruscha",
   "life_date": "American, born 1937",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Edward Ruscha",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature on sheet after title sheet",
   "text": "",
   "description": "Portfolio of 75 sheets with title page housed in a black clamshell box.",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
-  "accession_number": "P.71.169.31",
-  "artist": "Edward Ruscha"
+  "accession_number": "P.71.169.31"
 }

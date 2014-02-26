@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1881-1955",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Fernand Léger",
   "dated": "1947 (printed c. 1949-1955)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition and Stamp LRC, in the image: [47 / F. LEGER]; LRC, in brown ",
   "text": "",
   "description": "After an original painting by Leger; red, yellow, green, black and white, with grey-blue edges; biomorphic shapes and several black and white dominos at bottom",
+  "provenance": "",
   "creditline": "Gift of Sandra and Peter Butler",
-  "accession_number": "2011.73.4",
-  "artist": "Fernand Léger"
+  "accession_number": "2011.73.4"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Edouard Boubat %2F l%27agence Gamma-Rapho%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Edouard Boubat %2F l%27agence Gamma-Rapho%2C Paris",
   "life_date": "French, 1923 - 1999",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Edouard Boubat",
   "dated": "1980 (printed 1981)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Stamp on back at bottom edge, in pencil: [E. Boubat]",
   "text": "",
   "description": "nude torso of woman pulling a shirt over her head, hiding her face",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard A. Hunter",
-  "accession_number": "2004.213.3.3",
-  "artist": "Edouard Boubat"
+  "accession_number": "2004.213.3.3"
 }

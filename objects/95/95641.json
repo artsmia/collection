@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Philip Guston %2F The Guston Foundation",
+  "image_copyright": "%26Acirc%3B%26copy%3B Philip Guston %2F The Guston Foundation",
   "life_date": "American, 1913-1980",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Philip Guston",
   "dated": "1959",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LLC, in gray gouache: [Philip Guston]",
   "text": "",
   "description": "abstract image with blocks of thick pigment; yellow, blue, green, red, black",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. James T. Wyman",
-  "accession_number": "2004.220.3",
-  "artist": "Philip Guston"
+  "accession_number": "2004.220.3"
 }

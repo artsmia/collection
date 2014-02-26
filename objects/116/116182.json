@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Finnish, born 1946",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Karin Widnäs",
   "dated": "2012",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition on underside, incised: [For / Savoy / 10/70 / Kari",
   "text": "",
   "description": "wide oval shape; short, nearly vertical rim--slightly flaring outward; flat bottom; white",
+  "provenance": "",
   "creditline": "Gift of funds from Gayle Fuguitt and Tom Veitch",
-  "accession_number": "2013.6.7                                  ",
-  "artist": "Karin Widnäs"
+  "accession_number": "2013.6.7"
 }

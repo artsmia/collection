@@ -1,10 +1,11 @@
 {
-  "restricted": 1,
+  "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3B Linda Connor",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Linda Connor",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Title and Inscription\r\n\r\nSee sign at bottom edge on back, in pencil: [FOP Monk\\'s Res",
   "text": "",
   "description": "plain asymmetrical stone building in the mountains; door in LRC, with stone wall in front of it; one small off-center window on second story",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.60                                ",
-  "artist": "Linda Connor"
+  "accession_number": "2007.35.60"
 }

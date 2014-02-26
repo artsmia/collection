@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Shan Goshorn",
   "dated": "2012",
   "culture": "Eastern Band of Cherokee",
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Archival watercolor paper, archival ink, thread",
   "title": "Commodity Products (Chicken)",
   "id": "http://api.artsmia.org/objects/116017",
-  "room": "G260",
+  "room": "Not on View",
   "style": "21st century",
   "marks": "Signature on bottom, in black: [Shan Goshorn]",
   "text": "Shan Goshorn prints labels derived from government-issued canned food rations on traditionally woven baskets used by Native peoples to gather naturally occurring fruits and vegetables from the land. In doing so, Goshorn invites us to re-evaluate what types of food we consume, as well as the insidious nature of a system that undermines self-sufficiency.",
   "description": "woven basket with square bottom made of strips of grey paper; strips printed on front of basket with a label reading \\\"CHICKEN WITH NATURAL JUICES\\\" and other text and silhouette of a chicken",
+  "provenance": "",
   "creditline": "The Patricia and Peter Frechette Endowment for Art Acquisition",
-  "accession_number": "2013.11.2                                 ",
-  "artist": "Shan Goshorn"
+  "accession_number": "2013.11.2"
 }

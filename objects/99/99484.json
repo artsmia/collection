@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B The Ruth Bernhard Trust %28Mary Ann Helmholtz and Jane Totten%2C Co-Trustees%29%2C San Francisco%2C CA %2F All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B The Ruth Bernhard Trust %28Mary Ann Helmholtz and Jane Totten%2C Co-Trustees%29%2C San Francisco%2C CA %2F All Rights Reserved",
   "life_date": "American (born Germany), 1905 - 2006",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ruth Bernhard",
   "dated": "1946",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Stamp on verso center, stamped in ink: [TRIANGLES, 1946/",
   "text": "",
   "description": "female nude torso, left arm, breast and knee highlighted",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.18                                ",
-  "artist": "Ruth Bernhard"
+  "accession_number": "2007.35.18"
 }

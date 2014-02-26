@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1847 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Buhot",
   "dated": "1878",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115184",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Edition, Inscription and Stamp\r\n\r\nLLC,  LRQ, in pencil: [Félix Buhot]; LRC below image, in",
   "text": "",
   "description": "dark night scene with figure walking at left carrying lantern and umbrella; standing puddles on path at center; buildings at left and right; tree at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.686",
-  "artist": "Félix Buhot"
+  "accession_number": "2013.35.686"
 }

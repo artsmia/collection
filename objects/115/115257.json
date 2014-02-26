@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Paula Chamlee",
+  "image_copyright": "%26Acirc%3B%26copy%3B Paula Chamlee",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paula Chamlee",
   "dated": "2005",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nLRC on b LRC below image on mount, in pencil: [P.C.]; LLC b",
   "text": "",
   "description": "diptych, mounted together; a (left image):  snow in foreground; row of bare trees; b (right image):  lake with row of bare trees at horizon line on opposite shore; bare tree at right; house at left on peninsula",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.496a,b",
-  "artist": "Paula Chamlee"
+  "accession_number": "2013.35.496a,b"
 }

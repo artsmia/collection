@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Paul Delvaux %2F Artists Rights Society %28ARS%29%2C New York %2F SABAM%2C Belgium",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Paul Delvaux %2F Artists Rights Society %28ARS%29%2C New York %2F SABAM%2C Belgium",
   "life_date": "Belgian, 1897 - 1994",
   "nationality": "Belgian",
   "role": "Artist",
+  "artist": "Paul Delvaux",
   "dated": "1956",
   "culture": null,
   "country": "Belgium",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\nsee Signed LRC, in black: [A TAM / WESTENDE / P. DELVAUX / 26",
   "text": "",
   "description": "3/4-length study of a bare-chested young woman, with a white cloth around her waist and long dark hair, leaning her head to the PR, standing in front of a window with city buildings visible behind her",
+  "provenance": "",
   "creditline": "Gift of Sandra and Peter Butler",
-  "accession_number": "2011.73.3                                 ",
-  "artist": "Paul Delvaux"
+  "accession_number": "2011.73.3"
 }

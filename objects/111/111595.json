@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BJim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1935",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jim Dine",
   "dated": "2008",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Etching, aquatint and drypoint, with hand-coloring in acrylic and charcoal",
   "title": "Seven White Hammers",
   "id": "http://api.artsmia.org/objects/111595",
-  "room": "G266-G274",
+  "room": "Not on View",
   "style": "21st century",
   "marks": "Signature, Date and Edition at bottom margin, in pencil: [6/10 Jim Dine 2008]",
   "text": "Jim Dine's lifelong fascination with hand tools grew out of his childhood experiences visiting his grandfather's Ohio hardware store. For Dine, the tool is an extension of the hand, emblematic of physical nature of work, including the work of the artist in his studio. In this mixed intaglio print, he presents a procession of seven hammers, which seem to march across the scene like figures in the night. Other hand tools appear in the shadows, each carefully described in etching and drypoint. Dine's masterful draftsmanship and dramatic use of light and shade bring a palpable vitality to the subject.",
   "description": "abstracted design with seven claw hammers with grey heads and white handles; several other sketchy tools in background (saw, clamp, scraper); image of a hand at bottom center; grey scratched ground",
+  "provenance": "",
   "creditline": "Gift of Michael Root in honor of Nathan J. Root",
-  "accession_number": "2011.27",
-  "artist": "Jim Dine"
+  "accession_number": "2011.27"
 }

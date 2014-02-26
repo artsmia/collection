@@ -5,6 +5,7 @@
   "life_date": "French, 1869-1936",
   "nationality": null,
   "role": "Artist",
+  "artist": "Eugène Ogé",
   "dated": "c. 1910",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/94715",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature LLC, in the plate: [Ogé]",
   "text": "",
   "description": "rooftops in foreground with dormer window with plant in windowbox and birdcage hanging next to window; two cats on rooftop; large building complex in background with scaffolding; arc of birds flying at top of scaffolding",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Curatorial Council",
-  "accession_number": "2004.188                                  ",
-  "artist": "Eugène Ogé"
+  "accession_number": "2004.188"
 }

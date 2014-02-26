@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Swiss, 1794 - 1835",
   "nationality": "Swiss",
   "role": "Artist",
+  "artist": "Louis Léopold Robert",
   "dated": "1830",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Stamp\r\n\r\nLRC, printed v LLC, in the print: [LEOPOLD ROBERT / ROME 1830.]",
   "text": "",
   "description": "cart pulled by two oxen at center, with man with staff leaning on PR ox; man wearing hat seated on ox at right; two men and a woman carrying a baby ride in cart; bagpiper and man dancing with scythe at right; three girls with bundle of grain at left, with pair of men behind them",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.738",
-  "artist": "Louis Léopold Robert"
+  "accession_number": "2013.35.738"
 }

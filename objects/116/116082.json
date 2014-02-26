@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Theresa Secord",
   "dated": "2013",
   "culture": "Penobscot",
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Tag on underside, in greenish-gold: [Theresa Secord 20",
   "text": "Penobscot baskets are known for their fine and elegant weave and their subtle colors. Using berry-dyed black ash, sweetgrass, and split cedar bark, Theresa Secord's carefully created <I>Glove Box</I> is an excellent example of basketry from the northeastern region of the United States.",
   "description": "rectangular lidded woven box; cover has light tone at center with two rows of purple stripes bordering wide variegated green-brown stripes at each end; box sides have central tan and brown stripe, flanked by variegated green-brown stripes and thin purple stripes; bottom of box has light tone; loose certification tag with artist\\'s signature inside box",
+  "provenance": "",
   "creditline": "Bequest of Virginia Doneghy, by exchange",
-  "accession_number": "2013.10a,b                                ",
-  "artist": "Theresa Secord"
+  "accession_number": "2013.10a,b"
 }

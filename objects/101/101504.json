@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26copy%3B by the Trustees of Princeton University All rights reserved.",
+  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26Acirc%3B%26copy%3B by the Trustees of Princeton University All rights reserved.",
   "life_date": "American, 1908 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Minor White",
   "dated": "1955 (printed c. 1975)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on sheet below image right in pencil: [MINOR WHITE",
   "text": "",
   "description": "two barns side-by-side; smaller illuminated by sun; shadow of power pole in foreground",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.367.5",
-  "artist": "Minor White"
+  "accession_number": "2007.35.367.5"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Wayne Miller %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wayne Miller %2F Magnum Photos",
   "life_date": "American, born 1918",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wayne Miller",
   "dated": "1950s",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription and Stamp\r\n\r\non back, on back, in pencil: [Wayne Miller]",
   "text": "",
   "description": "young man with curly hair being fingerprinted by man wearing dark shirt with police badge; three seated men and two standing men at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.552",
-  "artist": "Wayne Miller"
+  "accession_number": "2013.35.552"
 }

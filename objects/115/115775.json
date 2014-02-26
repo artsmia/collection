@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Carla Romeike",
+  "image_copyright": "%26Acirc%3B%26copy%3B Carla Romeike",
   "life_date": "American, born 1926",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Carla Romeike",
   "dated": "1960",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature below LRC of sheet on mount, in pencil: [Carla Rom",
   "text": "",
   "description": "dark silhouettes of people at center; railing of descending staircase at right; horizontal railing at left through center; blurry image of car at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.60",
-  "artist": "Carla Romeike"
+  "accession_number": "2013.35.60"
 }

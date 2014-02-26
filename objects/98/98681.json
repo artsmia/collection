@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Tom Arndt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Arndt",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas F. Arndt",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Edition on back, in black ink: [1/7  Coffee Shop, Auction ",
   "text": "",
   "description": "four farmers seated around a table in a paneled room; two other men at table on left; clock with flag:  \\\"BE and ACT American!\\\"; man carrying little boy in doorway at right",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2005.145.13",
-  "artist": "Thomas F. Arndt"
+  "accession_number": "2005.145.13"
 }

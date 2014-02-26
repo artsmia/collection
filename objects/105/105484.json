@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American (born Germany), 1900-1981",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ludwig Yehuda Wolpert",
   "dated": "c. 1960",
   "culture": null,
   "country": "United States",
@@ -16,9 +17,9 @@
   "room": "G362",
   "style": "20th century",
   "marks": "Mark ",
-  "text": "Trained in Germany during the Bauhaus period, Wolpert is known for popularizing Modernism in Jewish ceremonial metalwork. He taught at the New Bezalel School for Arts and Crafts in Jerusalem and later at the Tobe Pascher Workshop at the Jewish Museum, New York. Wolpert's work is characterized by the use of stylized Hebrew letters as a primary design motif.  (See the Megillah case by Wolpert also on view in this gallery.)  This pair of candlesticks, a necessary element in the ceremony welcoming the Sabbath, is typical of Wolpert's design aesthetic, featuring stylized, geometric Hebrew letters integrated into architectonic forms.  ",
+  "text": "Trained in Germany during the Bauhaus period, Wolpert is known for popularizing Modernism in Jewish ceremonial metalwork. He taught at the New Bezalel School for Arts and Crafts in Jerusalem and later at the Tobe Pascher Workshop at the Jewish Museum, New York. Wolpert's work is characterized by the use of stylized Hebrew letters as a primary design motif.  (See the Megillah case by Wolpert also on view in this gallery.)  This pair of candlesticks, a necessary element in the ceremony welcoming the Sabbath, is typical of Wolpert's design aesthetic, featuring stylized, geometric Hebrew letters integrated into architectonic forms. ",
   "description": "three sided pyramid form with tripod base; stylized openwork Hebrew characters on front; sculptural back with three football-shaped openings; removable boat-shaped drip pan",
+  "provenance": "",
   "creditline": "The Eloise and Elliot Kaplan Endowment for Judaica",
-  "accession_number": "2008.2.3.1a,b                             ",
-  "artist": "Ludwig Yehuda Wolpert"
+  "accession_number": "2008.2.3.1a,b"
 }

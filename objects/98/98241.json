@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": null,
-  "country": "",
-  "continent": "",
-  "dimension": "",
-  "medium": "",
+  "country": null,
+  "continent": null,
+  "dimension": null,
+  "medium": null,
   "title": "Fan",
   "id": "http://api.artsmia.org/objects/98241",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "\r\n\r\n\r\n",
+  "provenance": "",
   "creditline": "Gift of Mrs. Folwell W. Coan",
-  "accession_number": "47.26.7                                   ",
-  "artist": ""
+  "accession_number": "47.26.7"
 }

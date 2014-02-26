@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate Louise Bourgeois %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Louise Bourgeois %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American (b. France),1911-2010",
   "nationality": null,
   "role": "Artist",
+  "artist": "Louise Bourgeois",
   "dated": "1997",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition\r\n\r\nNumbered in pencil, LRC, in pencil: [Louise Bourgeois]",
   "text": "",
   "description": "black bed in a room with a red floor, blue walls and small window in URC; long wavy abstracted forms over bed with abstracted lips at edge of bed",
+  "provenance": "",
   "creditline": "The Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
-  "accession_number": "2007.70                                   ",
-  "artist": "Louise Bourgeois"
+  "accession_number": "2007.70"
 }

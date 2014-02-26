@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Sean Scully %2F Artists Rights Society %28ARS%29%2C NY %2F IVARO%2C Ireland",
+  "image_copyright": "%26Acirc%3B%26copy%3B Sean Scully %2F Artists Rights Society %28ARS%29%2C NY %2F IVARO%2C Ireland",
   "life_date": "American, born Ireland 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sean Scully",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Edition and Chop\r\n\r\nSee Signed a below image at center, in pencil: [RED TRIPTYCH]; ",
   "text": "",
   "description": "off-white paper; rectangular blocks of colors; blue and dark red at L, red and tan horizontal bands at center and two blue/red and blue/dark blue vertical bands at R; behind Plexiglas in white wood frame",
+  "provenance": "",
   "creditline": "Gift of Wells Fargo",
-  "accession_number": "2011.95.5",
-  "artist": "Sean Scully"
+  "accession_number": "2011.95.5"
 }

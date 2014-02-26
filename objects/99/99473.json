@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Russel Wright Studios",
+  "image_copyright": "%26Acirc%3B%26copy%3B Russel Wright Studios",
   "life_date": "American, 1904-1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Russel Wright",
   "dated": "1939-1959",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "coral; bulbous, roughly teardrop-shaped body on a wide, slim foot ring; thick handle; point of teardrop opens slightly to one side, creatling spout",
+  "provenance": "",
   "creditline": "Gift of Antay S. Bilgutay",
-  "accession_number": "2006.39.5",
-  "artist": "Russel Wright"
+  "accession_number": "2006.39.5"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Keith Taylor. All Rights Reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Keith Taylor. All Rights Reserved.",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Keith Taylor",
   "dated": "2000 (printed 2002)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Stamp LRC below image, in pencil: [KT (underlined)]; on ",
   "text": "",
   "description": "pointed, mountainous rock formations--Badlands; dry, cracked ground in foreground; many clouds; high horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.182",
-  "artist": "Keith Taylor"
+  "accession_number": "2013.35.182"
 }

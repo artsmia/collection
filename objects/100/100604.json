@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "c. 1961",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature below image in black: [W. EUGENE SMITH]",
   "text": "",
   "description": "landscape farm fields with house in center middle, side of train at right edge; sky cloudy and dark",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.199                               ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "2007.35.199"
 }

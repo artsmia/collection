@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "German, 1506 - 1552",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Hans Brosamer",
   "dated": "1545",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription and Stamp\r\n\r\nsee Sign LRC, in the print: [15 HB 45 / JOHANNES BROSAMER /",
   "text": "",
   "description": "Delilah seated in chair at center, with sleeping Samson seated, sleeping, on floor in front of her, with knees drawn up and his PL arm over her PL leg; Delilah is preparing to cut Samson\\'s hair curly hair with a large scissors; soldiers with weapons on poles in doorway, ULQ",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.701",
-  "artist": "Hans Brosamer"
+  "accession_number": "2013.35.701"
 }

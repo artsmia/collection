@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Andrew Baugnet",
+  "image_copyright": "%26Acirc%3B%26copy%3B Andrew Baugnet",
   "life_date": "American, born 1964",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andrew Baugnet",
   "dated": "1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LRC below image, in black ink: [Andy Baugnet]; LLC",
   "text": "",
   "description": "two old plank docks at right angles--one running parallel to shore--with plank ramp at front; narrow, rocky peninsula at left; trees on opposite shore at right and at horizon line; cloudy sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.27",
-  "artist": "Andrew Baugnet"
+  "accession_number": "2013.35.27"
 }

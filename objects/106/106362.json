@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BHelena Hernmarck",
+  "image_copyright": "%26Acirc%3B%26copy%3BHelena Hernmarck",
   "life_date": "Swedish, active United States, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Helena Hernmarck",
   "dated": "1994",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date LRC, woven, in brown: [Hernmarck]; LRC, woven, in ",
   "text": "",
   "description": "pale green ground; 14 rectangles with design of three ticket stubs--dark orange and purple; black heading band on back",
+  "provenance": "",
   "creditline": "Gift of Helena M. Hernmarck",
-  "accession_number": "2008.57.12                                ",
-  "artist": "Helena Hernmarck"
+  "accession_number": "2008.57.12"
 }

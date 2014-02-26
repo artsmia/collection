@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "H. Antonia",
   "dated": "20th century",
   "culture": "Acoma Pueblo",
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Ceramic, pigment",
   "title": "Owl",
   "id": "http://api.artsmia.org/objects/89118",
-  "room": "MS",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature and Inscription\r\n\r\nsee Signed; on bottom on bottom, in black: [H. Antonia / Acoma / N.M.]",
   "text": "",
   "description": "small owl; white body with brown feathers; red at top of head, beak, around eyes and on claws",
+  "provenance": "",
   "creditline": "Anonymous Gift",
-  "accession_number": "2004.35.20                                ",
-  "artist": "H. Antonia"
+  "accession_number": "2004.35.20"
 }

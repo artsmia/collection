@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Chih Ting",
   "dated": "1796-1820",
   "culture": null,
   "country": "China",
@@ -18,7 +19,7 @@
   "marks": "Signature, inscription and sticker\r\n\r\non side, inc on side, incised: Zhi Ting seal",
   "text": "",
   "description": "cylindrical, slightly waisted shape following the form of the tusk; rebated at the foot to receive the inset flat base; decorated with design of lady dressed in robes with flowing scarves, holding a tray with a peach; crane leaning toward woman with beak open; rocky outcrop and tall pine tree in background",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2004.88.4                                 ",
-  "artist": "Chih Ting"
+  "accession_number": "2004.88.4"
 }

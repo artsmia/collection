@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Chip Hooper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Chip Hooper",
   "life_date": "American, born 1958",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Chip Hooper",
   "dated": "2002 (printed 2003)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition, Stamp and Label LRC of mount, in pencil: [Chip Hooper  2002]; on b",
   "text": "",
   "description": "light image of waves with sun at lower center with clouds above and below it; rather low horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.68",
-  "artist": "Chip Hooper"
+  "accession_number": "2013.35.68"
 }

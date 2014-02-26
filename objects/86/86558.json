@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "American",
+  "nationality": "American",
   "role": "Artist",
+  "artist": "Lori Weitzner",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Window pane geometric squares and rectangles.  Vert. Rpt. 9\\\"; horiz. Rpt. 6.5\\\". Ecru and gold. Ivory",
+  "provenance": "",
   "creditline": "Gift of Cowtan & Tout, Inc.",
-  "accession_number": "99.1.3.2                                  ",
-  "artist": ""
+  "accession_number": "99.1.3.2"
 }

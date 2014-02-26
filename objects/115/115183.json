@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1847 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Buhot",
   "dated": "1874",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Date, Inscription and Stamp\r\n\r\nLLC, in the print:  see Inscription",
   "text": "",
   "description": "storm clouds and rain over water at right; figures with umbrellas rushing away from shore at center; several overturned and upright chairs at right; tent at left; flagpoles at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.685",
-  "artist": "Félix Buhot"
+  "accession_number": "2013.35.685"
 }

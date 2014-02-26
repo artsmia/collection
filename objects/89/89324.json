@@ -5,6 +5,7 @@
   "life_date": "British, 1822-1898",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Francis Frith",
   "dated": "1858",
   "culture": null,
   "country": "England",
@@ -13,12 +14,12 @@
   "medium": "Mammoth albumen print",
   "title": "The Great Pyramid and the Great Sphinx, Egypt",
   "id": "http://api.artsmia.org/objects/89324",
-  "room": "G364",
+  "room": "Not on View",
   "style": "19th century",
   "marks": "Signature and date LLC, in the negative: [Frith 1858]",
   "text": "",
   "description": "Sphinx, partially excavated, in foreground; three figures in front of Sphinx, pack animal behind; pyramid in background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2004.24                                   ",
-  "artist": "Francis Frith"
+  "accession_number": "2004.24"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1758 - 1823",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Pierre-Paul Prud'hon",
   "dated": "1797",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LLC, in the print: [P. P. Prudhon. inv. incidit.]",
   "text": "",
   "description": "man in hooded cloak embracing and kissing a limp nude woman whose feet dangle in water; fire at left; building on top of cliff, ULC; moon partially hidden by clouds, URQ; woman\\'s abdomen exposed",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.751",
-  "artist": "Pierre-Paul Prud'hon"
+  "accession_number": "2013.35.751"
 }

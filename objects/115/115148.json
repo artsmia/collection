@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1889",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115148",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature LRC, in pencil: [A Lepère]",
   "text": "",
   "description": "pedestrians and carriages on street, including woman with closed parasol under her arm, LLC; trees at left; buildings in background at left and right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.618",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.618"
 }

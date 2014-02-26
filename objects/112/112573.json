@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Jason Fulford",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Jason Fulford",
   "life_date": "American, born 1973",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jason Fulford",
   "dated": "2009",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "top two-thirds blue, bottom one-third yellow",
+  "provenance": "",
   "creditline": "Gift of Jason Fulford",
-  "accession_number": "2012.49.2                                 ",
-  "artist": "Jason Fulford"
+  "accession_number": "2012.49.2"
 }

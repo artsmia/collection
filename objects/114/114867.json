@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Douglas F. Frank",
+  "image_copyright": "%26Acirc%3B%26copy%3B Douglas F. Frank",
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Douglas F. Frank",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date on mat below LRC of image, in pencil: [Douglas Fra",
   "text": "",
   "description": "sand dunes in background; some scrubby dark grasses in middle ground; water in LLC; clouds in sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.93",
-  "artist": "Douglas F. Frank"
+  "accession_number": "2013.35.93"
 }

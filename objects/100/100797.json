@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Andreas Feininger",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Andreas Feininger",
   "life_date": "American, 1906 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andreas Feininger",
   "dated": "1942 (printed 1997)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription below image on sheet in black: [ANDREAS FEININGER]",
   "text": "",
   "description": "cityscape; water and ferry in foreground; straight street from middle ground to horizon; tall buildings on both sides",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.277",
-  "artist": "Andreas Feininger"
+  "accession_number": "2007.35.277"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
   "life_date": "German, 1881 - 1955",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Max Pechstein",
   "dated": "1908",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date Signed with monogram and dated in the stone, LRC: ",
   "text": "",
   "description": "heads and shoulders of two women wearing large hats; women have small, pinched faces; grey and black on white",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2011.39",
-  "artist": "Max Pechstein"
+  "accession_number": "2011.39"
 }

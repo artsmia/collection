@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Eikoh Hosoe. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Eikoh Hosoe. All rights reserved.",
   "life_date": "Japanese, born 1933",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Hosoe Eikoh",
   "dated": "1959-1960 (printed 1987)",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\non back, LRC below image, in pencil: [EH 1960]; on back, in",
   "text": "",
   "description": "torso and buttocks of nude, seen from back, lying at left; three arms with hands in fists resting on floor at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.99",
-  "artist": "Eikoh Hosoe"
+  "accession_number": "2013.35.99"
 }

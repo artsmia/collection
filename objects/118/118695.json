@@ -2,14 +2,15 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "1723 - 1776",
-  "nationality": "Japan",
+  "life_date": "Japanese, 1723 - 1776",
+  "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ike Taiga",
   "dated": "18th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "8 7/16 × 19 1/4 in. (21.43 × 48.9 cm) (image)\r\n41 5/8 × 26 1/8 in. (105.73 × 66.36 cm) (without roller)",
   "medium": "Ink on paper",
   "title": "Layered Peaks",
   "id": "http://api.artsmia.org/objects/118695",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "fan shaped format; nine bold lines of calligraphy; light red seals, LLC and URC",
+  "provenance": "",
   "creditline": "Gift of Stephen Addiss and Audrey Yoshiko Seo",
-  "accession_number": "2013.63.35",
-  "artist": "Ike Taiga"
+  "accession_number": "2013.63.35"
 }

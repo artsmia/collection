@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "c. 1890",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115054",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature and Edition LRC, in the print: [A. Lepère.]; LRC, in black ink",
   "text": "",
   "description": "woman seated on ground holding baby, LLC; two other squatting children playing near ramp from houseboat; two cats or dogs play on ramp; two small boats at right with figures fishing",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.588",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.588"
 }

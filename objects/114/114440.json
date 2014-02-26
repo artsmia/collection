@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Unknown",
   "dated": "17th century",
   "culture": null,
   "country": "Japan",
   "continent": "Asia",
   "dimension": "28 x 24 x 13 3/4 in. (71.12 x 60.96 x 34.93 cm) (approx.)",
-  "medium": null,
+  "medium": "Iron, lacquer, wood, leather, gilt, pigments, silk, papier-mâché",
   "title": "Helmet",
   "id": "http://api.artsmia.org/objects/114440",
   "room": "G252",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "During the 15th and 16th centuries, Japan's feudal families vied for supremacy, amassing vast armies to ensure their dominion and to conquer weaker neighbors. High-ranking lords began to embellish their helmets with sculptural forms so that they could be visually located on the battlefield. Exotic helmets (<i>kawari kabuto</i>) also allowed leaders to choose symbolic motifs for their helmets that reflected some aspect of their personality or that of their collective battalions. \r\n\r\nThis helmet is shaped like a giant dragonfly. In Japan, the dragonfly is symbolic of focused endeavor and vigilance because of its manner of moving up, down and sideways while continuing to face forward. In addition, in ancient texts Japan was often referred to as <i>Akitsushima</i> (Land of the Dragonflies), because of their abundance. They were also thought to be the spirits of rice, since they are often to be found hovering above the flooded rice fields.",
   "description": "black and gold helmet in the form of a dragonfly, with its tail extending upward; two large gold eyes; two removable dull gold pairs of wings; thick braided purple silk cord tie at neck",
+  "provenance": "",
   "creditline": "The James Ford Bell Foundation Endowment for Art Acquisition and gift of funds from Siri and Bob Marshall",
-  "accession_number": "2012.31.1a-c                              ",
-  "artist": "Unknown"
+  "accession_number": "2012.31.1a-c"
 }

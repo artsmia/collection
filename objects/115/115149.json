@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1889",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115149",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Title and Inscription\r\n\r\non back, in pe LLC, in the print: [A LEPÈRE]; on back, in pencil:",
   "text": "",
   "description": "couple at LRC seated at a table looking down into a valley with smoke rising from buildings; other figures in middle ground seen from back also looking into valley",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.619",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.619"
 }

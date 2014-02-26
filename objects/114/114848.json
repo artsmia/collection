@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1890",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/114848",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature and Inscription\r\n\r\nsee Signed LLC, in black ink: [ALepère / R/35. (?)]; LRC, in ",
   "text": "",
   "description": "view along shore line with workers and boats; bridge and buildings in distance; vertical formal",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.657",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.657"
 }

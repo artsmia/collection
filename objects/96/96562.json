@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1891 - 1969",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Otto Dix",
   "dated": "1924",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Edition\r\n\r\nsee Signed below image, in pencil: [19/70 IX (illegible signa",
   "text": "",
   "description": "abstracted image of head, torso and arm of a dead body",
+  "provenance": "",
   "creditline": "The John R. Van Derlip Fund and Gift of funds from Alfred and Ingrid Lenz Harrison and the Regis Foundation",
-  "accession_number": "2005.16.1.29",
-  "artist": "Otto Dix"
+  "accession_number": "2005.16.1.29"
 }

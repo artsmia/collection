@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B John Newman",
+  "image_copyright": "%26Acirc%3B%26copy%3B John Newman",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "John Newman",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signed, dated, numbered, chop mark LR: [John Newman 2/2 / STATE PROOF]",
   "text": "",
   "description": "Sculptural abstraction featuring an elliptical object that fills most of the picture plane; a circle in its center consists of interweaving lines that appear to gravitate inward; heavy black lines around the object\\'s center spiral outwards towards its border",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
-  "accession_number": "P.86.63.48                                ",
-  "artist": "John Newman"
+  "accession_number": "P.86.63.48"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Robert Lipnick",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/99221",
   "room": "G362",
   "style": "21st century",
-  "marks": null,
+  "marks": "Signature and Date on bottom, in blue: [Lipnick/ © 02]",
   "text": "",
   "description": "irregular shape; surface decoration in multicolors of reclining man, Noah\\'s ark, birds, a brick wall and a chair; stopper in the shape of Noah\\'s ark; rubber stopper in bottom",
+  "provenance": "",
   "creditline": "Gift of the artist in honor of his mother Joan Lipnick Abelson's birthday",
-  "accession_number": "2006.3a,b                                 ",
-  "artist": "Robert Lipnick"
+  "accession_number": "2006.3a,b"
 }

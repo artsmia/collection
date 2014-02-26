@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Mary Ellen Mark",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Mary Ellen Mark",
   "life_date": "American, born 1940",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mary Ellen Mark",
   "dated": "1979 (printed 2001)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "half-length horizontal portrait of a topless girl wearing a large gold necklace, earrings, green bracelets and red bindi dot; girl also wears heavy black eyeliner; chipping blue painted wall behind girl",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2008.85.5",
-  "artist": "Mary Ellen Mark"
+  "accession_number": "2008.85.5"
 }

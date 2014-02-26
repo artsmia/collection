@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Richard Serra %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Serra %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Serra",
   "dated": "2007",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature; Date; Edition; Inscription (stamped)\r\n\r Signed and dated in black chalk, verso, LR: [R Ser",
   "text": "",
   "description": "five dark black arcs, with raised textured pigments; mottled black spots on ground; center of arcs to left",
+  "provenance": "",
   "creditline": "The William Hood Dunwoody Fund",
-  "accession_number": "2007.90.7                                 ",
-  "artist": "Richard Serra"
+  "accession_number": "2007.90.7"
 }

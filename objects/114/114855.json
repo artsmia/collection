@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BEstate Josef Albers %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate Josef Albers %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born Germany), 1888 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Josef Albers",
   "dated": "1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\nLLC below image Signed and dated, LRC below image, in pencil: [A \\'",
   "text": "",
   "description": "three squares on top of one another--grey, tan and orange, from outside in",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.728",
-  "artist": "Josef Albers"
+  "accession_number": "2013.35.728"
 }

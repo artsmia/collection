@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "Belorussian, 1887 - 1985",
   "nationality": "Belorussian",
   "role": "Artist",
+  "artist": "Marc Chagall",
   "dated": "1927-1930 (pub. 1952)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature UR: [Chagall]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1964",
-  "accession_number": "P.13,201.2",
-  "artist": "Marc Chagall"
+  "accession_number": "P.13,201.2"
 }

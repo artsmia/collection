@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Peter Shire",
+  "image_copyright": "%26Acirc%3B%26copy%3B Peter Shire",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Peter Shire",
   "dated": "1986",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Steel, anodized aluminum, brass, chrome, enamel",
   "title": "Menorah #2",
   "id": "http://api.artsmia.org/objects/111586",
-  "room": "G362",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "Los Angeles native Peter Shire's artistic career has run the gamut from craft and fine art to architecture and industrial design.  Shire was the only American designer involved with the high-profile Memphis design group active in 1980s Milan. This Hanukkah lamp features whimsical colors and forms combined with the use of industrial materials, all hallmarks of the Memphis style.  ",
   "description": "geometric designs in a variety of colors in a sculptural form; two notched black pyramid shapes on either end of red textured bar form base; large open gold ring on  one side with small yellow bar extending out on a diagonal, attached to a purple cylinder; grey triangular shaped attached to top of gold ring, topped with black double wedge shape in shiny black enamel, yellow square shape, copper-colored rod with light blue sideways pyramidal shapes, and horizontal silver ring with three black cylinders",
+  "provenance": "",
   "creditline": "Gift of funds from Tamara and Michael Root and the Eloise and Elliot Kaplan Endowment for Judaica",
-  "accession_number": "2011.4",
-  "artist": "Peter Shire"
+  "accession_number": "2011.4"
 }

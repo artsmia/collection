@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Japanese, born 1958",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Yoshida Ayomi",
   "dated": "2012",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Edition LRC, in pencil: [tree 74 I.  A Yoshida]",
   "text": "",
   "description": "silhouette of branches extending downward from URC in black on white ground; mounted on foam core board",
+  "provenance": "",
   "creditline": "Gift of Room & Board",
-  "accession_number": "2013.16.1                                 ",
-  "artist": "Yoshida Ayomi"
+  "accession_number": "2013.16.1"
 }

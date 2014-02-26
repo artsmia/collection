@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1910",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115394",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature and Edition LRC, in black ink: [A Lepère]",
   "text": "",
   "description": "Seine at middle with view of four bridges; rain falling on buildings on opposite shore including building with dome at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.659.11",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.659.11"
 }

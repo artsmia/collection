@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Koichiro Kurita",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Koichiro Kurita",
   "life_date": "Japanese, born 1943",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Koichiro Kurita",
   "dated": "1998",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Inscription and Edition\r\n\r\nsee S LRC, in pencil: [K. Kurita]; at bottom edge on bac",
   "text": "",
   "description": "weathered log, reeds and lily pads in water; rock in LLC",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.198",
-  "artist": "Koichiro Kurita"
+  "accession_number": "2013.35.198"
 }

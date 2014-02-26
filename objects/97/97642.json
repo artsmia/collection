@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B W. Eugene Smith %2F Magnum Photos - All rights reserved",
   "life_date": "American, 1918 - 1978",
   "nationality": "American",
   "role": "Artist",
+  "artist": "W. Eugene Smith",
   "dated": "c. 1972",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Stamps\r\n\r\nsee Mark(s) ",
   "text": "",
   "description": "two nearly completed silhouetted figures working with fish nets; one fish at bottom center",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2005.60                                   ",
-  "artist": "W. Eugene Smith"
+  "accession_number": "2005.60"
 }

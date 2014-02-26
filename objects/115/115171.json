@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1616 - 1671",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Sébastien Bourdon",
   "dated": "17th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Inscription\r\n\r\nLLC below imag ULC, in the print: [Seb. Bourdon jnuenit et fecit ",
   "text": "",
   "description": "reclining man wearing cap in foreground, leaning on a fallen column (?); young man in URC; woman wearing a headscarf holding a sleeping child at center; dog at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.758",
-  "artist": "Sébastien Bourdon"
+  "accession_number": "2013.35.758"
 }

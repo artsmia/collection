@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Siah Armajani",
+  "image_copyright": "%26Acirc%3B%26copy%3B Siah Armajani",
   "life_date": "American (born Iran), 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Siah Armajani",
   "dated": "2005-2006",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Colored pencil on Mylar; triptych",
   "title": "Mississippi Delta",
   "id": "http://api.artsmia.org/objects/111030",
-  "room": "G280",
+  "room": "Not on View",
   "style": "21st century",
   "marks": "Signature and Date on back of #1, in red pencil:  [S.A. / 05-06] and ",
   "text": "Armajani's drawing captures the disaster that befell the Gulf Coast and New Orleans in the wake of Hurricane Katrina. All of the destructive forces of water are unleashed when a great flood occurs. Waters overflowing banks, dykes, and levees contaminate water and sewage treatment facilities making tap water undrinkable. Industrial waste, agricultural chemicals and other pollutants get added to the mix and flow into neighborhoods. Water shortcircuits electrical systems, turning out the lights, shutting down refrigerators and freezers, leaving little to eat. A dining table with empty plates, a bed, and a house, the comforts of home, flow downstream. A car floats by upside-down, no longer a means of escape. Upstream the bridge has collapsed. Crows survey the catastrophy, ignore the scarecrow, and wait to exploit the carnage.",
   "description": "triptych; two smaller panels at left, larger panel at right; each panel framed separately; abstracted image of a river with broken bridge, scarecrow-like figure with chicken, and floating houses, car, table and chairs, bed, lamp",
+  "provenance": "",
   "creditline": "Gift of Siah Armajani",
-  "accession_number": "2010.100a-c                               ",
-  "artist": "Siah Armajani"
+  "accession_number": "2010.100a-c"
 }

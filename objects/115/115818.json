@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "born 1981",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wendy Red Star",
   "dated": "2012",
   "culture": "Apsaalooka (Crow)",
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "Through her work, Wendy Red Star explores issues of authenticity and representation.  In these pseudo-dioramas, using kitschy wallpaper, plastic animals and artificial plants, the artist poses wearing her traditional Apsaalooka (Crow) regalia, the same type of garments her ancestors wore.  These photographs blur the line between stereotype and reality, from Native American as scenery to fabricated Hollywood sets, and from authenticity to Western fantasy.",
   "description": "Native American woman in traditional dress kneels on floor surrounded by artificial and natural props: buffalo skull at right, buck at left, cattails, flowers; lake with reflection of snow-capped mountains and pine trees",
+  "provenance": "",
   "creditline": "Bequest of Virginia Doneghy, by exchange",
-  "accession_number": "2012.69.4                                 ",
-  "artist": "Wendy Red Star"
+  "accession_number": "2012.69.4"
 }

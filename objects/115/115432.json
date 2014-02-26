@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Kenro Izu. All right reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Kenro Izu. All right reserved.",
   "life_date": "Japanese, born 1949",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Izu Kenro",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Edition on first page, in black ink: [Kenro Izu 12/10/98]",
   "text": "",
   "description": "red hard-cover book with reproduction of image of flower affixed to cover; reproductions of images of flowers, fruit, foliage and nudes; print of \\\"Still Life #725\\\" is included with the book--stored inside black clamshell cover with book",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.195.2",
-  "artist": "Kenro Izu"
+  "accession_number": "2013.35.195.2"
 }

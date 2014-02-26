@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
   "life_date": "American, 1913-1997",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nathan Lerner",
   "dated": "1930s",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [19] and [INV 2 ",
   "text": "",
   "description": "rainy city sidewalk with several figures in middle ground; cars at left in background; dark awnings at right and left",
+  "provenance": "",
   "creditline": "Gift of Kiyoko Lerner",
-  "accession_number": "2005.99.32",
-  "artist": "Nathan Lerner"
+  "accession_number": "2005.99.32"
 }

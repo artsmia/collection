@@ -5,10 +5,11 @@
   "life_date": "Japanese",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kunisada",
   "dated": "19th century",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": null,
   "medium": null,
   "title": "Asazuma Buni",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "The Margaret McMillan Webber Estate",
-  "accession_number": "51.40.19                                  ",
-  "artist": "Kunisada"
+  "accession_number": "51.40.19"
 }

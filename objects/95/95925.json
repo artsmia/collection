@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Susan Rothenberg %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Susan Rothenberg %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Susan Rothenberg",
   "dated": "1991-1992",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on back, in pencil (?): [Goat Over Dog / 1991-1992",
   "text": "",
   "description": "abstracted image; mottled white ground; red goat body in URC kicking the chin of a brown dog in LRC",
+  "provenance": "",
   "creditline": "Gift of Darwin and Geri Reedy",
-  "accession_number": "2004.230.3                                ",
-  "artist": "Susan Rothenberg"
+  "accession_number": "2004.230.3"
 }

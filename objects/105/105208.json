@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Mike %26amp%3B Doug Starn %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Mike %26amp%3B Doug Starn %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1961",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mike Starn",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "two images attached together with Scotch tape of sculpture of seated monk wearing flowing robe and holding a scepter in both hands; images worn and artificially aged-looking",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein in memory of Ted Hartwell",
-  "accession_number": "2007.138.4                                ",
-  "artist": "Mike Starn"
+  "accession_number": "2007.138.4"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1875 - 1963",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jacques Villon",
   "dated": "1907",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Edition\r\n\r\non back, in  LRC, in pencil: [Jacques Villon]; URC, in the plat",
   "text": "",
   "description": "nude girl with long dark hair seated cross-legged on floor with three undressed dolls",
+  "provenance": "",
   "creditline": "Gift of Edith and Norman Garmezy",
-  "accession_number": "2004.254.15",
-  "artist": "Jacques Villon"
+  "accession_number": "2004.254.15"
 }

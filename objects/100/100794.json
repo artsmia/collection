@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Paul Caponigro. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Paul Caponigro. All rights reserved.",
   "life_date": "American, born 1932",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Caponigro",
   "dated": "1957",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature below image, right, in pencil: [PAUL CAPONIGRO]",
   "text": "",
   "description": "splintered tree stump; ragged edges resemble a cityscape with a tall, dark splinter in center and smaller more jagged white splinters right and left\r\n",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.274",
-  "artist": "Paul Caponigro"
+  "accession_number": "2007.35.274"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Arno Rafael Minkkinen. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Arno Rafael Minkkinen. All rights reserved.",
   "life_date": "Finnish, born 1945",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Arno Rafael Minkkinen",
   "dated": "1975",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription and Edition\r\n\r\nLRC on LLC on back, in pencil: [Helsinki, 1975]; bottom r",
   "text": "",
   "description": "bare arms, hands and shoulders of figure with head tucked tightly beneath arms",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.32",
-  "artist": "Arno Rafael Minkkinen"
+  "accession_number": "2013.35.32"
 }

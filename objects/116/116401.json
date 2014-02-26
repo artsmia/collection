@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1844 - 1907",
   "nationality": null,
   "role": "Artist",
+  "artist": "Henry Somm (François Clément Sommier)",
   "dated": "c. 1890",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC, in brown ink: [H Somm]",
   "text": "Henry Somm was initially fascinated by the Japonisme movement in France, studying Japanese language and history at the University of Paris. He also became familiar with Japanese objects through his acquaintance with influential collectors such as Siegfried Bing. The Franco-Prussian War prevented Somm from taking a trip to Japan, and the artist turned to scenes that depicted contemporary Parisian life. Frequently, these images focused on fashionable women, such as this figure contemplating a sculpture in the photo garden. Somm frequently combined his interest in everyday life with his love of Japonisme by creating fanciful interactions between Parisian women and Japanese objects or figures. ",
   "description": "sketch of standing woman in profile from PL wearing a hat and a long mermaid dress with a short train, looking at a small sculpture on a pedestal at left; foliage, LLC; two other sketchy sculptures in URQ",
+  "provenance": "",
   "creditline": "Gift of Elizabeth K. Mix in honor of Gabriel P. Weisberg",
-  "accession_number": "2013.50",
-  "artist": "Henry Somm (François Clément Sommier)"
+  "accession_number": "2013.50"
 }

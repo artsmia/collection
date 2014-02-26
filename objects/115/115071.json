@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B David Teplica",
+  "image_copyright": "%26Acirc%3B%26copy%3B David Teplica",
   "life_date": "American, born 1959",
   "nationality": "American",
   "role": "Artist",
+  "artist": "David Teplica",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Edition\r\n\r on back, in pencil: [Untitled (The Dworkin Twins),",
   "text": "",
   "description": "two nude twin men with dark hair; one man crouches with the other man\\'s legs over his; second man embraces first man, draping over first man\\'s back; dark ground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.91",
-  "artist": "David Teplica"
+  "accession_number": "2013.35.91"
 }

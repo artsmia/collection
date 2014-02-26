@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Lewis Koch. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Lewis Koch. All rights reserved.",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Lewis Koch",
   "dated": "1994",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Edition\r\n\r on back, in pencil: [Falso Profit Totem (1994), Le",
   "text": "",
   "description": "photo of portion of sculpture--lower leg wearing boot",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.210.1",
-  "artist": "Lewis Koch"
+  "accession_number": "2013.35.210.1"
 }

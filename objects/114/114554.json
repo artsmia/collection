@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Thomas Demand %2F Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
+  "image_copyright": "%26Acirc%3B%26copy%3B Thomas Demand %2F Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "life_date": "German, born 1964",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Thomas Demand",
   "dated": "2012",
   "culture": null,
   "country": "Germany",
@@ -13,12 +14,12 @@
   "medium": "Diasec mounted C-print",
   "title": "Junior Suite",
   "id": "http://api.artsmia.org/objects/114554",
-  "room": "Not on View",
+  "room": "G277",
   "style": "21st century",
   "marks": " ",
-  "text": "Thomas Demand was born in 1964 in Munich, Germany, where he grew up surrounded by art. He has been called an illusionist of the real, is known for making photographs of three-dimensional models that look like real images of rooms and other spaces. The artist chooses his subjects for their social and political associations and provocation and meaning. Based on media photographs of Whitney Houston's last meal, which were published shortly after her death, <I>Junior Suite</I>, depicts a half-finished meal served on a table tray in a hotel room. The work, with its strange stillness of a recently vacated space, suggests the artistic genre of memento mori. The mis-en-scene invites the viewer to ponder the larger context and reality being portrayed: the last meal of a troubled celebrity, haunted by an addiction to drugs, who is leaving behind a mercurial, unfinished life and a young daughter in the next suite.",
+  "text": "Whitney Houston's death from a drug overdose in a Beverly Hills hotel room in 2012 evoked a huge public response.  The singer’s name was Googled more than any other name for the entire year. \r\n \r\nThis work is the response of one artist to that event. In this photograph German artist Thomas Demand recreated a tabloid image of the room-service table from which Houston was eating just before her death. If you look closely, you can see that the entire image has been fabricated; from the hotel furniture to the purple flowers, Demand painstakingly constructed everything you see from colored paper. \r\n \r\n This image of Houston’s “last supper” has become an iconic image of her death, even without picturing Houston herself. The viewer is granted the illusion of intimacy with Houston and the situation of her death through an morbid invasion of privacy.\r\n \r\nIn an interview with the New York Times in April 2012, Demand commented on his shock at the existence of such an image in the media: “The proliferation of that kind of image at the time when she was not even in the coffin amazed me. It amazed me that it would ever have been released.” The presence of such a photograph begs the question “is nothing sacred'”.",
   "description": "photographic image of paper construction of dirty dishes, glasses, beverage cans, salt and pepper shakers, flowers in a vase, napkins, etc., after a meal, on a small table with a green \\\"tablecloth\\\"; image face mounted to Plexi with aluminum backing; aluminum \\\"frame\\\" on back",
+  "provenance": "",
   "creditline": "The P. D. McMillan Memorial Fund",
-  "accession_number": "2012.36                                   ",
-  "artist": "Thomas Demand"
+  "accession_number": "2012.36"
 }

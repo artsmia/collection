@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Gyorgy Kepes",
+  "image_copyright": "%26Acirc%3B%26copy%3B Gyorgy Kepes",
   "life_date": "American, (born Hungary) 1906 - 2001",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Gyorgy Kepes",
   "dated": "1921-2000",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription on back, in pencil: [Gyorgy Kepes] and [V1014]",
   "text": "",
   "description": "abstracted image; background is grey with mottled irregular black forms; central biomorphic shape with white spiral at bottom and white X on \\\"face\\\"; black spiral on \\\"forehead\\\"",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.119",
-  "artist": "Gyorgy Kepes"
+  "accession_number": "2007.35.119"
 }

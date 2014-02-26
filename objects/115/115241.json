@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1893",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115241",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature and Inscriptions\r\n\r\non back, in pencil:  LLC, in pencil: [A. Lepère]",
   "text": "",
   "description": "girl with shoulder-length hair, wearing white pinafore, in profile from right, carrying a long branch of a grape vine",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.655",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.655"
 }

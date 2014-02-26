@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Frank Gohlke",
+  "image_copyright": "%26Acirc%3B%26copy%3B Frank Gohlke",
   "life_date": "American, born 1942",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Frank W. Gohlke",
   "dated": "1997 (printed 2005)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Inscription\r\n\r on back, in pencil: [A.P. Looking north from Port ",
   "text": "",
   "description": "view of water with many flying white birds; dock edged in rocks at right; cloudy sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.107",
-  "artist": "Frank W. Gohlke"
+  "accession_number": "2013.35.107"
 }

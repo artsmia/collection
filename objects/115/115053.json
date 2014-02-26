@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1901",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115053",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Title, Inscription, Edition and Stamp\r\n LLC, in the print: [A. Lepère]; LLC and LRC on bac",
   "text": "",
   "description": "people relaxing outdoors; mother, father and child with ball in LRQ; reclining woman with child wearing straw hat, LLC; herd of cows at left middle ground; trees and buildings, URC; printed in graduated tones of green and rust red",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.587",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.587"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
   "life_date": "American, 1913-1997",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nathan Lerner",
   "dated": "1930s",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Inscription and Sticker\r\n\r\non back, in  on back, in black ink: [Nathan Lerner]",
   "text": "",
   "description": "three men standing outside a bar; woman seated at right, partially hidden by standing man; rows of shoes on a table in foreground",
+  "provenance": "",
   "creditline": "Gift of Kiyoko Lerner",
-  "accession_number": "2005.99.35",
-  "artist": "Nathan Lerner"
+  "accession_number": "2005.99.35"
 }

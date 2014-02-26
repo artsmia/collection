@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Frantisek Drtikol",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Frantisek Drtikol",
   "life_date": "Czechoslovakian, 1883 - 1961",
   "nationality": "Czechoslovakian",
   "role": "Artist",
+  "artist": "Frantisek Drtikol",
   "dated": "1914",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "portrait of man with moustache, looking toward PL, holding a cane",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.111",
-  "artist": "Frantisek Drtikol"
+  "accession_number": "2013.35.111"
 }

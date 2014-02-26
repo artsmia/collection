@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1968 (printed c. 1970s)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC below image, in black ink: [Henri Cartier-Bres",
   "text": "",
   "description": "two rows of trees growing on either side of a road, forming a heart shape with their crowns at front of rows; fields at left and right",
-  "creditline": null,
-  "accession_number": "2013.35.121",
-  "artist": "Henri Cartier-Bresson"
+  "provenance": "",
+  "creditline": "",
+  "accession_number": "2013.35.121"
 }

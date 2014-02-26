@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Arshile Gorky %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Arshile Gorky %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American (born Armenia), 1904 - 1948",
   "nationality": "American (born Armenia)",
   "role": "Artist",
+  "artist": "Arshile Gorky",
   "dated": "c. 1946",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "abstract image with blue, white, yellow, red and orange sketchy ground; green animal-like image with open mouth-like element at bottom",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. James T. Wyman",
-  "accession_number": "2006.61                                   ",
-  "artist": "Arshile Gorky"
+  "accession_number": "2006.61"
 }

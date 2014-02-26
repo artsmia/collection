@@ -5,6 +5,7 @@
   "life_date": "French 1830 - 1870",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jules de Goncourt",
   "dated": "1860",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/90876",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, date and inscription\r\n\r\nLLC, in pencil: ULC, in the plate: [J. de Goncourt d\\'après Gavarni",
   "text": "",
   "description": "standing one-eyed man with glasses on his forehead and wild hair, wearing a small cap and cloak and leaning on a walking stick",
+  "provenance": "",
   "creditline": "Gift of funds from the Print and Drawing Curatorial Council",
-  "accession_number": "2004.96.2                                 ",
-  "artist": "Jules de Goncourt"
+  "accession_number": "2004.96.2"
 }

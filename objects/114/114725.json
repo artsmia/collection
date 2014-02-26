@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Connee Mayeron",
   "dated": "1998",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date on bottom, incised: [MAYERON / 98]",
   "text": "",
   "description": "plate with low rim; ring foot; off-white ground with dark brown linear streaks",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.9.4                                  ",
-  "artist": "Connee Mayeron"
+  "accession_number": "2013.9.4"
 }

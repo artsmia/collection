@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B 2000 Jack Slentz",
+  "image_copyright": "%26Acirc%3B%26copy%3B 2000 Jack Slentz",
   "life_date": "American, born 1963",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Jack R. Slentz",
   "dated": "October 7-8, 2005",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date\r\n\r\nSee Signed on back near center, in black ink: [Jack R/Slentz/",
   "text": "",
   "description": "four-sided very long diamond shape; very thin at ends; arcing cuts overall with burns to raised surface; keyhole cut on back for hanging",
+  "provenance": "",
   "creditline": "Given in honor of David and Ruth Waterbury",
-  "accession_number": "2005.121                                  ",
-  "artist": "Jack R. Slentz"
+  "accession_number": "2005.121"
 }

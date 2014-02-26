@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Adolf Arthur Dehn",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Adolf Arthur Dehn",
   "life_date": "American, 1895 - 1968",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Adolf Dehn",
   "dated": "1941",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LLC, in black: [Adolf Dehn \\'41]",
   "text": "",
   "description": "view of a hay field, with figures, horses and wagons; trees in middle ground; grey hills in background",
+  "provenance": "",
   "creditline": "Bequest of Dr. John I. Coe",
-  "accession_number": "2011.80.19                                ",
-  "artist": "Adolf Dehn"
+  "accession_number": "2011.80.19"
 }

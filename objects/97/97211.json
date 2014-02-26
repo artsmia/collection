@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Warren MacKenzie",
+  "image_copyright": "%26Acirc%3B%26copy%3B Warren MacKenzie",
   "life_date": "American, born 1924",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Warren MacKenzie",
   "dated": "c. 1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stamp ",
   "text": "",
   "description": "orange-red glaze with white undertones; cup-shaped; small raised foot; wide spout; small pinched \\\"handle\\\"",
+  "provenance": "",
   "creditline": "Gift of Charlotte Karlen",
-  "accession_number": "2005.51.2",
-  "artist": "Warren MacKenzie"
+  "accession_number": "2005.51.2"
 }

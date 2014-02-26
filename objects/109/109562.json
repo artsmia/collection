@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photographs by Ansel Adams. Copyright %26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
+  "image_copyright": "Photographs by Ansel Adams. Copyright %26Acirc%3B%26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
   "life_date": "American, 1902 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ansel Adams",
   "dated": "1931",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title and Inscription\r\n\r\non mount, in black ink: [ on mount, in black ink: [Scissors and Thread]",
   "text": "",
   "description": "slightly open pair of long scissors lying on mottled grey ground; long loop of white thread over scissors",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Purchase Fund",
-  "accession_number": "2010.41                                   ",
-  "artist": "Ansel Adams"
+  "accession_number": "2010.41"
 }

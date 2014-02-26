@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Tom Millea",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Millea",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Tom Millea",
   "dated": "1969",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date below image, in pencil: [Redding 1969  T. Millea]",
   "text": "",
   "description": "five straight tree trunks in foreground, with some low branches; water and other bare trees in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.543",
-  "artist": "Tom Millea"
+  "accession_number": "2013.35.543"
 }

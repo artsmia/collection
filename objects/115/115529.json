@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Alec Soth",
+  "image_copyright": "%26Acirc%3B%26copy%3B Alec Soth",
   "life_date": "American, born 1969",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Alec William Soth",
   "dated": "2002 (printed 2004)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition on back, in black ink: [PETER\\'S Houseboat, Winona,",
   "text": "",
   "description": "tiny blue houseboat at right on snow-covered lake; clothesline with orange, pink, green, red and white clothing",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.10",
-  "artist": "Alec William Soth"
+  "accession_number": "2013.35.10"
 }

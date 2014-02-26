@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Takashi Okamura",
+  "image_copyright": "%26Acirc%3B%26copy%3B Takashi Okamura",
   "life_date": "Japanese, born 1927",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Takashi Okamura",
   "dated": "Date Unknown",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature at bottom edge, in black ink: [T. Okamura (two Asi",
   "text": "",
   "description": "photograph of woman\\'s head in fresco; woman looks up toward URC; long brown hair in low ponytail",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.539",
-  "artist": "Takashi Okamura"
+  "accession_number": "2013.35.539"
 }

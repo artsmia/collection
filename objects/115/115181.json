@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1847 - 1898",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Félix Buhot",
   "dated": "1879",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\nb LLC, in the plate: [Debarquement en Angleterre]; L",
   "text": "",
   "description": "figures walking on a slick dock in the rain; figures at far right carry umbrella; flag on tall flagpole, left center; flying birds, URQ; large chain and pulley, LLQ",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.683",
-  "artist": "Félix Buhot"
+  "accession_number": "2013.35.683"
 }

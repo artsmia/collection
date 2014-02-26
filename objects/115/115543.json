@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1898",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115543",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ LRC in the print, in blue: [A LEPÈRE / SC]",
   "text": "",
   "description": "color print; three girls and one woman at left dancing with joined hands; man\\'s face looking at woman in ULC; other figures seated on the ground at right in middle and background, with standing boy flying a kite at center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.630",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.630"
 }

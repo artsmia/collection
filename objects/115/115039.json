@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Wright Morris %2F Center for Creative Photography%2C Arizona Board of Regents",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Wright Morris %2F Center for Creative Photography%2C Arizona Board of Regents",
   "life_date": "American, 1910 - 1998",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wright Morris",
   "dated": "1941",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\nLLC on back, in penci LRC on back, in pencil: [Wright Morris]",
   "text": "",
   "description": "old house on horizon line; dark siding; one high doorway opening without steps--no windows; small porch on left; snowy landscape; flat land; fence at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.558",
-  "artist": "Wright Morris"
+  "accession_number": "2013.35.558"
 }

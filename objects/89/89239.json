@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Muirhead Bone %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C United Kingdom",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Muirhead Bone %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C United Kingdom",
   "life_date": "Scottish, 1876 - 1953",
   "nationality": "Scottish",
   "role": "Artist",
+  "artist": "Sir Muirhead Bone",
   "dated": "1923-1928",
   "culture": null,
   "country": "Scotland",
@@ -13,12 +14,12 @@
   "medium": "Drypoint",
   "title": "Manhattan Excavation",
   "id": "http://api.artsmia.org/objects/89239",
-  "room": "G315",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature; Title; Inscriptions\r\n\r\nTitled in pencil Signed in pencil, LRC: [Muirhead Bone]",
   "text": "In this intriguing bird's-eye view, Muirhead Bone presents a meticulously detailed construction site in Midtown Manhattan. With great observational precision, he depicts workers building the Roosevelt Hotel at 45th Street and Madison Avenue, one of the many massive construction projects underway during the economic boom of the 1920s. Using the engraving technique of drypoint, Bone contrasts the immense size and dramatic complexity of the excavation pit with the tiny figures of the workers. Begun in 1923, Bone spent five years completing this print.",
   "description": "construction site in a large reinforced pit with workers throughout; busy street scene at top of image with cars and people in city",
+  "provenance": "",
   "creditline": "The Richard Lewis Hillstrom Fund",
-  "accession_number": "2004.19",
-  "artist": "Sir Muirhead Bone"
+  "accession_number": "2004.19"
 }

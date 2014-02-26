@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Christopher Faust",
+  "image_copyright": "%26Acirc%3B%26copy%3B Christopher Faust",
   "life_date": "American, born 1955",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Christopher Faust",
   "dated": "1996 (printed 2002)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\nLRC on b on back at bottom edge, in black ink: [POOL #2, Ha",
   "text": "",
   "description": "tree trunks reflected in clear, still pool of water around their bases",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.74",
-  "artist": "Christopher Faust"
+  "accession_number": "2013.35.74"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate Andreas Feininger",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Andreas Feininger",
   "life_date": "American, 1906 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andreas Feininger",
   "dated": "1955",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Stamp\r\n verso L center in black: [ANDREAS FEININGER]; LL i",
   "text": "",
   "description": "spotlight on face of figure holding a camera to eye - head and hands only in picture; lens of camera and flash appear in position of eyes",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.91",
-  "artist": "Andreas Feininger"
+  "accession_number": "2007.35.91"
 }

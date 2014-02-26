@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
   "continent": null,
   "dimension": "55 x 2 3/4 in. (139.7 x 6.99 cm)\r\n7 in. (17.78 cm) (fringe, at each end)",
-  "medium": "",
+  "medium": null,
   "title": "Sash",
   "id": "http://api.artsmia.org/objects/97527",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "red woven sash with colors red, blue, orange and green with thick fringe of the same colors at both ends",
+  "provenance": "",
   "creditline": "The Ruth Ann Dayton Chinese Room Endowment Fund, The Suzanne S. Roberts Fund for Asian Art, and The Helen Jones Fund for Asian Art",
-  "accession_number": "2004.67.558                               ",
-  "artist": ""
+  "accession_number": "2004.67.558"
 }

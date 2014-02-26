@@ -5,11 +5,12 @@
   "life_date": "French, active 1815-1848",
   "nationality": null,
   "role": "Artist",
+  "artist": "Villain",
   "dated": "1824",
   "culture": null,
   "country": "France",
   "continent": "Europe",
-  "dimension": null,
+  "dimension": "11 13/16 × 9 3/16 in. (30 × 23.34 cm) (image, sheet)",
   "medium": "Lithograph",
   "title": "Bourdon",
   "id": "http://api.artsmia.org/objects/118732",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non sheet in black in image: [Imp. L ",
   "text": "",
   "description": "head and shoulders of young man with long curly hair facing left, looking left",
+  "provenance": "",
   "creditline": "Gift of John Crosby",
-  "accession_number": "P.47.111",
-  "artist": "Villain"
+  "accession_number": "P.47.111"
 }

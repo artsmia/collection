@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Richard Serra %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Richard Serra %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Serra",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Edition, Mark\r\n\r\nSee Signed\r\n\r\nNu Signed and dated in pencil, verso, LL: [R. Serra \\'",
   "text": "",
   "description": "Black ink covers most of paper with a concave curvature across the top area, leaving exposed plain paper across the top; flat profile, natural hardwood frame",
+  "provenance": "",
   "creditline": "Gift of Mom, Mary Haldeman Dayton, and her family",
-  "accession_number": "2010.94.3                                 ",
-  "artist": "Richard Serra"
+  "accession_number": "2010.94.3"
 }

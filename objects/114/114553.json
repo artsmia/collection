@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B Vallila Interior %2F Lumihuntu%2C Caj Bremer%2C 2011",
+  "image_copyright": "%26Acirc%3B%26copy%3B Vallila Interior %2F Lumihuntu%2C Caj Bremer%2C 2011",
   "life_date": "Finnish, born 1929",
   "nationality": "Finnish",
   "role": "Artist",
+  "artist": "Caj Bremer",
   "dated": "2011",
   "culture": null,
   "country": "Finland",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Tag along one long side, printed (repeating) in blue: ",
   "text": "",
   "description": "pixelated color photographic image of snow on branches with red berries; printed on white",
+  "provenance": "",
   "creditline": "Gift of Vallila Interior, Helsinki - Finland",
-  "accession_number": "2012.42.5",
-  "artist": "Caj Bremer"
+  "accession_number": "2012.42.5"
 }

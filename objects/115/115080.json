@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Mario Giacomelli",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Mario Giacomelli",
   "life_date": "Italian, 1925 - 2000",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Mario Giacomelli",
   "dated": "1958",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription and Stamp\r\n\r\non back, on back, in pencil: [1958]",
   "text": "",
   "description": "three children in foreground on street; two boys in front--boy at right wearing striped shirt holding a bottle (?) resting on PR shoulder, boy at left seen 3/4 from back, wearing a white tank top; child in LLC squatting in street; other figures, adults and children, on sidewalks and walking on streets; buildings",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.228",
-  "artist": "Mario Giacomelli"
+  "accession_number": "2013.35.228"
 }

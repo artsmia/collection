@@ -5,12 +5,13 @@
   "life_date": "Japanese, 1753 - 1806",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Kitagawa Utamaro",
   "dated": "c. 1798",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "14 15/16 x 29 1/8 in. (38 x 74 cm) (image, sheet)\r\n17 15/16 x 36 in. (45.5 x 91.5 cm) (mat)",
-  "medium": "color woodblock print",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "title": "(Viewing Cherry Blossoms Likened to an Imperial Carriage Scene)",
   "id": "http://api.artsmia.org/objects/89791",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " Utamaro hitsu (on each panel)",
   "text": "",
   "description": "nishiki-e, triptych",
+  "provenance": "",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "accession_number": "96.146.236a-c                             ",
-  "artist": "Kitagawa Utamaro"
+  "accession_number": "96.146.236a-c"
 }

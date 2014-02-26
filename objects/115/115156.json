@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1902",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115156",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Title and Date LRC, in the print: [A LEPÈRE 1902]; ULC, in the pr",
   "text": "",
   "description": "bridge with arches at middle; horse and figures at water\\'s edge in foreground; buildings in URC",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.626",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.626"
 }

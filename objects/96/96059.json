@@ -5,10 +5,11 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th century",
   "culture": null,
   "country": "Japan",
-  "continent": null,
+  "continent": "Asia",
   "dimension": "61 15/16 x 132 7/8 in. (157.32 x 337.5 cm) (image)\r\n68 3/4 x 139 7/8 in. (174.63 x 355.28 cm)",
   "medium": "Ink, colors and gold on paper",
   "title": "Pine Tree",
@@ -17,8 +18,8 @@
   "style": "19th century",
   "marks": "Seal ",
   "text": "",
-  "description": "pine tree with gnarled, twisted trunk; waves in background and LLC; gold ground; six-fold screen",
+  "description": "pine tree with gnarled, twisted trunk; waves in background and LLC; gold ground",
+  "provenance": "",
   "creditline": "Gift of Mary Griggs Burke",
-  "accession_number": "2004.245                                  ",
-  "artist": ""
+  "accession_number": "2004.245"
 }

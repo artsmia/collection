@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Copyright %26copy%3B Koichiro Kurita",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Koichiro Kurita",
   "life_date": "Japanese, born 1943",
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Koichiro Kurita",
   "dated": "1987",
   "culture": null,
   "country": "Japan",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Edition lower left corner, in pencil: [3/3]; lower right c",
   "text": "",
   "description": "long, hair-like masses of wavy, flattened grasses; dark clouds in sky with small light patch near center of sky",
+  "provenance": "",
   "creditline": "The Robert C. Winton Fund",
-  "accession_number": "2006.87.1",
-  "artist": "Koichiro Kurita"
+  "accession_number": "2006.87.1"
 }

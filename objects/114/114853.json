@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photographs by Ansel Adams. Copyright %26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
+  "image_copyright": "Photographs by Ansel Adams. Copyright %26Acirc%3B%26copy%3B by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
   "life_date": "American, 1902 - 1984",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ansel Adams",
   "dated": "c. 1937",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC on mount, in pencil: [Ansel Adams]",
   "text": "",
   "description": "rocky cliff walls; small dirty snow drift at left with small rocks protruding from it; snow on lake in foreground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.30",
-  "artist": "Ansel Adams"
+  "accession_number": "2013.35.30"
 }

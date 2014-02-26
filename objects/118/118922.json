@@ -5,11 +5,12 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": null,
   "country": "China",
   "continent": "Asia",
-  "dimension": null,
+  "dimension": "9 1/4 × 4 13/16 × 4 13/16 in. (23.5 × 12.22 × 12.22 cm)",
   "medium": "Glazed ceramic",
   "title": "Vase",
   "id": "http://api.artsmia.org/objects/118922",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non bottom, in blue: six characters ",
   "text": "",
   "description": "columnar vessel with outward-flaring, trumpet-shaped mouth; slightly outward-flaring foot; raised rib at center of column; rose colored mottled glaze over very pale blue; some green and khaki colored mottled spots on column",
+  "provenance": "",
   "creditline": "Given in memory of Byron H. and Doreen R. McKinney",
-  "accession_number": "2013.77",
-  "artist": ""
+  "accession_number": "2013.77"
 }

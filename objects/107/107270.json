@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate of Josef Sudek %2F Divadelni a Literarni Agentura %28DILIA%29",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Josef Sudek %2F Divadelni a Literarni Agentura %28DILIA%29",
   "life_date": "Czech, 1896 - 1976",
   "nationality": "Czech",
   "role": "Artist",
+  "artist": "Josef Sudek",
   "dated": "1968-1976",
   "culture": null,
   "country": "Czechoslovakia",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ LRC, in pencil: [Sudek]",
   "text": "",
   "description": "stemmed glass with clear liquid; bowl of cherries in lower left corner",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.164",
-  "artist": "Josef Sudek"
+  "accession_number": "2013.35.164"
 }

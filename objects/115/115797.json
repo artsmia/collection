@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Ted Wathen",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ted Wathen",
   "life_date": "American",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ted Wathen",
   "dated": "1977",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Title, Signature, Date, Inscription and Stamp\r\n\r\no on back, in pencil: [Home At The Head of A Hollow.",
   "text": "",
   "description": "two farm houses with several sheds in a foggy valley, with trees in background; man seated on porch swing, standing woman and cats on porch of larger house in foreground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.540",
-  "artist": "Ted Wathen"
+  "accession_number": "2013.35.540"
 }

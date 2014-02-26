@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Elliott Erwitt",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Elliott Erwitt",
   "life_date": "American, born France, 1928",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Elliott Erwitt",
   "dated": "1989",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " Signed\r\n\r\nBottom right margin in black: [Elliott E",
   "text": "",
   "description": "black and white photograph of the lower half of man\\'s body, wearing a trench coat and holding dog leash; small white dog with black ears jumping vertically beside man",
+  "provenance": "",
   "creditline": "Gift of Martin Weinstein",
-  "accession_number": "2013.42.4",
-  "artist": "Elliott Erwitt"
+  "accession_number": "2013.42.4"
 }

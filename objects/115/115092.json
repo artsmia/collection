@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst",
   "life_date": "German, 1867 - 1945",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Käthe Kollwitz",
   "dated": "1912",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\nLLC, in pencil: [Lizz LRC below image, in pencil: [Kollwitz]",
   "text": "",
   "description": "head of a woman with wide mouth and thin lips; light-colored hair",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.734",
-  "artist": "Käthe Kollwitz"
+  "accession_number": "2013.35.734"
 }

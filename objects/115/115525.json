@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Richard Misrach. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Richard Misrach. All rights reserved.",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Misrach",
   "dated": "1999-2005",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition below image, in black ink: [MONO LAKE #3  Richard ",
   "text": "",
   "description": "reflections of clouds and sky in water--shallow in foreground, with sandy lake bottom visible; thorny dried foliage sticking out of water in several areas; mountains in background at high horizon line; many clouds in sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.523",
-  "artist": "Richard Misrach"
+  "accession_number": "2013.35.523"
 }

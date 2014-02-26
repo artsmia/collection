@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": "Danish",
+  "life_date": "Danish, born 1973",
   "nationality": "Danish",
   "role": "Artist",
+  "artist": "Louise Hindsgavl",
   "dated": "2012",
   "culture": null,
   "country": "Denmark",
@@ -13,12 +14,12 @@
   "medium": "Porcelain, stoneware, gilt",
   "title": "I Dreamed Your Dream For You and Now My Nightmare is Real",
   "id": "http://api.artsmia.org/objects/115709",
-  "room": "Not on View",
+  "room": "G317",
   "style": "21st century",
   "marks": " ",
-  "text": "",
+  "text": "In contrast to the traditional use of porcelain, which often celebrated the innocent, the carefree, and the cute, Louise Hindgavl uses the medium to dig into the dramatic depths of the human psyche. Abstract and figurative elements merge to convey a sense of drama and urgency at the tipping point between dream and nightmare. ",
   "description": "two broken-apart, swirling, irregular, stepped base-like forms at angles; top central figure with human body and arms and hoofed legs, with a growling bear\\'s head; irregular forms with circular patterns on main figure\\'s back, beneath figure\\'s feet and on right portion of \\\"base,\\\" with tiny arms protruding from inside of forms; white porcelain figure slots in and fits around gilt stoneware organic-form base section",
+  "provenance": "",
   "creditline": "Gift of funds from Tamara and Michael Root",
-  "accession_number": "2013.5a,b                                 ",
-  "artist": "Louise Hindsgavl"
+  "accession_number": "2013.5a,b"
 }

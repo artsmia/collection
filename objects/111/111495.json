@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1963 (printed 1990)",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Lew Alcindor, Basketball Player, New York, May 2, 1963",
   "id": "http://api.artsmia.org/objects/111495",
-  "room": "G266-G274",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature, Inscription, Edition and Stamp\r\n\r\nURC i LRC of image in black area, in pencil: [Avedon]; o",
   "text": "",
   "description": "young black man wearing a basketball uniform with the number 33, holding a basketball in his PR hand; tall city apartment buildings in background",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Purchase Fund and gift of the Richard Avedon Foundation",
-  "accession_number": "2011.15                                   ",
-  "artist": "Richard Avedon"
+  "accession_number": "2011.15"
 }

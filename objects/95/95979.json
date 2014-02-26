@@ -5,12 +5,13 @@
   "life_date": "American, born 1948",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Steven Sorman",
   "dated": "1977",
   "culture": null,
   "country": "United States",
   "continent": "North America",
   "dimension": "25 3/4 x 70 1/2 in. (65.41 x 179.07 cm) (sheet)",
-  "medium": "",
+  "medium": null,
   "title": "The First Building Project According to What Plan",
   "id": "http://api.artsmia.org/objects/95979",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Proof with red center",
+  "provenance": "",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
-  "accession_number": "P.83.59.88                                ",
-  "artist": "Steven Sorman"
+  "accession_number": "P.83.59.88"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, 1929-2010",
   "nationality": null,
   "role": "Artist",
+  "artist": "George Ball",
   "dated": "20th century",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Edition center below image, in pencil: [Falaises]; LRC bel",
   "text": "",
   "description": "abstract image--may be abstracted landscape with tree in URC; jagged lines and various types of shading/hatching",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.692",
-  "artist": "George Ball"
+  "accession_number": "2013.35.692"
 }

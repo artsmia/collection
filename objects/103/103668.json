@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": "Silver",
   "title": "Torque",
   "id": "http://api.artsmia.org/objects/103668",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "single ring of square wire; ring ends in solid cones decorated with half circles; connecting cones is a piece of twisted silver with smaller wire at each end",
+  "provenance": "",
   "creditline": "The Suzanne S. Roberts Fund for Asian Art",
-  "accession_number": "2007.17.82                                ",
-  "artist": ""
+  "accession_number": "2007.17.82"
 }

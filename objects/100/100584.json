@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "life_date": "German, 1897 - 1966",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Albert Renger-Patzsch",
   "dated": "1938",
   "culture": null,
   "country": "Germany",
@@ -18,7 +19,7 @@
   "marks": "Title on verso at top in pencil: [SCHLOSS NEUHAUS]",
   "text": "",
   "description": "building with bridge and spire; bridge reflected in water",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.175                               ",
-  "artist": "Albert Renger-Patzsch"
+  "accession_number": "2007.35.175"
 }

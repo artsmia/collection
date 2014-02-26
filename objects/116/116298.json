@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "German, 1471-1528",
   "nationality": "German",
   "role": "Artist",
+  "artist": "Albrecht Dürer",
   "dated": "1515 (printed 1799)",
   "culture": null,
   "country": "Germany",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "16th century",
   "marks": "Inscription and Sticker\r\n\r\ninside first two pages  ",
-  "text": "This enormous woodcut was part of a renaissance propaganda campaign waged by the cash-short Maximilian I, the Emperor of the Holy Roman Empire. Unable to afford genuine architectural monuments, he commissioned this paper facsimile that has played a key role in preserving his memory for 500 years. The Triumphal Arch emulates ancient Roman arches in the sense that it uses their format as a point of departure and then'exuberantly'attempts to surpass them. \r\nThe portals are dedicated to Maximilian's imperial virtues: fame, nobility, honor, and might. The central bay bears his Hapsburg genealogy stretching back to Julius Caesar, Alexander the Great and Hercules. Above the two smaller gateways are scenes of Maximilian's political history. The flanking turrets are devoted to his accomplishments as a hunter, military engineer, linguist, and patron. The dome is topped off with the imperial crown. \r\nHumanist polymath Johannes Stabius devised the intellectual program, and Albrecht Dürer, the leading artist of renaissance Germany, oversaw the artistic execution of the project. Most of the examples printed in the 16th century have perished. The work you see here was printed in 1799 from 174 of the original 192 woodblocks, along with 16 etchings made to replace the lost sections. ",
+  "text": "This enormous woodcut was part of a renaissance propaganda campaign waged by the cash-short Maximilian I, the Emperor of the Holy Roman Empire. Unable to afford genuine architectural monuments, he commissioned this paper facsimile that has played a key role in preserving his memory for 500 years. The Triumphal Arch emulates ancient Roman arches in the sense that it uses their format as a point of departure and then—exuberantly—attempts to surpass them. \r\nThe portals are dedicated to Maximilian’s imperial virtues: fame, nobility, honor, and might. The central bay bears his Hapsburg genealogy stretching back to Julius Caesar, Alexander the Great and Hercules. Above the two smaller gateways are scenes of Maximilian’s political history. The flanking turrets are devoted to his accomplishments as a hunter, military engineer, linguist, and patron. The dome is topped off with the imperial crown. \r\nHumanist polymath Johannes Stabius devised the intellectual program, and Albrecht Dürer, the leading artist of renaissance Germany, oversaw the artistic execution of the project. Most of the examples printed in the 16th century have perished. The work you see here was printed in 1799 from 174 of the original 192 woodblocks, along with 16 etchings made to replace the lost sections. ",
   "description": "maroon leather binding with gilding trim; \\\"ARC TRIOMPHAL D\\'APRES ALBERT DURER\\\" on spine; colorful endpapers with green, grey, yellow, red and white spots with black; text pages followed by woodcuts of portions of fantastic triumphal archway with figures (some with names and coats of armor), scenes of battle and other vignettes, animals, text and sculptural and architectural elements; detached green silk ribbon bookmark (inserted between pages)",
+  "provenance": "",
   "creditline": "The Driscoll Art Accessions Endowment Fund",
-  "accession_number": "2013.46",
-  "artist": "Albrecht Dürer"
+  "accession_number": "2013.46"
 }

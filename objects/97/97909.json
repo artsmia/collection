@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Nathan Lerner %2F Kiyoko Lerner",
   "life_date": "American, 1913-1997",
   "nationality": null,
   "role": "Artist",
+  "artist": "Nathan Lerner",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [INV 2552] ",
   "text": "",
   "description": "three children seated on the running board of a car:  boy at left wearing knickers and a hat, girl at center wearing a flowered dress and chewing on an object, girl at right wearing dress with anchor print",
+  "provenance": "",
   "creditline": "Gift of Kiyoko Lerner",
-  "accession_number": "2005.99.26",
-  "artist": "Nathan Lerner"
+  "accession_number": "2005.99.26"
 }

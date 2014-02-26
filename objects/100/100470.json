@@ -5,12 +5,13 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "20th century",
   "culture": "Maya, K'iche'",
   "country": "Guatemala",
   "continent": null,
   "dimension": "22 1/2 x 25 3/4 in. (57.15 x 65.41 cm)",
-  "medium": null,
+  "medium": "Cotton; supplementary weft patterning, embroidery, appliqué",
   "title": "Girl's huipil",
   "id": "http://api.artsmia.org/objects/100470",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "green ground with floral brocade at neck, shoulders and center in multicolors with dark red ground; green embroidery around neck",
+  "provenance": "",
   "creditline": "Gift of Patty Martinson in honor of Dr. Richard Simmons",
-  "accession_number": "2007.144.4                                ",
-  "artist": ""
+  "accession_number": "2007.144.4"
 }

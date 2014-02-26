@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3BArtists Rights Society %28ARS%29%2C New York",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3BArtists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1895 - 1975",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Samuel Chamberlain",
   "dated": "1925",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Inscription\r\n\r LRC below image, in pencil: [Samuel Chamberlain]; ",
   "text": "",
   "description": "houses; two figures in foreground, LRQ; three very tall trees at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.757",
-  "artist": "Samuel Chamberlain"
+  "accession_number": "2013.35.757"
 }

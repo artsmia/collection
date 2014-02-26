@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "19th-20th century",
   "culture": null,
   "country": "Japan",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver prints, hand-tinted, album",
   "title": "Photography album, images of Japan",
   "id": "http://api.artsmia.org/objects/112079",
-  "room": "Not on View",
+  "room": "G280",
   "style": "19th-20th century",
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Howard and Dorothy Pramann from the Mrs. M.J. McKelvy Estate, St. Cloud, MN",
-  "accession_number": "93.79.62                                  ",
-  "artist": ""
+  "accession_number": "93.79.62"
 }

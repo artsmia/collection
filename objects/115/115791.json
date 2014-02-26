@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Photograph by Art Sinsabaugh %26copy%3B Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova",
+  "image_copyright": "Photograph by Art Sinsabaugh %26Acirc%3B%26copy%3B Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova",
   "life_date": "American, 1924 - 1983",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Art Sinsabaugh",
   "dated": "1979-1980",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [#3 / 35A] ",
   "text": "",
   "description": "bare trees against a blue sky with clouds; brown fields with dark brown linear areas",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.35",
-  "artist": "Art Sinsabaugh"
+  "accession_number": "2013.35.35"
 }

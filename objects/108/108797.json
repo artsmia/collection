@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": "American, born 1943",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Michael Graham",
   "dated": "1981",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Inscription\r\n\r\non back panel o on bottom, incised: [(obscured by sticker) legs at",
   "text": "",
   "description": "rectangular form on the diagonal with three round drawers with concave textured front panels; rectangle has two organic tendrils, one extending from each small end, terminating in organic pad-like feet; drawers lined with black felt; inscriptions on back panels of drawers",
+  "provenance": "",
   "creditline": "Gift of the collection of Mari and Irving Lipton",
-  "accession_number": "2009.74.12a-d                             ",
-  "artist": "Michael Graham"
+  "accession_number": "2009.74.12a-d"
 }

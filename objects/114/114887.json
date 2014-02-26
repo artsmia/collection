@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "19th-20th century",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/114887",
   "room": "Not on View",
   "style": "19th-20th century",
-  "marks": null,
+  "marks": "Signature LLC, in black: [A. LEPÈRE]",
   "text": "",
   "description": "thatch-roofed buildings behind trees along a road; sketchy figures at right; low horizon line",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.583",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.583"
 }

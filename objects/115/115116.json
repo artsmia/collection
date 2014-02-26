@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1740 - 1812",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Philippe Jacques de Loutherbourg II",
   "dated": "18th century",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nat bottom, printed in black: [Dessi ",
   "text": "",
   "description": "sailboats, with largest at center; figures at left tending a fire in front of a tent on shore; figure with pole right of center at bottom; bluff at water\\'s edge on left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.747.4",
-  "artist": "Philippe Jacques de Loutherbourg II"
+  "accession_number": "2013.35.747.4"
 }

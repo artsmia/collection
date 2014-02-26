@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Wayne Gudmundson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Wayne Gudmundson",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Wayne Gudmundson",
   "dated": "Date Unknown",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Inscription\r\n\r\non back, in pe on back, in pencil: [From Fljotshlid to Eyjafjalla",
   "text": "",
   "description": "water with small waves in foreground; dark beach; mountains covered in snow at horizon line; low clouds",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.551",
-  "artist": "Wayne Gudmundson"
+  "accession_number": "2013.35.551"
 }

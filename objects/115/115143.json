@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "1891",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115143",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature LRC, in the print: [A LEPÈRE]",
   "text": "",
   "description": "man in LRQ standing on a table with divided slots, pouring out letters from a mailbag; other men in background at table sort letters; men at left sort letters into vertical cubbyholes on wall; uniformed man in LLQ reaching into a large mailbag",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.615",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.615"
 }

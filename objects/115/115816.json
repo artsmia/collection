@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "born 1981",
   "nationality": null,
   "role": "Artist",
+  "artist": "Wendy Red Star",
   "dated": "2012",
   "culture": "Apsaalooka (Crow)",
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Native American woman in traditional dress sits on ground holding a styrofoam ball surrounded by artificial and natural props: crows, cardinals, packing peanuts, marshmallows on branches, buffalo skull, and black cloth pond; painted backdrop of dark clouds and trees",
+  "provenance": "",
   "creditline": "Bequest of Virginia Doneghy, by exchange",
-  "accession_number": "2012.69.2                                 ",
-  "artist": "Wendy Red Star"
+  "accession_number": "2012.69.2"
 }

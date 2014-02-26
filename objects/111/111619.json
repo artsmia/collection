@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Dutch, 1608 - after 1648",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Willem de Poorter",
   "dated": "c. 1630",
   "culture": null,
   "country": "Holland",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LLQ, in brown: [Poorter 1636]",
   "text": "",
   "description": "man in white with long grey beard at left center accompanied by man in mint green; both figures wear laurel wreaths; man in white stands behind an altar with burning twigs; three kneeling women at right center with chicken and gold pitcher; silver objects and branches below altar; several other kneeling figures at left; standing figures including two musicians and cow behind; ruined sculpture in LRC; sculpture on tall pedestal behind main figures; buildings close behind background figures",
+  "provenance": "",
   "creditline": "The Walter H. and Valborg P. Ude Memorial Fund",
-  "accession_number": "2011.13                                   ",
-  "artist": "Willem de Poorter"
+  "accession_number": "2011.13"
 }

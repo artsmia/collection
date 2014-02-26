@@ -5,6 +5,7 @@
   "life_date": "French, born 1923",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Marc Riboud",
   "dated": "1962",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/104335",
   "room": "Not on View",
   "style": "20th century",
-  "marks": null,
+  "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\no LLC, below image, in black ink: [Indépendance Algé",
   "text": "",
   "description": "crowd of children and young men, waving flags; buildings in background and at R in middle ground",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
-  "accession_number": "2007.86.27                                ",
-  "artist": "Marc Riboud"
+  "accession_number": "2007.86.27"
 }

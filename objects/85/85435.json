@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "United States",
+  "nationality": "United States",
   "role": "Artist",
+  "artist": "Hamilton  Adams Imports",
   "dated": "1978",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Cotton Duck. Red Redwood",
+  "provenance": "",
   "creditline": "Gift of Cowtan & Tout, Inc.",
-  "accession_number": "99.1.115.1                                ",
-  "artist": ""
+  "accession_number": "99.1.115.1"
 }

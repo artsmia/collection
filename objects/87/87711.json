@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "Holland",
+  "nationality": "Holland",
   "role": "Artist",
+  "artist": "de Ploeg",
   "dated": "1980",
   "culture": null,
   "country": "Holland",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Chenille plain weave Grey Chinchilla",
+  "provenance": "",
   "creditline": "Gift of Cowtan & Tout, Inc.",
-  "accession_number": "99.1.618.4                                ",
-  "artist": ""
+  "accession_number": "99.1.618.4"
 }

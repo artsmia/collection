@@ -5,12 +5,13 @@
   "life_date": "American, 1836 - 1910",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Winslow Homer",
   "dated": "1856",
   "culture": null,
   "country": "United States",
   "continent": "North America",
   "dimension": "11 1/4 x 7 1/2 in. (28.58 x 19.05 cm)",
-  "medium": "",
+  "medium": null,
   "title": "Proceedings at the Reception and Dinner in Honor of George Peabody, Esq., of London, By the Citizens of the Old Town of Danvers, October 9, 1856",
   "id": "http://api.artsmia.org/objects/96681",
   "room": "Not on View",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "Book with 12 illustrations, Presentation Copy",
+  "provenance": "",
   "creditline": "Gift of Dr. and Mrs. Robert D. Semsch",
-  "accession_number": "P.82.40.296                               ",
-  "artist": "Winslow Homer"
+  "accession_number": "P.82.40.296"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Mario Giacomelli",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Mario Giacomelli",
   "life_date": "Italian, 1925 - 2000",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Mario Giacomelli",
   "dated": "1957",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date, Inscription and Stamp\r\n\r\non back, on back, in pencil: [Mario Giacometti]",
   "text": "",
   "description": "closely-spaced houses in fog or mist; slightly blurry image",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.223",
-  "artist": "Mario Giacomelli"
+  "accession_number": "2013.35.223"
 }

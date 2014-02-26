@@ -2,9 +2,10 @@
   "restricted": 0,
   "image": "invalid",
   "image_copyright": "",
-  "life_date": null,
-  "nationality": null,
+  "life_date": "American",
+  "nationality": "American",
   "role": "Artist",
+  "artist": "Don Wight",
   "dated": "1964-1968",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "\\\"A Rousseau Jungle\\\" stated in 1963 catalogue.Royale cloth. Blue, green, brown. Nile blue",
+  "provenance": "",
   "creditline": "Gift of Cowtan & Tout, Inc.",
-  "accession_number": "99.1.381.1                                ",
-  "artist": ""
+  "accession_number": "99.1.381.1"
 }

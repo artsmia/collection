@@ -5,6 +5,7 @@
   "life_date": "French, 1830 - 1903",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Camille Pissarro",
   "dated": "1897",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/102823",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Title, Inscription and Stamp\r\n\r\nLLC, in below image, in pencil: [no 19 / Théorie de Baigne",
   "text": "",
   "description": "five nude standing bathing women; sketchy; grey and blue; water at women\\'s knee level; outdoors",
+  "provenance": "",
   "creditline": "The Winton Jones Endowment for Prints and Drawings",
-  "accession_number": "2007.69                                   ",
-  "artist": "Camille Pissarro"
+  "accession_number": "2007.69"
 }

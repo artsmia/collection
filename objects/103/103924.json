@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": null,
   "title": "Jacket",
   "id": "http://api.artsmia.org/objects/103924",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "green and black; multicolored linear appliques",
+  "provenance": "",
   "creditline": "Gift of Gregory K. Page",
-  "accession_number": "2007.105.112                              ",
-  "artist": ""
+  "accession_number": "2007.105.112"
 }

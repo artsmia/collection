@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Italian, 1697 - 1768",
   "nationality": "Italian",
   "role": "Artist",
+  "artist": "Giovanni Antonio Canale (Canaletto)",
   "dated": "1735-1744",
   "culture": null,
   "country": "Italy",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ bottom center, in the plate: [A. C.]",
   "text": "",
   "description": "small upright stone monument at water\\'s edge with triangular top with a sculpture of a crouching figure; figure with oar in back of boat at left; tree in URQ; city buildings in distance",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.696",
-  "artist": "Giovanni Antonio Canale (Canaletto)"
+  "accession_number": "2013.35.696"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1898 - 1954",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Reginald Marsh",
   "dated": "1932",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC, in black: [Reginald Marsh \\'32]",
   "text": "",
   "description": "underside of bridge at top and URC; New York skyline; boats on water in foreground",
+  "provenance": "",
   "creditline": "Bequest of Dr. John I. Coe",
-  "accession_number": "2011.80.18                                ",
-  "artist": "Reginald Marsh"
+  "accession_number": "2011.80.18"
 }

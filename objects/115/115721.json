@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Aleksandras Macijauskas",
+  "image_copyright": "%26Acirc%3B%26copy%3B Aleksandras Macijauskas",
   "life_date": "Lithuanian, born 1938",
   "nationality": "Lithuanian",
   "role": "Artist",
+  "artist": "Aleksandras Macijauskas",
   "dated": "1974",
   "culture": null,
   "country": "Lithuania",
@@ -18,7 +19,7 @@
   "marks": "Title, Date and Inscription\r\n\r\non back, in pencil: on back, in pencil: [1974 m. / In a Lithuanian mar",
   "text": "",
   "description": "pig sleeping in straw in a cart; cart wheel, LLQ; three men in background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.12",
-  "artist": "Aleksandras Macijauskas"
+  "accession_number": "2013.35.12"
 }

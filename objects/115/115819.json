@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "American, born 1953",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Nan Goldin",
   "dated": "1980",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Vintage dye destruction print",
   "title": "The Hug, N.Y.C.",
   "id": "http://api.artsmia.org/objects/115819",
-  "room": "G365",
+  "room": "Not on View",
   "style": "20th century",
   "marks": " ",
   "text": "",
   "description": "woman with bushy black hair in blue dress stands with back to viewer; man\\'s arm holds her around the waist; white frame",
+  "provenance": "",
   "creditline": "The Alfred and Ingrid Lenz Harrison Purchase Fund",
-  "accession_number": "2012.90                                   ",
-  "artist": "Nan Goldin"
+  "accession_number": "2012.90"
 }

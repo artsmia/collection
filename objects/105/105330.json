@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Stuart D. Klipper",
+  "image_copyright": "%26Acirc%3B%26copy%3B Stuart D. Klipper",
   "life_date": "American, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Stuart D. Klipper",
   "dated": "June 3, 1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\ns on back at bottom edge, in black ink: [TREE, FARM ",
   "text": "",
   "description": "large tree at left in the country, overhanging a dirt road; white fences at left and right; fields at left and right",
+  "provenance": "",
   "creditline": "Given in memory of Ted Hartwell in gratitude for decades of friendship, and also in appreciation of the friendship of his son, Joe Hartwell",
-  "accession_number": "2008.31.2                                 ",
-  "artist": "Stuart D. Klipper"
+  "accession_number": "2008.31.2"
 }

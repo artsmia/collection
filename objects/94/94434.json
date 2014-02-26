@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VEGAP%2C Spain",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F VEGAP%2C Spain",
   "life_date": "Spanish, 1923-2012",
   "nationality": "Spanish",
   "role": "Artist",
+  "artist": "Antonio Tapies",
   "dated": "20th century",
   "culture": null,
   "country": "Spain",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of Aime Maeght",
-  "accession_number": "P.79.154.60                               ",
-  "artist": "Antonio Tapies"
+  "accession_number": "P.79.154.60"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": "Argentinian, born 1957",
   "nationality": "Argentinian",
   "role": "Artist",
+  "artist": "Silvia Levenson",
   "dated": "2005",
   "culture": null,
   "country": "Argentina",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on back, in black ink: [Silvia Levenson - 2005 TUT",
   "text": "",
   "description": "photographic image of little girl and little boy holding hands on the beach; girl\\'s bikini covered with clear glass; boy\\'s swim trunks covered with dark red glass; pair of clear glass flip-flop shoes in LLC, with barbed wire straps",
+  "provenance": "",
   "creditline": "Gift of Daniel Greenberg and Susan Steinhauser",
-  "accession_number": "2012.112.16                               ",
-  "artist": "Silvia Levenson"
+  "accession_number": "2012.112.16"
 }

@@ -1,10 +1,11 @@
 {
-  "restricted": 1,
+  "restricted": 0,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "life_date": "American, 1883 - 1965",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Charles Sheeler",
   "dated": "20th century",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Date, Inscription, Stamps and Label on back: Fogg Art Museum label; on back, in black ",
   "text": "",
   "description": "photo of Charles Sheeler painting of enclosed turbines and open stacks",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.191                               ",
-  "artist": "Charles Sheeler"
+  "accession_number": "2007.35.191"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
   "life_date": "American, 1882 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rockwell Kent",
   "dated": "1929",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Inscription\r\n\r\non back, in pencil: [ LRC, in pencil: [Rockwell Kent-]",
   "text": "",
   "description": "man standing in boat, pushing off from vertical rock with a boat oar",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.755",
-  "artist": "Rockwell Kent"
+  "accession_number": "2013.35.755"
 }

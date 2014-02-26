@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BAndy Warhol Foundation for the Visual Arts %2F Artists Rights Society %28ARS%29%2C New York%0D%0A%26copy%3BEstate of Keith Haring",
+  "image_copyright": "%26Acirc%3B%26copy%3BAndy Warhol Foundation for the Visual Arts %2F Artists Rights Society %28ARS%29%2C New York%0D%0A%26Acirc%3B%26copy%3BEstate of Keith Haring",
   "life_date": "American, 1928 - 1987",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andy Warhol",
   "dated": "1986",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "red ground; three lines of musical notation in yellow; purple dancing figures above and between lines of music; blue text and bottom",
+  "provenance": "",
   "creditline": "Gift of Wells Fargo Bank, Minnesota",
-  "accession_number": "2009.11.3",
-  "artist": "Andy Warhol"
+  "accession_number": "2009.11.3"
 }

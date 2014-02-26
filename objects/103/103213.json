@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3BEstate of Francis Bacon %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3BEstate of Francis Bacon %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "British (born Ireland), 1909 - 1992",
   "nationality": "British (born Ireland)",
   "role": "Artist",
+  "artist": "Francis Bacon",
   "dated": "1984",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature and Edition\r\n\r\nsee signed\r\n\r\nNumbered LL LRC, in pencil: [FRANCIS BACON]",
   "text": "",
   "description": "abstracted figure wearing brown boots, black shirt and blue-grey pants seated on a chair in the corner of a room with blue walls and tan floor",
+  "provenance": "",
   "creditline": "Gift of Ruth and Bruce Dayton",
-  "accession_number": "2007.53                                   ",
-  "artist": "Francis Bacon"
+  "accession_number": "2007.53"
 }

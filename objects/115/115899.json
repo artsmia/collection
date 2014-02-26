@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "",
   "life_date": "Czech, 1921 - 2002",
   "nationality": "Czech",
   "role": "Artist",
+  "artist": "Stanislav Libensky",
   "dated": "1994",
   "culture": null,
   "country": "Czech Republic",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "blue glass form; football shaped footprint, with cutout area on one side; domed form; vertical element extending upward on the diagonal from top",
+  "provenance": "",
   "creditline": "Gift of Daniel Greenberg and Susan Steinhauser",
-  "accession_number": "2012.112.17                               ",
-  "artist": "Stanislav Libensky"
+  "accession_number": "2012.112.17"
 }

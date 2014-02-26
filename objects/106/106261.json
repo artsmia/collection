@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Tom Arndt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Arndt",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas F. Arndt",
   "dated": "April 2008",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition on back, in pencil: [1/15  Mexican man, Mexico Cit",
   "text": "",
   "description": "old man wearing a white cowboy hat, with arms crossed, leaning against a building with a window with a decorative metal screen behind him",
+  "provenance": "",
   "creditline": "Gift of Gary and Nanci Smaby",
-  "accession_number": "2008.88.5",
-  "artist": "Thomas F. Arndt"
+  "accession_number": "2008.88.5"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B2004 Dan Dennehy",
+  "image_copyright": "%26Acirc%3B%26copy%3B2004 Dan Dennehy",
   "life_date": "American, born 1959",
   "nationality": null,
   "role": "Artist",
+  "artist": "Dan Dennehy",
   "dated": "2004",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition on back, in pencil: [Portrait of TED HARTWELL, 200",
   "text": "",
   "description": "portrait of man wearing herringbone jacket and round glasses, holding a camera up to his PL eye",
+  "provenance": "",
   "creditline": "Gift of Harry Drake",
-  "accession_number": "2008.32                                   ",
-  "artist": "Dan Dennehy"
+  "accession_number": "2008.32"
 }

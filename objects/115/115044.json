@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Daniel Powers",
+  "image_copyright": "%26Acirc%3B%26copy%3B Daniel Powers",
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Daniel Powers",
   "dated": "2003",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition LLC, on paper slip attached to mount (may be copy ",
   "text": "",
   "description": "three rowboats on shore; other small boats in water; city buildings on opposite bank; pair of footprints in sand at bottom center",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.86",
-  "artist": "Daniel Powers"
+  "accession_number": "2013.35.86"
 }

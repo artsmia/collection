@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Richard Misrach. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Richard Misrach. All rights reserved.",
   "life_date": "American, born 1949",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Misrach",
   "dated": "1999-2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Edition below image, in black ink: [3-9-99 7:35 A.M.  Rich",
   "text": "",
   "description": "view of suspension bridge (Golden Gate?) across water; island at left; low horizon line; low, large cloud in sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.520",
-  "artist": "Richard Misrach"
+  "accession_number": "2013.35.520"
 }

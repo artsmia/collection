@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "Date Unknown",
   "culture": "Miao",
   "country": "China",
@@ -13,12 +14,12 @@
   "medium": null,
   "title": "Skirt",
   "id": "http://api.artsmia.org/objects/103926",
-  "room": "Not on View",
+  "room": "G218",
   "style": null,
   "marks": " ",
   "text": "",
   "description": "very large; black at top; printed pastel striped fabric",
+  "provenance": "",
   "creditline": "Gift of Gregory K. Page",
-  "accession_number": "2007.105.114                              ",
-  "artist": ""
+  "accession_number": "2007.105.114"
 }

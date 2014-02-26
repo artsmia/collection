@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Henri Rivi%26egrave%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Henri Rivi%26Atilde%3B%26uml%3Bre %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1864 - 1951",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Rivière",
   "dated": "1902",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature LRC in the print, in red: [HR]",
   "text": "",
   "description": "group of boats with bare masts in foreground; small groups of figures on each boat; two sailboats with extended sails at top",
+  "provenance": "",
   "creditline": "Gift of Tom Rassieur in honor of Yvonne and Gabe Weisberg",
-  "accession_number": "2009.49.3                                 ",
-  "artist": "Henri Rivière"
+  "accession_number": "2009.49.3"
 }

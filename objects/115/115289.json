@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Paul Caponigro. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Paul Caponigro. All rights reserved.",
   "life_date": "American, born 1932",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Paul Caponigro",
   "dated": "1970",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date and Inscription\r\n\r\non back  LRC below image on mount, in pencil: [Paul Caponig",
   "text": "",
   "description": "reflections of bare trees in water at center; circular pattern of pond scum, LLC, and linear swirling pattern at top edge",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.475",
-  "artist": "Paul Caponigro"
+  "accession_number": "2013.35.475"
 }

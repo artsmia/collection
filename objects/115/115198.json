@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "French, 1804-1866",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Paul Gavarni (Sulpice-Guillaume Chevalier)",
   "dated": "1842",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Inscription and Stamp\r\n\r\non back, in pencil: [(ill ",
   "text": "",
   "description": "recto:  two women standing against wall on city street with carriage at right; woman at right faces forward, with her hands on her hips, looking sideways at her companion; both women wear bonnets; woman at right wears dark cape--woman at left has her cape over her PR arm and leans on a folded parasol; verso:  frowning woman kneeling on a cushion-covered stool while a woman behind her places a dark hat on her head; woman at left reading from a book, standing behind a counter with a pair of small floral arrangements; two other women and right hold beribboned poles",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.746",
-  "artist": "Paul Gavarni (Sulpice-Guillaume Chevalier)"
+  "accession_number": "2013.35.746"
 }

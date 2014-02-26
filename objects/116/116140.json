@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Chinese, 1833 - 1911",
   "nationality": "Chinese",
   "role": "Artist",
+  "artist": "Qian Hui'an",
   "dated": "c. 1875",
   "culture": null,
   "country": "China",
@@ -16,9 +17,9 @@
   "room": "Not on View",
   "style": "19th century",
   "marks": "Stamp, Seal and Sticker ",
-  "text": "",
+  "text": "This composition is daringly centered on what appears to be a very tall and carefully constructed haystack. A rake with a long bamboo handle stands propped up against it. Beside the rake is a two-handled barrel, while next to the barrel a man sits hunched over, hands on thighs and head on hands, sleeping. He wears a farmer’s cloak. A child is on the verge of tapping the man’s head with his index finger to wake him up.  The full moon above suggests that the man is exhausted after a long day’s work and has fallen asleep. The boy’s intrusion into the man’s slumber may indicate that they still have the journey home before them. This mundane narrative creates an interesting foil to the strangeness of the scene with its oddly shaped haystack and faceless protagonist. ",
   "description": "oval-shaped hay bale (?) at center of image; seated man with head down, resting on his folded arms, to right of bale; smaller figure (child?) in blue tunic comforting man; moon or sun, ULC; tree branches at left at horizon line",
+  "provenance": "",
   "creditline": "The Friends of Bruce Dayton Art Acquisition Fund",
-  "accession_number": "2013.13.1                                 ",
-  "artist": "Qian Hui'an"
+  "accession_number": "2013.13.1"
 }

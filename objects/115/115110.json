@@ -1,10 +1,11 @@
 {
   "restricted": 1,
-  "image": "invalid",
-  "image_copyright": "%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
+  "image": "valid",
+  "image_copyright": "%26Acirc%3B%26copy%3B Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
   "life_date": "American, 1882 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Rockwell Kent",
   "dated": "c. 1938",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature LLC, in the print: [ROCKWELL KENT]; LRC, in pencil",
   "text": "",
   "description": "man seated at a table, reading a book, resting his chin in his PL hand; man has a coat over his shoulders; long icicles outside window behind man\\'s head",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.756",
-  "artist": "Rockwell Kent"
+  "accession_number": "2013.35.756"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Michael Kenna Photography %7C All Rights Reserved",
+  "image_copyright": "%26Acirc%3B%26copy%3B Michael Kenna Photography %7C All Rights Reserved",
   "life_date": "British, born 1953",
   "nationality": "British",
   "role": "Artist",
+  "artist": "Michael Kenna",
   "dated": "1991 (printed 1992)",
   "culture": null,
   "country": "England",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp LRC on mount below image, in pencil: [Michael Kenn",
   "text": "",
   "description": "cluster of trees at horizon line at center; plants in rows in farm field in foreground; line of trees at left at horizon line; darkening sky",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.279",
-  "artist": "Michael Kenna"
+  "accession_number": "2013.35.279"
 }

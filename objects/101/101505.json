@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26copy%3B by the Trustees of Princeton University All rights reserved.",
+  "image_copyright": "Reproduction courtesy The Minor White Archive. Copyright %26Acirc%3B%26copy%3B by the Trustees of Princeton University All rights reserved.",
   "life_date": "American, 1908 - 1976",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Minor White",
   "dated": "1958 (printed c. 1985)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on sheet below image in pencil: [MINOR WHITE]; on ",
   "text": "",
   "description": "curtained window open slightly; circular reflection(?) below curtain covers, windowsill, and wall below window",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.367.6",
-  "artist": "Minor White"
+  "accession_number": "2007.35.367.6"
 }

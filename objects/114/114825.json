@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": "American, 1922-2011",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toshiko Takaezu",
   "dated": "c. 1950s",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Sticker ",
   "text": "",
   "description": "rounded, lozenge-shaped body; short, thin spout with outward-flaring rim; brown and tan glaze with black brushstroke marks",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.9.2                                  ",
-  "artist": "Toshiko Takaezu"
+  "accession_number": "2013.9.2"
 }

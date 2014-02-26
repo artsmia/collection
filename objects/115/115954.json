@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
-  "image": "invalid",
+  "restricted": 1,
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Swedish, born 1938",
   "nationality": "Swedish",
   "role": "Artist",
+  "artist": "Bertil Vallien",
   "dated": "Date Unknown",
   "culture": null,
   "country": "Sweden",
@@ -18,7 +19,7 @@
   "marks": " ",
   "text": "",
   "description": "mask; roughly triangular boat-like form; pebbled surface with rust-colored surface accretions; protruding elements in rows on forehead; rounded, blue glass horns; rounded, handle-like, C-shaped fluted metal element at top center; vertical bundle of copper wires through center; dark blue and white glass piece at bottom; attached to cross-shaped metal hanger with adhesive and horizontal loops of wire across center",
+  "provenance": "",
   "creditline": "Gift of Daniel Greenberg and Susan Steinhauser",
-  "accession_number": "2012.112.27                               ",
-  "artist": "Bertil Vallien"
+  "accession_number": "2012.112.27"
 }

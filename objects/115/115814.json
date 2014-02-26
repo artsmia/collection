@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Jean Metzinger %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Jean Metzinger %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1883 - 1956",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Jean Metzinger",
   "dated": "1904",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature\r\nBlack stencil, verso of canvas: 12 / P. LLC, in blue: [J. Metzinger]",
   "text": "Recent conservation of this picture was made possible by a generous contribution from an anonymous patron through the Adopt-a-Painting program.",
   "description": "pointillist landscape with fields of predominately pink and some yellow flowers, probably Anemones de Caen; purple elements (Caen skyline) at horizon line",
+  "provenance": "",
   "creditline": "Gift of Anne Dalrymple Hull",
-  "accession_number": "2012.83                                   ",
-  "artist": "Jean Metzinger"
+  "accession_number": "2012.83"
 }

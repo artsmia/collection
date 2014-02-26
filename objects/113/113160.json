@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
+  "image_copyright": "%26Acirc%3B%26copy%3BJames Rosenquist %2F Copyright VAGA%2C New York%2C NY",
   "life_date": "American, born 1933",
   "nationality": "American",
   "role": "Artist",
+  "artist": "James Rosenquist",
   "dated": "1993",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Edition and Stamp\r\n\r\nsee S LRC, in pencil: [James Rosenquist  1993]; LLC, in ",
   "text": "",
   "description": "image of doll\\'s head with wide-open eyes seen through red cellophane",
+  "provenance": "",
   "creditline": "Anonymous gift",
-  "accession_number": "2011.74.11                                ",
-  "artist": "James Rosenquist"
+  "accession_number": "2011.74.11"
 }

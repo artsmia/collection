@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
+  "image_copyright": "%26Acirc%3B%26copy%3B Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "life_date": "French, 1886 - 1945",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Robert Mallet-Stevens",
   "dated": "1987 (published)",
   "culture": null,
   "country": "France",
@@ -18,7 +19,7 @@
   "marks": "Signature and Title\r\n\r\n in plate UL corner, in black: [R. M-S.]; below ima",
   "text": "",
   "description": "small nearly square building with two yellow doors and yellow trim around top; above left door \\\"TEL/EPH/ONE\\\"; above right door \\\"JOU/RN/AUX\\\"; ticket (?) window right side; water fountain at left; at top of building \\\"ARRETTRAM\\\"",
+  "provenance": "",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
-  "accession_number": "P.98.33.118.19                            ",
-  "artist": "Robert Mallet-Stevens"
+  "accession_number": "P.98.33.118.19"
 }

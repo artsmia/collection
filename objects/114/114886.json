@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Huntington Wilherill",
+  "image_copyright": "%26Acirc%3B%26copy%3B Huntington Wilherill",
   "life_date": "born 1949",
   "nationality": null,
   "role": "Artist",
+  "artist": "Huntington Wilherill",
   "dated": "1980",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Signature on mount in pencil: [H Welherill]",
   "text": "",
   "description": "sand dunes; foreground dune\\'s left side smooth and very light; right side rippled; second dune textured and partially in shadow; dunes in distance textured and light; ne smooth, light patch, egg shape in right background",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.124",
-  "artist": "Huntington Wilherill"
+  "accession_number": "2013.35.124"
 }

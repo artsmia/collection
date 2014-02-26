@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "%26Acirc%3B%26copy%3B The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
   "life_date": "American, 1928 - 2007",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Sol LeWitt",
   "dated": "1971",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Edition, Mark\r\n\r\nsee Signed\r\n\r\nNumbered Signed in pencil, LR: [LeWitt]",
   "text": "",
   "description": "from a portfolio of 10 etchings, plus frontispiece",
+  "provenance": "",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
-  "accession_number": "P.79.7.3",
-  "artist": "Sol LeWitt"
+  "accession_number": "P.79.7.3"
 }

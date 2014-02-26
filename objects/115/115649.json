@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
+  "image_copyright": "%26Acirc%3B%26copy%3BHenri Cartier-Bresson %2F Magnum Photos",
   "life_date": "French, 1908 - 2004",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Henri Cartier-Bresson",
   "dated": "1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Stamp LRC below image, in black ink: [Henri Cartier-Bres",
   "text": "",
   "description": "people at a lookout point at corner of Notre-Dame cathedral; seated couple in foreground, seen from back--man has his PL arm around woman\\'s neck; group of children wearing dark hooded capes looking over Paris and Seine from railing; three little girls seated",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.123",
-  "artist": "Henri Cartier-Bresson"
+  "accession_number": "2013.35.123"
 }

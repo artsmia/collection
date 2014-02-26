@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "",
   "dated": "1708",
   "culture": null,
   "country": "England",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/110995",
   "room": "Not on View",
   "style": "18th century",
-  "marks": null,
+  "marks": "Inscription and Label\r\n\r\non spine, in blue: [·Pars ",
   "text": "",
   "description": "book-shaped flask with yellow hearts, yellow edges (top, side and bottom) and yellow straps on side between hearts; blue star with floral and foliate designs at center on \\\"cover\\\"; spine inscribed \\\"Pars Hiemadis as usum D\\'ni Thomas Cannonicy B ae mariae de\\' Salensis 1708\\\"",
+  "provenance": "",
   "creditline": "Bequest of Irene G. Steiner",
-  "accession_number": "2010.82.22                                ",
-  "artist": ""
+  "accession_number": "2010.82.22"
 }

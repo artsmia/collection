@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "Photograph by Richard Avedon %26copy%3BThe Richard Avedon Foundation",
+  "image_copyright": "Photograph by Richard Avedon %26Acirc%3B%26copy%3BThe Richard Avedon Foundation",
   "life_date": "American, 1923-2004",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Avedon",
   "dated": "1952",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [70] and [9 1/2 ",
   "text": "",
   "description": "portrait of elderly Charles Chaplin, wearing a suit, with his hands held up to his temples, index fingers pointing upward, in the manner of horns",
+  "provenance": "",
   "creditline": "Gift of funds from the Photography Curatorial Council in memory of Carroll T. Hartwell",
-  "accession_number": "2008.29                                   ",
-  "artist": "Richard Avedon"
+  "accession_number": "2008.29"
 }

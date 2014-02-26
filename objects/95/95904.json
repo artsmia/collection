@@ -1,10 +1,11 @@
 {
-  "restricted": 1,
+  "restricted": 0,
   "image": "valid",
-  "image_copyright": "%26copy%3B 1985 Joseph Nechvatal %2F Vermillion Editions Limited",
+  "image_copyright": "%26Acirc%3B%26copy%3B 1985 Joseph Nechvatal",
   "life_date": "American, born 1951",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Joseph Nechvatal",
   "dated": "1985",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Metal relief print",
   "title": "Untitled from \"The Sex Prayers\"",
   "id": "http://api.artsmia.org/objects/95904",
-  "room": "G266-G274",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Signature, chop mark\r\n in graphite: [Joseph Nechvatal]",
   "text": "",
   "description": "Orange border at R; woman in short skirt at easel drawing a male nude figure who is posing in a handstand; large head at far R; black rubs throughout on orange background\r\n\r\n",
+  "provenance": "",
   "creditline": "Gift of Steven M. Andersen",
-  "accession_number": "2005.160.41.1",
-  "artist": "Joseph Nechvatal"
+  "accession_number": "2005.160.41.1"
 }

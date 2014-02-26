@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "valid",
   "image_copyright": "",
   "life_date": "American, born 1952",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Richard Jolley",
   "dated": "Date Unknown",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature and Title on underside, incised: [RICHARD / JOLLEY / ADAM & ",
   "text": "",
   "description": "clear glass; small raised foot; rounded, slightly tapering form; line drawing images of heads, torsos and arms of Adam (in black) and Eve (in purple), with an apple hovering between their hands; orange, green, blue and red striped snake coiled beneath figures and on bottom of vase",
+  "provenance": "",
   "creditline": "Gift of Daniel Greenberg and Susan Steinhauser",
-  "accession_number": "2012.112.13                               ",
-  "artist": "Richard Jolley"
+  "accession_number": "2012.112.13"
 }

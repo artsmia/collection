@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Peter Ingemann Sekaer",
+  "image_copyright": "%26Acirc%3B%26copy%3B Peter Ingemann Sekaer",
   "life_date": "American, 1901 - 1950",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Peter Ingemann Sekaer",
   "dated": "1936",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\non back, in pencil: [PF27652] ",
   "text": "",
   "description": "two men wearing caps leaning against a post on a street corner; Coca-Cola sign across street behind fire hydrant",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.507",
-  "artist": "Peter Ingemann Sekaer"
+  "accession_number": "2013.35.507"
 }

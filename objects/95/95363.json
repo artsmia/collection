@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Ralph Gibson",
+  "image_copyright": "%26Acirc%3B%26copy%3B Ralph Gibson",
   "life_date": "American, born 1939",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Ralph Gibson",
   "dated": "1979 (printed 1982)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Date and Stamp on back at bottom edge, in pencil: [Ralph Gibson 1",
   "text": "",
   "description": "close-up of a painting with half of a woman\\'s face at left, wearing a large drop earring; right side of image dark, with water spots (in the image) and hole in canvas in LRC",
+  "provenance": "",
   "creditline": "Gift of Mr. and Mrs. Richard A. Hunter",
-  "accession_number": "2004.213.1.7",
-  "artist": "Ralph Gibson"
+  "accession_number": "2004.213.1.7"
 }

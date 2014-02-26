@@ -1,10 +1,11 @@
 {
-  "restricted": 0,
+  "restricted": 1,
   "image": "invalid",
   "image_copyright": "",
   "life_date": "American, born 1947",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Mark Pharis",
   "dated": "c. 1995",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Stickers ",
   "text": "",
   "description": "three separate ceramic pieces, each with a football-shaped concave base and two sides, slightly flaring outward to point with a vertical seam from point to base (#1 and #3), or upward to rim (#2); very narrow top openings; each piece has motifs of brown rectangular and square forms with mottled orange and cream ground",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.9.3a-c                               ",
-  "artist": "Mark Pharis"
+  "accession_number": "2013.9.3a-c"
 }

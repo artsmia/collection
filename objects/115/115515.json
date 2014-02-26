@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Estate Andreas Feininger",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate Andreas Feininger",
   "life_date": "American, 1906 - 1999",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Andreas Feininger",
   "dated": "1955 (printed 1992)",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, Inscription and Stamp\r\n\r\no on back, in pencil: [The Photojournalist, 1955 by ",
   "text": "",
   "description": "spotlight on face of figure holding a camera to eye - head and hands only in picture; lens of camera and flash appear in position of eyes",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.20",
-  "artist": "Andreas Feininger"
+  "accession_number": "2013.35.20"
 }

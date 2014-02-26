@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "Copyright %26copy%3B Katherine Turczan. All rights reserved.",
+  "image_copyright": "Copyright %26Acirc%3B%26copy%3B Katherine Turczan. All rights reserved.",
   "life_date": "American, born 1965",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Katherine Turczan",
   "dated": "1991",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date bottom edge on back, in pencil: [Children @ Camp f",
   "text": "",
   "description": "group of six girls outdoors--two standing--all wearing skirts or dresses; girl second from left sits on concrete edging on steps and holds her face up to the sky with her eyes closed; three girls at right look out of picture plane--only girl at right edge smiles",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.179",
-  "artist": "Katherine Turczan"
+  "accession_number": "2013.35.179"
 }

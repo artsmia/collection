@@ -5,6 +5,7 @@
   "life_date": "Dutch, 1844 - 1910",
   "nationality": "Dutch",
   "role": "Artist",
+  "artist": "Willem Maris",
   "dated": "c.1880-90",
   "culture": null,
   "country": "Netherlands",
@@ -13,12 +14,12 @@
   "medium": "Oil on canvas",
   "title": "Cattle Grazing at the Water's Edge",
   "id": "http://api.artsmia.org/objects/111283",
-  "room": "G280",
+  "room": "MS",
   "style": "19th century",
   "marks": "Signature Signed in lower right: [Willem Maris]",
   "text": "The Dutch used windmills to pump salty water out of intricately designed irrigation systems, over dykes, and into the sea. They reclaimed land from marshes in order to graze cattle on their cheese and dairy farms.",
   "description": "Cows near stream in meadow landscape; windmill in distance; guilded gold frame",
+  "provenance": "",
   "creditline": "Gift of Alan and Phyllis Rusterholz",
-  "accession_number": "2010.108                                  ",
-  "artist": "Willem Maris"
+  "accession_number": "2010.108"
 }

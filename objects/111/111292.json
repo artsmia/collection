@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Robert Polidori. All rights reserved.",
+  "image_copyright": "%26Acirc%3B%26copy%3B Robert Polidori. All rights reserved.",
   "life_date": "American (born Canada), born 1951",
   "nationality": "Canadian",
   "role": "Artist",
+  "artist": "Robert Polidori",
   "dated": "1997",
   "culture": null,
   "country": "Canada",
@@ -18,7 +19,7 @@
   "marks": " Signed in ink on mount verso",
   "text": "",
   "description": "Room with worn green walls, TV set at center, portraits on the wall, radio, fan, and chair at either side; wood fillet and frame",
+  "provenance": "",
   "creditline": "Gift of Darwin and Geri Reedy",
-  "accession_number": "2010.103.4",
-  "artist": "Robert Polidori"
+  "accession_number": "2010.103.4"
 }

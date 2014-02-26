@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": null,
   "role": "Artist",
+  "artist": "Esther Glaser Parada",
   "dated": "1964-1966",
   "culture": null,
   "country": "United States",
@@ -13,12 +14,12 @@
   "medium": "Gelatin silver print",
   "title": "Fetching Water, Charcoma, Bolivia",
   "id": "http://api.artsmia.org/objects/100033",
-  "room": "G280",
+  "room": "Not on View",
   "style": "20th century",
   "marks": "Inscription and Label\r\n\r\non back, in black ink: [( ",
   "text": "In places where no source of water can be found women and children spend hours each day retrieving water from distant or unknown sources. Standing water from ponds, marshes and puddles often contain high levels of heavy metals and intestinal parasites.",
   "description": "crouching child wearing a hat, dipping water with small container into large bucket; rocky landscape",
+  "provenance": "",
   "creditline": "Gift of the family of Esther Parada:  Adam Wilson, son; Margo Davion and Susan Peters, sisters; and Benjamin Glaser, brother",
-  "accession_number": "2006.54.10                                ",
-  "artist": "Esther Glaser Parada"
+  "accession_number": "2006.54.10"
 }

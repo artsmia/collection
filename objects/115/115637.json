@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Tom Arndt",
+  "image_copyright": "%26Acirc%3B%26copy%3B Tom Arndt",
   "life_date": "American, born 1944",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Thomas F. Arndt",
   "dated": "2003",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on back, in pencil: [Outdoor restaurant, Rome 2003",
   "text": "",
   "description": "young woman and two young men seated at a small dining table on cobblestone street in front of restaurant at night, LLC; man walking down street at center; wall of brick building with closed shutters and graffiti at right",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.542",
-  "artist": "Thomas F. Arndt"
+  "accession_number": "2013.35.542"
 }

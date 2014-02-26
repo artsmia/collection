@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Norwegian, 1788 - 1857",
   "nationality": "Norwegian",
   "role": "Artist",
+  "artist": "Johann Christian Clausen Dahl",
   "dated": "1818",
   "culture": null,
   "country": "Norway",
@@ -18,7 +19,7 @@
   "marks": "Signature and Date LRC, in black: [Dahl / 1818.]",
   "text": "",
   "description": "water in foreground cascading over rocks; lake at left middle ground; couple with dog in front of log house at right middle ground, with sheep grazing at right edge; castle on top of rocky peak, top center",
+  "provenance": "",
   "creditline": "The Sheila C. and John L. Morgan Endowment for Art Acquisition, the David and Margaret Christenson Endowment for Art Acquisition, and the Hognander Family Endowment for Scandinavian Art",
-  "accession_number": "2013.20                                   ",
-  "artist": "Johann Christian Clausen Dahl"
+  "accession_number": "2013.20"
 }

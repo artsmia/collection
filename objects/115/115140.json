@@ -5,6 +5,7 @@
   "life_date": "French, 1849 - 1918",
   "nationality": "French",
   "role": "Artist",
+  "artist": "Auguste Louis Lepère",
   "dated": "19th century",
   "culture": null,
   "country": "France",
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/115140",
   "room": "Not on View",
   "style": "19th century",
-  "marks": null,
+  "marks": "Signature, Inscription and Edition\r\n\r\nLRC, in penc LRC, in black ink: [A Lepére]; LLC, in the print: ",
   "text": "",
   "description": "simple, unadorned four-story building behind fence at right; wing with arches at right angle to main building at left, with figures standing in front; tree at left",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.613",
-  "artist": "Auguste Louis Lepère"
+  "accession_number": "2013.35.613"
 }

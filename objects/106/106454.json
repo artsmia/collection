@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3B Toby Old",
+  "image_copyright": "%26Acirc%3B%26copy%3B Toby Old",
   "life_date": "American, born 1945",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Toby Old",
   "dated": "2002",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title, Date, and Edition on back at bottom edge, in pencil: [Quechee, Vermo",
   "text": "",
   "description": "five young women wearing bikinis standing on a very small outcrop beneath a waterfall; four girls bent over, looking down; one girl has arms upraised; dark window or chute in URC",
+  "provenance": "",
   "creditline": "Given in memory of Ted Hartwell",
-  "accession_number": "2008.91.2                                 ",
-  "artist": "Toby Old"
+  "accession_number": "2008.91.2"
 }

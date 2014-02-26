@@ -1,10 +1,11 @@
 {
   "restricted": 1,
   "image": "valid",
-  "image_copyright": "%26copy%3B Estate of Margaret Bourke-White",
+  "image_copyright": "%26Acirc%3B%26copy%3B Estate of Margaret Bourke-White",
   "life_date": "American, 1904 - 1971",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Margaret Bourke-White",
   "dated": "1946",
   "culture": null,
   "country": null,
@@ -18,7 +19,7 @@
   "marks": "Sticker ",
   "text": "",
   "description": "seated cross-legged male figure in a room; furniture at right; pillow behind table; wheel shaped object left foreground",
+  "provenance": "",
   "creditline": "Gift of Frederick B. Scheel",
-  "accession_number": "2007.35.22",
-  "artist": "Margaret Bourke-White"
+  "accession_number": "2007.35.22"
 }

@@ -1,10 +1,11 @@
 {
   "restricted": 0,
   "image": "invalid",
-  "image_copyright": "%26copy%3BHelena Hernmarck",
+  "image_copyright": "%26Acirc%3B%26copy%3BHelena Hernmarck",
   "life_date": "Swedish, active United States, born 1941",
   "nationality": "American",
   "role": "Artist",
+  "artist": "Helena Hernmarck",
   "dated": "1987",
   "culture": null,
   "country": "United States",
@@ -18,7 +19,7 @@
   "marks": "Signature, Title and Date on heading band on back, in black: [\\\"THETA I\\\" / HE",
   "text": "",
   "description": "abstract image woven in rust and pinks, dark at bottom and transitioning to lighter shades at top; pink loops and dash-like marks at center; tan heading band on back",
+  "provenance": "",
   "creditline": "Gift of Helena M. Hernmarck",
-  "accession_number": "2008.57.4                                 ",
-  "artist": "Helena Hernmarck"
+  "accession_number": "2008.57.4"
 }

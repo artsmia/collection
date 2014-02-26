@@ -1,10 +1,11 @@
 {
   "restricted": 0,
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
   "life_date": "Flemish, 1641 - 1711",
   "nationality": "Flemish",
   "role": "Artist",
+  "artist": "Gerard de Lairesse",
   "dated": "17th century",
   "culture": null,
   "country": "Flanders",
@@ -18,7 +19,7 @@
   "marks": "Inscription\r\n\r\nLRC, in pencil: [694]; on back at b ",
   "text": "",
   "description": "Jupiter as a satyr (his PR animal leg faintly visible in deep shadow) with his PR arm around the hips of sleeping nude Antiope, with her arms above her head; oil lamp and tambourine, ULC; curtain behind figures\\' heads; tree, ULQ",
+  "provenance": "",
   "creditline": "Bequest of Harry Drake",
-  "accession_number": "2013.35.694",
-  "artist": "Gerard de Lairesse"
+  "accession_number": "2013.35.694"
 }
