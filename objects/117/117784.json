@@ -5,6 +5,7 @@
   "life_date": null,
   "nationality": "Japanese",
   "role": "Artist",
+  "artist": "Ishikawa Gengaku",
   "dated": "early 19th century",
   "culture": null,
   "country": null,
@@ -15,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/117784",
   "room": "Not on View",
   "style": "19th century",
-  "marks": " [ ????? ]",
+  "marks": " [ 長元徽写意 ]",
   "text": "",
   "description": "",
+  "provenance": "",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
-  "accession_number": "2013.29.649",
-  "artist": "Ishikawa Gengaku"
+  "accession_number": "2013.29.649"
 }
