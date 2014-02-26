@@ -12,7 +12,6 @@ objects:
 				read -r json; \
 				echo $$id; \
 				echo "$$json" | jq '.' > objects/$$bucket/$$id.json; \
-			else \
 			fi; \
 		done \
 	done
