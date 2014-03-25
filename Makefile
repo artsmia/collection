@@ -11,7 +11,7 @@ objects:
 			if [[ $$id = *[[:digit:]]* ]]; then \
 				read -r json; \
 				echo $$id; \
-				echo "$$json" | jq '.' > objects/$$bucket/$$id.json; \
+				echo "$$json" | jq --sort-keys '.' > objects/$$bucket/$$id.json; \
 			fi; \
 		done \
 	done
