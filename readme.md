@@ -2,7 +2,7 @@ Our objects are divided into 'buckets' by their `id / 1000`. Bucket 0
 holds records 0-999; bucket 1, 1000-1999, ….
 
 Each record lives in a json file at `objects/$bucket/$id.json`. Here's
-what [`objects/0/17.json`]() looks like:
+what [`objects/0/17.json`][] looks like:
 
 ```json
 {
