@@ -11,9 +11,11 @@
   "id": "http://api.artsmia.org/objects/31560",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
-  "medium": "ivory",
+  "medium": "Ivory",
   "nationality": null,
   "provenance": "",
   "restricted": 0,
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Netsuke [Owl]"
+  "title": "Owl"
 }

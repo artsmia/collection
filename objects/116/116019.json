@@ -1,9 +1,9 @@
 {
-  "accession_number": "L2013.16a-l",
+  "accession_number": "2014.15a-l",
   "artist": "",
   "continent": "Asia",
   "country": "China",
-  "creditline": "",
+  "creditline": "Gift of funds from C. Curtis Dunnavan",
   "culture": null,
   "dated": "early 19th century",
   "description": "yellow-orange album cover with scroll cutout, edged in gold leaf, beneath outer cover; 11 folded leaves with yellow silk on exterior, each with a gilt vertical strip of paper with black characters; map inside each leaf, with labeled mountains, buildings, roads and fortresses",
@@ -11,9 +11,11 @@
   "id": "http://api.artsmia.org/objects/116019",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
-  "medium": "Ink and colors on paper",
+  "medium": "Ink and colors on silk",
   "nationality": null,
   "provenance": "",
   "restricted": 0,
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Imperial Maps of Eleven Districts in Zhejiang Province"
+  "title": "Maps of Eleven Prefectural Cities in Zhejiang Province"
 }

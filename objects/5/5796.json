@@ -1,6 +1,6 @@
 {
   "accession_number": "98.67.2.6",
-  "artist": "Ts'ai Chia",
+  "artist": "Cai Jia",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/5796",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": "1686-after 1756",
   "marks": "untranslated inscription, on label, on front cover ",
   "medium": "Ink and colors on paper",
@@ -18,7 +20,7 @@
   "provenance": "",
   "restricted": 0,
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G218",
   "style": "18th century",
   "text": "",
   "title": "Leaf from Landscape Album"

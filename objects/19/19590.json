@@ -1,6 +1,6 @@
 {
   "accession_number": "70.23.2",
-  "artist": "Unknown",
+  "artist": "",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The William Hood Dunwoody Fund",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/19590",
   "image": "valid",
   "image_copyright": "",
+  "image_height": 0,
+  "image_width": 0,
   "life_date": null,
   "marks": " ",
   "medium": "Polychrome on paper",
