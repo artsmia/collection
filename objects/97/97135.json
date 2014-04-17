@@ -1,7 +1,7 @@
 {
   "accession_number": "2005.54.3",
   "artist": "",
-  "continent": null,
+  "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
   "culture": null,
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/97135",
   "image": "valid",
   "image_copyright": "",
+  "image_height": 4498,
+  "image_width": 2656,
   "life_date": null,
   "marks": " ",
   "medium": "Ink and colors on silk",
@@ -18,7 +20,7 @@
   "provenance": "",
   "restricted": 0,
   "role": "Artist",
-  "room": "G203",
+  "room": "Not on View",
   "style": "18th-19th century",
   "text": "As indicated by the subject's blue robe adorned with circular <I>shou<I> (longevity) characters, this exquisitely detailed portrait was commissioned to celebrate the birthday of the aristocratic young woman, shown seated at a black-and-gold lacquer table on a garden terrace. She has a fashionable hairstyle and several objects of expensive refinement. On the table near her elbow are a snuff bottle, fan, <I>ruyi<I> (wish granting) scepter, and a porcelain flower vase. At her feet are a blue-and-white jardinière, and an unusual tissue container or sewing box, possibly of Western derivation. Both objects are profusely decorated with butterflies, an auspicious motif, whose character (<I>die<I>) is a pun for the word meaning \"age seventy to eighty,\" another way of wishing someone a long, happy life.\r\n",
   "title": "Birthday Portrait of a Young Manchu Lady"
