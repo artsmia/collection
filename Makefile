@@ -7,7 +7,7 @@ buckets = $$(redis-cli keys 'object:*' | egrep 'object:[0-9]+$$$$' | cut -d ':' 
 objects:
 	for bucket in $(buckets); do \
 		[[ -d objects/$$bucket ]] || mkdir objects/$$bucket; \
-		redis-cli --raw hgetall object:$$bucket | while read id; do \
+		redis-cli --raw hgetall object:$$bucket | grep -v "<br />" | while read id; do \
 			if [[ $$id = *[[:digit:]]* ]]; then \
 				read -r json; \
 				echo $$id; \
