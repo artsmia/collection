@@ -9,10 +9,10 @@
   "description": "Portrait of a man, waist-length, seated.",
   "dimension": "37 1/2 x 32 1/2 x 3 1/4 in. (95.25 x 82.55 x 8.26 cm) (outer frame)\r\n25 1/4 x 30 in. (64.14 x 76.2 cm) (canvas)",
   "id": "http://api.artsmia.org/objects/473",
-  "image": null,
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": null,
-  "image_width": null,
+  "image_height": "",
+  "image_width": "",
   "life_date": "American, 1778 - 1860",
   "marks": " No visible signature.",
   "medium": "Oil on canvas",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "G322",
   "style": "19th century",
-  "text": "Recent conservation of this picture was made possible by a generous contribution from an anonymous patron through the Adopt-a-Painting program.",
+  "text": "The sitter of this portrait, Lewis Warrington, was educated at William and Mary College in Virginia, and entered the United States Navy as a midshipman in 1800. He was commissioned a Lieutenant in 1807, a Master-Commandant in 1813, and a Captain in 1814, when he received a medal from Congress for his successful enterprises during the War of 1812. In this portrait, Peale is as equally interested in the light bouncing off the jacket buttons as he is in capturing the softness of Warrington's facial features. The Commander's portrait represents a very specific type of national hero made popular at this time: that of the well-educated young scholar as heroic military strategist.\r\nRecent conservation of this picture was made possible by a generous contribution from an anonymous patron through the Adopt-a-Painting program.",
   "title": "Portrait of Commander Lewis Warrington (1782-1851)"
 }
