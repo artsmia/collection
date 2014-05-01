@@ -4,17 +4,17 @@
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
-  "culture": null,
-  "dated": "c. 1768",
+  "culture": "Japanese",
+  "dated": "ca. 1768",
   "description": "",
-  "dimension": "10 5/16 x 7 7/8 in. (26.2 x 20 cm) (image, sheet)",
+  "dimension": "10 5/16 × 7 7/8 in. (26.2 × 20 cm) (image, sheet, chūban)",
   "id": "http://api.artsmia.org/objects/8193",
   "image": "valid",
   "image_copyright": "",
   "image_height": 5846,
   "image_width": 4470,
   "life_date": "Japanese, 1725 - 1770",
-  "marks": " Suzuki Harunobu ga",
+  "marks": " [鈴木春信画] {Suzuki Harunobu ga}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with embossing",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "18th century",
   "text": "",
-  "title": "Mitate of a Scene from the Kabuki Play Women's Version of \"Potted Trees\""
+  "title": "Lovers parting by a garden gate"
 }
