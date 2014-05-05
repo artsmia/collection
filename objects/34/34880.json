@@ -4,9 +4,9 @@
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "culture": null,
-  "dated": "c. 1825",
-  "description": "right panel of diptych",
+  "culture": "Japanese",
+  "dated": "late 19th century",
+  "description": "Meiji-period reproduction without artist's seal and cutter and printer marks; with series' title and poem removed",
   "dimension": "8 7/16 x 7 1/16 in. (21.4 x 17.9 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/34880",
   "image": "invalid",
@@ -14,7 +14,7 @@
   "image_height": "",
   "image_width": "",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": " Hokkei ga",
+  "marks": " [北渓画] {Hokkei ga}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Kintarō, Mountain Goblin, and Rooster"
+  "title": "(Kintarô Referees a Match between a Rooster and a Tengu)"
 }

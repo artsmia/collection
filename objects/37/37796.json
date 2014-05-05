@@ -4,9 +4,9 @@
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "culture": null,
-  "dated": "c. 1825",
-  "description": "",
+  "culture": "Japanese",
+  "dated": "late 19th century",
+  "description": "Meiji-period reproduction without artist's seal and cutter and printer marks",
   "dimension": "8 1/4 x 7 5/16in. (21 x 18.6cm)",
   "id": "http://api.artsmia.org/objects/37796",
   "image": "invalid",
@@ -14,8 +14,8 @@
   "image_height": "",
   "image_width": "",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": "2 kyo_ka poems about early spring by Seiyo+kan Ume Hokkei ga",
-  "medium": "Color woodblock print; surimono",
+  "marks": "Poem by Seiyôkan Umeyo: {Harugasumi/ hikishi gyôji [北渓画] {Hokkei ga}",
+  "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
   "restricted": 0,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Red Mountain Boy with Rooster"
+  "title": "No. 1 (Kintarô Referees a Match between a Rooster and a Tengu)"
 }
