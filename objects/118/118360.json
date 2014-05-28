@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.31.161",
-  "artist": "Uematsu Chikuyū 植松竹邑",
+  "artist": "Uematsu Chikuyū",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
@@ -11,8 +11,10 @@
   "id": "http://api.artsmia.org/objects/118360",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": "Japanese, b. 1947",
-  "marks": "Signature etched into bottom, Japanese character",
+  "marks": " etched into bottom, Japanese character",
   "medium": "Bamboo (hōbichiku), rattan, lacquer",
   "nationality": "Japanese",
   "provenance": "",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Fruit basket"
+  "title": "(Lattice basket)"
 }
