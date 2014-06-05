@@ -1,19 +1,21 @@
 {
   "accession_number": "96.146.156.21",
-  "artist": "Keisai Eisen",
+  "artist": "Eisen",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
-  "dated": "c. 1835-1848",
+  "dated": "1830s",
   "description": "",
-  "dimension": "9 x 6 1/4 x 5/16 in. (22.9 x 15.8 x 0.8 cm) (outer frame)",
+  "dimension": "9 x 6 1/4 x 5/16 in. (22.9 x 15.8 x 0.8 cm), hanshibon",
   "id": "http://api.artsmia.org/objects/66001",
   "image": "valid",
   "image_copyright": "",
+  "image_height": 3295,
+  "image_width": 4198,
   "life_date": "Japanese, 1790 - 1848",
   "marks": " Edo gako_(painter) Keisai ga",
-  "medium": "Woodblock printed book; ink and limited color on paper",
+  "medium": "Woodblock printed book; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
   "restricted": 0,
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Images of Floating World ll"
+  "title": "Picture Album of the Floating World, vol. 2"
 }
