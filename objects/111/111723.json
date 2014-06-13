@@ -1,6 +1,6 @@
 {
   "accession_number": "L2011.57.8a,b",
-  "artist": "Shimizu Sachiko",
+  "artist": "Sachiko Shimizu",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Lent by Carol and Jeffrey Horvitz",
@@ -11,14 +11,17 @@
   "id": "http://api.artsmia.org/objects/111723",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": "Japanese, born 1952",
   "marks": " ",
   "medium": "Glazed ceramic",
   "nationality": "Japanese",
+  "provenance": "",
   "restricted": 0,
   "role": "Artist",
   "room": "Not on View",
   "style": "21st century",
   "text": "",
-  "title": "Round covered box"
+  "title": "(Round covered box)"
 }

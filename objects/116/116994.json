@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.29.1213.2",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Virginia Dofflemyer",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/116994",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
   "medium": "Porcelain with glaze",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "18th-19th century",
   "text": "",
-  "title": "Dish"
+  "title": "Plate"
 }

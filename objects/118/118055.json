@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.29.875",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Takako and Victor Hauge",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/118055",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
   "medium": "Silk",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Noh costume (happi)"
+  "title": "(Happi,  waves (tatewaku), roundels with jewels in gold on green)"
 }

@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.29.1152",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/116913",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
   "medium": "Wood",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Wood block"
+  "title": "Woodblock for printing"
 }

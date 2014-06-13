@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.30.20",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "Gift of Elizabeth and Willard Clark",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/118225",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
   "medium": "Bronze with traces of gilding",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "14th century",
   "text": "",
-  "title": "Kakebotoke"
+  "title": "(Kakebotoke)"
 }

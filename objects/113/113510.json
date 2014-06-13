@@ -3,7 +3,7 @@
   "artist": "Mihara Ken",
   "continent": "Asia",
   "country": "Japan",
-  "creditline": null,
+  "creditline": "",
   "culture": null,
   "dated": "21st century",
   "description": "vessel with orange/rust glazes; bottom curves up at sides; top peaks at left and right side; wooden storage box",
@@ -11,14 +11,17 @@
   "id": "http://api.artsmia.org/objects/113510",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": "Japanese, born 1958",
   "marks": " ",
   "medium": "Ceramic, glaze",
   "nationality": "Japanese",
+  "provenance": "",
   "restricted": 0,
   "role": "Artist",
   "room": "Not on View",
   "style": "21st century",
   "text": "",
-  "title": "Large standing vessel"
+  "title": "(Large standing vessel)"
 }
