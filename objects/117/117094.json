@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.29.130",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/117094",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": "[ 大正八年吉祥月日・天祿宗完 ] (An auspicious date, 1919) LRC",
   "medium": "Ink and color on wood",
