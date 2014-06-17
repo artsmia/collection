@@ -14,6 +14,7 @@ objects:
 			fi; \
 		done \
 	done
+	ag -l '%C2%A9|%26Acirc%3B%26copy%' objects/ | xargs sed -i'' -e 's/%C2%A9/©/g; s/%26Acirc%3B%26copy%3B/©/g'
 
 git: objects
 	git add objects/
