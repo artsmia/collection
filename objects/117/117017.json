@@ -1,13 +1,13 @@
 {
   "accession_number": "2013.29.1233",
   "artist": "",
-  "continent": null,
-  "country": null,
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
-  "culture": "Japanese",
+  "culture": null,
   "dated": "19th century",
-  "description": "",
-  "dimension": "2 x 38.5 x 19.5 cm",
+  "description": "carved on both sides; recto:  two rectangular area with text, each containing an image of a blooming potted plant; verso:  one rectangular area at left with text and an image of a blooming potted plant; dark patina",
+  "dimension": "7 7/16 × 15 1/4 × 3/4 in. (18.89 × 38.74 × 1.91 cm)",
   "id": "http://api.artsmia.org/objects/117017",
   "image": "invalid",
   "image_copyright": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Woodblock for printing"
+  "title": "Printing woodblock"
 }
