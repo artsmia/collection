@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.31.53",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/118464",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
   "medium": "Color on wood",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "17th-19th century",
   "text": "",
-  "title": "God of Thunder"
+  "title": "(God of Thunder)"
 }
