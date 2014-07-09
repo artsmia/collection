@@ -1,5 +1,5 @@
 {
-  "accession_number": "2013.29.994",
+  "accession_number": "2013.29.994a,b",
   "artist": "Fujioka Shūhei",
   "continent": null,
   "country": null,
@@ -11,9 +11,11 @@
   "id": "http://api.artsmia.org/objects/118202",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
-  "medium": "Stoneware with Natural ash glaze",
+  "medium": "Stoneware with natural ash glaze",
   "nationality": "Japanese",
   "provenance": "",
   "restricted": 1,
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "21st century",
   "text": "",
-  "title": "Water container (mizusashi)"
+  "title": "Water Container"
 }
