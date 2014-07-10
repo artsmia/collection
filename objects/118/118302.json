@@ -1,18 +1,20 @@
 {
   "accession_number": "2013.31.117",
-  "artist": "Tsujimura Shirō",
-  "continent": null,
-  "country": null,
+  "artist": "Tsujimura Shiro_",
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
   "culture": null,
   "dated": "early 21st century",
-  "description": "",
-  "dimension": null,
+  "description": "irregular, columnar vase with very thick walls; six angled sides; very sharp, knobby texture with gray, tan, and pale blue glazes; small circular opening at top",
+  "dimension": "18 1/4 × 7 1/4 × 6 in. (46.36 × 18.42 × 15.24 cm)",
   "id": "http://api.artsmia.org/objects/118302",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": "born 1947",
-  "marks": " Top rear of piece: (X-like hatch mark)",
+  "marks": "Signature incised at top",
   "medium": "Stoneware with ash glaze",
   "nationality": "Japanese",
   "provenance": "",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "21st century",
   "text": "",
-  "title": "Vase (hanaike)"
+  "title": "Vase"
 }
