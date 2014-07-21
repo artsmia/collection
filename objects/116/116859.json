@@ -1,6 +1,6 @@
 {
   "accession_number": "2013.29.1104",
-  "artist": "Unknown",
+  "artist": "",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -11,6 +11,8 @@
   "id": "http://api.artsmia.org/objects/116859",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
   "marks": " ",
   "medium": "Ink and color on silk",

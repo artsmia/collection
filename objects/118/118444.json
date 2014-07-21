@@ -1,18 +1,20 @@
 {
-  "accession_number": "2013.31.41",
+  "accession_number": "2013.31.41a,b",
   "artist": "Furutani Michio",
-  "continent": null,
-  "country": null,
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
   "culture": null,
   "dated": "c. 1990",
-  "description": "",
-  "dimension": null,
+  "description": "rectangular form with incised outlines in each panel; split top, with square mouth on one side; raised lip in center; black lacquer cover on one end; bulbous layers along one end",
+  "dimension": "9 × 10 1/8 × 6 5/16 in. (22.86 × 25.72 × 16.03 cm)",
   "id": "http://api.artsmia.org/objects/118444",
   "image": "invalid",
   "image_copyright": "",
+  "image_height": "",
+  "image_width": "",
   "life_date": null,
-  "marks": " ",
+  "marks": "Mark ",
   "medium": "Stoneware",
   "nationality": "Japanese",
   "provenance": "",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Water container (mizusashi)"
+  "title": "Water Container"
 }

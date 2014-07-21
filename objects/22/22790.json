@@ -1,20 +1,20 @@
 {
   "accession_number": "81.133.32",
-  "artist": "Utagawa Kunisada",
+  "artist": "Utagawa Kunikazu",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
-  "dated": "1847-1852",
+  "dated": "1847-1851",
   "description": "",
-  "dimension": "8 9/16 x 13 3/8 in. (21.8 x 34 cm) (image)\r\n9 1/8 x 13 7/8 in. (23.1 x 35.3 cm) (sheet)",
+  "dimension": "8 9/16 × 13 3/8 in. (21.8 × 34 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/22790",
   "image": "valid",
   "image_copyright": "",
   "image_height": 1894,
   "image_width": 2869,
-  "life_date": "Japanese, 1786 - 1865",
-  "marks": "Kyo_ka poem by Shinmin Ichiyu_sai Kunisada ga",
+  "life_date": "Japanese, fl. c.1848-1868",
+  "marks": "Kyo_ka poem by Shinmin {Isshûsai Kunikazu ga}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Snow at Matsuchi Hill"
+  "title": "Snow at Matsuchiyama"
 }

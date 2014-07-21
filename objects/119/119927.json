@@ -1,12 +1,12 @@
 {
   "accession_number": "L2014.178.1",
   "artist": "Rubin Nusz",
-  "continent": null,
-  "country": null,
+  "continent": "North America",
+  "country": "United States",
   "creditline": "",
   "culture": null,
   "dated": "2013",
-  "description": "painting with text notes in pencil on graph paper; central image of a row of three colored squares with three rows of five colored squares below and three more colored squares beneath, forming a cross shape; \"MIX STUDY 34\" at top center inside a square in pencil",
+  "description": "painting with text notes in pencil on graph paper; central image of a row of three colored squares with three rows of five colored squares below and three more colored squares beneath, forming a cross shape; \"MIX STUDY 34\" at top center inside a rectangle in pencil",
   "dimension": "16 13/16 × 13 1/2 in. (42.7 × 34.29 cm) (sheet)\r\n21 5/16 × 17 5/8 × 3/4 in. (54.13 × 44.77 × 1.91 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/119927",
   "image": "invalid",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "21st century",
   "text": "",
-  "title": "Mix Study (34)"
+  "title": "Mix Study #34"
 }
