@@ -4,8 +4,8 @@
   "continent": "South America",
   "country": null,
   "creditline": "Gift of Mr. Charles Whitaker",
-  "culture": null,
-  "dated": "Date Unknown",
+  "culture": "Culture and Artist Unknown",
+  "dated": "Unknown",
   "description": "Pre-Columbian",
   "dimension": "1 1/2 x 5/16 x 1/8 in. (3.81 x 0.79 x 0.32 cm)",
   "id": "http://api.artsmia.org/objects/17504",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": null,
   "text": "",
-  "title": "Chisel"
+  "title": "Spatulas"
 }
