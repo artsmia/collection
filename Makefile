@@ -24,4 +24,12 @@ git: objects
 count:
 	find objects/* | wc -l
 
+reset_objects:
+	git co objects; git status -sb | grep objects | grep '??' | cut -d' ' -f2 | xargs rm
+
+watch_changed_ids:
+	redis-cli monitor | grep --line-buffered 'hmset' | while read line; do \
+		echo $$line | cut -d' ' -f6 | sed 's/"//g'; \
+	done
+
 .PHONY: objects git count
