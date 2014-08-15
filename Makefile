@@ -32,4 +32,15 @@ watch_changed_ids:
 		echo $$line | cut -d' ' -f6 | sed 's/"//g'; \
 	done
 
+update:
+	id=$(id)
+	curl --silent api.artsmia.org/objects/$(id)/full/json \
+	| jq --sort-keys '.' \
+	| sed 's/%C2%A9/©/g; s/%26Acirc%3B%26copy%3B/©/g' > objects/$$((id/1000))/$$id.json
+	for host in $(redises); do \
+		cat objects/$$((id/1000))/$$id.json \
+		| jq --sort-keys -c '.' \
+		| redis-cli -h $$host -x hset object:$$((id/1000)) $$id > /dev/null; \
+	done
+
 .PHONY: objects git count
