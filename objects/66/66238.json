@@ -7,15 +7,15 @@
   "culture": null,
   "dated": "late 18th century",
   "description": "",
-  "dimension": "8 15/16 x 6 1/8 in. (22.7 x 15.6 cm) (image, sheet)",
+  "dimension": "8 15/16 × 6 1/8 in. (22.7 × 15.6 cm) (image, sheet, chūban)",
   "id": "http://api.artsmia.org/objects/66238",
   "image": "valid",
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
   "life_date": "Japanese, 1726 - 1793",
-  "marks": "poem(waka) Shunsho_ ga",
-  "medium": "Color woodblock print",
+  "marks": "poem unread {Shunshō ga}",
+  "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
   "restricted": 0,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "18th century",
   "text": "",
-  "title": "Scene 7:In a Boat"
+  "title": "To (scene 7): In a Boat"
 }

@@ -7,14 +7,14 @@
   "culture": null,
   "dated": "c. 1832-1833",
   "description": "",
-  "dimension": "image, sheet: 19 3/8 x 8 9/16 in. (49.2 x 21.8 cm)\r\n27 15/16 x 21 7/8 in. (71 x 55.5 cm) (mat)",
+  "dimension": "19 3/8 x 8 9/16 in. (49.2 x 21.8 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/66215",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2921,
   "image_width": 1331,
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " zen Hokusai Iitsu hitsu",
+  "marks": " {zen Hokusai Iitsu hitsu}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Haku Rakuten(Po Chu-i)"
+  "title": "Haku Rakuten (Po Chu-i)"
 }

@@ -7,14 +7,14 @@
   "culture": "Japanese",
   "dated": "1785",
   "description": "",
-  "dimension": "15 5/16 × 10 3/16 in. (38.9 × 25.8 cm) (image, sheet, ōban)",
+  "dimension": "15 5/16 × 10 3/16 in. (38.9 × 25.8 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/8721",
   "image": "valid",
   "image_copyright": "",
   "image_height": 5281,
   "image_width": 3557,
   "life_date": "Japanese, 1752 - 1815",
-  "marks": " Kiyonaga ga",
+  "marks": " {Kiyonaga ga}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "18th century",
   "text": "",
-  "title": "[Scene from the Kabuki play \"Yukimotsutake furisode Genji\"]"
+  "title": "Scene from the Kabuki play \"Yukimotsutake furisode Genji\""
 }
