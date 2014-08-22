@@ -7,14 +7,14 @@
   "culture": null,
   "dated": "1798-1799",
   "description": "",
-  "dimension": "15 3/16 × 9 3/4 in. (38.5 × 24.7 cm) (image, sheet, ōban)",
+  "dimension": "15 3/16 × 9 3/4 in. (38.5 × 24.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/8212",
   "image": "valid",
   "image_copyright": "",
   "image_height": 5226,
   "image_width": 3405,
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " Utamaro hitsu",
+  "marks": " {Utamaro hitsu}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "18th-19th century",
   "text": "",
-  "title": "\"Hour of the Ram, Young Girls\""
+  "title": "Hour of the Ram, Young Girls"
 }

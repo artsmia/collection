@@ -9,10 +9,10 @@
   "description": "",
   "dimension": "14 1/2 x 11 1/2 in. (36.83 x 29.21 cm) (image)\r\n17 1/2 x 13 3/8 in. (44.45 x 33.97 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/7871",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8026,
+  "image_width": 6465,
   "life_date": "American, 1871 - 1956",
   "marks": " ",
   "medium": "Woodcut",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Promenaders (Spazierganger) (Arceuil)"
+  "title": "Promenaders (Spaziergänger)"
 }

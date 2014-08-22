@@ -5,16 +5,16 @@
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
   "culture": null,
-  "dated": "mid 18th century",
+  "dated": "mid-18th century",
   "description": "",
-  "dimension": "11 7/16 x 5 7/8 in. (29 x 15 cm) (image, sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
+  "dimension": "11 7/16 × 5 7/8 in. (29 × 15 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/34868",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2637,
   "image_width": 1414,
   "life_date": "Japanese, 1711 - 1785",
-  "marks": "Poem about New Year Ishikawa Toyonobu hitsu",
+  "marks": "Poem about New Year {Ishikawa Toyonobu hitsu}",
   "medium": "Woodblock print (benizuri-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "18th century",
   "text": "",
-  "title": "(Two Girls Playing with Thread Ball)"
+  "title": "Two Girls Playing with Thread Ball"
 }
