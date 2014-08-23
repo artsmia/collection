@@ -1,16 +1,18 @@
 {
   "accession_number": "RBL37.240",
-  "artist": "Katsukawa Shunsh?",
+  "artist": "Katsukawa Shunshō",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Francis Little",
   "culture": null,
   "dated": "1770",
   "description": "page from a book",
-  "dimension": "9 9/16 x 6 in. (24.3 x 15.2 cm) (image)\r\n10 5/8 x 6 3/4 in. (27 x 17.2 cm) (sheet)\r\n18 1/16 x 22 1/16 in. (45.8 x 56 cm) (mat) matted with RB37.238",
+  "dimension": "9 9/16 x 6 in. (24.3 x 15.2 cm) (image)",
   "id": "http://api.artsmia.org/objects/89712",
   "image": "valid",
   "image_copyright": "",
+  "image_height": 2604,
+  "image_width": 1675,
   "life_date": "Japanese, 1726 - 1793",
   "marks": " ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -21,5 +23,5 @@
   "room": "Not on View",
   "style": "18th century",
   "text": "",
-  "title": "Ichikawa Somegoro_ as Yoshitaka"
+  "title": "Actor Ichikawa Somegorō as Yoshitaka"
 }
