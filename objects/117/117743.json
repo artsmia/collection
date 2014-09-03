@@ -1,20 +1,20 @@
 {
   "accession_number": "2013.29.613",
   "artist": "Ichikawa Beian",
-  "continent": null,
-  "country": null,
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
   "culture": null,
   "dated": "1836",
-  "description": "",
-  "dimension": null,
+  "description": "25 lines of very neat calligraphy separated by columns of thin, red vertical lines; framed",
+  "dimension": "15 × 33 1/8 in. (38.1 × 84.14 cm) (image)\r\n20 × 51 3/8 × 1 in. (50.8 × 130.49 × 2.54 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/117743",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " L center",
+  "life_date": "Japanese, 1779 - 1858",
+  "marks": "Signature and Seals L center",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": ""
+  "title": "Calligraphy"
 }
