@@ -10,7 +10,8 @@ objects:
 		redis-cli --raw hgetall object:$$bucket | grep -v "<br />" | while read id; do \
 			if [[ $$id = *[[:digit:]]* ]]; then \
 				read -r json; \
-				echo "$$json" | jq --sort-keys '.' > objects/$$bucket/$$id.json; \
+				echo "$$json" | jq --sort-keys '.' > objects/$$bucket/$$id.json 2> /dev/null; \
+				if [[ $$? -gt 0 ]]; then >&2 echo $$id failed; fi; \
 			fi; \
 		done \
 	done
