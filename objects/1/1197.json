@@ -1,19 +1,19 @@
 {
   "accession_number": "51.37.25",
-  "artist": "Herat School",
+  "artist": "Ḥāfiẓ-i Abrū",
   "continent": "Asia",
   "country": "Iran",
   "creditline": "Bequest of Mrs. Margaret McMillan Webber in memory of her mother, Katherine Kittredge McMillan",
   "culture": null,
-  "dated": "c. 1425-1435",
-  "description": "Two pages from the 'Majmu'a-i Tavarikh' (Universal History); exhibited scenes depict Moses overpowering Pharaoh with the aid of a dragon and the dog Qara Braq (Black Lightning), driving the wolves from the sheep; decorative drawing of rocks and clouds",
+  "dated": "1425-1430",
+  "description": "Two pages from the 'Majmu'a-i Tavarikh' (Universal History); exhibited scenes depict Moses overpowering Pharaoh with the aid of a dragon and the dog Qara Braq (Black Lightning), driving the wolves from the sheep; decorative drawing of rocks and clouds\r\n43.31.1 and 51.37.16,.19,.24,.25 are all from the same manuscript, the \"Majma' al-tavarikh.\"",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/1197",
   "image": "valid",
   "image_copyright": "",
   "image_height": 5146,
   "image_width": 3637,
-  "life_date": "Persian; Iran",
+  "life_date": null,
   "marks": " ",
   "medium": "Ink and colors on paper",
   "nationality": null,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "15th century",
   "text": "These are two pages of five owned by the museum from the great Persian text the <I>Majmu'a-i Tavarikh<I>, or <I>Universal History<I>, written by Rashid al-Din in 1318. Shah Rukh (1404-47), amir of Timur, who ruled Iran for the first half of the fifteenth century, commissioned these leaves. The <I>Universal History<I> began with human creation and extended to recent events in Persian history. The exhibited scenes depict Moses overpowering Pharaoh with the aid of a dragon (left) and the dog Qara Braq, or Black Lightning, driving the wolves from the sheep (right). The Moses theme is drawn from the Bible, but the inclusion of the Qara Braq story in the <I>Universal History<I> remains unexplained. The inclusion of the dragon in the Moses leaf and the decorative drawing of the rocks and clouds in the Qara Braq page reflect a Chinese influence.",
-  "title": "Moses Prevailing over Pharaoh (left) The Dog Qara Braq Drives Off the Wolves (right)"
+  "title": "Moses Prevailing over Pharaoh"
 }
