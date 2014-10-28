@@ -63,4 +63,9 @@ departments:
 		> departments/$$id.json; \
 	done;
 
-.PHONY: objects git count departments
+index.csv:
+	find objects -name "*.json" | xargs cat | jq -s -c '.' \
+	| json2csv --fieldList <(jq -r 'to_entries | map(.key) | .[]' objects/0/0.json) \
+	> index.csv
+
+.PHONY: objects git count departments index.csv
