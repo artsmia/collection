@@ -1,13 +1,13 @@
 {
   "accession_number": "L2003.38.1",
   "artist": "Robert Cottingham",
-  "continent": null,
-  "country": null,
+  "continent": "North America",
+  "country": "United States",
   "creditline": "",
   "culture": null,
   "dated": "1992",
-  "description": "Purple detail of train car (?); circular gear (?) at top center; \"RDG\" on pipe in UR; ladder on L",
-  "dimension": "12 3/8 x 12 1/4 in. (31.43 x 31.12 cm) (image)\r\n27 5/8 x 25 1/2 in. (70.17 x 64.77 cm) (sheet)",
+  "description": "detail of train car; purple/orange tones; shows metal ladder UL, wheel in center, letters R, D, G in URC",
+  "dimension": "12 3/8 x 12 1/4 in. (31.43 x 31.12 cm) (image)\r\n27 3/8 × 25 1/4 in. (69.53 × 64.14 cm) (sight)\r\n27 5/8 x 25 1/2 in. (70.17 x 64.77 cm) (sheet)\r\n32 1/2 × 30 in. (82.55 × 76.2 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/66761",
   "image": "invalid",
   "image_copyright": "",
@@ -15,7 +15,7 @@
   "image_width": "",
   "life_date": "American, born 1935",
   "marks": " ",
-  "medium": "Color etching and aquatint",
+  "medium": "Color aquatint, lift ground, spit-bite",
   "nationality": "American",
   "provenance": "",
   "restricted": 0,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Rolling Stock, For Trish, From \"Rolling Stock Portfolio\""
+  "title": "Rolling Stock, For Trish"
 }
