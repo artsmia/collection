@@ -9,10 +9,10 @@
   "description": "large oval domed portrait of John Smith in multicolored beads; diamonds around rim in two rows; portrait of Pocahontas in multicolored beads on inside; two-part band with pear shaped greyish stone on each side of band and faceted diamond at palm side",
   "dimension": "1 11/16 × 1 1/2 × 1 7/8 in. (4.29 × 3.81 × 4.76 cm)",
   "id": "http://api.artsmia.org/objects/120377",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2879,
+  "image_width": 2918,
   "life_date": "American (Kiowa/Comanche)",
   "marks": "Signature on back, above portrait, incised: [OKUMA (upside d",
   "medium": "Antique glass, 24 karat electroplated beads, buckskin, 18 karat yellow gold, sterling silver, wampum shell, fresh water pearls, rose and brilliant cut diamonds and diamond beads, diamond briollites",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Ring, from Pocahontas jewelry set"
+  "title": "Adornment: Iconic Perceptions"
 }
