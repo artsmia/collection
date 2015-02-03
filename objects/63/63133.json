@@ -4,8 +4,8 @@
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Margaret McMillan Webber Estate",
-  "culture": null,
-  "dated": "July 1856",
+  "culture": "Japanese",
+  "dated": "1856, 7th month",
   "description": "",
   "dimension": "13 7/16 × 8 3/4 in. (34.1 × 22.3 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/63133",
@@ -14,7 +14,7 @@
   "image_height": 2728,
   "image_width": 1796,
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige hitsu",
+  "marks": " Hiroshige hitsu 広重筆",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "Kinryuzan, also known as Sensøji, was one of the most frequently visited Buddhist temples in the thriving city of Edo. This fact undoubtedly added to the popularity of Hirishige's woodblock print design showing Kinryuzan and its massive paper lantern in the midst of falling snow. The image was reprinted many times, and the color of the sky varies slightly from edition to edition. Prints with a bright gray sky, like this one, are thought to be from earlier editions. Versions with a blue sky (despite the snow), and a dark gray sky are thought to be later productions. ",
-  "title": "Kinry_zan Temple at Asakusa"
+  "title": "Kinryūzan Temple, Asakusa"
 }
