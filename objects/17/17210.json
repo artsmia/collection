@@ -4,9 +4,9 @@
   "continent": null,
   "country": null,
   "creditline": "",
-  "culture": null,
-  "dated": "Date Unknown",
-  "description": "",
+  "culture": "English",
+  "dated": "c. 1650",
+  "description": "Embroidered picture, stumpwork",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/17210",
   "image": "valid",
@@ -15,7 +15,7 @@
   "image_width": 4593,
   "life_date": null,
   "marks": " ",
-  "medium": null,
+  "medium": "Silk embroidery floss, silk purl, metallic purl, seed pearls, beads, and mica on silk satin",
   "nationality": null,
   "provenance": "",
   "restricted": 0,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": null,
   "text": "",
-  "title": "Stump Work"
+  "title": "Embroidered Picture"
 }
