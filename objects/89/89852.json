@@ -1,13 +1,13 @@
 {
-  "accession_number": "96.146.104.7a,b",
+  "accession_number": "96.146.104.7a-c",
   "artist": "Utagawa Kunisada",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "culture": "Japanese",
+  "culture": null,
   "dated": "c. 1849-1851",
   "description": "right and center sheets of a triptych",
-  "dimension": "14 × 9 13/16 in. (35.5 × 25 cm) (image, sheet, vertical ōban) each sheet",
+  "dimension": "14 × 9 3/4 in. (35.5 × 24.77 cm) (image, sheet, vertical ōban, each)",
   "id": "http://api.artsmia.org/objects/89852",
   "image": "invalid",
   "image_copyright": "",
@@ -15,7 +15,7 @@
   "image_width": "",
   "life_date": "Japanese, 1786 - 1865",
   "marks": " Ichiyōsai Toyokuni ga 一陽齋豊國画 (R); Kokuteisha Toyok",
-  "medium": "Woodblock print (nishiki-e); ink and color on paper",
+  "medium": "Woodblock prints (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
   "restricted": 0,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Autumn (right and center sheets)"
+  "title": "Autumn"
 }
