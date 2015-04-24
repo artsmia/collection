@@ -9,10 +9,10 @@
   "description": "five horizontal bands (top to bottom)  two figures and boat with birds at left, two figures with tree at right; locusts, butterflies and horses; two figures, chickens, quail and locusts; rabbits, oxen and sheep; dogs, fish, two figures, locusts and ants; red ground; crinkled paper; framed",
   "dimension": "H.38-11/16 x W.26-1/4 in. (sheet, irregular)",
   "id": "http://api.artsmia.org/objects/31324",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 11553,
+  "image_width": 7945,
   "life_date": "Japanese, 1913-1996",
   "marks": "Signature; Date ",
   "medium": "Woodblock print; ink and color on paper",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Biblical Scenes"
+  "title": "Noah's Ark"
 }
