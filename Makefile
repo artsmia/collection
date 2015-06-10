@@ -55,4 +55,12 @@ check_public_access:
 	ag -l '"public_access": 1' private/objects | while read file; do mv $$file $${file#private/}; echo $$file ' -> public'; done
 	time ag -l public_access {private/,}objects | while read file; do grep -v public_access $$file | sponge $$file; done
 
-.PHONY: objects git count
+departments:
+	@curl --silent $(internalAPI)/departments/ | jq -r 'map([.department, .department_id])[][]' | while read name; do \
+		read id; \
+		curl --silent $(internalAPI)/departments/$$id \
+		| jq --arg name "$$name" --arg id "$$id" '{name: $$name, id: $$id, artworks: map(.object_id)}' \
+		> departments/$$id.json; \
+	done;
+
+.PHONY: objects git count departments
