@@ -9,10 +9,10 @@
   "description": "conical, bowl-shaped top section; conical base has three tiers of rectangular perforations in incised bands with perforations connected by incised wavy lines; two bands of wavy incised lines, separated by pairs of ribs, on top section; blackish-grey patina",
   "dimension": "13 1/4 × 14 7/16 × 14 1/4 in. (33.66 × 36.67 × 36.2 cm)",
   "id": "http://api.artsmia.org/objects/122560",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3240,
+  "image_width": 2458,
   "life_date": null,
   "marks": " ",
   "medium": "Stoneware with incised design of wavy lines",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "5th century",
   "text": "",
-  "title": "Stand with tall, perforated base"
+  "title": "Tall stand with perforated base"
 }
