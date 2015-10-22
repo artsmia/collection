@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.65.1.11",
-  "artist": "Suzuki Harunobu",
+  "artist": "Suzuki Harunobu; Text by Komatsuya Hyakki; Published by Nishimuraya Yohachi",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The William Hood Dunwoody Fund",
@@ -9,10 +9,10 @@
   "description": "young couple engaged in intercourse in foreground; woman tugs on man's penis; woman wears white kimono and beads around her wrist; young man wears a blue-grey kimono and looks at a bracelet of beads in his PR hand; tiny man standing in LRC; two figures at left walking the dark with a white lantern with red zigzags; text in cloud at top of image, in LRC, above young man and above sword at bottom center",
   "dimension": "8 5/16 × 11 7/16 in. (21.11 × 29.05 cm) (sheet, horizontal chūban)",
   "id": "http://api.artsmia.org/objects/119708",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3720,
+  "image_width": 5078,
   "life_date": "Japanese, 1725 - 1770",
   "marks": "[...] ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "18th century",
-  "text": "",
+  "text": "A young couple are nearly discovered at night as they try to have their last encounter before committing double-suicide; Mane'emon contemplates how to prevent the tragedy and resolves to hide the short sword to prevent them from breaking the hearts of their parents.",
   "title": "The Place of the Heart, No. 11 from the book Elegant Erotic Mane'emon (Fūryū enshoku Mane'emon), vol. 1"
 }

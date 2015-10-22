@@ -9,10 +9,10 @@
   "description": "accordion-folded book, printed on both sides of pages; cover is dark grey paper with light blue leather geometric form and white horizontal line; illustrated with primarily geometric designs, maps and numbers in bright colors; Euclidean propositions and author's text narrative alternate; clamshell storage box covered with black and white woven cloth",
   "dimension": "13 1/2 × 11 1/8 × 1 1/8 in. (34.29 × 28.26 × 2.86 cm) (book only, closed)",
   "id": "http://api.artsmia.org/objects/120753",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Russell Maret",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6749,
+  "image_width": 9145,
   "life_date": "American, born 1971",
   "marks": "Signature and Edition on last page, in pencil: [Russell Maret]",
   "medium": "Color letterpress polymer prints, photo-polymer letterpress; bound accordian-style book",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "21st century",
-  "text": "",
+  "text": "Acclaimed book artist and typographer Russell Maret embraces the fine art of letterpress printing in this exquisitely produced illustrated volume that explores Euclidean geometry from an unusually personal perspective. His most ambitious book project to date, Interstices & Intersections is based on Euclid’s Elements, a highly influential third century BC treatise on geometry that consists of 13 books containing a total of 465 propositions and proofs. In Maret’s book, the study of geometry is considered from both a logical and personal perspective, with color illustrations and commentary provided by the artist. For this contemplation on Euclid, Maret chose to explore a single proposition for each of the thirteen books. He noted that they were chosen “not for their relationship to each other but for their relevance in my life.”",
   "title": "Interstices & Intersections or, An Autodidact Comprehends a Cube. Thirteen Euclidean Propositions."
 }

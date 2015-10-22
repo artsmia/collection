@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.65.1.2",
-  "artist": "Suzuki Harunobu",
+  "artist": "Suzuki Harunobu; Text by Komatsuya Hyakki; Published by Nishimuraya Yohachi",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The William Hood Dunwoody Fund",
@@ -9,10 +9,10 @@
   "description": "man in black kimono forcibly embracing a young girl in a purple flowered kimono, pinning girl to the floor; tiny man peering through hole in side panel of a bench in URQ; two cats on sill in LRQ; cloud at top with text and text in five areas on left half of image",
   "dimension": "8 1/4 × 11 1/2 in. (20.96 × 29.21 cm) (sheet, horizontal chūban)",
   "id": "http://api.artsmia.org/objects/119699",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3698,
+  "image_width": 5102,
   "life_date": "Japanese, 1725 - 1770",
   "marks": "in cloud: [まね右衛門　仙女よりさづかりし土の団子を食して姿を消し　それより新開仕間<しん ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "18th century",
-  "text": "",
+  "text": "Mane'emon's first encounter is to witness a calligraphy teacher taking advantage of a young pupil by forcing himself on her while promising to promote her ahead of her fellow students. She protests: \"Oh my master, please let me go.\" Mane'emon hides beneath the table and expresses his outrage at the teacher's reprehensible behavior: \"Poor girl\", and points out his large nose- a feature associated with people of an evil nature. As Mane’emon disapproves of the scene, it is left to the cats on the verandah to take up the responsibility of mimicking the action in this print.",
   "title": "Forced Love, No. 2 from the book Elegant Erotic Mane'emon (Fūryū enshoku Mane'emon), vol. 1"
 }

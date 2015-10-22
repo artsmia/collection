@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.62.2",
-  "artist": "Jim Dine",
+  "artist": "Jim Dine; Pace Editions, New York",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mary and Bob Mersky",
@@ -9,10 +9,10 @@
   "description": "multicolored robe on blue-green ground; green brushstrokes in bottom margin; grey texture in top margin",
   "dimension": "33 1/4 × 22 1/4 in. (84.46 × 56.52 cm) (image)\r\n38 1/2 × 28 1/4 in. (97.79 × 71.76 cm) (sheet)\r\n46 7/8 × 36 5/16 × 1 in. (119.06 × 92.23 × 2.54 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/119569",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7694,
+  "image_width": 5725,
   "life_date": "American, born 1935",
   "marks": "Signature, Date and Edition bottom center, in pencil: [Jim Dine]; LRC, in penc",
   "medium": "Color lithograph, soft-ground etching and power-tool drypoint with hand-coloring",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
-  "text": "",
+  "text": "Though Jim Dine resisted the label of \"Pop artist,” his work is replete with objects, words, and other motifs that are common to the Pop lexicon. Indeed, he has regularly explored the role that familiar objects play in everyday life, regarding them as \"a vocabulary of feelings.\" But unlike most Pop artists, Dine favored painterly techniques, a largely subjective approach that can in part be traced to the avant-garde experiments of the abstract expressionists. In this hand-colored print, Dine presents an exuberant version of his familiar motif of the “standing bathrobe,” a recurrent theme that along with the heart, hand, skull, and tools, can be interpreted as an emblematic self-portrait. The empty robe appears animated, almost defiant, as if it was being worn by some invisible entity. Its bold patchwork of color and shape serves as a witty take on the artist’s creative identity and character.",
   "title": "The Robe in France"
 }

@@ -9,10 +9,10 @@
   "description": "",
   "dimension": "12 3/4 x 8 3/8 in. (32.39 x 21.27 cm)",
   "id": "http://api.artsmia.org/objects/92834",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9610,
+  "image_width": 6872,
   "life_date": null,
   "marks": " ",
   "medium": "Opaque colors and gold on paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "G211",
   "style": "19th century",
-  "text": "This painting provides a window onto a scene of temple worship.  The maharanas of Udaipur traced their lineage to Surya, the sun god, and served as the religious and spiritual leaders of their kingdom. The haloed maharana offers his prayers to a goddess icon, which stands in front of a vivid textile.  The main priest wears orange robes and is depicted in the middle of a puja ceremony, holding a flickering oil lamp to illuminate the divine.  Below them is a Shiva linga, which has been decorated with flowers and unguents as part of the ritual. ",
+  "text": "This painting provides a window onto a scene of temple worship.  The maharanas of Udaipur traced their lineage to Surya, the sun god, and served as the religious and spiritual leaders of their kingdom. The haloed maharana offers his prayers to a goddess icon, which stands in front of a vivid textile.  The main priest wears orange robes and is depicted in the middle of a puja ceremony, holding a flickering oil lamp to illuminate the divine.  Below them is a Shiva linga, which has been decorated with flowers and unguents as part of the ritual. \r\n",
   "title": "A Maharana of Mewar Worshipping an Icon"
 }

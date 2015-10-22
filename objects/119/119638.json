@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.65.1.1",
-  "artist": "Suzuki Harunobu",
+  "artist": "Suzuki Harunobu; Text by Komatsuya Hyakki; Published by Nishimuraya Yohachi",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The William Hood Dunwoody Fund",
@@ -9,10 +9,10 @@
   "description": "kneeling man at left wearing black jacket and green and white striped kimono with purple trim; two standing small women on a cloud at right; woman at left wearing green kimono with purple and white obi; woman at right wears purple kimono and red and green striped obi; text in a cloud at top and at right edge in grey area",
   "dimension": "8 5/16 × 11 9/16 in. (21.11 × 29.37 cm) (sheet, horizontal chūban)",
   "id": "http://api.artsmia.org/objects/119638",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3762,
+  "image_width": 5242,
   "life_date": "Japanese, 1725 - 1770",
   "marks": "[...] ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with embossing",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "18th century",
-  "text": "",
+  "text": "Ukiyonosuke in his original size encounters the famous beauties, Osen of the Kagaya teahouse who is representing the Ryushin shrine, and Ofuji of the Yanagi-ya who represents the Kinryuzan shrine. They offer him the magic shrinking potion in response to his prayers for greater wisdom.",
   "title": "Ukiyonosuke Meets Ofuji and Osen at Ryushinzan Shrine, No. 1 from the book Elegant Erotic Mane'emon (Fūryū enshoku Mane'emon), vol. 1"
 }

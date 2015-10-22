@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.65.1.9",
-  "artist": "Suzuki Harunobu",
+  "artist": "Suzuki Harunobu; Text by Komatsuya Hyakki; Published by Nishimuraya Yohachi",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The William Hood Dunwoody Fund",
@@ -9,10 +9,10 @@
   "description": "woman partially seated on a white horse, wearing a red plaid kimono and a wide-brimmed hat, engaged in intercourse with a standing man wearing green knee-high socks; tiny man smoking a pipe seated beneath a tree in LRC; text in URC in a cloud; three areas of text at bottom on grey path",
   "dimension": "8 5/16 × 11 1/4 in. (21.11 × 28.58 cm) (sheet, horizontal chūban)",
   "id": "http://api.artsmia.org/objects/119706",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3720,
+  "image_width": 4999,
   "life_date": "Japanese, 1725 - 1770",
   "marks": "in cloud: [湯治そふおふして　それより江戸へおもむく道すがら　さま／＼のいちやつきを見て心 ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "18th century",
-  "text": "",
+  "text": "The gait of her trotting horse has put a travelling beauty into the mood so she seduces the horse driver while waiting for a ferry; the enthusiastic attendant waives his fee and offers to take her two stops further to the Kumagaya embankment on the Arakawa River.",
   "title": "From Ikaho to Edo, No. 9 from the book Elegant Erotic Mane'emon (Fūryū enshoku Mane'emon), vol. 1"
 }

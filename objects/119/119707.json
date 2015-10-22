@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.65.1.10",
-  "artist": "Suzuki Harunobu",
+  "artist": "Suzuki Harunobu; Text by Komatsuya Hyakki; Published by Nishimuraya Yohachi",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The William Hood Dunwoody Fund",
@@ -9,10 +9,10 @@
   "description": "couple in foreground engaged in intercourse; man in green kimono pushes a woman in a purple kimono with white flowers and a red and white striped obi to the floor; tiny man in a blue kimono with white dots hiding beneath shallow baskets of leaves at right; seated older man wearing loincloth at right; text at top in cloud, to left of woman, in LRC and to left of tiny man",
   "dimension": "8 5/16 × 11 3/8 in. (21.11 × 28.89 cm) (sheet, horizontal chūban)",
   "id": "http://api.artsmia.org/objects/119707",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3726,
+  "image_width": 5073,
   "life_date": "Japanese, 1725 - 1770",
   "marks": "[...] ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "18th century",
-  "text": "",
+  "text": "Mane'emon hides beneath silk worm trays in a farmer's house as a young husband pushes his wife to the floor for a hasty encounter because he is aroused by the Azuma nishiki-e ('brocade pictures from the Eastern capital,’ probably shunga) which his brother brought back as a souvenir from Edo.",
   "title": "Sericulture Chamber, No. 10 from the book Elegant Erotic Mane'emon (Fūryū enshoku Mane'emon), vol. 1"
 }

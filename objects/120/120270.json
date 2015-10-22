@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.125.2",
-  "artist": "Jim Dine",
+  "artist": "Jim Dine; Petersburg Press, London and New York",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Donald McNeil and Emily Galusha",
@@ -9,10 +9,10 @@
   "description": "black and white image of hand tools in a row--pliers, wrench, roller, mallet--including pink scissors with large handles and short blades",
   "dimension": "27 13/16 × 23 15/16 in. (70.64 × 60.8 cm) (plate)\r\n43 9/16 × 28 15/16 in. (110.65 × 73.5 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/120270",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8625,
+  "image_width": 5884,
   "life_date": "American, born 1935",
   "marks": "Signature, Date and Edition LLC below image, in red pencil: [12/30  Jim Dine  ",
   "medium": "Etching with watercolor additions",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
-  "text": "",
+  "text": "Jim Dine's fascination with hand tools grew out of his childhood experiences visiting his father’s and grandfather's Cincinnati hardware store. For Dine, the tool is an extension of the hand, emblematic of the physical nature of work, including the work of the artist in his studio. In this example, he presents an array of hand tools posed like figures on a stage or in a group portrait. The tools depicted hold a personal as well as historical meaning for the artist and includes a number of the etching tools Dine used in his studio.",
   "title": "Pink Chinese Scissors"
 }

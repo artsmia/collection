@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.121.4",
-  "artist": "Luis Jimenez",
+  "artist": "Luis Jimenez; Segura Publishing Company",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Plauz Family Endowment",
@@ -9,10 +9,10 @@
   "description": "sketchy image of nude man at center being carried with his arms around a female skeleton with breasts at left and a nude woman with her hair in a bun at right",
   "dimension": "27 11/16 × 21 13/16 in. (70.33 × 55.4 cm) (image)\r\n34 1/16 × 28 in. (86.52 × 71.12 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/120364",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Estate Luis Jimenez %2F Artists Rights Society %28ARS%29%2C New York",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9256,
+  "image_width": 7610,
   "life_date": "American, 1940 - 2006",
   "marks": "Signature, Title, Date, Inscription, Edition and S bottom center, in the print: [ENTRE LA PUTA Y A MU",
   "medium": "Lithograph on Japan paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
-  "text": "",
+  "text": "In this lithograph from 1992, Jimenez presents an allegorical subject featuring his own father, a great inspiration in his life, who was ill and nearing death at the time. Here, he is depicted as a frail, old man being supported by Santa Muerte (Mexico’s Saint of Death), at his right, and a female prostitute, at his left. The female skeletal figure, Santa Muerte, is a personification of death associated with healing, protection, and safe passage to the \r\nafterlife. Like the prostitute, Santa Muerte is an autonomous force whose indulgence can be bought with a sacrifice. Often associated with Dia de los Muertos (Day of the Dead) celebrations, she is honored primarily in Mexico and the Southwestern United States.",
   "title": "Entre la Puta y Muerte"
 }

@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.116",
-  "artist": "Marco Alvise Pitteri",
+  "artist": "Marco Alvise Pitteri; Francesco Bartolozzi; After Giovanni Battista Piazzetta; Giambattista Piazzetta",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Winton Jones Endowment Fund for Prints and Drawings",
@@ -9,10 +9,10 @@
   "description": "oblong, mottled, dark-brown calf leather binding containing 48 engraved plates on speckled paper",
   "dimension": "12 1/8 × 16 3/4 in. (30.8 × 42.5 cm)",
   "id": "http://api.artsmia.org/objects/120598",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6785,
+  "image_width": 9571,
   "life_date": "Italian, 1702 - 1786",
   "marks": " ",
   "medium": "Book with 48 engraved plates",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "G316",
   "style": "18th century",
-  "text": "This elegant book for the apprentice artist is illustrated with drawings by the painter Giovanni Battista Piazzetta, a star in 18th-century Venice. He was a master in creating dramatic effects from deep shadows in contrast with bright lightening, which enhances the volumes and gives an almost palpable texture to the surface. This stylistic aspect is very evident from the plates engraved by Pitteri in this manual, even those devoted to apparently minor portions of the human body. Hands and feet were, in fact, among the most difficult parts studied by the artists. ",
+  "text": "This drawing manual features 24 designs by the celebrated Venetian draftsman and painter Giovanni Battista Piazzetta. He produced the drawings shortly before his death for the planned publication of this drawing manual. Such books were common teaching tools for artists and amateurs learning to draw in the 18th century. Piazzetta’s drawings are reproduced in the book in pairs, with 24 simple outline prints by Francesco Bartolozzi interleaved with 24 tonal engravings of the same designs by Marco Pitteri. Bartolozzi’s linear prints provide simpler forms for the beginning draftsman to copy. Pitteri’s prints, on the other hand, achieve a more dramatic effect, with vibrant softened lines and an impressive range of tones that convincingly model the forms in the compositions.",
   "title": "Studi di Pittura già dissegnati da Giambatista Piazzetta ed ora con l'intaglio di Marco Pitteri"
 }

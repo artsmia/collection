@@ -9,10 +9,10 @@
   "description": "irregularly, organically shaped vessel with gradients of indigo green to lime green; tall, very narrow spout at top",
   "dimension": "7 7/8 × 6 3/4 × 6 3/4 in. (20 × 17.15 × 17.15 cm)",
   "id": "http://api.artsmia.org/objects/6637",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3240,
+  "image_width": 2338,
   "life_date": "Japanese, 1933 - 2009",
   "marks": "Signature and Marks underside in dark red pigment",
   "medium": "Porcelain with overglaze enamel decoration",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
-  "text": "",
+  "text": "九谷 Kutani type",
   "title": "Bottle"
 }

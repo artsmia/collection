@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.121.3",
-  "artist": "Luis Jimenez",
+  "artist": "Luis Jimenez; Segura Publishing Company",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Plautz Family Endowment",
@@ -9,10 +9,10 @@
   "description": "standing purple and blue bird seen from PR, squawking, with beak open",
   "dimension": "22 1/8 × 29 7/8 in. (56.2 × 75.88 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/120363",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Estate Luis Jimenez %2F Artists Rights Society %28ARS%29%2C New York",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6042,
+  "image_width": 8135,
   "life_date": "American, 1940 - 2006",
   "marks": "Signature, Title, Date, Inscription, Edition and S LRC, in the print: [\\\"CHULA\\\"]; LRC, in pencil: [Lui",
   "medium": "Color lithograph",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
-  "text": "",
+  "text": "In Latino culture, “chula” is Spanish slang for “pretty woman” or “sweetie.” Here, Jimènez uses the word as the title for his exuberant rendering of a great-tailed grackle, a bird native to Texas and the American Southwest known for its violet-blue iridescent plumage, long tail feathers, and distinctive, ear-splitting call. \r\nSometimes called the “devil bird,” this grackle is a boisterous mischief-maker well adapted to urban environments. Jimènez satirically plays on this notion by equating this flamboyant, but irritating bird with street-wise Latino men who deliver catcalls to Latino women.",
   "title": "Chula"
 }

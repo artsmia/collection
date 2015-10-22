@@ -1,6 +1,6 @@
 {
   "accession_number": "2014.87.3",
-  "artist": "Manolo Valdes",
+  "artist": "Manolo Valdes; Published by Marlborough Graphics, New York",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of James P. Quinn",
@@ -9,10 +9,10 @@
   "description": "image of bottle with collage element of wine bottle label printed in red, black and gold; black scribbled lines on ground",
   "dimension": "13 1/4 × 9 11/16 in. (33.66 × 24.61 cm) (plate)\r\n25 5/8 × 19 15/16 in. (65.09 × 50.64 cm) (sheet)\r\n31 3/4 × 24 7/8 × 1 in. (80.65 × 63.18 × 2.54 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/119519",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Manolo Valdes",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6985,
+  "image_width": 5473,
   "life_date": "Spanish, b. 1942",
   "marks": "Signature and Edition LRC below image, in pencil: [M VALDES]",
   "medium": "Color etching with unique color collage",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
-  "text": "",
+  "text": "Spanish painter, sculptor and printmaker Manolo Valdés is internationally acclaimed for his often whimsical motifs that typically reinterpret art and artists of the past. Like much of his graphic work, the color etching Botello de vino is a witty visual pretense whose simple still life subject is presented in the form of negative space. Using figure-ground ambiguity, Valdés implies the presence of a bottle resting on a surface by inserting a background of dense, vigorously drawn crosshatching around the form of a bottle. He then collages an actual wine label on the “bottle” to complete the illusion. Each impression in the edition of 50 is unique, with each wine bottle featuring a different vintner’s label. Valdés’s inclusion of a collaged wine label in the composition recalls his early interest in Pop art, whose American and British adherents often used commercial imagery in their work.",
   "title": "Botello de vino"
 }

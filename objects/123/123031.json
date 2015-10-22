@@ -9,10 +9,10 @@
   "description": "images of men and women--primarily couples, several small groups of figures--of various ethnicities, wearing various costumes and with differing hairstyles and headgear; Asian, European, African and North American figures; map of Northern Hemisphere at end of scroll; inscriptions above each group of figures",
   "dimension": "14 × 387 in. (35.56 × 982.98 cm) (image, approx.)\r\n14 × 398 7/16 in. (35.56 × 1012.03 cm) (overall, approx.)",
   "id": "http://api.artsmia.org/objects/123031",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 4905,
+  "image_width": 7127,
   "life_date": null,
   "marks": " ",
   "medium": "Ink and color on paper",
@@ -22,6 +22,6 @@
   "role": "Artist",
   "room": "Not on View",
   "style": "17th century",
-  "text": "",
+  "text": "This 17th-century Japanese handscroll illustrates peoples from 40 different nations, each identified by name. The appearance of Portuguese, Spanish, and Dutch explorers, missionaries, and merchants in Japan in the mid-16th century had a significant impact on the arts. Foreign subjects became popular motifs and depictions of tall foreigners in exotic cloths can be found in paintings as well as on lacquer well into the second half of the 17th century.",
   "title": "Handscroll of People of Many Nations"
 }
