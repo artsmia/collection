@@ -1,11 +1,11 @@
 {
   "accession_number": "2015.93.171",
-  "artist": "Charles-Emile Jacque",
+  "artist": "Charles-Émile Jacque",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Elizabeth, Julie, and Catherine Andrus in memory of John and Marion Andrus",
   "culture": null,
-  "dated": "mid 19th century",
+  "dated": "mid-19th century",
   "description": "two white horses grazing in front of a fence; thick grove of trees behind at L; two smaller trees at R with higher, thin vegetation",
   "dimension": "1 11/16 × 4 1/8 in. (4.29 × 10.48 cm) (image)\r\n2 3/8 × 4 3/4 in. (6.03 × 12.07 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/122037",
@@ -13,9 +13,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1813 - 1894",
-  "marks": "Signature and Marks TC in print: ch. j",
-  "medium": "Etching on buff chine collé",
+  "life_date": "French, 1813-1894",
+  "marks": "Signature\r\n\r\nin pencil at bottom margin: [Paysage  signed in plate at upper center: [ch. j...]",
+  "medium": "Etching on chine collé",
   "nationality": "French",
   "provenance": "",
   "restricted": 0,
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Paysage"
+  "title": "Landscape"
 }
