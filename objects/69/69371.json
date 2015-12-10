@@ -4,17 +4,17 @@
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
-  "culture": "Japanese",
+  "culture": null,
   "dated": "1857, 11th month",
   "description": "",
-  "dimension": "14 7/16 x 9 15/16 in. (36.6 x 25.2 cm) (image, sheet)",
+  "dimension": "14 7/16 × 9 15/16 in. (36.6 × 25.2 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/69371",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2826,
   "image_width": 1949,
   "life_date": "Japanese, 1823 - 1880",
-  "marks": " Bai_cho_ro_ Kunisada ga",
+  "marks": " 梅蝶楼国貞画 {Baichôrô Kunisada ga}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,5 +23,5 @@
   "room": "Not on View",
   "style": "19th century",
   "text": "",
-  "title": "Illusion"
+  "title": "No. 41, Maboroshi"
 }
