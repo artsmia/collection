@@ -6,6 +6,7 @@
   "creditline": "Gift of Mrs. Patrick Butler",
   "culture": null,
   "dated": "1923",
+  "department": "Paintings",
   "description": "Portrait.",
   "dimension": "49 x 34 3/4 in. (124.46 x 88.27 cm) (sight)\r\n49 1/2 x 41 1/4 in. (125.73 x 104.78 cm) (canvas)\r\n55 3/4 x 41 1/4 x 2 1/2 in. (141.61 x 104.78 x 6.35 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/21172",
@@ -19,8 +20,9 @@
   "nationality": "American",
   "provenance": "",
   "restricted": 1,
+  "rights_type": "Need Permission",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G263",
   "style": "20th century",
   "text": "Recent conservation of this picture was made possible by a generous contribution from Sam and Patty McCullough through the Adopt-a-Painting program.",
   "title": "Self Portrait"

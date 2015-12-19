@@ -6,6 +6,7 @@
   "creditline": "Gift of The Fashion Institute of Technology",
   "culture": null,
   "dated": "1970-1975",
+  "department": "Textiles",
   "description": "woven velvet printed with abstract floral design in greens, reds, purples",
   "dimension": "9 x 11 3/4 in. (22.86 x 29.85 cm)",
   "id": "http://api.artsmia.org/objects/8495",
@@ -19,9 +20,10 @@
   "nationality": null,
   "provenance": "",
   "restricted": 0,
+  "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
   "style": "20th century",
   "text": "",
-  "title": "Velvet panela\r\n"
+  "title": "Velvet panela"
 }
