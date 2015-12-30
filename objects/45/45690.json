@@ -5,7 +5,8 @@
   "country": "Egypt",
   "creditline": "Gift of the Minneapolis Public Library Board",
   "culture": "Egyptian",
-  "dated": "712-663 B.C.",
+  "dated": "712-663 BCE",
+  "department": "Art of Africa and the Americas",
   "description": "Mummy wrapped in linen; fragments of painted linen cartonnage attached to and surrounding feet, attached to lower body.\r\nCoffin, wood, painted. Numerous cracks in case, top and bottom. Paint flaking or absent.",
   "dimension": "65 1/2 in. (166.4 cm)",
   "id": "http://api.artsmia.org/objects/45690",
@@ -19,9 +20,10 @@
   "nationality": null,
   "provenance": "",
   "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "style": "8th-7th century B.C.",
+  "style": "8th-7th century BCE",
   "text": "",
   "title": "Mummy and coffin"
 }

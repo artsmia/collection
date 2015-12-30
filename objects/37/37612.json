@@ -1,11 +1,12 @@
 {
   "accession_number": "L96.106.55",
-  "artist": "",
+  "artist": "Unknown Korean",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Bequest of Louis W. Hill, Jr.",
-  "culture": "Korean",
+  "culture": null,
   "dated": "12th-13th century",
+  "department": "Japanese and Korean Art",
   "description": "green with incises decoration of plants and concentric circles on inside; 6 sections on stem; foot of bowl is brown; other #'s 42",
   "dimension": "3 3/8 x 5 3/4 in. (8.57 x 14.61 cm)",
   "id": "http://api.artsmia.org/objects/37612",
@@ -19,9 +20,10 @@
   "nationality": null,
   "provenance": "",
   "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "style": "12th-13th century",
   "text": "",
-  "title": "Stem bowl\r\n"
+  "title": "Stem bowl"
 }

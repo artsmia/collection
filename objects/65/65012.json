@@ -5,7 +5,8 @@
   "country": null,
   "creditline": "Lent by Kim and Gloria Anderson",
   "culture": "Egyptian",
-  "dated": "c. 100-30 B.C.",
+  "dated": "c. 100-30 BCE",
+  "department": "Chinese, South and Southeast Asian Art",
   "description": "footcase painted with two feet wearing sandals; geometric patterned ornamentation; pigment colors orange, beige, red, steel blue, light blue",
   "dimension": "4 x 6 x 8 1/4 in. (10.16 x 15.24 x 20.96 cm)",
   "id": "http://api.artsmia.org/objects/65012",
@@ -19,9 +20,10 @@
   "nationality": null,
   "provenance": "",
   "restricted": 0,
+  "rights_type": null,
   "role": "Artist",
   "room": "Not on View",
-  "style": "Late Ptolemaic Period, 1st century B.C.",
+  "style": "1st century BCE",
   "text": "",
   "title": "Footcase from Cartonnage Mummy Trapping"
 }
