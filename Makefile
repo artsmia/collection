@@ -51,8 +51,8 @@ update:
 	done
 
 check_public_access:
-	ag -l '"public_access": 0' objects | while read file; do mkdir private/$$(dirname $$file) 2>/dev/null; mv $$file private/$$file; echo $$file ' -> private'; done
-	ag -l '"public_access": 1' private/objects | while read file; do mv $$file $${file#private/}; echo $$file ' -> public'; done
+	ag -l '"public_access": "0"' objects | while read file; do mkdir private/$$(dirname $$file) 2>/dev/null; mv $$file private/$$file; echo $$file ' -> private'; done
+	ag -l '"public_access": "1"' private/objects | while read file; do mv $$file $${file#private/}; echo $$file ' -> public'; done
 	time ag -l public_access {private/,}objects | while read file; do grep -v public_access $$file | sponge $$file; done
 
 departments:
