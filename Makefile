@@ -20,6 +20,7 @@ objects:
 	ag -l '%C2%A9|%26Acirc%3B%26copy%' {private/,}objects/ | xargs sed -i'' -e 's/%C2%A9/©/g; s/%26Acirc%3B%26copy%3B/©/g'
 
 git: objects check_public_access
+	git add --all departments/
 	for dir in . private; do \
 		cd $$dir; \
 		git add --all objects/; \
