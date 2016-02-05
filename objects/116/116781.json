@@ -10,12 +10,13 @@
   "description": "tall, celadon vase with wide top tapering to narrow base; short, raised neck with wide lip; vertical inscribed lines with pattern of short, intersecting lines with grass pattern",
   "dimension": "14 5/8 × 9 11/16 × 9 11/16 in. (37.15 × 24.61 × 24.61 cm)",
   "id": "http://api.artsmia.org/objects/116781",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3872,
+  "image_width": 2592,
+  "inscription": "Signature",
   "life_date": "Korean",
-  "marks": "Signature bottom: 池光高麗青磁研究所　池福善作",
+  "markings": "",
   "medium": "Porcelain with celadon glaze",
   "nationality": "Korean",
   "provenance": "",
@@ -23,7 +24,8 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom: 池光高麗青磁研究所　池福善作",
   "style": "20th century",
   "text": "",
-  "title": "Maebyoeng with grass pattern"
+  "title": "Maebyeong with grass pattern"
 }
