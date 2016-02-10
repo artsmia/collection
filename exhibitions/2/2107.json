@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2107,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Art of the Samurai",
+  "begin": 1986,
+  "end": 1987,
+  "display_date": "Wednesday, June 18, 1986 - Sunday, January 04, 1987",
+  "objects": []
 }

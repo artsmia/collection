@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1886,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Japanese Woodblock Prints from Different Editions",
+  "begin": 2008,
+  "end": 2009,
+  "display_date": "Saturday, September 13, 2008 - Sunday, March 01, 2009",
+  "objects": []
 }

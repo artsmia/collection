@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1933,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Rembrandt After Three Hundred Years",
+  "begin": 1969,
+  "end": 1970,
+  "display_date": "Tuesday, December 23, 1969 - Sunday, February 01, 1970",
+  "objects": []
 }

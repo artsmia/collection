@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1893,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Foot in the Door 2000",
+  "begin": 2000,
+  "end": 2000,
+  "display_date": "Sunday, January 09, 2000 - Sunday, April 02, 2000",
+  "objects": []
 }

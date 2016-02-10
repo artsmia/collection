@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2000,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Eye of the Composer",
+  "begin": 1979,
+  "end": 1980,
+  "display_date": "Friday, September 21, 1979 - Sunday, January 27, 1980",
+  "objects": []
 }

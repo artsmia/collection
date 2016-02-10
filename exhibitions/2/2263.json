@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2263,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "People in Porcelain",
+  "begin": 2002,
+  "end": 2003,
+  "display_date": "Friday, October 04, 2002 - Sunday, March 02, 2003",
+  "objects": []
 }

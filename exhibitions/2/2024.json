@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2024,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Photography of the Fifties: An American Perspective",
+  "begin": 1980,
+  "end": 1981,
+  "display_date": "Sunday, December 14, 1980 - Saturday, February 28, 1981",
+  "objects": []
 }

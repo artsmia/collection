@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2283,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
+  "exhibition_title": "A Dozen Plus: Highlights of Craft from the Collection 2015",
+  "begin": 2015,
+  "end": 0,
   "display_date": null,
-  "objects": [
-    null
-  ]
+  "objects": []
 }

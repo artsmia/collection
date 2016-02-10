@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1828,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Recent Acquisitions - June 2002 - January 2003",
+  "begin": 2002,
+  "end": 2003,
+  "display_date": "Saturday, June 01, 2002 - Sunday, January 12, 2003",
+  "objects": []
 }

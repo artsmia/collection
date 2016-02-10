@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1254,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Foot in the Door 4",
+  "begin": 2010,
+  "end": 2010,
+  "display_date": "Friday, February 19, 2010 - Sunday, June 13, 2010",
+  "objects": []
 }

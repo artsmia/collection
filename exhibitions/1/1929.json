@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1929,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Past Rediscovered: French Painting 1800-1900",
+  "begin": 1969,
+  "end": 1969,
+  "display_date": "Thursday, July 03, 1969 - Sunday, September 07, 1969",
+  "objects": []
 }

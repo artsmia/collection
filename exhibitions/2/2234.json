@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2234,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Italian Drawings from the Katalan Collection",
+  "begin": 1995,
+  "end": 1995,
+  "display_date": "Saturday, July 15, 1995 - Sunday, September 10, 1995",
+  "objects": []
 }

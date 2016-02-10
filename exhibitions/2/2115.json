@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2115,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
+  "exhibition_title": "Selections from a Minnesota Collection",
+  "begin": 1985,
+  "end": 1985,
   "display_date": null,
-  "objects": [
-    null
-  ]
+  "objects": []
 }

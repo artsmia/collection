@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1736,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "German Art of the Late '80's",
+  "begin": 1989,
+  "end": 1989,
+  "display_date": "Saturday, March 18, 1989 - Sunday, June 11, 1989",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2011,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Foot in the Door Show",
+  "begin": 1980,
+  "end": 1980,
+  "display_date": "Friday, April 04, 1980 - Sunday, May 25, 1980",
+  "objects": []
 }

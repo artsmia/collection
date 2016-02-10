@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2227,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "John Willenbecher 1972 and 1992",
+  "begin": 1993,
+  "end": 1993,
+  "display_date": "Sunday, September 19, 1993 - Monday, November 15, 1993",
+  "objects": []
 }

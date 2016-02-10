@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2226,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Dark Side: Phantasmagoria",
+  "begin": 1993,
+  "end": 1993,
+  "display_date": "Saturday, September 25, 1993 - Wednesday, December 01, 1993",
+  "objects": []
 }

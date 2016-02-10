@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2188,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Silent Fires: Book Conservation for the Nineties",
+  "begin": 1990,
+  "end": 1991,
+  "display_date": "Saturday, October 13, 1990 - Sunday, March 03, 1991",
+  "objects": []
 }

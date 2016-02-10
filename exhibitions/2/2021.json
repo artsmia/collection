@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2021,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Recent Accessions II: Prints from Five Centuries",
+  "begin": 1980,
+  "end": 1981,
+  "display_date": "Friday, October 03, 1980 - Sunday, January 04, 1981",
+  "objects": []
 }

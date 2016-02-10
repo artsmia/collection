@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1960,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "David Hockney: Travels with Pen, Pencil, and Ink",
+  "begin": 1978,
+  "end": 1978,
+  "display_date": "Friday, August 04, 1978 - Sunday, September 17, 1978",
+  "objects": []
 }

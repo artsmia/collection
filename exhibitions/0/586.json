@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 586,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Aristide Maillol",
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Friday, January 31, 2003 - Sunday, July 20, 2003",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2213,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Holiday Traditions in the Period Rooms 1992-1993",
+  "begin": 1992,
+  "end": 1993,
+  "display_date": "Thursday, December 03, 1992 - Sunday, January 10, 1993",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2003,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Arakawa Drawings from the Fiterman Collection",
+  "begin": 1979,
+  "end": 1980,
+  "display_date": "Wednesday, December 12, 1979 - Sunday, February 17, 1980",
+  "objects": []
 }

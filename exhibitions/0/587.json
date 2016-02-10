@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 587,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "1c Life: A Modern Art Classic",
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Saturday, May 03, 2003 - Sunday, October 26, 2003",
+  "objects": []
 }

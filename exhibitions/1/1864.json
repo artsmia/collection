@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1864,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Arms & Armor from the Metropolitan Museum of Art",
+  "begin": 2006,
+  "end": 2007,
+  "display_date": "Tuesday, January 31, 2006 - Sunday, December 30, 2007",
+  "objects": []
 }

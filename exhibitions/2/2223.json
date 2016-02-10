@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2223,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Three Portfolios: Arbus, Avedon, and Selkirk",
+  "begin": 1993,
+  "end": 1993,
+  "display_date": "Saturday, July 24, 1993 - Sunday, October 03, 1993",
+  "objects": []
 }

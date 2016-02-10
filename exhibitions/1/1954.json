@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1954,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Modern Paintings from the Permanent Collection",
+  "begin": 1978,
+  "end": 1978,
+  "display_date": "Saturday, January 07, 1978 - Sunday, November 19, 1978",
+  "objects": []
 }

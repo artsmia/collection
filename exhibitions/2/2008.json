@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2008,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Recent Accessions: Modern American Prints",
+  "begin": 1980,
+  "end": 1980,
+  "display_date": "Saturday, January 19, 1980 - Sunday, April 13, 1980",
+  "objects": []
 }

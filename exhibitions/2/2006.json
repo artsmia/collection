@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2006,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Eve Sonneman: Photographs",
+  "begin": 1980,
+  "end": 1980,
+  "display_date": "Friday, January 11, 1980 - Sunday, March 09, 1980",
+  "objects": []
 }

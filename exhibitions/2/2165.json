@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2165,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Degas in Minneapolis",
+  "begin": 1989,
+  "end": 1989,
+  "display_date": "Thursday, April 06, 1989 - Sunday, July 30, 1989",
+  "objects": []
 }

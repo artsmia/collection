@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2178,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Whistler's Chelsea",
+  "begin": 1990,
+  "end": 1990,
+  "display_date": "Saturday, April 07, 1990 - Saturday, June 30, 1990",
+  "objects": []
 }

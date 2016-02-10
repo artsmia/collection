@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1936,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Christmas Festival 1953",
+  "begin": 1953,
+  "end": 1953,
+  "display_date": "Friday, December 11, 1953 - Sunday, December 13, 1953",
+  "objects": []
 }

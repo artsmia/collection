@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2147,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Christmas in the Period Rooms 1987-1988",
+  "begin": 1987,
+  "end": 1988,
+  "display_date": "Thursday, December 03, 1987 - Sunday, January 03, 1988",
+  "objects": []
 }

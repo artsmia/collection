@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1935,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Christmas: Deck the Halls",
+  "begin": 1975,
+  "end": 1976,
+  "display_date": "Wednesday, December 17, 1975 - Monday, January 05, 1976",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1504,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
+  "exhibition_title": "TEST Exhibition record",
+  "begin": 2013,
+  "end": 2015,
   "display_date": null,
-  "objects": [
-    null
-  ]
+  "objects": []
 }

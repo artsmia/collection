@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2104,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Young People's Ofrenda 2012",
+  "begin": 2012,
+  "end": 2012,
+  "display_date": "Tuesday, October 23, 2012 - Sunday, December 02, 2012",
+  "objects": []
 }

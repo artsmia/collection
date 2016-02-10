@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1950,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Recent Accessions: European Prints",
+  "begin": 1977,
+  "end": 1978,
+  "display_date": "Wednesday, November 09, 1977 - Sunday, January 15, 1978",
+  "objects": []
 }

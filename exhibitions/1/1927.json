@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1927,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Younger View: Gallery Club exhibition",
+  "begin": 1968,
+  "end": 1968,
+  "display_date": "Saturday, June 08, 1968 - Friday, June 28, 1968",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 666,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Hmong Migration",
+  "begin": 2004,
+  "end": 2004,
+  "display_date": "Friday, May 21, 2004 - Sunday, July 11, 2004",
+  "objects": []
 }

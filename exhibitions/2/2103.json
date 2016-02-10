@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2103,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
+  "exhibition_title": "Christmas in the Period Rooms 1984-1985",
+  "begin": 1984,
+  "end": 1985,
   "display_date": null,
-  "objects": [
-    null
-  ]
+  "objects": []
 }

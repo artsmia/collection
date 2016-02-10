@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1842,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Canaletto's Etchings",
+  "begin": 1978,
+  "end": 1978,
+  "display_date": "Thursday, February 09, 1978 - Sunday, July 02, 1978",
+  "objects": []
 }

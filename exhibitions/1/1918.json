@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1918,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Two Sides of the Modern: Maverix ReMix",
+  "begin": 2011,
+  "end": 2013,
+  "display_date": "Saturday, February 19, 2011 - Sunday, March 10, 2013",
+  "objects": []
 }

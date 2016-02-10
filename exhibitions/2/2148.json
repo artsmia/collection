@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2148,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Small Press Books",
+  "begin": 1987,
+  "end": 1988,
+  "display_date": "Friday, December 04, 1987 - Sunday, June 19, 1988",
+  "objects": []
 }

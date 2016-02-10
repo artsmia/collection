@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1994,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "One of a Kind: Recent Polaroid Color Photography",
+  "begin": 1979,
+  "end": 1979,
+  "display_date": "Sunday, July 01, 1979 - Sunday, August 12, 1979",
+  "objects": []
 }

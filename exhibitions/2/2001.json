@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2001,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Old Master Drawings from the Ashmolean",
+  "begin": 1979,
+  "end": 1979,
+  "display_date": "Sunday, November 18, 1979 - Monday, December 31, 1979",
+  "objects": []
 }

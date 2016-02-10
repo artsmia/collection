@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1995,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Cape Light: Color Photographs by Joel Meyerowitz",
+  "begin": 1979,
+  "end": 1979,
+  "display_date": "Tuesday, August 21, 1979 - Sunday, September 30, 1979",
+  "objects": []
 }

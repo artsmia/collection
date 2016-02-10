@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1934,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Education of the Craftsman: Silver",
+  "begin": 1975,
+  "end": 1975,
+  "display_date": "Wednesday, February 12, 1975 - Saturday, March 08, 1975",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1786,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Frankenstude",
+  "begin": 1997,
+  "end": 1997,
+  "display_date": "Tuesday, July 22, 1997 - Sunday, August 17, 1997",
+  "objects": []
 }

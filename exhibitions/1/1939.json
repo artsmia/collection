@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1939,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "European Drawings from the Fitzwilliam Museum, Cambridge",
+  "begin": 1977,
+  "end": 1977,
+  "display_date": "Saturday, June 18, 1977 - Sunday, August 07, 1977",
+  "objects": []
 }

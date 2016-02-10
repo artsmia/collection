@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 566,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Richard Shelton and Piotr Szyhalski",
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Friday, October 10, 2003 - Sunday, November 30, 2003",
+  "objects": []
 }

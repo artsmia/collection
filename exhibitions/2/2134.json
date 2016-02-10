@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2134,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Photographs Beget Photographs",
+  "begin": 1987,
+  "end": 1987,
+  "display_date": "Saturday, January 24, 1987 - Sunday, March 29, 1987",
+  "objects": []
 }

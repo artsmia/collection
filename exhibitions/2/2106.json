@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2106,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Photographers of the Weimar Republic",
+  "begin": 1986,
+  "end": 1986,
+  "display_date": "Saturday, June 14, 1986 - Sunday, August 10, 1986",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1966,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Christmas in the Period Rooms 1978-1979",
+  "begin": 1978,
+  "end": 1979,
+  "display_date": "Thursday, December 14, 1978 - Tuesday, January 02, 1979",
+  "objects": []
 }

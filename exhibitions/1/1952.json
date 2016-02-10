@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1952,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Same But Different",
+  "begin": 2015,
+  "end": 2015,
+  "display_date": "Saturday, March 07, 2015 - Sunday, October 25, 2015",
+  "objects": []
 }

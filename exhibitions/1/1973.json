@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1973,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Private Press Books in the Library",
+  "begin": 1978,
+  "end": 1978,
+  "display_date": "Friday, July 07, 1978 - Sunday, October 22, 1978",
+  "objects": []
 }

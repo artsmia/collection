@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2168,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "William Morris and His Circle",
+  "begin": 1989,
+  "end": 1989,
+  "display_date": "Wednesday, January 25, 1989 - Sunday, June 04, 1989",
+  "objects": []
 }

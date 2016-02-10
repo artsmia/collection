@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2009,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Léger's 'Le Grand Déjeuner': A Masterpiece from the Museum of Modern Art",
+  "begin": 1980,
+  "end": 1980,
+  "display_date": "Thursday, April 10, 1980 - Sunday, June 01, 1980",
+  "objects": []
 }

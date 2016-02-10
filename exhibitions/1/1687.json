@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1687,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Vikings",
+  "begin": 1981,
+  "end": 1981,
+  "display_date": "Tuesday, March 03, 1981 - Sunday, May 03, 1981",
+  "objects": []
 }

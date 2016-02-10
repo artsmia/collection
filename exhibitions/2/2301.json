@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2301,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Rembrandt's Lucretias",
+  "begin": 1992,
+  "end": 1992,
+  "display_date": "Saturday, January 18, 1992 - Sunday, May 03, 1992",
+  "objects": []
 }

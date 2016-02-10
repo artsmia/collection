@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2051,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Silver: The Collection of the Minneapolis Institute of Arts",
+  "begin": 1981,
+  "end": 1982,
+  "display_date": "Friday, November 20, 1981 - Sunday, June 06, 1982",
+  "objects": []
 }

@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1962,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Techniques",
+  "begin": 1978,
+  "end": 1978,
+  "display_date": "Thursday, September 28, 1978 - Saturday, April 22, 1978",
+  "objects": []
 }

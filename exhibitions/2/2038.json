@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2038,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Sandy Skoglund",
+  "begin": 1981,
+  "end": 1982,
+  "display_date": "Saturday, December 19, 1981 - Sunday, February 07, 1982",
+  "objects": []
 }

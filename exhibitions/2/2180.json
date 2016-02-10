@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2180,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
+  "exhibition_title": "The Chrysanthemum in Japanese Art",
+  "begin": 2008,
+  "end": 2009,
   "display_date": null,
-  "objects": [
-    null
-  ]
+  "objects": []
 }

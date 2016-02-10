@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1767,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Sixth Minnesota Biennial",
+  "begin": 1970,
+  "end": 1970,
+  "display_date": "Thursday, May 07, 1970 - Sunday, June 07, 1970",
+  "objects": []
 }

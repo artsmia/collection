@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 1700,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Art of Japanese Screen Painting",
+  "begin": 1984,
+  "end": 1985,
+  "display_date": "Sunday, October 21, 1984 - Tuesday, January 01, 1985",
+  "objects": []
 }

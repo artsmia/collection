@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2013,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "The Tokaido Road: Ando Hiroshige",
+  "begin": 1980,
+  "end": 1980,
+  "display_date": "Saturday, May 03, 1980 - Sunday, August 03, 1980",
+  "objects": []
 }

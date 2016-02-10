@@ -1,11 +1,9 @@
 {
-  "exhibition_id": null,
+  "exhibition_id": 2253,
   "exhibition_department": null,
-  "exhibition_title": null,
-  "begin": null,
-  "end": null,
-  "display_date": null,
-  "objects": [
-    null
-  ]
+  "exhibition_title": "Recent Accessions 2000-2001",
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Saturday, July 29, 2000 - Sunday, April 22, 2001",
+  "objects": []
 }
