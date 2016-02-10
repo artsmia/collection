@@ -139,6 +139,18 @@ Please use this data. When you do,
 * Obey the terms of this license and our image policy.
 * Enjoy!
 
+## Contributing
+
+We're happy to hear your thoughts on our data: what you think of it, how you're using it, and if there's anything you'd like to see changed. The best way to communicate in regards to this data is by using github ["issues"](https://github.com/artsmia/collection/issues) and ["pull requests"](https://github.com/artsmia/collection/pulls).
+
+However, this repo is largely generated[º](./Makefile) from our upstream "collection management software" ([TMS][]). Making enhancements to the generated `json` files is a fantastic way to point out better ways we can represent data, or alert us to possible improvements. Such pull requests won't be merged directly, but instead factored into future improvements to our data pipeline.
+
+[TMS]: http://jfkutech.wikispaces.com/The+Museum+System+(TMS)
+
+## Updates
+
+Hundreds of records can change on any given day. Updates are committed to this dataset [approximately once per day](https://github.com/artsmia/collection/commits).
+
 ## See also
 
 * [What's on view at Mia dot `csv`](https://github.com/miabot/galleries.csv)
