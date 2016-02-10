@@ -68,7 +68,7 @@ exhibitions:
 	curl --silent 'http://api.artsmia.org/exhibitions' | jq '.[].exhibition_id' | while read id; do \
 		bucket=$$((id/1000)); \
 		[[ -d exhibitions/$$bucket ]] || mkdir exhibitions/$$bucket; \
-		curl --silent "http://api.artsmia.org/exhibitions/$$id" | jq '.exhibition + {objects: [.objects[] | values]}' > exhibitions/$$bucket/$$id.json; \
+		curl --silent "http://api.artsmia.org/exhibitions/$$id" | jq '.exhibition + {objects: [.objects[] | values] | sort}' > exhibitions/$$bucket/$$id.json; \
 		if [[ $$? -gt 0 ]]; then >&2 echo $$id failed; fi; \
 	done;
 
