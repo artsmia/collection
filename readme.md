@@ -1,10 +1,10 @@
-A collection of metadata associated with the collection of the [Minneapolis Institute of Arts](http://artsmia.org/).
+A collection of metadata associated with the collection of the [Minneapolis Institute of Art](http://artsmia.org/).
 
-The [MIA's mission](http://new.artsmia.org/about/museum-info/mission-and-history/) is to enrich the community
+[Mia's mission](http://new.artsmia.org/about/museum-info/mission-and-history/) is to enrich the community
 
-> by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures.  
+> by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures.
 
-To increase access to the MIA's outstanding art, we've published metadata for ~90,000 artworks as `JSON` under a [CC0](#cc0-by) license.
+To increase access to Mia's outstanding art, we've published metadata for our artworks as `JSON` under a [CC0](#cc0-by) license.
 
 ## Why
 
@@ -12,7 +12,7 @@ This is the same data that we publish on our [collections
 website](https://collections.artsmia.org). Having everything on its own
 page is a great way to browse, but taken as a whole it's much easier to
 see the overall shape of the data. For example, if someone wants
-to know how many artists have work at the MIA,
+to know how many artists have work at Mia,
 
 ```bash
 $ find objects -name "*.json" | xargs cat \
@@ -45,7 +45,7 @@ experimentation that isn't possible with our collections website alone.
 
 ## Use
 
-The MIA identifies objects curatorially by *accession number*. Computertorially, we use numeric `object id`s beacuse they're easier to deal with.
+Mia identifies objects curatorially by *accession number*. Computertorially, we use numeric `object id`s beacuse they're easier to deal with.
 
 Each record lives at `objects/$bucket/$id.json`, where 'bucket' is `object id / 1000`. So `0/` holds records 0 through 999; `1/` holds 1000-1999; etc. Here's what [`objects/0/17.json`][] looks like:
 
@@ -83,7 +83,7 @@ Each record lives at `objects/$bucket/$id.json`, where 'bucket' is `object id / 
 
 ## Images
 
-**Images aren't included under the same license as this metadata**. Reference images are available under the MIA's [Image Access & Use](http://new.artsmia.org/visit/policies-guidelines/#image_access_and_use) policy.
+**Images aren't included under the same license as this metadata**. Reference images are available under Mia's [Image Access & Use](http://new.artsmia.org/visit/policies-guidelines/#image_access_and_use) policy.
 
 There aren't images of every object in the collection. Of the objects
 that have been photographed, some are restricted by copyright.
@@ -104,14 +104,14 @@ The Creative Commons Zero (**[CC0][]**) Public Domain Dedication allows this dat
 
 Please use this data. When you do,
 
-* Attribute the MIA and mention [`artsmia/collection`](https://github.com/artsmia/collection).
+* Attribute Mia and mention [`artsmia/collection`](https://github.com/artsmia/collection).
 * [Pull request](https://help.github.com/articles/creating-a-pull-request) your changes, or [issue](https://github.com/artsmia/collection/issues) ideas and discussion.
 * Obey the terms of this license and our image policy.
 * Enjoy!
 
 ## See also
 
-* [What's on view at the MIA dot `csv`](https://github.com/miabot/galleries.csv)
+* [What's on view at Mia dot `csv`](https://github.com/miabot/galleries.csv)
 * [Europeana](http://www.europeana.eu/)
 * [Cooper-Hewitt](http://labs.cooperhewitt.org/2012/releasing-collection-github/) ([cooperhewitt/collection](https://github.com/cooperhewitt/collection/))
 * [DPLA](http://dp.la/info/2013/12/04/cc0-by/)
