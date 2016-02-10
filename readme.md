@@ -45,6 +45,8 @@ experimentation that isn't possible with our collections website alone.
 
 ## Use
 
+### Objects
+
 Mia identifies objects curatorially by *accession number*. Computertorially, we use numeric `object id`s beacuse they're easier to deal with.
 
 Each record lives at `objects/$bucket/$id.json`, where 'bucket' is `object id / 1000`. So `0/` holds records 0 through 999; `1/` holds 1000-1999; etc. Here's what [`objects/0/17.json`][] looks like:
@@ -81,7 +83,7 @@ Each record lives at `objects/$bucket/$id.json`, where 'bucket' is `object id / 
 
 [`objects/0/17.json`]: https://github.com/artsmia/collection/blob/master/objects/0/17.json
 
-## Images
+### Images
 
 **Images aren't included under the same license as this metadata**. Reference images are available under Mia's [Image Access & Use](http://new.artsmia.org/visit/policies-guidelines/#image_access_and_use) policy.
 
@@ -94,6 +96,34 @@ that have been photographed, some are restricted by copyright.
 Feel free to use unrestricted images for "limited non-commercial and educational purposes". When the copyright owner of an artwork is known, it will be in `"image_copyright": "…"`. [Commercial licensing is handled through Bridgeman Images](http://www.bridgemanimages.com/en-GB/collections/collection/minneapolis-institute-of-arts/).
 
 Image thumbnails are accessible by their `object id` in three sizes: `http://api.artsmia.org/images/$id/{small,medium,large}.jpg`. Small images are `100px` on the long side, medium images `600px` and large images `800px`.
+
+### Exhibitions
+
+Are organized in "buckets" just like objects.
+
+```json
+{
+  "exhibition_id": 734,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Warren MacKenzie: The Legacy of an American Potter",
+  "begin": 2007,
+  "end": 2007,
+  "display_date": "Saturday, May 19, 2007 - Sunday, August 26, 2007",
+  "objects": [
+    62773,
+    62774,
+    62775,
+    62776,
+    62777,
+    62778,
+    62779,
+    62789,
+    62790
+  ]
+}
+```
+
+[`exhibitions/0/734.json`][./exhibitions/0/734.json]
 
 ## **[CC0][] [(+BY)][]**
 
