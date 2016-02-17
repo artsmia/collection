@@ -7,5 +7,19 @@
   "display_date": "Saturday, October 10, 2009 - Sunday, May 23, 2010",
   "objects": [
     10449
+  ],
+  "venues": [
+    {
+      "venue": "University of Michigan Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Saturday, October 10, 2009 - Sunday, January 3, 2010"
+    },
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Sunday, February 21, 2010 - Sunday, May 23, 2010"
+    }
   ]
 }

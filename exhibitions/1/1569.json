@@ -7,5 +7,19 @@
   "display_date": "Saturday, October 19, 2013 - Monday, July 14, 2014",
   "objects": [
     6239
+  ],
+  "venues": [
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, February 9, 2014"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Sunday, March 16, 2014 - Monday, July 14, 2014"
+    }
   ]
 }

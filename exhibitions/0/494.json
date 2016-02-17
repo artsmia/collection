@@ -7,5 +7,13 @@
   "display_date": "Friday, February 14, 2003 - Sunday, June 15, 2003",
   "objects": [
     1414
+  ],
+  "venues": [
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Friday, February 14, 2003 - Sunday, June 15, 2003"
+    }
   ]
 }

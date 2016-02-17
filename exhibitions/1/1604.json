@@ -7,5 +7,19 @@
   "display_date": "Friday, March 28, 2014 - Sunday, October 19, 2014",
   "objects": [
     77
+  ],
+  "venues": [
+    {
+      "venue": "Musée des Impressionnismes Giverny",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Friday, March 28, 2014 - Sunday, June 29, 2014"
+    },
+    {
+      "venue": "National Galleries of Scotland",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Saturday, July 19, 2014 - Sunday, October 19, 2014"
+    }
   ]
 }

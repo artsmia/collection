@@ -7,5 +7,13 @@
   "display_date": "Friday, November 01, 1946 - Sunday, December 01, 1946",
   "objects": [
     17274
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1946,
+      "end": 1946,
+      "display_date": "Friday, November 1, 1946 - Sunday, December 1, 1946"
+    }
   ]
 }

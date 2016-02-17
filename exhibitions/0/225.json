@@ -7,5 +7,13 @@
   "display_date": "Sunday, February 27, 2000 - Sunday, June 04, 2000",
   "objects": [
     33359
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Sunday, February 27, 2000 - Sunday, June 4, 2000"
+    }
   ]
 }

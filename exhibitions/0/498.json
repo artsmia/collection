@@ -91,5 +91,13 @@
     62232,
     62233,
     62235
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Friday, May 24, 2002 - Sunday, November 10, 2002"
+    }
   ]
 }

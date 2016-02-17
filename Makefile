@@ -64,12 +64,30 @@ departments:
 		> departments/$$id.json; \
 	done;
 
+exhibitionIds = $$(curl --silent 'http://api.artsmia.org/exhibitions' | jq '.[].exhibition_id')
 exhibitions:
-	curl --silent 'http://api.artsmia.org/exhibitions' | jq '.[].exhibition_id' | while read id; do \
+	@for id in $(exhibitionIds); do \
 		bucket=$$((id/1000)); \
 		[[ -d exhibitions/$$bucket ]] || mkdir exhibitions/$$bucket; \
-		curl --silent "http://api.artsmia.org/exhibitions/$$id" | jq '.exhibition + {objects: [.objects[] | values] | sort}' > exhibitions/$$bucket/$$id.json; \
-		if [[ $$? -gt 0 ]]; then >&2 echo $$id failed; fi; \
+		file=exhibitions/$$bucket/$$id.json; \
+		curl --silent "http://api.artsmia.org/exhibitions/$$id" | jq '.exhibition + {objects: [.objects[] | values] | sort}' > $$file; \
+		if [[ $$? -gt 0 ]]; then \
+			>&2 echo $$id failed; \
+			rm $$file; \
+		else \
+		if jq --exit-status '.objects | length > 0' $$file > /dev/null; then \
+				venues=$$(jq -r '.objects[0]' $$file \
+				| xargs -I "{}" curl --silent "http://api.artsmia.org/exhibitions/object/{}" \
+				| grep -v '^<' \
+				| jq "[.exhibitions[] | select(.exhibition_id == $$id) | { \
+					venue: (.venue // .[\"1\"]), begin: .begin, end: .end, display_date: .display_date \
+				}]"); \
+			else venues="[]"; fi; \
+			withVenues=$$(jq --arg venues "$$venues" '. + {venues: $$venues | fromjson}' $$file); \
+			if [[ $$? -eq 0 ]]; then jq '.' <<<$$withVenues > $$file; fi; \
+		fi; \
 	done;
+
+test:
 
 .PHONY: objects git count departments exhibitions

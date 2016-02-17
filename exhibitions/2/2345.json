@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 2345,
+  "exhibition_department": "Art of Africa and the Americas",
+  "exhibition_title": "The Fierce and the Fancy: Urban Masks from Sierra Leone",
+  "begin": 2016,
+  "end": 2016,
+  "display_date": "Saturday, March 05, 2016 - Sunday, November 20, 2016",
+  "objects": [
+    124359,
+    124360,
+    124361,
+    124362,
+    124363,
+    124364,
+    124365,
+    124366
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Saturday, March 5, 2016 - Sunday, November 20, 2016"
+    }
+  ]
+}

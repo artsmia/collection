@@ -29,5 +29,13 @@
     106313,
     106322,
     106412
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, October 4, 2008 - Sunday, March 1, 2009"
+    }
   ]
 }

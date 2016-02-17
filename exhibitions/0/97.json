@@ -78,5 +78,13 @@
     38545,
     38569,
     38669
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1997,
+      "end": 1999,
+      "display_date": "Saturday, February 8, 1997 - Sunday, May 4, 1997"
+    }
   ]
 }

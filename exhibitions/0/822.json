@@ -1,7 +1,7 @@
 {
   "exhibition_id": 822,
   "exhibition_department": "(not assigned)",
-  "exhibition_title": "hPeter Henry Emerson and American Naturalistic Photography",
+  "exhibition_title": "Peter Henry Emerson and American Naturalistic Photography",
   "begin": 2008,
   "end": 2009,
   "display_date": "Saturday, May 03, 2008 - Sunday, August 16, 2009",
@@ -90,5 +90,13 @@
     105865,
     105866,
     105867
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, May 3, 2008 - Sunday, September 7, 2008"
+    }
   ]
 }

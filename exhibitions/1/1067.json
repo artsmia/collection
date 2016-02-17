@@ -7,5 +7,25 @@
   "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012",
   "objects": [
     10513
+  ],
+  "venues": [
+    {
+      "venue": "Smithsonian American Art Museum",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, March 11, 2011 - Monday, September 5, 2011"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, October 15, 2011 - Sunday, January 8, 2012"
+    },
+    {
+      "venue": "Georgia Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, February 18, 2012 - Monday, April 16, 2012"
+    }
   ]
 }

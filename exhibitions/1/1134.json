@@ -56,5 +56,13 @@
     112692,
     112693,
     112694
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, September 16, 2011 - Sunday, January 29, 2012"
+    }
   ]
 }

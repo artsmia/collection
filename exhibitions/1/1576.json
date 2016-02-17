@@ -7,5 +7,19 @@
   "display_date": "Wednesday, October 15, 2014 - Sunday, May 17, 2015",
   "objects": [
     529
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 15, 2014 - Sunday, January 18, 2015"
+    },
+    {
+      "venue": "Rijksmuseum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Thursday, February 12, 2015 - Sunday, May 17, 2015"
+    }
   ]
 }

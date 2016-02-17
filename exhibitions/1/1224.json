@@ -24,5 +24,13 @@
     42115,
     42116,
     42120
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Saturday, March 5, 2005 - Sunday, August 28, 2005"
+    }
   ]
 }

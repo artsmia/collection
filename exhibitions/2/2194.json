@@ -1,7 +1,7 @@
 {
   "exhibition_id": 2194,
   "exhibition_department": "(not assigned)",
-  "exhibition_title": "The Renaissance.  The Emergence of Europe",
+  "exhibition_title": "The Renaissance. The Emergence of Europe",
   "begin": 2016,
   "end": 2016,
   "display_date": "Monday, August 01, 2016 - Sunday, November 27, 2016",
@@ -9,5 +9,13 @@
     522,
     1342,
     108724
+  ],
+  "venues": [
+    {
+      "venue": "Swiss National Museum",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Monday, August 1, 2016 - Sunday, November 27, 2016"
+    }
   ]
 }

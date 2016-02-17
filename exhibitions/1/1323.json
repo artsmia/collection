@@ -7,5 +7,19 @@
   "display_date": "Sunday, October 14, 2012 - Sunday, June 09, 2013",
   "objects": [
     109582
+  ],
+  "venues": [
+    {
+      "venue": "Walters Art Museum",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Sunday, October 14, 2012 - Sunday, January 20, 2013"
+    },
+    {
+      "venue": "Princeton University Art Museum",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Saturday, February 16, 2013 - Sunday, June 9, 2013"
+    }
   ]
 }

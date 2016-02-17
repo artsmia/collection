@@ -7,5 +7,13 @@
   "display_date": "Monday, January 01, 1945 - Monday, December 31, 1945",
   "objects": [
     731
+  ],
+  "venues": [
+    {
+      "venue": "Wadsworth Atheneum Museum of Art",
+      "begin": 1945,
+      "end": 1945,
+      "display_date": "Sunday, April 29, 1945 - Saturday, May 5, 1945"
+    }
   ]
 }

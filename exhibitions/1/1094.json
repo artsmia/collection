@@ -7,5 +7,19 @@
   "display_date": "Wednesday, September 22, 1993 - Sunday, April 24, 1994",
   "objects": [
     1341
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Wednesday, September 22, 1993 - Saturday, January 22, 1994"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Wednesday, February 2, 1994 - Sunday, April 24, 1994"
+    }
   ]
 }

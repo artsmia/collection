@@ -40,5 +40,13 @@
     83460,
     95241,
     95641
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Sunday, June 11, 2006 - Sunday, March 4, 2007"
+    }
   ]
 }

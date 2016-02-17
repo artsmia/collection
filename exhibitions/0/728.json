@@ -9,5 +9,25 @@
     1554,
     2725,
     105228
+  ],
+  "venues": [
+    {
+      "venue": "Norton Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, February 10, 2007 - Sunday, May 6, 2007"
+    },
+    {
+      "venue": "Georgia O'Keeffee Museum",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Friday, May 25, 2007 - Sunday, September 9, 2007"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, October 7, 2007 - Sunday, January 6, 2008"
+    }
   ]
 }

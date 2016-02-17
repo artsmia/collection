@@ -7,5 +7,19 @@
   "display_date": "Tuesday, January 21, 1975 - Sunday, May 04, 1975",
   "objects": [
     1401
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, St Petersburg",
+      "begin": 1975,
+      "end": 1975,
+      "display_date": "Tuesday, January 21, 1975 - Sunday, March 2, 1975"
+    },
+    {
+      "venue": "High Museum of Art",
+      "begin": 1975,
+      "end": 1975,
+      "display_date": "Friday, April 4, 1975 - Sunday, May 4, 1975"
+    }
   ]
 }

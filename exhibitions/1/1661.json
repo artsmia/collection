@@ -23,5 +23,13 @@
     120100,
     120101,
     120103
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Thursday, August 21, 2014 - Sunday, March 8, 2015"
+    }
   ]
 }

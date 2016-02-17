@@ -54,5 +54,13 @@
     66987,
     82403,
     105873
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Saturday, July 19, 2014 - Sunday, April 19, 2015"
+    }
   ]
 }

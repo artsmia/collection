@@ -7,5 +7,49 @@
   "display_date": "Tuesday, April 07, 2009 - Sunday, November 27, 2011",
   "objects": [
     61959
+  ],
+  "venues": [
+    {
+      "venue": "Bellevue Arts Museum",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Thursday, April 9, 2009 - Sunday, September 20, 2009"
+    },
+    {
+      "venue": "San Francisco Museum of Craft + Design",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Friday, October 16, 2009 - Sunday, January 3, 2010"
+    },
+    {
+      "venue": "Mobile Museum of Art",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Friday, July 23, 2010 - Sunday, October 3, 2010"
+    },
+    {
+      "venue": "Wood Turning Center",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Friday, November 5, 2010 - Saturday, February 26, 2011"
+    },
+    {
+      "venue": "Arkansas Arts Center",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Friday, March 25, 2011 - Sunday, July 3, 2011"
+    },
+    {
+      "venue": "Racine Art Museum",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Saturday, August 6, 2011 - Sunday, November 13, 2011"
+    },
+    {
+      "venue": "Houston Center for Contemporary Craft",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Friday, March 26, 2010 - Friday, July 2, 2010"
+    }
   ]
 }

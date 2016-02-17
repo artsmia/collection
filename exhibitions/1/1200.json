@@ -41,5 +41,13 @@
     42573,
     43166,
     68672
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Friday, April 16, 1999 - Sunday, March 26, 2000"
+    }
   ]
 }

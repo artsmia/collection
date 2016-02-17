@@ -34,5 +34,13 @@
     122503,
     122508,
     123076
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Sunday, October 16, 1994 - Sunday, January 1, 1995"
+    }
   ]
 }

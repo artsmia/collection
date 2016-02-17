@@ -8,5 +8,13 @@
   "objects": [
     111541,
     111542
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2011,
+      "end": 2011,
+      "display_date": "Saturday, March 5, 2011 - Sunday, August 21, 2011"
+    }
   ]
 }

@@ -7,5 +7,25 @@
   "display_date": "Sunday, April 16, 2000 - Sunday, February 25, 2001",
   "objects": [
     3540
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Sunday, April 16, 2000 - Sunday, August 6, 2000"
+    },
+    {
+      "venue": "Dulwich Picture Gallery",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Wednesday, September 6, 2000 - Sunday, November 19, 2000"
+    },
+    {
+      "venue": "Royal Cabinet of Paintings, Mauritshuis",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, December 9, 2000 - Sunday, February 25, 2001"
+    }
   ]
 }

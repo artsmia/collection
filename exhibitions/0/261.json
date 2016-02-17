@@ -64,5 +64,13 @@
     36269,
     36270,
     36271
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1994,
+      "end": 1994,
+      "display_date": "Saturday, June 11, 1994 - Sunday, August 7, 1994"
+    }
   ]
 }

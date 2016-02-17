@@ -7,5 +7,25 @@
   "display_date": "Saturday, July 07, 2007 - Sunday, September 14, 2008",
   "objects": [
     40331
+  ],
+  "venues": [
+    {
+      "venue": "Williams College Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, July 7, 2007 - Sunday, November 11, 2007"
+    },
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Tuesday, February 26, 2008 - Sunday, May 4, 2008"
+    },
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, June 8, 2008 - Sunday, September 14, 2008"
+    }
   ]
 }

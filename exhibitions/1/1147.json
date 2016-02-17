@@ -43,5 +43,13 @@
     111079,
     111080,
     111081
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 22, 2010 - Wednesday, February 2, 2011"
+    }
   ]
 }

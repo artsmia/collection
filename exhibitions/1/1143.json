@@ -11,5 +11,31 @@
     10670,
     11361,
     11713
+  ],
+  "venues": [
+    {
+      "venue": "Walker Art Center",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, January 29, 2011 - Sunday, May 22, 2011"
+    },
+    {
+      "venue": "Montclair Art Museum",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, October 8, 2011 - Sunday, January 1, 2012"
+    },
+    {
+      "venue": "Contemporary Arts Museum Houston",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, July 23, 2011 - Sunday, September 18, 2011"
+    },
+    {
+      "venue": "Ackland Art Museum",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, January 14, 2012 - Sunday, March 18, 2012"
+    }
   ]
 }

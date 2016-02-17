@@ -28,5 +28,13 @@
     64095,
     64349,
     64417
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Saturday, February 1, 2003 - Sunday, April 20, 2003"
+    }
   ]
 }

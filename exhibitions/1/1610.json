@@ -128,5 +128,13 @@
     116623,
     118697,
     119207
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2014,
+      "end": 2018,
+      "display_date": "Sunday, July 13, 2014 - Sunday, September 21, 2014"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "exhibition_id": 1492,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
-  "exhibition_title": "The other Pedreras.  Centenary of Gaudi's La Pedrera in Barcelona (1912-2012)",
+  "exhibition_title": "The other Pedreras. Centenary of Gaudi's La Pedrera in Barcelona (1912-2012)",
   "begin": 2012,
   "end": 2013,
   "display_date": "Monday, November 12, 2012 - Tuesday, February 26, 2013",
@@ -10,5 +10,13 @@
     3347,
     5738,
     31098
+  ],
+  "venues": [
+    {
+      "venue": "Fundació CatalunyaCaixa",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Monday, November 12, 2012 - Sunday, February 24, 2013"
+    }
   ]
 }

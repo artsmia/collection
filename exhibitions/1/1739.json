@@ -7,5 +7,13 @@
   "display_date": "Friday, January 16, 2015 - Sunday, May 03, 2015",
   "objects": [
     120730
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Friday, January 16, 2015 - Sunday, May 3, 2015"
+    }
   ]
 }

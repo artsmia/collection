@@ -13,5 +13,19 @@
     20185,
     20188,
     25046
+  ],
+  "venues": [
+    {
+      "venue": "Tate Liverpool",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Monday, January 25, 2010 - Sunday, April 25, 2010"
+    },
+    {
+      "venue": "Centro Galego de Arte Contemporánea",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Thursday, July 15, 2010 - Sunday, October 10, 2010"
+    }
   ]
 }

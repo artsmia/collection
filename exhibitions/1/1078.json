@@ -7,5 +7,13 @@
   "display_date": "On temporary extended loan by 1895",
   "objects": [
     731
+  ],
+  "venues": [
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 1895,
+      "end": 1896,
+      "display_date": "Tuesday, January 1, 1895 - Wednesday, January 1, 1896"
+    }
   ]
 }

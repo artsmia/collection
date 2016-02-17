@@ -7,5 +7,19 @@
   "display_date": "Monday, February 06, 2017 - Sunday, November 12, 2017",
   "objects": [
     106558
+  ],
+  "venues": [
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Monday, February 6, 2017 - Sunday, June 4, 2017"
+    },
+    {
+      "venue": "Colby College Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, July 9, 2017 - Sunday, November 12, 2017"
+    }
   ]
 }

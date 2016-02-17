@@ -62,5 +62,19 @@
     10186,
     20190,
     20206
+  ],
+  "venues": [
+    {
+      "venue": "Henry Francis du Pont Winterthur Museum",
+      "begin": 2006,
+      "end": 2009,
+      "display_date": "Saturday, November 1, 2008 - Sunday, February 1, 2009"
+    },
+    {
+      "venue": "Cooper-Hewitt, National Design Museum",
+      "begin": 2006,
+      "end": 2009,
+      "display_date": "Friday, May 5, 2006 - Sunday, October 29, 2006"
+    }
   ]
 }

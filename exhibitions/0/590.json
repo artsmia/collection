@@ -1,7 +1,7 @@
 {
   "exhibition_id": 590,
   "exhibition_department": "Japanese and Korean Art",
-  "exhibition_title": "Untamed Beauty: Tigers in  Japanese Art",
+  "exhibition_title": "Untamed Beauty: Tigers in Japanese Art",
   "begin": 2005,
   "end": 2009,
   "display_date": "Saturday, March 05, 2005 - Sunday, March 08, 2009",
@@ -40,5 +40,13 @@
     78630,
     89686,
     96009
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2005,
+      "end": 2009,
+      "display_date": "Saturday, March 5, 2005 - Sunday, May 22, 2005"
+    }
   ]
 }

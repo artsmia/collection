@@ -202,5 +202,13 @@
     97491,
     97492,
     97493
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2005,
+      "end": 2009,
+      "display_date": "Sunday, April 10, 2005 - Sunday, July 3, 2005"
+    }
   ]
 }

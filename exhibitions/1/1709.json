@@ -495,5 +495,13 @@
     124298,
     124299,
     124300
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Thursday, January 1, 2015 - Thursday, December 31, 2015"
+    }
   ]
 }

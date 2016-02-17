@@ -7,5 +7,25 @@
   "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010",
   "objects": [
     1513
+  ],
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Sunday, January 10, 2010"
+    },
+    {
+      "venue": "Tate Modern",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Wednesday, February 10, 2010 - Monday, May 3, 2010"
+    },
+    {
+      "venue": "Museum of Contemporary Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Sunday, June 6, 2010 - Monday, September 20, 2010"
+    }
   ]
 }

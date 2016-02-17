@@ -17,5 +17,13 @@
     99515,
     99516,
     99517
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Friday, April 7, 2006 - Sunday, July 23, 2006"
+    }
   ]
 }

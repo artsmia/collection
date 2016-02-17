@@ -43,5 +43,31 @@
     76838,
     77044,
     108203
+  ],
+  "venues": [
+    {
+      "venue": "Regents of The University of Minnesota, Through its Bell Museum of Natural History",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, October 5, 2013 - Sunday, January 4, 2015"
+    },
+    {
+      "venue": "National Museum of Wildlife Art",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, October 4, 2014 - Sunday, January 4, 2015"
+    },
+    {
+      "venue": "R.W. Norton Art Gallery",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Sunday, February 8, 2015 - Sunday, April 19, 2015"
+    },
+    {
+      "venue": "Sam Noble Oklahoma Museum of Natural History",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, May 15, 2015 - Sunday, July 26, 2015"
+    }
   ]
 }

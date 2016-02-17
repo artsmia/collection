@@ -59,5 +59,13 @@
     52437,
     52438,
     52446
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, July 21, 2001 - Sunday, October 28, 2001"
+    }
   ]
 }

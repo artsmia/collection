@@ -21,5 +21,13 @@
     90124,
     90125,
     90126
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, October 28, 2004 - Monday, February 28, 2005"
+    }
   ]
 }

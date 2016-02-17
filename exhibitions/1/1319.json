@@ -7,5 +7,25 @@
   "display_date": "Saturday, February 04, 2012 - Sunday, February 17, 2013",
   "objects": [
     589
+  ],
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Saturday, February 4, 2012 - Sunday, June 3, 2012"
+    },
+    {
+      "venue": "Oklahoma City Museum of Art",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Wednesday, July 18, 2012 - Sunday, October 7, 2012"
+    },
+    {
+      "venue": "Museum of Fine Arts, St Petersburg",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Saturday, November 3, 2012 - Sunday, February 17, 2013"
+    }
   ]
 }
