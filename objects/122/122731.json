@@ -10,10 +10,10 @@
   "description": "deity Izuna Gongen, with flames, wings, and beaklike nose, standing on a white fox with a flame; holding sword in PR hand, cord in PL; large billowing skirts",
   "dimension": "28 1/2 × 10 3/4 in. (72.39 × 27.31 cm) (image)\r\n56 1/4 × 15 9/16 in. (142.88 × 39.53 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/122731",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2396,
+  "image_width": 1207,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -27,5 +27,5 @@
   "signed": "",
   "style": null,
   "text": "",
-  "title": "Izuna or Akiba Gongen"
+  "title": "Manifestation of Mt. Akiba (Akiba Gongen)"
 }
