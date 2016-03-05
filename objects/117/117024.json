@@ -10,12 +10,13 @@
   "description": "irregular, three sided cup on three triangular legs; thick white glaze at top; thin black glaze near bottom; dark pockmarks and patches of clay showing through",
   "dimension": "4 3/4 × 3 × 3 1/8 in. (12.07 × 7.62 × 7.94 cm)",
   "id": "http://api.artsmia.org/objects/117024",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2896,
+  "image_width": 1936,
+  "inscription": "Mark",
   "life_date": "born 1950",
-  "marks": "Mark ",
+  "markings": "incised mark over leg",
   "medium": "Glazed stoneware",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +24,8 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "21st century",
   "text": "",
-  "title": "Cup (yunomi)"
+  "title": "White-glazed drinking cup"
 }
