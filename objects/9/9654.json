@@ -1,11 +1,11 @@
 {
   "accession_number": "74.1.280",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Utagawa Hiroshige; Published by Sanoya Kihei",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
-  "dated": "c. 1842",
+  "dated": "c. 1840-1842",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "28 1/4 × 9 1/2 in. (71.8 × 24.1 cm) (image, sheet, kakemono-e)",
@@ -14,8 +14,9 @@
   "image_copyright": "",
   "image_height": 3013,
   "image_width": 1056,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige hitsu",
+  "markings": "Ichiryu_sai seal\r\nPublisher:Sanoki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +24,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige hitsu",
   "style": "19th century",
-  "text": "",
-  "title": "Snow Scene by the Fuji River"
+  "text": "Presumably the Fuji River Gorge.",
+  "title": "Mountain Gorge in Winter"
 }

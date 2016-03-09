@@ -5,10 +5,10 @@
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
-  "dated": "November 1859",
+  "dated": "1859, 10th month",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
-  "dimension": "13 3/16 x 8 11/16 in. (33.5 x 22.1 cm) (image)\r\n14 5/8 x 9 15/16 in. (37.2 x 25.3 cm) (sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
+  "description": "",
+  "dimension": "13 3/16 × 8 11/16 in. (33.5 × 22.1 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/64430",
   "image": "valid",
   "image_copyright": "",
@@ -16,7 +16,7 @@
   "image_width": 0,
   "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "markings": "Censor:kai+Sheep 10\r\nPublisher:Uoei-ban",
+  "markings": "Censor:kai+Sheep 10 未十改\r\nPublisher:Uoei-ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -27,5 +27,5 @@
   "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
-  "title": "\"Snow at the Kiso Gorge in Shinshū Province\""
+  "title": "Snow on the Kiso Gorge in Shinano Province"
 }
