@@ -10,12 +10,13 @@
   "description": "double-headed frog near center below tree; fierce looking bird on L branch of tree, and angry looking rodent on R branch; fierce and frightened looking animals including wolf, dogs, and a deer",
   "dimension": "1 1/4 × 2 5/16 in. (3.18 × 5.87 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/121333",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "life_date": "Dutch, 1571 - 1656",
-  "marks": "Signature, Date, Inscription\r\n\r\n-- numbered in pla monogram in plate, upper right: [NB]; date in plat",
+  "image_height": 1830,
+  "image_width": 3279,
+  "inscription": "Signature, Date, Inscription\r\n\r\n-- numbered in plate at bottom center: 10\r\n-- in graphite on verso: 10698",
+  "life_date": "Dutch, 1571-1656",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "[C. & J. Goodfriend, New York, until November 11, 1986; sold to Andrus]; John E. Andrus III, Wayzata, Minn.; by descent to his daughters, Elizabeth, Katie, and Julie. Earlier provenances have been gathered, but further research will increase our knowledge of their histories.",
@@ -23,7 +24,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in plate, upper right: [NB]; date in plate, lower left: [1594]",
   "style": "16th century",
   "text": "",
-  "title": "Two-Headed Frog with Other Animals, From Fighting Chimeras and Scenes to Aesop's Fables, Plate 10"
+  "title": "Two-Headed Frog with Other Animals, From Scenes to Aesop's Fables, Plate 10"
 }

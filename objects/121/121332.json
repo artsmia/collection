@@ -10,12 +10,13 @@
   "description": "pony at L with monkey on its back, holding a branch that a dog is pulling on; another monkey on a bent tree trunk at R holding a club above dog's head; bee in ULQ, small shrubs on ground",
   "dimension": "1 5/16 × 2 3/8 in. (3.33 × 6.03 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/121332",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "life_date": "Dutch, 1571 - 1656",
-  "marks": "Signature, Inscription\r\n\r\nnumbered in plate at bot monogram in plate, upper right: [NB]",
+  "image_height": 1830,
+  "image_width": 3279,
+  "inscription": "Signature, Inscription\r\n\r\nnumbered in plate at bottom center: 9",
+  "life_date": "Dutch, 1571-1656",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "[C. & J. Goodfriend, New York, until November 11, 1986; sold to Andrus]; John E. Andrus III, Wayzata, Minn.; by descent to his daughters, Elizabeth, Katie, and Julie. Earlier provenances have been gathered, but further research will increase our knowledge of their histories.",
@@ -23,7 +24,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in plate, upper right: [NB]",
   "style": "16th century",
   "text": "",
-  "title": "Horse with Two Monkeys and a Dog, From Fighting Chimeras and Scenes to Aesop's Fables, Plate 9"
+  "title": "Horse with Two Monkeys and a Dog, From Scenes to Aesop's Fables, Plate 9"
 }
