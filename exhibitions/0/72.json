@@ -1,6 +1,6 @@
 {
   "exhibition_id": 72,
-  "exhibition_department": null,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Earth and Fire: Italian Terracotta Sculpture from Donatello to Canova",
   "begin": 2001,
   "end": 2002,
@@ -8,5 +8,18 @@
   "objects": [
     1367
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Sunday, November 18, 2001 - Sunday, February 3, 2002"
+    },
+    {
+      "venue": "Victoria and Albert Museum",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Thursday, March 14, 2002 - Sunday, July 7, 2002"
+    }
+  ]
 }

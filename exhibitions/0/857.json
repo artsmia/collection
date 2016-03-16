@@ -254,5 +254,24 @@
     82209,
     97519
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Nara Prefectural Museum of Art",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, April 5, 2008 - Sunday, May 25, 2008"
+    },
+    {
+      "venue": "Sanritz Hattori Museum of Art",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Tuesday, June 10, 2008 - Thursday, July 10, 2008"
+    },
+    {
+      "venue": "Shoto Museum of Art",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Tuesday, October 2, 2007 - Sunday, November 25, 2007"
+    }
+  ]
 }

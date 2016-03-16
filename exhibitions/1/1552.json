@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1552,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Maurice Utrillo, 130th birthday",
   "begin": 2013,
   "end": 2013,
@@ -8,5 +8,30 @@
   "objects": [
     1537
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Hokkaido Hakodate Museum of Art",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Wednesday, July 24, 2013 - Sunday, September 8, 2013"
+    },
+    {
+      "venue": "Takashimaya Art Gallery, Kyoto",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Wednesday, April 24, 2013 - Monday, May 13, 2013"
+    },
+    {
+      "venue": "Takashimaya Art Gallery, Nihonbashi, Tokyo",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Wednesday, June 12, 2013 - Monday, June 24, 2013"
+    },
+    {
+      "venue": "Takashimaya Art Gallery, Yokohama, Kanakawa",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Wednesday, September 18, 2013 - Monday, September 30, 2013"
+    }
+  ]
 }

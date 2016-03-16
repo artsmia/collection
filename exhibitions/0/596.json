@@ -1,6 +1,6 @@
 {
   "exhibition_id": 596,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Modigliani: Beyond the Myth",
   "begin": 2004,
   "end": 2005,
@@ -8,5 +8,24 @@
   "objects": [
     1421
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, October 23, 2004 - Sunday, January 23, 2005"
+    },
+    {
+      "venue": "Do Not Use - Phillips Collection",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, February 19, 2005 - Sunday, May 29, 2005"
+    },
+    {
+      "venue": "The Jewish Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, May 21, 2004 - Sunday, September 19, 2004"
+    }
+  ]
 }

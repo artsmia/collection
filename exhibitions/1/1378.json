@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1378,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "William Baziotes Memorial Exhibition",
   "begin": 1965,
   "end": 1966,
@@ -8,42 +8,5 @@
   "objects": [
     1332
   ],
-  "venues": [
-    {
-      "venue": "Guggenheim Museum",
-      "begin": 1965,
-      "end": 1966,
-      "display_date": "Thursday, February 4, 1965 - Sunday, March 21, 1965"
-    },
-    {
-      "venue": "Cincinnati Art Museum",
-      "begin": 1965,
-      "end": 1966,
-      "display_date": "Monday, April 12, 1965 - Sunday, May 2, 1965"
-    },
-    {
-      "venue": "Reading Public Museum",
-      "begin": 1965,
-      "end": 1966,
-      "display_date": "Sunday, May 23, 1965 - Sunday, June 27, 1965"
-    },
-    {
-      "venue": "Santa Barbara Museum of Art",
-      "begin": 1965,
-      "end": 1966,
-      "display_date": "Tuesday, July 13, 1965 - Sunday, August 22, 1965"
-    },
-    {
-      "venue": "Milwaukee Art Museum",
-      "begin": 1965,
-      "end": 1966,
-      "display_date": "Thursday, September 9, 1965 - Sunday, October 10, 1965"
-    },
-    {
-      "venue": "Brandeis University Art Gallery",
-      "begin": 1965,
-      "end": 1966,
-      "display_date": "Monday, November 1, 1965 - Tuesday, November 30, 1965"
-    }
-  ]
+  "venues": []
 }

@@ -1,6 +1,6 @@
 {
   "exhibition_id": 736,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "George Rickey Kinetic Sculpture: A Retrospective",
   "begin": 2007,
   "end": 2009,
@@ -10,22 +10,22 @@
   ],
   "venues": [
     {
-      "venue": "Vero Beach Museum of Art",
-      "begin": 2007,
-      "end": 2009,
-      "display_date": "Sunday, January 28, 2007 - Sunday, May 20, 2007"
-    },
-    {
       "venue": "Frederik Meijer Gardens and Sculpture Park",
       "begin": 2007,
       "end": 2009,
       "display_date": "Friday, September 28, 2007 - Monday, December 31, 2007"
     },
     {
-      "venue": "Marion Koogler McNay Art Museum",
+      "venue": "McNay Art Museum",
       "begin": 2007,
       "end": 2009,
       "display_date": "Wednesday, October 1, 2008 - Sunday, January 11, 2009"
+    },
+    {
+      "venue": "Vero Beach Museum of Art",
+      "begin": 2007,
+      "end": 2009,
+      "display_date": "Sunday, January 28, 2007 - Sunday, May 20, 2007"
     }
   ]
 }

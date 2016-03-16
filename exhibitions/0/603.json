@@ -8,5 +8,12 @@
   "objects": [
     1413
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunsthaus Zürich",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 29, 2004 - Sunday, March 13, 2005"
+    }
+  ]
 }

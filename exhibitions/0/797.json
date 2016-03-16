@@ -16,5 +16,12 @@
     83146,
     103306
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Oklahoma City Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Thursday, December 20, 2007 - Sunday, March 2, 2008"
+    }
+  ]
 }

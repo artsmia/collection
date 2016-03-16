@@ -28,5 +28,12 @@
     11733,
     11740
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Galerie nationale du Jeu de Paume",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Monday, September 27, 2004 - Sunday, November 28, 2004"
+    }
+  ]
 }

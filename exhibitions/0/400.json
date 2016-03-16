@@ -8,5 +8,12 @@
   "objects": [
     42709
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Walker Art Center",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Tuesday, October 24, 1995 - Friday, March 15, 1996"
+    }
+  ]
 }

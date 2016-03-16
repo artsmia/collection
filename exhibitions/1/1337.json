@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1337,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Centennial Minnesota Paintings",
   "begin": 1949,
   "end": 1954,
@@ -8,18 +8,5 @@
   "objects": [
     15729
   ],
-  "venues": [
-    {
-      "venue": "Walker Art Center",
-      "begin": 1949,
-      "end": 1954,
-      "display_date": "Thursday, March 17, 1949 - Friday, July 1, 1949"
-    },
-    {
-      "venue": "Rochester Art Center",
-      "begin": 1949,
-      "end": 1954,
-      "display_date": "Wednesday, March 3, 1954 - Friday, April 30, 1954"
-    }
-  ]
+  "venues": []
 }

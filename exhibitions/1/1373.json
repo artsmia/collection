@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1373,
-  "exhibition_department": null,
+  "exhibition_department": "Contemporary Art",
   "exhibition_title": "Lifelike",
   "begin": 2012,
   "end": 2014,
@@ -10,16 +10,10 @@
   ],
   "venues": [
     {
-      "venue": "Walker Art Center",
+      "venue": "Jack S. Blanton Museum of Art",
       "begin": 2012,
       "end": 2014,
-      "display_date": "Saturday, February 25, 2012 - Sunday, May 27, 2012"
-    },
-    {
-      "venue": "New Orleans Museum of Art",
-      "begin": 2012,
-      "end": 2014,
-      "display_date": "Saturday, November 10, 2012 - Sunday, January 27, 2013"
+      "display_date": "Sunday, June 23, 2013 - Sunday, September 22, 2013"
     },
     {
       "venue": "Museum of Contemporary Art San Diego",
@@ -28,16 +22,22 @@
       "display_date": "Sunday, February 24, 2013 - Sunday, May 26, 2013"
     },
     {
-      "venue": "Jack S. Blanton Museum of Art",
+      "venue": "New Orleans Museum of Art",
       "begin": 2012,
       "end": 2014,
-      "display_date": "Sunday, June 23, 2013 - Sunday, September 22, 2013"
+      "display_date": "Saturday, November 10, 2012 - Sunday, January 27, 2013"
     },
     {
       "venue": "Phoenix Art Museum",
       "begin": 2012,
       "end": 2014,
       "display_date": "Monday, February 3, 2014 - Sunday, May 18, 2014"
+    },
+    {
+      "venue": "Walker Art Center",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, February 25, 2012 - Sunday, May 27, 2012"
     }
   ]
 }

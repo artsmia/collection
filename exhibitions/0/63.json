@@ -1,6 +1,6 @@
 {
   "exhibition_id": 63,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Vincent Van Gogh and the Avant-Garde: Painters of the Petit Boulevard",
   "begin": 2001,
   "end": 2001,
@@ -8,5 +8,18 @@
   "objects": [
     1414
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Do Not Use - Stadelsches Kunstinstitut",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Friday, June 15, 2001 - Sunday, September 2, 2001"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, February 17, 2001 - Sunday, May 13, 2001"
+    }
+  ]
 }

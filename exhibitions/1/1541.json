@@ -8,5 +8,12 @@
   "objects": [
     1886
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Del Palazzo Di Venezia",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Sunday, September 1, 2013 - Wednesday, January 1, 2014"
+    }
+  ]
 }

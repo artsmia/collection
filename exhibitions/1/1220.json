@@ -34,5 +34,12 @@
     54274,
     56409
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, May 20, 2006 - Sunday, November 5, 2006"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "exhibition_id": 92,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Marsden Hartley: American Modernist",
   "begin": 2003,
   "end": 2004,
@@ -8,5 +8,24 @@
   "objects": [
     1553
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Do Not Use - Phillips Collection",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, June 7, 2003 - Sunday, September 7, 2003"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, October 11, 2003 - Sunday, January 11, 2004"
+    },
+    {
+      "venue": "Wadsworth Atheneum Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, January 18, 2003 - Sunday, April 20, 2003"
+    }
+  ]
 }

@@ -12,5 +12,12 @@
     24039,
     24040
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Gerald R. Ford Presidential Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 15, 2004 - Sunday, March 13, 2005"
+    }
+  ]
 }

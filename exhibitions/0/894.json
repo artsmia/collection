@@ -11,5 +11,12 @@
     24519,
     73255
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée des Beaux-Arts de Lyon",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, October 24, 2008 - Monday, February 2, 2009"
+    }
+  ]
 }

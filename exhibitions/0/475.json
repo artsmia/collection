@@ -1,6 +1,6 @@
 {
   "exhibition_id": 475,
-  "exhibition_department": null,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "L'esprit créateur de Pigalle à Canova: Terres cuites européennes de 1750 à 1830",
   "begin": 2003,
   "end": 2004,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2003,
-      "end": 2004,
-      "display_date": "Friday, January 30, 2004 - Friday, April 23, 2004"
-    },
-    {
       "venue": "Musée du Louvre",
       "begin": 2003,
       "end": 2004,
       "display_date": "Monday, September 15, 2003 - Monday, January 5, 2004"
+    },
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Friday, January 30, 2004 - Friday, April 23, 2004"
     }
   ]
 }

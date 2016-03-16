@@ -8,5 +8,12 @@
   "objects": [
     122102
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Princeton University Art Museum",
+      "begin": 1976,
+      "end": 1976,
+      "display_date": ", , - , , "
+    }
+  ]
 }

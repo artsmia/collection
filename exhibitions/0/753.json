@@ -8,5 +8,12 @@
   "objects": [
     1738
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Tate Britain",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Wednesday, September 26, 2007 - Sunday, January 13, 2008"
+    }
+  ]
 }

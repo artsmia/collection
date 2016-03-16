@@ -25,5 +25,36 @@
     122502,
     122963
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Hamamatsu City Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, November 12, 1985 - Sunday, December 1, 1985"
+    },
+    {
+      "venue": "Ishikawa Prefectural Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Saturday, July 13, 1985 - Sunday, August 11, 1985"
+    },
+    {
+      "venue": "MOA Museum of Art, Atami",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Sunday, September 29, 1985 - Sunday, October 27, 1985"
+    },
+    {
+      "venue": "Nagoya City Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Saturday, August 17, 1985 - Monday, September 23, 1985"
+    },
+    {
+      "venue": "Tokyo National Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, May 21, 1985 - Sunday, June 30, 1985"
+    }
+  ]
 }

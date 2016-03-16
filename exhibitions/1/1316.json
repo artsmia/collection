@@ -8,5 +8,12 @@
   "objects": [
     1655
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Schirn Kunsthalle Frankfurt",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Thursday, October 18, 2012 - Sunday, January 20, 2013"
+    }
+  ]
 }

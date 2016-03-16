@@ -1,6 +1,6 @@
 {
   "exhibition_id": 964,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Otto Dix",
   "begin": 2010,
   "end": 2011,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "Neue Galerie New York",
-      "begin": 2010,
-      "end": 2011,
-      "display_date": "Thursday, March 11, 2010 - Tuesday, August 10, 2010"
-    },
-    {
       "venue": "Montreal Museum of Fine Arts",
       "begin": 2010,
       "end": 2011,
       "display_date": "Monday, September 20, 2010 - Sunday, January 2, 2011"
+    },
+    {
+      "venue": "Neue Galerie New York",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Thursday, March 11, 2010 - Tuesday, August 10, 2010"
     }
   ]
 }

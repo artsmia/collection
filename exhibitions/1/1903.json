@@ -8,5 +8,12 @@
   "objects": [
     40034
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": ", , - , , "
+    }
+  ]
 }

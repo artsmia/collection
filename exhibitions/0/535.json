@@ -8,5 +8,12 @@
   "objects": [
     1825
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Sunday, October 26, 2003 - Sunday, January 11, 2004"
+    }
+  ]
 }

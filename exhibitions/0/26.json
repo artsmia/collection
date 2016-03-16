@@ -15,5 +15,12 @@
     24039,
     24040
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Herbert Hoover Presidential Library and Museum",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, April 21, 2001 - Sunday, October 28, 2001"
+    }
+  ]
 }

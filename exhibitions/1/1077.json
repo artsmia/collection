@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1077,
-  "exhibition_department": null,
+  "exhibition_department": "Director's Office",
   "exhibition_title": "The Louvre and the Masterpiece",
   "begin": 2008,
   "end": 2010,
@@ -8,5 +8,18 @@
   "objects": [
     108856
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 2008,
+      "end": 2010,
+      "display_date": "Sunday, October 12, 2008 - Sunday, September 6, 2009"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2008,
+      "end": 2010,
+      "display_date": "Sunday, October 18, 2009 - Sunday, January 10, 2010"
+    }
+  ]
 }

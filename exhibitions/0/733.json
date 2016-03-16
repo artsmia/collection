@@ -1,6 +1,6 @@
 {
   "exhibition_id": 733,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Matisse: the Painter as Sculptor",
   "begin": 2007,
   "end": 2008,
@@ -8,5 +8,24 @@
   "objects": [
     1890
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Baltimore Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, October 7, 2007 - Sunday, January 13, 2008"
+    },
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, January 21, 2007 - Sunday, April 29, 2007"
+    },
+    {
+      "venue": "San Francisco Museum of Modern Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, June 10, 2007 - Sunday, September 2, 2007"
+    }
+  ]
 }

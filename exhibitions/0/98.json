@@ -8,5 +8,12 @@
   "objects": [
     1633
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum Ludwig",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Tuesday, October 5, 1999 - Wednesday, April 19, 2000"
+    }
+  ]
 }

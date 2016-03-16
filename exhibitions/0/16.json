@@ -12,5 +12,12 @@
     32482,
     103306
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Monday, May 1, 2000 - Tuesday, August 15, 2000"
+    }
+  ]
 }

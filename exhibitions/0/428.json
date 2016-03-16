@@ -1,6 +1,6 @@
 {
   "exhibition_id": 428,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "El Greco",
   "begin": 2003,
   "end": 2004,
@@ -8,18 +8,5 @@
   "objects": [
     278
   ],
-  "venues": [
-    {
-      "venue": "National Gallery of Art",
-      "begin": 2003,
-      "end": 2004,
-      "display_date": "Wednesday, February 11, 2004 - Sunday, May 23, 2004"
-    },
-    {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2003,
-      "end": 2004,
-      "display_date": "Tuesday, October 7, 2003 - Sunday, January 11, 2004"
-    }
-  ]
+  "venues": []
 }

@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1808,
-  "exhibition_department": null,
+  "exhibition_department": "Chinese, Indian, and Southeast Asian Art",
   "exhibition_title": "Muslim Miniature Paintings from the XIII to XIX Centuries",
   "begin": 1962,
   "end": 1962,
@@ -8,5 +8,18 @@
   "objects": [
     1214
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia House",
+      "begin": 1962,
+      "end": 1962,
+      "display_date": ", , - Sunday, February 3, 1963"
+    },
+    {
+      "venue": "Cini Foundation",
+      "begin": 1962,
+      "end": 1962,
+      "display_date": "Saturday, September 1, 1962 - Wednesday, October 31, 1962"
+    }
+  ]
 }

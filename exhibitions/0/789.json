@@ -17,5 +17,12 @@
     50303,
     72521
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Walker Art Center",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Friday, December 15, 2006 - Sunday, July 15, 2007"
+    }
+  ]
 }

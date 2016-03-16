@@ -8,5 +8,12 @@
   "objects": [
     2003
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Arthur M. Sackler Gallery",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, March 4, 2006 - Sunday, May 14, 2006"
+    }
+  ]
 }

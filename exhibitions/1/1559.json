@@ -20,10 +20,10 @@
   ],
   "venues": [
     {
-      "venue": "Museum of Danish America",
+      "venue": "Figge Art Museum",
       "begin": 2013,
       "end": 2015,
-      "display_date": "Saturday, April 6, 2013 - Sunday, January 5, 2014"
+      "display_date": "Saturday, March 28, 2015 - Sunday, June 21, 2015"
     },
     {
       "venue": "Goldstein Museum of Design",
@@ -32,16 +32,16 @@
       "display_date": "Saturday, February 1, 2014 - Sunday, April 27, 2014"
     },
     {
+      "venue": "Museum of Danish America",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, April 6, 2013 - Sunday, January 5, 2014"
+    },
+    {
       "venue": "Nordic Heritage Museum",
       "begin": 2013,
       "end": 2015,
       "display_date": "Friday, May 16, 2014 - Sunday, August 31, 2014"
-    },
-    {
-      "venue": "Figge Art Museum",
-      "begin": 2013,
-      "end": 2015,
-      "display_date": "Saturday, March 28, 2015 - Sunday, June 21, 2015"
     }
   ]
 }

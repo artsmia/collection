@@ -14,5 +14,18 @@
     42095,
     68511
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Saturday, June 26, 2004 - Friday, September 24, 2004"
+    },
+    {
+      "venue": "Peabody Essex Museum",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Saturday, February 14, 2004 - Sunday, May 9, 2004"
+    }
+  ]
 }

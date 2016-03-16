@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1785,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Élisabeth Louise Vigée LeBrun (1755-1842)",
   "begin": 2015,
   "end": 2016,
@@ -16,16 +16,16 @@
       "display_date": "Monday, September 21, 2015 - Monday, January 11, 2016"
     },
     {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Tuesday, February 9, 2016 - Sunday, May 15, 2016"
-    },
-    {
       "venue": "National Gallery of Canada",
       "begin": 2015,
       "end": 2016,
       "display_date": "Friday, June 10, 2016 - Monday, September 12, 2016"
+    },
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Tuesday, February 9, 2016 - Sunday, May 15, 2016"
     }
   ]
 }

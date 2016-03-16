@@ -10,5 +10,12 @@
     4383,
     96679
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Saturday, January 6, 1996 - Sunday, March 3, 1996"
+    }
+  ]
 }

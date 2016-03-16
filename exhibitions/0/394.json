@@ -8,5 +8,12 @@
   "objects": [
     42134
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Frick Collection",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Tuesday, May 4, 1999 - Tuesday, August 3, 1999"
+    }
+  ]
 }

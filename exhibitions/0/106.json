@@ -8,5 +8,12 @@
   "objects": [
     1800
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Royal Museums of Belgium",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Friday, September 24, 1999 - Friday, January 21, 2000"
+    }
+  ]
 }

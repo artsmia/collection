@@ -1,6 +1,6 @@
 {
   "exhibition_id": 974,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Philips Wouwerman (1619-1668)",
   "begin": 2009,
   "end": 2010,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "Royal Picture Gallery Mauritshuis",
-      "begin": 2009,
-      "end": 2010,
-      "display_date": "Thursday, November 12, 2009 - Monday, March 1, 2010"
-    },
-    {
       "venue": "Gemäldegalerie Alte Meister",
       "begin": 2009,
       "end": 2010,
       "display_date": "Thursday, July 2, 2009 - Sunday, October 11, 2009"
+    },
+    {
+      "venue": "Royal Picture Gallery Mauritshuis",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, November 12, 2009 - Monday, March 1, 2010"
     }
   ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     1595
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Complesso del Vittoriano",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, October 7, 2011 - Sunday, January 29, 2012"
+    }
+  ]
 }

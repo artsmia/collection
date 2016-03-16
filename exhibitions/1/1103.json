@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1103,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Double Solitaire: The Surrealist Worlds of Kay Sage and Yves Tanguy",
   "begin": 2011,
   "end": 2012,
@@ -9,6 +9,12 @@
     2241
   ],
   "venues": [
+    {
+      "venue": "Davis Museum and Cultural Center",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Wednesday, October 19, 2011 - Sunday, January 15, 2012"
+    },
     {
       "venue": "Katonah Museum of Art",
       "begin": 2011,
@@ -20,12 +26,6 @@
       "begin": 2011,
       "end": 2012,
       "display_date": "Saturday, January 28, 2012 - Saturday, May 12, 2012"
-    },
-    {
-      "venue": "Davis Museum and Cultural Center",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Wednesday, October 19, 2011 - Sunday, January 15, 2012"
     }
   ]
 }

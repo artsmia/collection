@@ -19,5 +19,24 @@
     61315,
     61316
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dixon Gallery and Gardens",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Sunday, October 19, 2003 - Sunday, January 11, 2004"
+    },
+    {
+      "venue": "Iris and B. Gerald Cantor Center for Visual Arts",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, June 11, 2003 - Sunday, September 7, 2003"
+    },
+    {
+      "venue": "University of Michigan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, March 13, 2004 - Sunday, May 23, 2004"
+    }
+  ]
 }

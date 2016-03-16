@@ -8,5 +8,12 @@
   "objects": [
     1270
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Solomon R. Guggenheim Museum, New York",
+      "begin": 1996,
+      "end": 1997,
+      "display_date": "Thursday, October 3, 1996 - Friday, January 17, 1997"
+    }
+  ]
 }

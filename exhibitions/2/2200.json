@@ -91,5 +91,12 @@
     63906,
     82159
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1991,
+      "end": 1992,
+      "display_date": "Saturday, November 30, 1991 - Sunday, March 1, 1992"
+    }
+  ]
 }

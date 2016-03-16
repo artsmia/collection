@@ -9,5 +9,18 @@
     1272,
     1414
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Abeno Harukas Art Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, October 10, 2014 - Monday, January 12, 2015"
+    },
+    {
+      "venue": "Tokyo Metropolitan Art Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Saturday, January 24, 2015 - Sunday, March 29, 2015"
+    }
+  ]
 }

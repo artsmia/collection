@@ -1,10 +1,41 @@
 {
   "exhibition_id": 1952,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Same But Different",
   "begin": 2015,
   "end": 2015,
   "display_date": "Saturday, March 07, 2015 - Sunday, October 25, 2015",
-  "objects": [],
-  "venues": []
+  "objects": [
+    7399,
+    7695,
+    8228,
+    8833,
+    9186,
+    9202,
+    27870,
+    41906,
+    52607,
+    56005,
+    63126,
+    63127,
+    90869,
+    105335,
+    108171,
+    108212,
+    111004,
+    115357,
+    116570,
+    118947,
+    118948,
+    120316,
+    120643
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Saturday, March 7, 2015 - Sunday, October 25, 2015"
+    }
+  ]
 }

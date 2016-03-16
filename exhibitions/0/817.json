@@ -1,6 +1,6 @@
 {
   "exhibition_id": 817,
-  "exhibition_department": null,
+  "exhibition_department": "Prints and Drawings",
   "exhibition_title": "Consuming Passion: Fragonard's Pictures of Love",
   "begin": 2007,
   "end": 2008,
@@ -8,5 +8,18 @@
   "objects": [
     3135
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, October 28, 2007 - Monday, January 21, 2008"
+    },
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Tuesday, February 12, 2008 - Sunday, May 4, 2008"
+    }
+  ]
 }

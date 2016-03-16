@@ -1,6 +1,6 @@
 {
   "exhibition_id": 161,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Vital Forms: American Art in the Atomic Age, 1940-1960",
   "begin": 2001,
   "end": 2003,
@@ -8,5 +8,36 @@
   "objects": [
     3742
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Brooklyn Museum",
+      "begin": 2001,
+      "end": 2003,
+      "display_date": "Friday, October 12, 2001 - Sunday, January 6, 2002"
+    },
+    {
+      "venue": "Frist Center for Visual Arts",
+      "begin": 2001,
+      "end": 2003,
+      "display_date": "Friday, June 21, 2002 - Sunday, September 15, 2002"
+    },
+    {
+      "venue": "Phoenix Art Museum",
+      "begin": 2001,
+      "end": 2003,
+      "display_date": "Saturday, April 5, 2003 - Sunday, June 29, 2003"
+    },
+    {
+      "venue": "San Diego Museum of Art",
+      "begin": 2001,
+      "end": 2003,
+      "display_date": "Saturday, October 26, 2002 - Sunday, January 26, 2003"
+    },
+    {
+      "venue": "Walker Art Center",
+      "begin": 2001,
+      "end": 2003,
+      "display_date": "Saturday, February 16, 2002 - Sunday, May 12, 2002"
+    }
+  ]
 }

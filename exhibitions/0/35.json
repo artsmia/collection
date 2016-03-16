@@ -9,5 +9,12 @@
     802,
     25288
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Réunion des Musées Nationaux",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Tuesday, September 5, 1995 - Sunday, September 15, 1996"
+    }
+  ]
 }

@@ -9,5 +9,12 @@
     122105,
     122106
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Shinagawa Prefectural Museum",
+      "begin": 1972,
+      "end": 1977,
+      "display_date": "Saturday, January 1, 1972 - , , "
+    }
+  ]
 }

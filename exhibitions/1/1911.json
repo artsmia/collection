@@ -11,5 +11,12 @@
     122160,
     122166
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia House",
+      "begin": 1971,
+      "end": 1971,
+      "display_date": ", , - , , "
+    }
+  ]
 }

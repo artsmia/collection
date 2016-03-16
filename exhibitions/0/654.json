@@ -1,6 +1,6 @@
 {
   "exhibition_id": 654,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Anne-Louis Girodet de Roussy-Trioson (1767-1824)",
   "begin": 2005,
   "end": 2006,
@@ -9,12 +9,6 @@
     1727
   ],
   "venues": [
-    {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2005,
-      "end": 2006,
-      "display_date": "Monday, May 22, 2006 - Sunday, August 27, 2006"
-    },
     {
       "venue": "Art Institute of Chicago",
       "begin": 2005,
@@ -26,6 +20,12 @@
       "begin": 2005,
       "end": 2006,
       "display_date": "Monday, September 19, 2005 - Monday, January 2, 2006"
+    },
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Monday, May 22, 2006 - Sunday, August 27, 2006"
     }
   ]
 }

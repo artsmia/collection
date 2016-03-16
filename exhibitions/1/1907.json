@@ -11,5 +11,24 @@
     122496,
     123100
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Katonah Museum of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "San Antonio Museum of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": ", , - , , "
+    }
+  ]
 }

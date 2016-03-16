@@ -26,5 +26,12 @@
     36165,
     36188
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minnesota Historical Society",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Friday, February 3, 2006 - Sunday, May 21, 2006"
+    }
+  ]
 }

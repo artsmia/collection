@@ -8,5 +8,12 @@
   "objects": [
     1270
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Thursday, November 20, 2014 - Thursday, March 6, 2014"
+    }
+  ]
 }

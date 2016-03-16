@@ -8,5 +8,12 @@
   "objects": [
     8265
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Saturday, May 3, 2003 - Sunday, October 26, 2003"
+    }
+  ]
 }

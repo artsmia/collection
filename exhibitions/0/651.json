@@ -8,5 +8,12 @@
   "objects": [
     1226
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Nacional del Prado",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Monday, October 18, 2004 - Sunday, February 6, 2005"
+    }
+  ]
 }

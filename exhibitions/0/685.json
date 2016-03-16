@@ -1,6 +1,6 @@
 {
   "exhibition_id": 685,
-  "exhibition_department": null,
+  "exhibition_department": "Art of Africa and the Americas",
   "exhibition_title": "Hero, Hawk and Open Hand: American Indian Art of the Ancient Midwest and South",
   "begin": 2004,
   "end": 2005,
@@ -8,5 +8,24 @@
   "objects": [
     91395
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, November 20, 2004 - Sunday, January 30, 2005"
+    },
+    {
+      "venue": "National Museum of Natural History",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, July 1, 2005 - Sunday, September 25, 2005"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, March 4, 2005 - Monday, May 30, 2005"
+    }
+  ]
 }

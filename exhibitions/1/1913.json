@@ -9,5 +9,12 @@
     6631,
     121302
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 1989,
+      "end": 1990,
+      "display_date": ", , - , , "
+    }
+  ]
 }

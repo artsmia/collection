@@ -1,6 +1,6 @@
 {
   "exhibition_id": 757,
-  "exhibition_department": null,
+  "exhibition_department": "Textiles",
   "exhibition_title": "Threads of Splendor: Tapestry in the Baroque",
   "begin": 2007,
   "end": 2008,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Monday, October 15, 2007 - Sunday, January 6, 2008"
-    },
-    {
       "venue": "Palacio Real de Madrid",
       "begin": 2007,
       "end": 2008,
       "display_date": "Thursday, March 6, 2008 - Sunday, June 1, 2008"
+    },
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 15, 2007 - Sunday, January 6, 2008"
     }
   ]
 }

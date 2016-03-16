@@ -1,7 +1,7 @@
 {
   "exhibition_id": 19,
   "exhibition_department": "Paintings",
-  "exhibition_title": "American Sublime",
+  "exhibition_title": "American Sublime: Epic Landscapes of our Nation 1820-1880",
   "begin": 2002,
   "end": 2002,
   "display_date": "Wednesday, February 20, 2002 - Sunday, November 17, 2002",
@@ -11,5 +11,24 @@
     63288,
     63290
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Sunday, September 22, 2002 - Sunday, November 17, 2002"
+    },
+    {
+      "venue": "Pennsylvania Academy of the Fine Arts",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Monday, June 17, 2002 - Sunday, August 25, 2002"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Wednesday, February 20, 2002 - Sunday, May 19, 2002"
+    }
+  ]
 }

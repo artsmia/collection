@@ -1,6 +1,6 @@
 {
   "exhibition_id": 900,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Jordaens: The Making of a Masterpiece",
   "begin": 2008,
   "end": 2009,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "Statens Museum for Kunst",
-      "begin": 2008,
-      "end": 2009,
-      "display_date": "Saturday, November 8, 2008 - Sunday, February 1, 2009"
-    },
-    {
       "venue": "Bonnefantenmuseum",
       "begin": 2008,
       "end": 2009,
       "display_date": "Sunday, March 8, 2009 - Monday, June 8, 2009"
+    },
+    {
+      "venue": "Statens Museum for Kunst",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 8, 2008 - Sunday, February 1, 2009"
     }
   ]
 }

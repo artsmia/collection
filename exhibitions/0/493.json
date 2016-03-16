@@ -1,6 +1,6 @@
 {
   "exhibition_id": 493,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Emil Nolde im Dialog (1905-1913)",
   "begin": 2002,
   "end": 2003,
@@ -8,5 +8,18 @@
   "objects": [
     1800
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Gemeentemuseum Den Haag",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Saturday, March 8, 2003 - Monday, June 9, 2003"
+    },
+    {
+      "venue": "Städtische Galerie Karlsruhe",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Saturday, October 12, 2002 - Sunday, February 16, 2003"
+    }
+  ]
 }

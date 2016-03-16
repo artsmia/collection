@@ -10,5 +10,12 @@
     122160,
     122174
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": ", , - , , "
+    }
+  ]
 }

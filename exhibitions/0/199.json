@@ -110,5 +110,24 @@
     80960,
     81045
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Conner Prairie",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Friday, June 4, 2004 - Sunday, August 29, 2004"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Saturday, July 12, 2003 - Sunday, October 5, 2003"
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Sunday, January 25, 2004 - Monday, April 26, 2004"
+    }
+  ]
 }

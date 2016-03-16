@@ -8,5 +8,12 @@
   "objects": [
     2239
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Trust for Museum Exhibitions",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Monday, September 18, 1995 - Friday, May 31, 1996"
+    }
+  ]
 }

@@ -23,5 +23,12 @@
     49221,
     51353
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Wells Fargo",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, October 6, 2001 - Friday, September 27, 2002"
+    }
+  ]
 }

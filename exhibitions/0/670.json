@@ -14,12 +14,6 @@
   ],
   "venues": [
     {
-      "venue": "Sterling and Francine Clark Art Institute",
-      "begin": 2004,
-      "end": 2005,
-      "display_date": "Saturday, October 9, 2004 - Sunday, January 2, 2005"
-    },
-    {
       "venue": "Minneapolis Institute of Art",
       "begin": 2004,
       "end": 2005,
@@ -30,6 +24,12 @@
       "begin": 2004,
       "end": 2005,
       "display_date": "Friday, May 13, 2005 - Sunday, July 10, 2005"
+    },
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, October 9, 2004 - Sunday, January 2, 2005"
     }
   ]
 }

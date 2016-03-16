@@ -8,5 +8,12 @@
   "objects": [
     10434
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2008,
+      "end": 2008,
+      "display_date": "Saturday, February 16, 2008 - Sunday, May 11, 2008"
+    }
+  ]
 }

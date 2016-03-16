@@ -1,6 +1,6 @@
 {
   "exhibition_id": 2218,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Kamisaka Sekka: Rimpa Master-- Pioneer of Modern Design",
   "begin": 2003,
   "end": 2004,
@@ -8,5 +8,30 @@
   "objects": [
     122158
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Birmingham Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Sunday, May 23, 2004 - Sunday, August 1, 2004"
+    },
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Thursday, January 29, 2004 - Sunday, April 25, 2004"
+    },
+    {
+      "venue": "National Museum of Modern Art, Kyoto",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Friday, August 29, 2003 - Monday, October 13, 2003"
+    },
+    {
+      "venue": "Sakura City Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, November 8, 2003 - Tuesday, December 21, 2004"
+    }
+  ]
 }

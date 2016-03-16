@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1551,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Cathedrals. Romanticism - Impressionism - Modernity",
   "begin": 2014,
   "end": 2015,
@@ -8,5 +8,18 @@
   "objects": [
     772
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée des Beaux-Arts de Rouen",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Saturday, April 12, 2014 - Sunday, August 31, 2014"
+    },
+    {
+      "venue": "Wallraf-Richartz-Museum & Fondation Corboud",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, September 26, 2014 - Sunday, January 18, 2015"
+    }
+  ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     1738
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Friday, February 1, 2013 - Friday, May 31, 2013"
+    }
+  ]
 }

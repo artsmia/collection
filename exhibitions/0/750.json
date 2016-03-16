@@ -8,5 +8,12 @@
   "objects": [
     1318
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Sunday, October 1, 2006 - Monday, January 1, 2007"
+    }
+  ]
 }

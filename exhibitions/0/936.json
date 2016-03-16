@@ -1,6 +1,6 @@
 {
   "exhibition_id": 936,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Dutch Life in the Golden Century: An Exhibition of Seventeenth Century Dutch Painting of Daily Life",
   "begin": 1975,
   "end": 1975,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "Museum of Fine Arts, St Petersburg",
-      "begin": 1975,
-      "end": 1975,
-      "display_date": "Tuesday, January 21, 1975 - Sunday, March 2, 1975"
-    },
-    {
       "venue": "High Museum of Art",
       "begin": 1975,
       "end": 1975,
       "display_date": "Friday, April 4, 1975 - Sunday, May 4, 1975"
+    },
+    {
+      "venue": "Museum of Fine Arts, St Petersburg",
+      "begin": 1975,
+      "end": 1975,
+      "display_date": "Tuesday, January 21, 1975 - Sunday, March 2, 1975"
     }
   ]
 }

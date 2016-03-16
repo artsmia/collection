@@ -19,5 +19,24 @@
     44300,
     44599
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Estate Of Henrietta Mcdonald Winton",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998"
+    },
+    {
+      "venue": "Northeast Auctions",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998"
+    },
+    {
+      "venue": "Walker Art Center",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998"
+    }
+  ]
 }

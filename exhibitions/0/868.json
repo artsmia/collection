@@ -1,6 +1,6 @@
 {
   "exhibition_id": 868,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Arshile Gorky: A Retrospective",
   "begin": 2009,
   "end": 2010,
@@ -9,6 +9,12 @@
     1513
   ],
   "venues": [
+    {
+      "venue": "Museum of Contemporary Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Sunday, June 6, 2010 - Monday, September 20, 2010"
+    },
     {
       "venue": "Philadelphia Museum of Art",
       "begin": 2009,
@@ -20,12 +26,6 @@
       "begin": 2009,
       "end": 2010,
       "display_date": "Wednesday, February 10, 2010 - Monday, May 3, 2010"
-    },
-    {
-      "venue": "Museum of Contemporary Art",
-      "begin": 2009,
-      "end": 2010,
-      "display_date": "Sunday, June 6, 2010 - Monday, September 20, 2010"
     }
   ]
 }

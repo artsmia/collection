@@ -32,5 +32,12 @@
     19821,
     43378
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "William S. Fairfield Public Gallery",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, September 21, 2001 - Monday, December 31, 2001"
+    }
+  ]
 }

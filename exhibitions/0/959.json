@@ -8,5 +8,12 @@
   "objects": [
     3540
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Tuesday, October 19, 1993 - Sunday, January 2, 1994"
+    }
+  ]
 }

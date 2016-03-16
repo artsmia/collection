@@ -33,5 +33,24 @@
     49169,
     49181
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée Fabre",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Wednesday, April 10, 2002 - Sunday, June 23, 2002"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Bordeaux",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, October 5, 2001 - Monday, December 31, 2001"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Rennes",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Thursday, January 17, 2002 - Sunday, March 31, 2002"
+    }
+  ]
 }

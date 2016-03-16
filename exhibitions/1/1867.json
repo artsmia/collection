@@ -8,5 +8,12 @@
   "objects": [
     1378
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2008,
+      "end": 2008,
+      "display_date": ", , - , , "
+    }
+  ]
 }

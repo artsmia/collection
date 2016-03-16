@@ -13,5 +13,12 @@
     39822,
     39826
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Roitenberg Family Assisted Living Residence",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Friday, May 9, 2003 - Wednesday, June 30, 2004"
+    }
+  ]
 }

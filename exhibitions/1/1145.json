@@ -22,28 +22,28 @@
   ],
   "venues": [
     {
-      "venue": "Nelson-Atkins Museum of Art",
-      "begin": 2012,
-      "end": 2014,
-      "display_date": "Saturday, April 14, 2012 - Sunday, August 19, 2012"
-    },
-    {
       "venue": "Carnegie Museum of Art",
       "begin": 2012,
       "end": 2014,
       "display_date": "Saturday, October 13, 2012 - Sunday, February 24, 2013"
     },
     {
-      "venue": "New Orleans Museum of Art",
-      "begin": 2012,
-      "end": 2014,
-      "display_date": "Saturday, April 13, 2013 - Sunday, August 4, 2013"
-    },
-    {
       "venue": "Mint Museum of Art",
       "begin": 2012,
       "end": 2014,
       "display_date": "Saturday, September 21, 2013 - Sunday, January 19, 2014"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, April 14, 2012 - Sunday, August 19, 2012"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, April 13, 2013 - Sunday, August 4, 2013"
     }
   ]
 }

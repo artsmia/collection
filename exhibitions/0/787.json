@@ -1,6 +1,6 @@
 {
   "exhibition_id": 787,
-  "exhibition_department": null,
+  "exhibition_department": "Prints and Drawings",
   "exhibition_title": "Making It New: The Art and Style of Sara and Gerald Murphy",
   "begin": 2007,
   "end": 2008,
@@ -9,6 +9,12 @@
     40331
   ],
   "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, June 8, 2008 - Sunday, September 14, 2008"
+    },
     {
       "venue": "Williams College Museum of Art",
       "begin": 2007,
@@ -20,12 +26,6 @@
       "begin": 2007,
       "end": 2008,
       "display_date": "Tuesday, February 26, 2008 - Sunday, May 4, 2008"
-    },
-    {
-      "venue": "Dallas Museum of Art",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Sunday, June 8, 2008 - Sunday, September 14, 2008"
     }
   ]
 }

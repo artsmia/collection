@@ -1,6 +1,6 @@
 {
   "exhibition_id": 751,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Renoir's Landscape 1861-1883",
   "begin": 2007,
   "end": 2008,
@@ -8,5 +8,24 @@
   "objects": [
     1163
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Gallery",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Wednesday, February 21, 2007 - Sunday, May 20, 2007"
+    },
+    {
+      "venue": "National Gallery of Canada",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Friday, June 8, 2007 - Sunday, September 9, 2007"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Sunday, September 30, 2007 - Sunday, January 6, 2008"
+    }
+  ]
 }

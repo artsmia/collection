@@ -8,5 +8,12 @@
   "objects": [
     11448
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "American Federation of Arts",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Monday, June 21, 1999 - Monday, November 6, 2000"
+    }
+  ]
 }

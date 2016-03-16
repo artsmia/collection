@@ -9,5 +9,18 @@
     122172,
     122177
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kimball Art Museum",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Sunday, September 22, 1996 - Sunday, December 1, 1996"
+    },
+    {
+      "venue": "Worcester Art Museum",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Saturday, February 24, 1996 - Sunday, May 5, 1996"
+    }
+  ]
 }

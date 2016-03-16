@@ -8,5 +8,12 @@
   "objects": [
     1268
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Neue Nationalgalerie",
+      "begin": 1998,
+      "end": 1999,
+      "display_date": "Monday, June 1, 1998 - Thursday, January 28, 1999"
+    }
+  ]
 }

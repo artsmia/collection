@@ -8,5 +8,12 @@
   "objects": [
     1162
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Barnes Foundation",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Friday, May 18, 2012 - Monday, March 18, 2013"
+    }
+  ]
 }

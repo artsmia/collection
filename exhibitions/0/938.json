@@ -8,5 +8,12 @@
   "objects": [
     1401
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, St Petersburg",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Sunday, January 28, 2001 - Sunday, April 8, 2001"
+    }
+  ]
 }

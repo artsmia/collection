@@ -31,5 +31,12 @@
     53600,
     53605
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": ", , - , , "
+    }
+  ]
 }

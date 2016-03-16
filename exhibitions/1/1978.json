@@ -18,5 +18,12 @@
     122423,
     122427
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 1986,
+      "end": 1986,
+      "display_date": ", , - , , "
+    }
+  ]
 }

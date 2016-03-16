@@ -1,6 +1,6 @@
 {
   "exhibition_id": 976,
-  "exhibition_department": null,
+  "exhibition_department": "Japanese and Korean Art",
   "exhibition_title": "The Sound of One Hand: Paintings and Calligraphy by Zen Master Hakuin",
   "begin": 2010,
   "end": 2011,
@@ -9,12 +9,6 @@
     61362
   ],
   "venues": [
-    {
-      "venue": "New Orleans Museum of Art",
-      "begin": 2010,
-      "end": 2011,
-      "display_date": "Saturday, February 12, 2011 - Sunday, April 17, 2011"
-    },
     {
       "venue": "Japan Society",
       "begin": 2010,
@@ -26,6 +20,12 @@
       "begin": 2010,
       "end": 2011,
       "display_date": "Sunday, May 22, 2011 - Wednesday, August 17, 2011"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Saturday, February 12, 2011 - Sunday, April 17, 2011"
     }
   ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     4040
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Wheelwright Museum of the American Indian",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Sunday, November 19, 2006 - Sunday, April 29, 2007"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1833,
-  "exhibition_department": "(not assigned)",
+  "exhibition_department": "Art of Africa and the Americas",
   "exhibition_title": "Arriving at Fresh Water: Contemporary Native Artists from Our Great Lakes",
   "begin": 2015,
   "end": 2016,
@@ -29,5 +29,18 @@
     122975,
     123059
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Saturday, May 9, 2015 - Sunday, February 21, 2016"
+    },
+    {
+      "venue": "Plains Art Museum",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Saturday, October 1, 2016 - Saturday, January 7, 2017"
+    }
+  ]
 }

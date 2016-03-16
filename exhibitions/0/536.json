@@ -8,5 +8,12 @@
   "objects": [
     22510
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Brunnier Art Museum",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Tuesday, January 13, 2004 - Saturday, August 7, 2004"
+    }
+  ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     1241
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Gallery of Canada",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Monday, May 3, 1999 - Wednesday, May 17, 2000"
+    }
+  ]
 }

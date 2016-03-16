@@ -1,10 +1,45 @@
 {
   "exhibition_id": 2272,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Woman as Muse in the Age of Matisse",
   "begin": 2013,
   "end": 2014,
   "display_date": "Saturday, December 14, 2013 - Sunday, June 01, 2014",
-  "objects": [],
-  "venues": []
+  "objects": [
+    1591,
+    1670,
+    2761,
+    3885,
+    4460,
+    7243,
+    7380,
+    8879,
+    9187,
+    13190,
+    19534,
+    21661,
+    24099,
+    25187,
+    25571,
+    33428,
+    45258,
+    46259,
+    49671,
+    50312,
+    55135,
+    56383,
+    56387,
+    91162,
+    109684,
+    114534,
+    118619
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, December 14, 2013 - Sunday, June 1, 2014"
+    }
+  ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     1375
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Palacio Real de Madrid",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, October 15, 2003 - Sunday, January 11, 2004"
+    }
+  ]
 }

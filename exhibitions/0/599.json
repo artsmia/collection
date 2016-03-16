@@ -1,6 +1,6 @@
 {
   "exhibition_id": 599,
-  "exhibition_department": null,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Charles Cordier (1827-1905)",
   "begin": 2004,
   "end": 2005,
@@ -8,5 +8,18 @@
   "objects": [
     2276
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dahesh Museum of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Tuesday, October 12, 2004 - Thursday, January 13, 2005"
+    },
+    {
+      "venue": "Musée national des beaux-arts du Québec",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, June 10, 2004 - Monday, September 6, 2004"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1571,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Delacroix and the Matter of Finish",
   "begin": 2013,
   "end": 2014,
@@ -10,16 +10,16 @@
   ],
   "venues": [
     {
-      "venue": "Santa Barbara Museum of Art",
-      "begin": 2013,
-      "end": 2014,
-      "display_date": "Sunday, October 27, 2013 - Sunday, January 26, 2014"
-    },
-    {
       "venue": "Birmingham Museum of Art",
       "begin": 2013,
       "end": 2014,
       "display_date": "Sunday, February 23, 2014 - Sunday, May 18, 2014"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Sunday, October 27, 2013 - Sunday, January 26, 2014"
     }
   ]
 }

@@ -9,5 +9,24 @@
     121366,
     121376
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Hiroshima Prefectural Museum of Art",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Tuesday, August 2, 2005 - Sunday, September 4, 2005"
+    },
+    {
+      "venue": "Kyoto National Museum",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Tuesday, September 13, 2005 - Sunday, October 16, 2005"
+    },
+    {
+      "venue": "Tohoku History Museum",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Tuesday, October 25, 2005 - Sunday, November 27, 2005"
+    }
+  ]
 }

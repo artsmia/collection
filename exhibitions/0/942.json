@@ -9,5 +9,18 @@
     278,
     10450
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "M. Knoedler & Company, Inc.",
+      "begin": 1957,
+      "end": 1957,
+      "display_date": "Monday, January 14, 1957 - Saturday, February 2, 1957"
+    },
+    {
+      "venue": "The Society of the Four Arts",
+      "begin": 1957,
+      "end": 1957,
+      "display_date": "Friday, February 15, 1957 - Sunday, March 10, 1957"
+    }
+  ]
 }

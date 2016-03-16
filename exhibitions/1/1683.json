@@ -34,5 +34,12 @@
     118456,
     118457
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Tuesday, February 10, 2015 - Tuesday, June 30, 2015"
+    }
+  ]
 }

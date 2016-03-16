@@ -13,5 +13,12 @@
     117194,
     122169
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Azabu Museum of Art",
+      "begin": 1989,
+      "end": 1989,
+      "display_date": ", , - Sunday, July 2, 1989"
+    }
+  ]
 }

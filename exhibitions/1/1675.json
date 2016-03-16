@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1675,
-  "exhibition_department": null,
+  "exhibition_department": "Contemporary Art",
   "exhibition_title": "Kehinde Wiley: A New Republic",
   "begin": 2015,
   "end": 2017,
@@ -22,16 +22,10 @@
       "display_date": "Sunday, September 20, 2015 - Sunday, January 10, 2016"
     },
     {
-      "venue": "Seattle Art Museum",
+      "venue": "Oklahoma City Museum of Art",
       "begin": 2015,
       "end": 2017,
-      "display_date": "Friday, February 12, 2016 - Sunday, May 8, 2016"
-    },
-    {
-      "venue": "Virginia Museum of Fine Arts",
-      "begin": 2015,
-      "end": 2017,
-      "display_date": "Friday, June 10, 2016 - Monday, September 5, 2016"
+      "display_date": "Friday, June 16, 2017 - Sunday, September 10, 2017"
     },
     {
       "venue": "Phoenix Art Museum",
@@ -40,16 +34,22 @@
       "display_date": "Friday, October 7, 2016 - Sunday, January 8, 2017"
     },
     {
+      "venue": "Seattle Art Museum",
+      "begin": 2015,
+      "end": 2017,
+      "display_date": "Friday, February 12, 2016 - Sunday, May 8, 2016"
+    },
+    {
       "venue": "Toledo Museum of Art",
       "begin": 2015,
       "end": 2017,
       "display_date": "Friday, February 10, 2017 - Sunday, May 14, 2017"
     },
     {
-      "venue": "Oklahoma City Museum of Art",
+      "venue": "Virginia Museum of Fine Arts",
       "begin": 2015,
       "end": 2017,
-      "display_date": "Friday, June 16, 2017 - Sunday, September 10, 2017"
+      "display_date": "Friday, June 10, 2016 - Monday, September 5, 2016"
     }
   ]
 }

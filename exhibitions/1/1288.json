@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1288,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "The Last Days of Mankind: Art of Vienna and the Austro-Hungarian Empire 1908 - 1920",
   "begin": 2014,
   "end": 2014,
@@ -8,5 +8,18 @@
   "objects": [
     10219
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Leopold Museum",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Thursday, May 1, 2014 - Saturday, August 30, 2014"
+    },
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Wednesday, January 1, 2014 - Wednesday, April 30, 2014"
+    }
+  ]
 }

@@ -19,5 +19,12 @@
     9598,
     9600
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 1970,
+      "end": 1970,
+      "display_date": ", , - , , "
+    }
+  ]
 }

@@ -13,5 +13,12 @@
     47056,
     47057
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Columbus Museum of Art",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Friday, January 28, 2005 - Sunday, April 17, 2005"
+    }
+  ]
 }

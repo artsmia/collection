@@ -9,5 +9,12 @@
     1224,
     1639
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum Folkwang",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Saturday, September 29, 2012 - Sunday, January 20, 2013"
+    }
+  ]
 }

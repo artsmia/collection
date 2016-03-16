@@ -13,5 +13,12 @@
     24039,
     24040
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "George Bush Presidential Library and Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 30, 2003 - Sunday, January 4, 2004"
+    }
+  ]
 }

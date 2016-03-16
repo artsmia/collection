@@ -55,10 +55,28 @@
   ],
   "venues": [
     {
+      "venue": "Greenville County Museum",
+      "begin": 2004,
+      "end": 2006,
+      "display_date": "Saturday, July 30, 2005 - Saturday, October 8, 2005"
+    },
+    {
+      "venue": "Knoxville Museum of Art",
+      "begin": 2004,
+      "end": 2006,
+      "display_date": "Saturday, April 16, 2005 - Saturday, June 25, 2005"
+    },
+    {
       "venue": "Minneapolis Institute of Art",
       "begin": 2004,
       "end": 2006,
       "display_date": "Sunday, November 21, 2004 - Sunday, February 20, 2005"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2004,
+      "end": 2006,
+      "display_date": "Saturday, November 12, 2005 - Saturday, January 28, 2006"
     }
   ]
 }

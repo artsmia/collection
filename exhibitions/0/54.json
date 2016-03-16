@@ -8,5 +8,12 @@
   "objects": [
     1274
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Frederick R. Weisman Art Museum",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Monday, November 15, 1993 - Friday, March 11, 1994"
+    }
+  ]
 }

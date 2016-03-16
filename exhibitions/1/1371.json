@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1371,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "The New American Painting",
   "begin": 1958,
   "end": 1959,
@@ -8,60 +8,5 @@
   "objects": [
     1332
   ],
-  "venues": [
-    {
-      "venue": "Nunsthalle",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Saturday, April 19, 1958 - Wednesday, March 26, 1958"
-    },
-    {
-      "venue": "Galleria Civica d'Arte Moderna e Contemporanea di Torino",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Sunday, June 1, 1958 - Sunday, June 29, 1958"
-    },
-    {
-      "venue": "Museo Nacional de Arte Contemporaneo",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Wednesday, July 16, 1958 - Monday, August 11, 1958"
-    },
-    {
-      "venue": "Hochscule für Bildende Kunste",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Monday, September 1, 1958 - Wednesday, October 1, 1958"
-    },
-    {
-      "venue": "Stedelijk Museum, Amsterdam",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Friday, October 17, 1958 - Monday, November 24, 1958"
-    },
-    {
-      "venue": "Palais des Beaux-Arts, Brussels",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Saturday, December 6, 1958 - Sunday, January 4, 1959"
-    },
-    {
-      "venue": "Musée National d'Art Moderne",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Friday, January 16, 1959 - Sunday, February 15, 1959"
-    },
-    {
-      "venue": "Tate Britain",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Tuesday, February 24, 1959 - Monday, March 23, 1959"
-    },
-    {
-      "venue": "Museum of Modern Art, New York",
-      "begin": 1958,
-      "end": 1959,
-      "display_date": "Tuesday, May 26, 1959 - Tuesday, September 8, 1959"
-    }
-  ]
+  "venues": []
 }

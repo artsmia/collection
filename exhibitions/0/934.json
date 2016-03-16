@@ -11,6 +11,12 @@
   ],
   "venues": [
     {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Thursday, May 23, 1991 - Sunday, August 11, 1991"
+    },
+    {
       "venue": "Minneapolis Institute of Art",
       "begin": 1990,
       "end": 1991,
@@ -21,12 +27,6 @@
       "begin": 1990,
       "end": 1991,
       "display_date": "Sunday, January 27, 1991 - Sunday, April 21, 1991"
-    },
-    {
-      "venue": "Los Angeles County Museum of Art",
-      "begin": 1990,
-      "end": 1991,
-      "display_date": "Thursday, May 23, 1991 - Sunday, August 11, 1991"
     }
   ]
 }

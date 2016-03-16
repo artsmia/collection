@@ -1,6 +1,6 @@
 {
   "exhibition_id": 38,
-  "exhibition_department": null,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Myer Myers: Jewish Silversmith in Colonial New York",
   "begin": 2001,
   "end": 2002,
@@ -8,5 +8,24 @@
   "objects": [
     17940
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Henry Francis du Pont Winterthur Museum",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Thursday, June 20, 2002 - Friday, September 13, 2002"
+    },
+    {
+      "venue": "Skirball Museum",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Wednesday, February 20, 2002 - Sunday, May 26, 2002"
+    },
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, September 14, 2001 - Monday, December 30, 2002"
+    }
+  ]
 }

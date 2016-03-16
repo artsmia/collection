@@ -8,5 +8,12 @@
   "objects": [
     565
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Galleria Estense",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Thursday, September 3, 1998 - Thursday, December 17, 1998"
+    }
+  ]
 }

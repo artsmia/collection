@@ -9,5 +9,12 @@
     44,
     1413
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Complesso del Vittoriano",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, April 20, 2013 - Sunday, February 9, 2014"
+    }
+  ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     773
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Modern Art, New York",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Monday, May 5, 1997 - Tuesday, January 20, 1998"
+    }
+  ]
 }

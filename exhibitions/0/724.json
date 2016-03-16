@@ -1,6 +1,6 @@
 {
   "exhibition_id": 724,
-  "exhibition_department": null,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Connections: International Turning Exchange 1995-2005",
   "begin": 2005,
   "end": 2007,
@@ -8,5 +8,42 @@
   "objects": [
     61910
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Arkansas Arts Center",
+      "begin": 2005,
+      "end": 2007,
+      "display_date": "Friday, February 9, 2007 - Sunday, March 25, 2007"
+    },
+    {
+      "venue": "Dane G. Hansen Memorial Museum",
+      "begin": 2005,
+      "end": 2007,
+      "display_date": "Friday, December 1, 2006 - Sunday, January 28, 2007"
+    },
+    {
+      "venue": "Fort Wayne Museum of Art",
+      "begin": 2005,
+      "end": 2007,
+      "display_date": "Saturday, September 2, 2006 - Sunday, November 5, 2006"
+    },
+    {
+      "venue": "Mobile Museum of Art",
+      "begin": 2005,
+      "end": 2007,
+      "display_date": "Friday, April 20, 2007 - Sunday, June 17, 2007"
+    },
+    {
+      "venue": "Noyes Museum of Art",
+      "begin": 2005,
+      "end": 2007,
+      "display_date": "Saturday, January 14, 2006 - Sunday, May 7, 2006"
+    },
+    {
+      "venue": "Philip and Muriel Berman Museum of Art",
+      "begin": 2005,
+      "end": 2007,
+      "display_date": "Tuesday, September 13, 2005 - Sunday, October 30, 2005"
+    }
+  ]
 }

@@ -8,5 +8,12 @@
   "objects": [
     3267
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Royal Scottish Academy",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Wednesday, August 6, 2003 - Sunday, October 26, 2003"
+    }
+  ]
 }

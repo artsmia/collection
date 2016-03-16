@@ -12,5 +12,12 @@
     122185,
     122187
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Loch Haven Art Center",
+      "begin": 1980,
+      "end": 1980,
+      "display_date": "Tuesday, January 8, 1980 - Saturday, February 2, 1980"
+    }
+  ]
 }

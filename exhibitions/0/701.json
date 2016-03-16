@@ -1,6 +1,6 @@
 {
   "exhibition_id": 701,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Cézanne to Picasso: Ambroise Vollard, Patron of the Avant-Garde",
   "begin": 2006,
   "end": 2007,
@@ -9,12 +9,6 @@
     1429
   ],
   "venues": [
-    {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2006,
-      "end": 2007,
-      "display_date": "Wednesday, September 13, 2006 - Sunday, January 7, 2007"
-    },
     {
       "venue": "Art Institute of Chicago",
       "begin": 2006,
@@ -26,6 +20,12 @@
       "begin": 2006,
       "end": 2007,
       "display_date": "Monday, June 11, 2007 - Sunday, September 16, 2007"
+    },
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Wednesday, September 13, 2006 - Sunday, January 7, 2007"
     }
   ]
 }

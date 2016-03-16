@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1905,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Masters of Japanese Calligraphy 8th-19th Century",
   "begin": 1984,
   "end": 1985,
@@ -8,5 +8,30 @@
   "objects": [
     6906
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 1984,
+      "end": 1985,
+      "display_date": "Thursday, October 4, 1984 - Sunday, January 6, 1985"
+    },
+    {
+      "venue": "Japan House Gallery",
+      "begin": 1984,
+      "end": 1985,
+      "display_date": "Thursday, October 4, 1984 - Sunday, January 6, 1985"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 1984,
+      "end": 1985,
+      "display_date": "Friday, February 15, 1985 - Sunday, March 31, 1985"
+    },
+    {
+      "venue": "Seattle Art Museum",
+      "begin": 1984,
+      "end": 1985,
+      "display_date": "Thursday, May 9, 1985 - Sunday, July 14, 1985"
+    }
+  ]
 }

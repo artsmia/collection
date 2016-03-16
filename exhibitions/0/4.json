@@ -8,5 +8,12 @@
   "objects": [
     61
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "University of Wyoming Art Museum",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, April 1, 2000 - Monday, January 15, 2001"
+    }
+  ]
 }

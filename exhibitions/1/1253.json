@@ -8,5 +8,12 @@
   "objects": [
     802
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Palazzo Reale",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, October 22, 2011 - Sunday, February 26, 2012"
+    }
+  ]
 }

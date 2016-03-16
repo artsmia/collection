@@ -1,6 +1,6 @@
 {
   "exhibition_id": 145,
-  "exhibition_department": null,
+  "exhibition_department": "Paintings",
   "exhibition_title": "Impressionist and Post-Impressionist Still-Life Painting",
   "begin": 2001,
   "end": 2002,
@@ -8,5 +8,18 @@
   "objects": [
     3267
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Sunday, February 17, 2002 - Sunday, June 9, 2002"
+    },
+    {
+      "venue": "The Phillips Collection",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, September 22, 2001 - Sunday, January 13, 2002"
+    }
+  ]
 }

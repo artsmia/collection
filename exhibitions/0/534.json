@@ -8,5 +8,12 @@
   "objects": [
     1414
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Wednesday, June 16, 2004 - Sunday, September 19, 2004"
+    }
+  ]
 }

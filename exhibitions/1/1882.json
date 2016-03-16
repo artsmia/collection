@@ -10,5 +10,12 @@
     122076,
     122189
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Metropolitan Museum of Art",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": ", , - , , "
+    }
+  ]
 }

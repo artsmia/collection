@@ -1,11 +1,12 @@
 {
   "exhibition_id": 2319,
-  "exhibition_department": null,
+  "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Matisse en noir et blanc",
   "begin": 2016,
   "end": 2017,
   "display_date": "Wednesday, November 30, 2016 - Monday, March 06, 2017",
   "objects": [
+    766,
     1889
   ],
   "venues": [

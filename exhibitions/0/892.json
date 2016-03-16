@@ -1,6 +1,6 @@
 {
   "exhibition_id": 892,
-  "exhibition_department": null,
+  "exhibition_department": "Art of Africa and the Americas",
   "exhibition_title": "Art and Power in the Central African Savanna",
   "begin": 2008,
   "end": 2009,
@@ -9,12 +9,6 @@
     3862
   ],
   "venues": [
-    {
-      "venue": "Menil Collection",
-      "begin": 2008,
-      "end": 2009,
-      "display_date": "Friday, September 26, 2008 - Sunday, January 4, 2009"
-    },
     {
       "venue": "Cleveland Museum of Art",
       "begin": 2008,
@@ -26,6 +20,12 @@
       "begin": 2008,
       "end": 2009,
       "display_date": "Sunday, June 28, 2009 - Sunday, October 11, 2009"
+    },
+    {
+      "venue": "Menil Collection",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, September 26, 2008 - Sunday, January 4, 2009"
     }
   ]
 }

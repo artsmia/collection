@@ -8,5 +8,12 @@
   "objects": [
     10435
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Thyssen-Bornemisza",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Tuesday, October 9, 2012 - Sunday, January 13, 2013"
+    }
+  ]
 }

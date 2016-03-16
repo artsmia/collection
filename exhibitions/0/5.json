@@ -55,10 +55,34 @@
   ],
   "venues": [
     {
+      "venue": "Carnegie Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": ", , - , , "
+    },
+    {
       "venue": "Minneapolis Institute of Art",
       "begin": 1995,
       "end": 1995,
       "display_date": "Sunday, February 5, 1995 - Sunday, April 30, 1995"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": ", , - , , "
     }
   ]
 }

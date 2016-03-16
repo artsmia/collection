@@ -11,5 +11,12 @@
     10436,
     10449
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Tokyo Fuji Art Museum",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Sunday, September 1, 2013 - Wednesday, April 30, 2014"
+    }
+  ]
 }

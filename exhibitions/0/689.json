@@ -8,5 +8,12 @@
   "objects": [
     1265
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Santa Fe",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Friday, June 10, 2005 - Monday, October 3, 2005"
+    }
+  ]
 }

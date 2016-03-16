@@ -1,6 +1,6 @@
 {
   "exhibition_id": 2341,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Japanese decorative style",
   "begin": 1961,
   "end": 1961,
@@ -8,5 +8,18 @@
   "objects": [
     9607
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 1961,
+      "end": 1961,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 1961,
+      "end": 1961,
+      "display_date": ", , - , , "
+    }
+  ]
 }

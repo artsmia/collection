@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1578,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Working Among Flowers: Floral Still Life Painting in Nineteenth-Century France",
   "begin": 2014,
   "end": 2015,
@@ -16,16 +16,16 @@
       "display_date": "Sunday, October 26, 2014 - Sunday, February 8, 2015"
     },
     {
-      "venue": "Virginia Museum of Fine Arts",
-      "begin": 2014,
-      "end": 2015,
-      "display_date": "Sunday, March 22, 2015 - Sunday, June 21, 2015"
-    },
-    {
       "venue": "Denver Art Museum",
       "begin": 2014,
       "end": 2015,
       "display_date": "Sunday, July 19, 2015 - Sunday, October 11, 2015"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, March 22, 2015 - Sunday, June 21, 2015"
     }
   ]
 }

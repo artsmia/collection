@@ -18,5 +18,18 @@
     40950,
     40951
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunstmuseum Wolfsburg",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, March 16, 2002 - Sunday, June 16, 2002"
+    },
+    {
+      "venue": "Stedelijk Museum, Amsterdam",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, November 17, 2001 - Sunday, February 24, 2002"
+    }
+  ]
 }

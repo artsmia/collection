@@ -11,5 +11,24 @@
     6920,
     99425
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Honolulu Academy of Arts",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "Japan Society",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": ", , - , , "
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": ", , - , , "
+    }
+  ]
 }

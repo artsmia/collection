@@ -9,5 +9,18 @@
     116865,
     116866
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Ichimura Department Store",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Friday, June 2, 1967 - Tuesday, June 13, 1967"
+    },
+    {
+      "venue": "Kobayashi Department Store",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Wednesday, May 10, 1967 - Sunday, May 28, 1967"
+    }
+  ]
 }
