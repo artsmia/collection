@@ -10,10 +10,10 @@
   "description": "two figures in pavillion on stilts in water; dark rock coveriing much of pavillon; pine trees and larger rock formations in background; bridge through haze at center; boat at L; inscription",
   "dimension": "29 3/8 × 10 7/8 in. (74.61 × 27.62 cm) (image)\r\n57 × 14 3/4 in. (144.78 × 37.47 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/99427",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 4236,
+  "image_width": 3340,
   "inscription": "Signature, Inscription, and Seals\r\n\r\nULQ: [South of the river, north of the river, the snow is clearing. / Mountains spew forth rosy clouds, springtime colors are fresh. / Travelers remove their shoes, though the going still is rough. / Opening the window, seated guests enjoy the splendid view . / Water flowing beneath the bridge rings like chimes of jade. / At the eaves, the wind in the pines tunes its string less lute. / But why is that leaf of a boat moored beside the cliff? / It must be a craft for roving ten thousand miles away]",
   "life_date": "Japanese, active first half of the 15th century",
   "markings": "LRC: [Hidemori]; ULQ, to UR of inscription; and ULQ: [Sesshin]",
@@ -26,6 +26,6 @@
   "room": "G222",
   "signed": "ULQ: [Composed at random by Chosetsushi]",
   "style": "15th century",
-  "text": "Ink landscape painting in Japan grew out of the practice among Zen priests, in the late 14th and early 15th centuries, of depicting idyllic imaginary retreats located deep within misty mountains. Buddhist priests of the Song dynasty in China rendered such imaging, but the theme was adopted by Japanese monks who visited the mainland for Zen training. Such scenes, exchanged between like-minded gentlemen, provided a visual escape from the bureaucratic demands and turmoil of their daily lives. Many of these paintings are <I>shigajiku<I> (literally, poem-painting scroll) indicating that the large area of the paper or silk was left blank so that friends of the owner could inscribe the work with their sentiments about the scene depicted. Here, a poet known as Cho_setsushi reflects on the delights of distant travel: \r\n\r\n<P><I>South of the river, north of the river,<I> \r\n                   <P><I>the snow is clearing.<I>\r\n<P><I>Mountains spew forth rosy clouds,<I> \r\n\t<P><I>springtime colors are fresh.<I>\r\n<P><I>Travelers remove their shoes, though<I>\r\n\t<P><I>the going still is rough.<I> \r\n<P><I>Beside the open window, seated guests<I>\r\n\t<P><I>enjoy the splendid view.<I>\r\n<P><I>At the eaves, the wind in the pines<I>\r\n\t<P><I>tunes its stringless lute.<I>\r\n<P><I>But why is that leaf of a boat moored<I> \r\n\t<P><I>beside the cliff'<I>\r\n<P><I>Perhaps it is for wandering ten thousand<I>\r\n\t<P><I>miles away.<I> \r\n",
+  "text": "Ink landscape painting in Japan grew out of the practice among Zen priests, in the late 14th and early 15th centuries, of depicting idyllic imaginary retreats located deep within misty mountains. Buddhist priests of the Song dynasty in China rendered such imaging, but the theme was adopted by Japanese monks who visited the mainland for Zen training. Such scenes, exchanged between like-minded gentlemen, provided a visual escape from the bureaucratic demands and turmoil of their daily lives. Many of these paintings are <I>shigajiku</I> (literally, poem-painting scroll) indicating that the large area of the paper or silk was left blank so that friends of the owner could inscribe the work with their sentiments about the scene depicted. Here, a poet known as Chōsetsushi reflects on the delights of distant travel: \r\n\r\n<P><I>South of the river, north of the river, \r\n                   <P>the snow is clearing.\r\n<P>Mountains spew forth rosy clouds, \r\n\t<P>springtime colors are fresh.\r\n<P>Travelers remove their shoes, though\r\n\t<P>the going still is rough. \r\n<P>Beside the open window, seated guests\r\n\t<P>enjoy the splendid view.\r\n<P>At the eaves, the wind in the pines\r\n\t<P>tunes its stringless lute.\r\n<P>But why is that leaf of a boat moored \r\n\t<P>beside the cliff'\r\n<P>Perhaps it is for wandering ten thousand\r\n\t<P>miles away.</I> \r\n",
   "title": "Early Spring Landscape"
 }
