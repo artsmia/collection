@@ -1,5 +1,5 @@
 {
-  "accession_number": "2015.79.217.1",
+  "accession_number": "2015.79.217",
   "artist": "Nishikawa Sukenobu",
   "continent": "Asia",
   "country": "Japan",
@@ -7,13 +7,13 @@
   "culture": null,
   "dated": "1731",
   "department": "Japanese and Korean Art",
-  "description": "three volumes bound as one; volume one: famous court ladies depicted relaxing, talking, playing games, reading, and writing; focus on volumnous, elegant clothing; outside cover is dark blue and gold brocade; cover for volume is dark blue\r\n",
-  "dimension": "10 15/16 × 7 5/8 × 1 in. (27.78 × 19.37 × 2.54 cm) (all books together)\r\n10 5/8 × 7 × 3/8 in. (26.99 × 17.78 × 0.95 cm) (this volume)",
+  "description": "three volumes bound as one with brocade cover; volume one shows famous court ladies relaxing, chatting, playing games, reading, and writing; volume two shows more common women; volume three depicts courtesans talking, smoking, primping, tuning instruments, etc. \r\n\r\n",
+  "dimension": "10 15/16 × 7 5/8 × 1 in. (27.78 × 19.37 × 2.54 cm) (all books together)",
   "id": "http://api.artsmia.org/objects/122305",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1930,
+  "image_width": 2444,
   "inscription": "",
   "life_date": "1671 - 1750",
   "markings": "",
@@ -27,5 +27,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Ilustrated  Lives of Famous and Not-So-Famous Women (Ehon tokiwagusa), vol. 1"
+  "title": "Ilustrated  Lives of Famous and Not-So-Famous Women (Ehon tokiwagusa), vol. 1-3"
 }
