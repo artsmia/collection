@@ -1,6 +1,7 @@
 {
   "accession_number": "81.105",
-  "artist": "Grant Wood",
+  "artist": "Artist: Grant Wood",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Purchased jointly by The Minneapolis Institute of Arts and the Des Moines Art Center; with funds from the John R. Van Derlip Fund, Mrs. Howard H. Frank, and the Edmundson Art Foundation, Inc.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4405,
   "image_width": 5866,
-  "life_date": "American, 1891-1942",
-  "marks": "Signature and Date LL: [Grant Wood, 1931]",
+  "inscription": "Signature and Date",
+  "life_date": "American, 1891–1942",
+  "markings": "",
   "medium": "Oil on masonite",
   "nationality": "American",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G302",
+  "signed": "LL: [Grant Wood, 1931]",
   "style": "20th century",
-  "text": "",
+  "text": "Grant Wood, born and raised in Iowa, was the foremost artist of the American Regionalist movement, which focused on the human condition and the values of a rural environment. This well-organized landscape, with its linear precision and repetition of forms, emphasizes the order and harmony of country life. A group of Iowa businessmen commissioned this painting to present to President Herbert Hoover, who was born in the white frame cabin situated immediately behind the two-story house in the middle of the scene. The president, who had stressed his humble origins during his campaign, refused the painting because the inclusion of the larger, later house obscured the cabin. Wood eventually sold it through a dealer.",
   "title": "The Birthplace of Herbert Hoover, West Branch, Iowa"
 }

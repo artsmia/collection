@@ -1,6 +1,7 @@
 {
   "accession_number": "B.82.5",
-  "artist": "Alphonse Mucha; Text by Robert de Fleys; L'Edition d'Art H. Piazza et Compagnie, Paris; L'Imprimerie Champenois",
+  "artist": "Artist: Alphonse Mucha; Author: Text by Robert de Fleys; Publisher: L'Edition d'Art H. Piazza et Compagnie, Paris; Printer: L'Imprimerie Champenois",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Czechoslovakia",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2744,
   "image_width": 3794,
+  "inscription": "Mark",
   "life_date": "Czech, 1860 - 1939",
-  "marks": "Mark ",
+  "markings": "Watermark: <ILSEE>",
   "medium": "Color lithographs; letterpress",
   "nationality": "Czech",
   "provenance": "Bruce B. Dayton, Wayzata, Minn., until 1982; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Ilsee, Princess de Tripoli"

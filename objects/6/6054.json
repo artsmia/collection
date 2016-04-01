@@ -1,6 +1,7 @@
 {
   "accession_number": "B.75.4",
-  "artist": "Oskar Kokoschka; Text by William Shakespeare; Ganymeade Original Editions Ltd., London; J. E. Wolfsenberger; Vivian Ridler , (type)",
+  "artist": "Artist: Oskar Kokoschka; Author: Text by William Shakespeare; Publisher: Ganymeade Original Editions Ltd., London; Lithographer: J. E. Wolfsenberger; Printer: Vivian Ridler , (type)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 7774,
   "image_width": 5816,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "",
   "medium": "Lithographs, letterpress",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "King Lear"

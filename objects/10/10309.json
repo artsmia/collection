@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.34",
-  "artist": "Creil Factory",
+  "artist": "Maker: Creil Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "Marks: Medallion reading \\'PAR BREVET D\\'INVENTION Manuf.re d\\'Impression sur Faience, Porcelaine, & c.\\' in the center of the medallion the monogram standing for the owners of the factory -- Legros d\\'Anizy, Coquerel and Stone. in the paste is impressed the word \\'CREIL\\' where the factory was located.",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Plate"

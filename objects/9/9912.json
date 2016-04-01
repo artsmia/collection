@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,812",
-  "artist": "John Gould; Elizabeth Gould; C. Hullmandel",
+  "artist": "Artist: John Gould; Artist: Elizabeth Gould; Printer: C. Hullmandel",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9471,
   "image_width": 6608,
+  "inscription": "",
   "life_date": "British, 1804 - 1881",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Menura Superba: Shaw (Lyrebird)"

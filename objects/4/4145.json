@@ -1,6 +1,7 @@
 {
   "accession_number": "91.132",
-  "artist": "René Magritte",
+  "artist": "Artist: René Magritte",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "© C. Herscovici %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4351,
   "image_width": 3554,
+  "inscription": "Signature; Inscriptions",
   "life_date": "Belgian, 1898 - 1967",
-  "marks": "Signature; Inscriptions LR: [Magritte]",
+  "markings": "Miscellaneous inscriptions, in graphite, on verso",
   "medium": "Gouache on paper",
   "nationality": "Belgian",
   "provenance": "(Niveau International, New York, sold to Butler); Mrs. Patrick Butler, St. Paul (acquired as \"Les Torses\"), until 1991; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Magritte]",
   "style": "20th century",
   "text": "",
   "title": "Lola de Valence"

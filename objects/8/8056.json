@@ -1,6 +1,7 @@
 {
   "accession_number": "79.26.28",
-  "artist": "Frank Lloyd Wright; Noritake Porcelain Company",
+  "artist": "Designer: Frank Lloyd Wright; Manufacturer: Noritake Porcelain Company",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States and Japan",
   "creditline": "Gift of Mr. and Mrs. Roger Kennedy",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": 1920,
   "image_width": 1848,
-  "life_date": "American, 1867 - 1959",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1867–1959",
+  "markings": "",
   "medium": "Porcelain, enamels",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Fruit Bowl from a set for the Imperial Hotel, Tokyo"

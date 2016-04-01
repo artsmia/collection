@@ -1,6 +1,7 @@
 {
   "accession_number": "64.22",
-  "artist": "Johan Barthold Jongkind",
+  "artist": "Artist: Johan Barthold Jongkind",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Nathan Cummings",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4961,
   "image_width": 6772,
+  "inscription": "",
   "life_date": "Dutch, 1819 - 1891",
-  "marks": " LL: Jongkind, 1875",
+  "markings": "Stamps on verso: Canvas: Alexis Ottoz /...Paris \r\n\r\nLabels removed from stretcher, in curatorial file:\r\nBlack print (stamped): 4835 | Red ink (stamped): 10781 | Black ink (stamped): 3466 | Torn label, black print and blue pencil: Art depnt. / BM.5",
   "medium": "Oil on canvas",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G355",
+  "signed": "LL: Jongkind, 1875",
   "style": "19th century",
   "text": "Born and trained in Holland, Jongkind became a pioneer of outdoor painting in France. The immediacy of his broken brushwork and lively color impressed the young Claude Monet. After the two artists pained together along the coast of Normandy in the early 1860s, Monet commented, \"From that time he was my real master...It was to him that I owe the final education of my eye.\"",
   "title": "View of Lake Léman at Nyon"

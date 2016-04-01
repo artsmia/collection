@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,934",
-  "artist": "George Edwards",
+  "artist": "Artist: George Edwards",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1485,
+  "inscription": "Inscription",
   "life_date": "English, 1694 - 1773",
-  "marks": "Inscription ",
+  "markings": "[George Edwards pinx. 1761]",
   "medium": "Hand-colored engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "A Natural History of Uncommon Birds was an early and important contribution to the burgeoning field of ornithological illustration in England. This depiction of an Indian Roller illustrates the predominant conventions for representing birds at the time, showing it in a static profile view and perched on a stump. The detail may be exacting, but the representation is very different than the approach taken to showing Lady Impey’s birds.",
   "title": "The Swallow-Tailed Indian Roller"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,525",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3999,
   "image_width": 2794,
+  "inscription": "LL recto, in pencil and crossed out: [134171]\r\nLL verso, in pencil: [2-7-96]; [26]; [159 (?) / a12948]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil and crossed out: [134171]\r\nLL  Printed signature LL (diagonally) in the plate: [W",
+  "markings": "Watermark: [(1814 / 2)] Whatman paper",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, OR), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LL (diagonally) in the plate: [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "La Marchande de Moutarde from \"Twelve Etchings from Nature\""

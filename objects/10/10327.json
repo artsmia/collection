@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.34",
-  "artist": "Tamura Suiō",
+  "artist": "Painter: Tamura Suiō",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5445,
   "image_width": 3525,
+  "inscription": "Signature",
   "life_date": "Japanese, active c.1680-1730",
-  "marks": "Signature Suio_shi hitsu",
+  "markings": "seal: Kanman",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Suio_shi hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Standing Courtesan"

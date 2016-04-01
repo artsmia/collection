@@ -1,6 +1,7 @@
 {
   "accession_number": "84.91",
-  "artist": "Joe Grandee",
+  "artist": "Artist: Joe Grandee",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift on Mr. and Mrs. C.C. Odom",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1710,
   "image_width": 2560,
+  "inscription": "",
   "life_date": "American, born 1929",
-  "marks": " LR: Joe Grandee / 1969",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: Joe Grandee / 1969",
   "style": "20th century",
   "text": "",
   "title": "Down from the High Country"

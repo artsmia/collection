@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.6",
-  "artist": "Felix O. C. Darley",
+  "artist": "Artist: Felix O. C. Darley",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4055,
   "image_width": 3317,
+  "inscription": "Signature",
   "life_date": "American, 1822 - 1888",
-  "marks": "Signature [F.O.C. Darley] in ink, lower right",
+  "markings": "",
   "medium": "Watercolor on off white watercolor wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[F.O.C. Darley] in ink, lower right",
   "style": "19th century",
   "text": "",
   "title": "Nude Sitting by a River"

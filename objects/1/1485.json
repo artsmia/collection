@@ -1,6 +1,7 @@
 {
   "accession_number": "62.43",
-  "artist": "Attributed to Roviale Spagnolo (Pedro Rubiales)",
+  "artist": "Artist: Attributed to Roviale Spagnolo (Pedro Rubiales)",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9797,
   "image_width": 6699,
+  "inscription": "",
   "life_date": "Spanish (active Italy), 1511? - 1582?",
-  "marks": " ",
+  "markings": "",
   "medium": "Tempera on panel",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Last Judgment"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.31.5",
-  "artist": "Conrad Marca-Relli; Marlborough Graphics, New York",
+  "artist": "Artist: Conrad Marca-Relli; Publisher: Marlborough Graphics, New York",
+  "classification": "Collages / Assemblages",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Terrence D. Curley",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3090,
   "image_width": 4101,
-  "life_date": "American, 1913-2000",
-  "marks": "Signature; Date; Edition\r\n\r\n[32/50] in graphite, l In graphite, lower right:  [Marca-Relli/70]\r\n",
+  "inscription": "Signature; Date; Edition\r\n\r\n[32/50] in graphite, lower left",
+  "life_date": "American, 1913–2000",
+  "markings": "",
   "medium": "Lithograph with collage, various cut papers and fabrics",
   "nationality": "American",
   "provenance": "Terrence D. Curley, Golden Valley, Minn.; given to MIA, 1998.",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, lower right:  [Marca-Relli/70]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Autumn Suite–A"

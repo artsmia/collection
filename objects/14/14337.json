@@ -1,6 +1,7 @@
 {
   "accession_number": "25.57",
-  "artist": "Istvan Szönyi",
+  "artist": "Artist: Istvan Szönyi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5169,
   "image_width": 3165,
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Hungarian, 1894 - 1960",
-  "marks": "Signature; Date\r\nsee Signed [S I 1922]",
+  "markings": "",
   "medium": "Ink on white paper",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[S I 1922]",
   "style": "20th century",
   "text": "",
   "title": "Girl with Water Jugs"

@@ -1,6 +1,7 @@
 {
   "accession_number": "63.47",
-  "artist": "Govaert Flinck",
+  "artist": "Artist: Govaert Flinck",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5594,
   "image_width": 4815,
+  "inscription": "Signature and Date",
   "life_date": "Dutch, 1615 - 1660",
-  "marks": "Signature and Date UR: [g. flinck.f 1654]",
+  "markings": "No marks on verso.",
   "medium": "Oil on canvas",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [g. flinck.f 1654]",
   "style": "17th century",
   "text": "",
   "title": "Portrait of a Man"

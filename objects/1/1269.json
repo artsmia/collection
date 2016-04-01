@@ -1,6 +1,7 @@
 {
   "accession_number": "55.23",
-  "artist": "Luigi Lucioni",
+  "artist": "Artist: Luigi Lucioni",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Mrs. George P. Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 2606,
   "image_width": 3678,
+  "inscription": "Signature and Date",
   "life_date": "American (born Italy), 1900 - 1988",
-  "marks": "Signature and Date LL: [Luigi Lucioni 1931]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Luigi Lucioni 1931]",
   "style": "20th century",
   "text": "",
   "title": "Village of Stowe, Vermont"

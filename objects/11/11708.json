@@ -1,6 +1,7 @@
 {
   "accession_number": "91.120.2",
-  "artist": "Frederic Remington",
+  "artist": "Artist: Frederic Remington",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Donald and Louise Gabbert",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5046,
   "image_width": 3948,
+  "inscription": "",
   "life_date": "American, 1861–1909",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G301",
+  "signed": "",
   "style": "19th century",
   "text": "Remington’s sculpture of a bronco buster (a cowboy who “breaks” horses so they can be ridden) is a metaphor for the conflict inherent in the idea of an American West. The horse struggling under the cowboy’s power represents the wild, untamed land that was home to Native Americans and wildlife. The cowboy stands for the pioneers and explorers who kept pushing west.",
   "title": "Bronco Buster"

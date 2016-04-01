@@ -1,6 +1,7 @@
 {
   "accession_number": "86.40",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Carroll T. Hartwell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3385,
   "image_width": 3610,
+  "inscription": "Signature",
   "life_date": "German, 1863 - 1945",
-  "marks": "Signature in graphite, LR: [Kley]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "German",
   "provenance": "Carroll T. Hartwell, Minneapolis (MIA curator); given to MIA, 1986.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Kley]",
   "style": "20th century",
   "text": "",
   "title": "Satyr Drinking (with alternate study of hand)"

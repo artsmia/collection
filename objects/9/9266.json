@@ -1,6 +1,7 @@
 {
   "accession_number": "87.46",
-  "artist": "François Edouard Bertin",
+  "artist": "Artist: François Edouard Bertin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The David Draper Dayton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3268,
   "image_width": 4449,
+  "inscription": "Stamp",
   "life_date": "French, 1797 - 1871",
-  "marks": "Stamp ",
+  "markings": "[Edouard Bertin], stamp, lower left",
   "medium": "Graphite and white chalk on blue wove paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Roman Landscape"

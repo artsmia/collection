@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.69",
-  "artist": "Suzuki Harunobu",
+  "artist": "Artist: Suzuki Harunobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4920,
   "image_width": 3702,
+  "inscription": "",
   "life_date": "Japanese, 1725 - 1770",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Kobayashi; Haviland (until Feb 1924), then maybe Ledoux (at least until 1945)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Visual Parody of the Poet Ōta Dōkan"

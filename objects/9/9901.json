@@ -1,6 +1,7 @@
 {
   "accession_number": "92.56.1",
-  "artist": "Harmony Hammond",
+  "artist": "Artist: Harmony Hammond",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4333,
   "image_width": 2948,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1944",
-  "marks": "Signature; Date LR: [(copyright symbol) HAMMOND 1982]",
+  "markings": "",
   "medium": "Oil on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [(copyright symbol) HAMMOND 1982]",
   "style": "20th century",
   "text": "",
   "title": "Study for New Dance Ensemble Poster"

@@ -1,6 +1,7 @@
 {
   "accession_number": "58.29",
-  "artist": "Antoine Victor Joinville",
+  "artist": "Artist: Antoine Victor Joinville",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Egil Boeckmann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1622,
   "image_width": 2560,
+  "inscription": "",
   "life_date": "French, 1801 - 1849",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "This painting once belonged to James J. Hill (1838-1916), the Minnesota railroad magnate whose collection of European paintings forms the basis of the Institute's nineteenth-century holdings.",
   "title": "The Alban Lake"

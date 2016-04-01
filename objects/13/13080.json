@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.237.6",
-  "artist": "Manuel Neri",
+  "artist": "Artist: Manuel Neri",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Diane and Richard Cohen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2161,
   "image_width": 1963,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1930",
-  "marks": "Signature; Date in graphite, LR: [Neri 57]",
+  "markings": "",
   "medium": "Tempera and graphite",
   "nationality": "American",
   "provenance": "John Berggruen Gallery, San Francisco\r\nDiane and Richard Cohen, Edina, MN",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Neri 57]",
   "style": "20th century",
   "text": "",
   "title": "Untitled Floral Study #2"

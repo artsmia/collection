@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.14",
-  "artist": "Karen Ann Klein",
+  "artist": "Artist: Karen Ann Klein",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Mary and Robyn Campbell Fund for Art Books",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3126,
   "image_width": 4960,
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "American, born 1942",
-  "marks": "Signature\r\nsee Signed in graphite, on colophon page: [KA KLEIN]",
+  "markings": "",
   "medium": "Photocopying in color and black and white, pochoir, watercolor, color pencil, and polyurethane",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, on colophon page: [KA KLEIN]",
   "style": "20th century",
   "text": "",
   "title": "Pond"

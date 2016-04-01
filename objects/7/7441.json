@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.126",
-  "artist": "Giulio Bonasone",
+  "artist": "Artist: Giulio Bonasone",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4584,
   "image_width": 2940,
+  "inscription": "Signature",
   "life_date": "Italian, active 1531 – 1574",
-  "marks": "Signature In print - \\\"Bonassone in Ventor\\\"",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "Italian",
   "provenance": "Knoedler & Co., 1926; Alfred Firmin-Didot",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In print - \\\"Bonassone in Ventor\\\"",
   "style": "16th century",
   "text": "",
   "title": "The Resurrection"

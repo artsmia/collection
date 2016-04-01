@@ -1,6 +1,7 @@
 {
   "accession_number": "61.36.21",
-  "artist": "Ernst Ludwig Kirchner",
+  "artist": "Artist: Ernst Ludwig Kirchner",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Putnam Dana McMillan",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5035,
   "image_width": 5746,
+  "inscription": "Signature and Stamp",
   "life_date": "German, 1880 - 1938",
-  "marks": "Signature and Stamp LR: [E L Kirchner]; stamped on verso: [KN-DaAb8]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [E L Kirchner]; stamped on verso: [KN-DaAb8]",
   "style": "20th century",
   "text": "",
   "title": "Bern with Belltower"

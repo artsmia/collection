@@ -1,6 +1,7 @@
 {
   "accession_number": "64.37.1",
-  "artist": "Johann Georg Platzer",
+  "artist": "Artist: Johann Georg Platzer",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Mrs. Walter H. Ude",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4652,
   "image_width": 6413,
-  "life_date": "Austrian, 1704 - 1760",
-  "marks": " LR: JGP [Looks like \\'IGP\\'?]",
+  "inscription": "",
+  "life_date": "Austrian, 1704–1760",
+  "markings": "",
   "medium": "Oil on copper\r\n(listed in 1970 catalogue as 'oil type on silver')",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: JGP [Looks like \\'IGP\\'?]",
   "style": "18th century",
   "text": "",
   "title": "Latona Turning the Lycian Peasants into Frogs"

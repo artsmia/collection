@@ -1,6 +1,7 @@
 {
   "accession_number": "78.59",
-  "artist": "Jacques Villon",
+  "artist": "Artist: Jacques Villon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3677,
   "image_width": 3372,
-  "life_date": "French, 1875 - 1963",
-  "marks": "Signature LLC: [Jacques Villon]",
+  "inscription": "Signature",
+  "life_date": "French, 1875–1963",
+  "markings": "",
   "medium": "Pen and brown ink",
   "nationality": "French",
   "provenance": "Sotheby's, London (The Robert von Hirsch Sale, 27 June 1978).",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC: [Jacques Villon]",
   "style": "20th century",
   "text": "",
   "title": "Le Grand Dessinateur"

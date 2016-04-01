@@ -1,6 +1,7 @@
 {
   "accession_number": "61.29",
-  "artist": "Jean-Baptiste Deshays",
+  "artist": "Artist: Jean-Baptiste Deshays",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6332,
   "image_width": 3653,
-  "life_date": "French, 1729 - 1765",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1703–1770",
+  "markings": "",
   "medium": "Oil on paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Study for the Assumption of the Virgin"

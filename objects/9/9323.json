@@ -1,6 +1,7 @@
 {
   "accession_number": "31.82",
-  "artist": "Jean-Louis Forain",
+  "artist": "Artist: Jean-Louis Forain",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2798,
   "image_width": 4354,
+  "inscription": "",
   "life_date": "French, 1852 - 1931",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and ink, graphite and wash",
   "nationality": "French",
   "provenance": "William C. Loring, Boston",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Prodigal Son"

@@ -1,6 +1,7 @@
 {
   "accession_number": "61.65",
-  "artist": "Giovanni Domenico Ferretti",
+  "artist": "Artist: Giovanni Domenico Ferretti",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4615,
   "image_width": 3369,
+  "inscription": "",
   "life_date": "Italian (Florence), 1692 - 1768",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian (Florence)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Saint Philip Neri in Glory"

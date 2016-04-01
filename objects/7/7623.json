@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.13a,b",
-  "artist": "Steven Beyer",
+  "artist": "Artist: Steven Beyer",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3676,
   "image_width": 3228,
+  "inscription": "Signed, dated, numbered, inscribed, and chop mark.",
   "life_date": "American, born 1951",
-  "marks": "Signed, dated, numbered, inscribed, and chop mark. LR: [Steven Beyer 1979-80]\r\nLL: [4/7 ap]\r\nLC: [fir",
+  "markings": "LL: VEL chop mark",
   "medium": "Drypoint and etching; diptych",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Steven Beyer 1979-80]\r\nLL: [4/7 ap]\r\nLC: [first child / mother father / second child]",
   "style": "20th century",
   "text": "",
   "title": "Four Member Family System"

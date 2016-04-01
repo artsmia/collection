@@ -1,6 +1,7 @@
 {
   "accession_number": "73.54.1",
-  "artist": "Winold Reiss",
+  "artist": "Artist: Winold Reiss",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "© Reiss Estate",
   "image_height": 4575,
   "image_width": 3266,
+  "inscription": "Signature",
   "life_date": "American (b. Germany), 1886 - 1953",
-  "marks": "Signature LR: [Winold / Reiss]",
+  "markings": "",
   "medium": "Pastel and gouache on board",
   "nationality": "American (b. Germany)",
   "provenance": "Louis W. Hill, St. Paul; Louis W. Hill, Jr., St. Paul; given to  MIA, 1973.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Winold / Reiss]",
   "style": "20th century",
   "text": "",
   "title": "Dog Taking Gun (Emetanamachka)"

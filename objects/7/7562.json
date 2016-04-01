@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.17",
-  "artist": "Claes Oldenburg; Experiments in Art and Technology (E.A.T.), New York; Printed by Styria Studio, New York",
+  "artist": "Artist: Claes Oldenburg; Publisher: Experiments in Art and Technology (E.A.T.), New York; Printer: Printed by Styria Studio, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Claes Oldenburg",
   "image_height": 4408,
   "image_width": 3334,
+  "inscription": "Signature; Inscription; Stamp; Label\r\n\r\nIn LL:  [t. p. ICO]",
   "life_date": "American, born Sweden, 1929",
-  "marks": "Signature; Inscription; Stamp; Label\r\n\r\nIn LL:  [t Signed in white pencil, LL: [CO]",
+  "markings": "Rubber stamp on label on verso, LL: [COPYRIGHT 1973 BY CLAES OLDENBURG / PRINTED AT STYRIA STUDIO]",
   "medium": "Screenprint and lithograph, hand-dusted with chalk",
   "nationality": "American (born Sweden)",
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in white pencil, LL: [CO]",
   "style": "20th century",
   "text": "",
   "title": "M. Mouse (with) 1 Ear (equals) Tea Bag Blackboard Version (1965)"

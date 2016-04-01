@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.224",
-  "artist": "Oscar Sundstrand; Victor Adding Machine Company",
+  "artist": "Designer: Oscar Sundstrand; Manufacturer: Victor Adding Machine Company",
+  "classification": "Industrial Design",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from Kathleen Bendel",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1948,
   "image_width": 2388,
-  "life_date": "(dates unknown)",
-  "marks": "Inscription ",
+  "inscription": "Inscription",
+  "life_date": "Chicago, est. 1918",
+  "markings": "stamped into metal, on bottom: [977994/7 56 4/THIS MACHINE PROTECTED BY/U.S.A. AND FOREIGN PATENTS/MADE BY VICTOR ADDING MACHINE CO./CHICAGO U.S.A.]",
   "medium": "Bakelite, metal, rubber",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Victor printing calculator"

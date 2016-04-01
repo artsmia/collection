@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.222.2a,b",
-  "artist": "Janet Buskirk",
+  "artist": "Maker: Janet Buskirk",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Eunice Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 2503,
   "image_width": 1905,
+  "inscription": "Sticker",
   "life_date": null,
-  "marks": "Sticker ",
+  "markings": "\\'14 Janet Buskirk/Portland, OR/combed jar, porcelain/$90.00\\', on sticker, on bottom",
   "medium": "glazed porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Combed Jar with Cover"

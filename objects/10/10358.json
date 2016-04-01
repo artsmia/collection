@@ -1,6 +1,7 @@
 {
   "accession_number": "87.27.8",
-  "artist": "Suzuki Toshimoto",
+  "artist": "Artist: Suzuki Toshimoto",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3647,
+  "inscription": "",
   "life_date": "Japanese, act. c. 1877-98",
-  "marks": " 蕾斎 {Raisai}",
+  "markings": "",
   "medium": "Hanging scroll; color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "蕾斎 {Raisai}",
   "style": "20th century",
   "text": "",
   "title": "October (Archery Practice)"

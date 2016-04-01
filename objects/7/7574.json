@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.58.4",
-  "artist": "Pablo Picasso; Poem by Pablo Picasso",
+  "artist": "Artist: Pablo Picasso; Author: Poem by Pablo Picasso",
+  "classification": "Prints",
   "continent": null,
   "country": "Spain",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 5433,
   "image_width": 3201,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Letterpress and heliogravure facsimile of handwritten text",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Text page from Sueño y Mentira de Franco (The Dream and Lie of Franco)"

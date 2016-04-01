@@ -1,6 +1,7 @@
 {
   "accession_number": "22.16.10a,b",
-  "artist": "Unknown Italian (Tuscan)",
+  "artist": "Artist: Unknown Italian (Tuscan)",
+  "classification": "Manuscript",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift funds from the Friends of the Institute",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Tempera and gold on parchment",
   "nationality": null,
   "provenance": "[Federigo Pedulli, Florence, until 1922; sold to MIA with funds from the Friends of the Institute.]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Pages from an Antiphonary"

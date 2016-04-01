@@ -1,6 +1,7 @@
 {
   "accession_number": "69.6",
-  "artist": "Thomas Couture",
+  "artist": "Artist: Thomas Couture",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4224,
   "image_width": 3384,
+  "inscription": "Signature",
   "life_date": "French, 1815 - 1879",
-  "marks": "Signature LR in red: [T. C.]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in red: [T. C.]",
   "style": "19th century",
   "text": "",
   "title": "Young Italian Street Musician"

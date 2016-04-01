@@ -1,6 +1,7 @@
 {
   "accession_number": "64.43.1",
-  "artist": "Marsden Hartley",
+  "artist": "Artist: Marsden Hartley",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5668,
   "image_width": 4424,
-  "life_date": "American, 1877-1943",
-  "marks": " Inscribed on verso in pencil: [Church at Head Tide",
+  "inscription": "",
+  "life_date": "American, 1877–1943",
+  "markings": "",
   "medium": "Oil on academy board",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Inscribed on verso in pencil: [Church at Head Tide No. 2 / M.H. 35 / 8/1/40]",
   "style": "20th century",
   "text": "",
   "title": "Church at Head Tide #2"

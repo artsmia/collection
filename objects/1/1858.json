@@ -1,6 +1,7 @@
 {
   "accession_number": "71.44",
-  "artist": "Karel Dujardin",
+  "artist": "Artist: Karel Dujardin",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3364,
   "image_width": 4472,
+  "inscription": "",
   "life_date": "Dutch, 1626 - 1678",
-  "marks": " ",
+  "markings": "Marks on verso:\r\nwax seal on back (illegible German)",
   "medium": "Oil on canvas",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Annunciation"

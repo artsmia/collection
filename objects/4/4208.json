@@ -1,6 +1,7 @@
 {
   "accession_number": "91.168",
-  "artist": "Herman Wendelborg Hansen",
+  "artist": "Artist: Herman Wendelborg Hansen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift in Memory of Frederic and Clara Lyman (by Norton Lyman, Frederic C. Lyman, Jr., and Charlotte L. Fardelman)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2884,
   "image_width": 4455,
+  "inscription": "",
   "life_date": "American, 1854 - 1924",
-  "marks": " Recto, LR: H.W. Hansen",
+  "markings": "",
   "medium": "Watercolor on white wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Recto, LR: H.W. Hansen",
   "style": "19th century",
   "text": "",
   "title": "Renegade Apaches"

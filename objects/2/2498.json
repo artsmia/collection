@@ -1,6 +1,7 @@
 {
   "accession_number": "77.34.2",
-  "artist": "Thomas Daniell",
+  "artist": "Artist: Thomas Daniell",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Given in memory of Thomas L. Daniels by his family and friends",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3589,
   "image_width": 2163,
+  "inscription": "Mark; Inscription\r\n\r\nInitials [L.I.H.] on underside of foot.  The outside engraved with the family crest of a two-headed eagle displayed (unidentified, used by many families in England).",
   "life_date": "British, active c.1771 - 1793",
-  "marks": "Mark; Inscription\r\n\r\nInitials [L.I.H.] on undersid ",
+  "markings": "Marks\r\n\r\nFully marked on underside of foot.",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sugar basket"

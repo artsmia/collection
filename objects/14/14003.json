@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.22",
-  "artist": "George Bellows",
+  "artist": "Artist: George Bellows",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John De Laittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4564,
   "image_width": 3581,
-  "life_date": "American, 1882 - 1925",
-  "marks": "Signature [G.B.]",
+  "inscription": "Signature",
+  "life_date": "American, 1882–1925",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[G.B.]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of a Lady"

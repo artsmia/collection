@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.234",
-  "artist": "Katsushika Hokusai; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3463,
   "image_width": 5136,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " Saki no Hokusai Iitsu hitsu 前北斎為一筆",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Wright",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saki no Hokusai Iitsu hitsu 前北斎為一筆",
   "style": "19th century",
   "text": "",
   "title": "Umezawa Manor in Sagami Province"

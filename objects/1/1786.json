@@ -1,6 +1,7 @@
 {
   "accession_number": "70.22",
-  "artist": "José Moreno",
+  "artist": "Artist: José Moreno",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4019,
   "image_width": 6145,
+  "inscription": "Mark",
   "life_date": "Spanish (Burgos), 1642 - 1674",
-  "marks": "Mark Signed and dated on the rock at LR: [Joseph Moreno",
+  "markings": "on verso in chalk: [E7724 WEITZNER]",
   "medium": "Oil on canvas",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated on the rock at LR: [Joseph Moreno F 16(62)]",
   "style": "17th century",
   "text": "",
   "title": "The Flight into Egypt"

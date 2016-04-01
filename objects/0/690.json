@@ -1,6 +1,7 @@
 {
   "accession_number": "44.26",
-  "artist": "Charles Loring Elliott",
+  "artist": "Artist: Charles Loring Elliott",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5897,
   "image_width": 4867,
+  "inscription": "Signature and Inscription \r\n\r\nLL: [Presented to Wm. S. Mount by the artist, Jan. 15, 1851]",
   "life_date": "American, 1812 - 1868",
-  "marks": "Signature and Inscription \r\n\r\nLL: [Presented to Wm LR: [one sitting by C. L. Elliott of Henry J. Bren",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G337",
+  "signed": "LR: [one sitting by C. L. Elliott of Henry J. Brent]",
   "style": "19th century",
   "text": "",
   "title": "Unfinished Portrait of Henry J. Brent, 1811-1850"

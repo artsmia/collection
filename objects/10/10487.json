@@ -1,6 +1,7 @@
 {
   "accession_number": "93.83.2",
-  "artist": "attributed to Philibert Benoît de la Rue",
+  "artist": "Painter: attributed to Philibert Benoît de la Rue",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Joel Itman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3566,
   "image_width": 3301,
+  "inscription": "Title; Signature (?)",
   "life_date": "French, 1718 - 1780",
-  "marks": "Title; Signature (?) ",
+  "markings": "[Love Received by the Graces...], and possible artist\\'s signature in black ink, lower right",
   "medium": "Pen, black ink, grey wash, graphite, black chalk, white heightening",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Love Received by the Graces"

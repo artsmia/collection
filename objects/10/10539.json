@@ -1,6 +1,7 @@
 {
   "accession_number": "71.10",
-  "artist": "Unknown American, 19th century",
+  "artist": "Artist: Unknown American, 19th century",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Besse Trimble",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on velvet",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Mourning Picture in Memory of Andrew Stranahan"

@@ -1,6 +1,7 @@
 {
   "accession_number": "61.12.4b",
-  "artist": "Unknown Italian, 17th century; Formerly attributed to Domenichino Zampieri",
+  "artist": "Artist: Unknown Italian, 17th century; Artist: Formerly attributed to Domenichino Zampieri",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Dr. Paul Ganz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1735,
   "image_width": 2560,
-  "life_date": null,
-  "marks": "Inscription; Mark ",
+  "inscription": "Inscription; Mark",
+  "life_date": "Italian, 1581-1641",
+  "markings": "\\'Giuseppe Maria Crespi 1665-1747\\' in graphite; watermark",
   "medium": "Black chalk heightened with white on laid faded blue paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Two Women"

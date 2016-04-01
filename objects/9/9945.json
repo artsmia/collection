@@ -1,6 +1,7 @@
 {
   "accession_number": "42.59",
-  "artist": "René Jules Lalique",
+  "artist": "Maker: René Jules Lalique",
+  "classification": "Glass",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. C. C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1860-1945",
-  "marks": "Signature [R. Lalique, France]",
+  "markings": "",
   "medium": "Glass",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[R. Lalique, France]",
   "style": "20th century",
   "text": "",
   "title": "Shallow bowl with fish motif"

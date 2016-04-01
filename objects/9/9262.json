@@ -1,6 +1,7 @@
 {
   "accession_number": "83.107.7",
-  "artist": "Sir Eduardo Paolozzi",
+  "artist": "Artist: Sir Eduardo Paolozzi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Howard B. Marks",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F DACS%2C London",
   "image_height": 3116,
   "image_width": 4567,
+  "inscription": "Signature; Date; Inscription",
   "life_date": "Scottish, 1924 - 2005",
-  "marks": "Signature; Date; Inscription Signed, dated in black ink, LR: [E. Paolozzi July ",
+  "markings": "In black ink, LR: [Hartnung (?) /July 1961\\';\r\nVerso:  trial proof linocut (?) in purple ink; spots of black ink",
   "medium": "Brush and black ink on off-white wove paper",
   "nationality": "Scottish",
   "provenance": "[Dayton's Gallery 12, Minneapolis]; Mr. and Mrs. Howard B. Marks, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in black ink, LR: [E. Paolozzi July 1961]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

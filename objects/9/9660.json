@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.57",
-  "artist": "Giovanni Benedetto Castiglione (Il Grechetto)",
+  "artist": "Artist: Giovanni Benedetto Castiglione (Il Grechetto)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3105,
   "image_width": 4470,
+  "inscription": "Signature",
   "life_date": "Italian (Genoa), 1609 - 1664",
-  "marks": "Signature in plate\r\nin plate",
+  "markings": "Watermark: Strasbourg Lily",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "Old Austion (') sticker L600/27.684.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate\r\nin plate",
   "style": "17th century",
   "text": "",
   "title": "Circe Changing Ulysses' Men to Beasts"

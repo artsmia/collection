@@ -1,6 +1,7 @@
 {
   "accession_number": "64.44.4",
-  "artist": "Nicolas de Stael",
+  "artist": "Artist: Nicolas de Stael",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 6792,
   "image_width": 9249,
+  "inscription": "Signature",
   "life_date": "French, 1914 - 1955",
-  "marks": "Signature LR: [Stael]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Stael]",
   "style": "20th century",
   "text": "",
   "title": "Seascape with Barge and Breakwater"

@@ -1,6 +1,7 @@
 {
   "accession_number": "92.123a,b",
-  "artist": "Sarreguemines",
+  "artist": "Manufacturer: Sarreguemines",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "THE ROBERT C. WINTON FUND",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3303,
   "image_width": 3223,
+  "inscription": "Mark",
   "life_date": "French",
-  "marks": "Mark ",
+  "markings": "Impressed mark under saucer: \\'SARREGUEMINES\\' FRECH. Circa 1875",
   "medium": "Earthenware, glazes, gilt",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Coffee Cup and Saucer"

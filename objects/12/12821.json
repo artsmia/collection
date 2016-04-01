@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.159.5",
-  "artist": "Amano Kunihiro",
+  "artist": "Artist: Amano Kunihiro",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Robert and Anne Moor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9482,
   "image_width": 6014,
+  "inscription": "Title; Edition; Signature; Date",
   "life_date": "Japanese, born 1929",
-  "marks": "Title; Edition; Signature; Date ",
+  "markings": "\\'[untranslated inscription]-M 39/50 V. Amano-61-\\', in pencil, below image; \\'K. Amano\\', in pencil, LRC of image",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Morning Moon-M"

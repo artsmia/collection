@@ -1,6 +1,7 @@
 {
   "accession_number": "56.11",
-  "artist": "Gaston Lachaise",
+  "artist": "Artist: Gaston Lachaise",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5852,
   "image_width": 4689,
+  "inscription": "Signature and Date",
   "life_date": "American, 1882 - 1935",
-  "marks": "Signature and Date (on back of neck): [G. LACHAISE 1928]",
+  "markings": "Stamped on left at base of neck: [Roman Bronze Works, N.Y.]",
   "medium": "Bronze with wooden base",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "(on back of neck): [G. LACHAISE 1928]",
   "style": "20th century",
   "text": "",
   "title": "Head of John Marin"

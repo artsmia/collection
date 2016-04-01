@@ -1,6 +1,7 @@
 {
   "accession_number": "B.85.6",
-  "artist": "Jim Dine; Poetry by John Ashbery , et al.; Edited by Glenn Todd and Nancy Dine; Botanical notes compiled by Glenn Todd; Decorative book box designed by Jim Dine; Printing by R. E. Townsend, Inc., Georgetown, Massachusetts.; Published by The Arion Press",
+  "artist": "Artist: Jim Dine; Author: Poetry by John Ashbery , et al.; Editor: Edited by Glenn Todd and Nancy Dine; Editor: Botanical notes compiled by Glenn Todd; Designer: Decorative book box designed by Jim Dine; Printer: Printing by R. E. Townsend, Inc., Georgetown, Massachusetts.; Publisher: Published by The Arion Press",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4406,
   "image_width": 3151,
+  "inscription": "Signature and Mark",
   "life_date": "American, born 1935",
-  "marks": "Signature and Mark Signed on introductory page In pencil, LL margin: ",
+  "markings": "Watermark: <Rives BFK>",
   "medium": "Drypoint, engraving, and power tools (29 prints); letterpress",
   "nationality": "American",
   "provenance": "[Granary Books, New York]; sold to MIA, 1085",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on introductory page In pencil, LL margin: [J. Dine]",
   "style": "20th century",
   "text": "",
   "title": "The Temple of Flora"

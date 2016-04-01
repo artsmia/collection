@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.102",
-  "artist": "Katsukawa Shunshō",
+  "artist": "Artist: Katsukawa Shunshō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4593,
   "image_width": 2156,
+  "inscription": "{Kore de yabo nara shōkoto ga nai} (If I appear boorish / It can\\'t be helped.)",
   "life_date": "Japanese, 1726 - 1793",
-  "marks": "{Kore de yabo nara shōkoto ga nai} (If I appear bo ",
+  "markings": "artist\\'s (jar shape) seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Ledoux (at least until 1945)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bandō Matatarō IV as Genpachibyōe"

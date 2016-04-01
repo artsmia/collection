@@ -1,6 +1,7 @@
 {
   "accession_number": "71.48",
-  "artist": "Henry H. Cross",
+  "artist": "Artist: Henry H. Cross",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5908,
   "image_width": 4873,
-  "life_date": "American, 1837 - 1918",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1837–1918",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G301",
+  "signed": "",
   "style": "19th century",
   "text": "Recent conservation of this picture was made possible by a generous contribution from Mary Williams through the Adopt-a-Painting program.",
   "title": "Little Crow"

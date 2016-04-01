@@ -1,6 +1,7 @@
 {
   "accession_number": "81.110",
-  "artist": "Charles M. Russell",
+  "artist": "Artist: Charles M. Russell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ford, Charles, and Samuel Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6092,
   "image_width": 10004,
-  "life_date": "American, 1864 - 1926",
-  "marks": "Signature, Date in ink, LL: [CM Russell](Skull)",
+  "inscription": "Signature, Date",
+  "life_date": "American, 1864–1926",
+  "markings": "",
   "medium": "Watercolor over graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in ink, LL: [CM Russell](Skull)",
   "style": "19th century",
   "text": "",
   "title": "Antelope"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.219a,b",
-  "artist": "Larpent",
+  "artist": "Maker: Larpent",
+  "classification": "Furniture",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Decorative Arts Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4954,
   "image_width": 2888,
+  "inscription": "Inscription",
   "life_date": null,
-  "marks": "Inscription ",
+  "markings": "\\'LARPENT/14A.HANOVER S°/W\\', in gold, on back at bottom",
   "medium": "Wood, pigment, metal, felt, papier maché",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Firescreen"

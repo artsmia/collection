@@ -1,6 +1,7 @@
 {
   "accession_number": "65.2.2",
-  "artist": "Anghiari Master",
+  "artist": "Artist: Anghiari Master",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mr. and Mrs. Theodore W. Bennett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2102,
   "image_width": 6964,
-  "life_date": "Italian (Florence), c. 1460-1480",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian (Florence), active 1476 - 1504",
+  "markings": "",
   "medium": "Tempera on fabric mounted on panel",
   "nationality": "Italian (Florence)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "The Triumph of Scipio Africanus"

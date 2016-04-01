@@ -1,6 +1,7 @@
 {
   "accession_number": "63.18.4",
-  "artist": "R. Mulholland",
+  "artist": "Artist: R. Mulholland",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of The Henfield Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3160,
   "image_width": 4409,
+  "inscription": "Signature; Title; Date",
   "life_date": "English",
-  "marks": "Signature; Title; Date ",
+  "markings": "[Monk. Bar/York.1830/R. Mullholland], in red watercolor, verso",
   "medium": "Watercolor heightened with white over black chalk on white wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Monk Bar, York"

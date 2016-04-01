@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.149",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1400,
+  "inscription": "Inscription\r\nin pencil, LR back: [Ptxx]; in charcoal, UR front: [108]; in pencil, LR front: [P 548]",
   "life_date": null,
-  "marks": "Inscription\r\nin pencil, LR back: [Ptxx]; in charco ",
+  "markings": "",
   "medium": "Charcoal heightened with white and red chalk, green wove",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Peony"

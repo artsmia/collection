@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,821",
-  "artist": "Mark Catesby",
+  "artist": "Artist: Mark Catesby",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3608,
   "image_width": 2658,
+  "inscription": "",
   "life_date": "English, 1682/83 - 1749",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored etching",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Bull Frog"

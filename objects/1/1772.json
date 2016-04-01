@@ -1,6 +1,7 @@
 {
   "accession_number": "69.94",
-  "artist": "Francesco de Mura",
+  "artist": "Artist: Francesco de Mura",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6543,
   "image_width": 4028,
+  "inscription": "",
   "life_date": "Italian (Naples), 1696–1782",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on copper with silver, silver gilt and gilt bronze frame",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Madonna and Child with the Infant Saint John"

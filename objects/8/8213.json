@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.157",
-  "artist": "Kitagawa Utamaro; Published by Tsuruya Kiemon",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4628,
   "image_width": 3089,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "Publisher: Tsuru-ki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "18th-19th century",
   "text": "",
   "title": "No.6 Picture of the Silkworms Making Their Cocoons"

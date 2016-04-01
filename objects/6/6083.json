@@ -1,6 +1,7 @@
 {
   "accession_number": "B.85.4.3",
-  "artist": "Henri Matisse; Marianna Alcaforado; Tériade, Paris, France; Mourlot Freres, Paris; Jourde et Allard , (text)",
+  "artist": "Artist: Henri Matisse; Author: Marianna Alcaforado; Publisher: Tériade, Paris, France; Lithographer: Mourlot Freres, Paris; Printer: Jourde et Allard , (text)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 2981,
   "image_width": 4460,
-  "life_date": "French, 1869 - 1954",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "French, 1869–1954",
+  "markings": "Watermark: <Arches>",
   "medium": "Lithographs, letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Page from Lettres portugaises (Portuguese Letters)"

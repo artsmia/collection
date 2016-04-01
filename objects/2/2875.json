@@ -1,6 +1,7 @@
 {
   "accession_number": "81.2.14",
-  "artist": "Okumura Toshinobu",
+  "artist": "Artist: Okumura Toshinobu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Japanese, fl. c.1717-1750",
-  "marks": " Okumura Tishinobu hitsu",
+  "markings": "Seal : Toshinobu?\r\nUnidentified provenance seal on the back",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Okumura Tishinobu hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Courtesan as Mitate of Fugen"

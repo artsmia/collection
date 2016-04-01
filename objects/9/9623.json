@@ -1,6 +1,7 @@
 {
   "accession_number": "95.124.2",
-  "artist": "Charles Chaplin",
+  "artist": "Artist: Charles Chaplin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2873,
   "image_width": 4373,
+  "inscription": "Mark",
   "life_date": "French, 1825 - 1891",
-  "marks": "Mark ",
+  "markings": "[GF] and [FRANCE] in shield, watermark",
   "medium": "Red chalk on cream laid paper",
   "nationality": "French",
   "provenance": "A. Moir, Santa Barbara, CA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Six Studies of a Female Nude"

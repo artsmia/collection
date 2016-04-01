@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.10",
-  "artist": "Christine Benson; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Christine Benson; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3796,
   "image_width": 2907,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Benson \\'78]\r\nLC: [7/19]\r\nLL: [Midwest Memento",
+  "markings": "LR: VEL chop mark",
   "medium": "Etching and soft-ground etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Benson \\'78]\r\nLC: [7/19]\r\nLL: [Midwest Memento -- Cityscape]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Midwest Memento–Cityscape"

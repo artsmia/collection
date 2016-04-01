@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.270.5a,b",
-  "artist": "Jacobus Halder Adriaesensz",
+  "artist": "Maker: Jacobus Halder Adriaesensz",
+  "classification": "Ceramics",
   "continent": null,
   "country": null,
   "creditline": "Gift of Samuel and Patricia McCullough in honor of the Decorative Arts Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2598,
   "image_width": 4560,
+  "inscription": "Inscription",
   "life_date": "Dutch, active 1760s",
-  "marks": "Inscription ",
+  "markings": "\\'A[underline]/iH[underline]/14\\', in blue, on bottom",
   "medium": "Glazed porcelain",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G331",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Conical vase with cover, from five-piece garniture set"

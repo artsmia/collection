@@ -1,6 +1,7 @@
 {
   "accession_number": "25.42",
-  "artist": "Willi Jaeckel",
+  "artist": "Artist: Willi Jaeckel",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1429,
+  "inscription": "Signature",
   "life_date": "German, 1888 - 1944",
-  "marks": "Signature [W.Jaeckel], lower right corner, recto",
+  "markings": "",
   "medium": "Pen and ink on white paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W.Jaeckel], lower right corner, recto",
   "style": "20th century",
   "text": "",
   "title": "Christ and Pilate"

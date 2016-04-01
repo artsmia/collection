@@ -1,6 +1,7 @@
 {
   "accession_number": "19.33",
-  "artist": "Axel Herman Haig",
+  "artist": "Artist: Axel Herman Haig",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of M. Knoedler & Co.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4771,
   "image_width": 2975,
+  "inscription": "Title; Date",
   "life_date": "English (b. Sweden), 1835 - 1921",
-  "marks": "Title; Date ",
+  "markings": "[L\\'Eglise des Dominicains, Arles, 12th Mai 18¦*¦86], in pencil, LL",
   "medium": "Graphite on tan wove paper",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Dominican Church at Arles"

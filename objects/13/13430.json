@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.52.2.2",
-  "artist": "Henry Peach Robinson",
+  "artist": "Photographer: Henry Peach Robinson",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "England",
   "creditline": "The McClurg Photography Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1700,
   "image_width": 2484,
+  "inscription": "Signature; Title",
   "life_date": "English, 1830 - 1901",
-  "marks": "Signature; Title in pencil, LL corner below image: [H.P. Robinson]",
+  "markings": "in pencil, at top edge on back: [A Merry Tale]",
   "medium": "Photogravure",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LL corner below image: [H.P. Robinson]",
   "style": "19th century",
   "text": "",
   "title": "A Merry Tale"

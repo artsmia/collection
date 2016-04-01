@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.185",
-  "artist": "Emily Martin",
+  "artist": "Artist: Emily Martin",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Title\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature; Edition; Title\r\nsee Signed in graphite, on final page: [1/5 Eyes Were Watchin",
+  "markings": "",
   "medium": "Etchings with aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, on final page: [1/5 Eyes Were Watching Emily Martin]",
   "style": "20th century",
   "text": "",
   "title": "Eyes Were Watching"

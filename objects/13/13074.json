@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.237.12",
-  "artist": "Frank Stella",
+  "artist": "Artist: Frank Stella",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Diane and Richard Cohen",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Stella %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3060,
   "image_width": 3660,
+  "inscription": "Inscribed on inner edges throughout: (various numbers)",
   "life_date": "American, born 1936",
-  "marks": "Inscribed on inner edges throughout: (various numb ",
+  "markings": "",
   "medium": "Stainless steel",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Gattenom"

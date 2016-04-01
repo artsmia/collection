@@ -1,6 +1,7 @@
 {
   "accession_number": "98.18.22",
-  "artist": "Ko Tetsubai",
+  "artist": "Artist: Ko Tetsubai",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5246,
   "image_width": 1646,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1848 - 1899",
-  "marks": "Signature; Stamps ",
+  "markings": "\\'Hu T\\'ieh-mei\\', in ink, at ULC; \\'An-ting (Stability), Hu T\\'ieh-mei, Yao Ch\\'eng-tzu\\', seals at ULC and LRC",
   "medium": "Ink and color on silk",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Mountain Hermitage Landscape"

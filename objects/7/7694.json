@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.12",
-  "artist": "Sam Gilliam",
+  "artist": "Artist: Sam Gilliam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Gilliam",
   "image_height": 2764,
   "image_width": 3794,
+  "inscription": "Signed, dated, numbered, titled, inscribed, and chop mark.",
   "life_date": "American, born 1933",
-  "marks": "Signed, dated, numbered, titled, inscribed, and ch LR: [Sam Gilliam 1982]\r\nLC: [1/6]\r\nLC: [Lattice]\r\n",
+  "markings": "LR: VEL chop mark",
   "medium": "Color lithograph and etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Sam Gilliam 1982]\r\nLC: [1/6]\r\nLC: [Lattice]\r\nLL: [I]\r\nCountersigned, dated, titled, numbered (verso)\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Lattice I"

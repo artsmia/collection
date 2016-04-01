@@ -1,6 +1,7 @@
 {
   "accession_number": "98.135.2",
-  "artist": "Steuben Glass Works, Inc.",
+  "artist": "Maker: Steuben Glass Works, Inc.",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John I. Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1702,
+  "inscription": "Engraved",
   "life_date": "Corning, New York, founded 1903",
-  "marks": "Engraved ",
+  "markings": "[MC], at side of goblet",
   "medium": "Glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Goblet, one of a pair"

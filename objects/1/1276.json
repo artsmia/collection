@@ -1,6 +1,7 @@
 {
   "accession_number": "55.40",
-  "artist": "Jens Juel",
+  "artist": "Artist: Jens Juel",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Denmark",
   "creditline": "Gift of Mrs. Roger A. van der Straeten",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2603,
   "image_width": 1705,
+  "inscription": "",
   "life_date": "Danish, 1745-1802",
-  "marks": " ",
+  "markings": "",
   "medium": "Pastel",
   "nationality": "Danish",
   "provenance": "Mrs. Wilkins (daughter of subject)\r\nJuliet Wright, Elsinore, Denmark",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Andreas Christian Hviid"

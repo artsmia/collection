@@ -1,6 +1,7 @@
 {
   "accession_number": "25.53",
-  "artist": "Sandor Kubinyi",
+  "artist": "Artist: Sandor Kubinyi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Hungarian, born 1875",
-  "marks": "Signature\r\nsee Signed LR: [Kubinyi]",
+  "markings": "",
   "medium": "Charcoal and crayon",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Kubinyi]",
   "style": "20th century",
   "text": "",
   "title": "Three Profiles"

@@ -1,6 +1,7 @@
 {
   "accession_number": "90.3",
-  "artist": "Minton and Company",
+  "artist": "Manufacturer: Minton and Company",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Stoke-on-Trent, Staffordshire, England, est. 1793",
-  "marks": " ",
+  "markings": "",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Plate"

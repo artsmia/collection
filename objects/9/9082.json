@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.1",
-  "artist": "Bernard Meninsky",
+  "artist": "Artist: Bernard Meninsky",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4146,
   "image_width": 2987,
+  "inscription": "Signature; Date",
   "life_date": "English (Born Ukraine), 1891 - 1950",
-  "marks": "Signature; Date [Meninsky 1918], LR corner",
+  "markings": "",
   "medium": "Ink and wash",
   "nationality": "English (Born Ukraine)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Meninsky 1918], LR corner",
   "style": "20th century",
   "text": "",
   "title": "Baby Figure"

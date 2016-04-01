@@ -1,6 +1,7 @@
 {
   "accession_number": "91.120.1",
-  "artist": "Frederic Remington",
+  "artist": "Artist: Frederic Remington",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Donald and Louise Gabbert",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1427,
-  "life_date": "American, 1861-1909",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1861–1909",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Rattlesnake"

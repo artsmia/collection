@@ -1,6 +1,7 @@
 {
   "accession_number": "89.30",
-  "artist": "Georges Joseph Laurent Lemmen",
+  "artist": "Painter: Georges Joseph Laurent Lemmen",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The Putnam Dana McMillan Fund and Gift of funds from the Print and Drawing Council\r\n\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4347,
   "image_width": 3322,
+  "inscription": "",
   "life_date": "Belgian, 1865 - 1916",
-  "marks": " LL: 29 juil. 95",
+  "markings": "LL, stamped in purple: (G surrouding L)",
   "medium": "Brush and black ink",
   "nationality": "Belgian",
   "provenance": "[Lynven, Inc., New York]; sold to MIA, 1989",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: 29 juil. 95",
   "style": "19th century",
   "text": "",
   "title": "Seated Young Woman, Reflected in Mirror"

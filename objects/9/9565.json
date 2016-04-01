@@ -1,6 +1,7 @@
 {
   "accession_number": "95.123.16",
-  "artist": "Karl Ludwig Wilhelm von Zanth",
+  "artist": "Artist: Karl Ludwig Wilhelm von Zanth",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2870,
   "image_width": 4472,
+  "inscription": "",
   "life_date": "German, 1796 - 1857",
-  "marks": " ",
+  "markings": "",
   "medium": "Graphite on off-white wove paper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of a Courtyard"

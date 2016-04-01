@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.126",
-  "artist": "Kurt Seligmann; Editions des Chroniques du Jour, Paris; Text by Pierre Courthion",
+  "artist": "Artist: Kurt Seligmann; Publisher: Editions des Chroniques du Jour, Paris; Author: Text by Pierre Courthion",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Kurt Seligmann %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4564,
   "image_width": 3155,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swiss-American, 1900 - 1962",
-  "marks": "Signature\r\n\r\nsee Signed in pencil on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swiss-American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on sheet",
   "style": "20th Century",
   "text": "",
   "title": "The Patient (L'Opéré)"

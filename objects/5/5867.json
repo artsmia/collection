@@ -1,6 +1,7 @@
 {
   "accession_number": "99.11.1",
-  "artist": "Andrew Baugnet",
+  "artist": "Photographer: Andrew Baugnet",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ellen and Fred Wells Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Andrew Baugnet",
   "image_height": 2759,
   "image_width": 3672,
+  "inscription": "Title; Date; Signature",
   "life_date": "American, born 1964",
-  "marks": "Title; Date; Signature ",
+  "markings": "[Glenhaven, Wisconsin 1996 Andrew G. Baugnet], in pencil, along lower edge on back",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Glenhaven, Wisconsin"

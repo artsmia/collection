@@ -1,6 +1,7 @@
 {
   "accession_number": "61.73",
-  "artist": "Pedro Pruna",
+  "artist": "Artist: Pedro Pruna",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Mr. and Mrs. Arthur Wiesenberger",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4113,
   "image_width": 3368,
+  "inscription": "Signature and Date",
   "life_date": "Spanish, b.1904",
-  "marks": "Signature and Date LR: [Pruna/35]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Pruna/35]",
   "style": "20th century",
   "text": "",
   "title": "Ballerina in Repose"

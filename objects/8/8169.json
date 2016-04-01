@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.113",
-  "artist": "Katsukawa Shunkō",
+  "artist": "Artist: Katsukawa Shunkō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 893,
+  "inscription": "",
   "life_date": "Japanese, 1743 - 1817",
-  "marks": " {Shunkō ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunkō ga}",
   "style": "18th century",
   "text": "",
   "title": "Nakamura Tomijuro Performing the Shishimai Dance"

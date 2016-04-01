@@ -1,6 +1,7 @@
 {
   "accession_number": "92.141",
-  "artist": "Robert Rosebear",
+  "artist": "Sculptor: Robert Rosebear",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1992 Robert Rosebear",
   "image_height": 3427,
   "image_width": 5357,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature ",
+  "markings": "\\'R Rose-bear\\' on bottom",
   "medium": "Pipestone",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "First Breath of Life-To Smoke the Pipe to Say Thank You"

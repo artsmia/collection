@@ -1,6 +1,7 @@
 {
   "accession_number": "82.85",
-  "artist": "Christian Krohg",
+  "artist": "Artist: Christian Krohg",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "Gift of Mrs. Robert D. Knapp",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4390,
   "image_width": 3231,
+  "inscription": "",
   "life_date": "Norwegian, 1852 - 1925",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Norwegian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Untitled [sailor on a ship deck in a storm)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "93.72.1",
-  "artist": "Thomas F. Arndt",
+  "artist": "Photographer: Thomas F. Arndt",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David and Mary Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "© Tom Arndt",
   "image_height": 1705,
   "image_width": 2560,
+  "inscription": "Date; Title; Number; Signature",
   "life_date": "American, born 1944",
-  "marks": "Date; Title; Number; Signature VERSO: [Thomas Frederick Arndt]",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "VERSO: [Thomas Frederick Arndt]",
   "style": "20th century",
   "text": "",
   "title": "Mondale at Rally, St. Paul"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.9",
-  "artist": "Philip Guston",
+  "artist": "Artist: Philip Guston",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Philip Guston %2F The Guston Foundation",
   "image_height": 4160,
   "image_width": 5584,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (born Canada), 1913-1980",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Philip Guston]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "[Associated American Artists, New York]; sold to MIA, 1987.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Philip Guston]",
   "style": "20th century",
   "text": "",
   "title": "Tooth"

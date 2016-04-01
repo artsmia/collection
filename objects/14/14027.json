@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.32",
-  "artist": "Mighel McKinley",
+  "artist": "Artist: Mighel McKinley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The John De Lattre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1878,
   "image_width": 2305,
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Australian (b. Spain), born 1895",
-  "marks": "Signature\r\nsee Signed [Mighel]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "Australian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Mighel]",
   "style": "20th century",
   "text": "",
   "title": "Indolence"

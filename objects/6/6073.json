@@ -1,6 +1,7 @@
 {
   "accession_number": "B.82.7",
-  "artist": "Pierre Bonnard; Text by Claude Terrasse; Anciénne Maison-Quantin Librairies- Imprimeries Réunies",
+  "artist": "Artist: Pierre Bonnard; Author: Text by Claude Terrasse; Publisher: Anciénne Maison-Quantin Librairies- Imprimeries Réunies",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 5793,
   "image_width": 7802,
+  "inscription": "",
   "life_date": "French, 1867-1947",
-  "marks": " ",
+  "markings": "",
   "medium": "Color lithographs; letterpress",
   "nationality": "French",
   "provenance": "Bruce B. Dayton, Wayzata, Minn.; given to MIA, 1982.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Petit solfège illustré"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.38",
-  "artist": "Furuyama Moromasa",
+  "artist": "Artist: Furuyama Moromasa",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 816,
+  "inscription": "Signature",
   "life_date": "Japanese, active c.1704- c. 1748",
-  "marks": "Signature Furuyama Moromasa ga",
+  "markings": "Seal: Moromasa no in",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Furuyama Moromasa ga",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Courtesan and her Attendant Walking in Front of the Iseya Shop"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.8a,b",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2651,
   "image_width": 3840,
+  "inscription": "Signed, Dated, Numbered",
   "life_date": "American, born 1949",
-  "marks": "Signed, Dated, Numbered LR: [T.L. Solien / \\'82]\r\nLL: [A.P. 4/4]",
+  "markings": "",
   "medium": "Color lithograph, screenprint, and etching",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [T.L. Solien / \\'82]\r\nLL: [A.P. 4/4]",
   "style": "20th century",
   "text": "",
   "title": "The Nightwatchman"

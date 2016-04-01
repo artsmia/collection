@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.6",
-  "artist": "Robert Cumming",
+  "artist": "Artist: Robert Cumming",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "©Robert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 2108,
   "image_width": 3176,
+  "inscription": "Signature; Inscription\r\n\r\nLR in graphite: [Prelim. Aketch-Apex Oculus]",
   "life_date": "American, born 1943",
-  "marks": "Signature; Inscription\r\n\r\nLR in graphite: [Prelim. LR: [Cumming]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Cumming]",
   "style": "20th century",
   "text": "",
   "title": "Preliminary Sketch for 'Apex Oculus'"

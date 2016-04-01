@@ -1,6 +1,7 @@
 {
   "accession_number": "61.12.3",
-  "artist": "formerly attributed to Pierre-Paul Prud'hon",
+  "artist": "Artist: formerly attributed to Pierre-Paul Prud'hon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Dr. Paul Ganz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4394,
   "image_width": 3055,
-  "life_date": "French, 1758 - 1823",
-  "marks": "LR, in black chalk: [?]Mars 8.. / pas  <24> [??] ",
+  "inscription": "LR, in black chalk: [?]Mars 8.. / pas  <24> [??]",
+  "life_date": "French, 1758–1823",
+  "markings": "",
   "medium": "Black chalk with traces of white on off-white laid paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Mercury"

@@ -1,6 +1,7 @@
 {
   "accession_number": "97.162a-k",
-  "artist": "Lois Bryant",
+  "artist": "Artist: Lois Bryant",
+  "classification": "Textiles",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Liz Claiborne, Inc.",
@@ -14,8 +15,9 @@
   "image_copyright": "©1993 Lois Bryant",
   "image_height": 2162,
   "image_width": 4687,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature in red at bottom of eleventh panel: [Lois Bryant]",
+  "markings": "",
   "medium": "Cotton, metallic thread; lampas weave",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in red at bottom of eleventh panel: [Lois Bryant]",
   "style": "20th century",
   "text": "",
   "title": "Spirit Windows"

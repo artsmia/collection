@@ -1,6 +1,7 @@
 {
   "accession_number": "60.27",
-  "artist": "Amedeo Modigliani",
+  "artist": "Artist: Amedeo Modigliani",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1519,
+  "inscription": "Signature",
   "life_date": "Italian, 1884 - 1920",
-  "marks": "Signature [Modigliani] in graphite, lower right",
+  "markings": "",
   "medium": "Graphite on white wove",
   "nationality": "Italian",
   "provenance": "Leopold Zborowski, 1918; David M. Daniels",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Modigliani] in graphite, lower right",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Madame Zborowski"

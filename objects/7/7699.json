@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.6",
-  "artist": "Nicholas Africano; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Nicholas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 3660,
   "image_width": 2868,
+  "inscription": "Signed, dated, inscribed, and chop mark\r\n",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, inscribed, and chop mark\r\n LR: [Nicholas Africano, 86]\r\nPrinted inscription, ",
+  "markings": "LL: VEL chop mark",
   "medium": "Color monotype with gold hand-coloring, dyed and cast paper collage, and acrylic",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nicholas Africano, 86]\r\nPrinted inscription, UC: [Flesh, armor, laughing man]",
   "style": "20th century",
   "text": "",
   "title": "Flesh, Armor, Laughing Man"

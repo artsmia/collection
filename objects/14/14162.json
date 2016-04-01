@@ -1,6 +1,7 @@
 {
   "accession_number": "23.8.47a,b",
   "artist": "",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5017,
   "image_width": 3533,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "Two markings",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G324",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Coffee pot"

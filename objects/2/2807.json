@@ -1,6 +1,7 @@
 {
   "accession_number": "81.106.2",
-  "artist": "William Scott",
+  "artist": "Artist: William Scott",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1973 Estate of William Scott",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "British, 1913 - 1989",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Linear Still Life"

@@ -1,6 +1,7 @@
 {
   "accession_number": "76.42",
-  "artist": "Unknown American, 19th century",
+  "artist": "Artist: Unknown American, 19th century",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Stanley H. Brackett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3595,
   "image_width": 2716,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait of a Girl"

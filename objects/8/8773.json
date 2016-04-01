@@ -1,6 +1,7 @@
 {
   "accession_number": "64.37.3",
-  "artist": "attributed to Jan Steen",
+  "artist": "Artist: attributed to Jan Steen",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Mrs. Walter H. Ude",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1443,
+  "inscription": "",
   "life_date": "Dutch, 1626 - 1679",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on wood",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Trictrac Players"

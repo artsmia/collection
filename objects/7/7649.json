@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.19",
-  "artist": "Paul Rotterdam",
+  "artist": "Artist: Paul Rotterdam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5124,
   "image_width": 3468,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American (b. Austria), born 1939",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LR: [Paul Z, Rotterdam 1981-82]\r\nLL: [2/48]\r\nLR: V",
+  "markings": "VEL Chop Mark",
   "medium": "Lithograph, etching, aquatint, and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Paul Z, Rotterdam 1981-82]\r\nLL: [2/48]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Minnesota II"

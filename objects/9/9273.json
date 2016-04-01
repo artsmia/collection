@@ -1,6 +1,7 @@
 {
   "accession_number": "94.105",
-  "artist": "Jean-Victor Schnetz",
+  "artist": "Artist: Jean-Victor Schnetz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4339,
   "image_width": 3239,
+  "inscription": "Signature; Date, Title, Inscriptions",
   "life_date": "French, 1787 - 1870",
-  "marks": "Signature; Date, Title, Inscriptions in brown ink, lower left: [V. Schnetz]",
+  "markings": "in brown ink, lower left: [20 Mai 1860/a Madame Lebouef/(illegible)]; in graphite, lower center: [Malvina]\r\nWatermark:  laid down",
   "medium": "Brown ink and wash over graphite on white wove paper",
   "nationality": "French",
   "provenance": "Charles Rich, Mpls., 1984\r\nFischer-Keiner Gallery, Paris",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in brown ink, lower left: [V. Schnetz]",
   "style": "19th century",
   "text": "",
   "title": "Malvina"

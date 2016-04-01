@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,878",
-  "artist": "Giulio Campagnola; Domenico Campagnola",
+  "artist": "Artist: Giulio Campagnola; Artist: Domenico Campagnola",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2349,
   "image_width": 4322,
-  "life_date": "Italian, c. 1482 - after 1515",
-  "marks": "Signature Initials",
+  "inscription": "Signature",
+  "life_date": "Italian, 1500-1564",
+  "markings": "Watermark: Anchor (H. 97, cf. Br. 478-532)\r\nChop Marks: D. G. de Arozarena (Blue Stamp on Verso) (L.109)",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "D.G. de Arozarena, blue stamp verso; Ambroise Firmin Didot (L.119); Colgnaghi, Knoeder & Co, 1926.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initials",
   "style": "16th century",
   "text": "Begun by Giulio Campagnola and completed by his adopted son, Domenico, Shepherds in a Landscape displays each artist's engraving style. The far landscape inset with clusters of picturesque buildings on the right is the work of Giulio, characterized by short strokes that create delicate layers of light and shade. On the left, the bold, continuous, sweeping lines by Domenico contrast bright highlights with dark shadows. The vitality of the shepherds and the foliage above them reflects an appreciation for nature inspired by the work of Titian, while Giulio's carefully observed landscape recalls those of Giorgione. Thus this print not only reflects the engraving style of each man, but also the Venetian master painters with whom each printmaker worked.",
   "title": "Shepherds in a Landscape"

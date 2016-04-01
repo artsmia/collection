@@ -1,6 +1,7 @@
 {
   "accession_number": "77.24",
-  "artist": "Giovan Gioseffo dal Sole",
+  "artist": "Artist: Giovan Gioseffo dal Sole",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of the Bernard H. Ridder Family",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8385,
   "image_width": 6871,
+  "inscription": "",
   "life_date": "Italian (Bologna), 1654 - 1719",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian (Bologna)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Judith with the Head of Holofernes"

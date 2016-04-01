@@ -1,6 +1,7 @@
 {
   "accession_number": "68.53.6",
-  "artist": "Attributed to Pierre-Paul Prud'hon",
+  "artist": "Artist: Attributed to Pierre-Paul Prud'hon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3070,
   "image_width": 2973,
-  "life_date": "French, 1758 - 1823",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1758–1823",
+  "markings": "",
   "medium": "Graphite and estompe",
   "nationality": "French",
   "provenance": "Miss S. Law, London; private collection (until 1967; sale, Christie's, London, [Property of a Lady of Title], June 27, 1967, lot 67, for £ 1029 / 350 gns. to Colnaghi); [Colnaghi, London, 1967-1968; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "A Young Man Seated at a Desk Writing"

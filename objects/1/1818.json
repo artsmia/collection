@@ -1,6 +1,7 @@
 {
   "accession_number": "70.61.24",
-  "artist": "Thomas Wilmer Dewing",
+  "artist": "Artist: Thomas Wilmer Dewing",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Margaret Weyerhaeuser Harmon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4824,
   "image_width": 6550,
+  "inscription": "Signature",
   "life_date": "American, 1851 - 1938",
-  "marks": "Signature LL: [T.W. Dewing]",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [T.W. Dewing]",
   "style": "20th century",
   "text": "",
   "title": "The Gossip"

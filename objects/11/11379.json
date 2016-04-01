@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.28",
-  "artist": "Calogero Cascio",
+  "artist": "Photographer: Calogero Cascio",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Calogero Cascio",
   "image_height": 3468,
   "image_width": 2312,
+  "inscription": "Title; stamp",
   "life_date": "Italian",
-  "marks": "Title; stamp title vero",
+  "markings": "Verso",
   "medium": "Gelatin silver print",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "title vero",
   "style": "20th century",
   "text": "",
   "title": "Bombay, un Uomo e il Suo Carico"

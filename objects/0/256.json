@@ -1,6 +1,7 @@
 {
   "accession_number": "23.23",
   "artist": "",
+  "classification": "Furniture",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Washburn Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5507,
   "image_width": 3629,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Oak",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G325",
+  "signed": "",
   "style": "16th-17th century",
   "text": "",
   "title": "Cupboard"

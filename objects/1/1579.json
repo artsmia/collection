@@ -1,6 +1,7 @@
 {
   "accession_number": "65.18.5",
-  "artist": "Jean-Charles Cazin",
+  "artist": "Artist: Jean-Charles Cazin",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3325,
   "image_width": 4056,
+  "inscription": "Signature",
   "life_date": "French, 1841 - 1901",
-  "marks": "Signature LL in red: [J. C. CAZIN]",
+  "markings": "Colormans mark on verso: [5-? Rue n.d. des Champs Paris / Paul Foinet / Toiles couleurs fines]",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL in red: [J. C. CAZIN]",
   "style": "19th century",
   "text": "",
   "title": "Landscape"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.120.5",
-  "artist": "Charles M. Russell",
+  "artist": "Artist: Charles M. Russell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Donald and Louise Gabbert",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7276,
   "image_width": 8563,
-  "life_date": "American, 1864 - 1926",
-  "marks": " LL: C.M. Russell (with cow skull)",
+  "inscription": "",
+  "life_date": "American, 1864–1926",
+  "markings": "",
   "medium": "Watercolor and black chalk on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: C.M. Russell (with cow skull)",
   "style": "19th-20th century",
   "text": "",
   "title": "Two Indian Maidens"

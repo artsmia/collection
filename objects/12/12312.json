@@ -1,6 +1,7 @@
 {
   "accession_number": "13.46",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Florence M. Shirlaw",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title\r\n\r\nsee Signed",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature; Title\r\n\r\nsee Signed [W.Shirlaw Studies for sheep shearing]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W.Shirlaw Studies for sheep shearing]",
   "style": "19th century",
   "text": "",
   "title": "Studies for Sheep Shearing"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.242.16",
-  "artist": "Max Pechstein",
+  "artist": "Maker: Max Pechstein",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Kate Butler Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "©2002 Artists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
   "image_height": 2032,
   "image_width": 2772,
+  "inscription": "Signature, Date",
   "life_date": "German, 1881 - 1955",
-  "marks": "Signature, Date Initialed, dated in graphite LL [HMP 08.]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "German",
   "provenance": "Hall James and Kate Butler Peterson (by 1971-2000; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed, dated in graphite LL [HMP 08.]",
   "style": "20th century",
   "text": "",
   "title": "Woman and Flutist"

@@ -1,6 +1,7 @@
 {
   "accession_number": "47.34",
-  "artist": "Josiah Wedgwood",
+  "artist": "Maker: Josiah Wedgwood",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Ruth Phelps-Morand",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp",
   "life_date": "British, 1730 - 1795",
-  "marks": "Stamp ",
+  "markings": "on back of bust, WEDGWOOD SPENCER on bottom of base, WEDGWOOD WUS F",
   "medium": "Basaltware",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bust of Edmund Spencer"

@@ -1,6 +1,7 @@
 {
   "accession_number": "14.20",
-  "artist": "Ernest Alfred Cole",
+  "artist": "Artist: Ernest Alfred Cole",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4536,
   "image_width": 1986,
+  "inscription": "Signature",
   "life_date": "British, 1890 - 1980",
-  "marks": "Signature [Ernest Cole], bottom center",
+  "markings": "",
   "medium": "Sepia on paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Ernest Cole], bottom center",
   "style": "20th century",
   "text": "",
   "title": "Madonna"

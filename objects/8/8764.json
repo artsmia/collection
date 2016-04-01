@@ -1,6 +1,7 @@
 {
   "accession_number": "63.52.1",
-  "artist": "Julian Scott",
+  "artist": "Artist: Julian Scott",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Lillian Z. Turnblad Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3042,
   "image_width": 4269,
+  "inscription": "Signature",
   "life_date": "American, 1846 - 1901",
-  "marks": "Signature LRC",
+  "markings": "",
   "medium": "Graphite and watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC",
   "style": "19th-20th century",
   "text": "",
   "title": "Study for the Duel of Burr and Hamilton"

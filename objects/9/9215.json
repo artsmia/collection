@@ -1,6 +1,7 @@
 {
   "accession_number": "68.74.2",
-  "artist": "Follower of Guercino (Giovanni Francesco Barbieri)",
+  "artist": "Artist: Follower of Guercino (Giovanni Francesco Barbieri)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4220,
   "image_width": 3525,
-  "life_date": "Italian (Bologna), 1591-1666",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Italian (Bologna), 1591–1666",
+  "markings": "Watermark: letters (Word indecipherable) \\'AW[OM\\' (?) or \\'MOLUA\\\"?",
   "medium": "Pen and brown ink on laid white paper",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Holy Family"

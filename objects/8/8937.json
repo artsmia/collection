@@ -1,6 +1,7 @@
 {
   "accession_number": "54.27.79",
-  "artist": "Paul Antoine Hannong",
+  "artist": "Artist: Paul Antoine Hannong",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. John P. Rutherfurd in Memory of her father Mr. Thomas Shevlin",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5065,
   "image_width": 3946,
-  "life_date": "French, c.1700-1760",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, c.1700–1760",
+  "markings": "",
   "medium": "Tin-glazed earthenware",
   "nationality": "French (Strasbourg)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Figurine"

@@ -1,6 +1,7 @@
 {
   "accession_number": "90.93",
-  "artist": "Benjamin Greenleaf",
+  "artist": "Artist: Benjamin Greenleaf",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Paintings Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1349,
+  "inscription": "",
   "life_date": "American, 1786 - 1864",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on glass (reverse painting on glass)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Joseph Wiggins"

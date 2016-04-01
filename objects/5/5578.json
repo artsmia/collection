@@ -1,6 +1,7 @@
 {
   "accession_number": "98.144.15",
-  "artist": "Samuel Bourne",
+  "artist": "Photographer: Samuel Bourne",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Fred Scheel",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 2366,
+  "inscription": "Maker; Title; Date; Signature",
   "life_date": "British, 1834 - 1912",
-  "marks": "Maker; Title; Date; Signature ",
+  "markings": "lower edge back of print; lower edge front of print",
   "medium": "Albumen print",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Taj Mahal, Agra, India"

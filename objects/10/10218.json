@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.170",
-  "artist": "Utagawa Toyohiro",
+  "artist": "Artist: Utagawa Toyohiro",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3744,
+  "inscription": "",
   "life_date": "Japanese, 1773 - 1828",
-  "marks": " Ichiryu_sai Utagawa Toyohiro ga",
+  "markings": "Seal: Toyohiro",
   "medium": "Ink, color, and gofun on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ichiryu_sai Utagawa Toyohiro ga",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "A Night-cap"

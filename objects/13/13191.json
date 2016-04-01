@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.242.11",
-  "artist": "Ernst Ludwig Kirchner",
+  "artist": "Artist: Ernst Ludwig Kirchner",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Kate Butler Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2934,
   "image_width": 2032,
+  "inscription": "Signature, Date, Stamp",
   "life_date": "German, 1880 - 1938",
-  "marks": "Signature, Date, Stamp In black ink LR [E Kirchner 06]",
+  "markings": "Estate stamp, verso [NACHLASS / E.L. KIRCHNER / 8 Orc / Bf l], Lugt 1570b.",
   "medium": "Graphite and wash",
   "nationality": "German",
   "provenance": "Artist's Estate\r\nHall James and Kate Butler Peterson, Petersham, MA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In black ink LR [E Kirchner 06]",
   "style": "20th century",
   "text": "",
   "title": "Two Women"

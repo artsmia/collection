@@ -1,6 +1,7 @@
 {
   "accession_number": "72.65",
-  "artist": "Michael Sweerts",
+  "artist": "Artist: Michael Sweerts",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Walter H. and Valborg P. Ude Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3947,
   "image_width": 3128,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Flemish, 1618 - 1664",
-  "marks": "Signature\r\n\r\nsee Signed monogram on edge of circular tray on floor in fore",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram on edge of circular tray on floor in foreground: [MS] (in ligature)",
   "style": "17th century",
   "text": "",
   "title": "Boy Drawing before the Bust of a Roman Emperor"

@@ -1,6 +1,7 @@
 {
   "accession_number": "25.58",
-  "artist": "Béla Witz",
+  "artist": "Artist: Béla Witz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4879,
   "image_width": 3152,
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Hungarian, born 1885",
-  "marks": "Signature; Date\r\nsee Signed [Witx B. 9/8 Budapest 17]",
+  "markings": "",
   "medium": "Ink on white cardboard",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Witx B. 9/8 Budapest 17]",
   "style": "20th century",
   "text": "",
   "title": "Head of a Woman"

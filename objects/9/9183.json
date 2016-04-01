@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.287",
-  "artist": "Utagawa Hiroshige; Published by Sakanaya Eikichi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Sakanaya Eikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2731,
   "image_width": 1746,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga 広重画",
+  "markings": "Censor: kai, Sep. 1857\r\nPublisher: Uoei",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga 広重画",
   "style": "19th century",
   "text": "",
   "title": "New Year's Eve Foxfires at the Changing Tree, Ōji"

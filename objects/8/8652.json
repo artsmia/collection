@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.142",
-  "artist": "Yoshida Ranko",
+  "artist": "Artist: Yoshida Ranko",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3731,
   "image_width": 1780,
+  "inscription": "Signature; Stamps",
   "life_date": "Japanese, 1730 - 1799",
-  "marks": "Signature; Stamps ",
+  "markings": "\\'Ranko\\'; \\'Kentei\\', seal; \\'Togyusai\\', seal",
   "medium": "Ink and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Falcon Attacking Goose"

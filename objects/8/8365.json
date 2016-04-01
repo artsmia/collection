@@ -1,6 +1,7 @@
 {
   "accession_number": "99.133.2.2",
-  "artist": "John Moyr Smith; Minton and Company",
+  "artist": "Designer: John Moyr Smith; Manufacturer: Minton and Company",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from the Decorative Arts Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4308,
   "image_width": 3940,
-  "life_date": "Scottish, 1839-1912",
-  "marks": "Inscription; Stamps ",
+  "inscription": "Inscription; Stamps",
+  "life_date": "Stoke-on-Trent, Staffordshire, England, est. 1793",
+  "markings": "\\'The Guest****[Greek inscription]\\', in black, below rim at top of bowl; \\'[symbol and sideways \\'S\\']/MINTONS\\', stamped into glaze on bottom; \\'MINTONS [on a ribbon over a globe, topped with a crown]/ T.GOODE & CO [on a ribbon]/LONDON.\\', in pink, on bottom",
   "medium": "Porcelain, gilt, enamel",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "\"The Guest\" plate"

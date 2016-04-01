@@ -1,6 +1,7 @@
 {
   "accession_number": "94.25",
-  "artist": "Peter Busa",
+  "artist": "Artist: Peter Busa",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Peter Busa %2F Courtesy Christopher Busa",
   "image_height": 1920,
   "image_width": 1649,
+  "inscription": "",
   "life_date": "American, 1914-1985",
-  "marks": " LR: Busa",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: Busa",
   "style": "20th century",
   "text": "",
   "title": "Mariner's Bell"

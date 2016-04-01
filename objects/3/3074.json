@@ -1,6 +1,7 @@
 {
   "accession_number": "82.45.2",
-  "artist": "After Jan Luyken",
+  "artist": "Artist: After Jan Luyken",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Jingdezhen, China",
   "creditline": "Git of Thomas A. Jamieson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3545,
   "image_width": 3253,
+  "inscription": "",
   "life_date": "Dutch, 1649-1712",
-  "marks": " ",
+  "markings": "",
   "medium": "Porcelain",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G209",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "\"Crucifixion\" soup bowl"

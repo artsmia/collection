@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.283",
-  "artist": "Utagawa Hiroshige; Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4593,
   "image_width": 3222,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:Kai, July 1855\r\nPublisher:Tsutaya Kichizo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "No.13 Mount Fuji Seen Over Ashigara Mountain in Numazu"

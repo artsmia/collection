@@ -1,6 +1,7 @@
 {
   "accession_number": "99.9",
-  "artist": "László Moholy-Nagy",
+  "artist": "Photographer: László Moholy-Nagy",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ralph Rapson and the Alfred and Ingrid Lenz Harrison Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©2008 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4212,
   "image_width": 3442,
-  "life_date": "American (born Hungary), 1895 - 1946",
-  "marks": "Signature In graphite, at one shorter side center, verso: [M",
+  "inscription": "Signature",
+  "life_date": "American (born Hungary), 1895–1946",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, at one shorter side center, verso: [Moholy]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

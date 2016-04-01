@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.20",
-  "artist": "Robert Mapplethorpe",
+  "artist": "Artist: Robert Mapplethorpe",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Robert Mapplethorpe %2F The Robert Mapplethorpe Foundation",
   "image_height": 3587,
   "image_width": 3017,
+  "inscription": "Signed, Numbered, and Inscribed",
   "life_date": "American, 1946 - 1989",
-  "marks": "Signed, Numbered, and Inscribed LL: [SMA]\r\nLL: [C.T.P. #1/3]\r\nLR: [PROOF OF EDITIO",
+  "markings": "",
   "medium": "Color photolithograph",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [SMA]\r\nLL: [C.T.P. #1/3]\r\nLR: [PROOF OF EDITION VERSION]",
   "style": "20th century",
   "text": "",
   "title": "Calla Lily"

@@ -1,6 +1,7 @@
 {
   "accession_number": "77.21",
-  "artist": "attributed to Filippo Pavodi",
+  "artist": "Artist: attributed to Filippo Pavodi",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of funds from M. R. Schweitzel and The Miscellaneous Works of Art Purchase Fund, The Decorative Arts Discretionary Purchase Fund, The Harriet Hanley Memorial Fund, The David M. Daniels Fund, The Collector's Fund, and The Works of Art Repair Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5541,
   "image_width": 3481,
+  "inscription": "",
   "life_date": "Italian, 1630 - 1702",
-  "marks": " ",
+  "markings": "",
   "medium": "Wood, gilt",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Pedestal"

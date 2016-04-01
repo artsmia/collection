@@ -1,6 +1,7 @@
 {
   "accession_number": "13.73",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Florence M. Shirlaw",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3596,
   "image_width": 2266,
+  "inscription": "Signature; Inscription\r\n\r\nsee Signed",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature; Inscription\r\n\r\nsee Signed [Thos. Stevens, the Interpreter of Crow Agency. W.",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Thos. Stevens, the Interpreter of Crow Agency. W. Shirlaw]",
   "style": "19th century",
   "text": "",
   "title": "Sketch made on Indian Reservation, Montana"

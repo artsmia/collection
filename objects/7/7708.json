@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.8",
-  "artist": "John Newman",
+  "artist": "Artist: John Newman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 3388,
   "image_width": 3752,
+  "inscription": "Signed, Dated, and Inscribed",
   "life_date": "American, born 1952",
-  "marks": "Signed, Dated, and Inscribed VERSO: [John Newman / 1985]\r\nVERSO: [Trial Proof /",
+  "markings": "",
   "medium": "Etching and drypoint in blue ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "VERSO: [John Newman / 1985]\r\nVERSO: [Trial Proof / for Steve]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

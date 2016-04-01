@@ -1,6 +1,7 @@
 {
   "accession_number": "71.2",
-  "artist": "Jan Cossiers",
+  "artist": "Artist: Jan Cossiers",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6809,
   "image_width": 4863,
+  "inscription": "",
   "life_date": "Flemish, 1600 - 1671",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Adoration of the Shepherds"

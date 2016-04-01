@@ -1,6 +1,7 @@
 {
   "accession_number": "82.104.12",
-  "artist": "Théodore Rousseau",
+  "artist": "Artist: Théodore Rousseau",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Wheelock Whitney III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2714,
   "image_width": 4194,
+  "inscription": "",
   "life_date": "French, 1812 - 1867",
-  "marks": " LR, in graphite: Théodore Rousseau",
+  "markings": "",
   "medium": "Graphite on white wove paper",
   "nationality": "French",
   "provenance": "Georges Martin du Nord, Paris\r\nShepard Gallery, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in graphite: Théodore Rousseau",
   "style": "19th century",
   "text": "",
   "title": "Village in a Mountainous Landscape"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.137.2",
-  "artist": "Maruyama Ōkyo",
+  "artist": "Artist: Maruyama Ōkyo",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6642,
   "image_width": 2603,
+  "inscription": "Signature; Stamp",
   "life_date": "Japanese, Shijō, 1733 - 1795",
-  "marks": "Signature; Stamp ",
+  "markings": "\\'Okyo\\'; \\'Okyo Chusen\\', seal",
   "medium": "Ink with slight color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Cat and Goose"

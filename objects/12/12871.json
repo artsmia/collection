@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.189",
-  "artist": "Karen Ann Klein",
+  "artist": "Artist: Karen Ann Klein",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Harold Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\nsee SIgned",
   "life_date": "American, born 1942",
-  "marks": "Signature; Date\r\nsee SIgned in graphite: [KA KLEIN-99]",
+  "markings": "",
   "medium": "Photocopies, collage, handwork",
   "nationality": "American",
   "provenance": "Harold Peterson, Minneapolis (MIA Librarian); given to MIA, 2000.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite: [KA KLEIN-99]",
   "style": "20th century",
   "text": "<I>Odonata</I> is the Latin name for the order of insects comprised of dragonflies and damselflies.",
   "title": "Odonata"

@@ -1,6 +1,7 @@
 {
   "accession_number": "63.46",
-  "artist": "School of Raphael",
+  "artist": "Artist: School of Raphael",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1541,
+  "inscription": "Inscriptions\r\n\r\n[both in ca. 1600 hand]\r\n(at top, reverse): [DEL ABATE PRIMATICCIO (Sic) MOD];\r\n(at bottom, reverse): [No. 180 Del Primaticcio]\r\n",
   "life_date": "Italian (Emilia or Rome), mid 16th century",
-  "marks": "Inscriptions\r\n\r\n[both in ca. 1600 hand]\r\n(at top,  ",
+  "markings": "Wax seals of the Camuccini, the Commissario delle Antichita (Rome) and the Northumberlands.",
   "medium": "Oil on panel",
   "nationality": "Italian (Emilia or Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Conversion of Saul"

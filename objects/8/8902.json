@@ -1,6 +1,7 @@
 {
   "accession_number": "58.22",
-  "artist": "Raoul Dufy; after Constantin Guys",
+  "artist": "Artist: Raoul Dufy; Artist: after Constantin Guys",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Nathan Cummings Art Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3853,
   "image_width": 5086,
+  "inscription": "Signature",
   "life_date": "French, 1877-1953",
-  "marks": "Signature [Raoul Dufy], in graphite, bottom right of center",
+  "markings": "",
   "medium": "Gouache",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Raoul Dufy], in graphite, bottom right of center",
   "style": "20th century",
   "text": "",
   "title": "The Surrender of the Frigate"

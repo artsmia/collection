@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.154",
-  "artist": "Kitagawa Utamaro; Published by Ōmiya Gonkurō",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Ōmiya Gonkurō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5172,
   "image_width": 3424,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " 歌麿筆 {Utamaro hitsu}",
+  "markings": "Publisher:O_miya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "歌麿筆 {Utamaro hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Hitomoto of the Daimonjiya"

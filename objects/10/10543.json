@@ -1,6 +1,7 @@
 {
   "accession_number": "70.61.23",
-  "artist": "George Elmer Browne",
+  "artist": "Artist: George Elmer Browne",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Margaret Weyerhaeuser Harmon",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3360,
   "image_width": 4086,
+  "inscription": "",
   "life_date": "American, 1871 - 1946",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G337",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Moonlight Landscape"

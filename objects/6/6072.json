@@ -1,6 +1,7 @@
 {
   "accession_number": "B.82.12",
-  "artist": "Joan Miró; Robert Desnos; Maeght Editeur, Paris; Fequet et Baudier, Paris, France , (text)",
+  "artist": "Artist: Joan Miró; Author: Robert Desnos; Publisher: Maeght Editeur, Paris; Printer: Fequet et Baudier, Paris, France , (text)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Spanish, 1893 - 1983",
-  "marks": "Mark ",
+  "markings": "Watermark: <Arches>",
   "medium": "Color lithographs; letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Les Pénalités de l’Enfer ou Les Nouvelles-Hébrides"

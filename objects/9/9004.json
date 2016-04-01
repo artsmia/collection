@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.31",
-  "artist": "Ernest Henry Grisset",
+  "artist": "Artist: Ernest Henry Grisset",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John DeLaittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4084,
   "image_width": 3136,
+  "inscription": "Signature",
   "life_date": "English, 1844 - 1907",
-  "marks": "Signature [Ernest Griset]",
+  "markings": "",
   "medium": "Pen and watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Ernest Griset]",
   "style": "19th century",
   "text": "",
   "title": "A Monkey"

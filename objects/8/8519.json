@@ -1,6 +1,7 @@
 {
   "accession_number": "82.113",
-  "artist": "Fulper Pottery Company, 1860-1955",
+  "artist": "Manufacturer: Fulper Pottery Company, 1860-1955",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edgar O. Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5501,
   "image_width": 3374,
+  "inscription": "Inscription",
   "life_date": "Flemington, New Jersey",
-  "marks": "Inscription ",
+  "markings": "signed on underside with incised monogram: [Fulper]",
   "medium": "Earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vase"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.59.9",
-  "artist": "Unknown Italian, 17th century",
+  "artist": "Artist: Unknown Italian, 17th century",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3563,
   "image_width": 4339,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "Collectors marks: stag (Or unicorn?) facing left (and tree?), lower left; monogram with H. (and ?), lower right",
   "medium": "Pen, brown ink, and wash (with chalk abrasions?) on ivory laid paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Rest on the Flight into Egypt"

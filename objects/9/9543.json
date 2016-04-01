@@ -1,6 +1,7 @@
 {
   "accession_number": "46.14.284",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George C. Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4092,
   "image_width": 3170,
+  "inscription": "Signature; Inscriptions",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signature; Inscriptions [Jo Pennell], upper right area of composition",
+  "markings": "Recto: upper left corner of board: [a3520]; lower left corner, [20]; pencil lines; erased writing; bottom edge of board in pencil [Making Observations, 3x4 1/2]; verso: in black penci, circled: [Cty-a921]; lower right corner, sticken out with a blue line: [32.62]; lower right corner, in blue: [4 W.1P., 12/16. Lick Observatory (5 Aug.), /140/125/65.66.68., 32-72./70]; center, bottom: [D] (collector\\'s stamp); lower left corner, stamped in violet ink, upside down: [This picture has been reproduced published and copyrighted by the Century Co. New York, and must not be again reproduced or published without their consent.]",
   "medium": "Wash drawing",
   "nationality": "American",
   "provenance": "Provenance: Collector's 'D' stamp printed on verso",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Jo Pennell], upper right area of composition",
   "style": "19th century",
   "text": "",
   "title": "Making Observations"

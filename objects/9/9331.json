@@ -1,6 +1,7 @@
 {
   "accession_number": "68.53.4",
-  "artist": "John Linnell",
+  "artist": "Artist: John Linnell",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2886,
   "image_width": 4470,
+  "inscription": "Signature; Date; Title; Inscription",
   "life_date": "British, 1792 - 1882",
-  "marks": "Signature; Date; Title; Inscription [John Linnell, 1815], in pen, LR",
+  "markings": "[Bonchurch, Isle of Wight], in pen, LR; [red brown], in pencil, in foliage at right (Possible executed before and after the painting)",
   "medium": "Black chalk and graphite heightened with white on bluish-green paper",
   "nationality": "British",
   "provenance": "Mr. J. M. Lees, Manchester",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[John Linnell, 1815], in pen, LR",
   "style": "19th century",
   "text": "",
   "title": "Bonchurch, Isle of Wight"

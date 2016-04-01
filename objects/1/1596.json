@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.4",
-  "artist": "Charles S. Chapman",
+  "artist": "Artist: Charles S. Chapman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1879 - 1962",
-  "marks": "Signature LR: [Charles S. Chapman, N.A.]",
+  "markings": "",
   "medium": "Watercolor and oil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Charles S. Chapman, N.A.]",
   "style": "20th century",
   "text": "",
   "title": "Voices"

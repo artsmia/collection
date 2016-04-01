@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.37",
-  "artist": "Hasegawa Eishun",
+  "artist": "Artist: Hasegawa Eishun",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5433,
   "image_width": 3744,
+  "inscription": "",
   "life_date": "Japanese, act. c. 1710 - 1755",
-  "marks": " Baio_ken Eishun zushi",
+  "markings": "2 illegible seals",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Baio_ken Eishun zushi",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Standing Courtesan"

@@ -1,6 +1,7 @@
 {
   "accession_number": "25.395.2",
-  "artist": "Chelsea Porcelain Manufactory",
+  "artist": "Manufacturer: Chelsea Porcelain Manufactory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Sumner T. McKnight",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2076,
   "image_width": 3895,
+  "inscription": "Mark",
   "life_date": "London, c.1743-1784",
-  "marks": "Mark ",
+  "markings": "",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Vase, one of a pair"

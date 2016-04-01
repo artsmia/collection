@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.129",
-  "artist": "Augustus John",
+  "artist": "Maker: Augustus John",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© The estate of Augustus John. All Rights Reserved %2F Bridgeman Art Library",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, 1878 - 1961",
-  "marks": "Signature \\'John\\', signed in the plate, CR",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\'John\\', signed in the plate, CR",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait"

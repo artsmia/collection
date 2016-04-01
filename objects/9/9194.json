@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,743",
-  "artist": "Francisco Jose de Goya y Lucientes",
+  "artist": "Artist: Francisco Jose de Goya y Lucientes",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The William Hood Dunwoody Fund, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3455,
   "image_width": 4567,
+  "inscription": "",
   "life_date": "Spanish, 1746-1828",
-  "marks": " ",
+  "markings": "",
   "medium": "Crayon lithograph with scraper",
   "nationality": "Spanish",
   "provenance": "Knoedler (New York); purchased by MIA, 1941.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Renowned American Mariano Cebellos"

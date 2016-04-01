@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.280.2",
-  "artist": "Prospero Fontana",
+  "artist": "Maker: Prospero Fontana",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2594,
   "image_width": 1971,
+  "inscription": "Mark",
   "life_date": "1512 - 1597",
-  "marks": "Mark ",
+  "markings": "[RAB], collector\\'s mark, verso",
   "medium": "Pen and brown ink and wash on white laid paper",
   "nationality": null,
   "provenance": "Unidentified collector \"RAB.\"\r\nSotheby's, London, (07/04/85, no. 12)\r\nAlfred Moir, Santa Barbara, CA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Hercules with the Nemean Lion"

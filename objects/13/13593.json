@@ -1,6 +1,7 @@
 {
   "accession_number": "21.20",
-  "artist": "Richard Lee of Taunton",
+  "artist": "Maker: Richard Lee of Taunton",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. John R. Van Derlip, from the collection of J.S. Kellogg",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "American",
-  "marks": "Mark ",
+  "markings": "<Richard Lee>",
   "medium": "Pewter",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Basin"

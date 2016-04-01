@@ -1,6 +1,7 @@
 {
   "accession_number": "25.446",
-  "artist": "Leon-Ernest Drivier",
+  "artist": "Artist: Leon-Ernest Drivier",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3687,
   "image_width": 5549,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature [Drivier], in lower left corner",
+  "markings": "",
   "medium": "Pastel and charcoal",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Drivier], in lower left corner",
   "style": "19th-20th century",
   "text": "",
   "title": "Heroic Group"

@@ -1,6 +1,7 @@
 {
   "accession_number": "26.10",
-  "artist": "Edgar Degas",
+  "artist": "Artist: Edgar Degas",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Julius Boehler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3827,
   "image_width": 4544,
-  "life_date": "French, 1834-1917",
-  "marks": "Signature; Stamp, Inscription ",
+  "inscription": "Signature; Stamp, Inscription",
+  "life_date": "French, 1834–1917",
+  "markings": "Estate stamp in red ink, LL [degas] Lugt 658; inscribed in charcoal upper right [repos se caressant le genoux]\r\nOn verso: various illegible markings\r\n\r\n",
   "medium": "Charcoal",
   "nationality": "French",
   "provenance": "Edgar Degas, Paris (until d. 1917; his estate sale, Lugt 658, Galerie Georges Petit, Paris, atelier sale III, April 7-9, 1919, no. 109 (lot of four drawings) for Fr 2,000). [Galerie Bernheim-Jeune, Paris]. [Julius Böhler, Munich and Lucerne, until 1926; gave to the MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Ballet Dancer in Repose"

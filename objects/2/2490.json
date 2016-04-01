@@ -1,6 +1,7 @@
 {
   "accession_number": "77.28",
-  "artist": "Julius Holm",
+  "artist": "Artist: Julius Holm",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2701,
   "image_width": 4467,
-  "life_date": "American, 1855 - 1930",
-  "marks": "Signature and Date LR in yellow: [JULIUS HOLM 1893]",
+  "inscription": "Signature and Date",
+  "life_date": "American, 1855–1930",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G303",
+  "signed": "LR in yellow: [JULIUS HOLM 1893]",
   "style": "19th century",
-  "text": "Although dated 1893, this painting depicts the famous tornado that passed over St. Paul on July 13, 1890. The painting was probably based on an actual photograph of the event.",
+  "text": "Though not the most devastating tornado to hit the Twin Cities area—six dead, eleven injured—the Lake Gervais twister of July 13, 1890, became one of the most famous. When it struck, a photographer happened to have his camera set up on a bluff overlooking St. Paul. He captured dramatic images that were published as souvenir cards, which the Norwegian-born Minneapolis house painter Julius Holm used as the basis for this painting, created three years later.",
   "title": "Tornado over St. Paul"
 }

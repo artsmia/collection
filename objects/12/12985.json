@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.254",
-  "artist": "Martin Puryear; Jean Toomer; Arion Press",
+  "artist": "Artist: Martin Puryear; Author: Jean Toomer; Publisher: Arion Press",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1983,
   "image_width": 2346,
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "American, born 1941",
-  "marks": "Signature\r\nsee Signed in graphite, on colophon page: [Martin Puryear]",
+  "markings": "",
   "medium": "Woodcuts on Japan paper; letterpress",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, on colophon page: [Martin Puryear]",
   "style": "21st century",
   "text": "",
   "title": "Cane"

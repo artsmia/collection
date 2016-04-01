@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,870",
-  "artist": "Nicolò Boldrini; After Titian (Tiziano Vecelli)",
+  "artist": "Artist: Nicolò Boldrini; Artist: After Titian (Tiziano Vecelli)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8881,
   "image_width": 6774,
+  "inscription": "Signature",
   "life_date": "Italian (Venice), 1510 - after 1566",
-  "marks": "Signature ",
+  "markings": "",
   "medium": "Chiaroscuro woodcut",
   "nationality": "Italian",
   "provenance": "No marks",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Venus and Cupid"

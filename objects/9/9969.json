@@ -1,6 +1,7 @@
 {
   "accession_number": "98.273.8",
-  "artist": "Adrianne Morag-Ferguson; Heal's Fabrics",
+  "artist": "Designer: Adrianne Morag-Ferguson; Manufacturer: Heal's Fabrics",
+  "classification": "Textiles",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Richard Simmons",
@@ -14,8 +15,9 @@
   "image_copyright": "© Heal%27s Fabrics%2C London%2C Adrianne Morag-Ferguson%2C 1973",
   "image_height": 2979,
   "image_width": 4984,
-  "life_date": "English",
-  "marks": "Inscription ",
+  "inscription": "Inscription",
+  "life_date": "London, England, 1948-present",
+  "markings": "\\'HEALS \\'GLENTANNA\\' DESIGNED BY ADRIANNE MORANG-FERGUSON TOP ->\\', \\'<- TOP WOVEN AND PRINTED IN ENGLAND SHRINK RESISTANT\\', printed in white border to either side",
   "medium": "Cotton; screenprint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Glentanna"

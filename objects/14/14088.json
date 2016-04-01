@@ -1,6 +1,7 @@
 {
   "accession_number": "23.8.87",
   "artist": "",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3888,
   "image_width": 2848,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "\\'J. Aynsley, Lane End\\'",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Mug"

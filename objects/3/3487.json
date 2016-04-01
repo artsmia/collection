@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.20",
-  "artist": "Agnes Story",
+  "artist": "Artist: Agnes Story",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2756,
   "image_width": 3768,
+  "inscription": "Mark",
   "life_date": "American (b. Venezuela), born 1956",
-  "marks": "Mark ",
+  "markings": "Watermark: <BFK Rives/France>",
   "medium": "Watercolor, lithographic crayon and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vermillion"

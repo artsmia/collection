@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.153",
-  "artist": "Xu Gu",
+  "artist": "Artist: Xu Gu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Stamp\r\n\r\n2-line untranslated inscription, in black, at R edge",
   "life_date": "Chinese, 1824 - 93",
-  "marks": "Inscription; Stamp\r\n\r\n2-line untranslated inscript ",
+  "markings": "seals, in red, below inscription at LR corner and 2 at L edge",
   "medium": "ink and colors on paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Loquats"

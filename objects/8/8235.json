@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.22",
-  "artist": "Leopold Krumel",
+  "artist": "Artist: Leopold Krumel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Velvetone Company, San Francisco",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 2970,
   "image_width": 4174,
+  "inscription": "?signature",
   "life_date": "American (born Austira), 1879-1966",
-  "marks": "?signature ",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American (born Austria)",
   "provenance": "Velvetone Poster Company, San Francisco",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Swans"

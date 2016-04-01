@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.27.1",
-  "artist": "Lyonel Feininger",
+  "artist": "Artist: Lyonel Feininger",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Richard L. Simmons in memory of Roberta Grodberg Simmons",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 8026,
   "image_width": 6465,
-  "life_date": "American (active Germany), 1871 - 1956",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American (active Germany), 1871–1956",
+  "markings": "",
   "medium": "Woodcut on Japan paper",
   "nationality": "American (active Germany)",
   "provenance": "Richard L. Simmons; given to MIA, 1993.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Promenaders (Spaziergänger)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.89.6",
-  "artist": "Mark Beard; Text by Mark Beard; Vincent FitzGerald , New York",
+  "artist": "Artist: Mark Beard; Author: Text by Mark Beard; Publisher: Vincent FitzGerald , New York",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the National Endowment for the Arts and the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Mark Beard",
   "image_height": 2938,
   "image_width": 3946,
+  "inscription": "Signature and Edition\r\non colophon",
   "life_date": "American, born 1956",
-  "marks": "Signature and Edition\r\non colophon ",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color linocuts, collage, and prints text",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Utah Reader"

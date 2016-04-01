@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.15.2",
-  "artist": "Hanabusa Itchō",
+  "artist": "Artist: Hanabusa Itchō",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3054,
   "image_width": 5335,
+  "inscription": "Signature",
   "life_date": "Japanese, 1652 - 1724",
-  "marks": "Signature ",
+  "markings": "Signed Hanabusa Itcho Kinzu (Painted with reverence).",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Scenes from Comic Plays"

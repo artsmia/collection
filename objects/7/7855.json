@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.21.13",
-  "artist": "Édouard Manet; Lemercier &amp; Cie. , Paris",
+  "artist": "Artist: Édouard Manet; Printer: Lemercier &amp; Cie. , Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Kenneth and Lillian Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4404,
   "image_width": 2823,
+  "inscription": "Signature; Inscriptions",
   "life_date": "French, 1832 - 1883",
-  "marks": "Signature; Inscriptions Signed on the stone, LR: [Manet]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "Kenneth and Lillian Smith, Minnesota; given to MIA, 1993.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on the stone, LR: [Manet]",
   "style": "19th century",
   "text": "",
   "title": "Polichinelle"

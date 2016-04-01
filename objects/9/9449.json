@@ -1,6 +1,7 @@
 {
   "accession_number": "15.142",
-  "artist": "Ralph Albert Blakelock",
+  "artist": "Artist: Ralph Albert Blakelock",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 984,
   "image_width": 2560,
+  "inscription": "Inscription; Signature",
   "life_date": "American, 1847 - 1919",
-  "marks": "Inscription; Signature [Blakelock] in brown ink, lower right",
+  "markings": "[Near Acapulco-Coast of Mexico], in brown ink, lower right",
   "medium": "Pen and ink on tracing paper mounted on blue wove",
   "nationality": "American",
   "provenance": "Blakelock family",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Blakelock] in brown ink, lower right",
   "style": "19th century",
   "text": "",
   "title": "Near Acupulco - Coast of Mexico"

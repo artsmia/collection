@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.46",
-  "artist": "Okumura Masanobu",
+  "artist": "Artist: Okumura Masanobu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3744,
   "image_width": 5616,
+  "inscription": "Signature; Stamp",
   "life_date": "Japanese, 1686 - 1764",
-  "marks": "Signature; Stamp Okumura Masanobu hitsu",
+  "markings": "Seal: Masanobu",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Okumura Masanobu hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Courtesan and Two Attendants"

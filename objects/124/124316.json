@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.93.19.6",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Elizabeth, Julie, and Catherine Andrus in memory of John and Marion Andrus",
@@ -10,10 +11,10 @@
   "description": "\r\n\r\n\r\n\r\n\r\n\r\n",
   "dimension": "2 × 3 in. (5.08 × 7.62 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/124316",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2087,
+  "image_width": 2992,
   "inscription": "Signature, Date, Inscription, Stamp\r\n\r\ninscribed in plate at top: [ANTAEVM LIBIAE GYGANTEM SVFFOCAT HERCVLES]",
   "life_date": "German, 1500-1550",
   "markings": "pink stamp on verso, lower left: Lawrason Riggs (Lugt 1756c). Also on verso: loan number for 1941 Baltimore exhibition.",
@@ -27,5 +28,5 @@
   "signed": "monogram and date in plate at lower left: [1545 / HSB]",
   "style": "16th century",
   "text": "",
-  "title": "Hercules Killing Anthaeus, From the Labors of Hercules"
+  "title": "Hercules Killing Antaeus, From the Labors of Hercules"
 }

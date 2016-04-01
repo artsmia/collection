@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.41a,b",
-  "artist": "Peter Behrens; AEG (Allgemeine Elektrizitäts-Gesellschaft)",
+  "artist": "Designer: Peter Behrens; Manufacturer: AEG (Allgemeine Elektrizitäts-Gesellschaft)",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1652,
-  "life_date": "German, 1868-1940",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1868–1940",
+  "markings": "on bottom: [AEG serial #42517]",
   "medium": "Brass, wicker, electric wiring",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Bauhaus",
   "text": "Considered by many to be the first modern industrial designer, Behrens served as artistic adviser to the Berlin general electrial company (AEG) from 1907 to 1914. The firm manufactured all kinds of electrical equipment and it was only a matter of time before Behrens began designing electrical appliances for home use. The electric teakettle was produced in three versions (oval, bulb-shaped, and octagonal), two of which are in the collection. Each was available in three different surface finishes with the heating elements hidden inside.",
   "title": "Electric tea kettle"

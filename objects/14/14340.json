@@ -1,6 +1,7 @@
 {
   "accession_number": "25.52",
-  "artist": "Gyula Háry",
+  "artist": "Artist: Gyula Háry",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Hungarian, born 1864",
-  "marks": "Signature\r\nsee Signed [Bpest - Háry Gyula]",
+  "markings": "",
   "medium": "Graphite and watercolor",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Bpest - Háry Gyula]",
   "style": "20th century",
   "text": "",
   "title": "Baroque Church, Budapest"

@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.29",
-  "artist": "John Linnell",
+  "artist": "Artist: John Linnell",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3914,
   "image_width": 3136,
+  "inscription": "Signature; Date",
   "life_date": "British, 1792 - 1882",
-  "marks": "Signature; Date [J Linnell 1846]",
+  "markings": "",
   "medium": "Pastel and crayon, brush wash",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J Linnell 1846]",
   "style": "19th century",
   "text": "",
   "title": "Portrait of a Gentleman"

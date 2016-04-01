@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.176",
-  "artist": "Utagawa Toyokuni; Published by Izumiya Ichibei",
+  "artist": "Artist: Utagawa Toyokuni; Publisher: Published by Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5177,
   "image_width": 3498,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " {Toyokuni ga}",
+  "markings": "Censor: kiwame; publisher\\'s seal: {Izumiichi ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Toyokuni ga}",
   "style": "18th century",
   "text": "",
   "title": "Yamatoya"

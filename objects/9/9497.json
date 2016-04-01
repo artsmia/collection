@@ -1,6 +1,7 @@
 {
   "accession_number": "82.104.15a,b",
-  "artist": "Théodore Rousseau",
+  "artist": "Artist: Théodore Rousseau",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Wheelock Whitney III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3660,
   "image_width": 2376,
+  "inscription": "Signatures; Date",
   "life_date": "French, 1812 - 1867",
-  "marks": "Signatures; Date [Théodore Rousseau], lower right, recto; [Théodore",
+  "markings": "",
   "medium": "Brown ink and graphite on white wove paper",
   "nationality": "French",
   "provenance": "Georges Martin du Nord, Paris\r\nShepard Gallery, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Théodore Rousseau], lower right, recto; [Théodore Rousseau 1825], lower center, verso",
   "style": "19th century",
   "text": "",
   "title": "Study and Head of a Soldier, recto; Bust of a Man in Exotic Costume, verso"

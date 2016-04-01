@@ -1,6 +1,7 @@
 {
   "accession_number": "13.28",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Florence M. Shirlaw",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature; Date LL",
+  "markings": "",
   "medium": "Watercolor and graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL",
   "style": "19th century",
   "text": "",
   "title": "Rothenburg"

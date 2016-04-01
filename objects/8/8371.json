@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.27",
-  "artist": "Thomas W. McCreary; Phoenix Glass Company, 1880-1970",
+  "artist": "Designer: Thomas W. McCreary; Manufacturer: Phoenix Glass Company, 1880-1970",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1920,
   "image_width": 2419,
+  "inscription": "Marks",
   "life_date": "American, (dates unknown)",
-  "marks": "Marks ",
+  "markings": "impressed on side: [Patented Sept. 4, 1928 P.C. Co.]",
   "medium": "Molded glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "\"Ruba Rombic\" fishbowl"

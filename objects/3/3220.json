@@ -1,6 +1,7 @@
 {
   "accession_number": "83.83",
-  "artist": "Marino Marini",
+  "artist": "Artist: Marino Marini",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift from the children of John and Elizabeth Bates Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "©2000 Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4990,
   "image_width": 3932,
+  "inscription": "",
   "life_date": "Italian, 1901 - 1980",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G375",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Horse and Rider"

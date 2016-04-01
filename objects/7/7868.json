@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.21.8",
-  "artist": "Edgar Degas",
+  "artist": "Artist: Edgar Degas",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Kenneth and Lillian Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1834-1917",
-  "marks": "Signature Degas",
+  "inscription": "Signature",
+  "life_date": "French, 1834–1917",
+  "markings": "",
   "medium": "Aquatint after monotype",
   "nationality": "French",
   "provenance": "Ginsburg Print Collection",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Degas",
   "style": "19th century",
   "text": "",
   "title": "Ludovic Halévy Finds Mademoiselle Cardinal in the Dressing Room"

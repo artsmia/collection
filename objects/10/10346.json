@@ -1,6 +1,7 @@
 {
   "accession_number": "81.2.20.3",
-  "artist": "Kawanabe Kyōsai",
+  "artist": "Artist: Kawanabe Kyōsai",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3744,
+  "inscription": "",
   "life_date": "Japanese, 1831 - 1889",
-  "marks": " (Shojo Kyosai copied from Sesshu)",
+  "markings": "Shuchu gaki",
   "medium": "Hanging scroll; ink on paper",
   "nationality": "Japanese",
   "provenance": "Conder (sold at Sotheby London, 18 Jan. 1965)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "(Shojo Kyosai copied from Sesshu)",
   "style": "19th century",
   "text": "",
   "title": "Jurōjin"

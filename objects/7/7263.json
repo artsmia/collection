@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,540",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature in pencil, LR: [Beckmann]",
+  "inscription": "Signature",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Group Portrait, Eden Bar"

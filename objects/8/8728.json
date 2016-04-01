@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.133a-f",
-  "artist": "Kubo Shunman; Fushimiya Zenroku",
+  "artist": "Artist: Kubo Shunman; Publisher: Fushimiya Zenroku",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2581,
   "image_width": 5131,
+  "inscription": "",
   "life_date": "Japanese, 1757 - 1820",
-  "marks": " On each panel: {Shunman ga}",
+  "markings": "Artist\\'s seal; publisher\\'s seal: {Fushimiya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On each panel: {Shunman ga}",
   "style": "18th century",
   "text": "",
   "title": "Six Jewel Rivers"

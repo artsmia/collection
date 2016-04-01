@@ -1,6 +1,7 @@
 {
   "accession_number": "99.29.6a,b",
-  "artist": "Frank Lloyd Wright; Matthews Brothers Furniture Company",
+  "artist": "Designer: Frank Lloyd Wright; Manufacturer: Matthews Brothers Furniture Company",
+  "classification": "Furniture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Regis Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3556,
   "image_width": 4324,
-  "life_date": "American, 1867 - 1959",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1867–1959",
+  "markings": "",
   "medium": "Oak, leather",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G300",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Chair, from a dining set"

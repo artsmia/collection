@@ -1,6 +1,7 @@
 {
   "accession_number": "81.47",
-  "artist": "attributed to Sir Joshua Reynolds",
+  "artist": "Artist: attributed to Sir Joshua Reynolds",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Anthony Morris Clark",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5668,
   "image_width": 4862,
-  "life_date": "British, 1723 - 1792",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1723–1792",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Sir James Gray"

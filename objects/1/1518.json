@@ -1,6 +1,7 @@
 {
   "accession_number": "63.20",
-  "artist": "Douglas Volk",
+  "artist": "Artist: Douglas Volk",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Harvey H. Soulen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1856 - 1935",
-  "marks": "Signature, Inscription\r\n\r\nsee Signed LR: [Compliments of Douglas Volk]",
+  "inscription": "Signature, Inscription\r\n\r\nsee Signed",
+  "life_date": "American, 1856–1935",
+  "markings": "",
   "medium": "Graphite heightened with white chalk",
   "nationality": "American",
   "provenance": "Harvey H. Soulen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Compliments of Douglas Volk]",
   "style": "19th century",
   "text": "",
   "title": "Study for \"Father Hennepin Discovering St. Anthony Falls\""

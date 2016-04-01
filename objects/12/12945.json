@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.257.1",
-  "artist": "Louis de Boullogne the Elder",
+  "artist": "Artist: Louis de Boullogne the Elder",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Lutz Riester",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1609 - 1674",
-  "marks": " Signed in the plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "Lutz Riester, Freiburg, Germany; given to MIA, 2000.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in the plate",
   "style": "17th century",
   "text": "",
   "title": "The Martyrdom of Saint Peter"

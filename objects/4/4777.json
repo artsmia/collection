@@ -1,6 +1,7 @@
 {
   "accession_number": "95.101.2",
-  "artist": "John Tunnard",
+  "artist": "Artist: John Tunnard",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Lora and Martin Weinstein in memory of Louis Malament",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1807,
   "image_width": 2634,
+  "inscription": "Signature; Date; Title",
   "life_date": "British, 1900 - 1971",
-  "marks": "Signature; Date; Title [John Tunnard/1944], in black ink, verso",
+  "markings": "[Lunar Synthesis], in black ink, verso",
   "medium": "Watercolor, gouache, and graphite",
   "nationality": "British",
   "provenance": "Lora and Martin Weinstein, Minneapolis; given to MIA, 1995.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[John Tunnard/1944], in black ink, verso",
   "style": "20th century",
   "text": "",
   "title": "Lunar Synthesis"

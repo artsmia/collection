@@ -1,6 +1,7 @@
 {
   "accession_number": "99.59.39",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Edson Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4300,
   "image_width": 1748,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "[JS (?--inside a circle)], in red, LR corner",
   "medium": "Ink on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Yanone Gorō"

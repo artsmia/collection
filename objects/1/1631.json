@@ -1,6 +1,7 @@
 {
   "accession_number": "67.23",
-  "artist": "Philip Guston",
+  "artist": "Painter: Philip Guston",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "© Philip Guston %2F The Guston Foundation",
   "image_height": 4813,
   "image_width": 6890,
+  "inscription": "Signature and Date",
   "life_date": "American (born Canada), 1913-1980",
-  "marks": "Signature and Date LC: [Philip Guston 58]",
+  "markings": "",
   "medium": "Oil on board",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [Philip Guston 58]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

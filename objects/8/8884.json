@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.254",
-  "artist": "Totoya Hokkei",
+  "artist": "Artist: Totoya Hokkei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4403,
   "image_width": 3878,
+  "inscription": "2 kyo_ka poems\r\nright:poem by Gurndo_\r\n(Senzai no \r\nHaru yo ??\r\nKaitei ya\r\nKudara no hito no\r\nWatari sugoshite)\r\nleft:poem by Yomo?kadan Shingan\r\n(Yuki furi keru\r\n?? no ko_ri no\r\nKaitei wa\r\nKasumu ?? n???)\r\n\r\n\r\n",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": "2 kyo_ka poems\r\nright:poem by Gurndo_\r\n(Senzai no  Aoigaoka Hokkei",
+  "markings": "artist\\'s seal?",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Aoigaoka Hokkei",
   "style": "19th century",
   "text": "",
   "title": "View of the Monkey Bridge"

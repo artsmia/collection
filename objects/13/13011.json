@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.230.1",
-  "artist": "Tiffany Studios",
+  "artist": "Maker: Tiffany Studios",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Virginia Stromquist in memory of her parents",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3744,
   "image_width": 5616,
-  "life_date": "New York, 1885-1933",
-  "marks": "Stamp ",
+  "inscription": "Stamp",
+  "life_date": "New York, 1885–1933",
+  "markings": "stamped, on bottom in copper at back edge: [TIFFANY STUDIOS/NEW YORK]",
   "medium": "Copper, opalescent glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G320",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Jewel box"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.29",
-  "artist": "Kaigetsudō Ando",
+  "artist": "Artist: Kaigetsudō Ando",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5445,
   "image_width": 3574,
+  "inscription": "\\\"Yu_jo\\\" Kaigetsudo_ Ando hitsu (on the box)",
   "life_date": "Japanese, about 1671 - 1743",
-  "marks": "\\\"Yu_jo\\\" Kaigetsudo_ Ando hitsu (on the box) Nihon giga (\\'pleasure painting\\') Kaigetsudo_ zu sh",
+  "markings": "\\'Ando\\' seal",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Nihon giga (\\'pleasure painting\\') Kaigetsudo_ zu shi",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Standing Courtesan in Kimono with Fern and Wheel Pattern"

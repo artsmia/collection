@@ -1,6 +1,7 @@
 {
   "accession_number": "46.14.281",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2966,
   "image_width": 4531,
+  "inscription": "Signature; Inscription",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signature; Inscription right corner: [Jo Pennell]",
+  "markings": "Recto: two diagonal pencil marks extend upward from the outer edges of the design; UL in pen: [a3569]; above center in pencil: [4 inches] (Instructions to printer); lower edge, in pencil: [Florence 12437-6, Jan. 19, 5 proofs]; LRC,in pencil: [78]; diagonally, [Anywhere]; verso: ULC, in pencil: [RILL]; center, in black crayon, circled: [cty a 189]; stamped in lavender ink: [Art Department, the Century Co., Union Square, New York City]; center, upside down: [D]; Douglas collector\\'s mark, LL, in pencil (undecipherable); LR, in pencil: [29-483.803, 30-199]",
   "medium": "Pen and black ink on bristol board",
   "nationality": "American",
   "provenance": "Collector's 'D' stamp on verso",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "right corner: [Jo Pennell]",
   "style": "19th century",
   "text": "",
   "title": "Relief for tail piece from Piazza della Signoria"

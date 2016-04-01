@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.62.4",
-  "artist": "Winifred Dickinson",
+  "artist": "Artist: Winifred Dickinson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature",
   "life_date": "American, born 1905",
-  "marks": "Signature in black ink, LL: [Winifred Dickinson]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink, LL: [Winifred Dickinson]",
   "style": "20th century",
   "text": "",
   "title": "Sedona Red Rock"

@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.8",
-  "artist": "Sir Edward John Poynter",
+  "artist": "Artist: Sir Edward John Poynter",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4487,
   "image_width": 3110,
-  "life_date": "English, 1836 - 1919",
-  "marks": "Stamp ",
+  "inscription": "Stamp",
+  "life_date": "English, 1836–1919",
+  "markings": "[EJP], estate stamp, LR recto",
   "medium": "Black and white chalks on umber brown wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Seated Nude Figure of a Man"

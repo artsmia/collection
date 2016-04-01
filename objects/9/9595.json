@@ -1,6 +1,7 @@
 {
   "accession_number": "88.101.2",
-  "artist": "Elihu Vedder",
+  "artist": "Artist: Elihu Vedder",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1165,
+  "inscription": "Signature; Title; Date",
   "life_date": "American, 1836 - 1923",
-  "marks": "Signature; Title; Date in chalk, LRC: [Sidi Mahad/E. Vedder 1889/Dec 2nd ",
+  "markings": "",
   "medium": "Black, blue and white chalk",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in chalk, LRC: [Sidi Mahad/E. Vedder 1889/Dec 2nd 89/Cairo]",
   "style": "19th century",
   "text": "",
   "title": "Sidi Mahad"

@@ -1,6 +1,7 @@
 {
   "accession_number": "62.57",
-  "artist": "Thomas Waterman Wood",
+  "artist": "Artist: Thomas Waterman Wood",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the W. O. Winston Family",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3620,
   "image_width": 3025,
+  "inscription": "Signature and Date",
   "life_date": "American, 1823 - 1903",
-  "marks": "Signature and Date LL: [T.W. Wood, 1862]",
+  "markings": "",
   "medium": "Oil on canvas, mounted on aluminum",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [T.W. Wood, 1862]",
   "style": "19th century",
   "text": "",
   "title": "Indian Boy at Fort Snelling"

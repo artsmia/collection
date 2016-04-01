@@ -1,6 +1,7 @@
 {
   "accession_number": "91.148.8",
-  "artist": "Pierre Bonnard",
+  "artist": "Artist: Pierre Bonnard",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3000,
   "image_width": 3807,
+  "inscription": "Signature; Sticker",
   "life_date": "French, 1867-1947",
-  "marks": "Signature; Sticker Signed in pencil. LR: [PB.]",
+  "markings": "[Phillips/4/Sale no./249], sticker, verso",
   "medium": "Graphite",
   "nationality": "French",
   "provenance": "Ruth and Bruce Dayton, Wayzata, Minn.; given to MIA, 1991.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil. LR: [PB.]",
   "style": "20th century",
   "text": "",
   "title": "The Seine at Vernon"

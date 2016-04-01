@@ -1,6 +1,7 @@
 {
   "accession_number": "92.85.13",
-  "artist": "Henri Matisse",
+  "artist": "Artist: Henri Matisse",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 6210,
   "image_width": 4539,
-  "life_date": "French, 1869 - 1954",
-  "marks": "Signature; Date; Inscription LR in black ink: [H. Matisse 49]",
+  "inscription": "Signature; Date; Inscription",
+  "life_date": "French, 1869–1954",
+  "markings": "[19 / page 39 / 31], in graphite, verso",
   "medium": "Pen and black ink on coated white wove paper",
   "nationality": "French",
   "provenance": "Ruth and Bruce Dayton, Wayzata (until 1992; given to the MIA).",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in black ink: [H. Matisse 49]",
   "style": "20th century",
   "text": "This example is one of a group of forty variations on leaves that Matisse drew in his own garden and that of his publisher friend, Tériade.  Matisse frequently produced such series of variants drawn in pen and ink, as a way to seize the essential character of a motif. \r\n \r\nBecause of its directness, Matisse came to recognize that line drawing expressed his emotions most purely. Matisse adapts his composition to the size and proportions of the supporting sheet, to realize a design of absolute clarity and elegance. The palpable effect of the white spaces interacting with the subject confirms Matisse’s claim that his line drawings were “generators of light”.",
   "title": "Leaves"

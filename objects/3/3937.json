@@ -1,6 +1,7 @@
 {
   "accession_number": "90.133.1",
-  "artist": "Ansel Adams",
+  "artist": "Photographer: Ansel Adams",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2013 The Ansel Adams Publishing Rights Trust",
   "image_height": 4802,
   "image_width": 3569,
+  "inscription": "Signature",
   "life_date": "American, 1902 - 1984",
-  "marks": "Signature ",
+  "markings": "Lr",
   "medium": "Gelatin silver print (printed 1974)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Graduation Dress, Yosemite Valley, California"

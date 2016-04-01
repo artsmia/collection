@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,919",
-  "artist": "John James Audubon; Col. J. T. Bowen; Col. J. T. Bowen; Col. J. T. Bowen",
+  "artist": "Artist: John James Audubon; Lithographer: Col. J. T. Bowen; Colorist: Col. J. T. Bowen; Printer: Col. J. T. Bowen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3154,
   "image_width": 4341,
+  "inscription": "",
   "life_date": "American (born Saint-Domingue, now Haiti) 1785-1851",
-  "marks": " \\\"J. J. Audubon, F. S. R. F. L. S., pinx\\\"\r\n\\\"Col. J.",
+  "markings": "",
   "medium": "Hand colored lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"J. J. Audubon, F. S. R. F. L. S., pinx\\\"\r\n\\\"Col. J. T. Bowen, Lith. Imp. & h.c., 1843\\\"",
   "style": "19th century",
   "text": "",
   "title": "Four-striped Ground Squirrel"

@@ -1,6 +1,7 @@
 {
   "accession_number": "14.84",
-  "artist": "Katsukawa Shunsen",
+  "artist": "Artist: Katsukawa Shunsen",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of John Scott Bradstreet",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2636,
   "image_width": 933,
+  "inscription": "",
   "life_date": "Japanese, 1762 - c.1830",
-  "marks": " {Katsukawa Shunsen ga}",
+  "markings": "artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Katsukawa Shunsen ga}",
   "style": "19th century",
   "text": "",
   "title": "Woman Holding a Doll"

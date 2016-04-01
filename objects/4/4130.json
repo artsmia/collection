@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.14",
-  "artist": "Ian Berry",
+  "artist": "Photographer: Ian Berry",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Ian Berry%2FMagnum Photos",
   "image_height": 1920,
   "image_width": 2390,
+  "inscription": "title, stamp",
   "life_date": "British, born 1934",
-  "marks": "title, stamp titled verso",
+  "markings": "Photographer\\'s stamp verso",
   "medium": "Gelatin silver print",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "titled verso",
   "style": "20th century",
   "text": "",
   "title": "Johannesberg Riot"

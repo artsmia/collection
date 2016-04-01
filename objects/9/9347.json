@@ -1,6 +1,7 @@
 {
   "accession_number": "57.32",
-  "artist": "Edouard Vuillard",
+  "artist": "Artist: Edouard Vuillard",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. Sam Salz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4459,
   "image_width": 3075,
+  "inscription": "Signature",
   "life_date": "French, 1868 - 1940",
-  "marks": "Signature [EVuillard], in charcoal, lower left corner",
+  "markings": "",
   "medium": "Charcoal",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[EVuillard], in charcoal, lower left corner",
   "style": "19th-20th century",
   "text": "",
   "title": "Male Academy"

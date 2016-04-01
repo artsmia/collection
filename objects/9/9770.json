@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.5",
-  "artist": "Lyonel Feininger",
+  "artist": "Artist: Lyonel Feininger",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 3108,
   "image_width": 4789,
-  "life_date": "American (active Germany), 1871 - 1956",
-  "marks": "Recto, bottom right corner: 3i, S. 1944 Recto, bottom left corner: Feninger  | Harbor",
+  "inscription": "Recto, bottom right corner: 3i, S. 1944",
+  "life_date": "American (active Germany), 1871–1956",
+  "markings": "Watermark: <MBM> | (Three MIA identification tags, top and bottom, left side, verso)",
   "medium": "Watercolor and black chalk",
   "nationality": "American (active Germany)",
   "provenance": "John and Myrtle Coe, Bloomington, Minn., until 1998; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Recto, bottom left corner: Feninger  | Harbor",
   "style": "20th century",
   "text": "",
   "title": "Harbor"

@@ -1,6 +1,7 @@
 {
   "accession_number": "14.35",
-  "artist": "William Strang",
+  "artist": "Artist: William Strang",
+  "classification": "Drawings",
   "continent": null,
   "country": null,
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4579,
   "image_width": 2948,
+  "inscription": "Signature; Date; Mark",
   "life_date": "Scottish, 1859 - 1921",
-  "marks": "Signature; Date; Mark [W.Strang 1904], LL corner",
+  "markings": "[M B M], on watermark",
   "medium": "Chalk and wash",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W.Strang 1904], LL corner",
   "style": "20th century",
   "text": "",
   "title": "Portrait of a Boy, the Artist's Son"

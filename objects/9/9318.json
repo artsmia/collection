@@ -1,6 +1,7 @@
 {
   "accession_number": "24.43",
-  "artist": "Jules Ferdinand Jacquemart",
+  "artist": "Artist: Jules Ferdinand Jacquemart",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Horace Ropes in memory of her father, John DeLaittre",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4392,
   "image_width": 3137,
+  "inscription": "Signature; Date",
   "life_date": "French, 1837 - 1880",
-  "marks": "Signature; Date ",
+  "markings": "[Jacquemart Menton 78], in watercolor, lower right",
   "medium": "Watercolor on white paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Young Woman with Knitting"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.63",
-  "artist": "Suzuki Harunobu",
+  "artist": "Artist: Suzuki Harunobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1414,
+  "inscription": "",
   "life_date": "Japanese, 1725 - 1770",
-  "marks": " ",
+  "markings": "Undeciphered seal in the lower right corner",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with embossing",
   "nationality": "Japanese",
   "provenance": "Koechlin (until ca. 1931); Ledoux (at least 1931-45)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Visual Parody of Fujiwara no Teika's Poem \"Crossing the Sano\""

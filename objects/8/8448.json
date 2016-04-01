@@ -1,6 +1,7 @@
 {
   "accession_number": "93.24.1",
-  "artist": "Cesare Giulio",
+  "artist": "Photographer: Cesare Giulio",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Tess E. Armstrong Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1920,
   "image_width": 1472,
+  "inscription": "",
   "life_date": "Italian",
-  "marks": " ",
+  "markings": "",
   "medium": "gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Rain of Shadows"

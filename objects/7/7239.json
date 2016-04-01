@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,648",
-  "artist": "José Clemente Orozco",
+  "artist": "Artist: José Clemente Orozco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Mrs. Charles C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "image_height": 3816,
   "image_width": 5317,
+  "inscription": "Signature",
   "life_date": "Mexican, 1883 - 1949",
-  "marks": "Signature Signed in pencil, LR: [Josè Clemente Orozco]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Mexican",
   "provenance": "Kate Koon Bovey, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Josè Clemente Orozco]",
   "style": "20th century",
   "text": "",
   "title": "Casa arruinada"

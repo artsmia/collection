@@ -1,6 +1,7 @@
 {
   "accession_number": "99.102.2",
-  "artist": "Robert Mallet-Stevens; La Maison Desny",
+  "artist": "Designer: Robert Mallet-Stevens; Manufacturer: La Maison Desny",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Decorative Arts Council and The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 2350,
+  "inscription": "Stamp",
   "life_date": "French, 1886 - 1945",
-  "marks": "Stamp ",
+  "markings": "stamped, on bottom: [DESNY PARIS MADE IN FRANCE/METAL ARGENTE DEPOSE/(Desny touchmark)]",
   "medium": "Silverplated brass with rosewood",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Teapot, from a coffee and tea set"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.122.2",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 1879,
   "image_width": 2768,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date in graphite along bottom edge, verso: [David Parke",
+  "markings": "",
   "medium": "Gelatin silver print (printed March 25, 2000)",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite along bottom edge, verso: [David Parker March 25, 2000]",
   "style": "20th century",
   "text": "",
   "title": "Museum of Anthropology, Mexico City"

@@ -1,6 +1,7 @@
 {
   "accession_number": "47.24",
-  "artist": "Ralph Albert Blakelock",
+  "artist": "Artist: Ralph Albert Blakelock",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Lyndon King",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2504,
   "image_width": 3789,
+  "inscription": "Signature",
   "life_date": "American, 1847 - 1919",
-  "marks": "Signature LL (in arrowhead): [R. A. Blakelock]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL (in arrowhead): [R. A. Blakelock]",
   "style": "19th century",
   "text": "",
   "title": "The Vista"

@@ -1,6 +1,7 @@
 {
   "accession_number": "85.65",
-  "artist": "Gustave Leheutre",
+  "artist": "Artist: Gustave Leheutre",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. John Washburn",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 2401,
+  "inscription": "",
   "life_date": "French, 1861 - 1932",
-  "marks": " ",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Montmartre, Rue Orchompt"

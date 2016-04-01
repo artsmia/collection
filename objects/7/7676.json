@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.8",
-  "artist": "Pietro Testa",
+  "artist": "Artist: Pietro Testa",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian (Lucchese), 1612 - 1650",
-  "marks": "Signature In plate at LR: [P. Testa fecit]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "Associated American Artists, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate at LR: [P. Testa fecit]",
   "style": "17th century",
   "text": "",
   "title": "Achilles Plunged into Water from the Styx"

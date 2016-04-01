@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.8",
-  "artist": "Follower of Donato Creti",
+  "artist": "Artist: Follower of Donato Creti",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4542,
   "image_width": 3204,
+  "inscription": "Mark, Inscription\r\n\r\nVerso, account sheet, with date \\\"di 13 Agosto 1754\\\" -- also carries the name \\\"Filippo delli Bentivogli\\\"",
   "life_date": "Italian, 1671 - 1749",
-  "marks": "Mark, Inscription\r\n\r\nVerso, account sheet, with da ",
+  "markings": "Watermark: an anchor (?) in a small circle surmounted by a six-pointed star (partial), close to Heawood  5 or 6 (Rome, 17th century); similar to watermark identified by the Biblioteca Comunale dell\\'Archiginassio as Bolognese, 1709 (http://badigit.comune.bologna.it/filigrane/schede/164.htm)",
   "medium": "Pen and brown ink on laid white paper",
   "nationality": null,
   "provenance": "Coll. Corner; Janos Scholz ('); [Charles E. Slatkin Galleries, New York]; David Daniels, New York, until 1965; gave to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Holy Family"

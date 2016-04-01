@@ -1,6 +1,7 @@
 {
   "accession_number": "74.94",
-  "artist": "Andrea Biondetti",
+  "artist": "Artist: Andrea Biondetti",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mrs. Arthur M. Hartwell",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1920,
   "image_width": 1171,
+  "inscription": "",
   "life_date": "Italian, 1851-1946",
-  "marks": " ",
+  "markings": "",
   "medium": "Watercolor on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Canal Scene"

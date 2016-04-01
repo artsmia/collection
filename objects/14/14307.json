@@ -1,6 +1,7 @@
 {
   "accession_number": "25.444",
-  "artist": "Arnold Ronnebeck",
+  "artist": "Artist: Arnold Ronnebeck",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5178,
   "image_width": 2842,
+  "inscription": "Stamp; Inscription\r\n\r\non verso in graphite: [Property of Arnold Ronneback 61 Washington Square]",
   "life_date": "American, 1885 - 1947",
-  "marks": "Stamp; Inscription\r\n\r\non verso in graphite: [Prope ",
+  "markings": "Rectangular stamp on verso: <VANITY FAIR//No. 811B.(Underlined)//Used in Issue of > \r\n",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "The artist, New York; (Weyhe Gallery, New York); sold to MIA, 1925.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G280",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Wall Street, New York"

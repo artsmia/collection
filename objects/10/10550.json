@@ -1,6 +1,7 @@
 {
   "accession_number": "64.37.4",
-  "artist": "Bernt Clüver",
+  "artist": "Artist: Bernt Clüver",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "Gift of Mrs. Walter H. Ude",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "Norwegian, born 1897",
-  "marks": "Signature and Date LR: [Cluver 1932]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Norwegian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Cluver 1932]",
   "style": "20th century",
   "text": "",
   "title": "Grey Mountains in Lofoten Islands"

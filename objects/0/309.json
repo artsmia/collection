@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.33",
-  "artist": "A. Moriot; Sèvres Porcelain Factory",
+  "artist": "Painter: A. Moriot; Manufacturer: Sèvres Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "France; Paris",
-  "marks": "Signature; Mark ",
+  "markings": "\\'Moriot\\'; marks: red - \\'M. Imp. le\\' and \\'de Sèvres 8\\'; blue - \\'A.M.\\'",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Plate"

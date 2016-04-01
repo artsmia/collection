@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.184",
-  "artist": "Utagawa Toyokuni",
+  "artist": "Artist: Utagawa Toyokuni",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "Censor:kiwame\r\nunknown publisher seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "19th century",
   "text": "",
   "title": "Onoe Matsusuke in a Ghost Scene"

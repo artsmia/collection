@@ -1,6 +1,7 @@
 {
   "accession_number": "70.19.3",
-  "artist": "attributed to Barnard Hendrik Thier",
+  "artist": "Artist: attributed to Barnard Hendrik Thier",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Dr. Alfred Bader",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2808,
   "image_width": 4355,
+  "inscription": "Mark",
   "life_date": "Dutch, 1751 - 1814",
-  "marks": "Mark ",
+  "markings": "Watermark <J. Hoonig & Zoonen>",
   "medium": "Graphite on laid white paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Cattle in a Landscape"

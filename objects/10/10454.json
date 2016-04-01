@@ -1,6 +1,7 @@
 {
   "accession_number": "69.50",
-  "artist": "Moise Bianchi",
+  "artist": "Artist: Moise Bianchi",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Italian (Milan), 1840 - 1904",
-  "marks": " LL: [M. Bianchi]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [M. Bianchi]",
   "style": "19th-20th century",
   "text": "",
   "title": "The Blessing"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.5",
-  "artist": "David Rathman",
+  "artist": "Artist: David Rathman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3829,
   "image_width": 3061,
+  "inscription": "Signed, Dated, Numbered, Inscribed",
   "life_date": "American, born 1958",
-  "marks": "Signed, Dated, Numbered, Inscribed LR: [Dave Rathman \\'84-\\'86]\r\nLL: [A.P. 1/9]\r\nLL: [S",
+  "markings": "",
   "medium": "Etching, aquatint, and soft-ground etching printed from three plates",
   "nationality": "American",
   "provenance": "Vermillion Edition Limited, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Dave Rathman \\'84-\\'86]\r\nLL: [A.P. 1/9]\r\nLL: [SERENADE]",
   "style": "20th century",
   "text": "",
   "title": "Serenade"

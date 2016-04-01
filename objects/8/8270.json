@@ -1,6 +1,7 @@
 {
   "accession_number": "68.83",
-  "artist": "Attributed to Theodor Matham",
+  "artist": "Artist: Attributed to Theodor Matham",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5867,
   "image_width": 5278,
+  "inscription": "Signature and Mark\r\n\r\n",
   "life_date": "Dutch, 1606 - 1676",
-  "marks": "Signature and Mark\r\n\r\n In red chalk, mostly illegible [? fe / 1605]",
+  "markings": "Watermark:  Eagle, crowned, beak and crozier to left, with Basle crozier on its chest, with initials NH [Nicolaas Heusler) below (Briquet 1364)",
   "medium": "Red chalk with touches of black chalk; incised, the verso prepared with red chalk for transfer",
   "nationality": "Dutch",
   "provenance": "[Colnaghi, London, unitl 1968; sold for £80 to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In red chalk, mostly illegible [? fe / 1605]",
   "style": "17th century",
   "text": "",
   "title": "Saint John the Baptist"

@@ -1,6 +1,7 @@
 {
   "accession_number": "62.30",
-  "artist": "Hugh Bolton Jones",
+  "artist": "Artist: Hugh Bolton Jones",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Frank M. Mapes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5307,
   "image_width": 8380,
+  "inscription": "Signature",
   "life_date": "American, 1848 - 1927",
-  "marks": "Signature LR: [H. Bolton Jones]",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G323",
+  "signed": "LR: [H. Bolton Jones]",
   "style": "19th century",
   "text": "Recent conservation of this picture was made possible by a generous contribution from Douglas and Mary Olson through the Adopt-a-Painting program.",
   "title": "Winter Landscape"

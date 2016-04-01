@@ -1,6 +1,7 @@
 {
   "accession_number": "87.47",
-  "artist": "Eugène Burnand",
+  "artist": "Artist: Eugène Burnand",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Hadlai A. Hull Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Date\r\nsee Signed\r\ninscribed in black ink LR: [Copy right by Berger Levrault 1908]",
   "life_date": "Swiss, 1850 - 1921",
-  "marks": "Signature; Inscription; Date\r\nsee Signed\r\ninscribe LR on pick in black chalk: [Eug. Burand]",
+  "markings": "\r\n",
   "medium": "Charcoal, black chalk, paster, grey and white washes, gouache",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR on pick in black chalk: [Eug. Burand]",
   "style": "20th century",
   "text": "",
   "title": "Buried Treasure"

@@ -1,6 +1,7 @@
 {
   "accession_number": "61.14",
-  "artist": "George Romney",
+  "artist": "Artist: George Romney",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Margaret Washburn Hunt",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4090,
   "image_width": 3094,
+  "inscription": "",
   "life_date": "British, 1734 - 1802",
-  "marks": " Unsigned.",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Unsigned.",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Colin MacKenzie"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.232.12",
-  "artist": "editor Paschal Donaldson; Nafs &amp; Cornish; B. Hecht; Barclay; Redfield &amp; Savage",
+  "artist": "Editor: editor Paschal Donaldson; Publisher: Nafs &amp; Cornish; Lithographer: B. Hecht; Engraver: Barclay; Stereotyper: Redfield &amp; Savage",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Christopher Monkhouse in honor of Dolly Fiterman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2933,
   "image_width": 1863,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "book",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G331",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Odd-Fellows Minstrel"

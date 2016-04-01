@@ -1,6 +1,7 @@
 {
   "accession_number": "70.56",
-  "artist": "Alfred Gomersal Vickers",
+  "artist": "Artist: Alfred Gomersal Vickers",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Francisca S. Winston Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2753,
   "image_width": 4714,
+  "inscription": "",
   "life_date": "British, 1810 - 1837",
-  "marks": " LR corner: A.G. Vickers",
+  "markings": "",
   "medium": "Watercolor on white wove paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR corner: A.G. Vickers",
   "style": "19th century",
   "text": "",
   "title": "View of Windsor from the River"

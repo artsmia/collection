@@ -1,6 +1,7 @@
 {
   "accession_number": "78.75.2",
-  "artist": "Richard Redgrave",
+  "artist": "Artist: Richard Redgrave",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Atherton Bean",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4986,
   "image_width": 6815,
+  "inscription": "",
   "life_date": "British, 1804 - 1888",
-  "marks": " Verso: Rich d Redgrave R. A. - The Heron Disturbed",
+  "markings": "Verso, paper label: Charles Roberson & Compy / \r\nManufacturers of / Water and Oil Colours, / Materials for Drawing, Painting, &c. / \r\n51, Long Acre, London.",
   "medium": "Oil on millboard",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Verso: Rich d Redgrave R. A. - The Heron Disturbed",
   "style": "19th century",
   "text": "",
   "title": "The Heron Disturbed"

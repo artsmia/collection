@@ -1,6 +1,7 @@
 {
   "accession_number": "61.36.7",
-  "artist": "Marc Chagall",
+  "artist": "Artist: Marc Chagall",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "Bequest of Putnam Dana McMillan",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3687,
   "image_width": 5071,
-  "life_date": "Belorussian, 1887 - 1985",
-  "marks": "Signature and Date LR in blue: [Chagall. 1911.]",
+  "inscription": "Signature and Date",
+  "life_date": "Belorussian, 1887–1985",
+  "markings": "Labels on stretcher verso: [Exhibition \\'Modern German Art\\\" New Burlington Gallery, London, W.I. / 9008/6 / Paysage l\\'homme...(illegible)]\r\n[Bequest of P. D. McMillan]\r\nMIA loan label: [...4/67 Wallraf-Richartz, Koln, Germany]\r\nMIA loan label: [4/4/67 Zurich]\r\nMIA loan label: [L...3.1590 Lent by P. D. McMillan]\r\nInscription on stretcher: [MIA 132-54]\r\nLabels on frame: [Michaux & Guerin, Transports de Tableaux & Statues, 2 Rue de Rocroy - Paris (10e) / (in pencil) P H 3857]",
   "medium": "Oil on canvas",
   "nationality": "Belorussian",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G377",
+  "signed": "LR in blue: [Chagall. 1911.]",
   "style": "20th century",
-  "text": "In his memoir, My Life,  Chagall recounted that the inspiration for The Poet and the Birds originated from his desire to create a painting in the style of Camille Corot (1796-1875), one of the most influential painters of the Barbizon school. \"A landscape à la Corot, why not' I took a photograph, but the more I tried to paint like Corot, the farther I got from it and I ended à la Chagall.\"",
+  "text": "Marc Chagall, a Russian native, traveled to Paris in 1910 for an extended stay. The Poet with the Birds dates from his second year there. A man in traditional Russian clothing seems to float as he lazily daydreams, staring up at the white birds in the tree. With the new freedom Chagall found in France, his work became increasingly dreamlike, anticipating Surrealist art of the 1920s and 1930s. A movement in both literature and visual art, Surrealism aimed to tap into the subconscious mind, often through dreamlike imagery.",
   "title": "The Poet with the Birds"
 }

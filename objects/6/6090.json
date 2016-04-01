@@ -1,6 +1,7 @@
 {
   "accession_number": "B.86.3e",
-  "artist": "Henri Matisse; Henri de Montherlant",
+  "artist": "Artist: Henri Matisse; Author: Henri de Montherlant",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1869 - 1954",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1869–1954",
+  "markings": "",
   "medium": "Linocut",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Page from Pasiphaé. Chant de Minos (Pasiphaë. Song of  Minos)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.35",
-  "artist": "Odilon Redon",
+  "artist": "Artist: Odilon Redon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4448,
   "image_width": 2989,
+  "inscription": "",
   "life_date": "French, 1840 - 1916",
-  "marks": " Lower left: Odilon Redon",
+  "markings": "",
   "medium": "Graphite and crayon",
   "nationality": "French",
   "provenance": "(Galerie E. Druet, France)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Lower left: Odilon Redon",
   "style": "19th-20th century",
   "text": "",
   "title": "Figure Study"

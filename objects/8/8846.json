@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.1",
-  "artist": "Helen Frankenthaler; Helen Frankenthaler; Reizo Monjyu; Printed by Tadashi Toda; Printed by Shi-un-do Print Shop, Kyoto, Japan; Crown Point Press, San Francisco",
+  "artist": "Artist: Helen Frankenthaler; Woodcutter: Helen Frankenthaler; Woodcutter: Reizo Monjyu; Printer: Printed by Tadashi Toda; Workshop: Printed by Shi-un-do Print Shop, Kyoto, Japan; Publisher: Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the First National Bank of St. Paul",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
   "image_height": 3636,
   "image_width": 4386,
+  "inscription": "Signature; Date; Edition; Artist\\'s stamp; Chop mark\r\n\r\nsee Signed",
   "life_date": "American, 1928-2011",
-  "marks": "Signature; Date; Edition; Artist\\'s stamp; Chop mar Signed in pencil, LR: [Frankenthaler]",
+  "markings": "Stamped with the artist\\'s name in Japanese characters, LL; Publisher\\'s blindstamp, LR",
   "medium": "Color woodcut on dyed Japan paper\r\n",
   "nationality": "American",
   "provenance": "Crown Point Press, San Francisco; (John C. Stoller & Company, Minneapolis, 1983); acquired by First National Bank, St. Paul, and given to MIA, 1984.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Frankenthaler]",
   "style": "20th century",
   "text": "",
   "title": "Cedar Hill"

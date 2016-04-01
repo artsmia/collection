@@ -1,6 +1,7 @@
 {
   "accession_number": "15.313.1",
-  "artist": "Attributed to Katsushika Hokusai",
+  "artist": "Artist: Attributed to Katsushika Hokusai",
+  "classification": "Drawings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2634,
   "image_width": 1754,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "Many Japanese painters of other schools were inspired by the playful images of O_tsu-e artists. Hokusai based this sketch on the O_tsu-e theme of the god of thunder frantically fishing for his thunder-making drum which he has accidentally dropped into the sea. ",
   "title": "God of Thunder and His Drum"

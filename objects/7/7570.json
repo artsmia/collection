@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.57",
-  "artist": "Vassily Kandinsky",
+  "artist": "Artist: Vassily Kandinsky",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3752,
   "image_width": 3172,
-  "life_date": "Russian, 1866-1944",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Russian, 1866–1944",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Russian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Kleine Welten IV"

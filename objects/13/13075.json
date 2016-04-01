@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.237.13",
-  "artist": "Terry Winters; Published by Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Terry Winters; Publisher: Published by Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Diane and Richard Cohen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3056,
   "image_width": 2032,
+  "inscription": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [41/50]",
   "life_date": "American, born 1949",
-  "marks": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in graphite, LC: [Terry Winters 1983/1989]",
+  "markings": "",
   "medium": "Etching, open bite etching and aquatint",
   "nationality": "American",
   "provenance": "Diane and Richard Cohen, Edina, Minn.; given to MIA, 2000.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LC: [Terry Winters 1983/1989]",
   "style": "20th century",
   "text": "",
   "title": "Novalis"

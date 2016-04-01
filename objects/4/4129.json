@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.11",
-  "artist": "Roloff Beny",
+  "artist": "Photographer: Roloff Beny",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "Canada",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Roloff Beny",
   "image_height": 1920,
   "image_width": 1640,
+  "inscription": "Title and mark",
   "life_date": "Canadian, 1924 - 1984",
-  "marks": "Title and mark titled verso",
+  "markings": "photographer\\'s stamp verso",
   "medium": "Gelatin silver print",
   "nationality": "Canadian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "titled verso",
   "style": "20th century",
   "text": "",
   "title": "Contessa Christina Brandolini in Palazzo Brandolini, Venice"

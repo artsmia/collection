@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.2",
-  "artist": "Nicholas Africano",
+  "artist": "Artist: Nicholas Africano",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 2930,
   "image_width": 4040,
+  "inscription": "Signed, dated, titled\r\n\r\n",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, titled\r\n\r\n LR: [NA 1986]; In Graphite, LL: [marriage]; UL: [P",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [NA 1986]; In Graphite, LL: [marriage]; UL: [Protege]; LC: [Lost Girl]; UR: [Flesh, Armor, Laughing Man]",
   "style": "20th century",
   "text": "",
   "title": "Sketches (Characters)"

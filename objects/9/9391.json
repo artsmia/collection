@@ -1,6 +1,7 @@
 {
   "accession_number": "43.22",
-  "artist": "Edwin Bennet; William Bennet",
+  "artist": "Artist: Edwin Bennet; Artist: William Bennet",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Miss Belle Jaffray",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4985,
   "image_width": 3898,
+  "inscription": "Mark",
   "life_date": "American",
-  "marks": "Mark ",
+  "markings": "in black capitals impressed: [E. & W. Bennet, Canton Avenue, Baltimore, Md.]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Pitcher"

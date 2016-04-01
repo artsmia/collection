@@ -1,6 +1,7 @@
 {
   "accession_number": "82.109.14.1",
-  "artist": "Sèvres Porcelain Factory",
+  "artist": "Manufacturer: Sèvres Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Michele Beiny in memory of her grandfather Hanns Weinberg",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Paris, 1756-present",
-  "marks": "Mark, Date ",
+  "inscription": "Mark, Date",
+  "life_date": "Paris, 1756–present",
+  "markings": "marks: interlaced L\\'S; date letter: (Jj) 1787 painter\\'s mark: B (unrecorded)",
   "medium": "Soft-paste procelain with enamel and gilded decoration",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tea Cup"

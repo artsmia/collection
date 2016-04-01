@@ -1,6 +1,7 @@
 {
   "accession_number": "80.65.3",
-  "artist": "Gino Severini",
+  "artist": "Artist: Gino Severini",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mr. and Mrs. Richard Wilcox in memory of Alice M. O'Brien",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 4534,
   "image_width": 2731,
+  "inscription": "Signature; Inscription; Label",
   "life_date": "Italian, 1883 - 1966",
-  "marks": "Signature; Inscription; Label LR: [G. Severini]",
+  "markings": "in graphite, URC area: [7902]; label, upper-center edge: [Gallerie L\\'Effort Moderne/Léonce Rosenberg/Editeur D\\'art/ 19, Rue de Baume. - Paris 8 (E)/ No. 7902/Auteur: Severini/ Date: Dec. 1922/Photo No. ......]",
   "medium": "Graphite on wove paper",
   "nationality": "Italian",
   "provenance": "Léonce Rosenberg (Galerie l'Effort Moderne); Miss Alice O'Brien, Marine-on-St. Croix (until d. 1962); her niece, Mrs. Richard (Julian O'Brien) Wilcox, Marine-on-St. Croix (until 1980; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [G. Severini]",
   "style": "20th century",
   "text": "",
   "title": "Shepherd with Girl in Landscape"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.155",
-  "artist": "Rufino Tamayo",
+  "artist": "Artist: Rufino Tamayo",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Maxine and Kalman S. Goldenberg",
@@ -14,8 +15,9 @@
   "image_copyright": "Art © Tamayo Heirs%2FMexico%2FLicensed by VAGA%2C New York%2C NY",
   "image_height": 4893,
   "image_width": 3915,
+  "inscription": "Signature and Date",
   "life_date": "Mexican, 1899 - 1991",
-  "marks": "Signature and Date LLC, in red: [Tamayo / -46]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Mexican",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in red: [Tamayo / -46]",
   "style": "20th century",
   "text": "",
   "title": "The Scoffer"

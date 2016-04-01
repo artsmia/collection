@@ -1,6 +1,7 @@
 {
   "accession_number": "25.54",
-  "artist": "György Mayer-Martin",
+  "artist": "Artist: György Mayer-Martin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3344,
   "image_width": 5521,
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Hungarian, born 1895",
-  "marks": "Signature\r\nsee Signed UR corner: [Mayer]",
+  "markings": "",
   "medium": "Ink and wash on paper",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR corner: [Mayer]",
   "style": "20th century",
   "text": "",
   "title": "The War"

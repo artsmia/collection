@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.259.3",
-  "artist": "Carlos Mérida",
+  "artist": "Artist: Carlos Mérida",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Terrence D. Curley in memory of Olga M. Waisanen",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Carlos M%C3%A9rida %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 4192,
   "image_width": 3141,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Guatemalan, 1891 - 1985",
-  "marks": "Signature\r\n\r\nsee Signed in graphite, LR: [CARLOS MÉRIDA]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Guatemalan",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [CARLOS MÉRIDA]",
   "style": "20th century",
   "text": "",
   "title": "Dance of the Pascola and the Deer"

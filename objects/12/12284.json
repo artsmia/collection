@@ -1,6 +1,7 @@
 {
   "accession_number": "09.74a,b",
-  "artist": "Wedgwood",
+  "artist": "Maker: Wedgwood",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of John R. Van Derlip, E. C. Gale and others",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "MARK",
   "life_date": "Staffordshire, England, est. 1759",
-  "marks": "MARK ",
+  "markings": "Wedgewood, stamped in bottom",
   "medium": "Pottery",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Teapot"

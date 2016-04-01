@@ -1,6 +1,7 @@
 {
   "accession_number": "99.64.1a-h",
-  "artist": "John Willenbecher",
+  "artist": "Sculptor: John Willenbecher",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Willenbecher",
   "image_height": 2559,
   "image_width": 2907,
+  "inscription": "LR corner on pavilion, in black: SCALE 3/4\\' = 2\\'/JANUARY 1991/JW (in white inside a dark circle) |  LL corner on pavilion, in black: PAVILION for LABYRINTH TERRACE / MINNEAPOLIS INSTITUTE OF THE ARTS",
   "life_date": "American, born 1936",
-  "marks": "LR corner on pavilion, in black: SCALE 3/4\\' = 2\\'/J ",
+  "markings": "",
   "medium": "Wood, pigment, foamcore board",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Model of Pavilion for Labyrinth Terrace"

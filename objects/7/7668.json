@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.30",
-  "artist": "Milton Avery",
+  "artist": "Artist: Milton Avery",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Milton Avery Trust %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1885 - 1965",
-  "marks": "Inscription:  # & s. & d.; Signature; Date; Number Signed on sheet and plate",
+  "inscription": "Inscription:  # & s. & d.; Signature; Date; Number;",
+  "life_date": "American, 1885–1965",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "(Dolly Fiterman Gallery, Minneapolis, until 1985); sold to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on sheet and plate",
   "style": "20th century",
   "text": "",
   "title": "Sally with Beret"

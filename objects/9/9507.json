@@ -1,6 +1,7 @@
 {
   "accession_number": "25.41",
-  "artist": "Josef Hegenbarth",
+  "artist": "Artist: Josef Hegenbarth",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4080,
   "image_width": 3559,
+  "inscription": "",
   "life_date": "German, 1884 - 1962",
-  "marks": " Recto, LRC: Josef Hegenbarth",
+  "markings": "",
   "medium": "Pen on tan paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Recto, LRC: Josef Hegenbarth",
   "style": "20th century",
   "text": "",
   "title": "Head of an Old Woman"

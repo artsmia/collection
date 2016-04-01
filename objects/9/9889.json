@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,918",
-  "artist": "John James Audubon; Col. J. T. Bowen; Col. J. T. Bowen",
+  "artist": "Artist: John James Audubon; Lithographer: Col. J. T. Bowen; Colorist: Col. J. T. Bowen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Dwight and Helen Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3107,
   "image_width": 4071,
+  "inscription": "Signature (printed); Inscriptions (printed)",
   "life_date": "American (born Saint-Domingue, now Haiti) 1785-1851",
-  "marks": "Signature (printed); Inscriptions (printed) Signature, printed : [J. J. Audubon pinx.]",
+  "markings": "",
   "medium": "Hand-colored lithograph",
   "nationality": "American",
   "provenance": "Dwight and Helen Minnich, Minneapolis; acquired by MIA, 1966",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature, printed : [J. J. Audubon pinx.]",
   "style": "19th century",
   "text": "",
   "title": "Grey Fox"

@@ -1,6 +1,7 @@
 {
   "accession_number": "97.22",
-  "artist": "Reginald Sanders",
+  "artist": "Artist: Reginald Sanders",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Paul C. Johnson, Jr. Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3741,
   "image_width": 3643,
+  "inscription": "Inscription; Signature; Date",
   "life_date": "American, 1921-2001",
-  "marks": "Inscription; Signature; Date in graphite, verso: [A SMOOTH ONE, CRAYON AND GRAP",
+  "markings": "",
   "medium": "Colored crayon and graphite",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, verso: [A SMOOTH ONE, CRAYON AND GRAPHITE 1993 REGINALD SANDERS]",
   "style": "20th century",
   "text": "",
   "title": "A Smooth One"

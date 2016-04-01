@@ -1,6 +1,7 @@
 {
   "accession_number": "71.49",
-  "artist": "George Stanfield Walters",
+  "artist": "Artist: George Stanfield Walters",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Collector's Fund Group",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3395,
   "image_width": 4702,
+  "inscription": "Monogram and Date",
   "life_date": "British, 1838 - 1934",
-  "marks": "Monogram and Date LRC in red: [GsW 1862] (\\'Gs\\' intertwined)",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in red: [GsW 1862] (\\'Gs\\' intertwined)",
   "style": "19th century",
   "text": "",
   "title": "Wallow Crag, Cumberland"

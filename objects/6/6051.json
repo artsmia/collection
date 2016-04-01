@@ -1,6 +1,7 @@
 {
   "accession_number": "B.75.3.4",
-  "artist": "Henri Matisse; Charles d’Orléans",
+  "artist": "Artist: Henri Matisse; Author: Charles d’Orléans",
+  "classification": "Books",
   "continent": null,
   "country": null,
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1869 - 1954",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "French, 1869–1954",
+  "markings": "Watermark: <Arches>",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Page from The Poems of Charles of Orléans"

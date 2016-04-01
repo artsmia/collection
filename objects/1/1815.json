@@ -1,6 +1,7 @@
 {
   "accession_number": "70.61.19",
-  "artist": "Francesco Gonin; L. Garni",
+  "artist": "Artist: Francesco Gonin; Artist: L. Garni",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mrs. Margaret Weyerhaeuser Harmon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4554,
   "image_width": 2982,
+  "inscription": "Signature",
   "life_date": "Italian, 1808 - 1889",
-  "marks": "Signature [F Gonin], in LR",
+  "markings": "Red stamp on verso approximately H.3\\\" x W.5\\\":\r\n[ALEANDRE D\\'ARTI & SON   Fine Art Galleries  - Rome -  JO.32 VIA DUE MACELLI] inside a football-shaped circle",
   "medium": "Watercolor on cream wove paper",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[F Gonin], in LR",
   "style": "19th century",
   "text": "",
   "title": "A Rustic Couple"

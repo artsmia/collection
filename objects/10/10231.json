@@ -1,6 +1,7 @@
 {
   "accession_number": "74.47",
-  "artist": "Vincenzo Rustici",
+  "artist": "Artist: Vincenzo Rustici",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mr. and Mrs. John Ordway",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5978,
   "image_width": 4586,
-  "life_date": "Italian (Siena), 1556-1632",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian (Siena), 1568 - 1613",
+  "markings": "No information on verso.",
   "medium": "Oil on canvas",
   "nationality": "Italian (Siena)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Madonna and Child with the Infant Saint John the Baptist and Saint Francis"

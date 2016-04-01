@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.14",
-  "artist": "Vassily Kandinsky; Published by R. Piper and Co. , Munich",
+  "artist": "Artist: Vassily Kandinsky; Publisher: Published by R. Piper and Co. , Munich",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "The Mary and Robyn Campbell Fund for Art Books",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3618,
   "image_width": 2833,
-  "life_date": "Russian, 1866-1944",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Russian, 1866–1944",
+  "markings": "",
   "medium": "Woodcuts, illustrations, letterpress",
   "nationality": "Russian",
   "provenance": "[Sims Reed, London]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "In 1911, Russian-born theorist and pioneer of abstract art Vassily Kandinsky published <i>Concerning the Spiritual in Art</i>, which ranks among the most significant documents in 20th-century art. Kandinsky writes, “All means [in painting] are sacred when they are dictated by inner necessity. All means are reprehensible when they do not spring from the fountain of inner necessity.” In this treatise, he calls for a spiritual revolution in painting that permits artists to abstractly express their own inner lives through form and color, and to value spirituality over naturalistic or materialistic representations.",
   "title": "Uber das Geistige in der Kunst"

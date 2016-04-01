@@ -1,6 +1,7 @@
 {
   "accession_number": "71.17",
-  "artist": "Aert Schouman",
+  "artist": "Artist: Aert Schouman",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4339,
   "image_width": 3250,
+  "inscription": "",
   "life_date": "Dutch, 1710 - 1792",
-  "marks": " ",
+  "markings": "",
   "medium": "Watercolor over black chalk sketch on white laid paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Monument"

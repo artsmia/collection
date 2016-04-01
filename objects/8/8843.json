@@ -1,6 +1,7 @@
 {
   "accession_number": "88.48.3",
-  "artist": "Gerome Kamrowski",
+  "artist": "Artist: Gerome Kamrowski",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Gerome Kamrowski",
   "image_height": 4879,
   "image_width": 3692,
+  "inscription": "Signature; Title; Date; Mark",
   "life_date": "American, 1914-2004",
-  "marks": "Signature; Title; Date; Mark Signed, titled, dated in brown chalk, verso: [Gero",
+  "markings": "Blind stamp: [STRATHMORE ARTISTS]",
   "medium": "Ink and goauche",
   "nationality": "American",
   "provenance": "Colection of the artist; acquired by MIA, 1988",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, titled, dated in brown chalk, verso: [Gerome Kamrowski / House of Cards / 1947]",
   "style": "20th century",
   "text": "",
   "title": "House of Cards"

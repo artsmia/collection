@@ -1,6 +1,7 @@
 {
   "accession_number": "71.47",
-  "artist": "Albert Bierstadt",
+  "artist": "Artist: Albert Bierstadt",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2235,
   "image_width": 3666,
+  "inscription": "",
   "life_date": "American, 1830 - 1902",
-  "marks": " LL: ABierstadt 1858",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: ABierstadt 1858",
   "style": "19th century",
   "text": "",
   "title": "Ruins of Paestum"

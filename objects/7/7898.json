@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.25",
-  "artist": "Michele Zalopany",
+  "artist": "Artist: Michele Zalopany",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nLL: [7/27]",
   "life_date": "American",
-  "marks": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nLL: [7/2 LR: [Michelle Zalopany 1997]",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Michelle Zalopany 1997]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Penn Station)"

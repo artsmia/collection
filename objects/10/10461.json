@@ -1,6 +1,7 @@
 {
   "accession_number": "68.46",
-  "artist": "Sir Henry Singleton",
+  "artist": "Artist: Sir Henry Singleton",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4888,
   "image_width": 6123,
+  "inscription": "",
   "life_date": "British, 1766 - 1839",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G306",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Marriage of the Duke and Duchess of York"

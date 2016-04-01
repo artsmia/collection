@@ -1,6 +1,7 @@
 {
   "accession_number": "91.78.3",
-  "artist": "John Willenbecher",
+  "artist": "Artist: John Willenbecher",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Willenbecher",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Willenbecher",
   "image_height": 3603,
   "image_width": 3930,
+  "inscription": "Signature; Date; Inscription\r\n\r\nLL: [X.90]; LC: [MINNEAPOLIS]",
   "life_date": "American, born 1936",
-  "marks": "Signature; Date; Inscription\r\n\r\nLL: [X.90]; LC: [M in black chalk, LR: [JW]",
+  "markings": "",
   "medium": "Black and white chalks on tracing paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black chalk, LR: [JW]",
   "style": "20th century",
   "text": "",
   "title": "Design for a Plaza at the Minneapolis Institute of Arts"

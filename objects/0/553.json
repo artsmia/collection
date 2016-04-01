@@ -1,6 +1,7 @@
 {
   "accession_number": "37.1",
-  "artist": "Glen Mitchell",
+  "artist": "Artist: Glen Mitchell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edmund M. Kopietz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, 1894 - 1972",
-  "marks": "Signature; Mark LR in watercolor: [Mitchel]",
+  "markings": "Watermark: haloed head on an escutcheon (The Sudary of St. Veronica?) with the date 1399, also initials in script",
   "medium": "Brush drawing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in watercolor: [Mitchel]",
   "style": "20th century",
   "text": "",
   "title": "Workers"

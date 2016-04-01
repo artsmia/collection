@@ -1,6 +1,7 @@
 {
   "accession_number": "83.169.3",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Dr. Robert J. Poor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2730,
   "image_width": 4339,
+  "inscription": "Inscription; Date",
   "life_date": "German, 1863 - 1945",
-  "marks": "Inscription; Date ",
+  "markings": ", in ink, lower right quadrant: [Hockerle oritnalisch/dem Bureau/ gestiftet von Kley/ 4.1.23]; translation: \\'Oriental stool for the desk, donated by Kley\\'",
   "medium": "Pen and ink on tan wove paper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Caricature of Woman at Desk"

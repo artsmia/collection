@@ -1,6 +1,7 @@
 {
   "accession_number": "60.26",
-  "artist": "Edgar Degas",
+  "artist": "Artist: Edgar Degas",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4708,
   "image_width": 2919,
-  "life_date": "French, 1834-1917",
-  "marks": "Stamp, Title, Inscriptions ",
+  "inscription": "Stamp, Title, Inscriptions",
+  "life_date": "French, 1834–1917",
+  "markings": "LL in red, Degas Atelier stamp (L.657); verso in red pencil [ROUART] top of board; verso in blue pencil [DEGAS/\\\"Portrait di Marguerite Degas\\\"]",
   "medium": "Black chalk on brown paper heightened with white",
   "nationality": "French",
   "provenance": "Atélier Degas, Lugt 657, Paris (in 1917). Rouart, Paris. David Daniels, New York (by 1958-1960, gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Portrait of Marguerite Degas"

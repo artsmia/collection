@@ -1,6 +1,7 @@
 {
   "accession_number": "14.34",
-  "artist": "Charles Ricketts",
+  "artist": "Artist: Charles Ricketts",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3416,
   "image_width": 3992,
+  "inscription": "Signature",
   "life_date": "British (born Switzerland), 1866-1931",
-  "marks": "Signature [C. S. R.]",
+  "markings": "",
   "medium": "Red chalk",
   "nationality": "Swiss-English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[C. S. R.]",
   "style": "19th-20th century",
   "text": "",
   "title": "Studies of Male Figure"

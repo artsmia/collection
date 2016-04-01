@@ -1,6 +1,7 @@
 {
   "accession_number": "67.26",
-  "artist": "Domenico Piola",
+  "artist": "Artist: Domenico Piola",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4246,
   "image_width": 2774,
+  "inscription": "Mark",
   "life_date": "Italian (Genoa), 1627 - 1703",
-  "marks": "Mark ",
+  "markings": "Watermark: Genoese coat of arms with two circles below, comp. \\'Heawood\\' 746, 747",
   "medium": "Pen and brown ink and wash on laid paper squared with black chalk",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Hagar and Ishmael in the Desert"

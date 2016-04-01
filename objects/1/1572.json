@@ -1,6 +1,7 @@
 {
   "accession_number": "64.72",
-  "artist": "Count Ludovico Mazzanti",
+  "artist": "Artist: Count Ludovico Mazzanti",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3852,
   "image_width": 3269,
+  "inscription": "",
   "life_date": "Italian (Rome), 1679 - 1775",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Faustina Bordoni"

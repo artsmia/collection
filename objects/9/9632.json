@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,946",
-  "artist": "John Edwards",
+  "artist": "Artist: John Edwards",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5773,
   "image_width": 4319,
+  "inscription": "Inscription\r\n[J. Edwards delin et sculp.]\r\n\r\n",
   "life_date": "English, 1763 - 1806",
-  "marks": "Inscription\r\n[J. Edwards delin et sculp.]\r\n\r\n ",
+  "markings": "",
   "medium": "Hand-colored etching, printed in pale ink",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Flower Print No. 21: Damask Rose, No. 1; Rose de Meux, No. 2"

@@ -1,6 +1,7 @@
 {
   "accession_number": "68.47",
-  "artist": "Sir David Wilkie",
+  "artist": "Painter: Sir David Wilkie",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4517,
   "image_width": 3645,
-  "life_date": "Scottish, 1785-1841",
-  "marks": "Signature; Date [D. Wilkie f. Jan\\'y 7th, 1835], LR",
+  "inscription": "Signature; Date",
+  "life_date": "Scottish, 1785–1841",
+  "markings": "",
   "medium": "Watercolor, graphite, charcoal and chalk, white wove",
   "nationality": "Scottish",
   "provenance": "Lubrano Sale, Naples, March 7-11, 1932\r\nHerbert Bier, London",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[D. Wilkie f. Jan\\'y 7th, 1835], LR",
   "style": "19th century",
   "text": "",
   "title": "The Hamilton Children"

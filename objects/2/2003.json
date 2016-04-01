@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.197",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Authentification iincluded in the box",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Authentification iincluded in the box To_to Katsushika Hokusai Taito hitsu",
+  "markings": "Seal: Kimo_dasoku\r\nSeal: Tamazawado_ seikan (authenticated by Tamazawado_) LLC",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "To_to Katsushika Hokusai Taito hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
-  "title": "Resshi in the Wind"
+  "title": "Liezi in the Wind"
 }

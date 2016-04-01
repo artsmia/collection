@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.62.1",
-  "artist": "Jacques Villon",
+  "artist": "Maker: Jacques Villon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1875 - 1963",
-  "marks": "Signature; edition signed in graphite, LR: [Jacques Villon]",
+  "inscription": "Signature; edition",
+  "life_date": "French, 1875–1963",
+  "markings": "inscribed in graphite, LL: [11/50]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "The donor states that the subject of this etching is his godmother, the artist (bookbinder) and patron Mary Louise Hubachek  Reynolds (Minneapolis 1891 - 1921 Paris, France), who was involved in the Dada and Surrealist movements in Paris in the 1920s and '30s and worked with the French Resistance during World War II. Reynolds was the longtime companion of Villion's brother, Marcel Duchamp.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in graphite, LR: [Jacques Villon]",
   "style": "20th century",
   "text": "",
   "title": "Melancholy"

@@ -1,6 +1,7 @@
 {
   "accession_number": "73.1",
-  "artist": "Attributed to Carlo Maratti",
+  "artist": "Artist: Attributed to Carlo Maratti",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4158,
   "image_width": 3419,
+  "inscription": "Inscription:\r\n\r\n(On verso): [Eq:s Carolus Maratti Anno 1711. AEtatis sue 87:]",
   "life_date": "Italian (Roman), 1625 - 1713",
-  "marks": "Inscription:\r\n\r\n(On verso): [Eq:s Carolus Maratti  ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G330",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Madonna and Child"

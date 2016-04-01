@@ -1,6 +1,7 @@
 {
   "accession_number": "66.66",
-  "artist": "Balthus (Balthasar Klossowski de Rola)",
+  "artist": "Artist: Balthus (Balthasar Klossowski de Rola)",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The John R. Van Derlip Fund and the William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3874,
   "image_width": 4876,
+  "inscription": "Signature and Date",
   "life_date": "French, 1908 - 2001",
-  "marks": "Signature and Date LL in brown: [Balthus 1941.1943]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G376",
+  "signed": "LL in brown: [Balthus 1941.1943]",
   "style": "20th century",
   "text": "Although his first exhibition was in a Surrealist gallery and he had many friends among the Surrealists, Balthus never adopted the methods of Surrealism. He has no interest in visual puns, automatism, abstraction, or other facets of the Surrealist program. What he does share with Surrealism is an interest in eroticism as a central fact of psychic life. His constant theme is the self-absorbed, dawning sexuality of the virginal adolescent.\r\n\n",
   "title": "The Living Room"

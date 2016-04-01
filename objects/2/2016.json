@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.53",
-  "artist": "Okumura Toshinobu; Masuya",
+  "artist": "Artist: Okumura Toshinobu; Publisher: Masuya",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5045,
   "image_width": 2976,
+  "inscription": "",
   "life_date": "Japanese, fl. c.1717-1750",
-  "marks": " Yamato gako_ Okumura Toshinobu hitsu",
+  "markings": "Publisher:Masuya",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yamato gako_ Okumura Toshinobu hitsu",
   "style": "18th century",
   "text": "",
   "title": "Sanjo_ Kantaro_ II as Yaoya Oshichi"

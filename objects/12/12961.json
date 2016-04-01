@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.225.3a,b",
-  "artist": "Fraunfelter China",
+  "artist": "Maker: Fraunfelter China",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Marion Nelson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1756,
   "image_width": 2766,
+  "inscription": "Stamps",
   "life_date": null,
-  "marks": "Stamps ",
+  "markings": "\\'PATENT/APPLIED FOR/909A\\', in green, on bottom and at underside of cover; \\'*FRAUNFELTER*/CHINA [inside a double oval]\\' and \\'OHIO [inside a diamond surrounded by double oval]/ZANESVILLE, OHIO/U.S.A.\\', in green, on bottom",
   "medium": "glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Teapot with Cover"

@@ -1,6 +1,7 @@
 {
   "accession_number": "88.60",
-  "artist": "Jean-Léon Gérôme",
+  "artist": "Artist: Jean-Léon Gérôme",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Edith and Norman Garmezy in Memory of Laura A. Auerbach",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4137,
   "image_width": 3558,
+  "inscription": "Stamp",
   "life_date": "French, 1824 - 1904",
-  "marks": "Stamp ",
+  "markings": "estate stamp: [Succ Aimé Morot]",
   "medium": "Graphite on white paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study for 'In the Harem'"

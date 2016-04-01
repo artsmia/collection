@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.21",
-  "artist": "James Dickson Innes",
+  "artist": "Artist: James Dickson Innes",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3173,
   "image_width": 4442,
+  "inscription": "",
   "life_date": "English, 1887 - 1914",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and wash on paper  (sepia)",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Landscape Drawing"

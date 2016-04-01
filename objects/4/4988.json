@@ -1,6 +1,7 @@
 {
   "accession_number": "96.133.5",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 2615,
   "image_width": 1894,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": "Signature; Date; Title Signed, dated, titled in black ink, LL: [NEW YORK ",
+  "inscription": "Signature; Date; Title",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "",
   "medium": "Pen, brush, and black ink",
   "nationality": "American",
   "provenance": "Lora and Martin G. Weinstein, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated, titled in black ink, LL: [NEW YORK / MORRISON 54]",
   "style": "20th century",
   "text": "",
   "title": "New York"

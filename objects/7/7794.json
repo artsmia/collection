@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.17",
-  "artist": "Jacques Lipchitz",
+  "artist": "Artist: Jacques Lipchitz",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Jacques Lipchitz%2C courtesy Marlborough Gallery%2C New York. All rights reserved.",
   "image_height": 4567,
   "image_width": 3634,
-  "life_date": "American (born Lithuania), 1891-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American (born Lithuania), 1891–1973",
+  "markings": "",
   "medium": "Etching, drypoint, and roulette",
   "nationality": "American",
   "provenance": "(James A. Bergquist, Boston); sold to MIA, 1990.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.18",
-  "artist": "Robert Kushner",
+  "artist": "Artist: Robert Kushner",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from The National Endowment for the Arts and Anne S. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6096,
   "image_width": 4989,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1949",
-  "marks": "Signature; Date bottom of sheet, in in: [Robert Kushner 1973]",
+  "markings": "",
   "medium": "Black ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom of sheet, in in: [Robert Kushner 1973]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

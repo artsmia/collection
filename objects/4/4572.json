@@ -1,6 +1,7 @@
 {
   "accession_number": "93.62",
-  "artist": "Gladys Paquin",
+  "artist": "Artist: Gladys Paquin",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marion and John Andrus in memory of Nucy Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1992 Gladys Paquin",
   "image_height": 3581,
   "image_width": 3907,
+  "inscription": "Signature, Date, Title",
   "life_date": "American, Laguna Pueblo",
-  "marks": "Signature, Date, Title ",
+  "markings": "signed, dated, titled in pigment on base title:\\'Sratyuwe\\'",
   "medium": "Ceramic, pigment",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Jar (Olla)"

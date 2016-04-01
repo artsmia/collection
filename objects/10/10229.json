@@ -1,6 +1,7 @@
 {
   "accession_number": "69.33",
-  "artist": "attributed to Girolamo Imparato",
+  "artist": "Artist: attributed to Girolamo Imparato",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4429,
   "image_width": 3136,
+  "inscription": "",
   "life_date": "Italian (Naples), active 1571 - 1607",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on wood panel",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Holy Family with Angels"

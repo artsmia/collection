@@ -1,6 +1,7 @@
 {
   "accession_number": "67.63.2",
-  "artist": "Unknown French, 18th century",
+  "artist": "Artist: Unknown French, 18th century",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy or France",
   "creditline": "Gift of Mr. and Mrs. D. Thomas Bergen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4393,
   "image_width": 2960,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and brown ink, over a black chalk sketch on white laid paper",
   "nationality": null,
   "provenance": "François Alziari, Baron de Malaussena (mid 19th century), Lugt 1887 & S. 1887\r\n(Boisseau, 1736-1810, collector; Lugt - \"mark appeared on many false Boisseau drawings\")",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "St. James Major, or a Pilgrim"

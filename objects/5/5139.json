@@ -1,6 +1,7 @@
 {
   "accession_number": "96.86",
-  "artist": "Edgar Degas",
+  "artist": "Artist: Edgar Degas",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4730,
   "image_width": 6069,
-  "life_date": "French, 1834-1917",
-  "marks": " LRC in pencil: Degas / 69",
+  "inscription": "",
+  "life_date": "French, 1834–1917",
+  "markings": "",
   "medium": "Pastel on paper",
   "nationality": "French",
   "provenance": "Atelier Degas, Paris (until 1919; his estate sale, Galerie Georges Petit, Paris, atelier sale IV, July 2-4, 1919, no. 24). Roger Sauerbach, Paris (until 1931; his sale, Hôtel Drouot, Paris, March 11, 1931, no. 8). Waller Collection, Paris. [Brame & Lorenceau, Paris, 1990-95; sold to Dayton]; Ruth and Bruce Dayton, Wayzata, MN (1995-96; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in pencil: Degas / 69",
   "style": "19th century",
   "text": "In 1869, Degas made a series of pastel drawings near Houlgate, a small seaside resort town in Normandy. Though extremely spare in conception, many of the drawings include detail sufficient to determine the precise locations where Degas worked. In this regard, Beside the Sea is particularly challenging for it is apparently devoid of specifically identifiable landmarks. Instead of trees, rocks, and the other usual vocabulary of landscape, Degas offers a scattering of barely indicated beach walkers to suggest scale and perspective. Nearly reduced to a series of horizontal striations, the radical simplicity of the drawing anticipates the tonal compositions of artists such as Whistler, Buhot, and Pennell.",
   "title": "Beside the Sea"

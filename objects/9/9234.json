@@ -1,6 +1,7 @@
 {
   "accession_number": "63.52.2",
-  "artist": "Julian Scott",
+  "artist": "Artist: Julian Scott",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Lillian Z. Turnblad Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2856,
   "image_width": 4621,
+  "inscription": "",
   "life_date": "American, 1846 - 1901",
-  "marks": " Right side: Julian Scott 1864",
+  "markings": "",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Right side: Julian Scott 1864",
   "style": "19th century",
   "text": "",
   "title": "Dead Horse"

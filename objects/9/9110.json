@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.15",
-  "artist": "F. Ernest Jackson",
+  "artist": "Artist: F. Ernest Jackson",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4456,
   "image_width": 3121,
+  "inscription": "Signature",
   "life_date": "English, 1873",
-  "marks": "Signature [F. Ernest Jackson]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[F. Ernest Jackson]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of a Lady"

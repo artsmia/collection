@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.22",
-  "artist": "Wayne Thiebaud; Published by Parasol Press Ltd., New York",
+  "artist": "Artist: Wayne Thiebaud; Publisher: Published by Parasol Press Ltd., New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© Wayne Thiebaud %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1920",
-  "marks": "Signature; Edition; Mark\r\n\r\nsee Signed on sheet, in graphite below image at LR: [43/60 Th",
+  "markings": "Watermark\r\n\r\n",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "(Brooke Alexander Gallery, New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet, in graphite below image at LR: [43/60 Thiebaud]",
   "style": "20th century",
   "text": "",
   "title": "Pie Slice"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,549",
-  "artist": "Marc Chagall; Paul Cassirer",
+  "artist": "Artist: Marc Chagall; Publisher: Paul Cassirer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The David Draper Dayton Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "Belorussian, 1887 - 1985",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Belorussian, 1887–1985",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "Belorussian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Dining Room"

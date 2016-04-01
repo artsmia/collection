@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.123",
-  "artist": "Tsukioka Settei",
+  "artist": "Artist: Tsukioka Settei",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Poem:\r\n\r\nOminaeshi\r\nikanaru tane wo\r\nmakou to mo\r\nkawari naki ka ni\r\nhana niou ran\r\n\r\nSuetaka\r\n\r\nNo matter what kind of seeds were palnted\r\ngolden lace seeds grow into\r\ngolden lace flowers.\r\nThey don\\'t make any difference \r\nin the scent of the flowers. \r\n\r\nby Kamo Suetaka (1752-1841)\r\n\r\n\r\n\r\n\r\n",
   "life_date": "Japanese, 1710 - 1786",
-  "marks": "Poem:\r\n\r\nOminaeshi\r\nikanaru tane wo\r\nmakou to mo\r\n Shinten\\'o_ gihitsu",
+  "markings": "Seals: Shinten\\'o_ (upper) Tsukioka Masanobu (lower)",
   "medium": "Ink, color, and gofun on silk",
   "nationality": "Japanese",
   "provenance": "Takeda",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Shinten\\'o_ gihitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Standing Courtesan Holding Chinese Lantern Fruit"

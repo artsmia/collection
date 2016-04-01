@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.87",
-  "artist": "Berlin Porcelain Factory",
+  "artist": "Artist: Berlin Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3505,
   "image_width": 4605,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Plate"

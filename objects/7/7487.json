@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.142",
-  "artist": "Roberto Matta (Roberto Antonio Sebastián Matta Echaurren)",
+  "artist": "Artist: Roberto Matta (Roberto Antonio Sebastián Matta Echaurren)",
+  "classification": "Prints",
   "continent": "South America",
   "country": "Chile",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 4520,
   "image_width": 3328,
+  "inscription": "Signature; Edition",
   "life_date": "Chilean, 1911-2002",
-  "marks": "Signature; Edition ",
+  "markings": "",
   "medium": "Color etching and aquatint",
   "nationality": "Chilean",
   "provenance": "(Berggruen & Co., Paris); sold to MIA, 1969.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Allusion"

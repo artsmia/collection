@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.9",
-  "artist": "Christopher Le Brun",
+  "artist": "Artist: Christopher Le Brun",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1951",
-  "marks": "Signature LL: [LeBrun]",
+  "markings": "",
   "medium": "Color monotype",
   "nationality": "English",
   "provenance": "[Flanders Gallery, Minneapolis]; sold to MIA, 1998.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [LeBrun]",
   "style": "20th century",
   "text": "",
   "title": "Siegfried"

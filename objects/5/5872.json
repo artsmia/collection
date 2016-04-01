@@ -1,6 +1,7 @@
 {
   "accession_number": "99.110.2",
-  "artist": "Barry Belindo",
+  "artist": "Artist: Barry Belindo",
+  "classification": "Tools, Equipment and Utilitarian Objects",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees.",
   "image_height": 4531,
   "image_width": 1764,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Gourd, beads, wood, horse hair, feathers",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Rattle"

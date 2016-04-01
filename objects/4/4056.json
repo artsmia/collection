@@ -1,6 +1,7 @@
 {
   "accession_number": "91.108.13",
-  "artist": "Tonita Pena",
+  "artist": "Artist: Tonita Pena",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Virginia Doneghy",
@@ -14,8 +15,9 @@
   "image_copyright": "© Tonita %28Quah Ah%29 Pe%C3%B1a",
   "image_height": 4205,
   "image_width": 3081,
+  "inscription": "Signature; Inscription\r\nverso in graphite: [Corn Dance/Tonita Pena/Conchita Pueblo]",
   "life_date": "American (San Idelfonso Pueblo), 1895 - 1949",
-  "marks": "Signature; Inscription\r\nverso in graphite: [Corn D LR: [Quah Ah Tonita Peña]",
+  "markings": "",
   "medium": "Tempera",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Quah Ah Tonita Peña]",
   "style": "20th century",
   "text": "",
   "title": "Corn Dance"

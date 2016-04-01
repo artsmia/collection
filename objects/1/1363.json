@@ -1,6 +1,7 @@
 {
   "accession_number": "59.11.2",
-  "artist": "William Looker",
+  "artist": "Artist: William Looker",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Charles Bolles Rogers Family: Frederick Van Dusen Rogers, Nancy Rogers Pierson, Mary Rogers Savage",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3403,
   "image_width": 4388,
+  "inscription": "Mark\r\n\r\nEngraved on the underside of well:\r\n        [M]\r\n [T]   [* ]  [E]",
   "life_date": "British (London, England), active about 1713 - 1724",
-  "marks": "Mark\r\n\r\nEngraved on the underside of well:\r\n       ",
+  "markings": "Mark\r\n\r\nFully marked on underside of well.\r\n\r\n[MTE] on bottom",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Salt trencher"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.12",
-  "artist": "William Henry Fox Talbot",
+  "artist": "Photographer: William Henry Fox Talbot",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2849,
   "image_width": 3572,
+  "inscription": "Mark",
   "life_date": "English, 1800 - 1877",
-  "marks": "Mark ",
+  "markings": "Verso, estate number:  LA295",
   "medium": "Calotype\r\n",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Cloisters of Lacock Abbey"

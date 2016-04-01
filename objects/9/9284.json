@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.28",
-  "artist": "Henry Lamb",
+  "artist": "Artist: Henry Lamb",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John DeLaittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4187,
   "image_width": 3512,
+  "inscription": "Signature; Date",
   "life_date": "English, 1885 - 1960",
-  "marks": "Signature; Date [By Henry Lamb, 1910], LR corner",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[By Henry Lamb, 1910], LR corner",
   "style": "20th century",
   "text": "",
   "title": "Head of a Girl"

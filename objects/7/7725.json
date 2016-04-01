@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.12.8",
-  "artist": "Donna Dennis",
+  "artist": "Artist: Donna Dennis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3716,
   "image_width": 3076,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1942",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Donna Dennis 1985-87]\r\nLL: [A.P. 1/8]\r\nLC: [\\\"",
+  "markings": "LR: VEL chop mark",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Donna Dennis 1985-87]\r\nLL: [A.P. 1/8]\r\nLC: [\\\"Deep Station\\\"]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Deep Station"

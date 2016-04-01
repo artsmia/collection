@@ -1,6 +1,7 @@
 {
   "accession_number": "42.14",
-  "artist": "Charles M. Russell",
+  "artist": "Artist: Charles M. Russell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Russell H. Bennett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6884,
   "image_width": 9840,
-  "life_date": "American, 1864 - 1926",
-  "marks": "Signature; Date in ink, LL: [CM Russell (Skull) 1907]",
+  "inscription": "Signature; Date",
+  "life_date": "American, 1864–1926",
+  "markings": "",
   "medium": "Watercolor and gouache over black chalk",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in ink, LL: [CM Russell (Skull) 1907]",
   "style": "19th-20th century",
   "text": "",
   "title": "Stolen Women"

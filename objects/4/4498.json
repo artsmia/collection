@@ -1,6 +1,7 @@
 {
   "accession_number": "92.85.15",
-  "artist": "Fulper Pottery Company, 1860-1955",
+  "artist": "Manufacturer: Fulper Pottery Company, 1860-1955",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5488,
   "image_width": 3514,
+  "inscription": "Mark",
   "life_date": "Flemington, New Jersey",
-  "marks": "Mark ",
+  "markings": "Fulper",
   "medium": "Stoneware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Reptile Vase"

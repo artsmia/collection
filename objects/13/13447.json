@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.36.2",
-  "artist": "Yang Huiqi",
+  "artist": "Artist: Yang Huiqi",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1982,
   "image_width": 2253,
+  "inscription": "Inscriptions; Stamps",
   "life_date": null,
-  "marks": "Inscriptions; Stamps ",
+  "markings": "various untranslated inscriptions and stamps throughout",
   "medium": "ink and colors on paper; album",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Landscape Painting Album"

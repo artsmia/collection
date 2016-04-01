@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,539",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Francisca S. Winston Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 3699,
   "image_width": 3082,
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature and inscription\r\nLR: [Selbstbildnis, 191 LR: [Beckmann]",
+  "inscription": "Signature and inscription\r\nLR: [Selbstbildnis, 1919]",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait"

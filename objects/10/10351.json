@@ -1,6 +1,7 @@
 {
   "accession_number": "81.2.22",
-  "artist": "Tsukioka Settei",
+  "artist": "Artist: Tsukioka Settei",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3687,
   "image_width": 5616,
+  "inscription": "",
   "life_date": "Japanese, 1710 - 1786",
-  "marks": " Ho_gan Tsukioka Settei",
+  "markings": "Artist\\'s seal",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ho_gan Tsukioka Settei",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Ono no Komachi Washing the Poem Paper"

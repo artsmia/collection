@@ -1,6 +1,7 @@
 {
   "accession_number": "85.104",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Clothing",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Bertha Evans Brown Estate for Oriental Art",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Bast fiber (asa) cloth with double ikat (kasuri) designs",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Kimono"

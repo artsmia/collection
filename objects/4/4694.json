@@ -1,6 +1,7 @@
 {
   "accession_number": "94.30.3",
-  "artist": "Charles Biederman",
+  "artist": "Artist: Charles Biederman",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Copyright Charles Biederman",
   "image_height": 6477,
   "image_width": 1829,
-  "life_date": "American, 1906 - 2004",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1906–2004",
+  "markings": "",
   "medium": "Enamel on wood",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "G377",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Relief, New York, 1936"

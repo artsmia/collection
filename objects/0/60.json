@@ -1,6 +1,7 @@
 {
   "accession_number": "15.296",
-  "artist": "Edwin M. Dawes",
+  "artist": "Artist: Edwin M. Dawes",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1477,
+  "inscription": "Signature",
   "life_date": "American, 1872 - 1945",
-  "marks": "Signature LL in brown: [Edwin M. Dawes]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G280",
+  "signed": "LL in brown: [Edwin M. Dawes]",
   "style": "20th century",
   "text": "",
   "title": "Channel to the Mills"

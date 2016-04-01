@@ -1,6 +1,7 @@
 {
   "accession_number": "91.62",
-  "artist": "Robert Rosebear",
+  "artist": "Artist: Robert Rosebear",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1991 Robert Rosebear",
   "image_height": 5306,
   "image_width": 3448,
+  "inscription": "[R Rose-Bear/ \\'91\\']",
   "life_date": null,
-  "marks": "[R Rose-Bear/ \\'91\\'] on bottom, etched in: R Rose-Bear",
+  "markings": "",
   "medium": "Pipestone",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on bottom, etched in: R Rose-Bear",
   "style": "20th century",
   "text": "",
   "title": "Storytellin'- Spinning a Trickster Tale"

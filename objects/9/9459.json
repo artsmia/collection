@@ -1,6 +1,7 @@
 {
   "accession_number": "40.12",
-  "artist": "Arthur B. Davies",
+  "artist": "Artist: Arthur B. Davies",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. C. C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1539,
+  "inscription": "In graphite, lower center; blue | In graphite, lower right: 175-",
   "life_date": "American, 1862 - 1928",
-  "marks": "In graphite, lower center; blue | In graphite, low In graphite, lower left: Arthur B. Davies",
+  "markings": "",
   "medium": "Colored chalks on reddish brown charcoal paper",
   "nationality": "American",
   "provenance": "Kate Koon Bovey, Minneapolis, until 1940; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, lower left: Arthur B. Davies",
   "style": "19th-20th century",
   "text": "",
   "title": "Female Dancer"

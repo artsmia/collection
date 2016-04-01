@@ -1,6 +1,7 @@
 {
   "accession_number": "66.38",
-  "artist": "Guido Reni",
+  "artist": "Artist: Guido Reni",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7365,
   "image_width": 5906,
-  "life_date": "Italian (Bologna), 1575 - 1642",
-  "marks": "Inscription (on verso):\r\n\r\n(Inscription of Cardina ",
+  "inscription": "Inscription (on verso):\r\n\r\n(Inscription of Cardinal Valenti): [Sil:o Card:e Valenti/no. 432]",
+  "life_date": "Italian (Bologna), 1575–1642",
+  "markings": "Marks on verso:\r\nUL: [E8369]\r\nUR: [IMP 12383]\r\n\r\nLabels on verso:\r\nBC: [Colnaghi]",
   "medium": "Oil on canvas",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G314",
+  "signed": "",
   "style": "17th century",
   "text": " As this small painting passed from one princely collection to another, the subject has been identified with various historical figures.  As Circe herself staring into a bowl of potions, she is the witch in Greek mythology who turned all persons arriving on the island of Aenea into animals, including Odysseus's crew. In the guise of Cleopatra, she is gazing into a bowl of figs in which the poisonous adder slithers.  As the fourth-century St. Lucy, she holds a bowl containing her eyes, which were extracted during her martyrdom.  Or she may be a sibyl, an ancient Roman prophetess consulting omens. ",
   "title": "Bust of a Woman Wearing a Turban"

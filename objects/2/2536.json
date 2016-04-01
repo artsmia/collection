@@ -1,6 +1,7 @@
 {
   "accession_number": "78.2",
-  "artist": "Frank William Brangwyn",
+  "artist": "Artist: Frank William Brangwyn",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Regis Collection",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 7339,
   "image_width": 8742,
+  "inscription": "Monogram",
   "life_date": "British (born Belgium), 1867 - 1956",
-  "marks": "Monogram LL in orange-red: [FB]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G334",
+  "signed": "LL in orange-red: [FB]",
   "style": "20th century",
   "text": "",
   "title": "Illustration for Canto XI of the 'Rubáiyaát of Omar Khayyám'"

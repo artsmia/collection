@@ -1,6 +1,7 @@
 {
   "accession_number": "24.49",
-  "artist": "Auguste Louis Lepère",
+  "artist": "Artist: Auguste Louis Lepère",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2302,
   "image_width": 4627,
+  "inscription": "",
   "life_date": "French, 1849 - 1918",
-  "marks": " LR: A Lepere | LL, in charcoal: Un Pont pres du Pe",
+  "markings": "",
   "medium": "Charcoal on white paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: A Lepere | LL, in charcoal: Un Pont pres du Perier (Rout de Challans)",
   "style": "19th century",
   "text": "",
   "title": "A Bridge Near Perier, Road to Challans"

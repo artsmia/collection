@@ -1,6 +1,7 @@
 {
   "accession_number": "69.139",
-  "artist": "Jean-Léon Gérôme",
+  "artist": "Artist: Jean-Léon Gérôme",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4620,
   "image_width": 2958,
+  "inscription": "",
   "life_date": "French, 1824 - 1904",
-  "marks": " A Aimé Millet* J. Gérôme",
+  "markings": "",
   "medium": "Graphite, wove off-white matte paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "A Aimé Millet* J. Gérôme",
   "style": "19th century",
   "text": "",
   "title": "Vanitas (despairing figure)"

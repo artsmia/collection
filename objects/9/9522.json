@@ -1,6 +1,7 @@
 {
   "accession_number": "82.104.20",
-  "artist": "Théodore Rousseau",
+  "artist": "Artist: Théodore Rousseau",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Wheelock Whitney III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2596,
   "image_width": 4193,
+  "inscription": "",
   "life_date": "French, 1812 - 1867",
-  "marks": " ",
+  "markings": "",
   "medium": "Graphite and white chalk on blue-green wove paper",
   "nationality": "French",
   "provenance": "Georges Martin du Nord, Paris\r\nShepard Gallery, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Village in a Landscape"

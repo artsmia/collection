@@ -1,6 +1,7 @@
 {
   "accession_number": "98.109.19",
-  "artist": "Robert Capa",
+  "artist": "Photographer: Robert Capa",
+  "classification": "Photographs",
   "continent": "Asia",
   "country": "Israel",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Photograph by Robert Capa%2C © Cornell Capa",
   "image_height": 1970,
   "image_width": 2785,
+  "inscription": "Mark",
   "life_date": "American (born Hungary), 1913 - 1954",
-  "marks": "Mark ",
+  "markings": "artists\\' stamp, verso",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Immigrants, Israel"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.26.4",
-  "artist": "Giovanni Battista Piranesi",
+  "artist": "Artist: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3611,
   "image_width": 4893,
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature on plate: [Piranesi]",
+  "inscription": "Signature",
+  "life_date": "Italian, 1720–1778",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "Prouté",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Piranesi]",
   "style": "18th century",
   "text": "",
   "title": "Decorative Capriccio with a Monumental Tablet"

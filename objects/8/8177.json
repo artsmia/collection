@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.150a,b",
-  "artist": "Kitagawa Utamaro; Uemura Yohei",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Uemura Yohei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3618,
   "image_width": 4906,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " Utamaro hitsu",
+  "markings": "Publisher:Uemura",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Utamaro hitsu",
   "style": "18th century",
   "text": "In addition to picturing the great beauty and perfection of the \"Floating World's\" greatest courtesans, Utamaro also rendered women of various classes, sometimes engaged in mundane tasks. In this print he shows women stoking a stove, peeling potatoes and washing dishes.",
   "title": "Kitchen Scene"

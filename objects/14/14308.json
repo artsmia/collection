@@ -1,6 +1,7 @@
 {
   "accession_number": "25.445",
-  "artist": "Max Weber",
+  "artist": "Artist: Max Weber",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American (born Russia), 1881 - 1934",
-  "marks": "Signature [Max Weber]",
+  "markings": "",
   "medium": "Ink and wash on paper",
   "nationality": "American (born Russia)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Max Weber]",
   "style": "19th-20th century",
   "text": "",
   "title": "St. Mark's, Venice"

@@ -1,6 +1,7 @@
 {
   "accession_number": "97.39.2a-c",
-  "artist": "M.P.",
+  "artist": "Maker: M.P.",
+  "classification": "Arms and Armor",
   "continent": null,
   "country": "Central or Southern Germany",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2162,
   "image_width": 4671,
+  "inscription": "Mark",
   "life_date": "German (Central or Southern)",
-  "marks": "Mark ",
+  "markings": "at breech proper left side: [MP (over an inverted crescent)]",
   "medium": "Iron, fruitwood, bone, mother-of-pearl, and cowhorn",
   "nationality": "German; Central or Southern",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G340",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Wheel lock rifle"

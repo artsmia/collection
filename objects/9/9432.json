@@ -1,6 +1,7 @@
 {
   "accession_number": "83.145.2",
-  "artist": "Henri Jacob",
+  "artist": "Artist: Henri Jacob",
+  "classification": "Furniture",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Groves Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1140,
+  "inscription": "Mark",
   "life_date": "French, 1753 - 1824",
-  "marks": "Mark ",
+  "markings": "stamped H. Jacob \\'One chair stamped twice and one three times\\'",
   "medium": "Giltwood",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Side Chair, one of a pair"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.171.2",
-  "artist": "Sam Gilliam",
+  "artist": "Artist: Sam Gilliam",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Gilliam%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
   "image_height": 3251,
   "image_width": 4184,
+  "inscription": "Date; Signature; Title; Mark\r\n\r\n",
   "life_date": "American, born 1933",
-  "marks": "Date; Signature; Title; Mark\r\n\r\n LR: [Sam Gilliam \\'80]\r\nLL: [\\\"Drawing for Coffee Th",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color oil crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Sam Gilliam \\'80]\r\nLL: [\\\"Drawing for Coffee Thyme\\\"]",
   "style": "20th century",
   "text": "",
   "title": "Coffee Thyme"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.38",
-  "artist": "Stephen Hartman; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Stephen Hartman; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Stephen Hartman",
   "image_height": 2704,
   "image_width": 3838,
+  "inscription": "Signed, dated, numbered, and chop mark",
   "life_date": "American, born 1947",
-  "marks": "Signed, dated, numbered, and chop mark LL: [S Hartman 1978]\r\nLL: [AP 6/10]\r\n",
+  "markings": "LC: VEL chop mark",
   "medium": "Color lithograph and etching, with screenprinted varnish (verso)",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [S Hartman 1978]\r\nLL: [AP 6/10]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.228.2",
-  "artist": "Gorham Manufacturing Company",
+  "artist": "Manufacturer: Gorham Manufacturing Company",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dolly J. Fiterman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3056,
   "image_width": 2032,
+  "inscription": "Mark; Stamps",
   "life_date": "Providence, Rhode Island, 1865-1967",
-  "marks": "Mark; Stamps ",
+  "markings": "stylized monogram, incised on one side\r\nstamped, on bottom: [(anchor)/GORHAM & CO.] and [Q] \r\nincised, on bottom: [79768] and [017]",
   "medium": "Brass, silver, and ivory",
   "nationality": "",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Coffee Pot"

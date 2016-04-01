@@ -1,6 +1,7 @@
 {
   "accession_number": "75.8",
-  "artist": "François Boucher",
+  "artist": "Artist: François Boucher",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6676,
   "image_width": 4730,
-  "life_date": "French, 1703 - 1770",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1703–1770",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "Boucher painted this picture for his patron, Madame de Pompadour, the mistress of Louis XV. Partly to please the religious faction at court, she commissioned devotional pictures for the chapels in her various residences. She ordered this one of Saint John, her patron saint, for a chapel in the Capuchin Convent in Paris, where she had an apartment and went for periodic retreats.\r\n",
   "title": "Saint John the Baptist"

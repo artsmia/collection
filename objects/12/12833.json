@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.163.1.1",
-  "artist": "William Barrum; C. H. Brannam",
+  "artist": "Decorator: William Barrum; Artist: C. H. Brannam",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Mrs. Ethelyn Bros Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1915,
   "image_width": 2560,
+  "inscription": "Inscription",
   "life_date": "English",
-  "marks": "Inscription ",
+  "markings": "\\'CH Brannam/Barum/WB 1888/1,054[?]\\', incised, on bottom",
   "medium": "'barum-ware' pottery",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Vase with Birds and Flowers, one of a pair"

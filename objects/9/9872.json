@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.57",
-  "artist": "Albert Besnard",
+  "artist": "Artist: Albert Besnard",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council and Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3325,
   "image_width": 1998,
+  "inscription": "Signature; Date",
   "life_date": "French, 1849 - 1934",
-  "marks": "Signature; Date [Besnard/1884], in ink, LR",
+  "markings": "Various inscriptions, (some illegible), verso; Watermark:  [DELLA MILL/FINE]",
   "medium": "Pen and black ink and ink wash heightened with white and grey",
   "nationality": "French",
   "provenance": "(Galerie de la Scala, Paris)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Besnard/1884], in ink, LR",
   "style": "19th century",
   "text": "",
   "title": "La Loge"

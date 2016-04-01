@@ -1,6 +1,7 @@
 {
   "accession_number": "72.84",
-  "artist": "attributed to Carlo Magnone",
+  "artist": "Artist: attributed to Carlo Magnone",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription \r\n\r\nVerso of original canvas support: [ex Fide…?Barberini Corsini/Libre per P…]",
   "life_date": "Italian, 1623 - 1653",
-  "marks": "Inscription \r\n\r\nVerso of original canvas support:  ",
+  "markings": "Wax seal on the canvas support",
   "medium": "Oil on canvas",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G330",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Adam Discovering the Body of Abel"

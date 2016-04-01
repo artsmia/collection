@@ -1,6 +1,7 @@
 {
   "accession_number": "99.200.2",
-  "artist": "Charles-Émile Jacque",
+  "artist": "Artist: Charles-Émile Jacque",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Frederick and Margaret L. Weyerhaeuser Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4606,
   "image_width": 6601,
+  "inscription": "Signature",
   "life_date": "French, 1813-1894",
-  "marks": "Signature LC (in black): [Ch. Jacque]\r\n\r\nConfirm whether thi",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G354",
+  "signed": "LC (in black): [Ch. Jacque]\r\n\r\nConfirm whether this says \\'Jacque\\' or \\'Jacques\\'.",
   "style": "19th century",
   "text": "",
   "title": "Shepherdess and Sheep, Fontainebleau"

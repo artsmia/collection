@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,795",
-  "artist": "Camille Pissarro",
+  "artist": "Artist: Camille Pissarro",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Philip W. Pillsbury, 1959",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1830 - 1903",
-  "marks": " Signed in pencil",
+  "markings": "",
   "medium": "Aquatint and soft-ground etching with scraping and polishing",
   "nationality": "French",
   "provenance": "Philip Wisnton Pillsbury, Wayzata, Minn.; given to MIA, 1959.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil",
   "style": "19th century",
   "text": "",
   "title": "Paysage sous bois a l'Hermitage (Pontoise)"

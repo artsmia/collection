@@ -1,6 +1,7 @@
 {
   "accession_number": "92.6.3",
-  "artist": "Luke Kapayou",
+  "artist": "Artist: Luke Kapayou",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Luke Kapayou",
   "image_height": 3533,
   "image_width": 5414,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Wood",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Ladle"

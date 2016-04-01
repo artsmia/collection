@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.41",
-  "artist": "Ramon Casas",
+  "artist": "Artist: Ramon Casas",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The John De Laittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp\r\nsee Signed",
   "life_date": "Spanish, born 1866",
-  "marks": "Signature; Stamp\r\nsee Signed [R Casas]",
+  "markings": "Stamp in the lower right: [PEL & PLOMA]",
   "medium": "Colored crayon on buff paper",
   "nationality": "Spanish",
   "provenance": "Edmond Sagot",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[R Casas]",
   "style": "19th-20th century",
   "text": "",
   "title": "Madame X at the Grand Prix"

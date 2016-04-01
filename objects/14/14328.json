@@ -1,6 +1,7 @@
 {
   "accession_number": "26.1",
-  "artist": "Carl Wendell Rawson",
+  "artist": "Artist: Carl Wendell Rawson",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from R.M. Bennett, F.W. Clifford, E.M. Crosby, John Crosby, E.C. Gale, H. V. Jones, Horace Lowry, Angus W. Morrison, J. B. Schermerhorn and John R. Van Derlip",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 5203,
   "image_width": 3681,
+  "inscription": "Signature and Date",
   "life_date": "American, 1884 - 1971",
-  "marks": "Signature and Date [Carl W. Rawson 1924]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Carl W. Rawson 1924]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of William Watts Folwell"

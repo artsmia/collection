@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.24.4",
-  "artist": "Allen Jones",
+  "artist": "Artist: Allen Jones",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3204,
   "image_width": 3234,
+  "inscription": "Signature; Mark",
   "life_date": "British, born 1937",
-  "marks": "Signature; Mark in pencil: [Allen Jones]",
+  "markings": "Watermark: <Arches> \r\nchop marks: 2 seen\r\nW/P: Tamarind, Akagawa\r\nP/E: Akagawa Printers Proof, recto : Bon á tirer\r\nACJ- 1st colour\r\n         2nd colour\r\n         3rd colour\r\n         4th colour",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "Kinji Akagawa, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Allen Jones]",
   "style": "20th century",
   "text": "",
   "title": "Plate C"

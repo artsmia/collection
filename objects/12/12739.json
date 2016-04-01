@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.183",
-  "artist": "Marie-Jeanne Boucher",
+  "artist": "Artist: Marie-Jeanne Boucher",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1716 - after 1785",
-  "marks": "Signature in plate, LL: [Jane Boucher]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate, LL: [Jane Boucher]",
   "style": "18th century",
   "text": "",
   "title": "A Cartouche with Putti"

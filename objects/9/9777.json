@@ -1,6 +1,7 @@
 {
   "accession_number": "98.256.1",
-  "artist": "George Grant Elmslie",
+  "artist": "Artist: George Grant Elmslie",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Roger G. Kennedy",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3303,
   "image_width": 4427,
-  "life_date": "American (born Scotland), 1869-1952",
-  "marks": "Signature, Inscription; Sticker [G.G.E.], in graphite LL",
+  "inscription": "Signature, Inscription; Sticker",
+  "life_date": "American (born Scotland), 1869–1952",
+  "markings": "[G.G.E/BUILDING UNKNOWN/WINONA-ELKS-CLUB--?], in pencil, LL corner; [DATE 1911], in pencil, lower center; [Purcell, Feick & Elmslie/Architects/Minneapolis, Minnesota], on sticker, LR corner",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "Roger G. Kennedy, Santa Fe, NM",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[G.G.E.], in graphite LL",
   "style": "20th century",
   "text": "",
   "title": "Elks Club, Winona, Minnesota"

@@ -1,6 +1,7 @@
 {
   "accession_number": "67.14.10",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4008,
   "image_width": 2897,
+  "inscription": "Signature, Title\r\n\r\nsee Signed\r\n\r\nTitled, verso",
   "life_date": "German, 1863 - 1945",
-  "marks": "Signature, Title\r\n\r\nsee Signed\r\n\r\nTitled, verso [Kley], UR",
+  "markings": "",
   "medium": "Pen and india ink on paper",
   "nationality": "German",
   "provenance": "(Karl & Faber, Munich, Germany); sold to MIA, 1967.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Kley], UR",
   "style": "19th-20th century",
   "text": "",
   "title": "A Man and a Woman Examining Orchids which Grow from a Skull"

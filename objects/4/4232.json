@@ -1,6 +1,7 @@
 {
   "accession_number": "91.25",
-  "artist": "William Henry Hunt",
+  "artist": "Artist: William Henry Hunt",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6154,
   "image_width": 8448,
+  "inscription": "Signature",
   "life_date": "British, 1790-1864",
-  "marks": "Signature [W. Hunt], LL",
+  "markings": "",
   "medium": "Watercolor, gouache and gum arabic,",
   "nationality": null,
   "provenance": "George Schlotel, the sale of his Estate, Christie's, 25th April, 1885, lot 30, bt. Vokins (£157/10/-); S.E. Kennedy, his sale, Christie's, 15th December, 1916, lot 39, bt. Hawarth (14 gns.).  (Sandorval and Co.)\r\n\r\n",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W. Hunt], LL",
   "style": "19th century",
   "text": "",
   "title": "Still Life with Grapes and a Pomegranate"

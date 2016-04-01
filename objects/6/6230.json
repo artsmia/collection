@@ -1,6 +1,7 @@
 {
   "accession_number": "2006.9.1",
-  "artist": "Narcisse-Virgile Diaz de la Peña",
+  "artist": "Artist: Narcisse-Virgile Diaz de la Peña",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Peter ffolliott",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4547,
   "image_width": 3638,
+  "inscription": "",
   "life_date": "French, 1807 - 1876",
-  "marks": " LL: [N. Diaz]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [N. Diaz]",
   "style": "19th century",
   "text": "",
   "title": "Descent of the Bohemians"

@@ -1,6 +1,7 @@
 {
   "accession_number": "25.51",
-  "artist": "Geza Bene",
+  "artist": "Artist: Geza Bene",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Hungarian, born 1899",
-  "marks": "Signature; Date\r\nsee Signed [Bene G. 22] (June or July 22)",
+  "markings": "",
   "medium": "Ink on white paper",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Bene G. 22] (June or July 22)",
   "style": "20th century",
   "text": "",
   "title": "Old Man"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.18.37",
-  "artist": "Takamori Saigan",
+  "artist": "Maker: Takamori Saigan",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3382,
   "image_width": 3773,
+  "inscription": "URC: (undeciphered inscription)",
   "life_date": "Japanese, 1847 - 1917",
-  "marks": "URC: (undeciphered inscription) URC, in ink: Saigan",
+  "markings": "LLC and URC: (unknown seals) | URC, seals: Takamori no in |  Ryoteki gai",
   "medium": "Ink and colors on paper, hanging scroll",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "URC, in ink: Saigan",
   "style": "20th century",
   "text": "",
   "title": "Small Landscape"

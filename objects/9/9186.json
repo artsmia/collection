@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,017",
-  "artist": "Charles Meryon",
+  "artist": "Artist: Charles Meryon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2155,
   "image_width": 4507,
+  "inscription": "Watermark",
   "life_date": "French, 1821 - 1868",
-  "marks": "Watermark ",
+  "markings": "Watermark: [HALINES]",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "In the eleventh state of this print Meryon removed the flocks of menacing birds and added a number of small balloons.  The change from the previous state is dramatic and the omnious character of the image been transformed to one of lightness and even festivity.  The balloons have enigmatic titles including Vasco da Gama (a famous Portugese navigator), L'Asmodée (the name of a demon in the Book of Tobias who was thought to raise roofs of houses and discover the secrets of the inhabitants), le Protée(Proteus was a Greek sea god who could change his form at wil), and le Saint-Elme (St. Elmo's Fire was an appearance of flame on prominent points of a ship that was taken to be a bad omen by sailors).",
   "title": "The Exchange Bridge"

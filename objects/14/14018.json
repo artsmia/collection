@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.3",
-  "artist": "Sir Edward John Poynter",
+  "artist": "Maker: Sir Edward John Poynter",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4339,
   "image_width": 2849,
-  "life_date": "English, 1836 - 1919",
-  "marks": "Date ",
+  "inscription": "Date",
+  "life_date": "English, 1836–1919",
+  "markings": "[Jan 5.8.86], center",
   "medium": "Graphite and black and white chalks on brown paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study for Serene Hours"

@@ -1,6 +1,7 @@
 {
   "accession_number": "75.19",
-  "artist": "Tsungani Lelooska",
+  "artist": "Artist: Tsungani Lelooska",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": null,
   "creditline": "The Josephine N. Scott Memorial Fund, given in memory of Mrs. Norman W. Scott",
@@ -14,8 +15,9 @@
   "image_copyright": "© Tsungani Lelooska",
   "image_height": "",
   "image_width": "",
-  "life_date": "",
-  "marks": " ",
+  "inscription": "",
+  "life_date": null,
+  "markings": "",
   "medium": "painted wood",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Sun Mask"

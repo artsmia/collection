@@ -1,6 +1,7 @@
 {
   "accession_number": "92.109",
-  "artist": "Michel Corneille",
+  "artist": "Artist: Michel Corneille",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3779,
   "image_width": 3393,
+  "inscription": "",
   "life_date": "French, 1642 - 1708",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and brown ink, red and brown wash heightened with white on grey paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Choice of Hercules"

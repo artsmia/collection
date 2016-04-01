@@ -1,6 +1,7 @@
 {
   "accession_number": "66.49",
-  "artist": "Pietro della Vecchia (Pietro Muttoni)",
+  "artist": "Artist: Pietro della Vecchia (Pietro Muttoni)",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3421,
   "image_width": 5426,
+  "inscription": "",
   "life_date": "Italian (Venice), 1603/5 - 1678",
-  "marks": " ",
+  "markings": "Nothing on verso",
   "medium": "Oil on canvas",
   "nationality": "Italian (Venice)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G330",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Judith with the Head of Holofernes"

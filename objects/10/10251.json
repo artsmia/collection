@@ -1,6 +1,7 @@
 {
   "accession_number": "86.50a,b",
-  "artist": "Hampshire Pottery",
+  "artist": "Manufacturer: Hampshire Pottery",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Emerson C. Scholer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3762,
   "image_width": 4446,
+  "inscription": "",
   "life_date": "American; Keene, NH",
-  "marks": " ",
+  "markings": "Under base: Hampshire Pottery 26",
   "medium": "Earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Inkwell with lid"

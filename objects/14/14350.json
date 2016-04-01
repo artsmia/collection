@@ -1,6 +1,7 @@
 {
   "accession_number": "25.9",
-  "artist": "Sir David Wilkie",
+  "artist": "Maker: Sir David Wilkie",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "Gift of John R. Van Derlip",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3059,
   "image_width": 3742,
-  "life_date": "Scottish, 1785-1841",
-  "marks": "Signature; Date in black chalk, LL: [D.W. 5 August 1837]; in pen a",
+  "inscription": "Signature; Date",
+  "life_date": "Scottish, 1785–1841",
+  "markings": "",
   "medium": "Black and white chalk, with touches of red chalk, and pen and brown ink with wash",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black chalk, LL: [D.W. 5 August 1837]; in pen and brown ink, LL: [D.W. 5 Agst 1837]",
   "style": "19th century",
   "text": "Among this series of hand studies, the Scottish artist David Wilkie included a carefully described portrait drawing of an older woman. With rather spare chalk and pen lines, Wilkie achieved an impressive lifelike quality in the figure.",
   "title": "Head of a Woman and Study of Hands"

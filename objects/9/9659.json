@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,993",
-  "artist": "Giovanni Benedetto Castiglione (Il Grechetto)",
+  "artist": "Artist: Giovanni Benedetto Castiglione (Il Grechetto)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3056,
   "image_width": 4319,
+  "inscription": "Signature",
   "life_date": "Italian (Genoa), 1609 - 1664",
-  "marks": "Signature on plate",
+  "markings": "Watermark: Grapes (?)",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate",
   "style": "17th century",
   "text": "",
   "title": "The Raising of Lazarus"

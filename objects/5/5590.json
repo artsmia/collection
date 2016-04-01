@@ -1,6 +1,7 @@
 {
   "accession_number": "98.144.34",
-  "artist": "Robert Doisneau",
+  "artist": "Photographer: Robert Doisneau",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Fred Scheel",
@@ -14,8 +15,9 @@
   "image_copyright": "© Atelier Robert Doisneau",
   "image_height": 1920,
   "image_width": 2504,
+  "inscription": "Signature; Title; Date",
   "life_date": "French, 1912 - 1994",
-  "marks": "Signature; Title; Date ",
+  "markings": "bottom right corner edge below image; back center of print",
   "medium": "Gelatin silver print (printed 1978)",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Les Bouchers Mélomanes"

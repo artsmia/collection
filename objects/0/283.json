@@ -1,6 +1,7 @@
 {
   "accession_number": "24.31",
-  "artist": "Hercules Brabazon Brabazon",
+  "artist": "Artist: Hercules Brabazon Brabazon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John De Laittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3382,
   "image_width": 3838,
+  "inscription": "Signature",
   "life_date": "English, 1821 - 1906",
-  "marks": "Signature [H B B]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[H B B]",
   "style": "19th century",
   "text": "",
   "title": "Grand Canal, Venice"

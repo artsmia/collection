@@ -1,6 +1,7 @@
 {
   "accession_number": "P.727",
-  "artist": "Jacob Matham; after Hendrick Goltzius",
+  "artist": "Artist: Jacob Matham; Artist: after Hendrick Goltzius",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Dutch, 1571 - 1631",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1558-1617",
+  "markings": "Watermark: <IHN> and crest",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "Princes of Waldburg Wolfegg, black stamp verso (L.2542)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Holy Family on the Flight into Egypt"

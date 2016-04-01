@@ -1,6 +1,7 @@
 {
   "accession_number": "61.38",
-  "artist": "Simonetta Vigevani Jung",
+  "artist": "Artist: Simonetta Vigevani Jung",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mr. and Mrs. Arthur Wiesenberger",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4840,
   "image_width": 3310,
+  "inscription": "Signature and Date",
   "life_date": "Belgian (born Sicilian), 1917-2005",
-  "marks": "Signature and Date LR: [S. V. Jung]; on verso: (signed and dated in f",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Belgium",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [S. V. Jung]; on verso: (signed and dated in full)",
   "style": "20th century",
   "text": "",
   "title": "Abstraction"

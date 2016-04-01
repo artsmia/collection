@@ -1,6 +1,7 @@
 {
   "accession_number": "46.14.283",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1877,
   "image_width": 2560,
+  "inscription": "Signature; Title",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signature; Title [Jo Pennell], lower right corner, recto",
+  "markings": "[Out for a walk in the Borghese Villa Gardens] inscribed in pen, LRC, recto (Last word unclear, looks more like \\'Sargeno\\'); notation in black ink in lower left corner not deciptered due to overlying glue and paper fragments; pencil inscription once on bottom left and center margin erased and not readable; bottom center edge pencil lines drawn after incsription esrased",
   "medium": "Pen and black ink on wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Jo Pennell], lower right corner, recto",
   "style": "20th century",
   "text": "",
   "title": "Out for a Walk in the Borghese Villa Gardens"

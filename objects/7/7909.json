@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.16.2",
-  "artist": "Craig McPherson",
+  "artist": "Artist: Craig McPherson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Craig McPherson",
   "image_height": 3178,
   "image_width": 4249,
+  "inscription": "Signature; Date; Edition; Title; Inscription\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [25/75]; titled in pencil, LC: [EDGAR THOMSON]",
   "life_date": "American, born 1948",
-  "marks": "Signature; Date; Edition; Title; Inscription\r\n\r\nse Signed and dated in pencil, LR: [McPHERSON IMP. 19",
+  "markings": "",
   "medium": "Mezzotint on pale blue paper",
   "nationality": "American",
   "provenance": "[Mary Ryan Gallery, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [McPHERSON IMP. 1997]",
   "style": "20th century",
   "text": "",
   "title": "Edgar Thomson"

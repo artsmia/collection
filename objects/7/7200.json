@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,505",
-  "artist": "Hanns Lautensack",
+  "artist": "Artist: Hanns Lautensack",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1925",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, c. 1520 - after 1564",
-  "marks": "Mark ",
+  "markings": "Watermark: towers",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "View of the City of Nuremberg from the West"

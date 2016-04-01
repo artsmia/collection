@@ -1,6 +1,7 @@
 {
   "accession_number": "72.128",
-  "artist": "Jules Elie Delaunay",
+  "artist": "Artist: Jules Elie Delaunay",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Atherton Bean",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3600,
   "image_width": 4563,
+  "inscription": "Date; Initials",
   "life_date": "French, 1828 - 1891",
-  "marks": "Date; Initials LR in crimson: [\\'JE\\' (reversed) \\'D\\' (intertwined w",
+  "markings": "",
   "medium": "Oil on wood",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G354",
+  "signed": "LR in crimson: [\\'JE\\' (reversed) \\'D\\' (intertwined with JE) 1871]; (on step):  [JED 1871]",
   "style": "19th century",
   "text": "This is probably a study for Delaunay's most famous painting, a large canvas he exhibited in 1869, but which had its genesis during Delaunay's period of study in Rome (1856-61). The artist took inspiration from a passage in Jacobus de Voragine's 13th-century 'Golden Legend', which describes how divine vengeance brought a plague to Rome. In the painting, plague-stricken figures lie in torment in the streets, while to the right, a good angel commands the bad angel to strike with his spear the homes where the plague will enter.",
   "title": "The Plague in Rome"

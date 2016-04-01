@@ -1,6 +1,7 @@
 {
   "accession_number": "63.74",
-  "artist": "Odilon Redon",
+  "artist": "Artist: Odilon Redon",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Donald Winston",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1891,
+  "inscription": "Signature",
   "life_date": "French, 1840 - 1916",
-  "marks": "Signature LR: [Odilon Redon]",
+  "markings": "",
   "medium": "Oil on paper attached to linen",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G351",
+  "signed": "LR: [Odilon Redon]",
   "style": "20th century",
   "text": "",
   "title": "Silence"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.85.1",
-  "artist": "Pierre Bonnard; Text by Paul Verlaine; Woodcuts by Tony Beltrand; Ambroise Vollard, Paris, France; Imprimerie Nationale, Paris; Lithography by Auguste Clot, Paris; Binding by Georges Cretté",
+  "artist": "Artist: Pierre Bonnard; Author: Text by Paul Verlaine; Woodcutter: Woodcuts by Tony Beltrand; Publisher: Ambroise Vollard, Paris, France; Printer: Imprimerie Nationale, Paris; Printer: Lithography by Auguste Clot, Paris; Book Binder: Binding by Georges Cretté",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 4083,
   "image_width": 6798,
+  "inscription": "",
   "life_date": "French, 1867-1947",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithographs in rose ink, wood engravings, and letterpress; bound volume",
   "nationality": "French",
   "provenance": "Bruce B. Dayton, Wayzata, Minn.; given to MIA, 1985.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Parallèlement (In Parallel)"

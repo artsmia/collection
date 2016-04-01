@@ -1,6 +1,7 @@
 {
   "accession_number": "97.34",
-  "artist": "Lois Bryant",
+  "artist": "Artist: Lois Bryant",
+  "classification": "Textiles",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "©1996 Lois Bryant",
   "image_height": 1338,
   "image_width": 1355,
+  "inscription": "Signature; Label",
   "life_date": null,
-  "marks": "Signature; Label ",
+  "markings": "in brown and green thread, LRC below image: [Bryant]; in green ink on blue fabric label sewn upside down at bottom center edge: [(C) 1996 Lois Bryant \\'Escaping Time #1]",
   "medium": "Cotton, metallic gimp; woven fabric",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Escaping Time #1"

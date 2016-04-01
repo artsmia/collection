@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.16",
-  "artist": "Major Sir William Orpen",
+  "artist": "Artist: Major Sir William Orpen",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4731,
   "image_width": 2997,
+  "inscription": "Signature; Title",
   "life_date": "English, 1878 - 1931",
-  "marks": "Signature; Title [Orpen], LL corner;",
+  "markings": "[Trinket Seller], LR corner",
   "medium": "Graphite and wash",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Orpen], LL corner;",
   "style": "20th century",
   "text": "",
   "title": "The Trinket Seller"

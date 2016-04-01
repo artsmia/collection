@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.12",
-  "artist": "Eugene Larkin",
+  "artist": "Artist: Eugene Larkin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3643,
   "image_width": 2843,
+  "inscription": "Signed, dated, numbered, titled and chopmark.",
   "life_date": "American, 1921 - 2010",
-  "marks": "Signed, dated, numbered, titled and chopmark. LR: [Larkin 78]\r\nLR: [2/8 ap]\r\nLL: [Transformation",
+  "markings": "LL: VEL chopmark",
   "medium": "Color lithograph with collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Larkin 78]\r\nLR: [2/8 ap]\r\nLL: [Transformations]",
   "style": "20th century",
   "text": "",
   "title": "Transformations"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.63",
-  "artist": "Joan Miró; Text by Maryse Lafont; Published  by Guy Lévis Mano, Paris",
+  "artist": "Artist: Joan Miró; Author: Text by Maryse Lafont; Publisher: Published  by Guy Lévis Mano, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Spanish, 1893 - 1983",
-  "marks": " ",
+  "markings": "",
   "medium": "Color etching wuth aquatint; letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Obscur Laurier"

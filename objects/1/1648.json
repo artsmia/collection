@@ -1,6 +1,7 @@
 {
   "accession_number": "67.52",
-  "artist": "Jean-Baptiste Carpeaux",
+  "artist": "Artist: Jean-Baptiste Carpeaux",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6359,
   "image_width": 4384,
+  "inscription": "Signature",
   "life_date": "French, 1827-1875",
-  "marks": "Signature ",
+  "markings": "right base",
   "medium": "Bronze",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Neapolitan Fisherboy"

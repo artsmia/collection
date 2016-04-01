@@ -1,6 +1,7 @@
 {
   "accession_number": "94.102.4",
-  "artist": "Judy Coleman; G. Ray Hawkins Gallery",
+  "artist": "Photographer: Judy Coleman; Publisher: G. Ray Hawkins Gallery",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David J. Parins",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright © Judy Coleman. All rights reserved.",
   "image_height": 1761,
   "image_width": 2560,
+  "inscription": "Signature, Title, Date, Edition Number",
   "life_date": "American, born 1944",
-  "marks": "Signature, Title, Date, Edition Number back center",
+  "markings": "back center",
   "medium": "Gelatin silver print (printed 1989)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "back center",
   "style": "20th century",
   "text": "",
   "title": "Waking Dream"

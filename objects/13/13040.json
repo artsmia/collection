@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.250",
-  "artist": "Jane Kent; Text by Richard Ford; Grenfell Press, New York , New York",
+  "artist": "Artist: Jane Kent; Author: Text by Richard Ford; Publisher: Grenfell Press, New York , New York",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jane Kent",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signatures\r\nsee Signed",
   "life_date": "American, born 1952",
-  "marks": "Signatures\r\nsee Signed in graphite, on colophon page: [Richard Ford; Jane",
+  "markings": "",
   "medium": "Color aquatints and letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, on colophon page: [Richard Ford; Jane Kent]",
   "style": "20th century",
   "text": "",
   "title": "Privacy"

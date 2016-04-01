@@ -1,6 +1,7 @@
 {
   "accession_number": "74.44",
-  "artist": "attributed to Jean Baptiste Corneille",
+  "artist": "Artist: attributed to Jean Baptiste Corneille",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4351,
   "image_width": 2816,
+  "inscription": "",
   "life_date": "French, 1649 - 1695",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen, brown ink and wash on buff paper",
   "nationality": null,
   "provenance": "[Herbert E. Feist, New York, until 74.44; sold, for AII, to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Martyrdom of St. Laurentius"

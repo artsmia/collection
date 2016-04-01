@@ -1,6 +1,7 @@
 {
   "accession_number": "69.8",
-  "artist": "Jan Van Bouckhorst",
+  "artist": "Artist: Jan Van Bouckhorst",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Special Purchase Fund Pillsbury\r\nor The David M. Daniels Fund (?)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4370,
   "image_width": 2706,
+  "inscription": "",
   "life_date": "Dutch, about 1588 - 1631",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen, sepia ink and brush on white laid paper",
   "nationality": "Dutch",
   "provenance": "[Lucien Goldschmidt, New York; until 1969; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Head of a Man"

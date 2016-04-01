@@ -1,6 +1,7 @@
 {
   "accession_number": "69.74",
-  "artist": "François Valentin; after Giovanni Benedetto Castiglione (Il Grechetto)",
+  "artist": "Artist: François Valentin; Artist: after Giovanni Benedetto Castiglione (Il Grechetto)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Donald S. Gilmore",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2547,
   "image_width": 1722,
+  "inscription": "Stamps",
   "life_date": "French, 1739 - 1805",
-  "marks": "Stamps ",
+  "markings": "Stamps: recto, LL corner [WAD] (Lugt 2602d); mount, LL corner [RMW] (Lugt 2228b)",
   "medium": "Oil pigments, black and white chalks, brush wash",
   "nationality": "French",
   "provenance": "Prince Wladimar Argoutinsky-Dolgoroukoff (1875-1941) Lugt 2602d, Paris; Sir Robert Witt (1872-1952) Lugt 2228b, London; [P. & D. Colnaghi, London, in 1960]; Mr. and Mrs. Donald S. Gilmore, Kalamazoo, Michigan (until 1969; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Theseus Recovering the Armor of Aegeus"

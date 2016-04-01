@@ -1,6 +1,7 @@
 {
   "accession_number": "66.61.2",
-  "artist": "Claude-Joseph Vernet",
+  "artist": "Artist: Claude-Joseph Vernet",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. G. Nelson Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3070,
   "image_width": 3924,
-  "life_date": "French, 1714 - 1789",
-  "marks": "Signature and Date LC in brown: [Joseph Vernet.f.Romae/1746]",
+  "inscription": "Signature and Date",
+  "life_date": "French, 1714–1789",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G307",
+  "signed": "LC in brown: [Joseph Vernet.f.Romae/1746]",
   "style": "18th century",
   "text": "",
   "title": "Imaginary Landscape, Italian Harbor Scene"

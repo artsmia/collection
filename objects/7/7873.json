@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.4.2",
-  "artist": "Hananiah Harari",
+  "artist": "Artist: Hananiah Harari",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3658,
   "image_width": 4712,
+  "inscription": "Signature; Date; Title; Edition",
   "life_date": "American, 1912 - 2000",
-  "marks": "Signature; Date; Title; Edition ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "American",
   "provenance": "(Nicholas Richardson, New York, until 1993); sold to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Figures in Interior"

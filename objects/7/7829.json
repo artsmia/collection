@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.4",
-  "artist": "Adja Yunkers",
+  "artist": "Artist: Adja Yunkers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3381,
   "image_width": 2609,
+  "inscription": "Signed, Dated, Numbered, Titled, Inscribed, Chop Mark",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signed, Dated, Numbered, Titled, Inscribed, Chop M LR: [Adja Yunkers - 82]\r\nLC: [4/7]\r\nLL: [Immobile ",
+  "markings": "Artist\\'s Chop Mark, VEL Chop Mark",
   "medium": "Color soft-ground etching and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Adja Yunkers - 82]\r\nLC: [4/7]\r\nLL: [Immobile Sun XXI-B]\r\nLL: [(Hors concours)]\r\nLR: Artist\\'s Chop Mark\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Immobile Sun XXI-B"

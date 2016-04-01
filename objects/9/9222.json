@@ -1,6 +1,7 @@
 {
   "accession_number": "83.169.4",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Dr. Robert J. Poor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2610,
   "image_width": 4243,
+  "inscription": "Signature; Inscription; Date",
   "life_date": "German, 1863 - 1945",
-  "marks": "Signature; Inscription; Date in pen and ink on sign: [H. Kley]",
+  "markings": "in ink, on sign top center: [Den Empfang / von 5000 MK/ für Zipperlin (?) in (illegible) bestätigt danken H. Kley]; translation: \\'The receipt of 5000 Marks is (?); with thanks H. Kley\\'; in ink, lower center: [München 27 Mai 23]",
   "medium": "Pen and brown ink",
   "nationality": "German",
   "provenance": "Robert J. Poor, Minneapolis; given to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pen and ink on sign: [H. Kley]",
   "style": "20th century",
   "text": "",
   "title": "Nude Man Making a Sign"

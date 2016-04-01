@@ -1,6 +1,7 @@
 {
   "accession_number": "78.73",
-  "artist": "William Merritt Chase",
+  "artist": "Artist: William Merritt Chase",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Emerson G. Wulling",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4310,
   "image_width": 3641,
+  "inscription": "Signature and Date",
   "life_date": "American, 1849 - 1916",
-  "marks": "Signature and Date UL (incised): [Will. M. Chase, Munchen, 1875]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UL (incised): [Will. M. Chase, Munchen, 1875]",
   "style": "19th century",
   "text": "",
   "title": "The Patrician"

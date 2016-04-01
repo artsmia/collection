@@ -1,6 +1,7 @@
 {
   "accession_number": "85.44",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "Gift of Conley Brooks, Edward Brooks Jr., Markell Brooks and Dwight F. Brooks",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4093,
   "image_width": 3140,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Icon; Christ Pantokrator"

@@ -1,6 +1,7 @@
 {
   "accession_number": "65.40",
-  "artist": "Charles LeBrun",
+  "artist": "Artist: Charles LeBrun",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Anonymous gift of funds",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5993,
   "image_width": 5087,
+  "inscription": "Signature",
   "life_date": "French, 1619-1690",
-  "marks": "Signature LR (on step): [CLBF]",
+  "markings": "seal/stamp on back: [11982]",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR (on step): [CLBF]",
   "style": "17th century",
   "text": "",
   "title": "The Holy Family in Egypt"

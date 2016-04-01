@@ -1,6 +1,7 @@
 {
   "accession_number": "91.148.6",
-  "artist": "Piet Mondrian",
+  "artist": "Painter: Piet Mondrian",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3190,
   "image_width": 4241,
-  "life_date": "Dutch, 1872 - 1944",
-  "marks": "Signature [Piet Mondriaan], LR",
+  "inscription": "Signature",
+  "life_date": "Dutch, 1872–1944",
+  "markings": "",
   "medium": "Watercolor and gouache",
   "nationality": "Dutch",
   "provenance": "The artist; Mrs. C. ten Sijthoff-Hannaert, Laren, The Netherlands; Mr. J.W. Nieuwenhuizen-Segaar, The Hague, 1966; Stephen Hahn Gallery, New York, 1967; Mr. and Mrs. Bruce B. Dayton, Wayzata, Minn. (by 1971-1991; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Piet Mondriaan], LR",
   "style": "20th century",
   "text": "",
   "title": "Drydock at Durgerdam"

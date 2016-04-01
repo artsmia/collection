@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.7",
-  "artist": "Harmony Hammond; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Harmony Hammond; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3843,
   "image_width": 2928,
+  "inscription": "Signed, dated, iniscribed, and chop mark.",
   "life_date": "American, born 1944",
-  "marks": "Signed, dated, iniscribed, and chop mark. LR: [Hammond 1985]\r\nLR: [A.P.]\r\n",
+  "markings": "LR: VEL chop mark",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Hammond 1985]\r\nLR: [A.P.]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Chicken Lady"

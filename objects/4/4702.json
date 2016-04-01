@@ -1,6 +1,7 @@
 {
   "accession_number": "94.36",
-  "artist": "Terez Mattyasovsky; Zsolnay Art Pottery; Sándor Hidasy Pilló",
+  "artist": "Artist: Terez Mattyasovsky; Manufacturer: Zsolnay Art Pottery; Designer: Sándor Hidasy Pilló",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "Gift of the Decorative Arts Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5065,
   "image_width": 3946,
+  "inscription": "Stamp",
   "life_date": "Hungarian",
-  "marks": "Stamp ",
+  "markings": "Wafer Stamp of \\'Five Churches\\'; \\'7898\\', below glaze",
   "medium": "Porcelain with lustre and other glazes",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vase"

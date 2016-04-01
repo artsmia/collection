@@ -1,6 +1,7 @@
 {
   "accession_number": "68.7",
-  "artist": "Jerome Myers",
+  "artist": "Artist: Jerome Myers",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift in memory of John G. Pierce",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2799,
   "image_width": 4173,
+  "inscription": "Signature; Mark",
   "life_date": "American, 1867 - 1940",
-  "marks": "Signature; Mark [Jerome Myers E. M. 401(Circled)] in graphite, rec",
+  "markings": "Watermark: [own Eros & Co./ New York]",
   "medium": "Charcoal on white wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Jerome Myers E. M. 401(Circled)] in graphite, recto",
   "style": "19th-20th century",
   "text": "",
   "title": "Central Park Bandstand"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.151",
-  "artist": "Priscilla Susan Bury",
+  "artist": "Artist: Priscilla Susan Bury",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4220,
   "image_width": 2914,
+  "inscription": "LL recto, in pencil: P660 | LR recto, in pencil: STxx | LL recto: Turbulls London Board | \r\nLR recto, in ink: (title, date)",
   "life_date": "British, 1799 - 1872",
-  "marks": "LL recto, in pencil: P660 | LR recto, in pencil: S LL recto: P.S. Bury December 1839",
+  "markings": "Watermark: J. Whatman 1837",
   "medium": "Watercolor",
   "nationality": "British",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL recto: P.S. Bury December 1839",
   "style": "19th century",
   "text": "",
   "title": "Musa sapienta (The Banana Moth, Pupa and Larva of Attacus wilsoni)"

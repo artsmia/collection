@@ -1,6 +1,7 @@
 {
   "accession_number": "96.133.4",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 2389,
   "image_width": 1867,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": "Signature; Inscription ",
+  "inscription": "Signature; Inscription",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "\\'GEORGE MORRISON/PARIS 1952\\', in black ink LR",
   "medium": "Pen and black ink, graphite, and watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Paris"

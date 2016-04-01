@@ -1,6 +1,7 @@
 {
   "accession_number": "79.14",
-  "artist": "John Frederick Herring, Sr.",
+  "artist": "Artist: John Frederick Herring, Sr.",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Dr. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3487,
   "image_width": 4513,
+  "inscription": "Signature and Date",
   "life_date": "British, 1795 - 1865",
-  "marks": "Signature and Date LL: [HERRING 1842]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [HERRING 1842]",
   "style": "19th century",
   "text": "",
   "title": "Horse"

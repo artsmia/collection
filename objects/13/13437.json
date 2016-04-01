@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.52.4.1",
-  "artist": "J. B. B. Wellington",
+  "artist": "Photographer: J. B. B. Wellington",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "England",
   "creditline": "The McClurg Photography Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2302,
   "image_width": 2946,
+  "inscription": "Signature",
   "life_date": "English, 1858-1939",
-  "marks": "Signature in pencil, LL corner below image: [JBB Wellington]",
+  "markings": "",
   "medium": "Photogravure",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LL corner below image: [JBB Wellington]",
   "style": "19th century",
   "text": "",
   "title": "Eventide"

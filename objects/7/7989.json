@@ -1,6 +1,7 @@
 {
   "accession_number": "82.121",
-  "artist": "Robert Koehler",
+  "artist": "Artist: Robert Koehler",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Manly and Katherine Jackson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5290,
   "image_width": 3093,
-  "life_date": "American, 1850 - 1917",
-  "marks": "Signature LR in red: [Robt. Koehler]",
+  "inscription": "Signature",
+  "life_date": "American, 1850–1917",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in red: [Robt. Koehler]",
   "style": "19th century",
   "text": "",
   "title": "The Bohemian Peasant Girl"

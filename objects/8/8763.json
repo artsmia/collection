@@ -1,6 +1,7 @@
 {
   "accession_number": "25.449",
-  "artist": "Leopold Survage",
+  "artist": "Artist: Leopold Survage",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 2229,
   "image_width": 4520,
+  "inscription": "Signature and Date and Title",
   "life_date": "French, 1879 - 1968",
-  "marks": "Signature and Date and Title LRC: [Survage/Albi 1924]",
+  "markings": "",
   "medium": "Tempera on wood panel",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [Survage/Albi 1924]",
   "style": "20th century",
   "text": "",
   "title": "Albi"

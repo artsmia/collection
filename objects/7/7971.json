@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.80",
-  "artist": "Suzuki Harunobu",
+  "artist": "Artist: Suzuki Harunobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2455,
   "image_width": 1827,
+  "inscription": "[わびぬれハ身をうき草野根をたへえてさそふ水あればいなんとそおもふ] {Wabinu re ba / mi wo ukikusa no / ne wo tae te / sasou mizu are ba / inan to zo omou} (When lonely / I\\'m like a reed / cut down at the root. / Should any current invite / I would go along.)",
   "life_date": "Japanese, 1725 - 1770",
-  "marks": "[わびぬれハ身をうき草野根をたへえてさそふ水あればいなんとそおもふ] {Wabinu re ba / [春信画] {Harunobu ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "O'Brien Sexton (until 1922); Mellor (until 1963)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[春信画] {Harunobu ga}",
   "style": "18th century",
   "text": "",
   "title": "Poem by Ono no Komachi"

@@ -1,6 +1,7 @@
 {
   "accession_number": "93.53",
-  "artist": "Jacob Jordaens",
+  "artist": "Artist: Jacob Jordaens",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Walter H. and Valborg P. Ude Memorial Fund and gift of the Paintings Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3131,
   "image_width": 5095,
+  "inscription": "",
   "life_date": "Flemish, 1593 - 1678",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Two Studies of the Head of an Old Man"

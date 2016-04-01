@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,965",
-  "artist": "Bartolomeo Biscaino",
+  "artist": "Artist: Bartolomeo Biscaino",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund, 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4008,
   "image_width": 3005,
+  "inscription": "Signature",
   "life_date": "Italian (Genoese), 1629-1657",
-  "marks": "Signature in plate, LL [BISCAINO F./1655]; LR [Daman. ex.]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate, LL [BISCAINO F./1655]; LR [Daman. ex.]",
   "style": "17th century",
   "text": "",
   "title": "The Nativity"

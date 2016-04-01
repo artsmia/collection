@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.300",
-  "artist": "Teisai Hokuba",
+  "artist": "Artist: Teisai Hokuba",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9833,
   "image_width": 3417,
+  "inscription": "Chines poem about Kengyu_ \r\nSeal: Iiarin(?), Nankyokuippitsu\r\n\r\nKyoka poem by Shokusanjin\r\n\r\nAmanogawa\r\n??\r\n???\r\n?? Orihime\r\n\r\n",
   "life_date": "Japanese, 1771 - 1844",
-  "marks": "Chines poem about Kengyu_ \r\nSeal: Iiarin(?), Nanky ",
+  "markings": "Seal: Teisai Hokuba",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Ox herder as Mitate of Kengyu_"

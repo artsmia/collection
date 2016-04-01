@@ -1,6 +1,7 @@
 {
   "accession_number": "92.85.11",
-  "artist": "Nicolas-André Monsiau",
+  "artist": "Artist: Nicolas-André Monsiau",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3948,
   "image_width": 3538,
+  "inscription": "Signature",
   "life_date": "French, 1754 - 1837",
-  "marks": "Signature [Monsiau del it], lower right",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Monsiau del it], lower right",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Houdon"

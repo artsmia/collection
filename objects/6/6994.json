@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.216",
-  "artist": "Württembergische Metallwaren Fabrik (a.k.a. WMF)",
+  "artist": "Manufacturer: Württembergische Metallwaren Fabrik (a.k.a. WMF)",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 826,
+  "inscription": "Mark",
   "life_date": "Geislingen, Germany, est. 1853",
-  "marks": "Mark ",
+  "markings": "[Wmf]",
   "medium": "Chromium-plated metal",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Bauhaus",
   "text": "",
   "title": "Vase"

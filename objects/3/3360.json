@@ -1,6 +1,7 @@
 {
   "accession_number": "85.7",
-  "artist": "Francesco Maestosi",
+  "artist": "Artist: Francesco Maestosi",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of funds from the Regis Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4417,
   "image_width": 6042,
+  "inscription": "",
   "life_date": "Italian, 1822 - 1883",
-  "marks": " LR, in dark brown: F Maestosi",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in dark brown: F Maestosi",
   "style": "19th century",
   "text": "The <I>Iliad Room</I> is in the Pitti Palace in Florence, Italy. The room is named after paintings on the ceiling and in the lunettes that depict scenes from Homer's epic, \"The Iliad\". The sculpture in the center of the room is by Lorenzo Bartolini (1777-1850) and represents <I>Charity</I>.",
   "title": "Sala dell'Iliade in the Pitti Palace, Florence"

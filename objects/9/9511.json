@@ -1,6 +1,7 @@
 {
   "accession_number": "77.15",
-  "artist": "attributed to Jakob Matthias Weyer",
+  "artist": "Artist: attributed to Jakob Matthias Weyer",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2876,
   "image_width": 3995,
+  "inscription": "Signature; Date",
   "life_date": "German, about 1620 - 1690",
-  "marks": "Signature; Date Signed with monogram",
+  "markings": "[Le 17 novembr 1649] in another hand, lower left corner",
   "medium": "Pen, ink and wash heightened with white on blue prepared-ground paper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed with monogram",
   "style": "17th century",
   "text": "",
   "title": "The Angel Appearing to the Shepherds"

@@ -1,6 +1,7 @@
 {
   "accession_number": "99.78",
-  "artist": "Caruelle d'Aligny",
+  "artist": "Artist: Caruelle d'Aligny",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3083,
   "image_width": 4556,
+  "inscription": "Signature",
   "life_date": "French, 1798 - 1871",
-  "marks": "Signature Signed with monogram, lower left",
+  "markings": "",
   "medium": "Pen and dark brown ink on buff laid paper",
   "nationality": null,
   "provenance": "James MacKinnon, London",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed with monogram, lower left",
   "style": "19th century",
   "text": "",
   "title": "View on the Island of Capri with Mount Vesuvius in the Distance"

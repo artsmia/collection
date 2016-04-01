@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.49",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2977,
   "image_width": 1431,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "\\\"Shino\\\" on the front of his kimono",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "\"Shinozuka Shigehiro, Govener of Iga Province\""

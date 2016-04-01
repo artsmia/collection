@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.76a,b",
-  "artist": "Meissen Porcelain Factory",
+  "artist": "Manufacturer: Meissen Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3036,
   "image_width": 2089,
+  "inscription": "",
   "life_date": "Meissen, Germany, est. 1710",
-  "marks": " ",
+  "markings": "",
   "medium": "Porcelain",
   "nationality": "",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G319",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Coffee pot"

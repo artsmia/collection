@@ -1,6 +1,7 @@
 {
   "accession_number": "14.23",
-  "artist": "D. Y. Cameron",
+  "artist": "Maker: D. Y. Cameron",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3363,
   "image_width": 4770,
+  "inscription": "Signature",
   "life_date": "Scottish, 1865 - 1945",
-  "marks": "Signature LL: [D.Y. Cameron]",
+  "markings": "",
   "medium": "Pen, ink and color washes",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [D.Y. Cameron]",
   "style": "19th century",
   "text": "",
   "title": "Mucherach Castle"

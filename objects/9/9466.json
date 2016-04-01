@@ -1,6 +1,7 @@
 {
   "accession_number": "61.12.7",
-  "artist": "Unknown , French",
+  "artist": "Artist: Unknown , French",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Dr. Paul Ganz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1352,
+  "inscription": "Inscriptions",
   "life_date": null,
-  "marks": "Inscriptions ",
+  "markings": "[K1358/dble/D.DEL MONDO], lower right corner, verso",
   "medium": "Pen and brown ink, with grey brown wash on recto",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Mary Magdalen Converting the People of Marseilles"

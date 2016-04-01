@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.19a,b",
-  "artist": "Sèvres Porcelain Factory",
+  "artist": "Maker: Sèvres Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Paris, 1756-present",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Paris, 1756–present",
+  "markings": "marks: blue - monogram of Louis Philippe \\'Sèvres 1845\\' red - \\'Chateau de Compiegne\\'",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Covered sugar bowl"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.31.2",
-  "artist": "Sam Gilliam; Published by Impressions Workshop, Inc. American (Boston)",
+  "artist": "Artist: Sam Gilliam; Publisher: Published by Impressions Workshop, Inc. American (Boston)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Terrence D. Curley",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Gilliam",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\nsee Signed\r\n\r\nincribed in graphite, lower left: [46/67]",
   "life_date": "American, born 1933",
-  "marks": "Signature; Date; Inscription\r\nsee Signed\r\n\r\nincrib In graphite, lower right: [Sam Gilliam \\'72]",
+  "markings": "",
   "medium": "Color lithograph and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, lower right: [Sam Gilliam \\'72]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

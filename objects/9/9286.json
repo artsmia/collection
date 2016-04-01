@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.42",
-  "artist": "Henry Gros",
+  "artist": "Artist: Henry Gros",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4345,
   "image_width": 3346,
+  "inscription": "Signature, Mark",
   "life_date": "French",
-  "marks": "Signature, Mark In LL, a larger [H] with a small [c] under the H c",
+  "markings": "Rendition of mark is written on card catalog",
   "medium": "Red crayon on brown paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LL, a larger [H] with a small [c] under the H crossbar",
   "style": "19th century",
   "text": "",
   "title": "Une grande mere"

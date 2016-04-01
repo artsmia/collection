@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,016",
-  "artist": "Charles Meryon",
+  "artist": "Artist: Charles Meryon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2152,
   "image_width": 4498,
+  "inscription": "",
   "life_date": "French, 1821 - 1868",
-  "marks": " thin laid \\\"chine\\\"",
+  "markings": "",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "thin laid \\\"chine\\\"",
   "style": "19th century",
   "text": "",
   "title": "The Exchange Bridge"

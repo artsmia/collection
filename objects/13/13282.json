@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.56.3",
-  "artist": "Julius Schnorr von Carolsfeld; George Wigand, Leipzig",
+  "artist": "Artist: Julius Schnorr von Carolsfeld; Publisher: George Wigand, Leipzig",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2886,
   "image_width": 3372,
+  "inscription": "Mark",
   "life_date": "German, 1794 - 1872",
-  "marks": "Mark ",
+  "markings": "Watermark: <WK[circled]> verso",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Joseph Being Sold by His Brothers into Slavery"

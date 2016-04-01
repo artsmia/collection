@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.202",
-  "artist": "Jasper Johns; Donn Steward , at ULAE; Published by Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Jasper Johns; Printer: Donn Steward , at ULAE; Publisher: Published by Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from Mr. and Mrs. Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 6020,
   "image_width": 4050,
+  "inscription": "Signature, Date, Edition, and Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [11/11]",
   "life_date": "American, born 1930",
-  "marks": "Signature, Date, Edition, and Mark\r\n\r\nsee Signed\r\n Signed and dated  in pencil, LR: [J. Johns \\'69]",
+  "markings": "Watermark: Angoumois",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "(Dayton's Gallery 12, Minneapolis); sold to MIA, 1969",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated  in pencil, LR: [J. Johns \\'69]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Ruler) I"

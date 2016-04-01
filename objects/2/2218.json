@@ -1,6 +1,7 @@
 {
   "accession_number": "75.49",
-  "artist": "Jean-Baptiste Millet",
+  "artist": "Artist: Jean-Baptiste Millet",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3245,
   "image_width": 4327,
+  "inscription": "Signature",
   "life_date": "French, 1831 - 1906",
-  "marks": "Signature [Millet/J-B.], in charcoal, lower right",
+  "markings": "",
   "medium": "Charcoal on cream paper",
   "nationality": "French",
   "provenance": "Robert Laurent. (Angus Whyte Gallery); sold to MIA, 1975.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Millet/J-B.], in charcoal, lower right",
   "style": "19th century",
   "text": "",
   "title": "Village Scene"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.18",
-  "artist": "Krassimira Drenska; Published by Krassimira Drenska",
+  "artist": "Artist: Krassimira Drenska; Publisher: Published by Krassimira Drenska",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Krassimira Drenska",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Swiss (b. Bulgaria), born 1947",
-  "marks": "Signature\r\nsee Signed in graphite, on colophon page: [K. Drenska]",
+  "markings": "",
   "medium": "Screenprints, letterpress",
   "nationality": "Swiss",
   "provenance": "Dadi Wirz",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, on colophon page: [K. Drenska]",
   "style": "20th century",
   "text": "",
   "title": "Emily Dickinson: Three Poems"

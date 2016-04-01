@@ -1,6 +1,7 @@
 {
   "accession_number": "94.92.1",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dolly Fiterman Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 1752,
   "image_width": 5314,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": "Signature and Date verso: [George Morrison - 1993]",
+  "inscription": "Signature and Date",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "",
   "medium": "Acrylic on canvas on board",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "verso: [George Morrison - 1993]",
   "style": "20th century",
   "text": "",
   "title": "Openings, Red Rock Variation: Lake Superior Landscape"

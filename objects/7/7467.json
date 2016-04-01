@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.218",
-  "artist": "Master of the Die; After Raphael Sanzio",
+  "artist": "Artist: Master of the Die; Artist: After Raphael Sanzio",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, active c.1530 –1550",
-  "marks": "Signature artist\\'s cipher at LR corner",
+  "markings": "Watermark: star above circle with anchor inside, not in Briquet",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Knoedler & Co., 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s cipher at LR corner",
   "style": "16th century",
   "text": "",
   "title": "The Assumption of the Virgin"

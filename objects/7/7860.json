@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.21.22",
-  "artist": "Paul Signac",
+  "artist": "Artist: Paul Signac",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Kenneth and Lillian Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Watermark",
   "life_date": "French, 1863 - 1935",
-  "marks": "Watermark ",
+  "markings": "watermark",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Flooded Seine in 1910"

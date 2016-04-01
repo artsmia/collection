@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.83",
-  "artist": "Oliver Baker; Liberty &amp; Company",
+  "artist": "Artist: Oliver Baker; Retailer: Liberty &amp; Company",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6483,
   "image_width": 2435,
+  "inscription": "Marks",
   "life_date": "English, 1859-1938",
-  "marks": "Marks ",
+  "markings": "Anchor, lion, [L & CO, d] and [Cymric]",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "",
   "title": "Spoon"

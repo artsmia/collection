@@ -1,6 +1,7 @@
 {
   "accession_number": "78.25",
-  "artist": "Raymond Auguste Quinsac Monvoisin",
+  "artist": "Artist: Raymond Auguste Quinsac Monvoisin",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Andrew A. Lynn",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5447,
   "image_width": 4684,
+  "inscription": "",
   "life_date": "French, 1794 - 1870",
-  "marks": " Signed in an arc on the moss-covered rock by the l",
+  "markings": "Verso, stamped with seal: L-P",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in an arc on the moss-covered rock by the left foot of Mentor: MONVOLSIN ROME (The N\\'s being reversed) | (Dated on the reverse)",
   "style": "19th century",
   "text": "",
   "title": "Telemachus and Eucharis"

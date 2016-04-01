@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.319",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5000,
   "image_width": 3874,
+  "inscription": "",
   "life_date": "American, 1834 - 1903",
-  "marks": " Printed signature LL (diagonally) in the plate: [W",
+  "markings": "Watermark: [coat of Arms with two lions]",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LL (diagonally) in the plate: [Whistler 1860]",
   "style": "19th century",
   "text": "",
   "title": "Annie Haden"

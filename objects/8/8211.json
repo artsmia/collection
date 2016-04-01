@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.152",
-  "artist": "Kitagawa Utamaro; Published by Matsumura Tatsuemon",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Matsumura Tatsuemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5157,
   "image_width": 3513,
+  "inscription": "kyo_ka poem on the fan:\r\n\r\nOnce the seeds of love\r\nare sown \r\nin the flooded paddy, \r\nlet our union\r\nwatertight\r\n(Koi no tane \r\nMaki some shi yori\r\nNaeshiro no\r\nMizu mo mora sa nu\r\nNaka to koso nare)\r\nby Kino Masanari\r\n",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": "kyo_ka poem on the fan:\r\n\r\nOnce the seeds of love\r sho_mei (artist\\'s proof) Utamaro hitsu",
+  "markings": "\\\"honke\\\"(original) seal\r\nPublisher:Matsumura",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "sho_mei (artist\\'s proof) Utamaro hitsu",
   "style": "18th century",
   "text": "",
   "title": "\"Love for a Farmer's Wife\""

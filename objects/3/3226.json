@@ -1,6 +1,7 @@
 {
   "accession_number": "83.98",
-  "artist": "Gail Kendall",
+  "artist": "Sculptor: Gail Kendall",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of a friend of The Minneapolis Institute of Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© Gail Kendall",
   "image_height": 5445,
   "image_width": 3586,
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature on base: [KENDALL]",
+  "markings": "",
   "medium": "Glazed earthenware",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on base: [KENDALL]",
   "style": "20th century",
   "text": "",
   "title": "Gaudy Vase"

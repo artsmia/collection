@@ -1,6 +1,7 @@
 {
   "accession_number": "13.80",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Florence M. Shirlaw",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1615,
   "image_width": 2560,
+  "inscription": "Signature",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature [Ox team. W. Shirlaw]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Ox team. W. Shirlaw]",
   "style": "19th century",
   "text": "",
   "title": "Sketch made on Indian Reservation, Montana"

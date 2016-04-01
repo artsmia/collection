@@ -1,6 +1,7 @@
 {
   "accession_number": "69.93",
-  "artist": "Pieter van Bloemen; Formerly attributed to G. Vanvitelli",
+  "artist": "Artist: Pieter van Bloemen; Artist: Formerly attributed to G. Vanvitelli",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5010,
   "image_width": 5762,
+  "inscription": "",
   "life_date": "Flemish, 1657 - 1720",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Coach and Travelers at Madonna del Riposo Near Rome"

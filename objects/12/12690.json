@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.133.1",
-  "artist": "Gendron Jensen",
+  "artist": "Artist: Gendron Jensen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Date; Title; Date\r\n\r\nsee Signed\r\n\r\nin black ink, LL: [cartoon for Insculpta est!, drawing June 29, 1998]",
   "life_date": "American, born 1939",
-  "marks": "Signature; Date; Title; Date\r\n\r\nsee Signed\r\n\r\nin b in black ink, LR: [GJ:98]",
+  "markings": "",
   "medium": "India ink over graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink, LR: [GJ:98]",
   "style": "20th century",
   "text": "",
   "title": "Cartoon for 'Insculpta est!'"

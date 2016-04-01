@@ -1,6 +1,7 @@
 {
   "accession_number": "14.82",
-  "artist": "Utagawa Toyokuni",
+  "artist": "Artist: Utagawa Toyokuni",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of John Scott Bradstreet",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2747,
   "image_width": 991,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " {Toyokuni ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Toyokuni ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "(Woman Disguised as a Mendicant Priest)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.12.1a",
-  "artist": "Eric Fischl; Frederic Tuten",
+  "artist": "Artist: Eric Fischl; Author: Frederic Tuten",
+  "classification": "Books",
   "continent": null,
   "country": null,
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, born 1948",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching and color aquatint; letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Page from Vincent, A Delirium"

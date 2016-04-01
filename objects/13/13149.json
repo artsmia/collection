@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.238.3",
-  "artist": "Georges Rouault",
+  "artist": "Maker: Georges Rouault",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Richard Lewis Hillstrom in honor of Roland Amundson and Mark LeTourneau",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1871 - 1958",
-  "marks": "Numbered Signed",
+  "inscription": "Numbered",
+  "life_date": "French, 1871–1958",
+  "markings": "",
   "medium": "Crayon lithograph and wash",
   "nationality": "French",
   "provenance": "[Allan Frumkin Gallery, Chciago, until 1959 (sold to Hillstrom)]; Rev. Richard Lewis Hillstrom, Edina, Minn., 1959-2000; gave to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed",
   "style": "20th century",
   "text": "",
   "title": "Self Portrait III"

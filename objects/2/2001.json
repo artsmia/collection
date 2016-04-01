@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.180",
-  "artist": "Utagawa Toyokuni",
+  "artist": "Artist: Utagawa Toyokuni",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1245,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "unidentified publishers seal(Hillier catalog indicates that it is Enshu_ya Matabe_, but that could be incorrest; the active period of the publisher does not match very well)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "18th century",
   "text": "",
   "title": "(Sawamura SōjūrōIII as Uma no Samurai)"

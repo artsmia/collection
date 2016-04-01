@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,959",
-  "artist": "Enea Vico",
+  "artist": "Artist: Enea Vico",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1523 - 1567",
-  "marks": "Signature In plate",
+  "markings": "Watermark: <H> in a circle\r\nCollector\\'s Marks: red stamp verso Albertina Dupl. (L.5 g)",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Red stamp verso, Albertina Dupl. (L.5 g).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "16th century",
   "text": "",
   "title": "Battle of the Amazons"

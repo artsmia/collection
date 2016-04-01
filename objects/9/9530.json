@@ -1,6 +1,7 @@
 {
   "accession_number": "25.48",
-  "artist": "Wilhelm Wagner",
+  "artist": "Artist: Wilhelm Wagner",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3919,
   "image_width": 3534,
+  "inscription": "Signature; Date",
   "life_date": "German, 1887",
-  "marks": "Signature; Date [W. Wagner 1922] lower left corner, recto",
+  "markings": "",
   "medium": "India ink wash on white paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W. Wagner 1922] lower left corner, recto",
   "style": "20th century",
   "text": "",
   "title": "Head of a Girl"

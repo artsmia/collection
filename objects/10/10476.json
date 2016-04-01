@@ -1,6 +1,7 @@
 {
   "accession_number": "24.41",
-  "artist": "Louis-Adolphe Hervier",
+  "artist": "Painter: Louis-Adolphe Hervier",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4165,
   "image_width": 3292,
+  "inscription": "Signature, Date, Title",
   "life_date": "French, 1818 - 1879",
-  "marks": "Signature, Date, Title [Hervier 1848], lower left;",
+  "markings": "[Caen, Cour St. Murien], lower left corner; [Croquis No.47], upper right corner; [Voyage avec le Capitaine/14 Sept 1848], lower right corner",
   "medium": "Ink and wash on white paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Hervier 1848], lower left;",
   "style": "19th century",
   "text": "",
   "title": "Caen, Courtyard of St. Murien"

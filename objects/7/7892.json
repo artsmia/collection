@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.15",
-  "artist": "Laurent Scholynk",
+  "artist": "Artist: Laurent Scholynk",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Thomas and Marsha French",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Title; Signature",
   "life_date": "French, born 1953",
-  "marks": "Inscription; Title; Signature in graphite along lower edge: [40/130 / le telepho",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite along lower edge: [40/130 / le telephone / Schkolynk]",
   "style": "20th century",
   "text": "",
   "title": "Le Telephone"

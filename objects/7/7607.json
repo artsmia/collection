@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.3",
-  "artist": "Henri de Toulouse-Lautrec",
+  "artist": "Artist: Henri de Toulouse-Lautrec",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4222,
   "image_width": 3012,
+  "inscription": "Signature",
   "life_date": "French, 1864 - 1901",
-  "marks": "Signature signed on plate upper left",
+  "markings": "",
   "medium": "Lithograph colored with stencils",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on plate upper left",
   "style": "19th century",
   "text": "",
   "title": "Yvette Guilbert, in \"Columbine a Pierrot\""

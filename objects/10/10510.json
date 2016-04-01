@@ -1,6 +1,7 @@
 {
   "accession_number": "78.75.1",
-  "artist": "Robert Vonnoh",
+  "artist": "Artist: Robert Vonnoh",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Atherton Bean",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3164,
   "image_width": 3733,
+  "inscription": "Signature and Date",
   "life_date": "American, 1858 - 1933",
-  "marks": "Signature and Date LR: [Vonnoh 1903]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Vonnoh 1903]",
   "style": "20th century",
   "text": "",
   "title": "Apple Bloom"

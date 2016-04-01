@@ -1,6 +1,7 @@
 {
   "accession_number": "65.21",
-  "artist": "Tom Attridge",
+  "artist": "Artist: Tom Attridge",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of The Ford Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Tom Attridge",
   "image_height": 5096,
   "image_width": 3943,
+  "inscription": "",
   "life_date": "American, born 1939",
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic, wooden base",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Ah! Mingus"

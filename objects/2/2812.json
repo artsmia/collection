@@ -1,6 +1,7 @@
 {
   "accession_number": "81.113.1.1",
-  "artist": "Hasegawa Totetsu",
+  "artist": "Artist: Hasegawa Totetsu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Japanese",
-  "marks": " {Hasegawa Totetsu hitsu}",
+  "markings": "{Totetsu}",
   "medium": "Six-panel folding screen; ink and color on gold leaf on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hasegawa Totetsu hitsu}",
   "style": "17th century",
   "text": "",
   "title": "Winter, from Plum Trees in Autumn and Winter"

@@ -1,6 +1,7 @@
 {
   "accession_number": "99.42",
-  "artist": "Pierre-Félix Wiesener",
+  "artist": "Artist: Pierre-Félix Wiesener",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3133,
   "image_width": 4436,
+  "inscription": "Signature",
   "life_date": "active 1840s-early 1850s",
-  "marks": "Signature [F. Wiesener inv. & del.], LR",
+  "markings": "",
   "medium": "Black ink and chalk and estompe heightened with white on blue-green wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[F. Wiesener inv. & del.], LR",
   "style": "19th century",
   "text": "",
   "title": "The Ride of a Warrior Ghost"

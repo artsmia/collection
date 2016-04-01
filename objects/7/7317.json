@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,002a,b",
-  "artist": "The School of the Master of Mary of Burgundy",
+  "artist": "Artist: The School of the Master of Mary of Burgundy",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French or Flemish",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink, gouache and gold on vellum",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Leaf from a Book of Hours (recto and verso)"

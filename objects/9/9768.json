@@ -1,6 +1,7 @@
 {
   "accession_number": "93.58",
-  "artist": "Paul Signac",
+  "artist": "Artist: Paul Signac",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Kenneth S. Carpenter",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3026,
   "image_width": 4105,
+  "inscription": "Signature",
   "life_date": "French, 1863 - 1935",
-  "marks": "Signature [Paul Signac], in black chalk, lower right",
+  "markings": "",
   "medium": "Watercolor and black chalk",
   "nationality": "French",
   "provenance": "Estate of Dr. James Klein, Zurich, Switzerland\r\n(Gallery Actarus, Zurich, 1949)\r\n(Maxwell Galleries, San Francisco)\r\nKenneth S. Carpenter, Washington, D.C.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Paul Signac], in black chalk, lower right",
   "style": "19th century",
   "text": "",
   "title": "Au Bord de la Rivière (On The Bank of the River)"

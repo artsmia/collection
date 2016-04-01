@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.160",
-  "artist": "Kitagawa Utamaro",
+  "artist": "Artist: Kitagawa Utamaro",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8362,
   "image_width": 3255,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "Seal: Utamaro",
   "medium": "Ink, color, and gofun on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Standing Courtesan and Kamuro"

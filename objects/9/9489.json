@@ -1,6 +1,7 @@
 {
   "accession_number": "62.33",
-  "artist": "Johann Heinrich Roos",
+  "artist": "Artist: Johann Heinrich Roos",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4076,
   "image_width": 2961,
-  "life_date": "German, 1631 - 1685",
-  "marks": "Signature; Mark [J.H. Roos], in pencil, lower right corner",
+  "inscription": "Signature; Mark",
+  "life_date": "German, 1631–1685",
+  "markings": "Watermark: fragment Fleur-de-lis",
   "medium": "India ink over graphite with grey washes",
   "nationality": "German",
   "provenance": "(Minneapolis, AMC ')",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J.H. Roos], in pencil, lower right corner",
   "style": "17th century",
   "text": "",
   "title": "Roman Arch"

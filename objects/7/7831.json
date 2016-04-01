@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.6",
-  "artist": "Adja Yunkers",
+  "artist": "Artist: Adja Yunkers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3884,
   "image_width": 2998,
+  "inscription": "Signed, Dated, Numbered, Titled, Chop Mark",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signed, Dated, Numbered, Titled, Chop Mark LR: [Adja Yunkers / - 83]\r\nLC: [19/23]\r\nLL: [ICON]",
+  "markings": "Artist\\'s Chop Mark, VEL Chop Mark",
   "medium": "Color lithograph, soft-ground etching, aquatint, etching, and embossing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Adja Yunkers / - 83]\r\nLC: [19/23]\r\nLL: [ICON]\r\nLR: Artist\\'s Chop Mark\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Icon III"

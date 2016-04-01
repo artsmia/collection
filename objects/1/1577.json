@@ -1,6 +1,7 @@
 {
   "accession_number": "65.18.3",
-  "artist": "Henri-Joseph Harpignies",
+  "artist": "Artist: Henri-Joseph Harpignies",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3853,
   "image_width": 6387,
+  "inscription": "",
   "life_date": "French, 1819 - 1916",
-  "marks": " LL: H. Harpignies 95",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: H. Harpignies 95",
   "style": "19th century",
   "text": "",
   "title": "View of a Stream"

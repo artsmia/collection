@@ -1,6 +1,7 @@
 {
   "accession_number": "92.31.1a,b",
-  "artist": "Andrew Padilla",
+  "artist": "Artist: Andrew Padilla",
+  "classification": "Ceramics",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4189,
   "image_width": 3320,
+  "inscription": "",
   "life_date": "born 1956",
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic, pigment",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Melon Jar with Kiva Step Lid"

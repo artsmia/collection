@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.132",
-  "artist": "Katsukawa Shunchō; Published by Chichibuya Shōzaemon",
+  "artist": "Artist: Katsukawa Shunchō; Publisher: Published by Chichibuya Shōzaemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3002,
   "image_width": 554,
+  "inscription": "",
   "life_date": "Japanese, fl.c.1780 - 1795",
-  "marks": " {Shunchō ga}",
+  "markings": "Publisher\\'s seal: {Chichibuya}; artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunchō ga}",
   "style": "18th century",
   "text": "",
   "title": "Courtesan Hanaōgi Cooling Herself"

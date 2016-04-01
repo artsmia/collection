@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.1.10",
-  "artist": "Skip Steinworth",
+  "artist": "Artist: Skip Steinworth",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Arts Accession Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3272,
   "image_width": 3608,
+  "inscription": "Signed, Dated, Inscribed, and Chop Mark",
   "life_date": "American, born 1950",
-  "marks": "Signed, Dated, Inscribed, and Chop Mark LR: [S. Steinworth \\'92]\r\nLC: [Archive Proof] \r\nLL:",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [S. Steinworth \\'92]\r\nLC: [Archive Proof] \r\nLL: VEL Chop Mark\r\n",
   "style": "20th century",
   "text": "",
   "title": "Still Life with Pears"

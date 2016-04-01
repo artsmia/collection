@@ -1,6 +1,7 @@
 {
   "accession_number": "81.2.12",
-  "artist": "Kitagawa Utamaro",
+  "artist": "Artist: Kitagawa Utamaro",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Waka poem signed \\\"Masumi\\\"\r\n\r\nIkabakari\r\nhana wo ????\r\nyononaka no\r\nhito no kokoro wo\r\n??????\r\n\r\nMasumi",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": "Waka poem signed \\\"Masumi\\\"\r\n\r\nIkabakari\r\nhana wo ?? ",
+  "markings": "Seal:Utamaro",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Standing Courtesan"

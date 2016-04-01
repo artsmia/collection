@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.23",
-  "artist": "Hollis Sigler",
+  "artist": "Artist: Hollis Sigler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1982 Hollis Sigler",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signed, Dated, Numbered, Printed Inscription, and Chop Mark",
   "life_date": "American, 1948 - 2001",
-  "marks": "Signed, Dated, Numbered, Printed Inscription, and  LR: [Hollis Sigler 1982]\r\nLR: [ap 1/7]\r\nUC: [There",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph and rubber stamp with color-printed mat and hand-painted frame",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Hollis Sigler 1982]\r\nLR: [ap 1/7]\r\nUC: [There Is A Doubt, She Could Be Right]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "There Is a Doubt, She Could Be Right"

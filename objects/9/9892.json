@@ -1,6 +1,7 @@
 {
   "accession_number": "98.147",
-  "artist": "Norman Rockwell",
+  "artist": "Artist: Norman Rockwell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Virginia J. Wimmer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4386,
   "image_width": 3941,
+  "inscription": "Signature; Inscription\r\n\r\nLR: [Merry Christmas and Happy New Year to Bud Wimmer from his friend Norman Rockwell] UC:[ Winter]; LC: [1958] in cartouche; sheets squared for transfer",
   "life_date": "American, 1894 - 1978",
-  "marks": "Signature; Inscription\r\n\r\nLR: [Merry Christmas and LR in graphite: [NORMAN ROCKWEL ] as part of inscr",
+  "markings": "",
   "medium": "Charcoal on paper\r\n",
   "nationality": null,
   "provenance": "The artist; given to Bud Wimmer, Minnesota; passed to Virginia J. Wimmer, until d. 1995; Estate of Virginia J. Wimmer, until 1998; bequethed to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in graphite: [NORMAN ROCKWEL ] as part of inscription",
   "style": "20th century",
   "text": "",
   "title": "Boy and Dog: For Sale"

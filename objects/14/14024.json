@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.51",
-  "artist": "Henri Vergé-Serrat",
+  "artist": "Maker: Henri Vergé-Serrat",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "French, 1880 - 1960",
-  "marks": "Signature; Date [Verge Sarrat 23], lower right corner",
+  "markings": "",
   "medium": "Watercolor and black ink",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Verge Sarrat 23], lower right corner",
   "style": "20th century",
   "text": "",
   "title": "La Point de l'Ile de Beaute (Nogent sur Marne)"

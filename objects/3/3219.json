@@ -1,6 +1,7 @@
 {
   "accession_number": "83.82",
-  "artist": "Ernst Barlach",
+  "artist": "Artist: Ernst Barlach",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Anonymous gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1870 - 1938",
-  "marks": "Signature on base below rear legs of lion: [E Barlach]",
+  "inscription": "Signature",
+  "life_date": "German, 1870–1938",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on base below rear legs of lion: [E Barlach]",
   "style": "20th century",
   "text": "",
   "title": "The Fighter of the Spirit"

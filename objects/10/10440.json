@@ -1,6 +1,7 @@
 {
   "accession_number": "74.73",
-  "artist": "Ad Reinhardt",
+  "artist": "Artist: Ad Reinhardt",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate of Ad Reinhardt %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3678,
   "image_width": 3631,
+  "inscription": "",
   "life_date": "American, 1913 - 1967",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Abstract Painting No. 9"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.25",
-  "artist": "Robert Moskowitz; Published by Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "artist": "Artist: Robert Moskowitz; Publisher: Published by Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3641,
   "image_width": 3022,
+  "inscription": "Signed, Dated, Numbered, and Stamped",
   "life_date": "American, born 1935",
-  "marks": "Signed, Dated, Numbered, and Stamped LR: [RM 85-86]\r\nLR: [AP 6/12]\r\nVERSO: [PRINTED AT ",
+  "markings": "",
   "medium": "Color lithograph and screenprint\r\n",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [RM 85-86]\r\nLR: [AP 6/12]\r\nVERSO: [PRINTED AT VERMILLION EDITIONS LTD.]",
   "style": "20th century",
   "text": "",
   "title": "Cadillac Chopsticks"

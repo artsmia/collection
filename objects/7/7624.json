@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.15",
-  "artist": "Joseph Breidel",
+  "artist": "Artist: Joseph Breidel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2602,
   "image_width": 3535,
+  "inscription": "Signed, dated, and inscribed.",
   "life_date": "American, born 1945",
-  "marks": "Signed, dated, and inscribed. Verso in black ink: [Joe Breidel April 1979]\r\nVers",
+  "markings": "",
   "medium": "Photolithograph in blue ink, with graphite and collage on two sheets of Rives BFK paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Verso in black ink: [Joe Breidel April 1979]\r\nVerso in black ink: [from the series: letters from the sea, unfolded]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Letters from the Sea, Unfolded"

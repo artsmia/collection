@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.12.8",
-  "artist": "Sarah J. Eddy, 1851-1945",
+  "artist": "Photographer: Sarah J. Eddy, 1851-1945",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "The McClurg Photography Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3853,
   "image_width": 3022,
+  "inscription": "Title; Inscription",
   "life_date": "American",
-  "marks": "Title; Inscription ",
+  "markings": "\\'When I was a boy.\\' copyrighted S.J. Eddy\\', in pencil, below image on mount; \\'P.1737v\\', in pencil, UR corner of mount, recto",
   "medium": "platinum print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "When I Was a Boy"

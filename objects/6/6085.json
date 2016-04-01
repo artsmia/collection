@@ -1,6 +1,7 @@
 {
   "accession_number": "B.86.1a-d",
-  "artist": "Pablo Picasso; Poems by Aimé Césaire; Published by Éditions Fragrance , Paris; Printed by Pierre Bouchet, Paris, France (text and typography); Printed by Atelier Roger Lacourière, Paris, France (prints)",
+  "artist": "Artist: Pablo Picasso; Author: Poems by Aimé Césaire; Publisher: Published by Éditions Fragrance , Paris; Printer: Printed by Pierre Bouchet, Paris, France (text and typography); Printer: Printed by Atelier Roger Lacourière, Paris, France (prints)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4821,
   "image_width": 3535,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "Watermark: <Corps perdu>",
   "medium": "Engravings, etchings, etching with drypoint, aquatints, letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Corps Perdu (Lost Body)"

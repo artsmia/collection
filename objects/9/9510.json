@@ -1,6 +1,7 @@
 {
   "accession_number": "25.46",
-  "artist": "Peter Trumm",
+  "artist": "Artist: Peter Trumm",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3962,
   "image_width": 3414,
+  "inscription": "",
   "life_date": "German, 1888",
-  "marks": " LR corner, recto: Trumm 23",
+  "markings": "",
   "medium": "Graphite on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR corner, recto: Trumm 23",
   "style": "20th century",
   "text": "",
   "title": "Zeus and Ganymede"

@@ -1,6 +1,7 @@
 {
   "accession_number": "77.17",
-  "artist": "Jervis McEntee",
+  "artist": "Artist: Jervis McEntee",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1266,
+  "inscription": "Inscription; Date; Stamp\r\n\r\nlower left, recto: [Oct/1869]; in graphite, at top, verso: [ADG2179 PPP]; stamp of Hirschl and Adler Galleries, in ink, lower left, verso",
   "life_date": "American, 1829 - 1891",
-  "marks": "Inscription; Date; Stamp\r\n\r\nlower left, recto: [Oc ",
+  "markings": "",
   "medium": "Graphite and Chinese white on blue-gray wove paper",
   "nationality": "American",
   "provenance": "Lockwood deForest Collection\r\n\r\n",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tree Study"

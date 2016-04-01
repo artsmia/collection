@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.39",
-  "artist": "Jacques Beurdeley",
+  "artist": "Artist: Jacques Beurdeley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3118,
   "image_width": 4080,
+  "inscription": "Signature; Title",
   "life_date": "French, 1874 - 1934",
-  "marks": "Signature; Title [J Beurdeley], lower right",
+  "markings": "[Nemours], lower left",
   "medium": "Pen and ink wash",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J Beurdeley], lower right",
   "style": "19th-20th century",
   "text": "",
   "title": "Nemours (S. et Mrne); Along the Canal, Nemours"

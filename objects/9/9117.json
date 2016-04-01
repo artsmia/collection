@@ -1,6 +1,7 @@
 {
   "accession_number": "14.17",
-  "artist": "Sir William Rothenstein",
+  "artist": "Artist: Sir William Rothenstein",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4464,
   "image_width": 2621,
+  "inscription": "Signature; Date",
   "life_date": "English, 1872 - 1945",
-  "marks": "Signature; Date [W. Rothenstein 1912], LR corner",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W. Rothenstein 1912], LR corner",
   "style": "20th century",
   "text": "",
   "title": "Old Rabbi"

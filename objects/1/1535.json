@@ -1,6 +1,7 @@
 {
   "accession_number": "63.60.2",
-  "artist": "Edouard Vuillard",
+  "artist": "Artist: Edouard Vuillard",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1868 - 1940",
-  "marks": "Signature [E. Vuillard], lower right",
+  "markings": "",
   "medium": "Pastel on paper",
   "nationality": "French",
   "provenance": "[Cadby Birch Gallery, New York, in 1952]. David Daniels, New York (until 1963; gave to the MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[E. Vuillard], lower right",
   "style": "19th-20th century",
   "text": "",
   "title": "View Through Window"

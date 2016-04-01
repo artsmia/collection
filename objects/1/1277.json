@@ -1,6 +1,7 @@
 {
   "accession_number": "55.41",
-  "artist": "André Derain",
+  "artist": "Artist: André Derain",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 4570,
   "image_width": 3558,
+  "inscription": "Signature",
   "life_date": "French, 1880 - 1954",
-  "marks": "Signature LR in red: [derain]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G367",
+  "signed": "LR in red: [derain]",
   "style": "20th century",
   "text": "Derain's dissatisfaction with the aesthetics of contemporary art once provoked the artist to exclaim that he did not want to be \"of his time\" but, rather, \"of all time.\" Thus, while his paintings are always modern, the influence of the Old Masters is equally apparent. The darkness and severity of the present work, while recalling links to the contemporary work of Picasso, also reflect Derain's interest in Spanish painting of the Renaissance.",
   "title": "Portrait of the Artist"

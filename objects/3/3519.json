@@ -1,6 +1,7 @@
 {
   "accession_number": "86.59",
-  "artist": "John Newman",
+  "artist": "Artist: John Newman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 4776,
   "image_width": 2835,
+  "inscription": "",
   "life_date": "American, born 1952",
-  "marks": " ",
+  "markings": "",
   "medium": "Colored chalk, oil crayon and graphite",
   "nationality": "American",
   "provenance": "[Jeffrey Hoffeld; sold to MIA, 1986]",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Study for a sculpture)"

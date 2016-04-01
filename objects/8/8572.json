@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.199",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4300,
   "image_width": 5936,
+  "inscription": "Signature",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Signature Hokusai Iitsu hitsu",
+  "markings": "Seal: Fumotonosato",
   "medium": "Ink, color, and gofun on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hokusai Iitsu hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Fisherman Carrying His Net in the Snow"

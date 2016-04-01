@@ -1,6 +1,7 @@
 {
   "accession_number": "23.8.39",
   "artist": "",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2553,
   "image_width": 2450,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "\\'Z\\'",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G324",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Tea caddy"

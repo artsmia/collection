@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,570",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3314,
   "image_width": 4758,
+  "inscription": "LL verso, in pencil: [Putney Bridge. W145]\r\n\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [Putney Bridge. W145]\r\n\r\n LC, in the plate: [(butterfly symbol)]",
+  "markings": "LL recto just below platemark: [(unidentified blind stamp)]\r\nCenter verso in pencil: [(partial butterfly symbol)] ?\r\nWatermark: [BAUW]",
   "medium": "Etching and drypoint in black and brown ink",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, Ore), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; given to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC, in the plate: [(butterfly symbol)]",
   "style": "19th century",
   "text": "To recoup a series of financial losses in the late 1870s, James McNeill Whistler returned to a subject that had served him well in the past: scenes along the River Thames. He chose London's most picturesque bridges to appeal to the same audience who had loved his Thames Set. Old Putney Bridge was taken down in 1880, so choosing to immortalize this bridge had special significance. While these images proved popular, Whistler nevertheless needed to declare bankruptcy later in the year.",
   "title": "Old Putney Bridge"

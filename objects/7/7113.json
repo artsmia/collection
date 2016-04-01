@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.97a-c",
-  "artist": "Bruno Paul; Werkstätten für Kunst stet Handwerk",
+  "artist": "Designer: Bruno Paul; Manufacturer: Werkstätten für Kunst stet Handwerk",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1920,
   "image_width": 2020,
-  "life_date": "German, 1874-1968",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1874–1968",
+  "markings": "",
   "medium": "Brass",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G379",
+  "signed": "",
   "style": "Bauhaus",
   "text": "",
   "title": "Samovar"

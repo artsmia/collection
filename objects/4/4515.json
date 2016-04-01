@@ -1,6 +1,7 @@
 {
   "accession_number": "92.91",
-  "artist": "Max Laeuger; Tonwerke",
+  "artist": "Artist: Max Laeuger; Manufacturer: Tonwerke",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Sandra K. and Peter M. Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3596,
   "image_width": 2000,
-  "life_date": "German, 1864 - 1952",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1864–1952",
+  "markings": "",
   "medium": "Glazed earthenware with slip decoration",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Vase"

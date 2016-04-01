@@ -1,6 +1,7 @@
 {
   "accession_number": "83.163",
-  "artist": "John Randolph Carter",
+  "artist": "Artist: John Randolph Carter",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Joel S. Wachs",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Randolph Carter",
   "image_height": 3401,
   "image_width": 4227,
+  "inscription": "Signature; Inscription\r\n\r\non verso in blue ink: [Lent by Joel Wachs 11-24-77 Thursday cool hand luke] (In green ink) [finished 11-27-77 Day of the Condor 1/1]",
   "life_date": "American, born 1941",
-  "marks": "Signature; Inscription\r\n\r\non verso in blue ink: [L black ink, verso: [John Randolph Carter]",
+  "markings": "",
   "medium": "Watercolor and felt-tip pen",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "black ink, verso: [John Randolph Carter]",
   "style": "20th century",
   "text": "",
   "title": "Floating Forms"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.61.1",
-  "artist": "Sir Thomas Lawrence",
+  "artist": "Artist: Sir Thomas Lawrence",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. G. Nelson Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5440,
   "image_width": 4176,
+  "inscription": "",
   "life_date": "British, 1769 - 1830",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Frederick John Robinson, First Earl of Ripon"

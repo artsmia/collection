@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,905",
-  "artist": "Follower of Giulio Romano",
+  "artist": "Artist: Follower of Giulio Romano",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature, Mark",
   "life_date": "Italian, ?1499 - 1546",
-  "marks": "Signature, Mark Inscribed in pen and ink UR [Jiullio Romano]",
+  "markings": "Collector\\'s mark [Lugt 1507] on verso, LL",
   "medium": "Brown ink and wash on tan laid drawing paper mounted on ivory wove paper",
   "nationality": "Italian",
   "provenance": "J.P. Heseltine (1843-1929); collector's mark (Lugt 1507) on verso, LL.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Inscribed in pen and ink UR [Jiullio Romano]",
   "style": "16th century",
   "text": "",
   "title": "The Birth of Memnon"

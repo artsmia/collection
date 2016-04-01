@@ -1,6 +1,7 @@
 {
   "accession_number": "59.23",
-  "artist": "Hans Platschek",
+  "artist": "Artist: Hans Platschek",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mr. and Mrs. Ricahrd P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "©2002 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4195,
   "image_width": 3272,
+  "inscription": "Signature",
   "life_date": "German, born 1923",
-  "marks": "Signature UR: [Platschek]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [Platschek]",
   "style": "20th century",
   "text": "",
   "title": "Calamar VI"

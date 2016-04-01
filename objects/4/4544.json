@@ -1,6 +1,7 @@
 {
   "accession_number": "93.30",
-  "artist": "Orvilla Longfox",
+  "artist": "Artist: Orvilla Longfox",
+  "classification": "Accessories",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from Elisabeth J. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1298,
   "image_width": 3056,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Buckskin, porcupine quills, tin cones, horsehair",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Pipe Bag"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,875",
-  "artist": "After Andrea Mantegna; Unknown Italian, late 15th-early 16th century; Formerly attributed to Zoan Andrea",
+  "artist": "Artist: After Andrea Mantegna; Engraver: Unknown Italian, late 15th-early 16th century; Artist: Formerly attributed to Zoan Andrea",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2586,
   "image_width": 1915,
-  "life_date": "Italian, 1431 - 1506",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian, active about 1475 – 1505",
+  "markings": "violet stamp verso: [K.E. Hasse L.860]",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Dr. E. Ehlers; Colnaghi- Knoedler 6.1926 RLO.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "Judith with the Head of Holofernes"

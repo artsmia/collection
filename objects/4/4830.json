@@ -1,6 +1,7 @@
 {
   "accession_number": "95.42",
-  "artist": "Mary Cassatt",
+  "artist": "Artist: Mary Cassatt",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Daniel and Constance Kunin",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1678,
   "image_width": 2560,
+  "inscription": "Stamp",
   "life_date": "American, 1844-1926",
-  "marks": "Stamp ",
+  "markings": "[COLLECTION/MARY CASSATT/MATHILDE X...] collector\\'s stamp, recto",
   "medium": "Graphite on off-white wove paper",
   "nationality": "American",
   "provenance": "Constance and Daniel Kunin, White Bear Lake, MN; [Flanders Contemporary Art, Mpls.]; Ex coll. Mathilde Valet (Lugt 2665a)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Figure Studies"

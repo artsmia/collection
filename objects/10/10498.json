@@ -1,6 +1,7 @@
 {
   "accession_number": "72.89",
-  "artist": "Cornell Verlaan",
+  "artist": "Artist: Cornell Verlaan",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Cornell Verlaan",
   "image_height": 3881,
   "image_width": 3403,
+  "inscription": "Signature, Date, Inscription",
   "life_date": "Dutch",
-  "marks": "Signature, Date, Inscription [4-\\'72 -1947- / Cornell Verlaan], lower right",
+  "markings": "",
   "medium": "Acrylic and graphite",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[4-\\'72 -1947- / Cornell Verlaan], lower right",
   "style": "20th century",
   "text": "",
   "title": "1947, Year of the Centennial International Philatelic Exhibition"

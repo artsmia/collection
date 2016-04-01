@@ -1,6 +1,7 @@
 {
   "accession_number": "52.20",
-  "artist": "John Rood",
+  "artist": "Artist: John Rood",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3951,
   "image_width": 5124,
+  "inscription": "Signature and Date",
   "life_date": "American, 1902 - 1974",
-  "marks": "Signature and Date (on bottom): [R & D XLIX]",
+  "markings": "",
   "medium": "Marble (serpentine)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "(on bottom): [R & D XLIX]",
   "style": "20th century",
   "text": "",
   "title": "Bison"

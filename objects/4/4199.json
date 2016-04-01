@@ -1,6 +1,7 @@
 {
   "accession_number": "91.153",
-  "artist": "Jules Dupré",
+  "artist": "Artist: Jules Dupré",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ginnie Weyerhauser",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3471,
   "image_width": 4385,
+  "inscription": "",
   "life_date": "French, 1811 - 1889",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Untitled (Landscape)"

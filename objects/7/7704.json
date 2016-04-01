@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.26",
-  "artist": "John Newman; Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "artist": "Artist: John Newman; Publisher: Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 3703,
   "image_width": 2834,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American, born 1952",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LR: [John Newman 1985]\r\nLR: [AP 12/12]\r\nLL: VEL Ch",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph, aquatint, drypoint, and rubber stamp",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [John Newman 1985]\r\nLR: [AP 12/12]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Fold-Out"

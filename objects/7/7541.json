@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.53",
-  "artist": "Alexander Calder",
+  "artist": "Artist: Alexander Calder",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Kennedy Graphics, Inc.",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2015 Calder Foundation%2C New York %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 1920,
   "image_width": 1458,
+  "inscription": "\r\n\r\n",
   "life_date": "American, 1898 - 1976",
-  "marks": "\r\n\r\n Signed in pencil, LR: Calder",
+  "markings": "Numbered in pencil, LL: 8/125",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "(Kennedy Graphics, New York); given to MIA, 1972.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: Calder",
   "style": "20th century",
   "text": "",
   "title": "Spirals"

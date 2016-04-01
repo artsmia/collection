@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.19",
-  "artist": "Algernon Newton",
+  "artist": "Painter: Algernon Newton",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3200,
   "image_width": 4125,
+  "inscription": "Date",
   "life_date": "English, 1880",
-  "marks": "Date ",
+  "markings": "[23]",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Canal Reflections"

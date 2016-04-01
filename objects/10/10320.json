@@ -1,6 +1,7 @@
 {
   "accession_number": "38.41.1",
-  "artist": "Sèvres Porcelain Factory",
+  "artist": "Manufacturer: Sèvres Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Rev. Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Paris, 1756-present",
-  "marks": "Mark; Date; Inscription ",
+  "inscription": "Mark; Date; Inscription",
+  "life_date": "Paris, 1756–present",
+  "markings": "Crowned monogram of Louis Philippe with date in green glaze; Sevres 1847 in double circular medallion and \\'Chateau de St. Cloud: with a crown above in a rust medallion with serrated edges",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Bowl"

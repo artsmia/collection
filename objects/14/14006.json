@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.25",
-  "artist": "Paul Sandby Munn",
+  "artist": "Artist: Paul Sandby Munn",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John De Laittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3278,
   "image_width": 4960,
+  "inscription": "Signature; Marks",
   "life_date": "English, 1773 - 1845",
-  "marks": "Signature; Marks [Munn], in graphite, verso",
+  "markings": "[No 137], in ink, verso; [18370], in pencil, verso",
   "medium": "Watercolor over graphite",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Munn], in graphite, verso",
   "style": "18th-19th century",
   "text": "",
   "title": "Landscape with Houses"

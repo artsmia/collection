@@ -1,6 +1,7 @@
 {
   "accession_number": "25.45",
-  "artist": "Gotthard Schuh",
+  "artist": "Artist: Gotthard Schuh",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "German, 1897",
-  "marks": "Signature; Date\r\nsee Signed LRC recto: [Schuh 1922]",
+  "markings": "",
   "medium": "Charcoal on white paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC recto: [Schuh 1922]",
   "style": "20th century",
   "text": "",
   "title": "Study of a Young Girl"

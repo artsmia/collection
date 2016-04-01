@@ -1,6 +1,7 @@
 {
   "accession_number": "84.92",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Paintings",
   "continent": null,
   "country": null,
   "creditline": "Gift of Theodor Menzel",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1892,
   "image_width": 2560,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature LL, illegible",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL, illegible",
   "style": "19th century",
   "text": "",
   "title": "The Gamblers"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.5.2",
-  "artist": "Frank Lloyd Wright",
+  "artist": "Designer: Frank Lloyd Wright",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3642,
   "image_width": 2874,
-  "life_date": "American, 1867 - 1959",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1867–1959",
+  "markings": "",
   "medium": "Glass, pewter",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Arts and Crafts",
   "text": "",
   "title": "Beer stein"

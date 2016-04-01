@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.18",
-  "artist": "Clara Klinghoffer",
+  "artist": "Artist: Clara Klinghoffer",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Clara Klinghoffer",
   "image_height": 3592,
   "image_width": 3914,
+  "inscription": "Signature",
   "life_date": "English, 1900-1970",
-  "marks": "Signature [C. Klinghoffer], LR corner",
+  "markings": "",
   "medium": "Pen and wash",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[C. Klinghoffer], LR corner",
   "style": "20th century",
   "text": "",
   "title": "Study of a Child"

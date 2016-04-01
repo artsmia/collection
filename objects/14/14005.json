@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.24",
-  "artist": "George Henry Harlow",
+  "artist": "Maker: George Henry Harlow",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4396,
   "image_width": 3560,
+  "inscription": "Signature; Date; Title",
   "life_date": "English, 1787 - 1819",
-  "marks": "Signature; Date; Title ",
+  "markings": "[G.H.H., 1814], in black chalk; [Rev. T.D. Haselwood], in black chalk",
   "medium": "Black chalk and sanguine crayon on white wove paper",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Reverend T. D. Haslewood"

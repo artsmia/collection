@@ -1,6 +1,7 @@
 {
   "accession_number": "09.10",
-  "artist": "Wedgwood",
+  "artist": "Manufacturer: Wedgwood",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of John R. Van Derlip, E. C. Gale and others",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Staffordshire, England, est. 1759",
-  "marks": "Mark ",
+  "markings": "Wedgewood, stamped on bottom.",
   "medium": "Ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Plate"

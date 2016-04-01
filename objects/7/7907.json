@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.11",
-  "artist": "Michael Kareken",
+  "artist": "Artist: Michael Kareken",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Edition\r\n\r\nsee Signed\r\n\r\nNumbered in graphite, LL: [5/15]",
   "life_date": "American, born 1961",
-  "marks": "Signature and Edition\r\n\r\nsee Signed\r\n\r\nNumbered in in graphite, LR: [Kareken]",
+  "markings": "",
   "medium": "Etching, aquatint and drypoint\r\n",
   "nationality": "American",
   "provenance": "Acquired from the artist, 1998",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Kareken]",
   "style": "20th century",
   "text": "",
   "title": "Tornado / Road"

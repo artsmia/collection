@@ -1,6 +1,7 @@
 {
   "accession_number": "71.27",
-  "artist": "Jules Chéret",
+  "artist": "Artist: Jules Chéret",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bruce B. Dayton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4299,
   "image_width": 3096,
+  "inscription": "",
   "life_date": "French (Paris, Nice), 1836 - 1932",
-  "marks": " LL: Chéret",
+  "markings": "",
   "medium": "Pastel on linen",
   "nationality": "French",
   "provenance": "Galerie Jean de Ruaz, Paris (sold to Bruce B. Dayton); Bruce. B. Dayton (gift to MIA August 1971)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: Chéret",
   "style": "19th-20th century",
   "text": "",
   "title": "Woman in a Yellow Dress"

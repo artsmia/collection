@@ -1,6 +1,7 @@
 {
   "accession_number": "94.86.32",
-  "artist": "John Wainewright",
+  "artist": "Artist: John Wainewright",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Leo A. and Doris Hodroff",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4771,
   "image_width": 5377,
+  "inscription": "Signature and Date",
   "life_date": "British",
-  "marks": "Signature and Date LL",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL",
   "style": "19th century",
   "text": "",
   "title": "Still Life with Fruit"

@@ -1,6 +1,7 @@
 {
   "accession_number": "39.19",
-  "artist": "Edmund J. Sullivan",
+  "artist": "Artist: Edmund J. Sullivan",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4490,
   "image_width": 3142,
+  "inscription": "Signature; Inscription; Date",
   "life_date": "English, 1869 - 1933",
-  "marks": "Signature; Inscription; Date ",
+  "markings": "in pencil, verso: [Edmund J. Sullivan]; along bottom edge: [John Galsworthy from life June 29th, 1930]",
   "medium": "Graphite on white wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Portrait of John Galsworthy"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.126",
-  "artist": "Oskar Kokoschka; Text by Homer; Translated by Robert Fitzgerald; Published by Ganymeade Original Editions Ltd., London",
+  "artist": "Artist: Oskar Kokoschka; Author: Text by Homer; Translator: Translated by Robert Fitzgerald; Publisher: Published by Ganymeade Original Editions Ltd., London",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 8030,
   "image_width": 5682,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": "Signature\r\nsee Signed in graphite: [Oskar Kokoschka]",
+  "inscription": "Signature\r\nsee Signed",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "",
   "medium": "Artist's book; lithographs, letterpress",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite: [Oskar Kokoschka]",
   "style": "20th century",
   "text": "",
   "title": "Odyssey"

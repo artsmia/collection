@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.1.11",
-  "artist": "William Wegman",
+  "artist": "Artist: William Wegman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Arts Accession Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© William Wegman",
   "image_height": 3865,
   "image_width": 2858,
+  "inscription": "Signed, Dated, Inscribed, and Chop Mark",
   "life_date": "American, born 1943",
-  "marks": "Signed, Dated, Inscribed, and Chop Mark LR: [William Wegman 91]\r\nLR: [Archive Proof] \r\nLL:",
+  "markings": "VEL Chop Mark",
   "medium": "Color photolithograph and rubber stamp",
   "nationality": "American",
   "provenance": "VEL, Minneapolis; acquired by MIA, 1993.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [William Wegman 91]\r\nLR: [Archive Proof] \r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Armed Chair"

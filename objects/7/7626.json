@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.2",
-  "artist": "Shusaku Arakawa; Multiples, Inc., New York",
+  "artist": "Artist: Shusaku Arakawa; Publisher: Multiples, Inc., New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1927,
   "image_width": 3700,
+  "inscription": "Signed, dated, numbered, titled, and chop mark",
   "life_date": "American (born Japan) 1936-2010",
-  "marks": "Signed, dated, numbered, titled, and chop mark LC: [Arakawa 1978]\r\nLR: [P/P 2/2]\r\nLC: [Point Blan",
+  "markings": "LR: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American (born Japan)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [Arakawa 1978]\r\nLR: [P/P 2/2]\r\nLC: [Point Blank : ]",
   "style": "20th century",
   "text": "",
   "title": "Point Blank II"

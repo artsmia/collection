@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,550",
-  "artist": "Edvard Munch",
+  "artist": "Artist: Edvard Munch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3786,
   "image_width": 5227,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Norwegian, 1863 - 1944",
-  "marks": "Signature\r\n\r\nsee Signed Signed in pencil, LRC [E Munch]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Norwegian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LRC [E Munch]",
   "style": "19th century",
   "text": "",
   "title": "Death in the Sickroom"

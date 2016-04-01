@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.21",
-  "artist": "Alex Katz",
+  "artist": "Artist: Alex Katz",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Alex Katz %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 3277,
   "image_width": 3282,
+  "inscription": "Signature; Edition\r\n\r\nsee Signed",
   "life_date": "American, born 1927",
-  "marks": "Signature; Edition\r\n\r\nsee Signed on work",
+  "markings": "",
   "medium": "Color pochoir (stencil)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on work",
   "style": "20th century",
   "text": "",
   "title": "Al Held"

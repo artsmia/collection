@@ -1,6 +1,7 @@
 {
   "accession_number": "88.96.2",
-  "artist": "John Constable",
+  "artist": "Artist: John Constable",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of David G. Dudley",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3252,
   "image_width": 3949,
-  "life_date": "British, 1776 - 1837",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1776–1837",
+  "markings": "",
   "medium": "Charcoal and grey wash on blue-grey laid paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Untitled (Sailboats in Landscape)"

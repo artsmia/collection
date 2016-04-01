@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.1.2.1",
-  "artist": "Elizabeth Catlett; The Limited Editions Club",
+  "artist": "Artist: Elizabeth Catlett; Publisher: The Limited Editions Club",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Art © Elizabeth Catlett %2F Licensed by VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition, Title\r\n\r\nsee Signed\r\n\r\nIn LL:  26/99; In LC:  Singing their Songs\r\n",
   "life_date": "American and Mexican, 1915-2012",
-  "marks": "Signature, Date, Edition, Title\r\n\r\nsee Signed\r\n\r\nI Signed and dated in pencil, LR: [ E. Catlett \\'92]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "MAmerican and Mexican (dual citizen)",
   "provenance": "Limited Editions Club, New York (publisher); sold to MIA, 1998.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [ E. Catlett \\'92]",
   "style": "20th century",
   "text": "",
   "title": "Singing their Songs, from \"For My People\" portfolio"

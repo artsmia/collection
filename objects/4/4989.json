@@ -1,6 +1,7 @@
 {
   "accession_number": "96.134.1.1",
-  "artist": "Thomas F. Arndt",
+  "artist": "Photographer: Thomas F. Arndt",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David L. Parker and Mary M.D. Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "© Tom Arndt",
   "image_height": 1714,
   "image_width": 2560,
+  "inscription": "title, date, edition, signature",
   "life_date": "American, born 1944",
-  "marks": "title, date, edition, signature ",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Jesse Jackson Supporter, Democratic National Convention, San Francisco"

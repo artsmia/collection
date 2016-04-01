@@ -1,6 +1,7 @@
 {
   "accession_number": "75.74",
-  "artist": "Arthur Clifton Goodwin",
+  "artist": "Artist: Arthur Clifton Goodwin",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5156,
   "image_width": 6336,
+  "inscription": "Signature",
   "life_date": "American, 1864 - 1929",
-  "marks": "Signature LL: [AC Goodwin]",
+  "markings": "",
   "medium": "Oil on board",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [AC Goodwin]",
   "style": "20th century",
   "text": "",
   "title": "Gloucester Harbor"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.288",
-  "artist": "Kawanabe Kyōsai",
+  "artist": "Artist: Kawanabe Kyōsai",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5031,
   "image_width": 2149,
+  "inscription": "",
   "life_date": "Japanese, 1831 - 1889",
-  "marks": " ",
+  "markings": "Signed: Kyôsai; seal: Tôiku",
   "medium": "Hanging scroll; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Conder (sold at Sotheby London, 18 Jan. 1965, but not listed in Conder 1911)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Three Crossbills on a Leafless Tree"

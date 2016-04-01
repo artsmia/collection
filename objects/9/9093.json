@@ -1,6 +1,7 @@
 {
   "accession_number": "85.67",
-  "artist": "John Leech",
+  "artist": "Artist: John Leech",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4252,
   "image_width": 2989,
+  "inscription": "Signature; Title; Mark",
   "life_date": "British, 1817 - 1864",
-  "marks": "Signature; Title; Mark [J. Leech], in pencil, LL",
+  "markings": "[Ingoldsby Legends.], in pencil, LR; [ATMAN/EY MILL/824], fragment of watermark (Whatman 1824)",
   "medium": "Watercolor, pen and brown ink and wash on graphite on off-white wove paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J. Leech], in pencil, LL",
   "style": "19th century",
   "text": "",
   "title": "Illustration for 'Ingoldsby Legends'"

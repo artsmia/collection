@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.11.16",
-  "artist": "Joseph-Marie Vien; Pierre François Basan; Etienne Léon Poignant",
+  "artist": "Artist: Joseph-Marie Vien; Publisher: Pierre François Basan; Publisher: Etienne Léon Poignant",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1716 - 1809",
-  "marks": " ",
+  "markings": "watermark: [AUVERGNE 1742]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Chief Usher"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.176.5.2",
-  "artist": "Bow Porcelain Factory",
+  "artist": "Artist: Bow Porcelain Factory",
+  "classification": "Ceramics",
   "continent": null,
   "country": null,
   "creditline": "Bequest of Mary Briggs",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1824,
   "image_width": 2560,
+  "inscription": "Marks",
   "life_date": "London, c. 1747-1776",
-  "marks": "Marks ",
+  "markings": "\\'ü[anchor]\\', in orange, on bottom",
   "medium": "glazed porcelain, gilt",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Female Figure in Front of Tree"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.259",
-  "artist": "Utagawa Hiroshige; Takenouchi Magohachi; Tsuruya Kiemon",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Takenouchi Magohachi; Publisher: Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3295,
   "image_width": 4896,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Publisher:Sekhakudo_ + Ho_eido_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "\"Kawasaki--Ferry at Rokugō\""

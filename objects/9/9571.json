@@ -1,6 +1,7 @@
 {
   "accession_number": "83.169.1",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Dr. Robert J. Poor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4067,
   "image_width": 3177,
+  "inscription": "Signatures, Inscriptions",
   "life_date": "German, 1863 - 1945",
-  "marks": "Signatures, Inscriptions in ink, lower center: [Kley]; in ink, top center: ",
+  "markings": "",
   "medium": "Pen and brown ink on tan paper",
   "nationality": "German",
   "provenance": "Robert J. Poor, Minneapolis; given to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in ink, lower center: [Kley]; in ink, top center: [3050 Mk/danken erhalten, H. Kley]",
   "style": "20th century",
   "text": "",
   "title": "Plant Man"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.181",
-  "artist": "Paul Klee; Curt Corrinth; Georg Müller Verlag",
+  "artist": "Artist: Paul Klee; Author: Curt Corrinth; Publisher: Georg Müller Verlag",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Edition\r\nin graphite, on colophon page: [137]",
   "life_date": "Swiss, 1879 - 1940",
-  "marks": "Edition\r\nin graphite, on colophon page: [137] ",
+  "markings": "",
   "medium": "Lithographs, letterpress; bound volume",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Potsdamer Platz"

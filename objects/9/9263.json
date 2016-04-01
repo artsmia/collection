@@ -1,6 +1,7 @@
 {
   "accession_number": "83.165",
-  "artist": "Alexis-Victor Joly",
+  "artist": "Artist: Alexis-Victor Joly",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3347,
   "image_width": 4413,
+  "inscription": "Signature",
   "life_date": "French, 1798 - 1874",
-  "marks": "Signature [a joly], lower left",
+  "markings": "",
   "medium": "Brown ink and wash",
   "nationality": null,
   "provenance": "From an album of similar brown wash drawings by various Romantic artists",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[a joly], lower left",
   "style": "19th century",
   "text": "",
   "title": "Ruins of a Château de Tournoel"

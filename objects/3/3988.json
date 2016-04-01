@@ -1,6 +1,7 @@
 {
   "accession_number": "90.54",
-  "artist": "Donald F. Montileaux",
+  "artist": "Artist: Donald F. Montileaux",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark",
   "life_date": "born 1948",
-  "marks": "Signature; Date; Mark center LL: [Donald F. Montileaux 90]",
+  "markings": "Watermark: <Arches/France>",
   "medium": "Watercolor, gouache, ink and crayon over graphite",
   "nationality": "",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "center LL: [Donald F. Montileaux 90]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

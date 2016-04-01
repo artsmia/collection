@@ -1,6 +1,7 @@
 {
   "accession_number": "75.2",
-  "artist": "Robert Mangold",
+  "artist": "Artist: Robert Mangold",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Museum Purchase Fund (NEA) with matching funds from Mr. and Mrs. Miles Q. Fiterman",
@@ -14,8 +15,9 @@
   "image_copyright": "© Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3780,
   "image_width": 3792,
+  "inscription": "",
   "life_date": "American, born 1937",
-  "marks": " ",
+  "markings": "",
   "medium": "Acrylic and pencil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "The artist conceived this Minimalist painting as a flat, neutral surface. He had the canvas mechanically sprayed with acrylic paint and then subdivided it with pecil lines intersecting at right angles.",
   "title": "Four Squares within a Square II"

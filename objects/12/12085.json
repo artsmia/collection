@@ -1,6 +1,7 @@
 {
   "accession_number": "99.64.2",
-  "artist": "John Willenbecher",
+  "artist": "Sculptor: John Willenbecher",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Willenbecher",
   "image_height": 3885,
   "image_width": 3828,
+  "inscription": "",
   "life_date": "American, born 1936",
-  "marks": " ",
+  "markings": "Label, on bottom, in black: NORTH <- 1/8\\' = 1\\' 1990 JW (in white inside a red circle) / WILLENBECHER 145 W BROADWAY NYC NY 10013",
   "medium": "Wood, pigment",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Model for Proposed Labyrinth"

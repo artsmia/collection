@@ -1,6 +1,7 @@
 {
   "accession_number": "82.104.11",
-  "artist": "Théodore Rousseau",
+  "artist": "Artist: Théodore Rousseau",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Wheelock Whitney III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2719,
   "image_width": 4198,
+  "inscription": "Signature; Title",
   "life_date": "French, 1812 - 1867",
-  "marks": "Signature; Title [Théodore Rousseau], in graphite, lower center",
+  "markings": "[Chateau de Bouclan], in graphite, lower right",
   "medium": "Graphite on white wove paper",
   "nationality": "French",
   "provenance": "Georges Martin du Nord, Paris\r\nShepard Gallery, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Théodore Rousseau], in graphite, lower center",
   "style": "19th century",
   "text": "",
   "title": "Chateau de Bouclan"

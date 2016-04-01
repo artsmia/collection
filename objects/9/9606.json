@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.165.2",
-  "artist": "Hosoda Eishi",
+  "artist": "Artist: Hosoda Eishi",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5158,
   "image_width": 2152,
+  "inscription": "Narazaki\\'s letter dated Feb. 7, 1962 in the box",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": "Narazaki\\'s letter dated Feb. 7, 1962 in the box Yabukyo_ Eishi Fujiwara Tokitomi hitsu",
+  "markings": "Seal: Eishi",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "Yabumoto",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yabukyo_ Eishi Fujiwara Tokitomi hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Diptych of Beauties in Spring: Rain"

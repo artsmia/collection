@@ -1,6 +1,7 @@
 {
   "accession_number": "P.89.19",
-  "artist": "Giovanni Benedetto Castiglione (Il Grechetto)",
+  "artist": "Artist: Giovanni Benedetto Castiglione (Il Grechetto)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3826,
   "image_width": 3080,
+  "inscription": "Inscription\r\netched on top left of print: Castilione Genovese",
   "life_date": "Italian (Genoa), 1609 - 1664",
-  "marks": "Inscription\r\netched on top left of print: Castilio ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Man Wearing a Plumed Fur Cap and Scarf"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.33",
-  "artist": "Aloys Wach (Wachlmayr)",
+  "artist": "Artist: Aloys Wach (Wachlmayr)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Austrian, 1892 - 1940",
-  "marks": "Signature\r\nsee Signed LL in black ink: [Wachlmeir]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL in black ink: [Wachlmeir]",
   "style": "20th century",
   "text": "",
   "title": "House with Sunset"

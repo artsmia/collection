@@ -1,6 +1,7 @@
 {
   "accession_number": "23.8.22",
   "artist": "",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1338,
   "image_width": 1453,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "In blue",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G324",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Plate"

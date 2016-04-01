@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.169",
-  "artist": "Utagawa Toyoharu",
+  "artist": "Artist: Utagawa Toyoharu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1007,
+  "inscription": "",
   "life_date": "Japanese, 1735 - 1814",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink, color, and gofun on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Party at a Teahouse in Shinagawa"

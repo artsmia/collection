@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.21",
-  "artist": "René Burri",
+  "artist": "Photographer: René Burri",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Rene Burri%2FMagnum Photos",
   "image_height": 1739,
   "image_width": 2560,
+  "inscription": "Title; Stamp",
   "life_date": "Swiss, born 1933",
-  "marks": "Title; Stamp title verso",
+  "markings": "photographer\\'s stamp verso",
   "medium": "Gelatin silver print",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "title verso",
   "style": "20th century",
   "text": "",
   "title": "Sao Paolo, Brazil, Avenida Anhangabau"

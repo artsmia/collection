@@ -1,6 +1,7 @@
 {
   "accession_number": "70.20.1",
-  "artist": "Bartolomeo Pinelli",
+  "artist": "Artist: Bartolomeo Pinelli",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of the Henfield Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1872,
   "image_width": 2560,
+  "inscription": "",
   "life_date": "Italian, 1781 - 1835",
-  "marks": " Pinelli f. Romae 1833",
+  "markings": "(Watermark, laid down)",
   "medium": "Brush, brown wash over graphite",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Pinelli f. Romae 1833",
   "style": "19th century",
   "text": "",
   "title": "Two Men Fighting, Restrained by a Woman"

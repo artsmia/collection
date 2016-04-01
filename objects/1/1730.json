@@ -1,6 +1,7 @@
 {
   "accession_number": "69.3",
-  "artist": "Adolphe Monticelli",
+  "artist": "Artist: Adolphe Monticelli",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Lyndon M. King",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2812,
   "image_width": 4351,
+  "inscription": "",
   "life_date": "French, 1824 - 1886",
-  "marks": " LL: Possible traces of full signature in red; part",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: Possible traces of full signature in red; partially covered by green paint [Monticelli].",
   "style": "19th century",
   "text": "",
   "title": "Garden Scene"

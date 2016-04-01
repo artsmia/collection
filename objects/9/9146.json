@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.318",
-  "artist": "Katsukawa Shun'ei; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Katsukawa Shun'ei; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3011,
   "image_width": 4582,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " On each side: {Shun\\'ei ga}",
+  "markings": "Publisher\\'s seal: {Eijudō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On each side: {Shun\\'ei ga}",
   "style": "18th century",
   "text": "",
   "title": "Act I and Act II"

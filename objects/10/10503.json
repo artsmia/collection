@@ -1,6 +1,7 @@
 {
   "accession_number": "76.80",
-  "artist": "Ernest Lawson",
+  "artist": "Artist: Ernest Lawson",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. John E. Larkin",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 2371,
+  "inscription": "Signature",
   "life_date": "American, 1873 - 1939",
-  "marks": "Signature LR: [E. Lawson]",
+  "markings": "",
   "medium": "Oil on masonite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [E. Lawson]",
   "style": "20th century",
   "text": "",
   "title": "Harlem River Scene"

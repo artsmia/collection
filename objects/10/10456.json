@@ -1,6 +1,7 @@
 {
   "accession_number": "64.31",
-  "artist": "Giacomo Favretto",
+  "artist": "Artist: Giacomo Favretto",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3373,
   "image_width": 4332,
+  "inscription": "Signature",
   "life_date": "Italian (Venice), 1849 - 1887",
-  "marks": "Signature LR: [G. Favretto]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [G. Favretto]",
   "style": "19th century",
   "text": "",
   "title": "Seated Woman, Sewing"

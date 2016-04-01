@@ -1,6 +1,7 @@
 {
   "accession_number": "83.169.2",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Dr. Robert J. Poor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1475,
+  "inscription": "Signature; Date; Inscription",
   "life_date": "German, 1863 - 1945",
-  "marks": "Signature; Date; Inscription in ink, lower right: [H. Kley]",
+  "markings": "in ink, lower center: [26 Juni 23 Den]; in ink, lower right by Kley: [Empfang bestätigt danken]",
   "medium": "Pen and brown ink",
   "nationality": "German",
   "provenance": "Robert J. Poor, Minneapolis; given to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in ink, lower right: [H. Kley]",
   "style": "20th century",
   "text": "",
   "title": "Caricature of Demon with Tail"

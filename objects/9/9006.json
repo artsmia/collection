@@ -1,6 +1,7 @@
 {
   "accession_number": "94.70",
-  "artist": "Paul Delaroche",
+  "artist": "Artist: Paul Delaroche",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Molly Klobe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3774,
   "image_width": 2897,
+  "inscription": "Inscriptions",
   "life_date": "French, 1797 - 1856",
-  "marks": "Inscriptions ",
+  "markings": "Inscribed in pencil, recto [Strasbourg/17 Janvier(?) 1838];  Estate stamp LR [HD], Lugt 1301",
   "medium": "Graphite on buff wove paper",
   "nationality": "French",
   "provenance": "Molly Klobe, New York\r\nDescendants of H. Vernet and P. Delaroche\r\nEstate of the artist",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study of a Figural Monument"

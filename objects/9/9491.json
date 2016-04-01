@@ -1,6 +1,7 @@
 {
   "accession_number": "67.44",
-  "artist": "Peter Rittig",
+  "artist": "Artist: Peter Rittig",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3991,
   "image_width": 3088,
+  "inscription": "Mark",
   "life_date": "German, 1789 - 1840",
-  "marks": "Mark ",
+  "markings": "Watermark fragment, upper left",
   "medium": "Graphite on laid paper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Head of a Girl"

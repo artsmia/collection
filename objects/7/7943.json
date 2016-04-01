@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.27.3",
-  "artist": "Oskar Kokoschka; Marlborough Graphics, London",
+  "artist": "Artist: Oskar Kokoschka; Publisher: Marlborough Graphics, London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 8619,
   "image_width": 6604,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": "Signature; Edition ",
+  "inscription": "Signature; Edition",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "[O Kokoschka], in graphite, LR; [104/150], in graphite, LL",
   "medium": "Lithograph",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "His Beatitude Benedictos I, Greek Orthodox Patriarch of Jerusalem"

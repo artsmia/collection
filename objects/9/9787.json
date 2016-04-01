@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.36.9",
-  "artist": "Attributed to Wang Wei-kao",
+  "artist": "Artist: Attributed to Wang Wei-kao",
+  "classification": "Tools, Equipment and Utilitarian Objects",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3618,
   "image_width": 2850,
-  "life_date": "",
-  "marks": "Inscription\r\n\r\non seal, on bottom: [Eternal collec ",
+  "inscription": "Inscription\r\n\r\non seal, on bottom: [Eternal collection of the heavenly palace]",
+  "life_date": null,
+  "markings": "",
   "medium": "Pine soot and animal adhesive",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G217",
+  "signed": "",
   "style": "18th century",
   "text": "Cleverly moulded in the form of a large official seal, this ink cake has a pair of dragons cavorting amonst waves on its top. The reverse side, shown here, displays a Ming-style imperial seal-script legend in four large characters, <I>T'ien-fu yung-ts'ang</I> meaning, \"eternal collection of the heavenly palace,\" This stick conforms in shape and concept to ink cakes made by the mid-eighteenth century ink maker, Wang Wei-kao.",
   "title": "Ink Stick in Seal Form"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.6.2",
-  "artist": "School of Frans Hals",
+  "artist": "Artist: School of Frans Hals",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Mr. and Mrs. Theodore Bennett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4548,
   "image_width": 3756,
+  "inscription": "",
   "life_date": "Dutch, 1585 - 1666",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Laughing Toper"

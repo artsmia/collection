@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.11",
-  "artist": "Audrey Flack; Democratic National Committee, Washington, D.C.",
+  "artist": "Artist: Audrey Flack; Publisher: Democratic National Committee, Washington, D.C.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Colleciton, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Audrey Flack",
   "image_height": 2968,
   "image_width": 3878,
+  "inscription": "Signed, numbered, titled, and chop mark.",
   "life_date": "American, born 1931",
-  "marks": "Signed, numbered, titled, and chop mark. LR: [Audrey Flack]\r\nLR: [P.P. 2/10]\r\nLL: [Banana S",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph, screenprint, and embossing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Audrey Flack]\r\nLR: [P.P. 2/10]\r\nLL: [Banana Split Sundae]",
   "style": "20th century",
   "text": "",
   "title": "Banana Split Sundae"

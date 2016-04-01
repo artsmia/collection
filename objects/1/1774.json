@@ -1,6 +1,7 @@
 {
   "accession_number": "69.96",
-  "artist": "Claudio Beaumont",
+  "artist": "Artist: Claudio Beaumont",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3921,
   "image_width": 3087,
+  "inscription": "",
   "life_date": "Italian (Turin), 1694 - 1766",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Battle of Pharsalia"

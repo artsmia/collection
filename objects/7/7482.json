@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.37",
-  "artist": "Hendrick Goltzius; after Bartholomaeus Spanger",
+  "artist": "Artist: Hendrick Goltzius; Artist: after Bartholomaeus Spanger",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1294,
   "image_width": 2560,
+  "inscription": "Signature",
   "life_date": "Dutch, 1558-1617",
-  "marks": "Signature on plate",
+  "markings": "Watermark: 2 columns with a crown  Briquel II 4435 - Paris 1588",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "Rev. J. Burleigh James (Lugt 1425)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate",
   "style": "16th century",
   "text": "This complex print is a tour-de-force of composition and technical brilliance. The scene--a marriage feast of the gods--comprises more than 80 figures and had to be printed from three plates onto three sheets of paper. Goltzius's inimitable engraving technique is on full display here, his sinuous lines swelling and tapering to sculpt the rounded forms. The elegant figures assume every pose imaginable to display their rippling musculature and exaggerated grace.",
   "title": "The Wedding of Cupid and Psyche"

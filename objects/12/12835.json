@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.163.2a-c",
-  "artist": "attributed to the Guild of Handicraft",
+  "artist": "Artist: attributed to the Guild of Handicraft",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Mrs. Ethelyn Bros Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Patinated copper, mirror, cloth, other metals",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Mirror/Candle Sconce"

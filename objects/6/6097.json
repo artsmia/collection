@@ -1,6 +1,7 @@
 {
   "accession_number": "B.88.2.2",
-  "artist": "Pablo Picasso; Pierre Reverdy",
+  "artist": "Artist: Pablo Picasso; Author: Pierre Reverdy",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Lithographs in red ink; facsimiles of handwritten text",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Cover from Le Chant des Morts (The Song of the Dead)"

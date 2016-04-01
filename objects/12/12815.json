@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.184.2",
-  "artist": "Lois Lane; Ruth Lingen, American, 20th century; Published by Pooté Press, New York; Bookstand designed by David Shaw",
+  "artist": "Artist: Lois Lane; Artist: Ruth Lingen, American, 20th century; Publisher: Published by Pooté Press, New York; Designer: Bookstand designed by David Shaw",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signatures\r\n",
   "life_date": "American, born 1948",
-  "marks": "Signatures\r\n in graphite, on colophon page: [R Lingen/Lois Lane",
+  "markings": "",
   "medium": "Woodcut, linocut, photoengraving, color copies, screenprint, and collage; letterpress\r\n\r\n\r\n\r\n",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, on colophon page: [R Lingen/Lois Lane]",
   "style": "20th century",
   "text": "",
   "title": "I Know Where I'm Going"

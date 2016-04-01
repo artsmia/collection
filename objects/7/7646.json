@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.1",
-  "artist": "Steven Beyer",
+  "artist": "Artist: Steven Beyer",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3788,
   "image_width": 2465,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1951",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Steven Beyer \\'81]\r\nLL: [A.P. 3/3]\r\nLC: [disso",
+  "markings": "LR: VEL chop mark",
   "medium": "Etching, aquatint, and monoprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Steven Beyer \\'81]\r\nLL: [A.P. 3/3]\r\nLC: [dissolution]",
   "style": "20th century",
   "text": "",
   "title": "Dissolution"

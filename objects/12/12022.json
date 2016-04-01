@@ -1,6 +1,7 @@
 {
   "accession_number": "99.184",
-  "artist": "Unknown Korean",
+  "artist": "Artist: Unknown Korean",
+  "classification": "Clothing",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of Mr. and Mrs. Byung Kang",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7095,
   "image_width": 7808,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Silk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "(Man's Robe)"

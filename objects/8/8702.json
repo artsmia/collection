@@ -1,6 +1,7 @@
 {
   "accession_number": "90.122",
-  "artist": "Kanō Yasunobu",
+  "artist": "Artist: Kanō Yasunobu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of John Kessler III and Mrs. Patricia Schneider in memory of Mrs. Dorothy Kessler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3744,
+  "inscription": "",
   "life_date": "Japanese, 1613 - 1685",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Hotei Riding a Waterbuffalo"

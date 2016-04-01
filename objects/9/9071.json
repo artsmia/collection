@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.54",
-  "artist": "Okumura Toshinobu; Published by Ōmiya Kyuhei",
+  "artist": "Artist: Okumura Toshinobu; Publisher: Published by Ōmiya Kyuhei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, fl. c.1717-1750",
-  "marks": " Yamato gako_ Okumura Toshinobu hitsu",
+  "markings": "artist\\'s seal\r\nPublisher:O_miya",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yamato gako_ Okumura Toshinobu hitsu",
   "style": "18th century",
   "text": "",
   "title": "Center:(Courtesan and Kamuro Walking Together)"

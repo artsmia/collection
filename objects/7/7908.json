@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.16.1",
-  "artist": "Craig McPherson",
+  "artist": "Artist: Craig McPherson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Craig McPherson",
   "image_height": 4538,
   "image_width": 3076,
+  "inscription": "Signature; Date; Title; Edition; Inscription\r\n\r\nsee Signed\r\n\r\nNubmered in pencil, LL: [52/90]; titled in pencil, LC: [F.D.R. DRIVE]",
   "life_date": "American, born 1948",
-  "marks": "Signature; Date; Title; Edition; Inscription\r\n\r\nse Signed and dated in pencil, LR: [McPHERSON \\'93 IMP",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "[Mary Ryan Gallery, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [McPHERSON \\'93 IMP.]",
   "style": "20th century",
   "text": "",
   "title": "F.D.R. Drive"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.45",
-  "artist": "David Hockney; Published by Petersburg Press, London and New York",
+  "artist": "Artist: David Hockney; Publisher: Published by Petersburg Press, London and New York",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Hockney",
   "image_height": 4224,
   "image_width": 3338,
+  "inscription": "Signature, Date, Edition, Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [31/60]",
   "life_date": "British, born 1937",
-  "marks": "Signature, Date, Edition, Mark\r\n\r\nsee Signed\r\n\r\nNu Signed and dated in pencil, LR: [David Hockney 74]",
+  "markings": "Watermark: [BFK Rives] France",
   "medium": "Color soft-ground etching and aquatint",
   "nationality": "British",
   "provenance": "(John C. Stoller & Co., Minneapolis); sold to MIA, 1980.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [David Hockney 74]",
   "style": "20th century",
   "text": "",
   "title": "Celia in a Wicker Chair"

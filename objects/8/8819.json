@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.57",
-  "artist": "Nishimura Shigenaga; Published by Emiya Kichiemon",
+  "artist": "Artist: Nishimura Shigenaga; Publisher: Published by Emiya Kichiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4742,
   "image_width": 2286,
+  "inscription": "{Omou sono / akatsuki chigiru / hajime zoya / matsu kiku Mii no / iriai no kane} \r\n(Hearing Mii\\'s / evening bell / I long for the  / dawn pledging / of vows.)",
   "life_date": "Japanese, c.1697 - 1756",
-  "marks": "{Omou sono / akatsuki chigiru / hajime zoya / mats {Nishimura Shigenaga}",
+  "markings": "Artist\\'s seal: {Shigenaga} | Publisher\\'s seal: {Emiya}",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Nishimura Shigenaga}",
   "style": "18th century",
   "text": "",
   "title": "\"Evening Bell at Miidera Temple\""

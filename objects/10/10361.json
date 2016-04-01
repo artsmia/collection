@@ -1,6 +1,7 @@
 {
   "accession_number": "70.40",
-  "artist": "Jean-Léon Gérôme",
+  "artist": "Artist: Jean-Léon Gérôme",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6073,
   "image_width": 5243,
+  "inscription": "",
   "life_date": "French, 1824 - 1904",
-  "marks": " LR in black (on rug): J. L. GEROME",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G357",
+  "signed": "LR in black (on rug): J. L. GEROME",
   "style": "19th century",
   "text": "Schooled at the Ecole des Beaux-Arts and honored by the French Salon, Jean-Léon Gérôme was a prolific and popular artist. Like Delacroix, he traveled extensively in North Africa and the Middle East. <I>The Carpet Merchant</I> depicts the Court of the Rug Market in Cairo, which Gérôme had visited in 1885.",
   "title": "The Carpet Merchant"

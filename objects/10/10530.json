@@ -1,6 +1,7 @@
 {
   "accession_number": "82.28.28",
-  "artist": "Edward Steichen",
+  "artist": "Photographer: Edward Steichen",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Edward Steichen by direction of Joanna T. Steichen and George Eastman House",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Edward Steichen %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4174,
   "image_width": 3342,
-  "life_date": "American (born Luxembourg), 1879 - 1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American (born Luxembourg), 1879–1973",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Lillian Gish in 'Within the Gates'"

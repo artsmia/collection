@@ -1,6 +1,7 @@
 {
   "accession_number": "57.34",
-  "artist": "Larry Rivers",
+  "artist": "Artist: Larry Rivers",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Larry Rivers %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 4689,
   "image_width": 3295,
+  "inscription": "",
   "life_date": "American, 1923 - 2002",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Europe I"

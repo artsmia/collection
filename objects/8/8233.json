@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.102",
-  "artist": "Unknown Italian, probably Venetian",
+  "artist": "Artist: Unknown Italian, probably Venetian",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4538,
   "image_width": 3082,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature In plate",
+  "markings": "Watermark: 3 crescents with human profile and initials <A.D.G.>",
   "medium": "Woodcut",
   "nationality": null,
   "provenance": "Wünsch (not in Lugt); Charles E. Norton', Knoedler & Co., 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "15th-16th century",
   "text": "",
   "title": "The Last Judgement"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.83",
-  "artist": "Adja Yunkers",
+  "artist": "Artist: Adja Yunkers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3664,
   "image_width": 2778,
+  "inscription": "Signed, Dated, Numbered, Inscribed, Titled, Stamped, and Chop Mark",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signed, Dated, Numbered, Inscribed, Titled, Stampe LR: [Adja Yunkers - 78]\r\nLC: [11/20]\r\nLL: [AP.]\r\nL",
+  "markings": "Artist Stamp, VEL Chop Mark",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Adja Yunkers - 78]\r\nLC: [11/20]\r\nLL: [AP.]\r\nLL: [Falling Birds]\r\nLR: Artist\\'s Chop Mark\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Falling Birds"

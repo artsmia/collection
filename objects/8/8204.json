@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.116",
-  "artist": "Katsukawa Shun'ei",
+  "artist": "Artist: Katsukawa Shun'ei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5216,
   "image_width": 2360,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " {Shun\\'ei ga}",
+  "markings": "Censor: kiwame",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shun\\'ei ga}",
   "style": "18th century",
   "text": "",
   "title": "Ōtani Oniji III as Niki Bennosuke"

@@ -1,6 +1,7 @@
 {
   "accession_number": "25.56",
-  "artist": "Istvan Szönyi",
+  "artist": "Artist: Istvan Szönyi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Hungary",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3097,
   "image_width": 5245,
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Hungarian, 1894 - 1960",
-  "marks": "Signature; Date\r\nsee Signed [Szonyi Istvan 1922]",
+  "markings": "",
   "medium": "Ink and wash on paper",
   "nationality": "Hungarian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Szonyi Istvan 1922]",
   "style": "20th century",
   "text": "",
   "title": "Houses"

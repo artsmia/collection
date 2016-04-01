@@ -1,6 +1,7 @@
 {
   "accession_number": "84.77",
-  "artist": "Roger de la Fresnaye",
+  "artist": "Artist: Roger de la Fresnaye",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3987,
   "image_width": 3096,
+  "inscription": "",
   "life_date": "French, 1885 - 1925",
-  "marks": " LRC: R delaFresnaye",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "French",
   "provenance": "Dorothy Millett Lindeke, Wayzata, Minn.; bequethed to MIA, 1984.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: R delaFresnaye",
   "style": "20th century",
   "text": "",
   "title": "Sketches of Figures and a Horse"

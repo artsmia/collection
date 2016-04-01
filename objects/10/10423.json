@@ -1,6 +1,7 @@
 {
   "accession_number": "81.2.11",
-  "artist": "Hosoda Eishi",
+  "artist": "Artist: Hosoda Eishi",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5165,
   "image_width": 3598,
+  "inscription": "",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": " Chu_bunsai Eishi hitsu",
+  "markings": "Seal: Eishi",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Chu_bunsai Eishi hitsu",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "River View in Snow"

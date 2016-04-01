@@ -1,6 +1,7 @@
 {
   "accession_number": "P.91.1.8",
-  "artist": "Alphonse Mucha; Printed by F. Champenois, Paris",
+  "artist": "Artist: Alphonse Mucha; Printer: Printed by F. Champenois, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5235,
   "image_width": 3813,
+  "inscription": "Signature",
   "life_date": "Czech, 1860 - 1939",
-  "marks": "Signature Signed on the stone, LR: [Mucha]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Czech",
   "provenance": "Nanette H. Meech; given to MIA, 1991.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on the stone, LR: [Mucha]",
   "style": "19th-20th century",
   "text": "",
   "title": "Job"

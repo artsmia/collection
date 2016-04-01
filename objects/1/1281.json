@@ -1,6 +1,7 @@
 {
   "accession_number": "56.13",
-  "artist": "Monogrammist HB with the Griffin's Head",
+  "artist": "Artist: Monogrammist HB with the Griffin's Head",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6691,
   "image_width": 2015,
-  "life_date": "German, 1500 - 1550",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1500–1550",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G342",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Venus and Cupid"

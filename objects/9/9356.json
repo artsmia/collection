@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.319",
-  "artist": "Kitagawa Utamaro; Published by Yamaguchiya Chūsuke",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Yamaguchiya Chūsuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1312,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "Censor:kiwame\r\nPublisher:Yamaguchiya\r\n\r\n\\\"meibutsu o-miyage\\\"(famous sourvenir) on the paper on right\r\n\\\"Azuma meisho, o-higashi\\\"(the famous place of Edo, the cokokies shop) om the paper in the middle\r\n\\\"O-chagashi\\\"(tea sweet) on the paper on left",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "18th-19th century",
   "text": "",
   "title": "(Three Women with Bills for Sweets)"

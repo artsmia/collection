@@ -1,6 +1,7 @@
 {
   "accession_number": "80.88",
-  "artist": "Emmett Williams",
+  "artist": "Artist: Emmett Williams",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Donald G. Lehn (given through the Martin Ackerman Foundation)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4424,
   "image_width": 3316,
+  "inscription": "Signature; Date; Stamp",
   "life_date": "American, 1925 - 2007",
-  "marks": "Signature; Date; Stamp at lower edge: [Emmett Williams 1979]",
+  "markings": "embossed stamp, at LL",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "at lower edge: [Emmett Williams 1979]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

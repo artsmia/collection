@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.253",
-  "artist": "Totoya Hokkei",
+  "artist": "Artist: Totoya Hokkei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4407,
   "image_width": 3799,
+  "inscription": "2 poems(kyo_ka)",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": "2 poems(kyo_ka) Hokkei",
+  "markings": "ren(poets clib) seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hokkei",
   "style": "19th century",
   "text": "Ren poetry club",
   "title": "Mandarin Duck and Drake"

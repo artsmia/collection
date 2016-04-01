@@ -1,6 +1,7 @@
 {
   "accession_number": "85.128",
-  "artist": "Heinrich Kley",
+  "artist": "Artist: Heinrich Kley",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of an Anonymous Minneapolis Friend",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2737,
   "image_width": 4340,
+  "inscription": "Date; Inscription; Signature",
   "life_date": "German, 1863 - 1945",
-  "marks": "Date; Inscription; Signature ",
+  "markings": "in brown ink, lower right corner: [13 mai 23 / Empfang bestätigt / Heinrich Kley]; on easel: [180,000]",
   "medium": "Pen and brown ink on tan paper",
   "nationality": "German",
   "provenance": "Robert J. Poor, Minneapolis; given to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Caricature of an Obese Man Seated at an Easel"

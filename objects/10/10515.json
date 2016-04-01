@@ -1,6 +1,7 @@
 {
   "accession_number": "91.106",
-  "artist": "Gene Davis",
+  "artist": "Artist: Gene Davis",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of an Anonymous Twin Cities Friend",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Gene Davis %2F Smithsonian American Art Museum",
   "image_height": 1920,
   "image_width": 1903,
+  "inscription": "Inventory number, written in pen on wooden stretcher and on Gallery 12 label: PO5164",
   "life_date": "American, 1920-1985",
-  "marks": "Inventory number, written in pen on wooden stretch Verso right edge: GENE DAVIS (1966) BLACK ACES | L",
+  "markings": "(Dayton\\'s Gallery 12 label on verso.)",
   "medium": "Acrylic on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Verso right edge: GENE DAVIS (1966) BLACK ACES | Left side verso, right edge of canvas in pencil: Black Aces (1966)",
   "style": "20th century",
   "text": "",
   "title": "Black Aces"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.120.6",
-  "artist": "Olaf Carl Seltzer",
+  "artist": "Artist: Olaf Carl Seltzer",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Donald and Louise Gabbert",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3193,
   "image_width": 4696,
+  "inscription": "",
   "life_date": "American (b. Copenhagen), 1877 - 1957",
-  "marks": " LR: D. Seltzer./ 1906.",
+  "markings": "",
   "medium": "Watercolor and gouache",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: D. Seltzer./ 1906.",
   "style": "20th century",
   "text": "",
   "title": "Lookout"

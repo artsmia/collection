@@ -1,6 +1,7 @@
 {
   "accession_number": "66.67",
-  "artist": "Gaetano Gandolfi",
+  "artist": "Artist: Gaetano Gandolfi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3597,
   "image_width": 3343,
+  "inscription": "Signature",
   "life_date": "Italian, 1734 - 1802",
-  "marks": "Signature [Gaeto Gandolfi] lower center",
+  "markings": "",
   "medium": "Pen, brown ink, and wash on ivory paper",
   "nationality": null,
   "provenance": "GS-stamp not in Lugt; inscription: 'Monsu' Gio' Bolangier'",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Gaeto Gandolfi] lower center",
   "style": "18th century",
   "text": "",
   "title": "Minerva"

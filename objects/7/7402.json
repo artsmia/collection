@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,591",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2963,
   "image_width": 3884,
+  "inscription": "LL verso, in pencil: [202]; [11323]\r\nLR verso, cursive in pencil: [Noturne Furnaces]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [202]; [11323]\r\nLR verso, cur LL recto, in pencil: sheet trimmed leaving a tab f",
+  "markings": "",
   "medium": "Etching with plate tone",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL recto, in pencil: sheet trimmed leaving a tab for Whistler\\'s butterfly monogram and [imp.]",
   "style": "19th-20th century",
   "text": "",
   "title": "Nocturne: Furnace"

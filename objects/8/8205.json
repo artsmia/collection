@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.119",
-  "artist": "Katsukawa Shun'ei; Published by Ezakiya Kichibei",
+  "artist": "Artist: Katsukawa Shun'ei; Publisher: Published by Ezakiya Kichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5300,
   "image_width": 2458,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " {Shun\\'ei ga}",
+  "markings": "Publisher\\'s seal: {Ezakiya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shun\\'ei ga}",
   "style": "19th century",
   "text": "",
   "title": "The Actor Ichikawa Yaozō III as Chōemon"

@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.27",
-  "artist": "Torii Kiyomasu ll; Published by Izutsuya Chūemon",
+  "artist": "Artist: Torii Kiyomasu ll; Publisher: Published by Izutsuya Chūemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 968,
+  "inscription": "",
   "life_date": "Japanese, 1706 - 1763",
-  "marks": " {Torii Kiyomasu hitsu}",
+  "markings": "Publisher: Izutsuya",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Torii Kiyomasu hitsu}",
   "style": "18th century",
   "text": "",
   "title": "The Actors Tsugawa Kamon and Arashi Sangorō"

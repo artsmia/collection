@@ -1,6 +1,7 @@
 {
   "accession_number": "80.4.3",
-  "artist": "Montague Dawson",
+  "artist": "Artist: Montague Dawson",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of John B. Hawley, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Montague Dawson",
   "image_height": 3375,
   "image_width": 4850,
+  "inscription": "Signature",
   "life_date": "British, 1895 - 1973",
-  "marks": "Signature LLC: [Montague Dawson]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC: [Montague Dawson]",
   "style": "20th century",
   "text": "",
   "title": "Clipper Ship Thermopylae - Departure at Dawn"

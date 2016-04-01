@@ -1,6 +1,7 @@
 {
   "accession_number": "B.87.1b",
-  "artist": "Pablo Picasso; Georges Louis Leclerc, comte de Buffon; Published by Martin Fabiani",
+  "artist": "Artist: Pablo Picasso; Author: Georges Louis Leclerc, comte de Buffon; Publisher: Published by Martin Fabiani",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Lift-ground aquatint and etching",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Frog, from Histoire Naturelle (Natural History)"

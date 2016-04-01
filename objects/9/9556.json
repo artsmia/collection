@@ -1,6 +1,7 @@
 {
   "accession_number": "25.43",
-  "artist": "Adolf Jutz",
+  "artist": "Artist: Adolf Jutz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4627,
   "image_width": 2965,
+  "inscription": "Signature; Date",
   "life_date": "German (Munich), 1887 - 1945",
-  "marks": "Signature; Date [J 22], lower right corner, recto",
+  "markings": "",
   "medium": "Ink on white paper",
   "nationality": "German (Munich)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J 22], lower right corner, recto",
   "style": "20th century",
   "text": "",
   "title": "The Communicant"

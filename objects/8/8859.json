@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,992",
-  "artist": "Jacob L'Admiral, Jr.",
+  "artist": "Artist: Jacob L'Admiral, Jr.",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van DerLip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4099,
   "image_width": 2930,
+  "inscription": "(I. L\\'Admiral, jr. des. et sculp.)",
   "life_date": "Dutch; Amsterdam, 1700 - 1770",
-  "marks": "(I. L\\'Admiral, jr. des. et sculp.) ",
+  "markings": "",
   "medium": "Etching, hand-colored",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Plate XIX, from \"Naauwkeurige Waarneemingen...\""

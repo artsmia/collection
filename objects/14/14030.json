@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.36",
-  "artist": "William Walcot",
+  "artist": "Maker: William Walcot",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "British, 1874 - 1948",
-  "marks": "Signature; Date [W. Walcot 1920], LR corner",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W. Walcot 1920], LR corner",
   "style": "20th century",
   "text": "",
   "title": "Fishing Boats, Venice"

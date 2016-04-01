@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.242.8",
-  "artist": "Max Beckmann",
+  "artist": "Maker: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Kate Butler Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 2784,
   "image_width": 2032,
-  "life_date": "German, 1884 - 1950",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.18.34",
-  "artist": "Okada Beisanjin",
+  "artist": "Artist: Okada Beisanjin",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5302,
   "image_width": 2439,
+  "inscription": "L side center, upper right side center and URC: (undeciphered inscriptions)",
   "life_date": "Japanese, 1744 - 1820",
-  "marks": "L side center, upper right side center and URC: (u ULC, in  ink: Beisanjin",
+  "markings": "ULC, seal: Okada Shigen |  LRC and left side center: (unknown seals)",
   "medium": "Ink and color on paper; hanging scroll",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "ULC, in  ink: Beisanjin",
   "style": "19th century",
   "text": "",
   "title": "Landscape"

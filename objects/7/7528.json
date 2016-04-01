@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.147",
-  "artist": "Kurt Seligmann; Text by Pierre Courthion; Editions des Chroniques du Jour, Paris",
+  "artist": "Artist: Kurt Seligmann; Author: Text by Pierre Courthion; Publisher: Editions des Chroniques du Jour, Paris",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Kurt Seligmann %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\n\r\nsee Signed\r\n\r\nOn sheet verso: [1584/6 WE AG-^82C]\r\non mat: [Kurt Seligmann, Amer. 1900-1962]\r\n[L\\' Hermite\\\" 1934, (Pl.3 of Les Vagabondages Heraldiques). etching. The Herchel V. Jones Fund, by exchange.P.71.147.]",
   "life_date": "Swiss-American, 1900 - 1962",
-  "marks": "Signature; Date; Inscription\r\n\r\nsee Signed\r\n\r\nOn s on sheet and title, in pencil",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swiss-American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet and title, in pencil",
   "style": "20th century",
   "text": "",
   "title": "The Hermit"

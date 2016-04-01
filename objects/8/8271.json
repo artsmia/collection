@@ -1,6 +1,7 @@
 {
   "accession_number": "66.13.1",
-  "artist": "Sir William Orpen",
+  "artist": "Artist: Sir William Orpen",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of The Henfield Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3242,
   "image_width": 4334,
+  "inscription": "Signature; Mark",
   "life_date": "English, 1878 - 1931",
-  "marks": "Signature; Mark [Orpen], LR",
+  "markings": "[INDIANA MILL EXTRA STRONG], on watermark",
   "medium": "Pen and ink",
   "nationality": null,
   "provenance": "John Everett Collection",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Orpen], LR",
   "style": "19th century",
   "text": "",
   "title": "The Strolling Players"

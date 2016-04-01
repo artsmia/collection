@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.237.2",
-  "artist": "Carroll Dunham; Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Carroll Dunham; Publisher: Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Diane and Richard Cohen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2032,
   "image_width": 3056,
+  "inscription": "Signature; Date; Edition\r\n\r\nin graphite, LC:  [43/43]\r\n\r\nin graphite, LR:  [1988-1990]\r\n",
   "life_date": "American, born 1949",
-  "marks": "Signature; Date; Edition\r\n\r\nin graphite, LC:  [43/ In graphite, LL:  [Carroll Dunham]",
+  "markings": "",
   "medium": "Color etching",
   "nationality": null,
   "provenance": "Diane and Richard Cohen; given to MIA, 2000.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, LL:  [Carroll Dunham]",
   "style": "20th century",
   "text": "",
   "title": "Wave"

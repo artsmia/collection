@@ -1,6 +1,7 @@
 {
   "accession_number": "31.50.189a,b",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Lacquer",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Miss Lily Place",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3002,
   "image_width": 4200,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Lacquer with sprinkled gold and silver designs",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "(Small Box with Butterflies)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.14",
-  "artist": "Sir George Clausen",
+  "artist": "Maker: Sir George Clausen",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The DeLaittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2341,
   "image_width": 1885,
+  "inscription": "Signature",
   "life_date": "English, 1852 - 1912",
-  "marks": "Signature [G. Clausen]",
+  "markings": "",
   "medium": "Red chalk",
   "nationality": "English",
   "provenance": "[Grosvenor Galleries, London, until 1923; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[G. Clausen]",
   "style": "19th century",
   "text": "",
   "title": "Woman in Profile"

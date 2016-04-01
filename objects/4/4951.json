@@ -1,6 +1,7 @@
 {
   "accession_number": "96.103",
-  "artist": "Frank Gaard",
+  "artist": "Artist: Frank Gaard",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Artpolice Journals",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Gaard",
   "image_height": 3192,
   "image_width": 4328,
+  "inscription": "",
   "life_date": "American, born 1944",
-  "marks": " UC verso, black: His story / sephiroth / April 76 ",
+  "markings": "",
   "medium": "Fluorescent acrylic on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UC verso, black: His story / sephiroth / April 76 / Frank / Gaard",
   "style": "20th century",
   "text": "",
   "title": "His Story Sephiroth"

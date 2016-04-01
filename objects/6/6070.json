@@ -1,6 +1,7 @@
 {
   "accession_number": "B.81.5",
-  "artist": "Joan Miró; Text by Jacques Prevert; Maeght Editeur, Paris; Atelier Morsang",
+  "artist": "Artist: Joan Miró; Author: Text by Jacques Prevert; Publisher: Maeght Editeur, Paris; Printer: Atelier Morsang",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\nsee Signed",
   "life_date": "Spanish, 1893 - 1983",
-  "marks": "Signature and Mark\r\nsee Signed in pencil: [Miró]",
+  "markings": "Watermark: <Arches>",
   "medium": "Color etchings with aquatint and embossing; letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Miró]",
   "style": "20th century",
   "text": "",
   "title": "Adonides"

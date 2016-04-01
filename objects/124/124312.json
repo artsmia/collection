@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.93.19.2",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Elizabeth, Julie, and Catherine Andrus in memory of John and Marion Andrus",
@@ -10,10 +11,10 @@
   "description": "\r\n\r\n\r\n\r\n\r\n\r\n",
   "dimension": "2 × 3 in. (5.08 × 7.62 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/124312",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2399,
+  "image_width": 3348,
   "inscription": "Signature, Date, Inscription, Stamps\r\n\r\ninscribed in plate at top: [LEONIS SUFFOCATI EXVVIIS INDVITVR HERCVLES]\r\n\r\ninscribed on verso in graphite: VGUX [code for Prouté, Paris]",
   "life_date": "German, 1500-1550",
   "markings": "red stamp on verso, upper left: Josef V. Novák (L.1949)\r\n",
@@ -27,5 +28,5 @@
   "signed": "monogram and date in plate at lower left: [1548 / HSB]",
   "style": "16th century",
   "text": "",
-  "title": "Hercules Killing the Neumaeic Lion, From the Labors of Hercules"
+  "title": "Hercules Killing the Nemean Lion, From the Labors of Hercules"
 }

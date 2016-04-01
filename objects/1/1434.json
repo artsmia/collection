@@ -1,6 +1,7 @@
 {
   "accession_number": "61.48",
-  "artist": "Oskar Kokoschka",
+  "artist": "Artist: Oskar Kokoschka",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of David Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 6123,
   "image_width": 7261,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": "Signature and Date LL: [OK 1933]",
+  "inscription": "Signature and Date",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "",
   "medium": "Oil on canvas\r\n(1970 catalogue lists 'oil type on linen')",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [OK 1933]",
   "style": "20th century",
   "text": "",
   "title": "Bacchus (Bob Gesinus Visser I, 1933)"

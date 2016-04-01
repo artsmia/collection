@@ -1,6 +1,7 @@
 {
   "accession_number": "24.47",
-  "artist": "Vierge",
+  "artist": "Artist: Vierge",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The John De Laittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Spanish, 1851 - 1904",
-  "marks": "Signature\r\nsee Signed [Vierge]",
+  "markings": "",
   "medium": "Pen and graphite",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Vierge]",
   "style": "19th century",
   "text": "",
   "title": "Scene from Don Quixote"

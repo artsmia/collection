@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.2",
-  "artist": "John Flaxman R.A.",
+  "artist": "Artist: John Flaxman R.A.",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The DeLaittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3354,
   "image_width": 4846,
+  "inscription": "Inscriptions",
   "life_date": "British, 1755 - 1826",
-  "marks": "Inscriptions ",
+  "markings": "\\'Talehyhius, Ajax, Hector, Eurybates, Between the Swords their peaceful sceptres rear\\'d. Iliad, Book 7\\'; \\'JOHN FLAXMAN, R.A.\\', on original (?) mat",
   "medium": "Pen and grey brown ink over graphite on white wove paper",
   "nationality": "British",
   "provenance": "[Scott and Fowles, New York; sold to MIA in 1923]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Single Combat between Hector and Ajax"

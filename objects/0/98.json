@@ -1,6 +1,7 @@
 {
   "accession_number": "16.42",
   "artist": "",
+  "classification": "Sculpture",
   "continent": "Africa",
   "country": "Egypt",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5032,
   "image_width": 3721,
+  "inscription": "Inscription begins at right on front of pedestal, passing to left ends in middle of right side of pedestal. Nearly illegible but begins: \\\"Harsiesis giving life (to ) Pete...\\\"",
   "life_date": null,
-  "marks": "Inscription begins at right on front of pedestal,  ",
+  "markings": "in hieroglyphs, \\'Harsiesus giving life . . .\\'",
   "medium": "Bronze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "8th century BCE - 1st century CE",
   "text": "",
   "title": "Figure of God Harsiesis"

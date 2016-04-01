@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.10",
-  "artist": "Max Beerbohm",
+  "artist": "Maker: Max Beerbohm",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John DeLaittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Date",
   "life_date": "English, 1872-1956",
-  "marks": "Inscription; Date ",
+  "markings": "[Mr. A. W. Pinero/wistfully:/\\'Perhaps I shall/get a European/reputation/now.\\'/Oct 1905]",
   "medium": "Pen and color",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "A. W. Pinero"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,769",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Miss Tessie Jones in memory of her parents, Mr. and Mrs. Herschel V. Jones, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2454,
   "image_width": 1854,
-  "life_date": "German, 1471 - 1528",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1471–1528",
+  "markings": "Watermark: Jug (Meder 158) c. 1525",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "The elaborately coiffed woman seems considerably less perturbed by her abduction than does the turbaned man approaching the water's edge. This image directly corresponds to no known story from classical mythology and may be rooted in the tales of sea monsters that abounded during the Age of Discovery. Just as the monster comprises characteristics of various creatures, the background landscape combines elements of the castle of Nuremberg with Alpine views recorded on the artist's travels far from home.",
   "title": "The Sea Monster"

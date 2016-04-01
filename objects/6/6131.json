@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.10",
-  "artist": "Various artists",
+  "artist": "Artist: Various artists",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Denmark",
   "creditline": "Gift of Norma (Njus) Egeness",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1533,
   "image_width": 2560,
+  "inscription": "Inscriptions",
   "life_date": null,
-  "marks": "Inscriptions ",
+  "markings": "Untranslated inscriptions, in brown, on first page, with copy of inscription and additional notes on an inserted page attached inside front cover; additional untranslated inscriptions inside back cover and on back pages, in black",
   "medium": "Leather-covered book",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bible"

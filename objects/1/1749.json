@@ -1,6 +1,7 @@
 {
   "accession_number": "69.83.2",
-  "artist": "Narcisse-Virgile Diaz de la Peña",
+  "artist": "Artist: Narcisse-Virgile Diaz de la Peña",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Margaret Weyerhaeuser Harmon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3356,
   "image_width": 4360,
+  "inscription": "Signature",
   "life_date": "French, 1807 - 1876",
-  "marks": "Signature LL in dark brown: [N. Diaz]",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G354",
+  "signed": "LL in dark brown: [N. Diaz]",
   "style": "19th century",
   "text": "",
   "title": "Autumn, Forest Interior"

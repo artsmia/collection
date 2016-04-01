@@ -1,6 +1,7 @@
 {
   "accession_number": "15.143",
-  "artist": "Joseph Pennell",
+  "artist": "Maker: Joseph Pennell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2483,
   "image_width": 1910,
+  "inscription": "Signature",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signature [J. Pennell] lower right corner, recto",
+  "markings": "",
   "medium": "Black chalk on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J. Pennell] lower right corner, recto",
   "style": "19th-20th century",
   "text": "",
   "title": "Building the Bridge, Minneapolis"

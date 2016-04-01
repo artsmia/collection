@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.13",
-  "artist": "David Saunders",
+  "artist": "Artist: David Saunders",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3937,
   "image_width": 3164,
+  "inscription": "Signature, Date, Edition, Chop Mark",
   "life_date": "American, born 1954",
-  "marks": "Signature, Date, Edition, Chop Mark LR; [David Saunders 1983]\r\nLL: [AP 2/6]\r\nLL: VEL C",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR; [David Saunders 1983]\r\nLL: [AP 2/6]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Saint Joan"

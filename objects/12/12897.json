@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.15",
-  "artist": "Richard Parkes Bonington",
+  "artist": "Maker: Richard Parkes Bonington",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Wheelock Whitney III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2032,
   "image_width": 3056,
+  "inscription": "Inscription",
   "life_date": "British, 1802 - 1828",
-  "marks": "Inscription ",
+  "markings": "[Montmajour c.1888/V.V.Gogh], in blue ink, verso",
   "medium": "Graphite on cream wove paper",
   "nationality": "British",
   "provenance": "Wheelock Whitney III, New York, NY",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sion with the ruins on Mount Tourbillon"

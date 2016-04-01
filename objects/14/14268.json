@@ -1,6 +1,7 @@
 {
   "accession_number": "24.40",
-  "artist": "Jean Frélaut",
+  "artist": "Artist: Jean Frélaut",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3221,
   "image_width": 5445,
+  "inscription": "Signature; Date",
   "life_date": "French, 1879 - 1954",
-  "marks": "Signature; Date [Frelaut 1922], lower left",
+  "markings": "",
   "medium": "Watercolor on white paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Frelaut 1922], lower left",
   "style": "20th century",
   "text": "",
   "title": "Landscape, Arzon"

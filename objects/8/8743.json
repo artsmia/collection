@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.95",
-  "artist": "Suzuki Harunobu",
+  "artist": "Artist: Suzuki Harunobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1405,
+  "inscription": "",
   "life_date": "Japanese, 1725 - 1770",
-  "marks": " {Suzuki Harunobu ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Suzuki Harunobu ga}",
   "style": "18th century",
   "text": "",
   "title": "Young Samurai Viewing Cherry Blossoms as a Mitate of Prince Kaoru"

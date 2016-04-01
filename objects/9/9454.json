@@ -1,6 +1,7 @@
 {
   "accession_number": "72.99",
-  "artist": "Robert Henri",
+  "artist": "Artist: Robert Henri",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Chapellier Galleries",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1168,
+  "inscription": "Signature; Inscriptions",
   "life_date": "American, 1865 - 1929",
-  "marks": "Signature; Inscriptions [Robert Henri/JCL] in blue pen, lower right, recto",
+  "markings": "[94] in graphite, lower right, recto; [3] in graphite, upper left, recto",
   "medium": "Pen and red ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Robert Henri/JCL] in blue pen, lower right, recto;",
   "style": "20th century",
   "text": "",
   "title": "Seated Female Nude"

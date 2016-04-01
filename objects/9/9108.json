@@ -1,6 +1,7 @@
 {
   "accession_number": "68.53.3",
-  "artist": "Samuel van Hoogstraten",
+  "artist": "Artist: Samuel van Hoogstraten",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3049,
   "image_width": 3958,
+  "inscription": "",
   "life_date": "Dutch, 1627 - 1678",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "Dutch",
   "provenance": "August Artaria (1807-1893), Lugt 33\r\nAlfred von Wurzbach (1845-1915), Lugt 2587\r\nStefan von Licht (1880-1932), Lugt S. 789b\r\nMiss Nelson, Prestwich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Stoning of Saint Stephen"

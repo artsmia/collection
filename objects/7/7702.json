@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.24",
-  "artist": "Malcolm Morley; Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "artist": "Artist: Malcolm Morley; Publisher: Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2759,
   "image_width": 3687,
+  "inscription": "Signed, Numbered, and Chop Mark",
   "life_date": "American (b. England), born 1931",
-  "marks": "Signed, Numbered, and Chop Mark LR: [MALCOM MORLEY]\r\nLL: [AP 6/12]\r\nLR: VEL Chop M",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [MALCOM MORLEY]\r\nLL: [AP 6/12]\r\nLR: VEL Chop Mark\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "55.12",
-  "artist": "Edvard Munch",
+  "artist": "Artist: Edvard Munch",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4134,
   "image_width": 6374,
+  "inscription": "",
   "life_date": "Norwegian, 1863 - 1944",
-  "marks": " There is no signature or date.\r\n\r\n-It is commonly ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Norwegian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "There is no signature or date.\r\n\r\n-It is commonly estimated that only about 60% of Munchs works are signed by the artist. -Ebbe Arneberg",
   "style": "19th century",
   "text": "",
   "title": "Tragedy"

@@ -1,6 +1,7 @@
 {
   "accession_number": "31.41.1",
-  "artist": "John Coles",
+  "artist": "Artist: John Coles",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell in memory of James S. and Sallie M. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1436,
+  "inscription": "",
   "life_date": "American, 1749 - 1809",
-  "marks": " ",
+  "markings": "",
   "medium": "Watercolor and ink over graphite heightened with gouache and gilding on off-white wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Crest: Name of Fairfield"

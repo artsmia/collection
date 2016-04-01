@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.242.15",
-  "artist": "Paul Klee",
+  "artist": "Artist: Paul Klee",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Kate Butler Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2543,
   "image_width": 1825,
+  "inscription": "Signature; Date; Inscription\r\n\r\nInscribed in black ink (faded) on mount, LC: [1937 R 20 schreitender Mann].",
   "life_date": "Swiss, 1879 - 1940",
-  "marks": "Signature; Date; Inscription\r\n\r\nInscribed in black Signed in black ink, UR: [Klee]",
+  "markings": "",
   "medium": "Pen and black ink with wash",
   "nationality": "Swiss",
   "provenance": "the artist's wife, Lily Klee, Bern; John A. Torson, New York; Hall James and Kate Butler Peterson, Petersham, Mass.; their gift to MIA, 2000",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in black ink, UR: [Klee]",
   "style": "20th century",
   "text": "",
   "title": "Schreitender Mann"

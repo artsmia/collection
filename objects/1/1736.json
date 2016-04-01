@@ -1,6 +1,7 @@
 {
   "accession_number": "69.4",
-  "artist": "Cornelis van Cleve",
+  "artist": "Artist: Cornelis van Cleve",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7057,
   "image_width": 5499,
+  "inscription": "",
   "life_date": "Netherlandish, 1520 - after 1570",
-  "marks": " No signature.",
+  "markings": "Nothing on verso; balsa backing panel.",
   "medium": "Oil on panel",
   "nationality": "Netherlandish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signature.",
   "style": "16th century",
   "text": "",
   "title": "Madonna and Child"

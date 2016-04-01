@@ -1,6 +1,7 @@
 {
   "accession_number": "69.91.2",
-  "artist": "Ansel Adams; Published by Sierra Club",
+  "artist": "Photographer: Ansel Adams; Publisher: Published by Sierra Club",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Photographs by Ansel Adams. Copyright ©1998 by the Trustees of the Ansel Adams Publishing Rights Trust. All Rights Reserved",
   "image_height": 2548,
   "image_width": 3154,
+  "inscription": "",
   "life_date": "American, 1902 - 1984",
-  "marks": " ",
+  "markings": "",
   "medium": "Gelatin silver print (printed 1960)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Merced River, Cliffs of Cathedral Rocks, Autumn"

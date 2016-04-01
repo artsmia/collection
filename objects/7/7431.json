@@ -1,6 +1,7 @@
 {
   "accession_number": "P.67.6",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mr. and Mrs. D. Thomas Bergen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Inscription\r\n\r\ninscribed in plate, at bottom: CZINMON",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Date, Inscription\r\n\r\ninscribed in plate monogram and date in plate, upper left: [1544 / HS",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date in plate, upper left: [1544 / HSB]",
   "style": "16th century",
   "text": "",
   "title": "Cimon and Pero"

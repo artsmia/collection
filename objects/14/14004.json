@@ -1,6 +1,7 @@
 {
   "accession_number": "23.50.23",
-  "artist": "Richard Cooper II",
+  "artist": "Maker: Richard Cooper II",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John DeLaittre Fund\r\n(per binder sheet:  Gift of Mrs. Horace Ropes, 1923; also: The John Delaittre Memorial Collection)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3392,
   "image_width": 4427,
+  "inscription": "Signature; Mark",
   "life_date": "English, 1740 - c.1814",
-  "marks": "Signature; Mark ",
+  "markings": "\\'Ric\\' Cooper del. Roma\\', in black ink, LR; \\'A C [inside box]\\', collector\\'s mark [A. Chariatte, London (Early 19th c.) - Lugt S88a]",
   "medium": "Brush with grey wash over graphite on off-white laid paper, fully mounted down",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "A View of Castel di Cesare, Rome"

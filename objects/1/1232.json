@@ -1,6 +1,7 @@
 {
   "accession_number": "52.26",
-  "artist": "Pilipili",
+  "artist": "Artist: Pilipili",
+  "classification": "Paintings",
   "continent": "Africa",
   "country": "Democratic Republic of Congo",
   "creditline": "Gift of Carl W. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4509,
   "image_width": 5556,
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Democratic Republic of Congo",
-  "marks": "Signature\r\nsee Signed appears twice: UL: [Pili]; LR:[Pilipili]",
+  "markings": "",
   "medium": "Oil on paper",
   "nationality": "African",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "appears twice: UL: [Pili]; LR:[Pilipili]",
   "style": "20th century",
   "text": "",
   "title": "Funerailles"

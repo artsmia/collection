@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,646",
-  "artist": "José Clemente Orozco; Printed by George C. Miller; Published by The Weyhe Gallery, New York",
+  "artist": "Artist: José Clemente Orozco; Printer: Printed by George C. Miller; Publisher: Published by The Weyhe Gallery, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Mrs. Charles C. Bovey, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "image_height": 3470,
   "image_width": 4778,
+  "inscription": "Signature",
   "life_date": "Mexican, 1883 - 1949",
-  "marks": "Signature Signed in pencuil, LR: [Josè Clemente Orozco]; sig",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Mexican",
   "provenance": "Kate Koon Bovey, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencuil, LR: [Josè Clemente Orozco]; signed on the stone: [J.C.O.]",
   "style": "20th century",
   "text": "",
   "title": "El requiem"

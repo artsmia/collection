@@ -1,6 +1,7 @@
 {
   "accession_number": "69.59",
-  "artist": "Muirhead Bone",
+  "artist": "Artist: Muirhead Bone",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Muirhead Bone %2F Artists Rights Society %28ARS%29%2C New York %2F DACS%2C United Kingdom",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature",
   "life_date": "Scottish, 1876 - 1953",
-  "marks": "Signature [Muirhead Bone], lower center",
+  "markings": "",
   "medium": "Graphite on vellum",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Muirhead Bone], lower center",
   "style": "20th century",
   "text": "",
   "title": "Oxford, August, 1906"

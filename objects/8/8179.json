@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.26",
-  "artist": "Torii Kiyomasu ll; Published by Urokogataya Magobei",
+  "artist": "Artist: Torii Kiyomasu ll; Publisher: Published by Urokogataya Magobei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4301,
   "image_width": 2101,
+  "inscription": "",
   "life_date": "Japanese, 1706 - 1763",
-  "marks": " {Eshi Torii Kiyomasu hitsu}",
+  "markings": "Publisher: Urokogataya hanmoto",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eshi Torii Kiyomasu hitsu}",
   "style": "18th century",
   "text": "",
   "title": "Three Notable Scenes of Segawa, Left"

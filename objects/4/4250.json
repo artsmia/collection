@@ -1,6 +1,7 @@
 {
   "accession_number": "91.48.2",
-  "artist": "Dick Arentz",
+  "artist": "Artist: Dick Arentz",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Harry M. Drake",
@@ -14,8 +15,9 @@
   "image_copyright": "© Dick Arentz",
   "image_height": 1540,
   "image_width": 2560,
+  "inscription": "Signature, Date, Title",
   "life_date": "American, born 1935",
-  "marks": "Signature, Date, Title ",
+  "markings": "Signature, date, title LR; blind stamp LL\\'PLATINUM/ PALLADIUM/ c Dick Arentz",
   "medium": "Platinum/ palladium print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La Mancha, Consuegra, Spain"

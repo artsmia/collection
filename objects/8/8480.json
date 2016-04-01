@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,581",
-  "artist": "William Blake",
+  "artist": "Artist: William Blake",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7459,
   "image_width": 9795,
+  "inscription": "",
   "life_date": "British, 1757 - 1827",
-  "marks": " LR: WBlake 1795 (trimmed)",
+  "markings": "",
   "medium": "Color monotype in tempera, finished with pen, black ink and watercolor on paper",
   "nationality": "British",
   "provenance": "'the artist's wife, Catherine Blake, London (1827-d.1831); 'Frederick Tatham, London (from 1831); 'Joseph Hogarth, London (until 1854; offered c. 1843 through George Richmond to John Ruskin; Hogarth sale, Southgate and Barrett, London, June 7-30, 1854, no. 7553, for £2.7.0 to Graves or £10.10.0 to Proctor). 'Samuel Palmer, London (in 1859). Sir William Stirling Maxwell, Keir, Scotland (by 1863-'d.1878); his son, Brig. General Archibald Stirling (1867-1931), Keir, Scotland ('1878-at least 1913). [Mrs. Madeline Clifton, Carfax Gallery, London, in mid-1950s; sold to Agnew's]; [Thomas Agnews & Sons, London, until 1957; sold to MIA].\r\n\r\nFor a discussion of the hypothetical provenance before 1863, see Butlin p. 166, no. 304, pp. 157-58",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: WBlake 1795 (trimmed)",
   "style": "18th century",
   "text": "",
   "title": "Nebuchadnezzar"

@@ -1,6 +1,7 @@
 {
   "accession_number": "16.108",
   "artist": "",
+  "classification": "Sculpture",
   "continent": "Africa",
   "country": "Egypt",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Stone",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "21st-16th century BCE",
   "text": "",
   "title": "Horus"

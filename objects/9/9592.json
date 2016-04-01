@@ -1,6 +1,7 @@
 {
   "accession_number": "83.95",
-  "artist": "Giuseppe Antonio Petrini",
+  "artist": "Artist: Giuseppe Antonio Petrini",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Atherton and Winifred W. Bean",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1384,
+  "inscription": "Signature; Sticker; Inscriptions; Mark",
   "life_date": "Italian, 1677 - about 1757",
-  "marks": "Signature; Sticker; Inscriptions; Mark [Petrini Loganzese] in brown ink, at bottom left o",
+  "markings": "loan sticker on backing: [L.75.46.1 M Hall]; in brown ink: [Giuseppe Petrini? worked in Lugano in 18th century]; in pencil at lower left: [40/5];  illegible, erased pencil inscription, LLC: [f....P....mari]; in blue ballpoint pen, URC: [MH#9]\r\nWatermark: left border: Crescent (Comp. Heawood 867, 1696)",
   "medium": "Red and brown chalk, blue and red washes on white laid paper",
   "nationality": "Italian",
   "provenance": "Michael Hall",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Petrini Loganzese] in brown ink, at bottom left of center",
   "style": "18th century",
   "text": "",
   "title": "Study of Two Figures"

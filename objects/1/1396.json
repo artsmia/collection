@@ -1,6 +1,7 @@
 {
   "accession_number": "61.22",
-  "artist": "attributed to Eugène Delacroix",
+  "artist": "Artist: Imitator of Eugène Delacroix",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Gertrude Hill Gavin",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4749,
   "image_width": 6829,
-  "life_date": "French, 1798 - 1863",
-  "marks": "Signature LR in black: [Eug. Delacroix]",
+  "inscription": "Signature",
+  "life_date": "French, 1798–1863",
+  "markings": "",
   "medium": "Oil on panel",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in black: [Eug. Delacroix]",
   "style": "19th century",
   "text": "",
   "title": "Lioness Reclining"

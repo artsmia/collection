@@ -1,6 +1,7 @@
 {
   "accession_number": "54.27.110",
-  "artist": "attributed to M. Lanfrey",
+  "artist": "Artist: attributed to M. Lanfrey",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. John P. Rutherfurd in memory of her father, Mr. Thomas Shevlin",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1090,
+  "inscription": "Marks",
   "life_date": "French",
-  "marks": "Marks ",
+  "markings": "impressed: [NIDERVILLER]; mark of M. Lanfrey",
   "medium": "Biscuit porcelain",
   "nationality": "French (Niderviller)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Figure"

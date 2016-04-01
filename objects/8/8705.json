@@ -1,6 +1,7 @@
 {
   "accession_number": "70.19.2",
-  "artist": "Franz von Defregger",
+  "artist": "Artist: Franz von Defregger",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Dr. Alfred Bader, Aldrich Chemical Co., Milwaukee",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1608,
+  "inscription": "",
   "life_date": "German, 1835 - 1921",
-  "marks": " 4/97: examined, no signature found on recto",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "4/97: examined, no signature found on recto",
   "style": "19th century",
   "text": "",
   "title": "The Blacksmith"

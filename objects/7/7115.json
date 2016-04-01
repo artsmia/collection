@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.100a,b",
-  "artist": "Peter Behrens; AEG (Allgemeine Elektrizitäts-Gesellschaft)",
+  "artist": "Designer: Peter Behrens; Manufacturer: AEG (Allgemeine Elektrizitäts-Gesellschaft)",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1465,
-  "life_date": "German, 1868-1940",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1868–1940",
+  "markings": "",
   "medium": "Brass, wicker",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G379",
+  "signed": "",
   "style": "Bauhaus",
   "text": "",
   "title": "Tea kettle"

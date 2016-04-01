@@ -1,6 +1,7 @@
 {
   "accession_number": "46.14.271",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1159,
   "image_width": 2560,
+  "inscription": "Inscriptions, Mark, Stamp",
   "life_date": "American, 1860 - 1926",
-  "marks": "Inscriptions, Mark, Stamp ",
+  "markings": "Watermark: upper edge of paper: <((M)ason Freres Vialon=Les-)>\r\nUL corner in pen [A3509], UL corner in pencil [No] \r\nsignature: on right half, (46.14.270); Collector\\'s \\\"D\\\" stamp on verso",
   "medium": "Pen and black ink over graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tail Piece from Michaelangelo's Faun"

@@ -1,6 +1,7 @@
 {
   "accession_number": "13.32",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Florence M. Shirlaw",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3637,
   "image_width": 2599,
+  "inscription": "Signature",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature LL: initialed",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: initialed",
   "style": "19th century",
   "text": "",
   "title": "Rothenberg"

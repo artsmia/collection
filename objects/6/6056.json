@@ -1,6 +1,7 @@
 {
   "accession_number": "B.80.11",
-  "artist": "Pablo Picasso; Text by Honoré de Balzac; Published by Ambroise Vollard, Paris, France; Wood engraving by Georges Aubert, Paris, France; Printed by Louis Fort, Paris, France (etchings); Printed by Georges Aubert, Paris, France (wood engravings); Printed by Aimé Jourde, Paris, France , (text and typography)",
+  "artist": "Artist: Pablo Picasso; Author: Text by Honoré de Balzac; Publisher: Published by Ambroise Vollard, Paris, France; Woodcutter: Wood engraving by Georges Aubert, Paris, France; Printer: Printed by Louis Fort, Paris, France (etchings); Printer: Printed by Georges Aubert, Paris, France (wood engravings); Printer: Printed by Aimé Jourde, Paris, France , (text and typography)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Bruce B. Dayton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3982,
   "image_width": 3110,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Signature, Edition, Watermark\r\n\r\nNumbered in penci Signed in pencil on the colophon page",
+  "inscription": "Signature, Edition, Watermark\r\n\r\nNumbered in pencil on colophon page: [95/240]",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "Watermark: <BFK>",
   "medium": "Etchings, wood engravings, letterpress",
   "nationality": "Spanish",
   "provenance": "[Goldschmidt Galleries, New York]; sold to MIA, 1980.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil on the colophon page",
   "style": "20th century",
   "text": "Interspersed within the text are 13 original etchings created specifically by Picasso for this book. All deal directly or indirectly with the subject of an artist and his model. In this etching the bull, like the artist, is male and the horse, his female model, both engaged in a stand-off in which the bull clearly dominates. Picasso often used the bull as a symbol of the artistic prowess of the artist in the studio.",
   "title": "Le chef d'oeuvre Inconnu (The Unknown Masterpiece)"

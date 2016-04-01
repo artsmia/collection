@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.116",
-  "artist": "Jacopo de' Barbari",
+  "artist": "Artist: Jacopo de' Barbari",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3585,
   "image_width": 2670,
+  "inscription": "",
   "life_date": "Italian (Venice), c. 1460/70-before 1516",
-  "marks": " ",
+  "markings": "Watermark: a hand",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Colnaghi; Knoedler Co., 1925.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Guardian Angel"

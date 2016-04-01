@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.21.16",
-  "artist": "Joan Miró; Guy Lévis Mano, Paris",
+  "artist": "Artist: Joan Miró; Publisher: Guy Lévis Mano, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Kenneth R. and Lillian Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Spanish, 1893 - 1983",
-  "marks": " signed in pencil recto",
+  "markings": "",
   "medium": "Color etching with aquatint",
   "nationality": "Spanish",
   "provenance": "Kenneth R. and Lillian Smith, MN",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil recto",
   "style": "20th century",
   "text": "",
   "title": "Le Dedans & Le Dehors"

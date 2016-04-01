@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,865",
-  "artist": "Paul Gauguin; Louis Roy",
+  "artist": "Artist: Paul Gauguin; Printer: Louis Roy",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund, 1947",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3250,
   "image_width": 5113,
+  "inscription": "Signature, Title \r\n\r\nTitle inscribed in block, UL: Manao tupapau",
   "life_date": "French, 1848 - 1903",
-  "marks": "Signature, Title \r\n\r\nTitle inscribed in block, UL: monogram in block, LL: [PGO]",
+  "markings": "",
   "medium": "Color woodcut on Japan paper",
   "nationality": "French",
   "provenance": "[Jean Goriany, New York, until 1947; sold June 18, for $500, to MIA].",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in block, LL: [PGO]",
   "style": "19th century",
   "text": "",
   "title": "Watched by the Spirits of the Dead"

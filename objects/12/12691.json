@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.133.2",
-  "artist": "Gendron Jensen",
+  "artist": "Artist: Gendron Jensen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition\r\n\r\nin graphite, LR: [GJ:99]; in graphite, LL: [Insculpta est! 33/40]",
   "life_date": "American, born 1939",
-  "marks": "Signature; Date; Title; Edition\r\n\r\nin graphite, LR ",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Insculpta est!"

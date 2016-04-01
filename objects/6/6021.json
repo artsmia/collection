@@ -1,6 +1,7 @@
 {
   "accession_number": "99.79.2",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 3574,
   "image_width": 4322,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": "Signature; Date LL: [GEORGE MORRISON 1949];   verso: [G. Morrison]",
+  "inscription": "Signature; Date",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "",
   "medium": "Pen and black ink and colored inks, brush and black ink and wash",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [GEORGE MORRISON 1949];   verso: [G. Morrison]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

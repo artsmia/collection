@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,391",
-  "artist": "Félix Vallotton",
+  "artist": "Artist: Félix Vallotton",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3775,
   "image_width": 4817,
+  "inscription": "Signature; Inscription\r\n\r\nsee Signed\r\n\r\n[V 161] on mat(?)",
   "life_date": "Swiss, 1865 - 1925",
-  "marks": "Signature; Inscription\r\n\r\nsee Signed\r\n\r\n[V 161] on outside block, LR: [I(?) F Vallotton]; inside bloc",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "outside block, LR: [I(?) F Vallotton]; inside block LR: [FV]",
   "style": "19th century",
   "text": "",
   "title": "A Trusting Man"

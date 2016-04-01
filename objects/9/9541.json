@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.2",
-  "artist": "Benjamin West",
+  "artist": "Artist: Benjamin West",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4605,
   "image_width": 3096,
+  "inscription": "",
   "life_date": "American, 1738 - 1820",
-  "marks": " ",
+  "markings": "",
   "medium": "Black chalk heightened with white on laid, grey-brown paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "John the Baptist"

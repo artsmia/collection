@@ -1,6 +1,7 @@
 {
   "accession_number": "78.74.2",
-  "artist": "Richard Smith",
+  "artist": "Artist: Richard Smith",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of W. M. Bollenbach, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "© Richard Smith",
   "image_height": 3875,
   "image_width": 3744,
+  "inscription": "",
   "life_date": "British, born 1931",
-  "marks": " ",
+  "markings": "",
   "medium": "Acrylic on shaped canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Kodak 2"

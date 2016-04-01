@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.10.2.3",
-  "artist": "New England Glass Company (?)",
+  "artist": "Manufacturer: New England Glass Company (?)",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Fred R. Salisbury II Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1243,
   "image_width": 2560,
+  "inscription": "",
   "life_date": "American; Massachusetts; Cambridge",
-  "marks": " ",
+  "markings": "",
   "medium": "Lead glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Cordial glass, from a set of four"

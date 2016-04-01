@@ -1,6 +1,7 @@
 {
   "accession_number": "92.95.3",
-  "artist": "Edward S. Curtis",
+  "artist": "Photographer: Edward S. Curtis",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Otto and Helen Silha",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "printed title;printed inscription;printed inscription",
   "life_date": "American, 1868-1952",
-  "marks": "printed title;printed inscription;printed inscript ",
+  "markings": "lower left margin: Getting Water--Apache;center lower margin: from Copyright Photograph 1903 by E. S. Curtis;upper left margin: Plate 10",
   "medium": "Photogravure",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Getting Water, Apache"

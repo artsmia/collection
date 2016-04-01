@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.32",
-  "artist": "Sèvres Porcelain Factory",
+  "artist": "Manufacturer: Sèvres Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3385,
   "image_width": 3717,
-  "life_date": "Paris, 1756-present",
-  "marks": "Signature, Mark ",
+  "inscription": "Signature, Mark",
+  "life_date": "Paris, 1756–present",
+  "markings": "\\'Mlle de Gaule\\' marks: red - \\'de Sèvres\\' and \\'10\\'",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Plate"

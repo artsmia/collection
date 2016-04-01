@@ -1,6 +1,7 @@
 {
   "accession_number": "90.15",
-  "artist": "Camille Pissarro",
+  "artist": "Artist: Camille Pissarro",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mary Young Janes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1887,
   "image_width": 2733,
+  "inscription": "",
   "life_date": "French, 1830 - 1903",
-  "marks": " LR in blue : C. Pissarro 81",
+  "markings": "",
   "medium": "Gouache over graphite [?] on linen",
   "nationality": "French",
   "provenance": "[Durand-Ruel, Paris]; sold to James J. Hill, St. Paul, Minnesota in January, 1890; presented by Hill to Judge George B. Young on February 7, 1890.[1] Estate of Mary Young Janes, St. Paul, Minnesota; bequeathed to the MIA in 1990.\r\n\r\n[1] Listed in the James J. Hill papers, \"Pictures of Mr. Hill,\" Hill Reference Library, St. Paul, Minnesota as \"Recolte des Betteraves\" (watercolor), cost, $300.00.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in blue : C. Pissarro 81",
   "style": "19th century",
   "text": "French Impressionist artist Camille Pissarro was an avowed anarchist who strongly opposed the existing social and political order in France. He envisioned a future where the peasantry, laboring classes, bourgeoisie, and ruling class would share in the wealth and power of the state. Among his goals was the preservation of the values of agrarian life that were being supplanted by the rapid industrialization of France. He expressed these ideals through his many paintings, drawings, and prints of bucolic rural scenes, where farmers and peasants live in perfect harmony with nature. In a manifestation of his beliefs, Pissarro eventually moved from Paris to a small farm in the countryside where he experienced the agrarian life firsthand.",
   "title": "The Beet Harvest"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.188",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Jean Elleard Stewart",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 2358,
   "image_width": 1649,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": "Signature; Date in black ink, verso: [George Morrison 1972]",
+  "inscription": "Signature; Date",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "",
   "medium": "Pen and black ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink, verso: [George Morrison 1972]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

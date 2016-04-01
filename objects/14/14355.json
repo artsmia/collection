@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.39.1",
-  "artist": "Nast Factory",
+  "artist": "Maker: Nast Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2530,
   "image_width": 3870,
+  "inscription": "Mark",
   "life_date": "Paris, 1783 - 1835",
-  "marks": "Mark ",
+  "markings": "\\'Nast à Paris\\' in gold at underside",
   "medium": "Porcelain with enamel and gilded decoration",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Cup"

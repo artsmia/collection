@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.131",
-  "artist": "Katsukawa Shunchō",
+  "artist": "Artist: Katsukawa Shunchō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4534,
   "image_width": 2207,
+  "inscription": "",
   "life_date": "Japanese, fl.c.1780 - 1795",
-  "marks": " {Shunchō ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunchō ga}",
   "style": "18th century",
   "text": "",
   "title": "The Actor Azuma Tōzō III as the Ghost of Sotokuin"

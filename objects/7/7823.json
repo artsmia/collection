@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.15a,b",
-  "artist": "Lynn Klein; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Lynn Klein; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2679,
   "image_width": 3802,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1950",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [L. Klein 1983]\r\nLL: [A.P. 2/4]\r\nLC: [double/a",
+  "markings": "LR: VEL chop mark",
   "medium": "Photolithograph and resist-dye print on silk collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [L. Klein 1983]\r\nLL: [A.P. 2/4]\r\nLC: [double/absent]",
   "style": "20th century",
   "text": "",
   "title": "Double / Absent"

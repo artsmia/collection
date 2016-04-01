@@ -1,6 +1,7 @@
 {
   "accession_number": "23.8.58a,b",
-  "artist": "Wedgwood",
+  "artist": "Manufacturer: Wedgwood",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2225,
   "image_width": 2867,
+  "inscription": "Mark",
   "life_date": "Staffordshire, England, est. 1759",
-  "marks": "Mark ",
+  "markings": "\\'Wedgwood\\'",
   "medium": "Caneware (stoneware)",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sugar bowl with lid"

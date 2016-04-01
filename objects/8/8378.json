@@ -1,6 +1,7 @@
 {
   "accession_number": "97.153.73.2",
-  "artist": "Peter Bateman; Ann Bateman",
+  "artist": "Designer: Peter Bateman; Designer: Ann Bateman",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Leo A. and Doris Hodroff",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1655,
   "image_width": 2560,
+  "inscription": "Marks; Stickers; Inscriptions",
   "life_date": "British, 1740-1825",
-  "marks": "Marks; Stickers; Inscriptions ",
+  "markings": "marks, on bottom of each and front and aback of .1; stickers, on bottom of each; inscriptions including \\'London 1794\\', on bottom of each; \\'TEG\\', monogram, on front of .2",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sugar basket"

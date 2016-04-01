@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.21.17",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Kenneth R. and Lillian Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3836,
   "image_width": 5083,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " signed lower right in pencil",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Etching, aquatint and burin",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed lower right in pencil",
   "style": "20th century",
   "text": "",
   "title": "Minotaure aveugle guidé par une fillette, III"

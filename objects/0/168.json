@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.179",
-  "artist": "Tina Blondell",
+  "artist": "Artist: Tina Blondell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Shelley Holzemer Gallery",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1999 Tina Blondell",
   "image_height": 2440,
   "image_width": 1599,
+  "inscription": "Signature; Mark; Inscription\r\n\r\nin graphite, LL: [I\\'ll make you shorter by a head (after Klimt\\'s Judith I)]",
   "life_date": "American, born 1953",
-  "marks": "Signature; Mark; Inscription\r\n\r\nin graphite, LL: [ in graphite, LL: [Tina Blondell (copyright symbol)",
+  "markings": "Watermark: <Arches France>",
   "medium": "Watercolor and acrylic",
   "nationality": "American",
   "provenance": "The artist\r\nShelly Holzemer Gallery, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LL: [Tina Blondell (copyright symbol) 1999]",
   "style": "20th century",
   "text": "",
   "title": "I'll Make You Shorter by a Head (Judith I)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "26.4",
-  "artist": "James McBey",
+  "artist": "Artist: James McBey",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "Gift of M. Knoedler & Co.",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4096,
   "image_width": 3421,
+  "inscription": "",
   "life_date": "Scottish, 1883 - 1959",
-  "marks": " UR in ink:: Macduff Sept. 1914 James McBey",
+  "markings": "",
   "medium": "Pen and ink and watercolor on off-white laid paper",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR in ink:: Macduff Sept. 1914 James McBey",
   "style": "20th century",
   "text": "",
   "title": "Maggie"

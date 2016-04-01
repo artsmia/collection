@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,590",
-  "artist": "Oskar Kokoschka",
+  "artist": "Artist: Oskar Kokoschka",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The David Draper Dayton Fund, 1958",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 8310,
   "image_width": 6983,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": " OK",
+  "inscription": "",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "OK",
   "style": "20th century",
   "text": "",
   "title": "Dragons Over a Flame"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.127",
-  "artist": "Charles-François Eustache",
+  "artist": "Artist: Charles-François Eustache",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Anonymous gift of funds",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Stamp",
   "life_date": "French, 1820 - 1870",
-  "marks": "Signature, Stamp Initialed in charcoal, LL: [C.E.]",
+  "markings": "Estate stamp, LR",
   "medium": "Charcoal and white chalk",
   "nationality": "French",
   "provenance": "Eustache Atelier. (Galerie Jacques Fischer-Chantal Kiener, Paris); (David & Constance Yates Fine Drawings, New York); acquired from Yates by MIA with funds from an anonymous donor, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed in charcoal, LL: [C.E.]",
   "style": "19th century",
   "text": "",
   "title": "The Eustache Estate near Cherbourg"

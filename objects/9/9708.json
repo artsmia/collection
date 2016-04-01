@@ -1,6 +1,7 @@
 {
   "accession_number": "25.417.91a,b",
-  "artist": "Vienna Porcelain Factory",
+  "artist": "Manufacturer: Vienna Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Bequest of Alfred Duane Pell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2567,
   "image_width": 3724,
+  "inscription": "Mark",
   "life_date": "Vienna, Austria, 1719 - 1864",
-  "marks": "Mark ",
+  "markings": "marks; impression, cup, saucer impressed: [815 60]",
   "medium": "Porcelain, enamel, gilt",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Cup and saucer"

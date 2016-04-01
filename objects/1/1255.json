@@ -1,6 +1,7 @@
 {
   "accession_number": "54.3",
-  "artist": "Robert Collins",
+  "artist": "Artist: Robert Collins",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1922",
-  "marks": "Signature LR: [Robert Collins]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Robert Collins]",
   "style": "20th century",
   "text": "",
   "title": "Game in a White Room"

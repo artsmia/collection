@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.12.9",
-  "artist": "Sarah J. Eddy, 1851-1945",
+  "artist": "Photographer: Sarah J. Eddy, 1851-1945",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "The McClurg Photography Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3044,
   "image_width": 3918,
+  "inscription": "Inscription",
   "life_date": "American",
-  "marks": "Inscription ",
+  "markings": "\\'Eddy P1738\\', in pencil, at top edge of mat, recto",
   "medium": "platinum print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sunny Kitchen"

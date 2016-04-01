@@ -1,6 +1,7 @@
 {
   "accession_number": "25.44",
-  "artist": "Karl Rössing",
+  "artist": "Artist: Karl Rössing",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5281,
   "image_width": 3517,
+  "inscription": "Signature, Date\r\nsee Signed",
   "life_date": "born 1897",
-  "marks": "Signature, Date\r\nsee Signed LR: [Kr 24]",
+  "markings": "",
   "medium": "Graphite and watercolor \r\n",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Kr 24]",
   "style": "20th century",
   "text": "",
   "title": "In the Harvest Field"

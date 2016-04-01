@@ -1,6 +1,7 @@
 {
   "accession_number": "83.116",
-  "artist": "Aimé-Jules Dalou",
+  "artist": "Artist: Aimé-Jules Dalou",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from Mr. and Mrs. Alan Struthers",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4821,
   "image_width": 3492,
-  "life_date": "French, 1838-1902",
-  "marks": "Signature on right shoulder: [Dalou]",
+  "inscription": "Signature",
+  "life_date": "French, 1838 - 1902",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on right shoulder: [Dalou]",
   "style": "19th century",
   "text": "",
   "title": "Bust of a Child"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.18",
-  "artist": "Barbara Petter Putnam",
+  "artist": "Artist: Barbara Petter Putnam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Numbered\r\n\r\nsee Signed\r\n\r\nin graphite at LLC: [4 Delta Marsh]",
   "life_date": "American, born 1954",
-  "marks": "Signature; Date; Title; Numbered\r\n\r\nsee Signed\r\n\r\n in graphite at LRC: [B. Putnam \\'97]",
+  "markings": "",
   "medium": "Woodcut on Japan paper",
   "nationality": "American",
   "provenance": "The artist, Southborough, Mass.; sold to MIA, 1997.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite at LRC: [B. Putnam \\'97]",
   "style": "20th century",
   "text": "",
   "title": "Delta Marsh"

@@ -1,6 +1,7 @@
 {
   "accession_number": "90.143",
-  "artist": "Nicolay Diulgheroff",
+  "artist": "Artist: Nicolay Diulgheroff",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of John Kessler III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4450,
   "image_width": 3393,
+  "inscription": "Signature",
   "life_date": "Italian, born 1901",
-  "marks": "Signature [DIVLGHEROFF] lower left",
+  "markings": "",
   "medium": "Gouache",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[DIVLGHEROFF] lower left",
   "style": "20th century",
   "text": "",
   "title": "Seated Female Nude"

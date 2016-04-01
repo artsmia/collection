@@ -1,6 +1,7 @@
 {
   "accession_number": "90.138a-c",
-  "artist": "Yvonne Jacquette",
+  "artist": "Artist: Yvonne Jacquette",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Minneapolis Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3478,
   "image_width": 3526,
+  "inscription": "Signature",
   "life_date": "American, born 1934",
-  "marks": "Signature LR left panel: [Y.J.] LR center panel: [Jacquette]",
+  "markings": "",
   "medium": "Pastel on paper, triptych",
   "nationality": "American",
   "provenance": "Minneapolis \r\nMinneapolis Foundation",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR left panel: [Y.J.] LR center panel: [Jacquette] LR right panel: [Y.J.]",
   "style": "20th century",
   "text": "",
   "title": "Three Views of Minneapolis"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.29",
-  "artist": "Unknown Italian; after Baccio Bandinelli; Marco Dente da Ravenna ?",
+  "artist": "Artist: Unknown Italian; Artist: after Baccio Bandinelli; Artist: Marco Dente da Ravenna ?",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3107,
   "image_width": 4387,
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian, active by 1515 - died 1527",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Massacre of the Innocents"

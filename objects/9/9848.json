@@ -1,6 +1,7 @@
 {
   "accession_number": "13.98",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Florence M. Shirlaw",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3416,
   "image_width": 2670,
+  "inscription": "Signature",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature [W\\' over \\'S]",
+  "markings": "",
   "medium": "Red chalk",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[W\\' over \\'S]",
   "style": "19th century",
   "text": "",
   "title": "Tree Study"

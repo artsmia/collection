@@ -1,6 +1,7 @@
 {
   "accession_number": "66.68",
-  "artist": "Jules David",
+  "artist": "Artist: Jules David",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4172,
   "image_width": 3111,
+  "inscription": "Signature",
   "life_date": "French, 1808 - 1892",
-  "marks": "Signature LR: [Jules David]",
+  "markings": "",
   "medium": "Graphite and watercolor heightened with gouache",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Jules David]",
   "style": "19th century",
   "text": "",
   "title": "Three Women in Costume"

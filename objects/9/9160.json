@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.250",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3547,
   "image_width": 5111,
+  "inscription": "Hana no iro wa/ utsurinikeri na/ itazura ni/ waga mi yo ni furu/ nagame seshi ma ni 花の色は　うつりにけりな　いたつらに　わか身よにふる　なかめせしまに (Like cherry blossoms after a long spring rain,/ beautiful colors quickly fade./ While I have vainly been seeing/ the time passing by me/ and the world.)",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Hana no iro wa/ utsurinikeri na/ itazura ni/ waga  Saki no Hokusai Manji 前北斎卍",
+  "markings": "censor seal: kiwame 極; publisher\\'s seal: Eijudō 永寿堂",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saki no Hokusai Manji 前北斎卍",
   "style": "19th century",
   "text": "",
   "title": "Poem by Ono no Komachi"

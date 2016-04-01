@@ -1,6 +1,7 @@
 {
   "accession_number": "70.49",
-  "artist": "Maxwell Ashby Armfield",
+  "artist": "Artist: Maxwell Ashby Armfield",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Maxwell Armfield %2F Bridgeman Art Library",
   "image_height": 5544,
   "image_width": 3696,
+  "inscription": "Signature; Date",
   "life_date": "British, 1882 - 1972",
-  "marks": "Signature; Date monogram",
+  "markings": "",
   "medium": "Tempera on board",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram",
   "style": "20th century",
   "text": "",
   "title": "Miss Molly Lumley in 'Spades are Spades'"

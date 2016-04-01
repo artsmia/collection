@@ -1,6 +1,7 @@
 {
   "accession_number": "65.59",
-  "artist": "Simeon Solomon",
+  "artist": "Artist: Simeon Solomon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of The Henfield Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4209,
   "image_width": 3265,
+  "inscription": "Signature; Date",
   "life_date": "British 1840 - 1905",
-  "marks": "Signature; Date [S.S. 1883], LL",
+  "markings": "",
   "medium": "Colored chalk\r\n",
   "nationality": "British",
   "provenance": "Joseph McCrindle, London",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[S.S. 1883], LL",
   "style": "19th century",
   "text": "",
   "title": "Seated Angel"

@@ -1,6 +1,7 @@
 {
   "accession_number": "70.50",
-  "artist": "Guercino (Giovanni Francesco Barbieri)",
+  "artist": "Artist: Guercino (Giovanni Francesco Barbieri)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2108,
   "image_width": 4174,
-  "life_date": "Italian (Bologna), 1591-1666",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian (Bologna), 1591–1666",
+  "markings": "",
   "medium": "Pen and brown ink",
   "nationality": "Italian",
   "provenance": "John Barnard (d.1784) 'Lugt' 1419; Lord St. Helens (A. Fitzherbert, 1753-1839) 'Lugt' 2970 (pencilled inscription on a XIX c. mount); [Colnaghi, London; until 1970; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Two Putti Covering a Cartouche on the Base of a Pediment with a Tapestry Showing a Man Playing a Lute in a Landscape Setting"

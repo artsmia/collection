@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.159",
-  "artist": "Kitagawa Utamaro; Published by Iwatoya Kisaburō",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Iwatoya Kisaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4945,
   "image_width": 3252,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "18th-19th century",
   "text": "",
   "title": "Man and Courtesan Smoking Pipes"

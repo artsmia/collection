@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.82",
-  "artist": "Suzuki Harunobu",
+  "artist": "Artist: Suzuki Harunobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4422,
   "image_width": 3279,
+  "inscription": "Eika poem on the upper right corner\r\nDecorum;\r\nIf you are loyal to your lord\r\nAnd dutiful to your parents\r\nNever angry\r\nAlways polite\r\nYour life will be wonderful\r\n(Rei; \r\nKimi wo omoi\r\nOya ni ko_ ari\r\nIkari naku\r\nReigi wo tsukusu\r\nHito zo tanoshiki)",
   "life_date": "Japanese, 1725 - 1770",
-  "marks": "Eika poem on the upper right corner\r\nDecorum;\r\nIf  {Harunobu ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Colburn",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Harunobu ga}",
   "style": "18th century",
   "text": "",
   "title": "Decorum"

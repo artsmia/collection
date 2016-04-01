@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.261.1",
-  "artist": "Utagawa Hiroshige; Published by Takenouchi Magohachi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Takenouchi Magohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3438,
   "image_width": 5174,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:Kiwame\r\nPublisher:Takenouchi",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "The first state is defined by the having lines in knees of the figure at right. Variation A has the sky dark at the top.",
   "title": "Kanbara: Night Snow [first state, variation A]"

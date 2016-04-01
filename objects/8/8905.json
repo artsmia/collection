@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.177",
-  "artist": "James Ensor",
+  "artist": "Artist: James Ensor",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
   "image_height": 3675,
   "image_width": 4786,
+  "inscription": "Signature; Date; Inscription\r\n\r\nDedication in pencil: [Victor Firman hommage de son ami]",
   "life_date": "Belgian, 1860-1949",
-  "marks": "Signature; Date; Inscription\r\n\r\nDedication in penc [James Ensor 1922] verso: [Ensor]",
+  "markings": "",
   "medium": "Etching with hand-coloring",
   "nationality": "Belgian",
   "provenance": "[Theodore B. Donson, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[James Ensor 1922] verso: [Ensor]",
   "style": "19th century",
   "text": "",
   "title": "Les Patineurs"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.12.3",
-  "artist": "Martha Diamond",
+  "artist": "Artist: Martha Diamond",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2913,
   "image_width": 3619,
+  "inscription": "Signed, dated, and chop mark.",
   "life_date": "American, born 1944",
-  "marks": "Signed, dated, and chop mark. LL: [Martha Diamond 1985]\r\n",
+  "markings": "LR: VEL chop mark",
   "medium": "Color monotype in oil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Martha Diamond 1985]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

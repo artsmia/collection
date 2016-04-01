@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.148",
-  "artist": "Kitagawa Utamaro; Published by Tsutaya Jūzaburō",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Tsutaya Jūzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4817,
   "image_width": 3147,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "Publisher: Tsutaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "18th century",
   "text": "",
   "title": "Heron Maiden"

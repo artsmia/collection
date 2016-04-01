@@ -1,6 +1,7 @@
 {
   "accession_number": "88.65.2",
-  "artist": "Gerome Kamrowski",
+  "artist": "Artist: Gerome Kamrowski",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Gerome Kamrowski",
   "image_height": 1419,
   "image_width": 2560,
+  "inscription": "Signature and Date",
   "life_date": "American, 1914-2004",
-  "marks": "Signature and Date UR: [G. KAMROWSKI-A2-1959]",
+  "markings": "",
   "medium": "Acrylic on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [G. KAMROWSKI-A2-1959]",
   "style": "20th century",
   "text": "",
   "title": "One Less"
