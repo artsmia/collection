@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,452",
-  "artist": "Elstrack; Text by Sir Walter Raleigh",
+  "artist": "Engraver: Elstrack; Author: Text by Sir Walter Raleigh",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "English",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Engraving",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Frontispiece from The History of the World"

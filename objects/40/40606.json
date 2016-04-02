@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.305a,b",
-  "artist": "Crownford Potteries",
+  "artist": "Manufacturer: Crownford Potteries",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2334,
   "image_width": 4087,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic with stencil design",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Covered Casserole"

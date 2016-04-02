@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,454",
-  "artist": "Tsugouharu Foujita",
+  "artist": "Artist: Tsugouharu Foujita",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Friends of the Institute, 1931",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3848,
   "image_width": 2891,
+  "inscription": "Signature",
   "life_date": "French, (born Japan) 1886 - 1968",
-  "marks": "Signature signed on image, twice in Roman script and once in",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on image, twice in Roman script and once in Japanese",
   "style": "20th century",
   "text": "",
   "title": "Cat"

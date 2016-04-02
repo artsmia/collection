@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,162",
-  "artist": "Levon West",
+  "artist": "Artist: Levon West",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark\r\n\r\nsee Signed",
   "life_date": "American, 1900 - 1968",
-  "marks": "Signature; Date; Mark\r\n\r\nsee Signed In pencil in lower margin:  [11/45  Levon West imp",
+  "markings": "Collector\\'s \\\"D\\\" stamp printed on verso",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  [11/45  Levon West imp.]",
   "style": "20th century",
   "text": "",
   "title": "Joseph Pennell"

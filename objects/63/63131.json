@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.112",
-  "artist": "Katsukawa Shunshō",
+  "artist": "Artist: Katsukawa Shunshō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2828,
   "image_width": 1921,
+  "inscription": "",
   "life_date": "Japanese, 1726 - 1793",
-  "marks": " {Shunshō ga}",
+  "markings": "artist\\'s (jar shape) seal; Censor: kiwame; publisher\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunshō ga}",
   "style": "18th century",
   "text": "",
   "title": "Sakata Kintarō Playing with Wild Animals in Mountain"

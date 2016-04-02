@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.107",
-  "artist": "attributed to Claude-Louis Desrais",
+  "artist": "Artist: attributed to Claude-Louis Desrais",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title; Mark\r\n\r\nin pencil, bottom center: [Départ pour Frascati]",
   "life_date": "French, 1746 - 1816",
-  "marks": "Title; Mark\r\n\r\nin pencil, bottom center: [Départ p ",
+  "markings": "Watermark: <JKOOL> (Dutch, XVIII c., Jan Kool)",
   "medium": "Watercolor over graphite",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Departure for Frascati"

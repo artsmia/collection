@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.8",
-  "artist": "Maruyama Ōkyo",
+  "artist": "Artist: Maruyama Ōkyo",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2560,
   "image_width": 3320,
+  "inscription": "Inscription and mark\r\ninscription in black in LL corner",
   "life_date": "Japanese, Shijō, 1733 - 1795",
-  "marks": "Inscription and mark\r\ninscription in black in LL c ",
+  "markings": "two seals in red, LL corner",
   "medium": "Ink and colors on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sitting Tiger"

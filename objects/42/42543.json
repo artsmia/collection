@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.36",
-  "artist": "Mori Gishō",
+  "artist": "Artist: Mori Gishō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3580,
   "image_width": 4754,
+  "inscription": "19 poems about the new year",
   "life_date": "Japanese, 1802 - 1873",
-  "marks": "19 poems about the new year O_ju Gisho_ utsusu",
+  "markings": "\\\"Gisho_\\\" seal in red\r\n\\\"Sho_fu_sha\\\" UR, probably the name of the poetry circle\r\n\\\"Ne no haru(Spring of the year of Rat)\\\" UL",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "O_ju Gisho_ utsusu",
   "style": "19th century",
   "text": "",
   "title": "(Parrot in a cage)"

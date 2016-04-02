@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,512",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6086,
   "image_width": 4735,
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching, drypoint and burin",
   "nationality": "Dutch",
   "provenance": "blue stamp verso, Emile Galichon, L. 1058; black stamp verso (E in oval), unidentified; Emile Schroeder (not in Lugt).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Descent from the Cross by Torchlight"

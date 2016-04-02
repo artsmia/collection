@@ -1,6 +1,7 @@
 {
   "accession_number": "42.24",
-  "artist": "Elmer Young",
+  "artist": "Artist: Elmer Young",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Local Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp",
   "life_date": null,
-  "marks": "Signature; Stamp In watercolor, LR: [ELMER YOUNG]",
+  "markings": "LR corner stamp <ARCHES>",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In watercolor, LR: [ELMER YOUNG]",
   "style": "20th century",
   "text": "",
   "title": "Jack's Farm"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,877",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. W. L. Tenney and Alice Tenney Mitchell, 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4414,
   "image_width": 3394,
+  "inscription": "LL recto, in pencil: [LL1.836]\r\nLR recto, in pencil: [W.48]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [LL1.836]\r\nLR recto, in penci ",
+  "markings": "Watermark: [(beehive)] (Amsterdam 1670)",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Becquet"

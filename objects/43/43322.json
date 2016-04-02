@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.8.4",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of the Estate of Kemper Kirkpatrick",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3345,
   "image_width": 4884,
+  "inscription": "Signature, Date, Inscription\r\n\r\ninscribed in plate: VITRVVIVS / CAPITVLI CORINTHI ABACI SCAPIQZ COLVNAE CV PERPENDETIBVS LINEIS AC / EIVS SPIRAE PROIECTIOE SYMMETRIA / DER GRVNT ZVM CAPITEL VND FVSS ZV DER SCHVNEN SEVLEN DER CORINCHER",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Date, Inscription\r\n\r\ninscribed in plate monogram and date, lower center: [1543 / HSB]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date, lower center: [1543 / HSB]",
   "style": "16th century",
   "text": "Corinthian columns gave Renaissance architecture an immediate association of wealth and luxury, attributes of the ancient Greek city of Corinth. Despite the \"blueprint\" look of this print, Sebald Beham's rendition is largely whimsical.",
   "title": "Ground Plan, Base, and Capital of a Corinthian Column"

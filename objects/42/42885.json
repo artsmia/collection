@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.4",
-  "artist": "Stanford Fenelle",
+  "artist": "Artist: Stanford Fenelle",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Amos and Sue Deinard",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date\r\n\r\nsee Signed",
   "life_date": "American, born 1909",
-  "marks": "Signature and Date\r\n\r\nsee Signed [Fenelle 1940]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Fenelle 1940]",
   "style": "20th century",
   "text": "",
   "title": "Farm Near Afton"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.27",
-  "artist": "Jean Dubuffet; Text by Jean Dubuffet; Albert Skira , Paris",
+  "artist": "Artist: Jean Dubuffet; Author: Text by Jean Dubuffet; Publisher: Albert Skira , Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1901-1985",
-  "marks": " ",
+  "markings": "",
   "medium": "Heliogravures, screenprint; letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La botte à nigue"

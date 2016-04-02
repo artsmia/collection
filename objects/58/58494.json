@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.32",
-  "artist": "James Olson; Gerald E. Martin",
+  "artist": "Artist: James Olson; Workshop: Gerald E. Martin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American",
-  "marks": "Signature, Title\r\n\r\nTitle std. On work",
+  "inscription": "Signature, Title\r\n\r\nTitle std.",
+  "life_date": "American, born 1941",
+  "markings": "Chop Marks:  M",
   "medium": "Transfer lithograph, white wove",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On work",
   "style": "20th century",
   "text": "",
   "title": "Nude"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.219",
-  "artist": "Katsukawa Shun'ei; Published by Tsuruya Kiemon",
+  "artist": "Artist: Katsukawa Shun'ei; Publisher: Published by Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2962,
   "image_width": 1374,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " {Shun\\'ei ga}",
+  "markings": "Censor: kiwame | Publisher\\'s seal: {Tsuruya Kiemon}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shun\\'ei ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "Actors in a Double Suicide Scene"

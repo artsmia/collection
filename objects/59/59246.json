@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.17",
-  "artist": "C. D'Espic",
+  "artist": "Artist: C. D'Espic",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"1/75\\\", in graphite, LL",
   "life_date": "French",
-  "marks": "\\\"1/75\\\", in graphite, LL \\\"C d\\'Espic\\\", in graphite, LR",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"C d\\'Espic\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Composition Cubiste (Cubist Composition)"

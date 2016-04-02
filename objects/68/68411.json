@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,958",
-  "artist": "Kikugawa Eizan; Published by Wakasaya Yoichi",
+  "artist": "Artist: Kikugawa Eizan; Publisher: Published by Wakasaya Yoichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2822,
   "image_width": 1938,
+  "inscription": "poem on the fan",
   "life_date": "Japanese, 1787 - 1867",
-  "marks": "poem on the fan [菊川英山筆] {Kikugawa Eizan hitsu}",
+  "markings": "censor seals: {kiwame}, [伊賀] {Iga}\r\nPublisher:Waka-yo ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[菊川英山筆] {Kikugawa Eizan hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Jewel River of Ide"

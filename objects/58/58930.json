@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.61",
-  "artist": "Robert Riggs",
+  "artist": "Artist: Robert Riggs",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Mark\r\n",
   "life_date": "American, 1896-1970",
-  "marks": "Signature; Title; Mark\r\n ",
+  "markings": "Watermark:  <RIVES>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Chinese Troupe"

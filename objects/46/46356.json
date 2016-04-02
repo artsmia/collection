@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,913",
-  "artist": "Samuel Arlent Edwards; after Reverend W.A. Peters",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: after Reverend W.A. Peters",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Artist, 1923",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature in pencil on sheet",
+  "inscription": "Signature",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "small 58 in pencil in lower left corner",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on sheet",
   "style": "19th century",
   "text": "",
   "title": "The Gypsy's Warning"

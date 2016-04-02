@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,737",
-  "artist": "Friedrich Ruysch; Joseph Mulder; after Joannem Wolters",
+  "artist": "Artist: Friedrich Ruysch; Engraver: Joseph Mulder; Artist: after Joannem Wolters",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Holland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van DerLip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4725,
   "image_width": 2979,
-  "life_date": "Dutch, 1637 - 1731",
-  "marks": "Inscription\r\n\r\n\\\"J. Mulder ad vivum sculp/1710\\\" No signatures",
+  "inscription": "Inscription\r\n\r\n\\\"J. Mulder ad vivum sculp/1710\\\"",
+  "life_date": "Dutch, 1659/60 – 1735",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signatures",
   "style": "18th century",
   "text": "",
   "title": "Tab. VI.  Fig. I, II.,  from \"Thesaurus Animalium\""

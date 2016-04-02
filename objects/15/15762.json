@@ -1,6 +1,7 @@
 {
   "accession_number": "33.5",
-  "artist": "John Coney",
+  "artist": "Silversmith: John Coney",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3353,
   "image_width": 3433,
+  "inscription": "Mark\r\n\r\nEngraved in the center is the coat of arms of Dudley, for Governor Joseph Dudley.",
   "life_date": "American, 1656-1722",
-  "marks": "Mark\r\n\r\nEngraved in the center is the coat of arms ",
+  "markings": "<IC> in shield\r\n\r\nMaker\\'s mark struck once on upper surface.",
   "medium": "Silver",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Footed salver"

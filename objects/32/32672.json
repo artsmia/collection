@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.78",
-  "artist": "Edouard Vuillard; Text by Henry Jean Laroche; Arts &amp; Métiers Graphiques",
+  "artist": "Artist: Edouard Vuillard; Author: Text by Henry Jean Laroche; Publisher: Arts &amp; Métiers Graphiques",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4286,
   "image_width": 3284,
+  "inscription": "",
   "life_date": "French, 1868 - 1940",
-  "marks": " ",
+  "markings": "",
   "medium": "Etchings, lithographs; letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Cuisine: Recueil de 117 Recettes"

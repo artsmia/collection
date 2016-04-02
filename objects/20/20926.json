@@ -1,6 +1,7 @@
 {
   "accession_number": "75.60.3",
-  "artist": "Barry Kahn",
+  "artist": "Artist: Barry Kahn",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title",
   "life_date": "American, 1938 - 1982",
-  "marks": "Signature; Title at bottom, with title",
+  "markings": "",
   "medium": "Ink and graphite",
   "nationality": "American",
   "provenance": "Acquired from the artist, 1975.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "at bottom, with title",
   "style": "20th century",
   "text": "",
   "title": "Test Pattern No. 1-B; A Subset"

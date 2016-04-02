@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.124",
-  "artist": "William Weege",
+  "artist": "Artist: William Weege",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1935",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Weege]",
+  "markings": "",
   "medium": "Flocked screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Weege]",
   "style": "20th century",
   "text": "",
   "title": "Sifting Sand"

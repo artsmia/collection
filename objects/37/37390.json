@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.139.4",
-  "artist": "Nakajima Shunko_; Aoki Tsunesaburō",
+  "artist": "Artist: Nakajima Shunko_; Publisher: Aoki Tsunesaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese",
-  "marks": " {Shunkō}",
+  "markings": "Red artist\\'s seal; printed Nov. 10 Meiji 28; published Nov. 17 Meiji 28; copyright: {Nakajima Shunkō}; publisher\\'s seal: {Aoki Tsunesaburō} (Ōsaka...)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunkō}",
   "style": "19th century",
   "text": "",
   "title": "November; Young Lady Making a Sand Painting"

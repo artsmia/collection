@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.17",
-  "artist": "Robert Motherwell; Published by Hollander Workshop, New York",
+  "artist": "Artist: Robert Motherwell; Publisher: Published by Hollander Workshop, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 4713,
   "image_width": 3544,
+  "inscription": "Numbered in pencil, LR: [2/25]",
   "life_date": "American, 1915-1991",
-  "marks": "Numbered in pencil, LR: [2/25] Signed in pencil, LR: [Motherwell]",
+  "markings": "Watermark: <BFK Rives>; printer\\'s chop mark, LR: <ES>; artist\\'s chop mark, LR",
   "medium": "Open bite etching",
   "nationality": "American",
   "provenance": "(Brooke Alexander Gallery, New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Motherwell]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

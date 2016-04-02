@@ -1,6 +1,7 @@
 {
   "accession_number": "99.241.1",
-  "artist": "John Carsman",
+  "artist": "Artist: John Carsman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Date; Mark",
   "life_date": "American, 1944 - 1987",
-  "marks": "Signature; Date; Mark in graphite, LR: [Carsman 75]",
+  "markings": "Watermark: <Arches, France>",
   "medium": "Watercolor over graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Carsman 75]",
   "style": "20th century",
   "text": "",
   "title": "Untitled [Neckties]"

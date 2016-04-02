@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.406",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "Bequest of Herschel V. Jones, 1968",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4316,
   "image_width": 3501,
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "Watermark: Foolscap, close to Churchill 355",
   "medium": "Etching, drypoint, and engraving",
   "nationality": "Dutch",
   "provenance": "J.D. Böhm, (L. 271 & 1442); J.C.D. Hebick, (L. 1250); Roullier, 1919",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "Rembrandt never traveled far from the flat Dutch landscape, yet here he placed Jerome in a mountainous Italian setting. The artist lifted the elaborate architecture of the distant buildings from Venetian prints and drawings produced more than a hundred years earlier; yet the ambiguity of the overall space anticipates the work of Paul Cézanne two centuries later. The saint is immersed in a book as his trusted lion stands guard. Rembrandt's spare linework causes Jerome seemingly to dissolve in the noonday sun, a visual metaphor for the sacred realm.",
   "title": "Saint Jerome Reading in an Italian Landscape"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.12.9",
-  "artist": "Kn Thurlbeck",
+  "artist": "Artist: Kn Thurlbeck",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Canada",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2693,
   "image_width": 3525,
+  "inscription": "Signed, Dated, and Chop Mark",
   "life_date": "Canadian, born 1957",
-  "marks": "Signed, Dated, and Chop Mark LR: [Kn Thurlbeck \\'85]\r\nLR: VEL Chop Mark",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype and lithograph",
   "nationality": "Canadian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Kn Thurlbeck \\'85]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

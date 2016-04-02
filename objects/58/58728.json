@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.72",
-  "artist": "Francisco Toledo",
+  "artist": "Artist: Francisco Toledo",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "image_height": 4808,
   "image_width": 3719,
+  "inscription": "verso - LL: [#18]; center beneath plate mark: [BENDA HUA]; LR: [Shrimp 60]",
   "life_date": "Mexican, born 1940",
-  "marks": "verso - LL: [#18]; center beneath plate mark: [BEN Signed in pencil, LR: Toledo",
+  "markings": "Numbered in pencil, LL: 1/25",
   "medium": "White-line etching and drypoint (top-rolled)",
   "nationality": "Mexican",
   "provenance": "(Kovler Gallery, Chicago); sold to MIA, 1970.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: Toledo",
   "style": "20th century",
   "text": "",
   "title": "Benda Hua"

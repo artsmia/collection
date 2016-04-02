@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.7",
-  "artist": "Joseph Beuys; Published by Edition Staeck, Heidelberg, Germany",
+  "artist": "Artist: Joseph Beuys; Publisher: Published by Edition Staeck, Heidelberg, Germany",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Edition; Inscriptions\r\n\r\nPrinted inscription UL corner, verso: [originalgrafik - serie D / nr. 5 joseph beuys / demokratie ist lustig].\r\n\r\nNumbered in black ink, verso: [62/80].\r\n\r\nPublisher information in LL corner, veso.",
   "life_date": "German, 1921 - 1986",
-  "marks": "Signature; Title; Edition; Inscriptions\r\n\r\nPrinted Signed in black ink, verso",
+  "markings": "",
   "medium": "Color screenprint with handwritten text",
   "nationality": "German",
   "provenance": "(Multiples, Inc., New York); sold to MIA, 1974.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in black ink, verso",
   "style": "20th century",
   "text": "",
   "title": "Demokratie ist lustig (Democracy is Merry)"

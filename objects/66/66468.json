@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.114",
-  "artist": "Katsukawa Shun'ei",
+  "artist": "Artist: Katsukawa Shun'ei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3010,
   "image_width": 1440,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " {Shun\\'ei ga}",
+  "markings": "Censor: kiwame; publisher\\'s seal: unread",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shun\\'ei ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "An Actor in a Ronin Role"

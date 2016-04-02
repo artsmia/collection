@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,816",
-  "artist": "Jacques Bellange; Le Blond",
+  "artist": "Artist: Jacques Bellange; Publisher: Le Blond",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1961",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "LL in plate [Bellange fecit]; LR in plate [le Blond excud]",
   "life_date": "French, c. 1575 - 1616",
-  "marks": "LL in plate [Bellange fecit]; LR in plate [le Blon ",
+  "markings": "Watermark: Le Blond grapes with AB mark above (Griffiths & Hartley no. 2; \\\"this paper seems to be used on all the Le Blond reissues\\\" [of Bellange plates])",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Hurdy-Gurdy Player"

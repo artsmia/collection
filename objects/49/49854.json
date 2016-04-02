@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,899",
-  "artist": "Gerhard Marcks; Published by Gerhard Marcks; Printed by Staatliches Bauhaus",
+  "artist": "Artist: Gerhard Marcks; Publisher: Published by Gerhard Marcks; Printer: Printed by Staatliches Bauhaus",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J. B. Neumann, 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1889-1981",
-  "marks": "Signature LRC",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC",
   "style": "20th century",
   "text": "",
   "title": "Petrus und die Magd"

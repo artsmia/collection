@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.123",
-  "artist": "Imperial Court Glass Factory",
+  "artist": "Manufacturer: Imperial Court Glass Factory",
+  "classification": "Glass",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1366,
+  "inscription": "Mark",
   "life_date": "St. Petersburg, Russia",
-  "marks": "Mark ",
+  "markings": "Maker\\'s mark and date",
   "medium": "Glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "",
   "title": "Vase"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.485",
-  "artist": "Utagawa Hiroshige",
+  "artist": "Artist: Utagawa Hiroshige",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1790,
   "image_width": 2839,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Ichiryu_sai seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Yodo River"

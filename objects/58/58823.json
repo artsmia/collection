@@ -1,6 +1,7 @@
 {
   "accession_number": "P.392",
-  "artist": "Emil Orlik",
+  "artist": "Artist: Emil Orlik",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Czech, 1870 - 1932",
-  "marks": "Signature\r\n\r\nsee Signed In pencil under image",
+  "markings": "",
   "medium": "Color etching and drypoint",
   "nationality": "Czech",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil under image",
   "style": "20th century",
   "text": "",
   "title": "Dämmerung"

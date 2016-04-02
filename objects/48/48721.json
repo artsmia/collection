@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.127",
-  "artist": "David Hockney",
+  "artist": "Artist: David Hockney",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©David Hockney",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition; Mark\r\n",
   "life_date": "British, born 1937",
-  "marks": "Signature; Date; Edition; Mark\r\n LL: [16/30 David Hockney 79]",
+  "markings": "Chop: c; II (encircled)",
   "medium": "Lithograph",
   "nationality": "British",
   "provenance": "(Petersburg Press, London & New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [16/30 David Hockney 79]",
   "style": "20th century",
   "text": "",
   "title": "Jerry Sohn"

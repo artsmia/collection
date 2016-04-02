@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.34",
-  "artist": "Utagawa Kunisada II; Published by Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Kunisada II; Publisher: Published by Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2812,
   "image_width": 1935,
+  "inscription": "",
   "life_date": "Japanese, 1823 - 1880",
-  "marks": " 梅蝶楼国貞画 {Baichôrô Kunisada ga}",
+  "markings": "Censor:kai, Snake sho_(the first month)\r\nPublisher:Tsutaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "梅蝶楼国貞画 {Baichôrô Kunisada ga}",
   "style": "19th century",
   "text": "",
   "title": "No. 7, Momiji no ga"

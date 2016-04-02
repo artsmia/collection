@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.1",
-  "artist": "Utagawa Toyokuni; Wakasaya Yoichi",
+  "artist": "Artist: Utagawa Toyokuni; Publisher: Wakasaya Yoichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2744,
   "image_width": 1800,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "Censor:kiwame\r\nPublisher:Wakasaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "18th-19th century",
   "text": "",
   "title": "Oiran (High-class Courtesan) Travelling as a Mitate of  Daimyō Procession"

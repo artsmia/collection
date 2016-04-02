@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,285",
-  "artist": "Albrecht Altdorfer",
+  "artist": "Artist: Albrecht Altdorfer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Funds from Mrs. Franklin M. Crosby Jr. and the William Hood Dunwoody Fund, 1947",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4877,
   "image_width": 3398,
+  "inscription": "",
   "life_date": "German, c. 1480 - 1538",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "d'Arenberg, R. Scholtz, P.J.S.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Elevation of the Cross"

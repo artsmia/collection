@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,886",
-  "artist": "Lyonel Feininger; Fritz Voigt",
+  "artist": "Artist: Lyonel Feininger; Printer: Fritz Voigt",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel M. Van Derlip Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (active Germany), 1871 - 1956",
-  "marks": " Yes",
+  "inscription": "",
+  "life_date": "American (active Germany), 1871–1956",
+  "markings": "Dichtung l.r.",
   "medium": "Woodcut",
   "nationality": "American (active Germany)",
   "provenance": "(Galerie Wolfgang Ketterer, Munich, Germany); sold to MIA, 1967.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "20th century",
   "text": "",
   "title": "Marine"

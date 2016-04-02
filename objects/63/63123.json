@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.184.3",
-  "artist": "Jacques Callot",
+  "artist": "Artist: Jacques Callot",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Janet and Winton Jones and The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1227,
   "image_width": 2847,
+  "inscription": "Signature",
   "life_date": "French, 1592-1635",
-  "marks": "Signature LLQ, in plate: [Jac Callot in. et Fe]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLQ, in plate: [Jac Callot in. et Fe]",
   "style": "17th century",
   "text": "",
   "title": "The Stag Hunt"

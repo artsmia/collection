@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.19a-gg",
-  "artist": "Josef Hartwig; Staatliches Bauhaus",
+  "artist": "Maker: Josef Hartwig; Manufacturer: Staatliches Bauhaus",
+  "classification": "Woodwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1154,
   "image_width": 2560,
+  "inscription": "Mark",
   "life_date": "German, 1880-1955",
-  "marks": "Mark ",
+  "markings": "stamped on bottom of one black piece: [GES.GESC]",
   "medium": "Wood, stain",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G379",
+  "signed": "",
   "style": "Bauhaus",
   "text": "",
   "title": "Chess set"

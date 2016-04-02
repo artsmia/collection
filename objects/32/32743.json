@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.11a,b",
-  "artist": "Joan Miró; Jacques Dupin; Maeght",
+  "artist": "Artist: Joan Miró; Author: Jacques Dupin; Publisher: Maeght",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signatures\r\nsee Signed",
   "life_date": "Spanish, 1893 - 1983",
-  "marks": "Signatures\r\nsee Signed Signed by artist and author, on colophon page",
+  "markings": "",
   "medium": "Drypoint and color aquatints with blind embossing and monotype; letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed by artist and author, on colophon page",
   "style": "20th century",
   "text": "",
   "title": "L'issue dérobée"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.34",
-  "artist": "Moritz Retzsch",
+  "artist": "Artist: Moritz Retzsch",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of funds from the Print and Drawing Council and an Anonymous Donor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3468,
   "image_width": 4969,
+  "inscription": "Inscription",
   "life_date": "German, 1779 - 1857",
-  "marks": "Inscription ",
+  "markings": "Illustration number \\'22\\', upper right",
   "medium": "Brown ink on tracing paper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Illustration to Schiller's 'Song of the Bell'"

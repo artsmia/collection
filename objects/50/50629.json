@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.101",
-  "artist": "Unknown Italian",
+  "artist": "Artist: Unknown Italian",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "John Thane (') (inscription on mat); Thomas Thane, L.811; Colnaghi; Knoedler & Co.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Mercury (Planet and Spheres)"

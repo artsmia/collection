@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.236.2",
-  "artist": "Vogel; Text by Friedrich Heinrich Wilhelm Martini; Text by Johann Hieronymus Chemnitz",
+  "artist": "Artist: Vogel; Author: Text by Friedrich Heinrich Wilhelm Martini; Author: Text by Johann Hieronymus Chemnitz",
+  "classification": "Prints",
   "continent": null,
   "country": "Germany",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2359,
   "image_width": 1843,
+  "inscription": "Signature",
   "life_date": "German, active 18th century",
-  "marks": "Signature below double border line, LRC, in black: [Vogel so",
+  "markings": "",
   "medium": "Hand-colored etching and engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "below double border line, LRC, in black: [Vogel so. (?)]",
   "style": "18th century",
   "text": "",
   "title": "Trochi, Turbines, Neritae Helices, from \"Neues Systematisches Conchylien-Cabinet\""

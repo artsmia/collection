@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.279.12",
-  "artist": "J. &amp; J.G. Low Patent Art Tile Works",
+  "artist": "Manufacturer: J. &amp; J.G. Low Patent Art Tile Works",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Christopher Monkhouse in honor of Nancy Rose",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3616,
   "image_width": 3620,
+  "inscription": "",
   "life_date": "Chelsea, Massachussets, 1877-1907",
-  "marks": " ",
+  "markings": "\\\"J.&J.G. LOW/PATENT/ART TILE WORKS/CHELSEA/MASS. USA./COPYRIGHT 1881 J.& J.G. LOW.\\\", stamped, on back",
   "medium": "Glazed earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile with geometric design"

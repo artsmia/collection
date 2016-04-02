@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,787",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Richard H. Zinser, 1959",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4123,
   "image_width": 3877,
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "Collector\\'s mark (verso): Hauslab (L.1247)",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Field Marshall Franz Ritter von Hauslab (L.1247), Vienna (d. 1883)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "Albrecht Dürer's renowned celestial maps of the northern and southern hemisphere were the first star charts ever to be printed. The 48 classical constellations-the twelve signs of the zodiac, Orion, the Great Bear, and so on-that make of up core of these charts were carefully catalogued by Ptolemy in his Almagest. There were a number of drawn precedents of celestial maps found in Arabic and European illuminated manuscripts, and Dürer's designs, in fact, rely heavily on two drawn on vellum in Nuremberg, his hometown. Yet he updated the positions of the stars to show their locations around 1500, working closely with Nuremberg mathematician Conrand Heinfogel and the imperial astronomer Johann Stabius, who commissioned these woodcuts. A century of celestial globe makers took their information from these pioneering star charts, including Gerard Mercator whose 1551 globe is coming on loan from the Adler Planetarium (beginning October 15).",
   "title": "The Northern Hemisphere of the Celestial Globe"

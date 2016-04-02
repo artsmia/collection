@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.161",
-  "artist": "Kitagawa Saigyo",
+  "artist": "Artist: Kitagawa Saigyo",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3344,
   "image_width": 4422,
+  "inscription": "5 haiku poems about early autumn\r\n",
   "life_date": "Japanese, born 1813",
-  "marks": "5 haiku poems about early autumn\r\n Saigyo",
+  "markings": "\\\"Sesai?\\\" seal in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saigyo",
   "style": "19th century",
   "text": "",
   "title": "Raspberries"

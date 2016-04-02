@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,560",
-  "artist": "Edvard Munch",
+  "artist": "Artist: Edvard Munch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3360,
   "image_width": 4652,
+  "inscription": "Signature; Stamp\r\n\r\nsee Signed",
   "life_date": "Norwegian, 1863 - 1944",
-  "marks": "Signature; Stamp\r\n\r\nsee Signed in pencil: [Edv. Munch]",
+  "markings": "Stamp: Holst Halverson (Oslo art dealer)",
   "medium": "Lithograph printed in blue ink",
   "nationality": "Norwegian",
   "provenance": "[Harald Holst Halvorsen, Kunsthandel, Oslo, Norway]. [Richard Zinser, New York]; acquired by MIA, 1957",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Edv. Munch]",
   "style": "19th century",
   "text": "",
   "title": "Separation II"

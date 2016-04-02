@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.5",
-  "artist": "Guillaume Chasteau; after Nicolas Poussin",
+  "artist": "Artist: Guillaume Chasteau; Artist: after Nicolas Poussin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1635 - 1683",
-  "marks": "Inscription\r\nin brown ink, UR corner: [37:2] \r\nin  ",
+  "inscription": "Inscription\r\nin brown ink, UR corner: [37:2] \r\nin graphite,verso:[illegible]...530527=(P)075-[illegible]",
+  "life_date": "French, 1594–1665",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Death of Germanicus"

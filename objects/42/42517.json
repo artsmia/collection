@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.46",
-  "artist": "Matsukawa Hanzan",
+  "artist": "Artist: Matsukawa Hanzan",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3521,
   "image_width": 4754,
+  "inscription": "19 haiku poems",
   "life_date": "Japanese, 1818 - 1882",
-  "marks": "19 haiku poems Hanzan",
+  "markings": "\\\"Yasunobu\\\" seal in red\r\n\\\"Kanoto tori haru(spring of the year of Cock)\\\"UL",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hanzan",
   "style": "19th century",
   "text": "",
   "title": "Visiting a Shrine of the Eagle God"

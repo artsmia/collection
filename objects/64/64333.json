@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.265.2",
-  "artist": "Don Nice",
+  "artist": "Artist: Don Nice",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Evan M. Maurer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Date and Edition\r\n\r\n",
   "life_date": "American, born 1932",
-  "marks": "Signature, Title, Date and Edition\r\n\r\n LRC in pencil: [nice 77]\r\n\r\nCenter bottom in penci",
+  "markings": "LLC in pencil: [42/150]",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in pencil: [nice 77]\r\n\r\nCenter bottom in pencil: [Minnesota predelia]",
   "style": "20th century",
   "text": "",
   "title": "Minnesota Predella"

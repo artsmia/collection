@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.10",
-  "artist": "Fernand Khnopff",
+  "artist": "Artist: Fernand Khnopff",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of funds from Mr. and Mrs. Lauress V. Ackman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5403,
   "image_width": 3656,
+  "inscription": "Mark\r\nBlind stamp: [Ste. Aquae Belges]",
   "life_date": "Belgian, 1858 - 1921",
-  "marks": "Mark\r\nBlind stamp: [Ste. Aquae Belges] ",
+  "markings": "watermark: crowned shield with Fleur de Lys & V.G.Z.",
   "medium": "Drypoint",
   "nationality": "Belgian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Gesture of Offering"

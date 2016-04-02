@@ -1,6 +1,7 @@
 {
   "accession_number": "99.233.29",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 1785,
   "image_width": 2647,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in pencil, at top edge on back: [Mary & vendors, S",
+  "markings": "in pencil, at left edge on back: [10/8/98]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, at top edge on back: [Mary & vendors, Sucre Bolivia 1998 David Parker/ Sucre]",
   "style": "20th century",
   "text": "",
   "title": "Mary and Vendors, Sucre, Bolivia"

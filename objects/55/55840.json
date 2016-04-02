@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.24",
-  "artist": "Jean-François Janinet; after Moreau le Jeune; Bureau de la Poste",
+  "artist": "Artist: Jean-François Janinet; Artist: after Moreau le Jeune; Workshop: Bureau de la Poste",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription and Mark\r\n\r\n[Lanis aux outils] no aquatint--signed on the back by de Varenne",
   "life_date": "French, 1752 - 1814",
-  "marks": "Inscription and Mark\r\n\r\n[Lanis aux outils] no aqua ",
+  "markings": "Watermark",
   "medium": "Color etching and engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Project for a Monument to be Erected to the King"

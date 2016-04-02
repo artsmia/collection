@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.59",
-  "artist": "Pierre Auguste Renoir",
+  "artist": "Artist: Pierre Auguste Renoir",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4370,
   "image_width": 3568,
+  "inscription": "Signature: Mark",
   "life_date": "French, 1841-1919",
-  "marks": "Signature: Mark on stone: [Renoir]",
+  "markings": "Watermark: <MBM> (twice); at bottom: [33] twice",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "Dayton accn. no. 61-13",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on stone: [Renoir]",
   "style": "19th century",
   "text": "",
   "title": "The Hat Pin"

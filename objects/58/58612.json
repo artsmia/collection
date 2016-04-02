@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.10",
-  "artist": "Susan Feine",
+  "artist": "Artist: Susan Feine",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1906,
   "image_width": 3918,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1946",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Susan Fiene Brown \\'78]\r\nLC: [AP 2/8]\r\nLL: [Or",
+  "markings": "LR: VEL chop mark",
   "medium": "Color lithograph on drafting vellum folded and collaged",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Susan Fiene Brown \\'78]\r\nLC: [AP 2/8]\r\nLL: [Orizonte]",
   "style": "20th century",
   "text": "",
   "title": "Orizonte"

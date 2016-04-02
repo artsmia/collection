@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,084",
-  "artist": "Charles-François Daubigny",
+  "artist": "Artist: Charles-François Daubigny",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Stamp",
   "life_date": "French, 1817 - 1878",
-  "marks": "Signature and Stamp Signed in plate",
+  "markings": "Prov. stamp red, recto: Alfred Lebrun Collection (L.140)",
   "medium": "Etching, drypoint, silk aquatint",
   "nationality": "French",
   "provenance": "Alfred Lebrun",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in plate",
   "style": "19th century",
   "text": "",
   "title": "Lever de lune dans la vallée d'Andilly"

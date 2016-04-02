@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,732",
-  "artist": "Conrad Gesner; Conrad Gesner",
+  "artist": "Artist: Conrad Gesner; Author: Conrad Gesner",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9151,
   "image_width": 5809,
+  "inscription": "\r\n\r\n\r\n\r\n",
   "life_date": "Swiss, 1516-1565",
-  "marks": "\r\n\r\n\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Woodcut illustration",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Bird Print.  De Aquila.  A. Lib. III. 163"

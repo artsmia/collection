@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.32",
-  "artist": "Utagawa Kunikazu; Published by Wakamatsuya Gensuke",
+  "artist": "Artist: Utagawa Kunikazu; Publisher: Published by Wakamatsuya Gensuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1894,
   "image_width": 2869,
+  "inscription": "Kyo_ka poem by Shinmin",
   "life_date": "Japanese, fl. c.1848-1868",
-  "marks": "Kyo_ka poem by Shinmin {Isshûsai Kunikazu ga}",
+  "markings": "Censor:Murata, Kinugasa\r\n2 unknown seals",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Isshûsai Kunikazu ga}",
   "style": "19th century",
   "text": "",
   "title": "Snow at Matsuchiyama"

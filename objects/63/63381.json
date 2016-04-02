@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,957",
-  "artist": "Kitagawa Hidemaro",
+  "artist": "Artist: Kitagawa Hidemaro",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2660,
   "image_width": 1989,
+  "inscription": "",
   "life_date": "fl. 1804-1817",
-  "marks": " {Hidemaro hitsu}",
+  "markings": "",
   "medium": "Woodblock print (sumizuri-e); ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hidemaro hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Sho_ki Carrying Two Basket of Demons"

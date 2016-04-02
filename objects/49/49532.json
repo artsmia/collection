@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,398",
-  "artist": "Jean Jacques de Boissieu",
+  "artist": "Artist: Jean Jacques de Boissieu",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "French, 1736 - 1810",
-  "marks": "Mark ",
+  "markings": "Collectors marks on back",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Enfants jouant avec un Chien"

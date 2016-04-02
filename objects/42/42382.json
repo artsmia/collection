@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.136",
-  "artist": "Ōtei",
+  "artist": "Artist: Ōtei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3330,
   "image_width": 4434,
+  "inscription": "9 poems",
   "life_date": "Japanese",
-  "marks": "9 poems O_tei",
+  "markings": "\\\"O_tei\\\" seal in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "O_tei",
   "style": "19th century",
   "text": "",
   "title": "(River rapid)"

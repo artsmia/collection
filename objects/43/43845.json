@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.20",
-  "artist": "Frantisek Kupka",
+  "artist": "Artist: Frantisek Kupka",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Czech, 1871 - 1957",
-  "marks": " Signed and dated on the stone, lower left",
+  "markings": "",
   "medium": "Color lithograph in brown and blue ink",
   "nationality": null,
   "provenance": "Eric G. Carlson Fine Prints and Drawings, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated on the stone, lower left",
   "style": "19th century",
   "text": "",
   "title": "Les Fous"

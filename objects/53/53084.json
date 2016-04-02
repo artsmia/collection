@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,571",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2968,
   "image_width": 4050,
+  "inscription": "LL verso, in pencil: [83990]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [83990]\r\n LR, in the plate: [(butterfly symbol)]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, OR), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in the plate: [(butterfly symbol)]",
   "style": "19th century",
   "text": "",
   "title": "The Little Putney, No. 1"

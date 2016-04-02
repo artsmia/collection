@@ -1,6 +1,7 @@
 {
   "accession_number": "56.46",
-  "artist": "Urban Stanley Couch",
+  "artist": "Artist: Urban Stanley Couch",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Cherokee / American, 1927 - 2007",
-  "marks": "Signature LR: [Urban]",
+  "markings": "",
   "medium": "Brush and black ink on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Urban]",
   "style": "20th century",
   "text": "",
   "title": "Marsh"

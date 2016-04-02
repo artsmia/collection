@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.88.1",
-  "artist": "Claes Oldenburg",
+  "artist": "Artist: Claes Oldenburg",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "© Claes Oldenburg",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born Sweden, 1929",
-  "marks": "Signature; Mark in pencil: [Oldenburg]",
+  "markings": "Watermark: Oldenburg script; chop: C in circle",
   "medium": "Etching in mauve ink",
   "nationality": "American (born Sweden)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Oldenburg]",
   "style": "20th century",
   "text": "",
   "title": "Figure and Phallus I"

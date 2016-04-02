@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.83",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1966,
   "image_width": 2651,
+  "inscription": "Kyo_ka\r\nJapanese:(I can\\'t read the first half), kumo no ue fumu kokochi koso sure.\r\nSecond half is saying \\\"I feel like walking on clouds\\\" that describs  supposedly the excitement and happiness of travellers who finally arrives to Kyo_to after long walks. \r\n",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Kyo_ka\r\nJapanese:(I can\\'t read the first half), ku ",
+  "markings": "Censor:Kiwame\r\nPublisher:Sanoya Kihe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of the Sanjo_ Bridge in Kyoto"

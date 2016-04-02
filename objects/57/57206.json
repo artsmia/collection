@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,397",
-  "artist": "Whitford Carter",
+  "artist": "Artist: Whitford Carter",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil LL: [2/50]\r\nTitled in pencil, LC: [Muros Mexicanos]",
   "life_date": "American; Mexican, 1915-1973",
-  "marks": "Signature; Date; Title; Edition\r\n\r\nsee Signed\r\n\r\nN Signed and dated in pencil, LR: [Whitford Carter 1",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American; Mexican",
   "provenance": "Given by the artist, 1965",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [Whitford Carter 1963]",
   "style": "20th century",
   "text": "",
   "title": "Muros Mexicanos"

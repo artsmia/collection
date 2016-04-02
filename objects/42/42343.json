@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.103",
-  "artist": "Kōbi",
+  "artist": "Artist: Kōbi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3462,
   "image_width": 4574,
+  "inscription": "3 poems abou the New Year",
   "life_date": "Japanese",
-  "marks": "3 poems abou the New Year {Kōbi}",
+  "markings": "red artist\\'s seal: {Kōbi}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kōbi}",
   "style": "19th century",
   "text": "",
   "title": "(Diorama on the theme of \"Takasago\")"

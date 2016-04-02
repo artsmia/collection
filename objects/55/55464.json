@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.55",
-  "artist": "Ossip Zadkine",
+  "artist": "Artist: Ossip Zadkine",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Russian, 1890 - 1967",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [O. Zadkine]",
+  "markings": "Watermark: <Arches>",
   "medium": "Color lithograph",
   "nationality": "Russian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [O. Zadkine]",
   "style": "20th century",
   "text": "",
   "title": "Praying Mantis"

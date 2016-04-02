@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.1",
-  "artist": "Gordon Rayner",
+  "artist": "Artist: Gordon Rayner",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Canada",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "Canadian, born 1935",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Rayner]",
+  "markings": "Watermark: <Arches>\r\nChop mark: 2 R\\'s back to back",
   "medium": "Color lithograph",
   "nationality": "Canadian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Rayner]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

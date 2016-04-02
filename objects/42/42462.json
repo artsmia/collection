@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.91",
-  "artist": "Matsumura Keibun; Shibata Gitō; Okamoto Toyohiko",
+  "artist": "Artist: Matsumura Keibun; Artist: Shibata Gitō; Artist: Okamoto Toyohiko",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3661,
   "image_width": 4545,
+  "inscription": "33 haiku poems about autumn",
   "life_date": "Japanese, 1779 - 1843",
-  "marks": "33 haiku poems about autumn Gito_(right), Keibun(LR), Toyohiko(center)",
+  "markings": "\\\"Gito_\\\", \\\"Keibun\\\", \\\"Toyohiko\\\" sealed under each signature",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Gito_(right), Keibun(LR), Toyohiko(center)",
   "style": "19th century",
   "text": "",
   "title": "(Three women in court attire)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "97.66",
-  "artist": "Hercules Brabazon Brabazon",
+  "artist": "Artist: Hercules Brabazon Brabazon",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Rev. Msrg. Henri DuLac",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date, Mark",
   "life_date": "English, 1821 - 1906",
-  "marks": "Signature; Date, Mark in graphite, LL: [HBB",
+  "markings": "in graphite, verso: [1971(underlined)/2667]",
   "medium": "Pastel on buff wove paper laid down on illustration board",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LL: [HBB",
   "style": "19th century",
   "text": "",
   "title": "Mountainous Landscape"

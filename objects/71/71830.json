@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.62",
-  "artist": "Utagawa Kuniyoshi; Published by Ebisu",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Ebisu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2658,
   "image_width": 1842,
+  "inscription": "[7] (number of the piece in the series)\r\nNakamaro\\'s poem:\r\n(Looking over the vast sky \r\nHere in China, far away from home\r\nI can see the same moon\r\nThat I saw once in my hometown\r\nHanging over the Mikasa Mountain)\r\n{Ama no hara\r\nFurisake mire ba\r\nKasuga naru\r\nMikasa no yama ni\r\nIde shi tsuki kamo}",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "[7] (number of the piece in the series)\r\nNakamaro\\' {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Publisher: Ebisu",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Illustration of the Abe no Nakamaro's Poem"

@@ -1,6 +1,7 @@
 {
   "accession_number": "61.35.2",
-  "artist": "In the style of Antico",
+  "artist": "Artist: In the style of Antico",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Northern Italy",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4951,
   "image_width": 3238,
+  "inscription": "",
   "life_date": "Italian",
-  "marks": " ",
+  "markings": "On the base is the number: 24",
   "medium": "Bronze",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Seated Bacchus"

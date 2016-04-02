@@ -1,6 +1,7 @@
 {
   "accession_number": "B.93.5.5",
-  "artist": "Deborah Mae Broad; Text by Will Weaver; Designed by Gaylord Schanilec; Published by Minnesota Center for Book Arts, Minneapolis",
+  "artist": "Artist: Deborah Mae Broad; Author: Text by Will Weaver; Designer: Designed by Gaylord Schanilec; Publisher: Published by Minnesota Center for Book Arts, Minneapolis",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ruth And Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1954",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, born 1955",
+  "markings": "",
   "medium": "Color and black & white wood engravings; letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Snares"

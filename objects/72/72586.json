@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,701",
-  "artist": "after Jan Goeree; Jacobus Baptist; Text by Abraham Munting",
+  "artist": "Artist: after Jan Goeree; Engraver: Jacobus Baptist; Author: Text by Abraham Munting",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Dutch, 1670 - 1731",
-  "marks": "\r\n\r\n ",
+  "inscription": "\r\n\r\n",
+  "life_date": "Dutch, 1626 - 1683",
+  "markings": "\r\n",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Pulmonaria Maculosa Maxima, from Phytographia Curiosa"

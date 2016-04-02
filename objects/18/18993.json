@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.183",
-  "artist": "Violante Vanni",
+  "artist": "Artist: Violante Vanni",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Italian, 1732-1776",
-  "marks": " No signature (Att: Vanni, by Gordon Denthorne)",
+  "markings": "",
   "medium": "Watercolor drawing",
   "nationality": null,
   "provenance": "Gordon Dunthorne, Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signature (Att: Vanni, by Gordon Denthorne)",
   "style": "18th century",
   "text": "",
   "title": "Turkey (Gallinaccio)"

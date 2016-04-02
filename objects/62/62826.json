@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.64.16.2",
-  "artist": "Katsushika Hokusai; Published by Tsutaya Jūzaburō",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Tsutaya Jūzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2555,
   "image_width": 1881,
+  "inscription": "Poem by Asakusa Ichijin",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Poem by Asakusa Ichijin Shunrō ga 春郎画",
+  "markings": "publisher\\'s seal: Tsutaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Shunrō ga 春郎画",
   "style": "18th century",
   "text": "",
   "title": "Visiting Atago Shrine"

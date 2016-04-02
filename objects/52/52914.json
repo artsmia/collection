@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,526",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4452,
   "image_width": 3440,
+  "inscription": "Signature, Date, Inscriptions, Mark\r\n\r\nLL recto, in pencil: [Whistler. The Rag Shop]\r\nLC recto, in pencil: [# 21]\r\nLR recto, in pencil: [W17.]\r\nUL verso, in pencil: [70.]\r\nLL verso, in pencil: [2-7-96]; [a22233]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "Signature, Date, Inscriptions, Mark\r\n\r\nLL recto, i Printed signature LR (sideways) in the plate:  [Wh",
+  "markings": "Watermark: [JEM 1850]",
   "medium": "Etching in brown-black ink",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, OR), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LR (sideways) in the plate:  [Whistler / 1858]",
   "style": "19th century",
   "text": "",
   "title": "The Rag Gatherers"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.1.2",
-  "artist": "Bruce Anderson; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Bruce Anderson; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Art Accessions Endowment Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2454,
   "image_width": 3650,
+  "inscription": "Signed, dated, inscribed, and chop mark",
   "life_date": "American, born 1945",
-  "marks": "Signed, dated, inscribed, and chop mark LC: [Bruce A. Anderson 1984-91 Archive Proof]",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1993.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [Bruce A. Anderson 1984-91 Archive Proof]",
   "style": "20th century",
   "text": "",
   "title": "Conversation II"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.279.1",
-  "artist": "Adolf Dehn",
+  "artist": "Artist: Adolf Dehn",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Adolf Dehn",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Adolf Arthur Dehn",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription",
   "life_date": "American, 1895 - 1968",
-  "marks": "Signature; Inscription ",
+  "markings": "\\'A.D.\\', LR; \\'507\\', verso; \\'Ped, Bi & Triped\\', LL",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Ped, Bi and Tripeds"

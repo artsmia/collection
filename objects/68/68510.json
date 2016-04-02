@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.93",
-  "artist": "Eisen; Published by Wakasaya Yoichi",
+  "artist": "Artist: Eisen; Publisher: Published by Wakasaya Yoichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2566,
   "image_width": 1806,
+  "inscription": "",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": " {Keisai Eisen ga}",
+  "markings": "Censor: kiwame; publisher\\'s seal: {Wakasaya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Keisai Eisen ga}",
   "style": "19th century",
   "text": "",
   "title": "The Seven Autumn Flowers"

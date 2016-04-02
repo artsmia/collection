@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,895",
-  "artist": "Friedrich Karl Gotsch",
+  "artist": "Artist: Friedrich Karl Gotsch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J. B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, born 1900",
-  "marks": "Signature LRC",
+  "inscription": "Signature",
+  "life_date": "German, 1900–1984",
+  "markings": "",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC",
   "style": "20th century",
   "text": "",
   "title": "Seated Child"

@@ -1,6 +1,7 @@
 {
   "accession_number": "42.20",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Local Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 4927,
   "image_width": 6094,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Mount Maude"

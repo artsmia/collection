@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.206",
-  "artist": "Lovis Corinth",
+  "artist": "Artist: Lovis Corinth",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4205,
   "image_width": 3412,
-  "life_date": "German, 1858 - 1925",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1858-1925",
+  "markings": "",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait"

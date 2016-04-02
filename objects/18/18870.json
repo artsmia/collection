@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.7",
-  "artist": "Lennart Anderson",
+  "artist": "Artist: Lennart Anderson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n\r\non verso: [Roma 1963 GRAHAM EX 4I LA-29 Daniels 4718]",
   "life_date": "American",
-  "marks": "Signature; Inscription\r\n\r\non verso: [Roma 1963 GRA LR: [LA]",
+  "markings": "",
   "medium": "Charcoal, graphite and chalk",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [LA]",
   "style": "20th century",
   "text": "",
   "title": "Seated Nude"

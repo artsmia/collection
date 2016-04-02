@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,360",
-  "artist": "Pieter Dupont",
+  "artist": "Artist: Pieter Dupont",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(see Signed)",
   "life_date": "Dutch, 1870 - 1911",
-  "marks": "Signature\r\n\r\n(see Signed) in plate, URC",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate, URC",
   "style": "19th century",
   "text": "",
   "title": "L'Attelage"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.172",
-  "artist": "Utagawa Yoshikazu; Izumiya Ichibei",
+  "artist": "Artist: Utagawa Yoshikazu; Publisher: Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1910,
   "image_width": 2758,
+  "inscription": "",
   "life_date": "Japanese, active. c.1850 - 1869",
-  "marks": " {Ichijusai Yoshikazu ga}",
+  "markings": "Censor: Muramatsu, Fukushima, Ox 6; publisher\\'s seal: {Izumi-ichi}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichijusai Yoshikazu ga}",
   "style": "19th century",
   "text": "",
   "title": "View of the Plum Garden at Umeyashiki"

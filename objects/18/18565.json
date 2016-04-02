@@ -1,6 +1,7 @@
 {
   "accession_number": "62.49",
-  "artist": "Filippo Scandellari",
+  "artist": "Artist: Filippo Scandellari",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4758,
   "image_width": 2966,
+  "inscription": "",
   "life_date": "Italian (Bologna), 1717 - 1802",
-  "marks": " Initialed and dated 1763, lower left:\r\n    E.S.A.C",
+  "markings": "",
   "medium": "Terracotta, polychromed, under glass in wooden case.",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed and dated 1763, lower left:\r\n    E.S.A.C.\r\n    1763",
   "style": "18th century",
   "text": "",
   "title": "St. John the Baptist"

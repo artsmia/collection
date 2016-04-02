@@ -1,6 +1,7 @@
 {
   "accession_number": "76.71",
-  "artist": "Barry Lewis",
+  "artist": "Artist: Barry Lewis",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3744,
+  "inscription": "Signature, Date",
   "life_date": "American",
-  "marks": "Signature, Date In pencil, LR: [Barry Lewis, 1976]",
+  "markings": "",
   "medium": "Pen and colored pencil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, LR: [Barry Lewis, 1976]",
   "style": "20th century",
   "text": "",
   "title": "Pictograph"

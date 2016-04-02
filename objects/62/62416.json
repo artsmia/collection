@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.65.5",
-  "artist": "Ishii Hakutei; Published by Nakajima Jūtarō; Carved by Igami Bonkotsu",
+  "artist": "Artist: Ishii Hakutei; Publisher: Published by Nakajima Jūtarō; Carver: Carved by Igami Bonkotsu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2820,
   "image_width": 1883,
+  "inscription": "",
   "life_date": "1882 - 1958",
-  "marks": " 柏亭画 {Hakutei ga}",
+  "markings": "red carver\\'s seal: 凡骨刀 {Bonkotsu tō}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "柏亭画 {Hakutei ga}",
   "style": "20th century",
   "text": "",
   "title": "Nihonbashi"

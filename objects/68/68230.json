@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.39.5",
-  "artist": "Nicholas Africano",
+  "artist": "Artist: Nicholas Africano",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 2918,
   "image_width": 3537,
+  "inscription": "Signed, dated, numbered, chop mark, annotated in red graphite",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, numbered, chop mark, annotated in r LC: [NA 1990]; LR: [W.P.]",
+  "markings": "LR: VEL chop",
   "medium": "Lithographs on hand-made paper in linen portfolio",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [NA 1990]; LR: [W.P.]",
   "style": "20th century",
   "text": "",
   "title": "Study for \"March 1988 - He Tried to Carry Something Too Large, He Felt Like He Was Falling\", from the Portfolio \"Lilacs and Smoke\""

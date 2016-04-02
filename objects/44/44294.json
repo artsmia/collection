@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.32.2",
-  "artist": "Charles Knight I; Henri Merke; after Edward Orme",
+  "artist": "Artist: Charles Knight I; Artist: Henri Merke; Artist: after Edward Orme",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England and Switzerland",
   "creditline": "Gift of Charles J. Hudgins",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscriptions\r\nTitle",
   "life_date": "1743-about 1826",
-  "marks": "Inscriptions\r\nTitle ",
+  "markings": "",
   "medium": "Hand-colored etching and aquatint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Outside of a Cottage in Buckinghamshire"

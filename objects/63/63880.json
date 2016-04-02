@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.8",
-  "artist": "Utagawa Hiroshige; Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2579,
   "image_width": 3629,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga (on each print)",
+  "markings": "Censor:Hama, Kinugasa(on each piece); Publisher:Tsutaya Kichizo_(on each piece); red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga (on each print)",
   "style": "19th century",
   "text": "",
   "title": "Fifty-three Stations of To_kaido_ Road"

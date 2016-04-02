@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,743",
-  "artist": "Carle Vernet; Published by Godefrey Engelmann",
+  "artist": "Artist: Carle Vernet; Publisher: Published by Godefrey Engelmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\non sheet below image: [Le Mulet se Vantant de sa Genealogie]\r\nLR below image: [Lith de G. Engelmann]",
   "life_date": "French, 1758 - 1836",
-  "marks": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\non s right of center on image: [Carl Vernet]",
+  "markings": "Collector\\'s mark: in pencil, LL on sheet: [717]; in pencil, LL on sheet: [201.1]",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "Kornfeld & Klipstein, sale 119, #201.1",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "right of center on image: [Carl Vernet]",
   "style": "19th century",
   "text": "",
   "title": "Le Mulet se vantant de sa Genealogie"

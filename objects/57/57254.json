@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.30",
-  "artist": "Carl Grupp; Gerald E. Martin",
+  "artist": "Artist: Carl Grupp; Printer: Gerald E. Martin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1939",
-  "marks": "Signature, Inscription\r\n\r\nsee Signed\r\n\r\n# +S On work",
+  "inscription": "Signature, Inscription\r\n\r\nsee Signed\r\n\r\n# +S",
+  "life_date": "American, born 1941",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On work",
   "style": "20th century",
   "text": "",
   "title": "The Juggler"

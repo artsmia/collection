@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.56",
-  "artist": "David Hockney; Gemini G.E.L., Los Angeles",
+  "artist": "Artist: David Hockney; Publisher: Gemini G.E.L., Los Angeles",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©David Hockney",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1937",
-  "marks": "Signature in pencil: [David Hockney]",
+  "markings": "2 chop marks",
   "medium": "Lithograph",
   "nationality": "British",
   "provenance": "(Petersburg Press, New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [David Hockney]",
   "style": "20th century",
   "text": "",
   "title": "Mo McDermott"

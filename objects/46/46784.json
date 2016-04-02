@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.82",
-  "artist": "Unknown German, 15th century",
+  "artist": "Artist: Unknown German, 15th century",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4194,
   "image_width": 2639,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored woodcut",
   "nationality": null,
   "provenance": "Knoedler & Co.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "St. Andrew with a Monk (Elsass?)"

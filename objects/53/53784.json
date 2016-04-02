@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.53",
-  "artist": "Charles Huntington",
+  "artist": "Artist: Charles Huntington",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (Ojibwe)",
-  "marks": "Signature; Mark; Title; Edition\r\n\r\nsee Signed in pencil: [Charles Huntington]",
+  "inscription": "Signature; Mark; Title; Edition\r\n\r\nsee Signed",
+  "life_date": "American (Ojibwe), born 1925",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color lithograph",
   "nationality": "American (Ojibwe)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Charles Huntington]",
   "style": "20th century",
   "text": "",
   "title": "Helix II"

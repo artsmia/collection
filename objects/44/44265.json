@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.15.2",
-  "artist": "Francesco Mazzola (Il Parmigianino); After Raphael Sanzio",
+  "artist": "Artist: Francesco Mazzola (Il Parmigianino); Artist: After Raphael Sanzio",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of funds from Janet and Winton Jones in memory of Thirza Jones Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2032,
   "image_width": 2896,
-  "life_date": "Italian, 1503 - 1540",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian, 1483–1520",
+  "markings": "Watermark: (unidentified object in circle surmounted by a six-pointed star) | Collector\\'s stamps: on recto, LR, in black ink: (six-pointed star (possibly Lugt 3757) | on verso, in blue ink, GR (Lugt 1206)",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "George Rath, Lugt 1206 (1828-1904), Budapest; [Olimpia Theodoli, London, until 1999; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Saints Peter and John Healing the Sick at the Gates of the Temple"

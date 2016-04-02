@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.249",
-  "artist": "Robetta (Cristofano di Michele Martini)",
+  "artist": "Artist: Robetta (Cristofano di Michele Martini)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1462-after 1534",
-  "marks": "Signature In plate",
+  "markings": "Watermark: Eagle in circle, close to Briquet 208, c.1570-80",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Kneodler & Co., 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "15th century",
   "text": "",
   "title": "Adoration of the Magi"

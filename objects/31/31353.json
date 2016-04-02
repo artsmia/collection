@@ -1,6 +1,7 @@
 {
   "accession_number": "99.205.2",
-  "artist": "Robert Kushner",
+  "artist": "Artist: Robert Kushner",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John F. Eisberg and Susan Kline",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1949",
-  "marks": "Signature; Date LR: [Robert Kushner 84]",
+  "markings": "",
   "medium": "Watercolor, acrylic and collage",
   "nationality": "American",
   "provenance": "John F. Eisberg and Susan Kline, Minneapolis; given to MIA, 1999.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Robert Kushner 84]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

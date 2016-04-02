@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.2",
-  "artist": "George Bellows",
+  "artist": "Artist: George Bellows",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2606,
   "image_width": 1748,
-  "life_date": "American, 1882 - 1925",
-  "marks": "Signature in pencil, LR: [Geo Bellows]",
+  "inscription": "Signature",
+  "life_date": "American, 1882–1925",
+  "markings": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
   "medium": "Conté crayon",
   "nationality": "American",
   "provenance": "Bellows estate ('); H.V. Allison & Co., NY B953",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [Geo Bellows]",
   "style": "20th century",
   "text": "",
   "title": "Study for a Young Man Standing"

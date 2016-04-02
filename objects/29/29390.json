@@ -1,6 +1,7 @@
 {
   "accession_number": "96.37.70",
-  "artist": "Michael A. Smith",
+  "artist": "Photographer: Michael A. Smith",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Film in the Cities",
@@ -14,8 +15,9 @@
   "image_copyright": "© Michael A. Smith",
   "image_height": 3414,
   "image_width": 4260,
+  "inscription": "Date; Signature; Title; Edition",
   "life_date": "American, born 1942",
-  "marks": "Date; Signature; Title; Edition inside mat under image in pencil: [1979 Michael A.",
+  "markings": "verso on mat at center in pencil: [6/20/Chiracahua/Arizona 1979]",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "inside mat under image in pencil: [1979 Michael A. Smith]",
   "style": "20th century",
   "text": "",
   "title": "Chiricahua, Arizona"

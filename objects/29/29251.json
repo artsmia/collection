@@ -1,6 +1,7 @@
 {
   "accession_number": "96.18",
-  "artist": "James B. Turnbull",
+  "artist": "Artist: James B. Turnbull",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of The Regis Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4491,
   "image_width": 3135,
+  "inscription": "Signature; Stamp; Sticker; Mark",
   "life_date": "American, 1909 - 1976",
-  "marks": "Signature; Stamp; Sticker; Mark LRC: [James B. Turnbull, 1939]",
+  "markings": "Watermark: <HAND MADE>\r\nblind stamp: <=R.W.S.>\r\nsticker for Master Framers, Inc.: [Horowitz/October, 1992/# 18082]",
   "medium": "Gouache and watercolor",
   "nationality": "American",
   "provenance": "(Fran Horowitz, Hopkins, Minn.); Regis Corporation, Edina, Minn.; given to MIA, 1996.\r\n",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G315",
+  "signed": "LRC: [James B. Turnbull, 1939]",
   "style": "20th century",
   "text": "",
   "title": "Breast Feeding"

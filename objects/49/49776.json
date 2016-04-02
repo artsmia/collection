@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,686",
-  "artist": "Antoine Louis Romanet; after Robert Nanteuil",
+  "artist": "Artist: Antoine Louis Romanet; Artist: after Robert Nanteuil",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1748 - 1806",
-  "marks": "Signature in plate",
+  "inscription": "Signature",
+  "life_date": "French, 1623-1678",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Robert Nanteuil"

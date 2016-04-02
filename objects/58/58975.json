@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.25",
-  "artist": "Gary L. Johnson",
+  "artist": "Artist: Gary L. Johnson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3984,
   "image_width": 2193,
+  "inscription": "Signed, numbered, titled",
   "life_date": "American, born 1954",
-  "marks": "Signed, numbered, titled LR: [Gary Johnson]\r\nLC (in quotes): [\\\"The Neo-Cook",
+  "markings": "",
   "medium": "Diazo lithograph in white",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Gary Johnson]\r\nLC (in quotes): [\\\"The Neo-Cookie Cutter Style\\\"]\r\nLL: [Diazo State Proof]\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "The Neo-Cookie Cutter Style"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,426",
-  "artist": "Jean-Baptiste de Grateloup; after Dassier",
+  "artist": "Artist: Jean-Baptiste de Grateloup; Artist: after Dassier",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2089,
   "image_width": 1466,
+  "inscription": "",
   "life_date": "French, 1735 - 1817",
-  "marks": " ",
+  "markings": "",
   "medium": "Stipple etching with mezzotint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Montesquieu"

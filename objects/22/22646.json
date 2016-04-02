@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.180",
-  "artist": "In the style of Kitagawa Utamaro; Published by Yamachō",
+  "artist": "Artist: In the style of Kitagawa Utamaro; Publisher: Published by Yamachō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2766,
   "image_width": 1308,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " ",
+  "markings": "publisher\\'s seal: [山長] {Yamachō}; ULC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Act 1"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.300",
-  "artist": "Heloise Colin Leloir",
+  "artist": "Artist: Heloise Colin Leloir",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Siganture; Mark",
   "life_date": "French, 1820 - 1874",
-  "marks": "Siganture; Mark In brown ink, LR: [Heloise Leloir]",
+  "markings": "Collector\\'s mark, in pencil, on verso",
   "medium": "Red and black ink, watercolor over graphite, heightened with gouache",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In brown ink, LR: [Heloise Leloir]",
   "style": "19th century",
   "text": "",
   "title": "Two Woman in a Garden"

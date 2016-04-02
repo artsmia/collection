@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.4",
-  "artist": "Copeland Factory",
+  "artist": "Manufacturer: Copeland Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of C.J. Hudgins",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3651,
   "image_width": 3660,
+  "inscription": "Sticker",
   "life_date": null,
-  "marks": "Sticker ",
+  "markings": "sticker, left corner of backing: [1/03 ANCNA COPELAND]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Figurative tile"

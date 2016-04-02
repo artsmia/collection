@@ -1,6 +1,7 @@
 {
   "accession_number": "P.49",
-  "artist": "John Sloan",
+  "artist": "Artist: John Sloan",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3580,
   "image_width": 4488,
+  "inscription": "Imperial Japan edition;\r\nErased: Limited to ten (10) sets, John Sloan",
   "life_date": "American, 1871 - 1951",
-  "marks": "Imperial Japan edition;\r\nErased: Limited to ten (1 In plate, on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "20th century",
   "text": "",
   "title": "Connoisseurs of Prints"

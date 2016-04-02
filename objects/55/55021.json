@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,821",
-  "artist": "Carl Edward Johnson",
+  "artist": "Artist: Carl Edward Johnson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. E.D. Brooks, May 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2790,
   "image_width": 1855,
-  "life_date": "American",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\non vers in pencil and in plate",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\non verso: drawing of a man sitting in chair reading book with pipe in mouth.",
+  "life_date": "American, 1883 - 1948",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil and in plate",
   "style": "20th century",
   "text": "",
   "title": "Hennepin Avenue below Sixth Street"

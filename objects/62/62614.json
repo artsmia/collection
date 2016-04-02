@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.188",
-  "artist": "Utagawa Kunisada; Published by Hiranoya Shinzō",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Hiranoya Shinzō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": " in toshidama cartouche: 豊國画 {Toyokuni ga}",
+  "markings": "combined date and censor seal:  酉十改 {tori jū aratame} (Cock 10 inspected) | publisher\\'s seal: 萬町、平のや {Yorozuchō, Hiranoya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "Related to the play Kiichi Hōgen sanryaku no maki 鬼一法眼三略巻, performed at the Ichimura Theater, 1861, 9th month.",
   "title": "The Actor Kawarazaki Gonjūrō I as Kagekiyo"

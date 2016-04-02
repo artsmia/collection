@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,768",
-  "artist": "Hans Burgkmair",
+  "artist": "Artist: Hans Burgkmair",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Miss Tessie Jones in memory of her parents, Mr. and Mrs. Herschel V. Jones, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, 1473 - 1531",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Albertina Dupl.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Love"

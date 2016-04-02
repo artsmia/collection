@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.125",
-  "artist": "Katsushika Taito II et al.; Izumiya Ichibei",
+  "artist": "Artist: Katsushika Taito II et al.; Publisher: Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2777,
   "image_width": 1925,
+  "inscription": "Middle panel: waka poem; letters and signature are illegible",
   "life_date": "Japanese, fl. 1810-1853",
-  "marks": "Middle panel: waka poem; letters and signature are Right: {Katsushika Taito}",
+  "markings": "Censor: Kiwame; left panel: illegible signature (looks like \\\"Kankanbō\\\" who is a Buddhist printmaker, also known as Genshō (c.1146-1206); presumably this panel is the copy of a Genshō\\'s work.)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Right: {Katsushika Taito}",
   "style": "19th century",
   "text": "",
   "title": "Daikoku God and Chinese Performers with Calligraphy"

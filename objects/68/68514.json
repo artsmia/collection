@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.49",
-  "artist": "Utagawa Kunisada; Published by Nishinomiya Shinroku",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Nishinomiya Shinroku",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2638,
   "image_width": 1834,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": " 五渡亭國貞画 {Gototei Kunisada ga}",
+  "markings": "censor seal: 極 {kiwame} | publisher\\'s seal: 西宮 {Nishinomiya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "五渡亭國貞画 {Gototei Kunisada ga}",
   "style": "19th century",
   "text": "Center sheet of a triptych. Related to the play Date moyô gedatsu no Kinugawa 伊達模様解脱絹川, performed at the Nakamura Theater, 1821, third month.",
   "title": "The Actor Segawa Kikunojō V as Ashikaga Yorikane"

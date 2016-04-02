@@ -1,6 +1,7 @@
 {
   "accession_number": "83.23",
-  "artist": "Melvin Hirsch Pekarsky",
+  "artist": "Artist: Melvin Hirsch Pekarsky",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from The National Endowment for the Arts and an anonymous gift of funds",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n\r\nInscribed on verso: [Mel Pekarsy Funeral Mountains app.22-3/4 x 30-1/2 pencil 1981]",
   "life_date": "American, born 1934",
-  "marks": "Signature; Inscription\r\n\r\nInscribed on verso: [Mel verso, in graphite: [M. Pekarsky]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "verso, in graphite: [M. Pekarsky]",
   "style": "20th century",
   "text": "",
   "title": "Funeral Mountains"

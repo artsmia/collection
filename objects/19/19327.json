@@ -1,6 +1,7 @@
 {
   "accession_number": "66.32",
-  "artist": "Bernard Reder",
+  "artist": "Artist: Bernard Reder",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Romania",
   "creditline": "Gift of Mr. and Mrs. Phillip A. Bruno",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4946,
   "image_width": 3349,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1897",
-  "marks": "Signature; Date [Reder/ C.m./ 1959]",
+  "markings": "",
   "medium": "Pen, ink, wash over charcoal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Reder/ C.m./ 1959]",
   "style": "20th century",
   "text": "",
   "title": "Woman with Musical Instruments"

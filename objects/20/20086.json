@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.317",
-  "artist": "Katsukawa Shun'ei; Published by Emiya Kichiemon",
+  "artist": "Artist: Katsukawa Shun'ei; Publisher: Published by Emiya Kichiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4765,
   "image_width": 3381,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " {Shun\\'ei ga}",
+  "markings": "Censor: kiwame; publisher\\'s seal: {Emiya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shun\\'ei ga}",
   "style": "18th century",
   "text": "",
   "title": "Bandō Hikosaburō III as Kudō Suketsune"

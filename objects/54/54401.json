@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.28.52",
-  "artist": "William Weege",
+  "artist": "Artist: William Weege",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1935",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Weege]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Screenprint with flocking",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Weege]",
   "style": "20th century",
   "text": "",
   "title": "Don't 'Miss America' in '77"

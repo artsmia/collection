@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.66",
-  "artist": "Louis Rhead",
+  "artist": "Artist: Louis Rhead",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp",
   "life_date": "American, (born England) 1857 - 1926",
-  "marks": "Signature; Stamp in plate at LR",
+  "markings": "Publisher\\'s blind stamp at lower right",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate at LR",
   "style": "19th century",
   "text": "",
   "title": "La femme au Paon"

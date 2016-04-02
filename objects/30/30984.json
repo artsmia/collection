@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.14",
-  "artist": "Yong",
+  "artist": "Maker: Yong",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2104,
   "image_width": 4289,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese",
-  "marks": "Signature; Stamps artist\\'s signature and seal, at top right center",
+  "markings": "",
   "medium": "Ink and color on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and seal, at top right center",
   "style": "17th century",
   "text": "",
   "title": "Mountain Pavillion"

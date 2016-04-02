@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.92",
-  "artist": "Corning Glass Works (pyrex glass shell); Saunders (heating element and steel body)",
+  "artist": "Manufacturer: Corning Glass Works (pyrex glass shell); Manufacturer: Saunders (heating element and steel body)",
+  "classification": "Industrial Design",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of funds from N. Bud and Beverly Grossman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2859,
   "image_width": 3696,
+  "inscription": "",
   "life_date": "Corning, New York, est. 1868",
-  "marks": " ",
+  "markings": "",
   "medium": "Pyrex glass, steel, plastic, electrical components, rubber",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "G379",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "\"Silver Streak\" electric iron"

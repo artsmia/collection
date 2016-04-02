@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,056",
-  "artist": "Rudolph Ackermann; Text by Alois Senefelder",
+  "artist": "Artist: Rudolph Ackermann; Author: Text by Alois Senefelder",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "British (born Germany), 1764 - 1834",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithographs",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "A Complete Course of Lithography"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,870",
-  "artist": "Rudolph Ruzicka",
+  "artist": "Artist: Rudolph Ruzicka",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Mr. R. A. Plimpton, 1922",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\n\r\nsee Signed",
   "life_date": "Czech-American, born 1883",
-  "marks": "Signature; Date\r\n\r\nsee Signed in plate: [RR 192]",
+  "markings": "",
   "medium": "Color wood engraving",
   "nationality": "Czech-American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate: [RR 192]",
   "style": "20th century",
   "text": "",
   "title": "Landscape (a Christmas card)"

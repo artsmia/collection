@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.16.31",
-  "artist": "Thomas Schofield Handforth",
+  "artist": "Artist: Thomas Schofield Handforth",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Merle Shera",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1897 - 1947",
-  "marks": "Signature\r\n\r\nsee Signed on sheet and in plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet and in plate",
   "style": "20th century",
   "text": "",
   "title": "The Bride (Francesca)"

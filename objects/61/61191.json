@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.29.20",
-  "artist": "Pierre Daura",
+  "artist": "Artist: Pierre Daura",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Martha R. Daura",
@@ -14,8 +15,9 @@
   "image_copyright": "© Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"What is in a painting?\\\", in black, on back",
   "life_date": "American (born Spain), 1896-1976",
-  "marks": "\\\"What is in a painting?\\\", in black, on back \\\"Daura\\\", in black, LRC and on back",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Daura\\\", in black, LRC and on back",
   "style": "20th century",
   "text": "",
   "title": "What Is In A Painting?"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.26.1",
-  "artist": "Odilon Redon; Printed by Becquet, Paris",
+  "artist": "Artist: Odilon Redon; Printer: Printed by Becquet, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp; Inscription\r\n\r\n",
   "life_date": "French, 1840 - 1916",
-  "marks": "Stamp; Inscription\r\n\r\n Signed and inscribed in red ink, UR: [a Emile Zola",
+  "markings": "Red stamp inside cover: [R.L. Mayer] (not in Lugt)",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "(Fitch-Febvrel Gallery, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and inscribed in red ink, UR: [a Emile Zola/hommage/ Odilon Redon]",
   "style": "19th century",
   "text": "",
   "title": "Portfolio cover for \"La tentation de Saint Antoine\""

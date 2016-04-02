@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,161",
-  "artist": "Emil Orlik",
+  "artist": "Artist: Emil Orlik",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "Gift of Mrs. George P. Douglas, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2316,
   "image_width": 1841,
+  "inscription": "Signature; Stamp",
   "life_date": "Czech, 1870 - 1932",
-  "marks": "Signature; Stamp In pencil in lower margin:  [Emil Orlik]",
+  "markings": "Collector\\'s \\\"D\\\" stamp printed on verso\r\n",
   "medium": "Drypoint",
   "nationality": "Czech",
   "provenance": "Mrs. Douglas",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  [Emil Orlik]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Joseph Pennell"

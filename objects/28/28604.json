@@ -1,6 +1,7 @@
 {
   "accession_number": "95.112.2",
-  "artist": "Greg Kelsey",
+  "artist": "Artist: Greg Kelsey",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Sally Johnson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Signature; Date",
   "life_date": "American, 1951-1991",
-  "marks": "Inscription; Signature; Date LR, in graphite: [Greg Kelsey]; lower margin, in g",
+  "markings": "",
   "medium": "Graphite, oil paint and black crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in graphite: [Greg Kelsey]; lower margin, in graphite: [Head & Verbs/greg kelsey/1981/MAT 7x9-7/8\\'(Twice)]",
   "style": "20th century",
   "text": "",
   "title": "Head and Verbs"

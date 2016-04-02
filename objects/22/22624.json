@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.152",
-  "artist": "Yashima Gakutei",
+  "artist": "Artist: Yashima Gakutei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2199,
   "image_width": 1998,
+  "inscription": "3 poems",
   "life_date": "Japanese, c.1786 - 1868",
-  "marks": "3 poems [岳亭] {Gakutei}",
+  "markings": "red artist\\'s seal: [島] {Shima}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[岳亭] {Gakutei}",
   "style": "19th century",
   "text": "",
   "title": "(Black Carp)"

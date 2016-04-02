@@ -1,6 +1,7 @@
 {
   "accession_number": "63.68.72",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3951,
   "image_width": 3343,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature\r\n\r\nsee Signed LR: [Philip Kappel]",
+  "markings": "",
   "medium": "Graphite on cream colored sketching paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Philip Kappel]",
   "style": "20th century",
   "text": "",
   "title": "House with Veranda"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,674",
-  "artist": "Hans Leonhard Schäufelein",
+  "artist": "Artist: Hans Leonhard Schäufelein",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, c. 1482 - 1539/40",
-  "marks": "Mark ",
+  "markings": "Watermark: High Crown",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Christ Taking Leave of His Mother"

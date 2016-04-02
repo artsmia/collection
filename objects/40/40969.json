@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.55.7.2",
-  "artist": "Frederick Priess; Revere Copper and Brass Co.",
+  "artist": "Designer: Frederick Priess; Manufacturer: Revere Copper and Brass Co.",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Rome, New York, est. 1828",
+  "markings": "",
   "medium": "Chrome plated brass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Candlestick from the \"skyscraper\" cocktail shaker service"

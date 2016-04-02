@@ -1,6 +1,7 @@
 {
   "accession_number": "81.119.1",
-  "artist": "Wang-Li Pied",
+  "artist": "Artist: Wang-Li Pied",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Fred and Mildred Ptashne",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5273,
   "image_width": 2158,
+  "inscription": "",
   "life_date": "Chinese",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink, colors on paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Children at Play"

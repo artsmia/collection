@@ -1,6 +1,7 @@
 {
   "accession_number": "P.65.61.53",
-  "artist": "Anthony van Dyck",
+  "artist": "Artist: Anthony van Dyck",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Flemish, 1599 - 1641",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Flemish, 1599–1641",
+  "markings": "",
   "medium": null,
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th Century",
   "text": "",
   "title": "Adam Van Naart"

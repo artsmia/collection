@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.117",
-  "artist": "Kyōsai",
+  "artist": "Artist: Kyōsai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3913,
   "image_width": 5109,
+  "inscription": "13 poems",
   "life_date": "Japanese",
-  "marks": "13 poems Kyo_sai utsusu",
+  "markings": "Artist\\'s seal in red\r\n\\\"Meiji 39 nen chu_ka\\\" (May 1906) UL",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kyo_sai utsusu",
   "style": "20th century",
   "text": "",
   "title": "(View of Amamo hashidate)"

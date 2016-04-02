@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,551",
-  "artist": "Charles-Émile Jacque",
+  "artist": "Artist: Charles-Émile Jacque",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3344,
   "image_width": 5172,
+  "inscription": "",
   "life_date": "French, 1813-1894",
-  "marks": " ",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Troupeau de porcs"

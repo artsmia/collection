@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,650",
-  "artist": "Basil Besler",
+  "artist": "Artist: Basil Besler",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nVerso: Text.\r\nI. Alcea Syriaca.\r\nII. Cotula Foetida.\r\nIII. Viola Marina repens.",
   "life_date": "German, 1561 - 1629",
-  "marks": "Inscription\r\n\r\nVerso: Text.\r\nI. Alcea Syriaca.\r\nII ",
+  "markings": "\r\n",
   "medium": "Hand-colred engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Arborem et Fruticum Aestivatium: Ordo XIII, fol. 1, from Hortus Eystettensis"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.212.6",
-  "artist": "Utagawa Hiroshige; Published by Takenouchi Magohachi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Takenouchi Magohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Allen Brookins-Brown in memory of Deborah Brookins-Brown Pritchett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1972,
   "image_width": 2877,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Publisher:Ho_eido_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Distant View of Akiba Mountain, Kakegawa"

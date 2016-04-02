@@ -1,6 +1,7 @@
 {
   "accession_number": "71.68.1",
-  "artist": "Mark W. Fisher",
+  "artist": "Artist: Mark W. Fisher",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Harriet C. Weed, by Isabella Carr Leighton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4813,
   "image_width": 5732,
+  "inscription": "Signature",
   "life_date": "American, 1841 - 1923",
-  "marks": "Signature LR: [Mark Fisher]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Mark Fisher]",
   "style": "20th century",
   "text": "",
   "title": "Mount Canaille, Cassis"

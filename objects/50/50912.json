@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.91",
-  "artist": "Agostino Carracci; after Jacopo Tintoretto",
+  "artist": "Artist: Agostino Carracci; Artist: after Jacopo Tintoretto",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian (Bolognese), 1557 - 1602",
-  "marks": "Signature Initialed in LR corner: [A.C.]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed in LR corner: [A.C.]",
   "style": "16th century",
   "text": "",
   "title": "Mercury and the Three Graces"

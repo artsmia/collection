@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,024",
-  "artist": "Charles Meryon; after Ducerceau",
+  "artist": "Artist: Charles Meryon; Artist: after Ducerceau",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription and watermark\r\nInscription: [à Monsieur Geoffroy son tiere devone (?), C. Meryon]",
   "life_date": "French, 1821 - 1868",
-  "marks": "Inscription and watermark\r\nInscription: [à Monsieu ",
+  "markings": "Watermark",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Hall of the Lost Footsteps"

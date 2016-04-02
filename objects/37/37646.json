@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.24",
-  "artist": "Mori Ippo",
+  "artist": "Maker: Mori Ippo",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3856,
   "image_width": 928,
+  "inscription": "Signature; Seal",
   "life_date": "Japanese, 1798-1871",
-  "marks": "Signature; Seal ",
+  "markings": "at LRC",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Duck"

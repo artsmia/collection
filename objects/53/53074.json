@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,564",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2448,
   "image_width": 4067,
+  "inscription": "LL recto, in pencil: [ #9]\r\nLL recto under platemark, in pencil: two [(butterfly symbols)]\r\nLL verso, in pencil: [254]\r\nLC verso, in pencil: [Prices Candle Factory W.124 / The 3rd impression taken]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [ #9]\r\nLL recto under platema LR in plate: [(butterfly symbol)]",
+  "markings": "Watermark: [BD]\r\nUnidentified dry stamp, lower left margin under platemark\r\nMC verso in plate in pencil: [(butterfly symbol)] ?",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, Ore), by 1916; Herschel V. Jones (1861-1928, Minneapolis), until 1916; given to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in plate: [(butterfly symbol)]",
   "style": "19th century",
   "text": "",
   "title": "Price's Candle Works"

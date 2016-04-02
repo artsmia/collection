@@ -1,6 +1,7 @@
 {
   "accession_number": "99.59.19",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Edson Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7891,
   "image_width": 3744,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Hanging scroll; ink and color on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Fudō Myōō"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.82",
-  "artist": "Louis Orr; Chaleographie du Louvre",
+  "artist": "Artist: Louis Orr; Publisher: Chaleographie du Louvre",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Arthur M. Hartwell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, 1879 - 1961",
-  "marks": "Signature; Mark on plate: [Louis Orr]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Louis Orr]",
   "style": "20th century",
   "text": "",
   "title": "La Cathédrale de Reims - Transept"

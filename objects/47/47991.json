@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.223",
-  "artist": "Israhel van Meckenem",
+  "artist": "Artist: Israhel van Meckenem",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, c. 1445-1503",
-  "marks": "Mark ",
+  "markings": "Watermark: Gothic \\\"P\\\" with flower",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "Wm. Bell Scott, L.2607; Wm. Odling; Colnaghi; Knoedler & Co., 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "The Massacre of the Innocents"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.131",
-  "artist": "Clement Haupers",
+  "artist": "Artist: Clement Haupers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1900 - 1982",
-  "marks": "Signature\r\n\r\nsee Signed pencil",
+  "inscription": "Signature\r\n\r\nsee Signed",
+  "life_date": "American, 1900–1982",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "pencil",
   "style": "20th century",
   "text": "",
   "title": "Maple Grove"

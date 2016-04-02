@@ -1,6 +1,7 @@
 {
   "accession_number": "75.38.1",
-  "artist": "William Ney",
+  "artist": "Artist: William Ney",
+  "classification": "Textiles",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Mr. Stanley H. Brackett in memory of Lois Martin Brackett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3852,
   "image_width": 3575,
+  "inscription": "",
   "life_date": "American, c.1811 - 1892",
-  "marks": " ",
+  "markings": "",
   "medium": "Wool; jacquard weave",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Coverlet"

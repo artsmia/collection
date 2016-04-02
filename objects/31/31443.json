@@ -1,6 +1,7 @@
 {
   "accession_number": "99.215.2",
-  "artist": "Nakabayashi Chikutō",
+  "artist": "Maker: Nakabayashi Chikutō",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Allegra and Paul Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7063,
   "image_width": 2398,
+  "inscription": "Signature; Stamps",
   "life_date": "Japanese, 1776 - 1853",
-  "marks": "Signature; Stamps ",
+  "markings": "signed, in black, UR corner; 2 seals, in red, below signature",
   "medium": "Ink and colors on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Scholar Crossing Stream in Mountains"

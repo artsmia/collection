@@ -1,6 +1,7 @@
 {
   "accession_number": "P.891",
-  "artist": "Anthony van Dyck; Lucas Vorsterman, the Elder",
+  "artist": "Artist: Anthony van Dyck; Engraver: Lucas Vorsterman, the Elder",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4247,
   "image_width": 3471,
-  "life_date": "Flemish, 1599 - 1641",
-  "marks": "[Anton. van Dyck invenit et fecit aqua forti] ",
+  "inscription": "[Anton. van Dyck invenit et fecit aqua forti]",
+  "life_date": "Flemish, 1599–1641",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Mocking of Christ"

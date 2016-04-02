@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.42",
-  "artist": "Utagawa Kunisada II; Kobayashi Tetsujiro_",
+  "artist": "Artist: Utagawa Kunisada II; Publisher: Kobayashi Tetsujiro_",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2295,
   "image_width": 1708,
+  "inscription": "This wrestler was born in Yanagawa of Chikugo Province, belongs to Oitekaze Tamatsutsumi stable, .....(last half illegible)",
   "life_date": "Japanese, 1823 - 1880",
-  "marks": "This wrestler was born in Yanagawa of Chikugo Prov Kunisada ga",
+  "markings": "artist\\'s seal\r\nCensor:kai+Tiger 3\r\nPublisher:Kobayashi Testujiro_\r\nCaever:Horicho_(unknown)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kunisada ga",
   "style": "19th century",
   "text": "",
   "title": "Wrestler Tagonoura Tsurukichi"

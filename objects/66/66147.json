@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.78.1",
-  "artist": "Linda Schwarz; Published by Highpoint Editions, Minneapolis",
+  "artist": "Artist: Linda Schwarz; Publisher: Published by Highpoint Editions, Minneapolis",
+  "classification": "Prints",
   "continent": null,
   "country": "Germany",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Date and Inscription",
   "life_date": "German, born 1963",
-  "marks": "Signature, Title, Date and Inscription on back, in pencil: [1/2 e.v./ \\'Gesture XIII\\'/ 35/",
+  "markings": "",
   "medium": "Photolithograph with hand-painted ink and varnish",
   "nationality": null,
   "provenance": "Highpoint Editions, Minneapolis (publisher); sold to MIA, 2003.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on back, in pencil: [1/2 e.v./ \\'Gesture XIII\\'/ 35/2002 / L. Schwarz]",
   "style": "21st century",
   "text": "",
   "title": "Gesture XIII"

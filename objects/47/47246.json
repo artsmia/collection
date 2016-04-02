@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.100.2",
-  "artist": "Alessandro Mastro-Valerio",
+  "artist": "Artist: Alessandro Mastro-Valerio",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American (born Italy), 1889 - 1953",
-  "marks": "Signature In graphite, LR:  [A Mastro-Valerio]",
+  "markings": "",
   "medium": "Mezzotint and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, LR:  [A Mastro-Valerio]",
   "style": "20th century",
   "text": "",
   "title": "Two Nudes"

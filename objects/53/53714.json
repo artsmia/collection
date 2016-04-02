@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.9",
-  "artist": "Robert Cottingham; Published by Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: Robert Cottingham; Publisher: Published by Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Robert Cottingham",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Title, Edition",
   "life_date": "American, born 1935",
-  "marks": "Signature, Date, Title, Edition In pencil: [Cottingham 75]",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "(Peter M. David Gallery, Minneapolis); sold to MIA, 1976.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Cottingham 75]",
   "style": "20th century",
   "text": "",
   "title": "F.W."

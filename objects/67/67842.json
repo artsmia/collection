@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,947",
-  "artist": "Katsukawa Shunchō; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Katsukawa Shunchō; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2788,
   "image_width": 1949,
-  "life_date": "Japanese, fl.c.1780 - 1795",
-  "marks": " {Shunchō ga}",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "artist\\'s seal; publisher\\'s seal: {Eijudō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunchō ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "A Group of Ladies on a Veranda"

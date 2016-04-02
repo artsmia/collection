@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,934",
-  "artist": "Otto H. Bacher",
+  "artist": "Artist: Otto H. Bacher",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift\r\nThe William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1856 - 1909",
-  "marks": " In plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "20th century",
   "text": "",
   "title": "Rainy Night in Venice"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.43",
-  "artist": "Charles Henry White",
+  "artist": "Artist: Charles Henry White",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\n\r\nsee Signed",
   "life_date": "Canadian, 1878 - 1918",
-  "marks": "Signature; Date\r\n\r\nsee Signed in plate and in pencil: [White imp - 09]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Canadian",
   "provenance": "[Childs Gallery, Boston]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate and in pencil: [White imp - 09]",
   "style": "20th century",
   "text": "",
   "title": "Lafayette Street, Salem"

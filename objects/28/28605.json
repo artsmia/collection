@@ -1,6 +1,7 @@
 {
   "accession_number": "95.121.1",
-  "artist": "David Baker",
+  "artist": "Artist: David Baker",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David L. Rodum in memory of George Rodum and Louise Rodum, father and mother",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "American",
-  "marks": " ",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Forest)"

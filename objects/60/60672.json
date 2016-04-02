@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.60",
-  "artist": "White Crow",
+  "artist": "Artist: White Crow",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. James J. Duffey and M.O. Duffey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "b.1895",
-  "marks": " \\\"White Crow/4-12[illegible]\\\", in white, LRC",
+  "markings": "",
   "medium": "Oil on canvas, on panel",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"White Crow/4-12[illegible]\\\", in white, LRC",
   "style": "20th century",
   "text": "",
   "title": "Untitled [Native Americans around a fire]"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.107",
-  "artist": "Utagawa Hiroshige; Ibaya Senzaburō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Ibaya Senzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3328,
   "image_width": 4380,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige-ga}",
+  "markings": "publisher seal: {Dansendō}; LRC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige-ga}",
   "style": "19th century",
   "text": "Miyanoshita, one of the seven hot springs in Hakone area, is located on a steep embankment above a mountain stream. Affording a breathtaking view of the mountains that rise on the opposite side of the valley, the inns of Miyanoshita were a particularly relaxing retreat to the visitors. On the path leading to the inns, Hiroshige placed a group of such travelers. They look admiringly at the dramatic scenery and one man even dances with joy.",
   "title": "Miyanoshita"

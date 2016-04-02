@@ -1,6 +1,7 @@
 {
   "accession_number": "64.69",
-  "artist": "Reginald Marsh",
+  "artist": "Artist: Reginald Marsh",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Reginald Marsh %2F Art Students League%2C New York %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 2721,
   "image_width": 4013,
-  "life_date": "American, 1898 - 1954",
-  "marks": "Signature; Mark LL in pencil, estate signature: [Reginald Marsh (F",
+  "inscription": "Signature; Mark",
+  "life_date": "American, 1898–1954",
+  "markings": "Watermark: <J. Whatman 1937 England>",
   "medium": "Chinese ink and wash, blue and yellow watercolor",
   "nationality": "American",
   "provenance": "(Rehn Gallery, New York); sold to MIA, 1964.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL in pencil, estate signature: [Reginald Marsh (F.M.)]",
   "style": "20th century",
   "text": "",
   "title": "Dance Hall"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.104",
-  "artist": "Clement Haupers",
+  "artist": "Artist: Clement Haupers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1900 - 1982",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nLLC: [$ [Haupers]",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nLLC: [$16]",
+  "life_date": "American, 1900–1982",
+  "markings": "",
   "medium": "Etching and soft-ground etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Haupers]",
   "style": "20th century",
   "text": "",
   "title": "Public Garden, Nice"

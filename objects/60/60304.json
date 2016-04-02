@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.254.18",
-  "artist": "Raymond Parker",
+  "artist": "Artist: Raymond Parker",
+  "classification": "Drawings",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of George W. Rickey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1863,
   "image_width": 2488,
+  "inscription": "",
   "life_date": "American, 1922 - 1990",
-  "marks": " signed with initials in black ink,  LL <R.P.>",
+  "markings": "",
   "medium": "Lacquer on paper",
   "nationality": "American",
   "provenance": "George W. Rickey, East Chatham, N.Y.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed with initials in black ink,  LL <R.P.>",
   "style": "20th century",
   "text": "",
   "title": "Untitled [pink helicopter]"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.105.110",
-  "artist": "Gyokumei",
+  "artist": "Maker: Gyokumei",
+  "classification": "Sculpture",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Walter Lane Barksdale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3525,
   "image_width": 5407,
+  "inscription": "Signature; Tag",
   "life_date": "Japanese",
-  "marks": "Signature; Tag on hem of coat, proper right side",
+  "markings": "lender\\'s tag, through holes on back",
   "medium": "Ivory",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on hem of coat, proper right side",
   "style": "20th century",
   "text": "",
   "title": "(Farmer and Frog)"

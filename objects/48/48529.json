@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,500",
-  "artist": "Benedetto Pastorini; Charles Tomkins; after W. Archaud; Peter Williams",
+  "artist": "Artist: Benedetto Pastorini; Artist: Charles Tomkins; Artist: after W. Archaud; Artist: Peter Williams",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, born 1746",
-  "marks": "Signature W. Artaud pinx (lower left) Pastorini, & P.W. Tomk",
+  "markings": "London published Feb. 11, 1803 by H. Macklin Poets Gallery Fleet Street (lower center)",
   "medium": "Stipple etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "W. Artaud pinx (lower left) Pastorini, & P.W. Tomkins sculp (lower right)",
   "style": "18th century",
   "text": "",
   "title": "Francesco Bartolozzi"

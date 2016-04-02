@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,242",
-  "artist": "William (Willy) Miller",
+  "artist": "Artist: William (Willy) Miller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Mrs. John Washburn, 1942",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1850 - 1923",
-  "marks": " On work",
+  "markings": "",
   "medium": "Woodcut, color print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On work",
   "style": "20th century",
   "text": "",
   "title": "Father Kim"

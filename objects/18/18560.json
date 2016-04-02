@@ -1,6 +1,7 @@
 {
   "accession_number": "63.16",
-  "artist": "Stanley Blaz",
+  "artist": "Maker: Stanley Blaz",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Harriet Hanley Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Iron",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Iron Structure"

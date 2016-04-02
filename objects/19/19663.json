@@ -1,6 +1,7 @@
 {
   "accession_number": "70.78",
-  "artist": "Josef Hoffmann",
+  "artist": "Designer: Josef Hoffmann",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3656,
   "image_width": 5418,
-  "life_date": "Austrian (born Czechoslovakia), 1870-1956",
-  "marks": "Inscription; Stamp; Marks ",
+  "inscription": "Inscription; Stamp; Marks",
+  "life_date": "Austrian (born Czechoslovakia), 1870–1956",
+  "markings": "Inscribed in pencil with monogram; estate stamp lower right recto; collector\\'s mark verso",
   "medium": "Graphite on graph paper",
   "nationality": "Austrian",
   "provenance": "[The Drawing Shop/Galerie Osten-Kaschey, Ltd., New York until 1970]; sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Study for Bonbonier in Silver"

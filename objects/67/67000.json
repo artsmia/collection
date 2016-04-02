@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.77.2",
-  "artist": "Jim Dine; Published by Enitharmon Press , Whitman College (Walla Walla, WA); Etchings printed by Julia D'Amario; Letterpress by Ruth Lingen, American, 20th century",
+  "artist": "Artist: Jim Dine; Publisher: Published by Enitharmon Press , Whitman College (Walla Walla, WA); Printer: Etchings printed by Julia D'Amario; Printer: Letterpress by Ruth Lingen, American, 20th century",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1935",
-  "marks": "Signature On second page following title page, in pencil: [J",
+  "markings": "",
   "medium": "Artist's book; drypoints with aquatint and spit-bite; letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On second page following title page, in pencil: [Jim Dine]",
   "style": "20th century",
   "text": "",
   "title": "Kali"

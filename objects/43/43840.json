@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.18.3",
-  "artist": "Red Grooms; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Red Grooms; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Dr. Glen D. Nelson",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4806,
   "image_width": 3480,
+  "inscription": "Signed, numbered, printed inscription, and chop mark.",
   "life_date": "American, born 1937",
-  "marks": "Signed, numbered, printed inscription, and chop ma LR, in blue pencil: [Red Grooms]\r\nLL, in blue penc",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in blue pencil: [Red Grooms]\r\nLL, in blue pencil: [1/1 Archive Proof]\r\nUR, printed inscription:\r\n[VERMILLION ED. 15th BIRTHDAY SHOW]",
   "style": "20th century",
   "text": "",
   "title": "Sno Show I"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,332",
-  "artist": "Timothy Cole; Harper &amp; Brothers, New York",
+  "artist": "Artist: Timothy Cole; Publisher: Harper &amp; Brothers, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift\r\nThe William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": " In plate",
+  "inscription": "",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Engraving on wood",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "19th century",
   "text": "",
   "title": "The Entombment"

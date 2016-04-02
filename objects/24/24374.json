@@ -1,6 +1,7 @@
 {
   "accession_number": "84.24.2",
-  "artist": "John Lanford II",
+  "artist": "Maker: John Lanford II",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Margarette H. Crosby",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3086,
   "image_width": 3542,
+  "inscription": "Inscription on base",
   "life_date": "British, 18th century",
-  "marks": "Inscription on base ",
+  "markings": "I        lion passant         J\r\n     I    L\r\n       S\r\n\r\nshield with \\\"Levius et Patientia\\\" in scroll below center of basket\r\nInscription on base:  [To our beloved classmate John Crosby with deep appreciation for his very able handling of our finances and many other matters over these many years\r\nChristmas 1946       Yale \\'90]",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Cake Basket"

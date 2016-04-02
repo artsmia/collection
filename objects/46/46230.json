@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.24.1",
-  "artist": "Elizabeth Erickson",
+  "artist": "Artist: Elizabeth Erickson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title\r\n\r\n",
   "life_date": "American",
-  "marks": "Signature; Title\r\n\r\n signed in pencil at lower edge",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil at lower edge",
   "style": "20th century",
   "text": "",
   "title": "The Terrible Moon"

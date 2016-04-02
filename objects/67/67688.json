@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.97.1",
-  "artist": "Ann McCoy",
+  "artist": "Artist: Ann McCoy",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Shark Foundation Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1946",
-  "marks": "Signature; Mark on sheet",
+  "markings": "Chop mark, stamp verso",
   "medium": "Hand-colored lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Sea Serpents:  Tractatus Aristoteles"

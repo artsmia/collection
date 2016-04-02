@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,852",
-  "artist": "F. E. Fillebrown; Cassell &amp; Co., Ltd.; after Elihu Vedder",
+  "artist": "Artist: F. E. Fillebrown; Publisher: Cassell &amp; Co., Ltd.; Artist: after Elihu Vedder",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. E. D. Brooks, May 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 19th century",
-  "marks": "1886 penciled below signature on sheet On plate and sheet",
+  "inscription": "1886 penciled below signature on sheet",
+  "life_date": "American, 1836 - 1923",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On plate and sheet",
   "style": "19th century",
   "text": "",
   "title": "The Pleiades"

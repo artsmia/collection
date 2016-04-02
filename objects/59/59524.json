@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.252.2",
-  "artist": "Grace Hartigan; Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Grace Hartigan; Publisher: Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Grace Hartigan",
   "image_height": 6134,
   "image_width": 4481,
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nin graphite, LL: [3/26]",
   "life_date": "American, 1922 - 2008",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nin grap in graphite, LR: [Hartigan \\'60]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "[G.W. Einstein Company, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Hartigan \\'60]",
   "style": "20th century",
   "text": "",
   "title": "The Hero Leaves His Ship II (Hero)"

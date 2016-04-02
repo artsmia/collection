@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,383",
-  "artist": "Philip Little",
+  "artist": "Artist: Philip Little",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Philip Little in memory of Annie Jeannette Jackson, 1931",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1857 - 1942",
-  "marks": "Signature on sheet and work",
+  "inscription": "Signature",
+  "life_date": "American, 1857–1942",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet and work",
   "style": "20th century",
   "text": "",
   "title": "Derby Wharf #1"

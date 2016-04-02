@@ -1,6 +1,7 @@
 {
   "accession_number": "99.230.1",
-  "artist": "Sigismund Blumann",
+  "artist": "Photographer: Sigismund Blumann",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. Donald and Alice Lappé",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Stickers;inscription",
   "life_date": "American, 1872 - 1956",
-  "marks": "Signature; Date; Stickers;inscription ",
+  "markings": "\\'Sigismund Blumann/1926\\', in pencil, on mount below LR corner of image; photographer\\'s sticker and New York Camera Club stickers, on back of mount; \\'NR 1510.107 M003\\', in pencil, LL corner on back of mount; \\'21\\', in pencil, LR corner on back of mount",
   "medium": "bromoil print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Backwater Nook"

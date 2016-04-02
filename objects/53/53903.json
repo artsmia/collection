@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.8.1",
-  "artist": "Philip Larson",
+  "artist": "Artist: Philip Larson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. DeCourcy E. McIntosh",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1944",
-  "marks": "Signature; Mark in pencil: [Philip Larson]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Etching and drypoint with plate tone in blue ink",
   "nationality": "American",
   "provenance": "Mr. and Mrs. DeCourcey E. McIntosh, St. Paul, until 1980; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Philip Larson]",
   "style": "20th century",
   "text": "",
   "title": "First Stencil"

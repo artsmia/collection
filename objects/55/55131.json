@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,901",
-  "artist": "Conrad Felixmüller",
+  "artist": "Artist: Conrad Felixmüller",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1897 - 1977",
-  "marks": "Signature in pencil: [Felixmüller]; on stone: [FM]",
+  "inscription": "Signature",
+  "life_date": "German, 1897–1977",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "German",
   "provenance": "Karl and Faber",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Felixmüller]; on stone: [FM]",
   "style": "20th century",
   "text": "",
   "title": "Der Maler Edmünd Fabry und Selbstportrait"

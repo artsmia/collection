@@ -1,6 +1,7 @@
 {
   "accession_number": "81.108.2",
-  "artist": "attributed to Jan Steen",
+  "artist": "Artist: attributed to Jan Steen",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of James J. Hill III, Maude Hill Schroll and Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5412,
   "image_width": 7216,
+  "inscription": "",
   "life_date": "Dutch, 1626 - 1679",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on board",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Landscape"

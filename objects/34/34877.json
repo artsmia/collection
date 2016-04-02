@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.280",
-  "artist": "Katsushika Taito II",
+  "artist": "Artist: Katsushika Taito II",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, fl. 1810-1853",
-  "marks": " {Taito}",
+  "markings": "Artist\\'s seal (un-translated)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Taito}",
   "style": "19th century",
   "text": "",
   "title": "(Frog Saint)"

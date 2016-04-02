@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.97",
-  "artist": "Utagawa Sadahide; Kagiya Shōbei",
+  "artist": "Artist: Utagawa Sadahide; Publisher: Kagiya Shōbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2567,
   "image_width": 1794,
+  "inscription": "Written in red rectangulars: right: {Yokohama}, left: {Honmoku}",
   "life_date": "Japanese, 1807 - 1873",
-  "marks": "Written in red rectangulars: right: {Yokohama}, le {Sadahide ga}",
+  "markings": "Censor: kai+Boar 8; publisher\\'s seal: {Kagi-shō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Sadahide ga}",
   "style": "19th century",
   "text": "",
   "title": "Namamugi"

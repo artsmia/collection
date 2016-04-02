@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.280a,b",
-  "artist": "Unknown English; Thermos Limited",
+  "artist": "Designer: Unknown English; Manufacturer: Thermos Limited",
+  "classification": "Industrial Design",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Tottenham, England, est. 1907",
+  "markings": "",
   "medium": "Thiourea-formaldehyde plastic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Vacuum thermos, model no. 65"

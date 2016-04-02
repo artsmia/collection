@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,500",
-  "artist": "Gustav Goetsch",
+  "artist": "Artist: Gustav Goetsch",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Friends of Art in Minneapolis, 1917",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nin pencil on left corner: [Gloucester, Mass.]",
   "life_date": "American, 1877 - 1934",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nin penc on sheet: [Gustav F. Goetsch]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet: [Gustav F. Goetsch]",
   "style": "20th century",
   "text": "not matted",
   "title": "Gloucester, Massachusetts"

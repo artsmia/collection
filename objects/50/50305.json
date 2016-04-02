@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,889",
-  "artist": "Erich Heckel",
+  "artist": "Artist: Erich Heckel",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mr. and Mrs. Thomas Bergen, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 9199,
   "image_width": 7281,
+  "inscription": "Signature",
   "life_date": "German, 1883 - 1970",
-  "marks": "Signature in pencil: [Erich Heckel]",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Erich Heckel]",
   "style": "20th century",
   "text": "",
   "title": "Women on the Beach"

@@ -1,6 +1,7 @@
 {
   "accession_number": "67.2",
-  "artist": "David Levine",
+  "artist": "Artist: David Levine",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1926",
-  "marks": "Signature [D. Levine 65]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[D. Levine 65]",
   "style": "20th century",
   "text": "",
   "title": "Caricature of Andy Warhol"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.87",
-  "artist": "Katsushika Hokusai; Published by Izumiya Ichibei",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1951,
   "image_width": 2822,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " ",
+  "markings": "publisher\\'s seal: Izumiichi ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Act IV"

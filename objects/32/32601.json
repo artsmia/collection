@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.50.12",
-  "artist": "Frank Gaard",
+  "artist": "Artist: Frank Gaard",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Paul C. Johnson, Jr. Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Gaard",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Mark\r\n\r\nin red marker(?), LR: [4-19-99] \r\nin yellow marker(?), CR: [MIKE]",
   "life_date": "American, born 1944",
-  "marks": "Signature; Date; Title; Mark\r\n\r\nin red marker(?),  in black acrylic, LR: [Frank Gaard]",
+  "markings": "Watermark: <BFK RIVES/FRANCE>",
   "medium": "Acrylic and tempera",
   "nationality": "American",
   "provenance": "Acquired from the artist, 2001",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black acrylic, LR: [Frank Gaard]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Mike"

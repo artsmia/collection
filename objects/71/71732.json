@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.92",
-  "artist": "Utagawa Sadahiro; Tenmaya Kihei",
+  "artist": "Artist: Utagawa Sadahiro; Publisher: Tenmaya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1887,
   "image_width": 2748,
+  "inscription": "",
   "life_date": "Japanese, fl. c.1825-1875",
-  "marks": " Sadahiro ga",
+  "markings": "Publisher:Tenki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Sadahiro ga",
   "style": "19th century",
   "text": "",
   "title": "At the Mouth of the Aji River"

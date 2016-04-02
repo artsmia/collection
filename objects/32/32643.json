@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.48",
-  "artist": "Henri Matisse; Text by André Rouveyre; Raisons d'Etre, Paris",
+  "artist": "Artist: Henri Matisse; Author: Text by André Rouveyre; Publisher: Raisons d'Etre, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1869 - 1954",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1869–1954",
+  "markings": "",
   "medium": "Color lithographs, letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "This publication was a joint effort by Matisse and author André Rouveyre, in memory of their common friend, the critic Guillaume Apollonaire (1880-1918), who died during the First World War. Although Apollonaire championed the Cubists, he also appreciated work by artists like Matisse whose interests diverged from Cubism. In a 1907 interview, the critic equated Matisse’s goal of plastic, or formal, expression with a poet’s search for lyric expression.",
   "title": "Apollinaire"

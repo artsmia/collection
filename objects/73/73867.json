@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,789",
-  "artist": "after Prince Charles Lucien Bonaparte; Captain Thomas Brown; E. E. Mitchell; after Alexander Wilson",
+  "artist": "Artist: after Prince Charles Lucien Bonaparte; Artist: Captain Thomas Brown; Engraver: E. E. Mitchell; Artist: after Alexander Wilson",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1803-1857",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1766 - 1813",
+  "markings": "",
   "medium": "Hand-colored engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Quiscalus.  Grackles"

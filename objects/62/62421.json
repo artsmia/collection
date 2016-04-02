@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.149.1",
-  "artist": "Igawa Sengai",
+  "artist": "Artist: Igawa Sengai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2955,
   "image_width": 1897,
+  "inscription": "",
   "life_date": "1876-1961",
-  "marks": " {Sengai}",
+  "markings": "2 artist\\'s seals; publisher: {Nihon Mokuhan Insatsu Kabushikigaisha hakkō} (Japan Woodblock Print Co.) | {Igawa Sengai gahaku hitsu}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Sengai}",
   "style": "20th century",
   "text": "",
   "title": "August, Moon"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.28",
-  "artist": "Utagawa Hiroshige; Published by Maruya Kyūshirō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Maruya Kyūshirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2805,
   "image_width": 1948,
+  "inscription": "yes(waka) see P.75.51.294",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "yes(waka) see P.75.51.294 Hiroshige ga",
+  "markings": "Censor:kai, Nov.1857\r\nPublisher:Marukyu_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Noda in Mutsu Province"

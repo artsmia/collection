@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.63.1",
-  "artist": "Katsushika Hokusai; Poem by Gosokusai Jōfu",
+  "artist": "Artist: Katsushika Hokusai; Author: Poem by Gosokusai Jōfu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5736,
   "image_width": 3258,
+  "inscription": "Ōharame no / kashitra ni / tako no / suitsuite / ato shitai yuku / ito no harukaze, Gosokusai Jōfu (A kite is stuck / on a bundle carried by a woman of Ōhara. / The string follows along / in the spring breeze / as if it were her admirer, Gosokusai Jōfu)",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Ōharame no / kashitra ni / tako no / suitsuite / a Hokusai ga 北斎画",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hokusai ga 北斎画",
   "style": "19th century",
   "text": "",
   "title": "Woman of Ōhara with Firewood Bundle and Kite"

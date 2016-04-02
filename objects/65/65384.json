@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.268.8",
-  "artist": "American Encaustic Tiling Co., Ltd.",
+  "artist": "Manufacturer: American Encaustic Tiling Co., Ltd.",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Christopher Monkhouse in honor of Janice Lurie and her support of ceramics at the MIA",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3564,
   "image_width": 3552,
+  "inscription": "Stamp",
   "life_date": "Zanesville, Ohio",
-  "marks": "Stamp ",
+  "markings": "on back, stamped: [TRADE/ (inside a shape) ALHAMBRA/ MARK/ AMERICAN/ ENCAUSTIC TILING CO./ LIMITED/ NEW YORK]",
   "medium": "Glazed ceramic",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "\"Alhambra\" Tile"

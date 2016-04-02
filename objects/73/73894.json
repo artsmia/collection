@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,457",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "Collector\\'s Mark: of F. von Hagens, 1817-1899, Dresden\r\n",
   "medium": "Woodblock, black and white",
   "nationality": null,
   "provenance": "F. von Hagens, 1817-1899, Dresden Sale: 1927",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Frontispiece from Cosmographei"

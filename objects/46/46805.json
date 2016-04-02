@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.135",
-  "artist": "Lucas Cranach the Elder",
+  "artist": "Artist: Lucas Cranach the Elder",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German (Saxony), 1472 - 1553",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German (Saxony), 1472–1553",
+  "markings": "Watermark: small Bull\\'s head with cross",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Albertina dupl. L.5g; Knoedler & Co., 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Rest on the Flight"

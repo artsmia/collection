@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.164.2",
-  "artist": "William McGregor Paxton",
+  "artist": "Artist: William McGregor Paxton",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Given in memory of Olivia Carpenter Coan by her family",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"TO OLIVIA COAN\\\", in brown, LRC",
   "life_date": "American, 1869 - 1941",
-  "marks": "\\\"TO OLIVIA COAN\\\", in brown, LRC \\\"PAXTON/1922\\\", in brown, LRC",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"PAXTON/1922\\\", in brown, LRC",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Folwell W. Coan"

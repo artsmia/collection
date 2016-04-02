@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.28.41",
-  "artist": "Doug Warner",
+  "artist": "Artist: Doug Warner",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition; Inscription; Mark\r\n\r\nsee Signed\r\n\r\nsheet on verso: [BAL.32.14.6NFS  P.76.28.41 DW29765; Pn Mat: Lakeside Studio, PYRAMID I 1976. Color litho Gift of Mr/Mrs Frederick P. Nause, 1976. P.76.28.41.  Doug Warner US XX C.]",
   "life_date": "American, born 1930",
-  "marks": "Signature; Date; Edition; Inscription; Mark\r\n\r\nsee in pencil:[Warner,1976] and title and [VII/XXV]",
+  "markings": "Chop mark lower right corner",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil:[Warner,1976] and title and [VII/XXV]",
   "style": "20th century",
   "text": "",
   "title": "Pyramid I"

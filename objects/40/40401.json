@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.170a,b",
-  "artist": "Attributed to William Edmond Lescaze",
+  "artist": "Artist: Attributed to William Edmond Lescaze",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1920,
   "image_width": 816,
+  "inscription": "",
   "life_date": "American (born Switzerland), 1896-1969",
-  "marks": " ",
+  "markings": "",
   "medium": "Chrome plate, parchment",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Lamp"

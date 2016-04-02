@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.106",
-  "artist": "Mark Tobey",
+  "artist": "Artist: Mark Tobey",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3626,
   "image_width": 3524,
+  "inscription": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [21/47]",
   "life_date": "American, 1890-1976",
-  "marks": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered Signed and dated in pencil, LR: [Tobey 1970]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "(Martha Jackson Gallery, New York); sold to MIA, 1970",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [Tobey 1970]",
   "style": "20th century",
   "text": "",
   "title": "Number 15"

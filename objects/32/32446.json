@@ -1,6 +1,7 @@
 {
   "accession_number": "99.99.4",
-  "artist": "Paul Jenkins",
+  "artist": "Artist: Paul Jenkins",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Gloria F. Ross",
@@ -14,8 +15,9 @@
   "image_copyright": "© Paul Jenkins",
   "image_height": 3433,
   "image_width": 4717,
+  "inscription": "Signature; Title; Mark",
   "life_date": "American, 1923-2012",
-  "marks": "Signature; Title; Mark Verso, in black ink: [Paul Jenkins]; title inscrib",
+  "markings": "Watermark: <Arches/FRANCE>\r\n\r\n",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Verso, in black ink: [Paul Jenkins]; title inscribed, verso\r\n",
   "style": "20th century",
   "text": "",
   "title": "Phenomenon Peel of Bells Cross"

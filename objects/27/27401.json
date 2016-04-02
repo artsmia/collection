@@ -1,6 +1,7 @@
 {
   "accession_number": "91.112.30",
-  "artist": "Azechi Umetarō",
+  "artist": "Artist: Azechi Umetarō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7276,
   "image_width": 5139,
+  "inscription": "",
   "life_date": "Japanese, 1902 - 1999",
-  "marks": " [U. AZECHI]",
+  "markings": "Artist\\'s seal",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[U. AZECHI]",
   "style": "20th century",
   "text": "",
   "title": "Man with an Ice-ax"

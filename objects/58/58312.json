@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.6.14",
-  "artist": "Pablo Picasso; Published by Ambroise Vollard, Paris, France; Printed by Louis Fort, Paris, France",
+  "artist": "Artist: Pablo Picasso; Publisher: Published by Ambroise Vollard, Paris, France; Printer: Printed by Louis Fort, Paris, France",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Miss Perrie Jones, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4521,
   "image_width": 3247,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " in plate, UL: [Picasso]",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "Spanish",
   "provenance": "(R.G. Michel, Paris); sold to MIA, 1978",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate, UL: [Picasso]",
   "style": "20th century",
   "text": "",
   "title": "Les deux saltimbanques"

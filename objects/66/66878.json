@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.46",
-  "artist": "Toyohara Kunichika",
+  "artist": "Artist: Toyohara Kunichika",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2831,
   "image_width": 1935,
+  "inscription": "",
   "life_date": "Japanese, 1835 - 1900",
-  "marks": " {Kunichika ga}",
+  "markings": "Censor: Kai+Sheep 4; illegible publisher\\'s seal; carver: Hori Ōta Tashichi",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kunichika ga}",
   "style": "19th century",
   "text": "",
   "title": "Returning Sails at Yabase in Zeze"

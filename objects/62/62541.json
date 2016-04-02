@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.33",
-  "artist": "Kaburaki Kiyokata",
+  "artist": "Artist: Kaburaki Kiyokata",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2839,
   "image_width": 1740,
+  "inscription": "",
   "life_date": "Japanese, 1878 - 1973",
-  "marks": " {Kiyokata}",
+  "markings": "artist\\'s seal {Kiyo}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kiyokata}",
   "style": "20th century",
   "text": "",
   "title": "Akashi-chō in Tsukiji"

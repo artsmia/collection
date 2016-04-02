@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,998",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1927",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2593,
   "image_width": 1850,
+  "inscription": "",
   "life_date": "German, 1500-1550",
-  "marks": " monogram and date in plate, lower left: [1543 / HS",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Count O. de Behague (L. 2004)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date in plate, lower left: [1543 / HSB]",
   "style": "16th century",
   "text": "",
   "title": "The Expulsion from Paradise"

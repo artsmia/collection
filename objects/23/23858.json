@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.6",
-  "artist": "Paul R. Smith",
+  "artist": "Artist: Paul R. Smith",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3230,
   "image_width": 4874,
+  "inscription": "Chop; Inscription",
   "life_date": "American, 1912 - 2003",
-  "marks": "Chop; Inscription ",
+  "markings": "Chop: LR: [Strathmore Student]\r\non back in pencil: [Urban Renewal no.33, drawing M-2597-A]",
   "medium": "Gouache on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Progress"

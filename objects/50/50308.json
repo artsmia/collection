@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,429",
-  "artist": "Auguste Louis Lepère; after Jules Jacques Veyrassat",
+  "artist": "Artist: Auguste Louis Lepère; Artist: after Jules Jacques Veyrassat",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Herschel V. Jones, 1925",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1849 - 1918",
-  "marks": "Signature In plate in pencil, signature (signed Smeeton Till",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate in pencil, signature (signed Smeeton Tilly, but actually by Lepère)",
   "style": "19th century",
   "text": "",
   "title": "L'Ete"

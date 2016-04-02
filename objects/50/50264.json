@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,387",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4742,
   "image_width": 3445,
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature and Inscription\r\nat bottom: [Beckmann: N above blindstamp: [Beckmann]",
+  "inscription": "Signature and Inscription\r\nat bottom: [Beckmann: Negertanz Rad. 1921]",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "above blindstamp: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Negro Dance"

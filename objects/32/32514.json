@@ -1,6 +1,7 @@
 {
   "accession_number": "B.94.2",
-  "artist": "Frans Masereel; Translated by Romain Rolland",
+  "artist": "Artist: Frans Masereel; Translator: Translated by Romain Rolland",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The John R. Van Derlip Library Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Belgian, 1889 - 1972",
-  "marks": "Signature\r\nsee Signed [Frans Masereel]",
+  "markings": "",
   "medium": "Wood engravings",
   "nationality": "Belgian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Frans Masereel]",
   "style": "20th century",
   "text": "",
   "title": "My Book of Hours"

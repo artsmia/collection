@@ -1,6 +1,7 @@
 {
   "accession_number": "99.233.23",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 1835,
   "image_width": 2733,
+  "inscription": "Title; Date",
   "life_date": "American, born 1951",
-  "marks": "Title; Date ",
+  "markings": "in pencil, at right edge on back: [10/9/98]; in pencil, at top edge on back: [vendors, Bolivia, 1998]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vendors, Bolivia"

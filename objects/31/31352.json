@@ -1,6 +1,7 @@
 {
   "accession_number": "99.205.1",
-  "artist": "Ross Bleckner",
+  "artist": "Artist: Ross Bleckner",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John F. Eisberg and Susan Kline",
@@ -14,8 +15,9 @@
   "image_copyright": "© Ross Bleckner. All rights reserved.",
   "image_height": 4732,
   "image_width": 5924,
+  "inscription": "",
   "life_date": "American, born 1949",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on paper",
   "nationality": "American",
   "provenance": "[Mary Boone Gallery, New York]\r\nJohn F. Eisberg, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

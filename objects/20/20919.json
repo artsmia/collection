@@ -1,6 +1,7 @@
 {
   "accession_number": "75.75",
-  "artist": "George Morrison",
+  "artist": "Artist: George Morrison",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. John Weber",
@@ -14,8 +15,9 @@
   "image_copyright": "Estate of George Morrison",
   "image_height": 2200,
   "image_width": 5046,
-  "life_date": "American/Anishinaabe (Chippewa), 1919 - 2000",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American (Anishinaabe, Grand Portage Ojibwe), 1919 - 2000",
+  "markings": "",
   "medium": "Oil and acrylic on linen",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

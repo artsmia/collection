@@ -1,6 +1,7 @@
 {
   "accession_number": "61.35.1",
-  "artist": "Niccolo Roccatagliata",
+  "artist": "Artist: Niccolo Roccatagliata",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5267,
   "image_width": 3400,
+  "inscription": "",
   "life_date": "Italian  (Venice), 1580 - 1635",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Cupid"

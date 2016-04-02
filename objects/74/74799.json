@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,361",
-  "artist": "attributed to Robert Dighton; Published by Bowles and Carver; Bowles and Carver",
+  "artist": "Artist: attributed to Robert Dighton; Publisher: Published by Bowles and Carver; Retailer: Bowles and Carver",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3655,
   "image_width": 2949,
+  "inscription": "",
   "life_date": "British, 1752-1814",
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Mezzotint, colored in gouache",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "A Connoisseur, from A Book of Heads"

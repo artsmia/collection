@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.28.5",
-  "artist": "Ben Nicholson",
+  "artist": "Artist: Ben Nicholson",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Minneapolis Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4602,
   "image_width": 3887,
-  "life_date": "British, 1894 - 1982",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1894–1982",
+  "markings": "",
   "medium": "Etching",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

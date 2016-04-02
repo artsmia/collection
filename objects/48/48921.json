@@ -1,6 +1,7 @@
 {
   "accession_number": "P.16",
-  "artist": "Maxime Lalanne",
+  "artist": "Artist: Maxime Lalanne",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Frederick Keppel, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2377,
   "image_width": 1862,
+  "inscription": "",
   "life_date": "French, 1827 - 1886",
-  "marks": " (Signature in plate)",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "(Signature in plate)",
   "style": "19th century",
   "text": "",
   "title": "Demolition of Paris, Boulevard St. Germain"

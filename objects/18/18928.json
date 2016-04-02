@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.154",
-  "artist": "E. Cordy",
+  "artist": "Artist: E. Cordy",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3421,
   "image_width": 4332,
+  "inscription": "Signature; Marks; Inscriptions\r\n\r\nsee Signed\r\n\r\nin pencil, LL front: [PFr 70]; in pencil, LC front: [WM 1830]; in pencil, LR front: [Rnx]; in pencil, LL back: [Cordy, E. (Early 19th C.) England?]; in pencil, LC back: [Original watercolor - Study of currants, plum, peach, raspberries, and forget-me-nots. n.d. (c.1830) (England)]; in pencil, LL back: [C-19 Watercolor drawing Signed: E. Cordy]",
   "life_date": "British?",
-  "marks": "Signature; Marks; Inscriptions\r\n\r\nsee Signed\r\n\r\nin LR: [E. Cordy]",
+  "markings": "Watermark: <J. Whatman Turkey Mill 1830>\r\n\r\n",
   "medium": "Watercolor",
   "nationality": "British?",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [E. Cordy]",
   "style": "19th century",
   "text": "",
   "title": "Study of Currants, Plum, Peach, Raspberries, and Forget-me-nots"

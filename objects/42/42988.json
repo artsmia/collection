@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.35.10",
-  "artist": "Marc Chagall; Text by Nikolai Gogol; Published by Tériade, Paris, France",
+  "artist": "Artist: Marc Chagall; Author: Text by Nikolai Gogol; Publisher: Published by Tériade, Paris, France",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "Belorussian, 1887 - 1985",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Belorussian, 1887–1985",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Belorussian",
   "provenance": "Allen Brookins-Brown, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Manilov, plate from \"Les ames mortes\""

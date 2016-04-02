@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.264",
-  "artist": "Katsushika Hokusai; Poem by Gekka Nagame; Poem by Yamamichi Nuime; Poem by Kado Marume; Poem by Kanjinsha Nijinari; Poem by Monoyana Shūchōdō",
+  "artist": "Artist: Katsushika Hokusai; Author: Poem by Gekka Nagame; Author: Poem by Yamamichi Nuime; Author: Poem by Kado Marume; Author: Poem by Kanjinsha Nijinari; Author: Poem by Monoyana Shūchōdō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2202,
   "image_width": 1894,
+  "inscription": "by Gekka Nagame: Sono imai/ shi no ji kirō te/ noshi-awabi/ uchikaeshi hosu/ ama kaitonami (Avoinding bad luck/ fisherman who makes auspicious dried-abalone/ don\\'t ever say \\\"shi\\\" [death]./ Working under the glittering sun/ how fortunate to have such a life.)\r\n\r\nby Yamamichi Nuime: Noshi-awabi/ kasumi no ami ni/ kakete hosu/ hikagen mo yoki/ haru no urarasa (Making dried-abalone/ by hanging it on/ a hazy net./ What a wonderful/ warm spring day!)\r\n\r\nby Kado Marume: Mizu irazu/ meoto kasegi no/ noshi-awabi/ futa-michi kakenu/ naka zo mutsuma ji (A wife and husband/ all by themselves/ making dried-abalone./ Like dried-abalone strips/ they\\'ll never break apart.)\r\n\r\nby Kanjinsha Nijinari: Ami no me no/ kasumi mo hare te/ noshi ni suru/ awabi shunju no/ tama no haruke ki (Mists in the nets/ have vanished./ Let\\'s start making dried-abalone!/ Here comes the spring light/ looking like a abalone\\'s pearl.)\r\n\r\nby Shūchōdō Monoyana: Haru wa nao/ kokemusu iwao/ shūgi niwa/ tusite hanare nu/ uchiawabi kana (Moss on rocks/ becomes greener in spring./ Let\\'s commemorate life/ by sending dried-abalone strips./ It is a neccessary part of the celebration.)",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "by Gekka Nagame: Sono imai/ shi no ji kirō te/ nos Getchi rōjin Iitsu hitsu",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper with metallic pigments",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Getchi rōjin Iitsu hitsu",
   "style": "19th century",
   "text": "",
   "title": "The Abalone Shell"

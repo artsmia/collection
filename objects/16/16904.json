@@ -1,6 +1,7 @@
 {
   "accession_number": "42.8.47",
   "artist": "",
+  "classification": "Clothing",
   "continent": "Asia",
   "country": "China",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3668,
   "image_width": 4576,
+  "inscription": "inscription",
   "life_date": null,
-  "marks": "inscription ",
+  "markings": "at front and at nack of neck; contents of inscription not given",
   "medium": "silk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Chia-ch'ing period",
   "text": "",
   "title": "Medallion Robe"

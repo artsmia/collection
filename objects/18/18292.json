@@ -1,6 +1,7 @@
 {
   "accession_number": "56.51",
-  "artist": "Phyllis Wiener",
+  "artist": "Artist: Phyllis Wiener",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3639,
   "image_width": 4437,
+  "inscription": "Signature",
   "life_date": "American, 1921-2013",
-  "marks": "Signature in pencil, LR: [P DOWNS]",
+  "markings": "",
   "medium": "Gouache on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [P DOWNS]",
   "style": "20th century",
   "text": "",
   "title": "The Penny Arcade"

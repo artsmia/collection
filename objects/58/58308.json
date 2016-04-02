@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.69",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Mr. and Mrs. Darwin Ready",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Crayon transfer lithograph",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th Century",
   "text": "",
   "title": "Taureau de Profil"

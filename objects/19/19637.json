@@ -1,6 +1,7 @@
 {
   "accession_number": "71.36",
-  "artist": "Simon Lissim",
+  "artist": "Artist: Simon Lissim",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3339,
   "image_width": 4476,
+  "inscription": "Signature; Date",
   "life_date": "American, 1900-1981",
-  "marks": "Signature; Date In gouache: [Simon Lissim 1950]",
+  "markings": "",
   "medium": "Gouache on paper",
   "nationality": "American",
   "provenance": "The artist; gave to MIA, 1971",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In gouache: [Simon Lissim 1950]",
   "style": "20th century",
   "text": "",
   "title": "The Hudson (at Hyde Park)"

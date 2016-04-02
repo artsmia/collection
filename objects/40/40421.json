@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.210.2",
-  "artist": "Attributed to George Logan; Wedgwood",
+  "artist": "Designer: Attributed to George Logan; Manufacturer: Wedgwood",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5112,
   "image_width": 5166,
-  "life_date": "Scottish, 1866-1939",
-  "marks": "Mark, Inscription ",
+  "inscription": "Mark, Inscription",
+  "life_date": "Staffordshire, England, est. 1759",
+  "markings": "[Imperial], crown, [Wedgwood Co. Ltd., England]",
   "medium": "Ceramic, transfer print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "",
   "title": "Basin"

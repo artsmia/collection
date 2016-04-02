@@ -1,6 +1,7 @@
 {
   "accession_number": "82.122",
-  "artist": "Edward Antoon Portielje",
+  "artist": "Artist: Edward Antoon Portielje",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of Mrs. Kate Klein and Mrs. Jane S. Griggs in memory of Mrs. Claude H. Siems",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4835,
   "image_width": 6169,
+  "inscription": "",
   "life_date": "Belgian, 1861 - 1949",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Belgian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Two Women Visiting"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.3.1",
-  "artist": "Jeremy Schonfield",
+  "artist": "Editor: Jeremy Schonfield",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Hermann Mark Lissauer, Melbourne Australia",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Colored reproduction of illuminated manuscript",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Barcelona Haggadah"

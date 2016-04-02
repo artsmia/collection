@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.183",
-  "artist": "Ted Palm",
+  "artist": "Artist: Ted Palm",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3033,
   "image_width": 3748,
+  "inscription": "Signed, Inscribed, Titled, and Chop Mark",
   "life_date": "American, 1922-1996",
-  "marks": "Signed, Inscribed, Titled, and Chop Mark LR: [T Palm]\r\nLL: [P.P.]\r\nLC: [CHRISTIAN RADICH]\r\n",
+  "markings": "VEL Chop Mark",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [T Palm]\r\nLL: [P.P.]\r\nLC: [CHRISTIAN RADICH]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Christian Radich"

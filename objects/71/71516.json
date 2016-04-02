@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,369",
-  "artist": "George Brookshaw",
+  "artist": "Artist: George Brookshaw",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription and Mark\r\n[Painted and Pub. by the Author G. Brookshaw, 1807]\r\n\r\n\r\n",
   "life_date": "British, active 1804 - 1819",
-  "marks": "Inscription and Mark\r\n[Painted and Pub. by the Aut ",
+  "markings": "Watermark: <1805?>\r\n",
   "medium": "Color aquatint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Melon"

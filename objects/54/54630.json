@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.125",
-  "artist": "Claes Pieterz Berchem",
+  "artist": "Artist: Claes Pieterz Berchem",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Dutch, 1620 - 1683",
-  "marks": "Mark ",
+  "markings": "Watermark: fleur-de-lys, close to Heawood 1717 ca.1670",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "Thomas Graf (Lugt Suppl. 1092a, 1092b); A. Atraria (Lugt 33)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Resting Cows"

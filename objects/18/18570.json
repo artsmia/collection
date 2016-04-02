@@ -1,6 +1,7 @@
 {
   "accession_number": "63.44",
-  "artist": "Guiseppe Boschi",
+  "artist": "Artist: Guiseppe Boschi",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6623,
   "image_width": 4467,
+  "inscription": "Signature",
   "life_date": "Italian (Rome), 1760-after 1821",
-  "marks": "Signature ",
+  "markings": "center front, \\'G.Boschi\\'",
   "medium": "Bronze",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bacchus and Ariadne"

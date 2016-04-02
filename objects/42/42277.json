@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.18",
-  "artist": "Buun",
+  "artist": "Artist: Buun",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3532,
   "image_width": 4754,
+  "inscription": "16 poem about the New Year",
   "life_date": "Japanese",
-  "marks": "16 poem about the New Year {Buun hitsu}",
+  "markings": "Red artist\\'s seal; UL: calligrapher\\'s sign, {Kinoe ne haru} (spring of the year of Rat)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Buun hitsu}",
   "style": "19th century",
   "text": "",
   "title": "(Greeting of the New Year of rat)"

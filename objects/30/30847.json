@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.4",
-  "artist": "Doris Totten Chase",
+  "artist": "Artist: Doris Totten Chase",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2586,
   "image_width": 1915,
+  "inscription": "Signature; Date; Label",
   "life_date": "American, born 1923",
-  "marks": "Signature; Date; Label Bottom right, recto: [DChase/\\'62]",
+  "markings": "Exhibition label and identification tag by lender, verso",
   "medium": "Watercolor and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Bottom right, recto: [DChase/\\'62]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

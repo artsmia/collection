@@ -1,6 +1,7 @@
 {
   "accession_number": "32.21.3.1",
-  "artist": "John LeRoux",
+  "artist": "Maker: John LeRoux",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3620,
   "image_width": 5426,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "maker\\'s mark stamped underneath tray: [J.L.] Roman capitals, a pellet between in a rectangle",
   "medium": "Silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Salver, one of a pair"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.12",
-  "artist": "Steven Beyer; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Steven Beyer; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2844,
   "image_width": 3882,
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1951",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [Steven J. Beyer 78]\r\nLL: [Artists Proof 2/10]",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Steven J. Beyer 78]\r\nLL: [Artists Proof 2/10]",
   "style": "20th century",
   "text": "",
   "title": "Untitled #1"

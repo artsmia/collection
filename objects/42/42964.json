@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.29.5",
-  "artist": "Jörg Immendorff; Maximillian Verlag, Münich",
+  "artist": "Artist: Jörg Immendorff; Publisher: Maximillian Verlag, Münich",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Anne and Robert Buxton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4326,
   "image_width": 3418,
+  "inscription": "",
   "life_date": "German, born 1945",
-  "marks": " ",
+  "markings": "",
   "medium": "Color linocut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Entscheidend Feinbild"

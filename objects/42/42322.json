@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.213",
-  "artist": "Satō Gyodai",
+  "artist": "Artist: Satō Gyodai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1822,
   "image_width": 4711,
+  "inscription": "19 haiku poems",
   "life_date": "Japanese, fl. c.1810-1850",
-  "marks": "19 haiku poems Masuyuki",
+  "markings": "\\\"Ko_sa O_mon sha\\\"(poetry circle name) LR\r\n\\\"Bunsei 5 ushi toshi(the year of Ox)\\\" UL\r\n",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Masuyuki",
   "style": "19th century",
   "text": "",
   "title": "(Picnic canopy)"

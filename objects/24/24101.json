@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.5",
-  "artist": "Robert  Aaron (Bob) Brown",
+  "artist": "Artist: Robert  Aaron (Bob) Brown",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3620,
   "image_width": 5026,
+  "inscription": "Inscription\r\n\r\nin pencil recto: [Our Back Yard]\r\n\r\nin pencil recto titles and [#35]",
   "life_date": "American, 1895 - 1954",
-  "marks": "Inscription\r\n\r\nin pencil recto: [Our Back Yard]\r\n\r ",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Frosty Morning"

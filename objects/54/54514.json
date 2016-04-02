@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.14",
-  "artist": "Sol LeWitt; Nova Scotia College of Art and Design, Halifax, Canada",
+  "artist": "Artist: Sol LeWitt; Publisher: Nova Scotia College of Art and Design, Halifax, Canada",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [14/25]",
   "life_date": "American, 1928 - 2007",
-  "marks": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pe Signed in pencil, LR: [LeWitt]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [LeWitt]",
   "style": "20th century",
   "text": "",
   "title": "Plate 9, from \"Work from Instructions\""

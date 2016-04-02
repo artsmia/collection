@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,948",
-  "artist": "Suzuki Harunobu",
+  "artist": "Artist: Suzuki Harunobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2656,
   "image_width": 2032,
+  "inscription": "",
   "life_date": "Japanese, 1725 - 1770",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Bussod, Valadon & Co. to Freer (1894); Freer to Ford (Feb. 1905)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Perfuming a Robe as Visual Parody of the Four Elegant Pastimes"

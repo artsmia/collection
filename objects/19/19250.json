@@ -1,6 +1,7 @@
 {
   "accession_number": "66.59.7",
-  "artist": "Christen Schjellerup Kobke",
+  "artist": "Artist: Christen Schjellerup Kobke",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Denmark",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3487,
   "image_width": 5007,
+  "inscription": "Signature; Inscription\r\nsee SIgned\r\nrecto: inscribed in pencil LR: [Lond__(London?) 13 Marts 1839]",
   "life_date": "Danish, 1810 - 1848",
-  "marks": "Signature; Inscription\r\nsee SIgned\r\nrecto: inscrib UR: [Kobke fec]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "Danish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [Kobke fec]",
   "style": "19th century",
   "text": "",
   "title": "Study of a Male Nude"

@@ -1,6 +1,7 @@
 {
   "accession_number": "99.53.2",
-  "artist": "Huang Binhong",
+  "artist": "Maker: Huang Binhong",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4078,
   "image_width": 2034,
+  "inscription": "Inscription; Stamps",
   "life_date": null,
-  "marks": "Inscription; Stamps ",
+  "markings": "Untranslated inscription, in Chinese, in black, UR corner; four seals, in red: two to left of inscription, one to right of inscription, one in LR corner",
   "medium": "Ink and colors on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "River Landscape"

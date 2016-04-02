@@ -1,6 +1,7 @@
 {
   "accession_number": "91.169.2",
-  "artist": "Mort Künstler",
+  "artist": "Artist: Mort Künstler",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ronald M. Koch",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3668,
   "image_width": 4218,
+  "inscription": "Signature; Inscription; Stamp\r\n\r\nLR on masking tape in graphite: [HALL/#686400-A]",
   "life_date": "American, born 1931",
-  "marks": "Signature; Inscription; Stamp\r\n\r\nLR on masking tap LR [MKünstler]",
+  "markings": "stamp on backing board: [ALBERT SIRIANNI/ROOM1104 75 WEST 45 ST., N.Y. 36]",
   "medium": "Gouache",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR [MKünstler]",
   "style": "20th century",
   "text": "",
   "title": "Cover Illustration for 'Cairo,' a novel by Don Smith"

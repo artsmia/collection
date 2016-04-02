@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.141",
-  "artist": "Robert Ecker; The Lakeside Studio",
+  "artist": "Artist: Robert Ecker; Workshop: The Lakeside Studio",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\n",
   "life_date": "American, born 1936",
-  "marks": "Signature; Mark\r\n\r\n ",
+  "markings": "Chop",
   "medium": "Mezzotint, white wove",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Tragic View"

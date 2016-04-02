@@ -1,6 +1,7 @@
 {
   "accession_number": "52.3",
-  "artist": "Robert Lesch",
+  "artist": "Artist: Robert Lesch",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3630,
   "image_width": 5102,
+  "inscription": "Signature",
   "life_date": "American, born 1924",
-  "marks": "Signature RC: [LESCH]",
+  "markings": "",
   "medium": "Ink and wash",
   "nationality": "American",
   "provenance": "The artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "RC: [LESCH]",
   "style": "20th century",
   "text": "",
   "title": "A Group"

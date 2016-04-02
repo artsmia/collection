@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,156",
-  "artist": "Saviero Manetti",
+  "artist": "Artist: Saviero Manetti",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "Italian, 1723 - 1784",
-  "marks": "\r\n\r\n No signatures",
+  "markings": "\r\n",
   "medium": "Engraving, hand-colored \r\n",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signatures",
   "style": "18th century",
   "text": "",
   "title": "Gallo Scherzoso.  Galley naturae lusus.  Plate CCXVI."

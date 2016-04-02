@@ -1,6 +1,7 @@
 {
   "accession_number": "79.12.9",
-  "artist": "Moorcroft Factory",
+  "artist": "Manufacturer: Moorcroft Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp\r\n\r\non back: [Moorcroft]",
   "life_date": null,
-  "marks": "Stamp\r\n\r\non back: [Moorcroft] ",
+  "markings": "",
   "medium": "Pottery",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Tray"

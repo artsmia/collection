@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.6",
-  "artist": "Scott Sandell",
+  "artist": "Artist: Scott Sandell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2866,
   "image_width": 3951,
+  "inscription": "Signed, Dated, Numbered, Titled, and Chop Mark",
   "life_date": "American, born 1953",
-  "marks": "Signed, Dated, Numbered, Titled, and Chop Mark LR: [Sandell 1978]\r\nLL: [A.P. 2/8]\r\nLC: [\\'IMPULSE ",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Sandell 1978]\r\nLL: [A.P. 2/8]\r\nLC: [\\'IMPULSE DRIVER\\']\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Impulse Driver"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.140",
-  "artist": "Utagawa Hiroshige; Fujiokaya Hikotarō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Fujiokaya Hikotarō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2934,
   "image_width": 1044,
+  "inscription": "Yes (waka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Yes (waka) ",
+  "markings": "Censor: Kiwame",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Bunya no Yasuhide"

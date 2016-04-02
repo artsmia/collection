@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.71",
-  "artist": "William Strutt",
+  "artist": "Artist: William Strutt",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1900,
   "image_width": 4893,
+  "inscription": "Signature, Date and Inscription\r\n\r\nbottom left, in brown: [preparing to spring.]; LRC, in brown: [---outdoor.]",
   "life_date": "British, 1826 - 1915",
-  "marks": "Signature, Date and Inscription\r\n\r\nbottom left, in LRC, in brown: [Wm. Strutt. / Aug. 8th/89.]",
+  "markings": "",
   "medium": "Watercolor, graphite, and touches of brown ink on wove paper",
   "nationality": "British",
   "provenance": "[Shepherd Gallery, The Drawing Shop, New York, before 1973; sold June 12, for $250, to Moir]; Alfred Moir, Santa Barbara (1973-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in brown: [Wm. Strutt. / Aug. 8th/89.]",
   "style": "19th century",
   "text": "",
   "title": "A Lioness Preparing to Spring"

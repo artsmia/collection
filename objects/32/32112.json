@@ -1,6 +1,7 @@
 {
   "accession_number": "99.37.1",
-  "artist": "André Thomkins",
+  "artist": "Artist: André Thomkins",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of The Saul P. Steinberg Collection",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Swiss, 1930 - 1985",
-  "marks": "Signature; Date\r\nsee Signed LR in graphite: [André Thomkins 1979]",
+  "markings": "",
   "medium": "Brush and black ink",
   "nationality": "Swiss",
   "provenance": "Saul P. Steinberg, Ny, Ny",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in graphite: [André Thomkins 1979]",
   "style": "20th century",
   "text": "",
   "title": "Masked--Asked"

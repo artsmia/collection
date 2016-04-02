@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.87",
-  "artist": "James Tissot",
+  "artist": "Artist: James Tissot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3639,
   "image_width": 5321,
+  "inscription": "Signature and stamp",
   "life_date": "French, 1836-1902",
-  "marks": "Signature and stamp signed on plate and on sheet",
+  "markings": "stamp",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on plate and on sheet",
   "style": "19th century",
   "text": "",
   "title": "The Thames"

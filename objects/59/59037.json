@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.50",
-  "artist": "John Newman",
+  "artist": "Artist: John Newman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 3690,
   "image_width": 2846,
+  "inscription": "Chop mark, annotations on verso",
   "life_date": "American, born 1952",
-  "marks": "Chop mark, annotations on verso On verso: [FOLD OUT (WORKING PROOF - JN 4)]",
+  "markings": "LR: V.E.L. chop mark",
   "medium": "Lithograph, graphite, black and red pastel and rubberstamp",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On verso: [FOLD OUT (WORKING PROOF - JN 4)]",
   "style": "20th century",
   "text": "",
   "title": "Fold-Out"

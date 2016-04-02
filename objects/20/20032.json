@@ -1,6 +1,7 @@
 {
   "accession_number": "73.52",
-  "artist": "Wesley Wehr",
+  "artist": "Artist: Wesley Wehr",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ms. Jean Russell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, 1929 - 2004",
-  "marks": "Signature; Date LR: [Wehr 72]",
+  "markings": "",
   "medium": "Wax crayon, oil pastel and chalk pastel",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Wehr 72]",
   "style": "20th century",
   "text": "",
   "title": "Swinomish"

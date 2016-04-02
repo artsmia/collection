@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.27",
-  "artist": "Stow Wengenroth",
+  "artist": "Artist: Stow Wengenroth",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Number; Inscription; Mark\r\n\r\nsee Signed\r\n\r\non sheet: [50]; [Milliken\\'s House\\' S.23.]\r\n\r\non mat:  [White wove, June 1 Gallery, Stow Wengenroth, U.S.A. XXC, 1906-78, \\\"Milliken\\'s House\\\", 1931, S23.litho, Stucky23 Ref.\r\nEMVD,P.82.27.]\r\n\r\n",
   "life_date": "American, 1906 - 1966",
-  "marks": "Signature; Title; Number; Inscription; Mark\r\n\r\nsee pencil, on sheet",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "pencil, on sheet",
   "style": "20th century",
   "text": "",
   "title": "Milliken's House"

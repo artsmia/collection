@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.155.1a-c",
-  "artist": "Utagawa Kuniyoshi; Yamaguchiya Tōbei",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Yamaguchiya Tōbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7455,
   "image_width": 5082,
+  "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": " Ochiyu_sai Kuniyoshi ga(each panel)",
+  "markings": "Artist\\'s seal in red\r\nCensor: Wataru 渡\r\n\\\"Nita Shiro_ Tadatsune(right) and Soga ju_ro_ Sukenobu(left)\\\" (in the yellow rectangular on right panel)\r\n\\\"Soga Tokigoro_ Masamune\\\" (in the yellow rectangular on center panel)\r\n\\\"Gosho Goro_maru Shigemune\\\" (in the yellow rectangular on left panel)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ochiyu_sai Kuniyoshi ga(each panel)",
   "style": "19th century",
   "text": "",
   "title": "The Soga Brother's last Fight at the Foot of Mt. Fuji"

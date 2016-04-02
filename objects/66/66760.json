@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.83",
-  "artist": "Utagawa Kuniyoshi",
+  "artist": "Artist: Utagawa Kuniyoshi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1826,
   "image_width": 2417,
+  "inscription": "{Takaichi Takeemon, Kamura Utaemon} (probably names of jōruri singers); {ōteba} (meaning unknown)",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "{Takaichi Takeemon, Kamura Utaemon} (probably name {Ichiyūsai Kuniyoshi}",
+  "markings": "Censor: Kai",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi}",
   "style": "19th century",
   "text": "",
   "title": "God of Poverty"

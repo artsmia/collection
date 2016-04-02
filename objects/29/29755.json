@@ -1,6 +1,7 @@
 {
   "accession_number": "97.3",
-  "artist": "Serge Jolimeau",
+  "artist": "Maker: Serge Jolimeau",
+  "classification": "Sculpture",
   "continent": "Central America",
   "country": "Haiti",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature ",
+  "markings": "\\'SERGE JOLIMEAU\\', engraved at cross bottom, front",
   "medium": "Sheet metal, pigment",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Crucifix"

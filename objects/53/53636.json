@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,643",
-  "artist": "George Bellows; Bolton Brown",
+  "artist": "Artist: George Bellows; Printer: Bolton Brown",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. C.C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1882 - 1925",
-  "marks": " On stone: Geo Bellows; in pencil: Geo Bellows",
+  "inscription": "",
+  "life_date": "American, 1882–1925",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Mrs. Charles C. Bovey, Minneapolis; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On stone: Geo Bellows; in pencil: Geo Bellows",
   "style": "20th century",
   "text": "",
   "title": "The Irish Fair"

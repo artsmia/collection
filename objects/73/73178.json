@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.17",
-  "artist": "Matsui Bunkyo",
+  "artist": "Artist: Matsui Bunkyo",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3827,
   "image_width": 2731,
+  "inscription": "",
   "life_date": "Japanese",
-  "marks": " Bunkio Matsui",
+  "markings": "Boston Mass\r\nKobe Japan",
   "medium": "Color woodblock print",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Bunkio Matsui",
   "style": "20th century",
   "text": "",
   "title": "Leathers of Old Japan"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.33",
-  "artist": "John Stockton de Martelly",
+  "artist": "Artist: John Stockton de Martelly",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "American, 1903 - 1970",
-  "marks": "Mark ",
+  "markings": "Watermark: <Arches France>",
   "medium": "Etching, off white laid paper",
   "nationality": "American",
   "provenance": "PROV/EXHIB:  (Alden Galleries, Kansas City, MO)",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Light"

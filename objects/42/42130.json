@@ -1,6 +1,7 @@
 {
   "accession_number": "63.68.71",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3700,
   "image_width": 3443,
+  "inscription": "Signature and Date\r\n\r\nsee Signed",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature and Date\r\n\r\nsee Signed Signed in pencil at LR: [Philip Kappel/Sept.3, 193",
+  "markings": "",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil at LR: [Philip Kappel/Sept.3, 1932]",
   "style": "20th century",
   "text": "",
   "title": "Stairway"

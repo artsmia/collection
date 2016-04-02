@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.133",
-  "artist": "Lovis Corinth",
+  "artist": "Artist: Lovis Corinth",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Mr. and Mrs. Hall James Peterson Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1858 - 1925",
-  "marks": "Inscription\r\nII Zustanddrücke Nr. 2 ",
+  "inscription": "Inscription\r\nII Zustanddrücke Nr. 2",
+  "life_date": "German, 1858-1925",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "German",
   "provenance": "Vonderbank",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Pieta"

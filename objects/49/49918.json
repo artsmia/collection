@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.156",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Vincent Mayer (L. 2525); Knoedler & Co., 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Beast with Horns Like a Lamb"

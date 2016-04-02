@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,906",
-  "artist": "Utagawa Toyokuni; Published by Yamaguchiya Chūsuke",
+  "artist": "Artist: Utagawa Toyokuni; Publisher: Published by Yamaguchiya Chūsuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2624,
   "image_width": 1741,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "Publisher:Yamaguchiya Chu_emon, Chu_suke",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "18th-19th century",
   "text": "",
   "title": "(Two Women, One Walking, One on Horseback)"

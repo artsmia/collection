@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.28.11",
-  "artist": "Kawase Hasui; Published by Kawaguchi Jirō; Carved by Maeda Kentarō; Printed by Komatsu Wasankichi",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Kawaguchi Jirō; Carver: Carved by Maeda Kentarō; Printer: Printed by Komatsu Wasankichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Paul Schweitzer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2821,
   "image_width": 1541,
+  "inscription": "bottom margin: 昭和四年七月作 {Shōwa yonen shichigatsu saku} (made in July 1929)",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": "bottom margin: 昭和四年七月作 {Shōwa yonen shichigatsu sa LLC: 巴水 {Hasui}",
+  "markings": "LLC, red round artist\\'s seal: 川セ {Kawase} | LR margin, publisher\\'s seal: カワグチ {Kawaguchi} | LL margin: 彫前田摺小松　版権所有 {hori Maeda suri Komatsu, hanken shoyū} (carved by Maeda, printed by Komatsu, copyright)",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC: 巴水 {Hasui}",
   "style": "20th century",
   "text": "second edition published by Kawaguchi alone",
   "title": "Tōshōgū in Ueno"

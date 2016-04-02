@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,361",
-  "artist": "Gabor Peterdi",
+  "artist": "Artist: Gabor Peterdi",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rob Roy Kelly, 1955",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3479,
   "image_width": 4300,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (b. Hungary), 1915-2001",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Peterdi]",
+  "markings": "",
   "medium": "Etching, engraving and color aquatint",
   "nationality": "American",
   "provenance": "Rob Roy Kelly; given to MIA, 1955.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Peterdi]",
   "style": "20th century",
   "text": "",
   "title": "Heralds of Awakening"

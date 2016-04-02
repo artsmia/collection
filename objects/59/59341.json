@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,154",
-  "artist": "Mary Nimmo Moran",
+  "artist": "Artist: Mary Nimmo Moran",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "1841 - 1899",
-  "marks": " In plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "19th century",
   "text": "",
   "title": "The Haunt of the Muskrat, East Hampton"

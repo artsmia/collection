@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.13.12",
-  "artist": "Gendron Jensen",
+  "artist": "Artist: Gendron Jensen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2123,
   "image_width": 1902,
+  "inscription": "Signature",
   "life_date": "American, born 1939",
-  "marks": "Signature LR Corner: [GJ:12-71]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR Corner: [GJ:12-71]",
   "style": "20th century",
   "text": "",
   "title": "This"

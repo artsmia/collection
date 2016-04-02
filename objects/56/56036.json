@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.271",
-  "artist": "Attributed to Jacques Villon",
+  "artist": "Artist: Attributed to Jacques Villon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1875 - 1963",
-  "marks": "Mark unsigned",
+  "inscription": "Mark",
+  "life_date": "French, 1875–1963",
+  "markings": "Unidentified stamp (?) or inscription, LC",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "Herschel V. Jones, Minneapolis; bequethed to MIA  via family member, 1968.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "unsigned",
   "style": "20th century",
   "text": "",
   "title": "Two Children on a Merry-Go-Round"

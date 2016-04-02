@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.178.4",
-  "artist": "Takahashi Hiroaki",
+  "artist": "Artist: Takahashi Hiroaki",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5048,
   "image_width": 3743,
+  "inscription": "",
   "life_date": "Japanese, 1871 - 1944",
-  "marks": " ",
+  "markings": "red artist\\'s seal {Hiroaki}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Snow at Sakurada"

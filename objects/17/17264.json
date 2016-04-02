@@ -1,6 +1,7 @@
 {
   "accession_number": "46.36",
-  "artist": "Milton E. Swensen",
+  "artist": "Artist: Milton E. Swensen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature LR: [M.E.Swensen]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [M.E.Swensen]",
   "style": "20th century",
   "text": "",
   "title": "Gray April"

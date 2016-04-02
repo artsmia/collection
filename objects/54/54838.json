@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,470",
-  "artist": "Clement Haupers",
+  "artist": "Artist: Clement Haupers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Artist, 1933",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1900 - 1982",
-  "marks": "Signature; Title; Edition\r\n\r\nsee Signed\r\n\r\nin penc in pencil on margin: [Haupers 1928]",
+  "inscription": "Signature; Title; Edition\r\n\r\nsee Signed\r\n\r\nin pencil on margin:  [5/10]; [Toto and - ]",
+  "life_date": "American, 1900–1982",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on margin: [Haupers 1928]",
   "style": "20th century",
   "text": "",
   "title": "Toto and -"

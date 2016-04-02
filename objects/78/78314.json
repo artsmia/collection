@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.11.2",
-  "artist": "Kishi Renzan",
+  "artist": "Artist: Kishi Renzan",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3796,
   "image_width": 1492,
+  "inscription": "Inscription and mark\r\ninscription in black, LRC",
   "life_date": "Japanese, 1805 - 1859",
-  "marks": "Inscription and mark\r\ninscription in black, LRC ",
+  "markings": "two seals in red, LRC",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Dragon, from a Tiger and Dragon pair"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.37",
-  "artist": "Peter Sedgley; Published by Editions Alecto, London; Printed by Kelpra Studio, Ltd., London",
+  "artist": "Artist: Peter Sedgley; Publisher: Published by Editions Alecto, London; Printer: Printed by Kelpra Studio, Ltd., London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Mrs. Patrick Butler Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LC: [23/75]",
   "life_date": "British, born 1930",
-  "marks": "Signature; Edition; Mark\r\n\r\nsee Signed\r\n\r\nNumbered Signed in pencil, LC: [Peter Sedgley]",
+  "markings": "Publisher\\'s stamp in black ink, verso: [ea 313]",
   "medium": "Color screenprint",
   "nationality": "British",
   "provenance": "[Editions Alecto of America, New York]; sold to MIA, 1970.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LC: [Peter Sedgley]",
   "style": "20th century",
   "text": "",
   "title": "Plate I from \"Looking Glass\" suite"

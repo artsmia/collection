@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.16",
-  "artist": "Henry Ernest Schnakenberg",
+  "artist": "Artist: Henry Ernest Schnakenberg",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3535,
   "image_width": 5150,
+  "inscription": "Signature",
   "life_date": "American, 1892 - 1970",
-  "marks": "Signature LR",
+  "markings": "",
   "medium": "Watercolor and graphite",
   "nationality": "American",
   "provenance": "Kraushaar Galeries, NY",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR",
   "style": "20th century",
   "text": "",
   "title": "La Luz Canyon Near Alamo Gordo, N.M."

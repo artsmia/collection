@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.15",
-  "artist": "Bruce Nauman; Published by Cirrus Editions, Ltd., Los Angeles; Printed by Ed Hamilton",
+  "artist": "Artist: Bruce Nauman; Publisher: Published by Cirrus Editions, Ltd., Los Angeles; Printer: Printed by Ed Hamilton",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Benton J. Case, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "© Bruce Nauman %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3198,
   "image_width": 4572,
+  "inscription": "Signature, Edition, Date\r\n\r\nIn pencil LL:  B. Nauman 14/50, \\'73",
   "life_date": "American, born 1941",
-  "marks": "Signature, Edition, Date\r\n\r\nIn pencil LL:  B. Naum In pencil: [B. Nauman]",
+  "markings": "Chop mark, LL: Cirrus Editions",
   "medium": "Lithograph in brown-black ink",
   "nationality": "American",
   "provenance": "Benton J. Case, Jr., Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [B. Nauman]",
   "style": "20th century",
   "text": "",
   "title": "Normal Desires"

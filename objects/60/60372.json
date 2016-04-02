@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.283.47",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. John and Kay Dunne",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 2740,
   "image_width": 1846,
+  "inscription": "Signature; Title; Number\r\nin pencil, on back: [Lull, 1999]; in black ink, on back: [1]",
   "life_date": "American, born 1951",
-  "marks": "Signature; Title; Number\r\nin pencil, on back: [Lul in pencil, on back: [David Parker]",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, on back: [David Parker]",
   "style": "20th century",
   "text": "",
   "title": "Lull Industries, Eagan, Minnesota"

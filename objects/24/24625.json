@@ -1,6 +1,7 @@
 {
   "accession_number": "85.18",
-  "artist": "Jacques Lipchitz",
+  "artist": "Artist: Jacques Lipchitz",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Des Moines Register and the Tribune Company",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Jacques Lipchitz%2C courtesy Marlborough Gallery%2C New York. All rights reserved.",
   "image_height": 5408,
   "image_width": 3729,
-  "life_date": "American (born Lithuania), 1891-1973",
-  "marks": "Signature at rear of base of head: [Lipchitz 5]",
+  "inscription": "Signature",
+  "life_date": "American (born Lithuania), 1891–1973",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "at rear of base of head: [Lipchitz 5]",
   "style": "20th century",
   "text": "",
   "title": "Head of John Cowles, Sr."

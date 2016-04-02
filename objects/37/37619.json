@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.165",
-  "artist": "Katsushika Isai",
+  "artist": "Artist: Katsushika Isai",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3341,
   "image_width": 4157,
+  "inscription": "Preface on the first page dated Genji kino-e Aki (autumn of 1864)",
   "life_date": "Japanese, 1821 - 1880",
-  "marks": "Preface on the first page dated Genji kino-e Aki ( ",
+  "markings": "Publisher:Jisshu_do_ (unknown)",
   "medium": "Woodblock printed book; ink and limited color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Pictorial Explanation of a Thousand Interesting Historical Events Pictured by Isai Vol. 1"

@@ -1,6 +1,7 @@
 {
   "accession_number": "51.40.17",
-  "artist": "Kawase Hasui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Margaret McMillan Webber Estate",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2979,
   "image_width": 1150,
+  "inscription": "",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": " ULC: 巴水 {Hasui} | ULC: 大正七秋 {Taishō shichi aki} (A",
+  "markings": "ULC, red round artist\\'s seal: 巴水 {Hasui} | LR, round publisher seal A: ワタナベ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "ULC: 巴水 {Hasui} | ULC: 大正七秋 {Taishō shichi aki} (Autumn 1918)",
   "style": "20th century",
   "text": "",
   "title": "Shiogama, Shiobara"

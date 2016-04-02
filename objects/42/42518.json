@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.257",
-  "artist": "Shibata Zeshin",
+  "artist": "Artist: Shibata Zeshin",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4195,
   "image_width": 2871,
+  "inscription": "Chinese poem",
   "life_date": "Japanese, 1807 - 1891",
-  "marks": "Chinese poem Zeshin",
+  "markings": "\\\"Shin\\\" seal\r\nUnread seal URC\r\n2 unread seal on left, probably caligraprher\\'s seals",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Zeshin",
   "style": "19th century",
   "text": "",
   "title": "(Fukurokuju and Daikoku gods)"

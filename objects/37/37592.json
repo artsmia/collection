@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.16",
-  "artist": "Katsushika Taito II",
+  "artist": "Artist: Katsushika Taito II",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3796,
   "image_width": 1434,
+  "inscription": "Inscription and Two Seals",
   "life_date": "Japanese, fl. 1810-1853",
-  "marks": "Inscription and Two Seals To_yo_ Taito",
+  "markings": "Seals: ??to_kei, Sho_zan no in",
   "medium": "Hanging scroll; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "To_yo_ Taito",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
   "title": "Gamefowls"

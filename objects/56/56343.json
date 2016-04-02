@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,131",
-  "artist": "Timothy Cole; after Domenico (Bigordi) Ghirlandaio",
+  "artist": "Artist: Timothy Cole; Artist: after Domenico (Bigordi) Ghirlandaio",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "p. 46 In pencil on sheet, and in plate",
+  "inscription": "p. 46",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil on sheet, and in plate",
   "style": "19th century",
   "text": "",
   "title": "Saint Gerome"

@@ -1,6 +1,7 @@
 {
   "accession_number": "84.76",
-  "artist": "J. Jerome Hill",
+  "artist": "Artist: J. Jerome Hill",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Dorothy Millet Lindeke",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3354,
   "image_width": 4693,
+  "inscription": "Signature",
   "life_date": "American, 1905 - 1972",
-  "marks": "Signature LL in ink: [Jerome Hill]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL in ink: [Jerome Hill]",
   "style": "20th century",
   "text": "",
   "title": "Interior Hamwood House, Ireland"

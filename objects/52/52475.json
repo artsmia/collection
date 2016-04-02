@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.43",
-  "artist": "Mosé di Giosué Bianchi",
+  "artist": "Artist: Mosé di Giosué Bianchi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Kemper Kirkpatrick",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Yes",
   "life_date": "Italian, 1842 - 1904",
-  "marks": "Yes In plate in pencil, l. r.",
+  "markings": "Bianchi",
   "medium": "Etching, aquatint & drypoint",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate in pencil, l. r.",
   "style": "19th Century",
   "text": "",
   "title": "Interior of a Church in Milan"

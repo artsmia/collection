@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.13",
-  "artist": "Faith M. Lowell",
+  "artist": "Artist: Faith M. Lowell",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Tag",
   "life_date": "American, born 1922",
-  "marks": "Signature; Date; Tag Recto: [Faith Lowell \\'65]",
+  "markings": "Identification tag, on frame, verso",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "John I. Coe, Bloomington, MN",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Recto: [Faith Lowell \\'65]",
   "style": "20th century",
   "text": "",
   "title": "Pines in the Rain"

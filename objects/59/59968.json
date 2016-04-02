@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.62",
-  "artist": "Robert Riggs",
+  "artist": "Artist: Robert Riggs",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, 1896-1970",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on sheet",
+  "markings": "Watermark: <France>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G315",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "On the Lot"

@@ -1,6 +1,7 @@
 {
   "accession_number": "52.4",
-  "artist": "Ivan Majdrakoff",
+  "artist": "Artist: Ivan Majdrakoff",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5466,
   "image_width": 3569,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1927",
-  "marks": "Signature; Date LR: [Ivan Majdrakoff 4/52]",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Ivan Majdrakoff 4/52]",
   "style": "20th century",
   "text": "",
   "title": "Spectators"

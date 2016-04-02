@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,704",
-  "artist": "Johan Georg Wille; after Gabriel Metzu",
+  "artist": "Artist: Johan Georg Wille; Artist: after Gabriel Metzu",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nIrime (possibly Prime) Platte engraved in reverse in upper left margin",
   "life_date": "French, 1715 - 1808",
-  "marks": "Inscription\r\n\r\nIrime (possibly Prime) Platte engra ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "La Cuisinère hollandaise"

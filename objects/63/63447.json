@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.64.40",
-  "artist": "Chōki; Published by Tsuruya Kiemon",
+  "artist": "Artist: Chōki; Publisher: Published by Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1415,
+  "inscription": "",
   "life_date": "Japanese, fl. late 18th-early 19th century",
-  "marks": " Cho_ki ga",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Cho_ki ga",
   "style": "18th century",
   "text": "",
   "title": "Act 8"

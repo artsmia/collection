@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.13.1",
-  "artist": "Robert Kipness",
+  "artist": "Artist: Robert Kipness",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2340,
   "image_width": 1859,
+  "inscription": "\\\"15/50\\\", in graphite, LL",
   "life_date": "born 1931",
-  "marks": "\\\"15/50\\\", in graphite, LL \\\"Kipness\\\", in graphite, LR",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Kipness\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Appoggiatura"

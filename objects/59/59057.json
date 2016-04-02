@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.12.10",
-  "artist": "Mary Pat Opatz Herges",
+  "artist": "Artist: Mary Pat Opatz Herges",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4568,
   "image_width": 3268,
+  "inscription": "Signed, Dated, and Inscribed",
   "life_date": "American, born 1950",
-  "marks": "Signed, Dated, and Inscribed LR: [Mary Pat Opatz 1987]\r\nLL: [ State Proof]",
+  "markings": "",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Mary Pat Opatz 1987]\r\nLL: [ State Proof]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

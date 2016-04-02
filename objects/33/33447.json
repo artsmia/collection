@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.218",
-  "artist": "George Warren Rickey",
+  "artist": "Artist: George Warren Rickey",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of George Warren Rickey %2F VAGA%2C New York",
   "image_height": 8460,
   "image_width": 7010,
+  "inscription": "Signature and Date",
   "life_date": "American, 1907-2002",
-  "marks": "Signature and Date LRC, in pencil: [Rickey 24-12-78]",
+  "markings": "",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "The artist, Berlin (1978; gave to Moir); Alfred Moir, Santa Barbara (1978-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Rickey 24-12-78]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Alfred Moir"

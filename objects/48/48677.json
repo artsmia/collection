@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,484",
-  "artist": "Charles Turner; After Sir Thomas Lawrence",
+  "artist": "Artist: Charles Turner; Artist: After Sir Thomas Lawrence",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "British, 1774 - 1857",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1769 - 1830",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sir John Soane, Professor of Architecture"

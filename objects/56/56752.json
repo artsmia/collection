@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,242",
-  "artist": "Peter Moran",
+  "artist": "Artist: Peter Moran",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1841 - 1915",
-  "marks": " on right lower margin, initials on print",
+  "inscription": "",
+  "life_date": "American (born England), 1841–1914",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on right lower margin, initials on print",
   "style": "19th century",
   "text": "",
   "title": "Harvest at San Juan, New Mexico"

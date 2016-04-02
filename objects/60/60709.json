@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.15.2",
-  "artist": "Attributed to Bakewell, Page and Bakewell",
+  "artist": "Manufacturer: Attributed to Bakewell, Page and Bakewell",
+  "classification": "Glass",
   "continent": null,
   "country": "United States",
   "creditline": "The Walter C. and Mary C. Briggs Charitable Trust",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3156,
   "image_width": 4045,
+  "inscription": "",
   "life_date": "Pittsburgh, Pennsylvania, 1808-1882",
-  "marks": " ",
+  "markings": "",
   "medium": "Glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Celery vase"

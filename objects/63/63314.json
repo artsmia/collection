@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.129",
-  "artist": "Utagawa Hiroshige; Ezakiya Kichibei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Ezakiya Kichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1834,
   "image_width": 2739,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige ga}",
+  "markings": "Publisher\\'s seal: {Ekichi ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "Itomi(?)ya Teahouse at the Fork of Yokkaichi"

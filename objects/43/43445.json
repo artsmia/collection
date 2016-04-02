@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.1.9",
-  "artist": "Lynn Klein; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Lynn Klein; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Art Accessions Endowment Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4620,
   "image_width": 3666,
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1950",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [L. Klein 1992]\r\nLL: [A.P. 2/2]\r\n",
+  "markings": "LL: VEL chop mark",
   "medium": "Color photolithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [L. Klein 1992]\r\nLL: [A.P. 2/2]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Color Blend)"

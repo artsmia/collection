@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.81",
-  "artist": "Katsushika Hokusai; Poem by Chen Chun",
+  "artist": "Artist: Katsushika Hokusai; Author: Poem by Chen Chun",
+  "classification": "Casts and Copies",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2691,
   "image_width": 1844,
+  "inscription": "東風日夜発　桃李不禁吹　検点濃華事　辛夷落較遅　陳淳 Chen Shun",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "東風日夜発　桃李不禁吹　検点濃華事　辛夷落較遅　陳淳 Chen Shun Saki no Hokusai Iitsu hitsu 前北斎為一筆",
+  "markings": "red combined kiwame 極 censor seal and artist\\'s Manji 卍 seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saki no Hokusai Iitsu hitsu 前北斎為一筆",
   "style": "19th century",
   "text": "20th-century reprint from newly carved blocks",
   "title": "Java Sparrow on Magnolia"

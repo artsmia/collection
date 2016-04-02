@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,512",
-  "artist": "Gérard Edelinck; after Hyacinthe Rigaud",
+  "artist": "Artist: Gérard Edelinck; Artist: after Hyacinthe Rigaud",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1640 - 1707",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "French, 1659 - 1743",
+  "markings": "Collector\\'s mark: Fermin Didot, (Lugt 1060); Louis Galichon, 1829-1893, Paris",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "Fermin Didot; Louis Galichon",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Louis Antoine, cardinal de Noailles, archevêque de Paris"

@@ -1,6 +1,7 @@
 {
   "accession_number": "82.135.2",
-  "artist": "Lyonel Feininger",
+  "artist": "Artist: Lyonel Feininger",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Robert E. Kasper",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4008,
   "image_width": 3499,
-  "life_date": "American (active Germany), 1871 - 1956",
-  "marks": "Signature; Date in black ink, LL: [Feininger. 1949]",
+  "inscription": "Signature; Date",
+  "life_date": "American (active Germany), 1871–1956",
+  "markings": "",
   "medium": "Charcoal and watercolor",
   "nationality": "American (active Germany)",
   "provenance": "(E.V. Thaw & Co.). Dr. & Mrs. Robert E. Kasper, Minneapolis; given to MIA, 1982.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink, LL: [Feininger. 1949]",
   "style": "20th century",
   "text": "",
   "title": "Figure Study"

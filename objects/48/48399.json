@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,589",
-  "artist": "Barthel Beham",
+  "artist": "Artist: Barthel Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Date, Inscription\r\n\r\ninscribed in plate: [MARCET SINE ADVERSARIO VIRTVS / ERASMVS BALDERMAN LL DOCT / AETAT SVAE XXXIII]",
   "life_date": "German, 1502-1540",
-  "marks": "Date, Inscription\r\n\r\ninscribed in plate: [MARCET S dated at lower edge: [15 / 35]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Danz (L. 103) (no stamp); Baron von Lanna, no. 912 Cat I (L. 2773); Knoedler",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "dated at lower edge: [15 / 35]",
   "style": "16th century",
   "text": "",
   "title": "Erasmus Baldermann"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.35.10",
-  "artist": "Sven Birger Sandzén",
+  "artist": "Artist: Sven Birger Sandzén",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Richard D. Humleker in memory of Mrs. John S. Wier",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1871 - 1954",
-  "marks": "Signature in pencil LR margin; also initialed in block at LR",
+  "markings": "",
   "medium": "Woodcut, cream wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil LR margin; also initialed in block at LR",
   "style": "19th century",
   "text": "",
   "title": "Colorado Stream"

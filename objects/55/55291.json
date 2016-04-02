@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,819",
-  "artist": "Ger Lataster",
+  "artist": "Artist: Ger Lataster",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The John R. Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(see Signed)",
   "life_date": "Dutch, born 1920",
-  "marks": "Signature\r\n\r\n(see Signed) in pencil: [G. Lataster]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Dutch",
   "provenance": "Galerie Sothmann, Amsterdam",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [G. Lataster]",
   "style": "20th century",
   "text": "",
   "title": "Composition"

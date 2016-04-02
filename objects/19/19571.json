@@ -1,6 +1,7 @@
 {
   "accession_number": "70.55",
-  "artist": "Giulio Aristide Sartorio",
+  "artist": "Artist: Giulio Aristide Sartorio",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp",
   "life_date": "Italian, 1860 - 1932",
-  "marks": "Stamp ",
+  "markings": "Estate stamp, verso",
   "medium": "Charcoal and black chalk on wove ivory paper",
   "nationality": "Italian",
   "provenance": "A.L. Sartorio (the artist's son)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Illustration for the Book of Revelation (?)"

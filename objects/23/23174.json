@@ -1,6 +1,7 @@
 {
   "accession_number": "82.20",
-  "artist": "Winifred Dickinson",
+  "artist": "Artist: Winifred Dickinson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1905",
-  "marks": "Signature LL: [W. Dickinson]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [W. Dickinson]",
   "style": "20th century",
   "text": "",
   "title": "Seascape"

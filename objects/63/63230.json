@@ -1,6 +1,7 @@
 {
   "accession_number": "17.205.36",
-  "artist": "Utagawa Hiroshige; Published by Takenouchi Magohachi; Carved by Jirobei; Printed by Heibei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Takenouchi Magohachi; Carver: Carved by Jirobei; Printer: Printed by Heibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Francis W.Little",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1835,
   "image_width": 2812,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Publisher:Takenouchi\r\nCarver:Jirobei (Horiko_ Jirobei)\r\nPrinter:Heibe_(Surishi Heibe_)\r\nabove two written on the sign boards hung inside the inn, not sealed",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Women Soliciating Travelers, Goyu"

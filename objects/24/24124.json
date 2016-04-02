@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.9",
-  "artist": "Stanford Fenelle",
+  "artist": "Artist: Stanford Fenelle",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3525,
   "image_width": 4789,
+  "inscription": "Signature",
   "life_date": "American, born 1909",
-  "marks": "Signature LR in pencil",
+  "markings": "",
   "medium": "Watercolor and gouache",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in pencil",
   "style": "20th century",
   "text": "",
   "title": "Chanhassen"

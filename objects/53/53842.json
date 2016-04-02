@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.168.2",
-  "artist": "Lee Krasner; Published by Marlborough Graphics, New York",
+  "artist": "Artist: Lee Krasner; Publisher: Published by Marlborough Graphics, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from Robert Staub",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1908 - 1984",
-  "marks": "Signature; Edition; Inscription; Mark\r\n\r\nsee Signe in pencil: [Lee Krasner]",
+  "inscription": "Signature; Edition; Inscription; Mark\r\n\r\nsee Signed\r\n\r\n[E.S]",
+  "life_date": "New York",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Martin S. Ackerman Foundation, New York (agent): given to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Lee Krasner]",
   "style": "20th century",
   "text": "",
   "title": "Gold Stone, from \"Primary Series\""

@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.55",
-  "artist": "Jacopo Zucchi",
+  "artist": "Artist: Jacopo Zucchi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3883,
   "image_width": 4489,
+  "inscription": "",
   "life_date": "Italian, c. 1541-1590",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and brown ink wash over black chalk on laid paper",
   "nationality": "Italian",
   "provenance": "Sale, Sotheby's, London, December 14, 1992, no. 163, for £990, to Ormond]; [Flavia Ormond, London, until 1993; sold, July 11, for £2500, to Moir]; Alfred Moir, Santa Barbara (1993-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Putti with the Arms of Pope Leo X"

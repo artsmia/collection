@@ -1,6 +1,7 @@
 {
   "accession_number": "95.113.10",
-  "artist": "Greg Kelsey",
+  "artist": "Artist: Greg Kelsey",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Gostovich and Celeste Koeberl",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Signature; Date\r\n\r\n[INV#/D-90-3/\\'two clouds\\'/charcoal]",
   "life_date": "American, 1951-1991",
-  "marks": "Inscription; Signature; Date\r\n\r\n[INV#/D-90-3/\\'two  In graphite, verso: [Greg Kelsey 1989-90]",
+  "markings": "",
   "medium": "Charcoal and fixative",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, verso: [Greg Kelsey 1989-90]",
   "style": "20th century",
   "text": "",
   "title": "Two Clouds"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.40",
-  "artist": "Francisco Jose de Goya y Lucientes",
+  "artist": "Artist: Francisco Jose de Goya y Lucientes",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Spanish, 1746-1828",
-  "marks": "Signature in plate lower left",
+  "markings": "12",
   "medium": "Etching and aquatint",
   "nationality": "Spanish",
   "provenance": "P. and D. Colnaghi",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate lower left",
   "style": "19th century",
   "text": "",
   "title": "They Can Still Be Of Use"

@@ -1,6 +1,7 @@
 {
   "accession_number": "72.63.2",
-  "artist": "Edwin H. Lundie",
+  "artist": "Artist: Edwin H. Lundie",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Charles H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3335,
   "image_width": 4456,
+  "inscription": "Signature; Date",
   "life_date": "American, 1886 - 1979",
-  "marks": "Signature; Date LR: [Lundie 52]",
+  "markings": "",
   "medium": "Graphite drawing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Lundie 52]",
   "style": "20th century",
   "text": "",
   "title": "Bell House, 1952"

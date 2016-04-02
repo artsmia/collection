@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.14",
-  "artist": "Squeak Carnwath",
+  "artist": "Artist: Squeak Carnwath",
+  "classification": "Drawings",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Inscription\r\n\r\nsee Signed\r\n\r\nInscribed as part of design: [HOT / WATER]",
   "life_date": "American, born 1947",
-  "marks": "Signature, Date, Inscription\r\n\r\nsee Signed\r\n\r\nInsc Signed in black ink, LR: [s. CARNWATH \\'82]",
+  "markings": "",
   "medium": "Oil and acyrylic on paper",
   "nationality": null,
   "provenance": "Target Corporation (formerly Dayton Hudson Corp.), Minneapolis, Aug. 1983; their gift to MIA, 2001",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in black ink, LR: [s. CARNWATH \\'82]",
   "style": "20th century",
   "text": "",
   "title": "Hot Water"

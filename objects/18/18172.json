@@ -1,6 +1,7 @@
 {
   "accession_number": "55.13",
-  "artist": "John B. Flannagan",
+  "artist": "Artist: John B. Flannagan",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1895-1942",
-  "marks": " ",
+  "markings": "",
   "medium": "Granite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Nude, Standing Female"

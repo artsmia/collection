@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.213a,b",
-  "artist": "Sigmund Schutz; Staatliche Porzellan Manufaktur",
+  "artist": "Designer: Sigmund Schutz; Manufacturer: Staatliche Porzellan Manufaktur",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3355,
   "image_width": 4330,
+  "inscription": "",
   "life_date": "German, born 1906",
-  "marks": " ",
+  "markings": "",
   "medium": "Porcelain, gilded brass",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Teapot"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,523b",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1925",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4684,
   "image_width": 3283,
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Great Triumphal Car"

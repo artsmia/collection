@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.23.13",
-  "artist": "Joe Zucker",
+  "artist": "Artist: Joe Zucker",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1941",
-  "marks": "Signature\r\n\r\nsee Signed on verso",
+  "markings": "",
   "medium": "Rubber stamp",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on verso",
   "style": "20th century",
   "text": "",
   "title": "The Relocation of Property by Natural Forces"

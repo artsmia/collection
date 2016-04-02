@@ -1,6 +1,7 @@
 {
   "accession_number": "98.208.2",
-  "artist": "Walter Shirlaw",
+  "artist": "Artist: Walter Shirlaw",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1838 - 1909",
-  "marks": "Signature LR [Shirlaw]",
+  "markings": "",
   "medium": "Charcoal and pastela",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR [Shirlaw]",
   "style": "19th century",
   "text": "",
   "title": "Study for 'Pearl'"

@@ -1,6 +1,7 @@
 {
   "accession_number": "72.51",
-  "artist": "Dennis Flynn",
+  "artist": "Artist: Dennis Flynn",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4176,
   "image_width": 3293,
+  "inscription": "Signature",
   "life_date": "American, born 1942",
-  "marks": "Signature signed on back",
+  "markings": "",
   "medium": "Hemacrylic (beef blood and acrylic emulsion) on rice paper",
   "nationality": "American",
   "provenance": "[118 Gallery, Minneapolis]; sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on back",
   "style": "20th century",
   "text": "",
   "title": "Knee Study"

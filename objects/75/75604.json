@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,206",
-  "artist": "Text by Giovanni Battista Ferrari",
+  "artist": "Author: Text by Giovanni Battista Ferrari",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4462,
   "image_width": 3101,
+  "inscription": "",
   "life_date": "Italian, 1584 - 1655",
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Color engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Aurantium Virgatum, from Hesperides"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.206",
-  "artist": "Utagawa Kuniyoshi; Published by Ebisu",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Ebisu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2702,
   "image_width": 1856,
+  "inscription": "At edge: [43] (number of the piece in the series);\r\nAtsutada\\'s poem (followed by explanation):\r\n(Compared with the feeling\r\nAfter I actually saw you\r\nMy adoration for you\r\nAt the time before that\r\nSeems nothing to me)\r\n{Ai mite no\r\nNochi no kokoro ni\r\nKurabure ba\r\nMukashi wa mono wo \r\nOmowa zari keri}",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "At edge: [43] (number of the piece in the series); {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Publisher: Ebisu; URC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Illustration of the Gonchūnagon Atsutada's Poem"

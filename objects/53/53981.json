@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.8.1",
-  "artist": "Brice Marden; Published by Crown Point Press, San Francisco",
+  "artist": "Artist: Brice Marden; Publisher: Published by Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© Brice Marden %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "American, born 1938",
-  "marks": "Mark ",
+  "markings": "Watermark:  <Arches>",
   "medium": "Letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Title page to the portfolio \"Ten Days\""

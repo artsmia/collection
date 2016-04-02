@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,519",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3690,
   "image_width": 5182,
+  "inscription": "UL recto, in pencil: [7-71/4 X 8 1/4]\r\nLR printed in plate: [Imp. Delatre. Rue St. Jacques. 171.]\r\nLL recto, in pencil: [W.6. 1859.]\r\nCenter recto across bottom of sheet, cursive in pencil: [En plein Soleil.]\r\nCenter verso, in pencil: [71640]\r\nLL verso, in pencil: [Z]\r\nLR verso, in pencil: [371]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "UL recto, in pencil: [7-71/4 X 8 1/4]\r\nLR printed  Printed signature LL (diagonally) in the plate: [W",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, OR), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LL (diagonally) in the plate: [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "En plein Soleil from \"Twelve Etchings from Nature\""

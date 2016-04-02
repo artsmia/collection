@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.9",
-  "artist": "Steven Beyer",
+  "artist": "Artist: Steven Beyer",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1333,
   "image_width": 3800,
+  "inscription": "Signature; Date; Edition; Chop mark",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Edition; Chop mark Signed, dated in pencil, LR: [Steven Beyer 78]\r\nLL",
+  "markings": "LL: VEL chop mark",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [Steven Beyer 78]\r\nLL: [A.P. 2/8]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

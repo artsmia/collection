@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.7",
-  "artist": "Style of Yamamoto Jakurin",
+  "artist": "Artist: Style of Yamamoto Jakurin",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3732,
   "image_width": 1548,
+  "inscription": "Inscription and mark\r\ninscription in black, UL",
   "life_date": "1721 - 1801",
-  "marks": "Inscription and mark\r\ninscription in black, UL ",
+  "markings": "five seals in red, upper portion",
   "medium": "Ink and colors on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tiger Crossing a Stream"

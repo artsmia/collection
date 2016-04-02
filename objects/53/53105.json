@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,595",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2835,
   "image_width": 4452,
+  "inscription": "LL verso, in pencil: [Z]; [202]; [Whistler \\\"Lobster-Pots\\\" W.174 K235 iii/iii One of \\\"26 Etchings\\\"]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [Z]; [202]; [Whistler \\\"Lobste LL recto, in pencil: sheet trimmed leaving a tab f",
+  "markings": "LR printed in plate: [Selsea Bill] and [(butterfly symbol)]\r\n",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL recto, in pencil: sheet trimmed leaving a tab for Whistler\\'s butterfly monogram and [imp.]",
   "style": "19th century",
   "text": "",
   "title": "Lobster-Pots from \"The Second Venice Set\""

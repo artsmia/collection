@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,404",
-  "artist": "Norbert Goeneutte",
+  "artist": "Artist: Norbert Goeneutte",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Mr. and Mrs. Edward A. Foster, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Publisher\\'s Chop",
   "life_date": "French 1854-1894",
-  "marks": "Signature; Edition; Publisher\\'s Chop Initialed in blue crayon, lower left: [n.g.]",
+  "markings": "L\\'Estampe Originale blind stamp, lower right",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "Edward A. Foster, Minneapolis; his gift to MIA, 1965",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed in blue crayon, lower left: [n.g.]",
   "style": "19th century",
   "text": "",
   "title": "Femme vue de face"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.11",
-  "artist": "Jean-Baptiste Massard; after Jean-Baptiste Greuze",
+  "artist": "Artist: Jean-Baptiste Massard; Artist: after Jean-Baptiste Greuze",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1740 - 1822",
-  "marks": "Marks ",
+  "inscription": "Marks",
+  "life_date": "French, 1725–1805",
+  "markings": "Watermark: illegible\r\nCollector\\'s marks: verso BC (Lugt 348, unidentified)",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "La Dame Bientaisante"

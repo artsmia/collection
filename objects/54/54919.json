@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.31",
-  "artist": "Cornelis Dusart",
+  "artist": "Artist: Cornelis Dusart",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Kenneth R. Smith Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3609,
   "image_width": 3266,
+  "inscription": "Signature and Inscription\r\n[$400]\r\n\r\n(See signed)",
   "life_date": "Dutch, 1660 - 1704",
-  "marks": "Signature and Inscription\r\n[$400]\r\n\r\n(See signed) Pencil on mat",
+  "markings": "",
   "medium": "Etching and roulette",
   "nationality": "Dutch",
   "provenance": "David Tunick",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Pencil on mat",
   "style": "17th century",
   "text": "",
   "title": "The Violin Player"

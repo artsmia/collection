@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.42",
-  "artist": "Eugene James Tilly; after William Shayer Sr.; Frost and Reed, Ltd., Bristol, England",
+  "artist": "Artist: Eugene James Tilly; Artist: after William Shayer Sr.; Publisher: Frost and Reed, Ltd., Bristol, England",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Helen Sturm",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1870",
-  "marks": "Signature in pencil: [Eugene Tilly]",
+  "markings": "chop: printsellers asso. DWBL",
   "medium": "Mezzotint engraving printed in color",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Eugene Tilly]",
   "style": "20th century",
   "text": "",
   "title": "Leaving for Market"

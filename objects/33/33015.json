@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.160.25.1-9",
-  "artist": "Steven Beyer",
+  "artist": "Artist: Steven Beyer",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Steven M. Andersen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3832,
   "image_width": 2477,
+  "inscription": "All have a signature, date and chop mark",
   "life_date": "American, born 1951",
-  "marks": "All have a signature, date and chop mark LR: [Beyer 81], in graphite",
+  "markings": "LM: VEL chop",
   "medium": "Lithographs with etching and monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Beyer 81], in graphite",
   "style": "20th century",
   "text": "",
   "title": "Studies for \"Dissolution\""

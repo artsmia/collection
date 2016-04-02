@@ -1,6 +1,7 @@
 {
   "accession_number": "99.230.4",
-  "artist": "Sigismund Blumann and Alice Lappé",
+  "artist": "Photographer: Sigismund Blumann and Alice Lappé",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. Donald and Alice Lappé",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Label; Sticker; Inscription",
   "life_date": "American, 1872 - 1956",
-  "marks": "Signature; Label; Sticker; Inscription ",
+  "markings": "\\'Sigismund Blumann\\', in pencil, on mount below LR corner of image; typewritten label, pasted to LR corner of mount; photographer\\'s sticker, on back of mount; \\'M020 (Self-portrait?)\\', in pencil, UL corner of mount on back",
   "medium": "gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vespers"

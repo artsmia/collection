@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.279.8",
-  "artist": "Maw &amp; Company, Ltd.",
+  "artist": "Manufacturer: Maw &amp; Company, Ltd.",
+  "classification": "Ceramics",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Christopher Monkhouse in honor of Cori and Paul Wegener",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3460,
   "image_width": 3472,
+  "inscription": "",
   "life_date": "Shropshire, England",
-  "marks": " ",
+  "markings": "\\\"MAW & CO LD/FLOREAI/MAW/SALOPIA [in a circle]/JACKFIELD/SALOP\\\", stamped, on back",
   "medium": "Glazed earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile with acanthus leaf design"

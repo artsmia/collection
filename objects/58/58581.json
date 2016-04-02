@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.8",
-  "artist": "Philip J. Barber; Michael Reid; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Philip J. Barber; Artist: Michael Reid; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3038,
   "image_width": 3858,
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1951",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [P. Barber \\'82]\r\nLL: [Michael Reid]\r\nLC: [a.p.",
+  "markings": "LR: VEL chop mark",
   "medium": "Color lithograph, screenprint, soft-ground etching, sugar-lift etching, and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [P. Barber \\'82]\r\nLL: [Michael Reid]\r\nLC: [a.p. 1/6]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Either or (Both)"

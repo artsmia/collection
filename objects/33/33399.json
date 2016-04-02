@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.32",
-  "artist": "Attributed to Pietro Antonio de' Pietri",
+  "artist": "Artist: Attributed to Pietro Antonio de' Pietri",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nLLC, in brown: [tintorettino (?)]\r\non verso, in pen and brown ink: [V. Villareale]; in pencil, in Scarpa\\'s hand: [Andrea Sacchi / pp. ax]\r\n",
   "life_date": "Italian (Rome), 1663 - 1716",
-  "marks": "Inscription\r\n\r\nLLC, in brown: [tintorettino (?)]\r\n ",
+  "markings": "",
   "medium": "Pen and brown ink and wash on laid paper",
   "nationality": "Italian",
   "provenance": "[Pietro Scarpa, Venice, until 1985; sold, September 28, as by Andrea Sacchi, for $3,200, to Moir]; Alfred Moir, Santa Barbara (1985-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Michelangelo Presenting the Moses of the Tomb of Pope Julius II to Pope Paul III"

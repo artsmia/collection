@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.83.3",
-  "artist": "Shusaku Arakawa",
+  "artist": "Artist: Shusaku Arakawa",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Marks\r\nTEDS\r\n",
   "life_date": "American (born Japan) 1936-2010",
-  "marks": "Inscription; Marks\r\nTEDS\r\n ",
+  "markings": "Watermark: <Arches/France>; Chop: PB",
   "medium": "Seven-color etching and aquatint",
   "nationality": "American (born Japan)",
   "provenance": "Multiples, Inc.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Signified Or If"

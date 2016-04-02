@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.24.9",
-  "artist": "Jane Starosciak",
+  "artist": "Artist: Jane Starosciak",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\n\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature; Date\r\n\r\nsee Signed on print in silver ink at LR: [JS\\'76]",
+  "markings": "",
   "medium": "Graphic Arts Film",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on print in silver ink at LR: [JS\\'76]",
   "style": "20th century",
   "text": "",
   "title": "Hiatus"

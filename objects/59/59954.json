@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.62",
-  "artist": "Henry Pearson",
+  "artist": "Artist: Henry Pearson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1914-2006",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Color etching",
   "nationality": "American",
   "provenance": "[AAA, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Yengongora II"

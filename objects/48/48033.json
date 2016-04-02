@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.123",
-  "artist": "Attributed to Jacob Lucius der Altere",
+  "artist": "Artist: Attributed to Jacob Lucius der Altere",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3513,
   "image_width": 2858,
+  "inscription": "",
   "life_date": "German",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Adam and Eve"

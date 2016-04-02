@@ -1,6 +1,7 @@
 {
   "accession_number": "99.241.4",
-  "artist": "Lester Johnson",
+  "artist": "Artist: Lester Johnson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2032,
   "image_width": 3056,
+  "inscription": "Signature",
   "life_date": "American, 1919 - 2010",
-  "marks": "Signature LR: [Lester Johnson]",
+  "markings": "",
   "medium": "Acrylic and pastel",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Lester Johnson]",
   "style": "20th century",
   "text": "",
   "title": "Untitled [figural group]"

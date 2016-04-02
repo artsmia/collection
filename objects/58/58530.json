@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.12.10",
-  "artist": "Nicholas Africano; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Nicholas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 2830,
   "image_width": 3787,
+  "inscription": "Signed, dated, inscribed, and chop mark",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, inscribed, and chop mark LR: [Nicholas Africano 1986]\r\nPrinted inscription,",
+  "markings": "LL: VEL chop mark",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nicholas Africano 1986]\r\nPrinted inscription, UC: [The marriage]",
   "style": "20th century",
   "text": "",
   "title": "The Marriage"

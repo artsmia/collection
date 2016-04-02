@@ -1,6 +1,7 @@
 {
   "accession_number": "56.25.5.1",
   "artist": "",
+  "classification": "Ceramics",
   "continent": null,
   "country": null,
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3103,
   "image_width": 5147,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Vase"

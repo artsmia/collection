@@ -1,6 +1,7 @@
 {
   "accession_number": "93.82.1",
-  "artist": "Peggy Bacon",
+  "artist": "Artist: Peggy Bacon",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard Lewis Hillstrom in honor of Stephen R. Nelson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4620,
   "image_width": 3595,
+  "inscription": "Signature",
   "life_date": "American, 1895-1987",
-  "marks": "Signature LR: [Peggy Bacon]",
+  "markings": "",
   "medium": "Chalk pastel on pale gray paper",
   "nationality": "American",
   "provenance": "[Parke-Bernet Galleries, New York]; [Kraushaar Galleries, New York, until 1970 (sold to Hillstrom)]; Rev. Richard Lewis Hillstrom, St. Paul, 1970-93; given to MIA, 1993.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G316",
+  "signed": "LR: [Peggy Bacon]",
   "style": "20th century",
   "text": "",
   "title": "Finishing Touches"

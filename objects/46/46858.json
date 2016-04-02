@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.139.3.1",
-  "artist": "Jin Junming",
+  "artist": "Artist: Jin Junming",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Chop",
   "life_date": "Chinese, 1602 - 75",
-  "marks": "Chop ",
+  "markings": "four untranslated red chops: one at end of L column, two at end of third column from L edge and one at upper R edge",
   "medium": "Ink on paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Leaves from the Album \"Three Friends of Winter\""

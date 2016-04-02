@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.28.1",
-  "artist": "Thomas Hart Benton; Published by Associated American Artists, New York",
+  "artist": "Artist: Thomas Hart Benton; Publisher: Published by Associated American Artists, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 3486,
   "image_width": 4277,
+  "inscription": "Signature",
   "life_date": "American, 1889–1975",
-  "marks": "Signature In pencil, LR: Benton",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "John and Myrtle Coe, Bloomington, Minn., until 1998; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G315",
+  "signed": "In pencil, LR: Benton",
   "style": "20th century",
   "text": "",
   "title": "The Music Lesson"

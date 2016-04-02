@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.155.10",
-  "artist": "Utagawa Hiroshige; Takenouchi Magohachi; Tsuruya Kiemon",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Takenouchi Magohachi; Publisher: Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Censor:kiwame\r\nPublisher:Ho_eido_ ,Senkakudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Footpath between Rice Paddies, Hiratsuka"

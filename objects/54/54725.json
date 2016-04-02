@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.64",
-  "artist": "Oskar Kokoschka",
+  "artist": "Artist: Oskar Kokoschka",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Mrs. Carl W. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 9780,
   "image_width": 6659,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": "Signature in pencil: [O. Kokoschka]",
+  "inscription": "Signature",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "stamp on verso",
   "medium": "Lithograph",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [O. Kokoschka]",
   "style": "20th century",
   "text": "",
   "title": "The Concert III"

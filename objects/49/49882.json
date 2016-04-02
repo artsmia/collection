@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,520.1-2",
-  "artist": "Unknown Swiss, 16th century",
+  "artist": "Artist: Unknown Swiss, 16th century",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Gardner Teall, 1917",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Two pages from Munster's Cosmographia-Universalis"

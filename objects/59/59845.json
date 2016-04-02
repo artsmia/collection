@@ -1,6 +1,7 @@
 {
   "accession_number": "B.74.1",
-  "artist": "Pablo Picasso; Text attributed to Fernando de Rojas; Published by Editions de l'Atelier Crommelynck, Paris, France; Printed by Fequet et Baudier, Paris, France (text and typography); Printed by Atelier Crommelynck, Paris, France (etchings)",
+  "artist": "Artist: Pablo Picasso; Author: Text attributed to Fernando de Rojas; Publisher: Published by Editions de l'Atelier Crommelynck, Paris, France; Printer: Printed by Fequet et Baudier, Paris, France (text and typography); Printer: Printed by Atelier Crommelynck, Paris, France (etchings)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Bruce B. Dayton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 2787,
   "image_width": 4655,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "Watermark: <LA CELESTINE>",
   "medium": "Etchings, aquatints, letterpress",
   "nationality": "Spanish",
   "provenance": "(M. Knoedler & Co., New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La Celestine (Carlota Valdivia)"

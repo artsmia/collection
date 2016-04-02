@@ -1,6 +1,7 @@
 {
   "accession_number": "70.19.1",
-  "artist": "attributed to Ventura Salimbeni",
+  "artist": "Artist: attributed to Ventura Salimbeni",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Dr. Alfred Bader",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8745,
   "image_width": 6694,
+  "inscription": "",
   "life_date": "Italian (Siena), 1568 - 1613",
-  "marks": " ",
+  "markings": "Markings on frame (likely from another painting)\r\n[Tintoretto - 3960]\r\n[OG47.151 MIA to Rothschilds]\r\ncustoms stamp: [M Ja 266-2e]",
   "medium": "Oil on canvas",
   "nationality": "Italian (Siena)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Flight into Egypt"

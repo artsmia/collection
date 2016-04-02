@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.234.2",
-  "artist": "Jackson Lee Nesbitt",
+  "artist": "Artist: Jackson Lee Nesbitt",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1940,
   "image_width": 2460,
+  "inscription": "Signature, Title, Edition and Chop",
   "life_date": "American, born 1913",
-  "marks": "Signature, Title, Edition and Chop LRC below image in pencil: [Jackson Lee Nesbitt]; ",
+  "markings": "To right of title in pencil: [117/250]; below image, between edition and signature, two chopmarks\r\n",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC below image in pencil: [Jackson Lee Nesbitt]; LLC below image in pencil: [\\\"THE MATTHEW W. JOHNSTON FAMILY\\\"]",
   "style": "20th century",
   "text": "",
   "title": "The Matthew W. Johnston Family"

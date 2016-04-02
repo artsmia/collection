@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.15",
-  "artist": "Robert Motherwell; Published by the artist and Brooke Alexander Editions, New York",
+  "artist": "Artist: Robert Motherwell; Publisher: Published by the artist and Brooke Alexander Editions, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 4569,
   "image_width": 3707,
+  "inscription": "Signature; Mark",
   "life_date": "American, 1915-1991",
-  "marks": "Signature; Mark Signed in pencil, UR: [RM]",
+  "markings": "Watermark",
   "medium": "Brushed aquatint in black ink with color photo-offset collage \r\n",
   "nationality": "American",
   "provenance": "(Brooke Alexander, Inc., New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, UR: [RM]",
   "style": "20th century",
   "text": "",
   "title": "Roth-Händle"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.128.2",
-  "artist": "Howard Hodgkin",
+  "artist": "Artist: Howard Hodgkin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition",
   "life_date": "British, born 1932",
-  "marks": "Signature, Edition Signed w/ initials in yellow crayon, LC: [HH]",
+  "markings": "",
   "medium": "Soft-ground etching with hand coloring in black oil crayon",
   "nationality": "British",
   "provenance": "[Petersburg Press, London and New York]; sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed w/ initials in yellow crayon, LC: [HH]",
   "style": "20th century",
   "text": "",
   "title": "Cardo's Bar (Black)"

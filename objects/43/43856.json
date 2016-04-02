@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.15",
-  "artist": "Eugene Larkin",
+  "artist": "Artist: Eugene Larkin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Cat.card:  Gift of the Development Department\r\nTransfer from Development",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title\r\n\r\nIn pencil, LL:  Cabbages and peppers 2\r\n",
   "life_date": "American, 1921 - 2010",
-  "marks": "Signature, Title\r\n\r\nIn pencil, LL:  Cabbages and p In pencil, LR:  Larkin 200",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, LR:  Larkin 200",
   "style": "20th century",
   "text": "",
   "title": "Cabbages and Peppers 2"

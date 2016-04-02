@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.221",
-  "artist": "Nicolaus Mair von Landshut",
+  "artist": "Artist: Nicolaus Mair von Landshut",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, active c. 1485/90 - 1510/ died 1520",
-  "marks": "Mark ",
+  "markings": "Watermark: coat-of-arms",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "The Adoration of the Magi"

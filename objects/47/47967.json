@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.226",
-  "artist": "Israhel van Meckenem",
+  "artist": "Artist: Israhel van Meckenem",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, c. 1445-1503",
-  "marks": "Mark ",
+  "markings": "Watermark: Gothic \\\"Y\\\" with a cross, close to Briquet 9183",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "Paul J. Sachs, L. 2091",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "This engraving is the third plate in the Passion series. Christ is led before the high priest Annas by Malchus. At the left, Saint Peter is recognized as a disciple of Christ by a maidservant and is seized by a soldier. In a rear room to the left, Christ is blindfolded and mocked.",
   "title": "Christ Before Annas"

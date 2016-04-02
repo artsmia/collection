@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.161",
-  "artist": "Torii Kiyomasu ll; Published by Igaya Kan'emon",
+  "artist": "Artist: Torii Kiyomasu ll; Publisher: Published by Igaya Kan'emon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2973,
   "image_width": 1486,
+  "inscription": "two poems (waka)\r\nright:death poem of Emperor Yozei\r\nleft:returning poem from Kmomachi\r\n\r\nthe returning poem supposed to be a bad poem being too similar to the Emperor\\'s poem, that made this episode \\\"Komach as Parrot\\\" believed showing the poor creativity in her old age",
   "life_date": "Japanese, 1706 - 1763",
-  "marks": "two poems (waka)\r\nright:death poem of Emperor Yoze {Eshi Torii Kiyomasu hitsu}",
+  "markings": "Publisher: Motohamacho Igaya ban",
   "medium": "Woodblock print (beni-e); ink and limited color on paper, with hand-applied color",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eshi Torii Kiyomasu hitsu}",
   "style": "18th century",
   "text": "",
   "title": "Six"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,862",
-  "artist": "August Roth; Published by Gesellschaft fur vervielfaltigende Kunst, Vienna",
+  "artist": "Artist: August Roth; Publisher: Published by Gesellschaft fur vervielfaltigende Kunst, Vienna",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Purchase:1922",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Austrian, born 1864",
-  "marks": " on stone: A. Roth",
+  "markings": "",
   "medium": "Lithograph, coated wove",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on stone: A. Roth",
   "style": "20th century",
   "text": "",
   "title": "Amazonenschlacht"

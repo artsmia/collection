@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,237",
-  "artist": "Mary Nimmo Moran; Cassell &amp; Co., Ltd.",
+  "artist": "Artist: Mary Nimmo Moran; Publisher: Cassell &amp; Co., Ltd.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "1841 - 1899",
-  "marks": " On print",
+  "inscription": "",
+  "life_date": "NY, London, Paris",
+  "markings": "",
   "medium": "Roulette, mezzotint, and sandpaper in sepia ink on chine collé.",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On print",
   "style": "19th century",
   "text": "",
   "title": "'Tween the Gloamin and the Mirk, When the Kye Come Hame"

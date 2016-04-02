@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.47",
-  "artist": "Matsukawa Hanzan",
+  "artist": "Artist: Matsukawa Hanzan",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3463,
   "image_width": 2279,
+  "inscription": "5 haiku poems",
   "life_date": "Japanese, 1818 - 1882",
-  "marks": "5 haiku poems O_ju Suiei",
+  "markings": "\\\"Gikyo_\\\" seal in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "O_ju Suiei",
   "style": "19th century",
   "text": "",
   "title": "(Spectator at a window)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,807",
-  "artist": "Félix Bracquemond",
+  "artist": "Artist: Félix Bracquemond",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Willam M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1833 - 1914",
-  "marks": "Signature in ink and in plate upper left",
+  "markings": "",
   "medium": "Heliogravure and etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in ink and in plate upper left",
   "style": "19th century",
   "text": "",
   "title": "Edmond de Goncourt"

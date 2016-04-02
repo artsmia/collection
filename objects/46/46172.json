@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.10",
-  "artist": "Jacob Groh; after Michelangelo",
+  "artist": "Artist: Jacob Groh; Artist: after Michelangelo",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "Austrian, 1855 - 1917",
-  "marks": "Signature; Mark on sheet",
+  "markings": "Watermark: <NS>",
   "medium": "Etching",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "19th century",
   "text": "",
   "title": "Madonna and Child"

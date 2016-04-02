@@ -1,6 +1,7 @@
 {
   "accession_number": "48.9",
-  "artist": "John T. Wynne",
+  "artist": "Artist: John T. Wynne",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "born 1921",
-  "marks": "Signature and Date LR: [John T. Wynne, August, 1948]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [John T. Wynne, August, 1948]",
   "style": "20th century",
   "text": "",
   "title": "Still Life"

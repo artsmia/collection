@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.224.7",
-  "artist": "Lucio Fontana; Text by Guido Ballo; Introduction by Luciano Cherchi; Published by Galleria Schwarz, Milan; Giorgio Upiglio , Milan",
+  "artist": "Artist: Lucio Fontana; Author: Text by Guido Ballo; Author: Introduction by Luciano Cherchi; Publisher: Published by Galleria Schwarz, Milan; Printer: Giorgio Upiglio , Milan",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Gordon Locksley and George Shea",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1899 - 1968",
-  "marks": "Signature; Edition; Watermark\r\n\r\nsee Signed\r\n\r\nNum Signed in pencil on colophon page: [Guido Ballo]",
+  "inscription": "Signature; Edition; Watermark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil on colophon page: [21]",
+  "life_date": "Italian, 1914 - 2010",
+  "markings": "WM",
   "medium": "Color etching and aquatint",
   "nationality": "Italian",
   "provenance": "Gordon Locksley and George Shea, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil on colophon page: [Guido Ballo]",
   "style": "20th century",
   "text": "",
   "title": "Untitled, plate from L'Albero Poeta"

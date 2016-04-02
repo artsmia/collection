@@ -1,6 +1,7 @@
 {
   "accession_number": "P.516",
-  "artist": "Raphael Morghen; after Hugo Kaufmann",
+  "artist": "Artist: Raphael Morghen; Artist: after Hugo Kaufmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1758 - 1838",
-  "marks": "Signature Name on plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Name on plate",
   "style": "18th century",
   "text": "",
   "title": "Volpato, the Famous Engraver"

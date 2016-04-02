@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.2",
-  "artist": "Willem Janszoon Blaeu",
+  "artist": "Artist: Willem Janszoon Blaeu",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1571-1638",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Map of Ireland (Hibernia Regnum Vulgo Ireland)"

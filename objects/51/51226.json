@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,814",
-  "artist": "James Tissot",
+  "artist": "Artist: James Tissot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, marks and stamp",
   "life_date": "French, 1836-1902",
-  "marks": "Signature, marks and stamp signed on mat and in print",
+  "markings": "collector\\'s marks on mat; stamp: [Lugt 1545]",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on mat and in print",
   "style": "19th century",
   "text": "",
   "title": "An Uninteresting Story"

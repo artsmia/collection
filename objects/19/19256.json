@@ -1,6 +1,7 @@
 {
   "accession_number": "66.57",
-  "artist": "Cameron Booth",
+  "artist": "Artist: Cameron Booth",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. Cameron Booth",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4808,
   "image_width": 5936,
+  "inscription": "Signature and inscription UL: [To my friend Charles Wells Cameron Booth]",
   "life_date": "American, 1892 - 1980",
-  "marks": "Signature and inscription UL: [To my friend Charle Dated UR: [1925] (see inscription for signature in",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Dated UR: [1925] (see inscription for signature information)",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Charles S. Wells"

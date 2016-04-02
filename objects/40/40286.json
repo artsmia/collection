@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.269",
-  "artist": "Nicholas Kopp; Kopp Glass, Inc.",
+  "artist": "Designer: Nicholas Kopp; Maker: Kopp Glass, Inc.",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3732,
   "image_width": 3168,
+  "inscription": "",
   "life_date": "American, dates unknown",
-  "marks": " ",
+  "markings": "",
   "medium": "Molded glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Vase"

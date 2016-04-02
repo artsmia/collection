@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,897",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4855,
   "image_width": 3456,
-  "life_date": "German, 1471 - 1528",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1471–1528",
+  "markings": "Watermark: Triangle with Flower (Meder 127)",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Rest During Flight to Egypt"

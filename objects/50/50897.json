@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,468",
-  "artist": "Mr. H. Lindley Hosford",
+  "artist": "Artist: Mr. H. Lindley Hosford",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist, 1925",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1877 - 1935",
-  "marks": "Signature\r\n\r\nsee Signed in pencil on margin",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on margin",
   "style": "20th century",
   "text": "",
   "title": "Cleveland Harbor"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.51",
-  "artist": "Barthélemy-Joseph Fulcran Roger; after Pierre-Paul Prud'hon; l'Inprimene de Dien",
+  "artist": "Artist: Barthélemy-Joseph Fulcran Roger; Artist: after Pierre-Paul Prud'hon; Publisher: l'Inprimene de Dien",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Harold P. Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1767 - 1841",
-  "marks": "Inscription\r\n\r\nin plate ",
+  "inscription": "Inscription\r\n\r\nin plate",
+  "life_date": "French, 1758–1823",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Naufrage de Virginie"

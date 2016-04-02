@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.1",
-  "artist": "Palle Nielsen",
+  "artist": "Artist: Palle Nielsen",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Denmark",
   "creditline": "Gift of the First Bank System",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\n\r\nsee Signed\r\n\r\nLL, in pencil: [5/5 Eget tryk (Artist prief)]\r\nLR: [PN/76]\r\n",
   "life_date": "Danish, born 1920",
-  "marks": "Signature; Date; Inscription\r\n\r\nsee Signed\r\n\r\nLL,  in pencil, lower right",
+  "markings": "",
   "medium": "Linocut",
   "nationality": "Danish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, lower right",
   "style": "20th century",
   "text": "",
   "title": "From Orpheus and Eurydice III"

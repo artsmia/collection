@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.160",
-  "artist": "Kitagawa Saigyo",
+  "artist": "Artist: Kitagawa Saigyo",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3718,
   "image_width": 4733,
+  "inscription": "34 haiku poems about spring",
   "life_date": "Japanese, born 1813",
-  "marks": "34 haiku poems about spring Saigyo",
+  "markings": "\\\"Saigyo\\\" seal\r\n\\\"Hitoto i shun\\'o_(spring of the year of Boar)\\\" UR",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saigyo",
   "style": "19th century",
   "text": "",
   "title": "(Rainbow)"

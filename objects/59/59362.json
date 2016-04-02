@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,137",
-  "artist": "Thomas Moran",
+  "artist": "Artist: Thomas Moran",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. George A. Goddard",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1837 - 1926",
-  "marks": " Initials in plate, lower left",
+  "markings": "",
   "medium": "Etching with roulette, sandpaper ground, drypoint, and retroussage",
   "nationality": "American",
   "provenance": "Mr. and Mrs. George A. Goddard, Boston",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initials in plate, lower left",
   "style": "19th century",
   "text": "",
   "title": "Twilight in Arizona"

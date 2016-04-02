@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.102.4",
-  "artist": "Barbara Tetenbaum et al.; Text by Bill Holm; Published by Minnesota Center for Book Arts, Minneapolis",
+  "artist": "Artist: Barbara Tetenbaum et al.; Author: Text by Bill Holm; Publisher: Published by Minnesota Center for Book Arts, Minneapolis",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Harold Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 20th century",
-  "marks": " each print signed by the artist",
+  "markings": "",
   "medium": "Mixed media, letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "each print signed by the artist",
   "style": "20th century",
   "text": "",
   "title": "Playing Haydn for the Angel of Death"

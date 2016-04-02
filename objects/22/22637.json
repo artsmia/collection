@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.188",
-  "artist": "Utagawa Hiroshige; Kawaguchiya Shōzō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Kawaguchiya Shōzō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Publisher:Kawaguchiya Sho_zo_; LLC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Dawn at Emonzaka Hill in Nihon-zutsumi Bank, Shin-Yoshiwara"

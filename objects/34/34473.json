@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.107",
-  "artist": "Charles Biederman",
+  "artist": "Artist: Charles Biederman",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Anna Biederman Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "© Copyright Charles Biederman",
   "image_height": 4308,
   "image_width": 5848,
-  "life_date": "American, 1906 - 2004",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1906–2004",
+  "markings": "",
   "medium": "Painted metal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "#26, Red Wing, 1956-68"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,542",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "F.S. Winston Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature and Inscription\r\nLL: [Selbst Vorlage-Dru LR: [Beckmann]",
+  "inscription": "Signature and Inscription\r\nLL: [Selbst Vorlage-Druck]",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "van Gelder",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Small Self-Portrait"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.275",
-  "artist": "L. Mesnil",
+  "artist": "Artist: L. Mesnil",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Marks; Inscription\r\nsee Signed",
   "life_date": null,
-  "marks": "Signature; Marks; Inscription\r\nsee Signed In LR: [L. Mesnil]",
+  "markings": "in pencil, LR recto: [2488 Pexx]\r\nin ink, verso: [No. 2488]\r\nin pencil, verso: [label on front lower right removed. It reads 2488 T]",
   "medium": "Pen and ink and watercolor heightened with white",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LR: [L. Mesnil]",
   "style": "19th century",
   "text": "",
   "title": "Two Women and Child with Baby"

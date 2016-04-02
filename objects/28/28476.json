@@ -1,6 +1,7 @@
 {
   "accession_number": "94.44",
-  "artist": "Thomas Rowlandson",
+  "artist": "Artist: Thomas Rowlandson",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Thirza J. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3316,
   "image_width": 5093,
+  "inscription": "Signature, Date",
   "life_date": "British, 1756 - 1827",
-  "marks": "Signature, Date ]Rowlandson 1796], in black ink (?), LR",
+  "markings": "",
   "medium": "Watercolor over graphite on white wove paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "]Rowlandson 1796], in black ink (?), LR",
   "style": "18th century",
   "text": "",
   "title": "Farmstead on the Bank of a River"

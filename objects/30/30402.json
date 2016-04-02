@@ -1,6 +1,7 @@
 {
   "accession_number": "98.105.122",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Sculpture",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Walter Lane Barksdale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5426,
   "image_width": 3459,
+  "inscription": "Signature; Tag",
   "life_date": null,
-  "marks": "Signature; Tag on bottom of basket",
+  "markings": "lender\\'s tag, through holes on back",
   "medium": "Ivory, wood",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on bottom of basket",
   "style": "20th century",
   "text": "",
   "title": "(Ebisu)"

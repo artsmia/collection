@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.224.9",
-  "artist": "Enrico Baj; Text by Guido Ballo; Published by Galleria Schwarz, Milan; Giorgio Upiglio , Milan",
+  "artist": "Artist: Enrico Baj; Author: Text by Guido Ballo; Publisher: Published by Galleria Schwarz, Milan; Printer: Giorgio Upiglio , Milan",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Gordon Locksley and George Shea",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Yes",
   "life_date": "Italian, born 1924",
-  "marks": "Yes ",
+  "markings": "",
   "medium": "Color metal relief",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Plate from L'Albero Poeta"

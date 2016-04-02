@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.82",
-  "artist": "Yokoyama Kazan; Ho_sen",
+  "artist": "Artist: Yokoyama Kazan; Artist: Ho_sen",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3103,
   "image_width": 3972,
+  "inscription": "UL: {Bunsei mizunoto hitsuji doshi} (the year of Ram); 57 haiku poems about spring",
   "life_date": "Japanese, 1784 - 1837",
-  "marks": "UL: {Bunsei mizunoto hitsuji doshi} (the year of R LR: {Kazan utsusu}; upper: {Hōsen}",
+  "markings": "Illegible red artist\\'s seal: {Hōsen}; {Kifu Tanchōdō shchū} (poetry circle name)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: {Kazan utsusu}; upper: {Hōsen}",
   "style": "19th century",
   "text": "",
   "title": "(Sparrows and plum flowers)"

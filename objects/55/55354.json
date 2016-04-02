@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,297",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "Gift of Miss Eileen Bigelow and Mrs. O. H. Ingram, in memory of their mother, Mrs. Alice F. Bigelow, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "Marsden J. Perry (stamp, verso, black: MJP; L. 1880); sold at auction (house'), Stuttgart, Germany, May 22, 1908, cat. 1310, for 205 Mks.; (Private dealer, Rome).   Eileen Bigelow and Mrs. O. H. Ingram; given to MIA, 1965.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Man at Desk, Wearing Cross and Chain"

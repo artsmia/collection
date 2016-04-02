@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.235.5",
-  "artist": "Alexander Viazmensky",
+  "artist": "Artist: Alexander Viazmensky",
+  "classification": "Drawings",
   "continent": null,
   "country": "Russia",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature and Date",
   "life_date": "Russian, born 1946",
-  "marks": "Signature and Date LRC, in brown and grey: [AV (?--intertwined) / 7.0",
+  "markings": "",
   "medium": "Watercolor on paper",
   "nationality": "Russian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in brown and grey: [AV (?--intertwined) / 7.00]",
   "style": "21st century",
   "text": "",
   "title": "Russula paludosa"

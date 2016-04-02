@@ -1,6 +1,7 @@
 {
   "accession_number": "P.465",
-  "artist": "Salvator Rosa",
+  "artist": "Artist: Salvator Rosa",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2280,
   "image_width": 1507,
-  "life_date": "Italian (Naples), 1615 - 1673",
-  "marks": "Signature S. Rosa",
+  "inscription": "Signature",
+  "life_date": "Italian (Naples), 1615–1673",
+  "markings": "Watermark: fleur-de-lis in a circle",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "S. Rosa",
   "style": "17th century",
   "text": "",
   "title": "Albert, (Suffering Self-Imposed Penance)"

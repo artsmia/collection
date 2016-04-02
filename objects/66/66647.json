@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.163",
-  "artist": "Eisen; Published by Ezakiya Kichibei",
+  "artist": "Artist: Eisen; Publisher: Published by Ezakiya Kichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 2688,
+  "inscription": "Dutch letters on the border (see notes)",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": "Dutch letters on the border (see notes) {Eisen ga}",
+  "markings": "On border: publisher\\'s seal: {Ezakiya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Lady Cecilia Rose (Sotheby 1934-351, 4th of set, very rare 40 pounds)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eisen ga}",
   "style": "19th century",
   "text": "",
   "title": "\"Tōeizan Temple Seen from Shinobazu Benten Shrine in Edo\""

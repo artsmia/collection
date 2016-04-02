@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.3",
-  "artist": "George Bellows",
+  "artist": "Artist: George Bellows",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr. in memory of Harold Joachim",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4575,
   "image_width": 3730,
-  "life_date": "American, 1882 - 1925",
-  "marks": "Signature LR: [Geo Bellows] and by the artist\\'s daughter: [J",
+  "inscription": "Signature",
+  "life_date": "American, 1882–1925",
+  "markings": "",
   "medium": "Conté crayon and tuche",
   "nationality": "American",
   "provenance": "Estate of Emma S. Bellows",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Geo Bellows] and by the artist\\'s daughter: [J.B.B.] (Jean Bellows Booth)",
   "style": "20th century",
   "text": "This women’s animated but unnatural pose may stem from George Bellows’s interest in Dynamic Symmetry, a means of constructing compositions using mathematical rules. After making a serious study of the rules, Bellows told Robert Henri that he found them more valuable than the study of anatomy.",
   "title": "Nude Standing: Seen from Back"

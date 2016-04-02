@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.251",
-  "artist": "Shibata Zeshin",
+  "artist": "Artist: Shibata Zeshin",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3798,
   "image_width": 2600,
+  "inscription": "",
   "life_date": "Japanese, 1807 - 1891",
-  "marks": " Zeshin UR and LL",
+  "markings": "\\\"Shin\\\" seals",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Zeshin UR and LL",
   "style": "19th century",
   "text": "",
   "title": "(Pheasant/Three men with umbrellas)"

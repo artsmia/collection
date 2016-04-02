@@ -1,6 +1,7 @@
 {
   "accession_number": "46.14.3",
-  "artist": "Frank Walter Taylor",
+  "artist": "Artist: Frank Walter Taylor",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4088,
   "image_width": 3443,
+  "inscription": "note signed by Elsia Carleton Taylor: [Original drawing of my husband\\'s best friend]",
   "life_date": "American, 1874 - 1921",
-  "marks": "note signed by Elsia Carleton Taylor: [Original dr [F. Walter Taylor]",
+  "markings": "",
   "medium": "Black crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[F. Walter Taylor]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Pennell at Work"

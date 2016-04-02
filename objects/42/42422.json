@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.80",
-  "artist": "Yokoyama Kazan",
+  "artist": "Artist: Yokoyama Kazan",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3621,
   "image_width": 2465,
+  "inscription": "3 haiku poems about spring by Kunzan",
   "life_date": null,
-  "marks": "3 haiku poems about spring by Kunzan Kazan",
+  "markings": "\\\"Kazan\\\" seal in red\r\n\\\"Kinoto tori haru\\\" (Spring of the year of Cock) LR",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kazan",
   "style": "19th century",
   "text": "",
   "title": "(Ferry boat)"

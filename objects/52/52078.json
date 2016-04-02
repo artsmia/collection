@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,347",
-  "artist": "Stephen Greeley Putnam; Harper Bros; after Elihu Vedder",
+  "artist": "Artist: Stephen Greeley Putnam; Publisher: Harper Bros; Artist: after Elihu Vedder",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1852",
-  "marks": " In plate (P sc.)",
+  "inscription": "",
+  "life_date": "American, 1836 - 1923",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate (P sc.)",
   "style": "19th century",
   "text": "",
   "title": "Identity"

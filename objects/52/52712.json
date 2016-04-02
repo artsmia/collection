@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,252",
-  "artist": "Kruseman Van Elten",
+  "artist": "Artist: Kruseman Van Elten",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Mr. George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1829 - 1904",
-  "marks": " Etched in plate and signed",
+  "inscription": "",
+  "life_date": "American, 1829–1904",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Etched in plate and signed",
   "style": "19th century",
   "text": "",
   "title": "The Mill Pond"

@@ -1,6 +1,7 @@
 {
   "accession_number": "93.94",
-  "artist": "O. Kruschki",
+  "artist": "Maker: O. Kruschki",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mary and Katharine Harlow",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Mark",
   "life_date": null,
-  "marks": "Signature, Date, Mark [O Kruschki 79] lower left",
+  "markings": "Watermark laid down",
   "medium": "Watercolor on white wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[O Kruschki 79] lower left",
   "style": "19th century",
   "text": "",
   "title": "Mountain Chalet"

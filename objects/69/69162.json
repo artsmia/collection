@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.37.3",
-  "artist": "Alexander Eugène Prignot",
+  "artist": "Artist: Alexander Eugène Prignot",
+  "classification": "Drawings",
   "continent": null,
   "country": "France",
   "creditline": "The Tess E. Armstrong Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2927,
   "image_width": 1769,
+  "inscription": "Initialed and dated in pencil, LRC ; signed, verso;\r\ninscribed in pencil, LLC: [45.]",
   "life_date": "French, 1822-?",
-  "marks": "Initialed and dated in pencil, LRC ; signed, verso LRC in pencil: [EP (intertwined) 1873]; signed, ve",
+  "markings": "",
   "medium": "Pencil and ink on paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in pencil: [EP (intertwined) 1873]; signed, verso: [Eugene Prignot]",
   "style": "19th century",
   "text": "",
   "title": "Untitled, from \"L'Architecture, la Decoration et L'Ameublement\""

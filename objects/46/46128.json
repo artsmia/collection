@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.47",
-  "artist": "Marc Chagall",
+  "artist": "Artist: Marc Chagall",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "Belorussian, 1887 - 1985",
-  "marks": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pe Signed in pencil, LRC: [Marc Chagall]",
+  "inscription": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [21/50]",
+  "life_date": "Belorussian, 1887–1985",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Belorussian",
   "provenance": "Target Corporation, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LRC: [Marc Chagall]",
   "style": "20th century",
   "text": "",
   "title": "Entree en Piste"

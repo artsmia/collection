@@ -1,6 +1,7 @@
 {
   "accession_number": "B.96.4.1",
-  "artist": "Elihu Vedder; Omar Khayyám; Edward Fitzgerald; Houghton Mifflin",
+  "artist": "Artist: Elihu Vedder; Author: Omar Khayyám; Translator: Edward Fitzgerald; Publisher: Houghton Mifflin",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Carl A. Weyerhaeuser",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1836 - 1923",
-  "marks": " ",
+  "markings": "",
   "medium": "Monochrome illustrations, letterpress; book",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Rubáiyát of Omar Khayyám"

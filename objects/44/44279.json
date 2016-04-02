@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.30.1",
-  "artist": "Enrico Baj",
+  "artist": "Artist: Enrico Baj",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Terrence D. Curley",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\nin graphite, LL: 11/60",
   "life_date": "Italian, born 1924",
-  "marks": "Signature; Inscription\r\nin graphite, LL: 11/60 in graphite, LR: [Baj]",
+  "markings": "",
   "medium": "Color etching and aquatint",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Baj]",
   "style": "20th century",
   "text": "",
   "title": "General Punch Nose"

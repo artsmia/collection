@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.21",
-  "artist": "Rosalyn Richards; Impressions Workshop, Inc. American (Boston)",
+  "artist": "Artist: Rosalyn Richards; Workshop: Impressions Workshop, Inc. American (Boston)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1947",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Richards]",
+  "markings": "Chop Mark: <Impressions>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Richards]",
   "style": "20th century",
   "text": "",
   "title": "Passage"

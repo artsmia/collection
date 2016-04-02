@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.251.1",
-  "artist": "Pierre Bonnard; Printed by Auguste Clot, Paris; Published by Ambroise Vollard, Paris, France",
+  "artist": "Artist: Pierre Bonnard; Printer: Printed by Auguste Clot, Paris; Publisher: Published by Ambroise Vollard, Paris, France",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 4959,
   "image_width": 3819,
+  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in graphite, LR: [No. 68]",
   "life_date": "French, 1867-1947",
-  "marks": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in gr Signed in graphite, LR\\\" [P. Bonnard]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "Ruth and Bruce Dayton, Wayzata, Minn.; given to MIA, 2001",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in graphite, LR\\\" [P. Bonnard]",
   "style": "19th century",
   "text": "Pierre Bonnard's engaging portrayal of a young laundry worker hauling her heavy basket of wash along a deserted Parisian street belies the often harsh reality of child labor at the end of the nineteenth century. By that time, some one fifth of the city's working population was engaged in the laundry industry. Most were women and girls. Influenced in part by Japanese woodcuts, Bonnard presents the subject from an unusually high vantage point, emphasizing the print's flattened perspective, angular design, and bold colors over descriptive details.",
   "title": "La petite blanchisseuse (The Little Laundress)"

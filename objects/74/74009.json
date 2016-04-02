@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.10.2",
-  "artist": "Katsushika Taito II",
+  "artist": "Artist: Katsushika Taito II",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3724,
   "image_width": 4735,
+  "inscription": "preface on the first three pages (wirter\\'s name illegible)",
   "life_date": "Japanese, fl. 1810-1853",
-  "marks": "preface on the first three pages (wirter\\'s name il Katsushika Taito ga",
+  "markings": "Publisher:Suharaya Shinbe_(Edo), Kawachiya Mohe_(O_saka)\r\nKaei 2(1849) written at the end of preface",
   "medium": "Woodblock printed book; ink and limited color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Katsushika Taito ga",
   "style": "19th century",
   "text": "",
   "title": "Pictures of Birds and Flowers vol. 2"

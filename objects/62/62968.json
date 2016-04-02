@@ -1,6 +1,7 @@
 {
   "accession_number": "67.24.65",
-  "artist": "Attributed to Katsushika Hokusai",
+  "artist": "Artist: Attributed to Katsushika Hokusai",
+  "classification": "Drawings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in Memory of her Brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2956,
   "image_width": 1848,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " Katsushika Hokusai ga",
+  "markings": "artist\\'s seal",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Katsushika Hokusai ga",
   "style": "18th-19th century",
   "text": "",
   "title": "Dharma"

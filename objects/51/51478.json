@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,521",
-  "artist": "Unknown Italian; Io. Antonium and Jacobun de Franciscis",
+  "artist": "Artist: Unknown Italian; Printer: Io. Antonium and Jacobun de Franciscis",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Gardner Teall, 1917",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Page from \"Sacerdotum Barbis\" by Johann Peario Velerino Bellunensi"

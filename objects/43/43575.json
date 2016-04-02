@@ -1,6 +1,7 @@
 {
   "accession_number": "P.94.4",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4845,
   "image_width": 5756,
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature, Date, Inscription ",
+  "inscription": "Signature, Date, Inscription",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Drypoint with additions in black ink",
   "nationality": "German",
   "provenance": "(Alice Adam, Chicago); sold to MIA, 1994.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Prosit Neujahr (Happy New Year), from the portfolio Gesichter (Faces)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.54",
-  "artist": "Utagawa Kunisada; Published by Sanoya Kihei",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2500,
   "image_width": 1796,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": " 香蝶楼國貞画 {Kōchōrō Kunisada ga}",
+  "markings": "censor seal: 極 {kiwame} | publisher\\'s seal: {Sanoki}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "香蝶楼國貞画 {Kōchōrō Kunisada ga}",
   "style": "19th century",
   "text": "",
   "title": "View of Arai"

@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.78",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1963,
   "image_width": 2663,
+  "inscription": "kyo_ka\r\nJapanese: Isogutomo kokoroshite yuke ??? wa, atomodori sen ame no Tsuchyama\r\nNo matter how hurry you are in, you\\'d better be careful passing through the valley in Suzuka. Tsuchiyama is always rainy.",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "kyo_ka\r\nJapanese: Isogutomo kokoroshite yuke ??? w ",
+  "markings": "Censor:Kiwame\r\nPublisher:Sanoya Kihe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of the Suzuka Mountain in Tsuchiyama"

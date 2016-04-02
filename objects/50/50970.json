@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,086",
-  "artist": "Charles-François Daubigny; after Claude Gellée (called Le Lorrain); Chaleographie du Louvre",
+  "artist": "Artist: Charles-François Daubigny; Artist: after Claude Gellée (called Le Lorrain); Publisher: Chaleographie du Louvre",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Stamp",
   "life_date": "French, 1817 - 1878",
-  "marks": "Signature and Stamp Signed in plate",
+  "markings": "Dry stamp recto: chaleographie du Louvre [L. 1695]",
   "medium": "Etching, aquatint (restrike)",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in plate",
   "style": "19th century",
   "text": "",
   "title": "L'Abreuvoir"

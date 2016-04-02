@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.129",
-  "artist": "attributed to William Kilburn",
+  "artist": "Artist: attributed to William Kilburn",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5291,
   "image_width": 3206,
+  "inscription": "Inscription; Marks",
   "life_date": null,
-  "marks": "Inscription; Marks ",
+  "markings": "\\'Iris Persico Iris de Perse Persia Iris\\', in ink, lower edge, front; \\'P709\\', in pencil, LL front; \\'35\\', in pencil, UL back; \\'Prtx\\', in pencil, LL back; \\'PRtx\\', in pencil, LR front; \\'[fleur-de-lis] G R\\', on watermark",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Persian Iris (Iris persica)"

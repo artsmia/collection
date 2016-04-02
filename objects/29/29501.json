@@ -1,6 +1,7 @@
 {
   "accession_number": "97.111",
-  "artist": "Martine Franck; Jean Giono",
+  "artist": "Photographer: Martine Franck; Author: Jean Giono",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "%22The Man Who Planted Trees%22 by Jean Giono%2C illustrated by Martine Franck%2C © Martine Franck %2F Magnum Photos",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title; Number; Signature",
   "life_date": "Belgian, born 1938",
-  "marks": "Title; Number; Signature ",
+  "markings": "\\'The Man Who Planted Trees\\', on spine, in gilt; \\'94\\', \\'Martine Franck\\', in pencil, on last page with text",
   "medium": "Book with photogravures",
   "nationality": "Belgian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Man Who Planted Trees"

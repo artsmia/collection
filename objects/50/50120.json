@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,965",
-  "artist": "Auguste Louis Lepère",
+  "artist": "Artist: Auguste Louis Lepère",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Book Funds (?)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1849 - 1918",
-  "marks": "Signature Signature on print (mirror image)",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature on print (mirror image)",
   "style": "20th century",
   "text": "",
   "title": "Le Centaure"

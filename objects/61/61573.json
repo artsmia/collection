@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.147",
-  "artist": "Zeng Yandong",
+  "artist": "Artist: Zeng Yandong",
+  "classification": "Paintings",
   "continent": null,
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Chinese",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink and colors on paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G218",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Street Performers"

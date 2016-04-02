@@ -1,6 +1,7 @@
 {
   "accession_number": "82.117.1",
-  "artist": "Mary Frank",
+  "artist": "Artist: Mary Frank",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Wesley Halpert",
@@ -14,8 +15,9 @@
   "image_copyright": "©Mary Frank%2C Courtesy of DC Moore Gallery%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Mark",
   "life_date": "American (born England), born 1933",
-  "marks": "Signature, Mark ",
+  "markings": "in script right side:\\' Mary Frank\\'; foundry mark",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

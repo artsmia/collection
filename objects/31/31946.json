@@ -1,6 +1,7 @@
 {
   "accession_number": "99.231.17",
-  "artist": "Sigismund Blumann",
+  "artist": "Photographer: Sigismund Blumann",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James D. Gollin",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Stickers",
   "life_date": "American, 1872 - 1956",
-  "marks": "Signature; Inscription; Stickers ",
+  "markings": "\\'Sigismund Blumann\\', in graphite, below LRC of sheet; mount verso: \\'M075\\', in graphite, ULC; photographer\\'s sticker; exhibition sticker",
   "medium": "gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "A Bit of the Faculty Club, University of California, Berkeley"

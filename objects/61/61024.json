@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.549",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1781,
   "image_width": 2388,
+  "inscription": "Yes(kyo_ka)\r\nJapanese:O_i gawa wataru Kanaya wa tabi goromo kumo to mizu towo???",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Yes(kyo_ka)\r\nJapanese:O_i gawa wataru Kanaya wa ta ",
+  "markings": "Censor:Kiwame\r\nPublisher:Sanoya Kihe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Kanaya"

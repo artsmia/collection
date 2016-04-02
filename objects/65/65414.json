@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.329a-c",
-  "artist": "Utagawa Hiroshige; Published by Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1811,
   "image_width": 3611,
+  "inscription": "poem(waka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "poem(waka) Hiroshige ga",
+  "markings": "Ichiryu_sai seal\r\nCensor:kiwame\r\nPublisher:Sanoki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "\"Triptych of Snow Viewing by the Sumida River, Famous Place of Edo\""

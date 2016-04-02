@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.122",
-  "artist": "Utagawa Hiroshige; Utagawa Yoshimori; Published by Yamaguchiya Tōbei",
+  "artist": "Artist: Utagawa Hiroshige; Artist: Utagawa Yoshimori; Publisher: Published by Yamaguchiya Tōbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2514,
   "image_width": 1684,
+  "inscription": "Upper right: waka; lower left: Chinese poem",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Upper right: waka; lower left: Chinese poem ",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Three Images, Harimaze"

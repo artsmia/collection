@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.24",
-  "artist": "Henry Moore; Published by Berggruen and Company; Printed by Mourlot Freres, Paris",
+  "artist": "Artist: Henry Moore; Publisher: Published by Berggruen and Company; Printer: Printed by Mourlot Freres, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Henry Moore Foundation. All Rights Reserved%2C DACS 2014 %2F www.henry-moore.org",
   "image_height": 2250,
   "image_width": 1867,
+  "inscription": "Signature and inscription\r\n\r\nsee Signed\r\n\r\nLLC below image, in pencil: [Epreuve d\\'artist]",
   "life_date": "British, 1898 - 1986",
-  "marks": "Signature and inscription\r\n\r\nsee Signed\r\n\r\nLLC bel LRC below image in pencil: [Moore (underlined)]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "Mary and Robyn Campbell, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC below image in pencil: [Moore (underlined)]",
   "style": "20th century",
   "text": "",
   "title": "Studies for Sculpture on Blue Grey Background"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.22",
-  "artist": "Richard Houston; after Johann Zoffany; Published by Robert Sayer",
+  "artist": "Artist: Richard Houston; Artist: after Johann Zoffany; Publisher: Published by Robert Sayer",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Irish, 1721 - 1775",
-  "marks": "Mark ",
+  "markings": "Watermark",
   "medium": "Mezzotint",
   "nationality": "Irish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of James Sayer"

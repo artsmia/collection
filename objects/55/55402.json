@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,101",
-  "artist": "Willem Witsen",
+  "artist": "Artist: Willem Witsen",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(see SIgned)",
   "life_date": "Dutch, 1860 - 1923",
-  "marks": "Signature\r\n\r\n(see SIgned) in pencil: [Witsen]",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Witsen]",
   "style": "19th century",
   "text": "",
   "title": "Ships in Snow (Oude Sclaus)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,609",
-  "artist": "Samuel Arlent Edwards; After Alessandro di Mariano Botticelli",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: After Alessandro di Mariano Botticelli",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. J.A. Vaughn",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature and Inscription\r\nautograph inscription b On sheet",
+  "inscription": "Signature and Inscription\r\nautograph inscription by artist",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "",
   "medium": "Color mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "19th century",
   "text": "",
   "title": "Lucretia"

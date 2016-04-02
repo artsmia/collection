@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93",
-  "artist": "Bertha Lum",
+  "artist": "Artist: Bertha Lum",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ethel Morrison Van DerLip, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1483,
   "image_width": 2586,
+  "inscription": "Copyright, Date, Signature\r\n\r\nCopyright followed by date and signature at bottom of plate in pencil",
   "life_date": "American, 1869 - 1954",
-  "marks": "Copyright, Date, Signature\r\n\r\nCopyright followed b Yes",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "20th century",
   "text": "",
   "title": "Kites"

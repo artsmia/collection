@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,990",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3735,
   "image_width": 4815,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Yes In Pencil",
+  "inscription": "Yes",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G344",
+  "signed": "In Pencil",
   "style": "20th Century",
   "text": "",
   "title": "Painter at Work with a Bearded Model and a Seated Spectator"

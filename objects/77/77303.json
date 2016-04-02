@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,183",
-  "artist": "Georg Balthasar Probst exc. A.V.",
+  "artist": "Artist: Georg Balthasar Probst exc. A.V.",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, 1673-1748",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Le Juppiter Cinquieme Son Influxion"

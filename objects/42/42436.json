@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.63",
-  "artist": "Issui",
+  "artist": "Artist: Issui",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3404,
   "image_width": 4684,
+  "inscription": "13 poems about the New Year",
   "life_date": "Japanese",
-  "marks": "13 poems about the New Year {Issui}",
+  "markings": "Red artist seal {??sui}; Dated Bunkyū (1861-1863) but could be made in 1857 which is the year of Snake assumed based on the picture on the panel one man carrying.",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Issui}",
   "style": "19th century",
   "text": "",
   "title": "Two travelers"

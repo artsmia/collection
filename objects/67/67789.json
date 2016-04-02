@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.169",
-  "artist": "Hosoda Eishi; Published by Iwatoya Kisaburō",
+  "artist": "Artist: Hosoda Eishi; Publisher: Published by Iwatoya Kisaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2764,
   "image_width": 1897,
+  "inscription": "",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": " {Eishi giga}",
+  "markings": "Publisher\\'s seal: {Iwatoya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eishi giga}",
   "style": "18th-19th century",
   "text": "",
   "title": "Misayama of Chōjiya House Going to Bed"

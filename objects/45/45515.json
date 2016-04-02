@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.95.2",
-  "artist": "Odilon Redon; Edmond Picard; Madame Veuve Monnom, Brussels, Belgium; Printed by Becquet, Paris",
+  "artist": "Artist: Odilon Redon; Author: Edmond Picard; Publisher: Madame Veuve Monnom, Brussels, Belgium; Printer: Printed by Becquet, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1840 - 1916",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithographs, letterpress",
   "nationality": "French",
   "provenance": "(Librarie Landanchet, Paris)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Le Juré"

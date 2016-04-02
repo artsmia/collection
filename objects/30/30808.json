@@ -1,6 +1,7 @@
 {
   "accession_number": "98.237.1",
-  "artist": "Emmanuel Hannaux; E. Collin &amp; Cie",
+  "artist": "Artist: Emmanuel Hannaux; Caster: E. Collin &amp; Cie",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Estate of Charles J. Winton and Henrietta McDonald Winton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5245,
   "image_width": 5122,
+  "inscription": "Stamp",
   "life_date": "French, 1855-1934",
-  "marks": "Stamp ",
+  "markings": "[E. Hannaux 1894]; [E. Collin & Cie / Paris]; cast, stamped, in bronze, PL shoulder",
   "medium": "Bronze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Head of a Young Warrior"

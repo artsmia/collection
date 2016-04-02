@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.164",
-  "artist": "Kubo Shunman",
+  "artist": "Artist: Kubo Shunman",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4748,
   "image_width": 2469,
+  "inscription": "Poem by Anrakuan Tamenari",
   "life_date": "Japanese, 1757 - 1820",
-  "marks": "Poem by Anrakuan Tamenari ",
+  "markings": "{Shunman}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Mother with Pointing Baby"

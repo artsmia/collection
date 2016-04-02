@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.26",
-  "artist": "Bruce Nauman; Published by Cirrus Editions, Ltd., Los Angeles",
+  "artist": "Artist: Bruce Nauman; Publisher: Published by Cirrus Editions, Ltd., Los Angeles",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Benton J. Case. Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "© Bruce Nauman %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3544,
   "image_width": 5568,
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1941",
-  "marks": "Signature; Mark In pen: [B. Nauman]",
+  "markings": "Watermark: <BFK Rives France>",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "Benton J. Case, Jr., Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pen: [B. Nauman]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

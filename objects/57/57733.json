@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.257.16",
-  "artist": "Malcolm H. Myers; Maureen O. Sullivan Duffey",
+  "artist": "Artist: Malcolm H. Myers; Author: Maureen O. Sullivan Duffey",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Dr. James J. Duffey and Maureen O. Sullivan Duffey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"To Maureen  Malcom Myers\\\", in ink, inside cover",
   "life_date": "American, 1917-2002",
-  "marks": "\\\"To Maureen  Malcom Myers\\\", in ink, inside cover ",
+  "markings": "",
   "medium": "Book",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Mr. Possum Teaches Phonics"

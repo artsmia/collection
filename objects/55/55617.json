@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,874",
-  "artist": "Hans Burgkmair",
+  "artist": "Artist: Hans Burgkmair",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "MArk",
   "life_date": "German, 1473 - 1531",
-  "marks": "MArk ",
+  "markings": "Watermark: imperial orb",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Hab Co 1926 P.P.O.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The White King Receiving His Daughter Margaret and the Children of King Philip"

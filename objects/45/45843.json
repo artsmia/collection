@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.373",
-  "artist": "Henri Deville",
+  "artist": "Artist: Henri Deville",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date and Watermark",
   "life_date": "French, 1871 - after 1960",
-  "marks": "Signature, Date and Watermark on plate: [H. Deville 1928]",
+  "markings": "Watermark: figure balanced on a ball",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [H. Deville 1928]",
   "style": "20th century",
   "text": "",
   "title": "La Cour d' honneur de Cluny, Paris"

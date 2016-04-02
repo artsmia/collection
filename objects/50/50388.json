@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,234.2",
-  "artist": "Adolphe Theodore Jules Martial Potémont; Beillet et Forestiere",
+  "artist": "Artist: Adolphe Theodore Jules Martial Potémont; Publisher: Beillet et Forestiere",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1828 - 1883",
-  "marks": "Signature Signature: [Lalanne Coll.]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature: [Lalanne Coll.]",
   "style": "19th century",
   "text": "",
   "title": "Lettre sur les elements de la gravure a l'eau forte"

@@ -1,6 +1,7 @@
 {
   "accession_number": "95.83.3",
-  "artist": "Robert Harding",
+  "artist": "Artist: Robert Harding",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Felix A. Martucci",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1938",
-  "marks": "Signature in brown ink, LL: [Harding]",
+  "markings": "",
   "medium": "Colored chalks and charcoal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in brown ink, LL: [Harding]",
   "style": "20th century",
   "text": "",
   "title": "Personae"

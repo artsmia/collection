@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.57",
-  "artist": "James Pink",
+  "artist": "Artist: James Pink",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1945",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on sheet",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Friends Gallery",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Lupus!"

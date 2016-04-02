@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.139",
-  "artist": "Lucas Cranach the Elder",
+  "artist": "Artist: Lucas Cranach the Elder",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5558,
   "image_width": 7921,
-  "life_date": "German (Saxony), 1472 - 1553",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German (Saxony), 1472–1553",
+  "markings": "Watermark: High Crown",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Hofbibliothek, Vienna (Shelfmark: HB 48(2) S.83); Albertina Duplicate (Lugt 5g); sold C. G. Boerner, Leipzig, May 25-27, 1925 Knoedler & Co., 1926, lot 402; to Alfred Strolin for 320 Marks. Knoedler, New York (inventory number MK25253); Herschel V. Jones, Minneapolis.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The First Tournament"

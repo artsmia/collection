@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.115",
-  "artist": "Kitani Chigusa",
+  "artist": "Artist: Kitani Chigusa",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2845,
   "image_width": 1874,
+  "inscription": "",
   "life_date": "1890 - 1947",
-  "marks": " {Chigusa}",
+  "markings": "red artist\\'s seal: {Chigusa}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Chigusa}",
   "style": "20th century",
   "text": "",
   "title": "Ochiyo from Chikamatsu Play \"Shinjū yoi gōshin\""

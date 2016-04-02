@@ -1,6 +1,7 @@
 {
   "accession_number": "64.74",
-  "artist": "Robert Kilbride",
+  "artist": "Artist: Robert Kilbride",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1924-1998",
-  "marks": "Signature ",
+  "markings": "LR: [Kilbride]",
   "medium": "Oil paint, stencil, and collage on paper, mounted on board",
   "nationality": "American",
   "provenance": "(Kilbride-Bradley Gallery, Minneapolis); sold to MIA, 1964.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Good Taste"

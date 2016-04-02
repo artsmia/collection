@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.24.2",
-  "artist": "Amy N. Worthen",
+  "artist": "Artist: Amy N. Worthen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Friends of the Institute",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Title\r\n\r\nsee Signed\r\n\r\nLL: [1/6]\r\nLC: [Barn Interior I-LHF]",
   "life_date": "American",
-  "marks": "Signature; Edition; Title\r\n\r\nsee Signed\r\n\r\nLL: [1/ LR: [Amy N Worthen]",
+  "markings": "",
   "medium": "Engraving in brown ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Amy N Worthen]",
   "style": "20th century",
   "text": "",
   "title": "Barn Interior I"

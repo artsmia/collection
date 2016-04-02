@@ -1,6 +1,7 @@
 {
   "accession_number": "90.142.1",
-  "artist": "Winifred Dickinson",
+  "artist": "Artist: Winifred Dickinson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2141,
   "image_width": 5562,
+  "inscription": "Signature; Inscription\r\n\r\nverso: LL, in pencil [5215]\r\n\r\nalong right side [81 (Illegible)]",
   "life_date": "American, born 1905",
-  "marks": "Signature; Inscription\r\n\r\nverso: LL, in pencil [52 in pen, LR: [Winifred Dickenson]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pen, LR: [Winifred Dickenson]",
   "style": "20th century",
   "text": "",
   "title": "Landscape"

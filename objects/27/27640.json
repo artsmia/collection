@@ -1,6 +1,7 @@
 {
   "accession_number": "91.170",
-  "artist": "Carlo Labruzzi",
+  "artist": "Artist: Carlo Labruzzi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3611,
   "image_width": 5045,
+  "inscription": "Inscription",
   "life_date": "Italian, 1748 - 1817",
-  "marks": "Inscription ",
+  "markings": "[CARLO LABRUZZI, 1765-1818], and [cat 55] verso, in graphite",
   "medium": "Watercolor over black ink over black chalk",
   "nationality": "Italian",
   "provenance": "Sale, Sotheby's, London, October 10, 1974, no. 371",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Landscape with Ruins"

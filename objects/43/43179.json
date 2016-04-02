@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.16",
-  "artist": "Stuart Nielsen",
+  "artist": "Maker: Stuart Nielsen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Stuart Nielsen",
   "image_height": 5232,
   "image_width": 1110,
+  "inscription": "Signed, Dated, Numbered, and Titled",
   "life_date": "American, born 1947",
-  "marks": "Signed, Dated, Numbered, and Titled LR: [Nielsen 1983]\r\nLL: [A.P. 1/4]\r\nLL: [Water Gaz",
+  "markings": "",
   "medium": "Color lithograph, screenprint, and woodblock",
   "nationality": "American",
   "provenance": "Vermillion Editions, Ltd., Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nielsen 1983]\r\nLL: [A.P. 1/4]\r\nLL: [Water Gazing]",
   "style": "20th century",
   "text": "",
   "title": "Water Gazing"

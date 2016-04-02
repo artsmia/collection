@@ -1,6 +1,7 @@
 {
   "accession_number": "54.5",
-  "artist": "Richard Pynn",
+  "artist": "Artist: Richard Pynn",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1923",
-  "marks": "Signature; Date LR: [Dick Pynn\\'54]",
+  "markings": "",
   "medium": "Ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Dick Pynn\\'54]",
   "style": "20th century",
   "text": "",
   "title": "Brahma"

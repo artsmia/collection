@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.185",
-  "artist": "Paul Cadmus",
+  "artist": "Artist: Paul Cadmus",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Art © Jon F. Anderson%2C Estate of Paul Cadmus %2F Licensed by VAGA%2C New York%2C NY",
   "image_height": 3292,
   "image_width": 4592,
+  "inscription": "Signature",
   "life_date": "American, 1904-1999",
-  "marks": "Signature In pencil, LR margin: Paul Cadmus",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "(Associated American Artists, New York); sold to MIA, 1971.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, LR margin: Paul Cadmus",
   "style": "20th century",
   "text": "",
   "title": "YMCA Locker Room"

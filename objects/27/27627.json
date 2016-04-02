@@ -1,6 +1,7 @@
 {
   "accession_number": "91.166",
-  "artist": "Emil Nolde (born Emil Hansen)",
+  "artist": "Maker: Emil Nolde (born Emil Hansen)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Grace B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nolde Stiftung Seeb%C3%BCll",
   "image_height": 4658,
   "image_width": 3602,
-  "life_date": "German, 1867 - 1956",
-  "marks": "Signature [Nolde], LL",
+  "inscription": "Signature",
+  "life_date": "German, 1867–1956",
+  "markings": "",
   "medium": "Watercolor on Japan paper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Nolde], LL",
   "style": "20th century",
   "text": "",
   "title": "Anemonies and Gladiolas"

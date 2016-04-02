@@ -1,6 +1,7 @@
 {
   "accession_number": "75.88.3",
-  "artist": "Raoul Dufy",
+  "artist": "Artist: Raoul Dufy",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1877-1953",
-  "marks": "Signature [R. Dufy], lower right corner",
+  "markings": "",
   "medium": "Charcoal and watercolor",
   "nationality": "French",
   "provenance": "[Reyn Gallery, New York]; sold to Mrs. Patrick Butler; gave to MIA, 1975",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[R. Dufy], lower right corner",
   "style": "20th century",
   "text": "",
   "title": "La Rue Lepic à Montmartre"

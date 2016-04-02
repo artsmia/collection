@@ -1,6 +1,7 @@
 {
   "accession_number": "P.47.628",
-  "artist": "Giovanni Battista Piranesi",
+  "artist": "Artist: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of John Crosby",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature, and Inscription\r\n\r\nin plate in black: [ See Inscription",
+  "inscription": "Signature, and Inscription\r\n\r\nin plate in black: [Tav II/ DEL CASTELLO DELL\\' AQUA GIULIA   Piranesi F.]; various capital letters of the alphabet in or above image in black",
+  "life_date": "Italian, 1720–1778",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "See Inscription",
   "style": "18th century",
   "text": "",
   "title": "Del Castello Dell' Acqua Giulia"

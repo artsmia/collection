@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,145",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Etched in plate:  Chancery Lane 1881",
   "life_date": "American, 1860 - 1926",
-  "marks": "Etched in plate:  Chancery Lane 1881 on paper in pencil in lower margin:  Joseph Pennel",
+  "markings": "No watermark",
   "medium": "Etching, laid Japan paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on paper in pencil in lower margin:  Joseph Pennell",
   "style": "19th century",
   "text": "",
   "title": "Chancery Lane"

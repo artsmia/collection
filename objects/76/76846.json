@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.28",
-  "artist": "Germaine Richier",
+  "artist": "Artist: Germaine Richier",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\ntext on front, printed in green: [VISAGE de l\\'herbe/ huit gravures/ originales de/ GERMAINE RICHIER/ textes de RENÉ DE SOLIER/ 1949]",
   "life_date": "French, 1902-1959",
-  "marks": "Inscription\r\ntext on front, printed in green: [VIS ",
+  "markings": "",
   "medium": "Drypoint, aquatint and letterpress",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Prospectus for \"Visage de l'herbe\""

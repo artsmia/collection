@@ -1,6 +1,7 @@
 {
   "accession_number": "74.20.1",
-  "artist": "Brice Marden",
+  "artist": "Artist: Brice Marden",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Brice Marden %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 1882,
   "image_width": 2392,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1938",
-  "marks": "Signature; Date LR: [Marden 64]",
+  "markings": "",
   "medium": "Compressed charcoal on paper",
   "nationality": "American",
   "provenance": "[Locksley Shea Gallery, Minneapolis until 1974; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Marden 64]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2007.89",
-  "artist": "Elaine Mayes",
+  "artist": "Artist: Elaine Mayes",
+  "classification": "Photographs",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Elaine Mayes",
@@ -14,8 +15,9 @@
   "image_copyright": "© Elaine Mayes",
   "image_height": 3643,
   "image_width": 3565,
+  "inscription": "Mark",
   "life_date": "American, born 1938",
-  "marks": "Mark ",
+  "markings": "URC verso in graphite: [EM 8 7/8 TO 9 3/4]\r\nCenter verso in ink: [56-3/Elaine Mayes]",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Haight Ashbury Portrait"

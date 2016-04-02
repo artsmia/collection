@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.102",
-  "artist": "Agostino d' Musi; Copy after Marcantonio Raimondi",
+  "artist": "Artist: Agostino d' Musi; Artist: Copy after Marcantonio Raimondi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1490 - 1540 (active 1514-1536)",
-  "marks": "Signature In plate (and very decipherable)",
+  "inscription": "Signature",
+  "life_date": "Italian, c. 1475/1480– c.1534",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate (and very decipherable)",
   "style": "16th century",
   "text": "",
   "title": "Hercules and Antaeus"

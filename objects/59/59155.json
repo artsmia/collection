@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.10",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3737,
   "image_width": 2822,
+  "inscription": "Signed, Dated, Countersigned, Dated, Titled",
   "life_date": "American, born 1949",
-  "marks": "Signed, Dated, Countersigned, Dated, Titled LR: [T.I. Solien \\'82]\r\nVERSO: [T.I. Solien \\'82]\r\nV",
+  "markings": "",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [T.I. Solien \\'82]\r\nVERSO: [T.I. Solien \\'82]\r\nVERSO: [\\\"For the Children / of Crepy-en Valois\\\"]",
   "style": "20th century",
   "text": "",
   "title": "For the Children of Crepy-en-Valois"

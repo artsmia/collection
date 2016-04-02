@@ -1,6 +1,7 @@
 {
   "accession_number": "83.170.5",
-  "artist": "Stuart Nielsen",
+  "artist": "Artist: Stuart Nielsen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Stuart Nielsen",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title\r\n\r\nsee Signed",
   "life_date": "American, born 1947",
-  "marks": "Signature; Date; Title\r\n\r\nsee Signed UL, in graphite: [Nielsen 1978] and [Shell/Butterf",
+  "markings": "",
   "medium": "Color acrylic, charcoal, watercolor and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UL, in graphite: [Nielsen 1978] and [Shell/Butterfly]",
   "style": "20th century",
   "text": "",
   "title": "Drawing for 'Shell Bufferfly'"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.27",
-  "artist": "Edouard Gautier-D'Agoty; after Correggio (Antonio Allegri)",
+  "artist": "Artist: Edouard Gautier-D'Agoty; Artist: after Correggio (Antonio Allegri)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4432,
   "image_width": 3627,
+  "inscription": "Signature; Mark; Inscription\r\n\r\nold inscription on verso [La Leda de Paolo Veronese]",
   "life_date": "French, 1745 - 1783",
-  "marks": "Signature; Mark; Inscription\r\n\r\nold inscription on ",
+  "markings": "Watermark: DE, IZ ER and Dovecote with 9 balls, RGNE, 842 (see Heawood 1237, 3432)",
   "medium": "Color mezzotint",
   "nationality": "French",
   "provenance": "Dr. Julius Hoffman, Wien",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Jupiter and Io"

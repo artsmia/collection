@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,603",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2983,
   "image_width": 2165,
+  "inscription": "LL verso, in pencil: [P420]; [a41254]; [\\\"The Little Nurse\\\" K.302 only state]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [P420]; [a41254]; [\\\"The Littl LL recto, in pencil: sheet trimmed leaving a tab f",
+  "markings": "LC printed in image: [(butterfly symbol)]\r\n\r\n",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL recto, in pencil: sheet trimmed leaving a tab for Whistler\\'s butterfly monogram and [imp.]",
   "style": "19th century",
   "text": "",
   "title": "The Little Nurse"

@@ -1,6 +1,7 @@
 {
   "accession_number": "99.234.5",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Thomas F.  Arndt",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 2799,
   "image_width": 1895,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in graphite, along top edge, verso: [Cotton fields",
+  "markings": "in graphite, lower right corner, verso (upside down): [11/11/97]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, along top edge, verso: [Cotton fields, Turkey, 1997 David Parker]",
   "style": "20th century",
   "text": "",
   "title": "Cotton Fields, Turkey"

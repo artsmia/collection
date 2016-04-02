@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.19",
-  "artist": "Khanh Cong Le",
+  "artist": "Artist: Khanh Cong Le",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3139,
   "image_width": 3390,
+  "inscription": "Signed, Numbered, and Chop Mark",
   "life_date": "American (b. Vietnam), born 1967",
-  "marks": "Signed, Numbered, and Chop Mark LR: [KHANH CONG LE]\r\nLL: [A.P. 2/2]\r\nLR: VELChop M",
+  "markings": "VEL Chop Mark",
   "medium": "Photolithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [KHANH CONG LE]\r\nLL: [A.P. 2/2]\r\nLR: VELChop Mark",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

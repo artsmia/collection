@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.240.2",
-  "artist": "Greg Kelsey",
+  "artist": "Artist: Greg Kelsey",
+  "classification": "Paintings",
   "continent": null,
   "country": "United States",
   "creditline": "Given in memory of Robert and Martha Tickle",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1951-1991",
-  "marks": " ",
+  "markings": "",
   "medium": "Acrylic on paper",
   "nationality": "American",
   "provenance": "Groveland Gallery, Mpls.\r\nRobert and Ann Tickle, Hopkins, MN",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Rhymocerous"

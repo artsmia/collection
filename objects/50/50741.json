@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.35",
-  "artist": "Giulio Bonasone",
+  "artist": "Artist: Giulio Bonasone",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Mr. and Mrs. Harrison R. Johnston, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Mark\r\n\r\nP18776; K92613W",
   "life_date": "Italian, active 1531 – 1574",
-  "marks": "Signature; Inscription; Mark\r\n\r\nP18776; K92613W in print -[IVLIO B F]",
+  "markings": "Watermark: Scorpian",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "A. Hirst (Lugt 133), R. Gutekunst (L2213a) (bought Snyder 1/29/29) by F.M. Crosby Jr.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in print -[IVLIO B F]",
   "style": "16th century",
   "text": "",
   "title": "Portrait of Michelangelo"

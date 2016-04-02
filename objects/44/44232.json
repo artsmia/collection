@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.28.3",
-  "artist": "Steven Rydberg; Published by Akasha Studio, Minneapolis",
+  "artist": "Artist: Steven Rydberg; Publisher: Published by Akasha Studio, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David and Mary Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nLL: [Archival Proof]",
   "life_date": "American",
-  "marks": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nLL: [Arc LR: [Steven Rydberg 1995]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Steven Rydberg 1995]",
   "style": "20th century",
   "text": "",
   "title": "Three Bells"

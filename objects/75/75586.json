@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,224",
-  "artist": "Moses Harris; Moses Harris; Moses Harris",
+  "artist": "Artist: Moses Harris; Engraver: Moses Harris; Colorist: Moses Harris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Watermark\r\n\r\n\r\n\r\n",
   "life_date": "English, fl. 1766-1785",
-  "marks": "Watermark\r\n\r\n\r\n\r\n ",
+  "markings": "Watermark: [1794]\r\n",
   "medium": "Hand-colored engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Plate I"

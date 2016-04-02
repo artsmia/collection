@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.80.5",
-  "artist": "Armand Seguin",
+  "artist": "Artist: Armand Seguin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title and date",
   "life_date": "French, 1869-1903",
-  "marks": "Title and date in plate, upper right: [St. Maurice 93]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate, upper right: [St. Maurice 93]",
   "style": "19th century",
   "text": "",
   "title": "Saint Maurice"

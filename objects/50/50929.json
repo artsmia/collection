@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,927",
-  "artist": "Benedetto Montagna",
+  "artist": "Artist: Benedetto Montagna",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of  Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, c. 1480-1556/58",
-  "marks": "Signature In plate",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Black stamp verso, Dr. C. D. Ginsburg (L. 1145).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "16th century",
   "text": "",
   "title": "Woman and Satyr with Two Cupids"

@@ -1,6 +1,7 @@
 {
   "accession_number": "95.105",
-  "artist": "James Hayward",
+  "artist": "Artist: James Hayward",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Frank Gaard",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1991 James Hayward",
   "image_height": 2945,
   "image_width": 3333,
+  "inscription": "Signature; Date; Title; Inscription",
   "life_date": "American, born 1943",
-  "marks": "Signature; Date; Title; Inscription Verso on foam core in black marker at center and U",
+  "markings": "",
   "medium": "Acrylic and enamel on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Verso on foam core in black marker at center and ULC [#57 (Arrow up) / \\\"Minneapolis\\\" 1991 / (18 5/16\\\" x 15 15/16\\\") / artist\\'s signature]; verso on clear acrylic in black marker at bottom: [Dear Frank: / Next time I see you we do this. /  Paint the town Red! Best of luck / Your pal James]",
   "style": "20th century",
   "text": "",
   "title": "Minneapolis"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.23",
-  "artist": "Fee Schlapper",
+  "artist": "Photographer: Fee Schlapper",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Fee Schlapper",
   "image_height": 3732,
   "image_width": 4740,
+  "inscription": "Title",
   "life_date": "German, born 1927",
-  "marks": "Title ",
+  "markings": "verso",
   "medium": "Gelatin silver print",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "An einem Taxifenster in Colombo, Ceylon"

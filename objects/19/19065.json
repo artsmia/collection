@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.292",
-  "artist": "Heloise Colin Leloir",
+  "artist": "Artist: Heloise Colin Leloir",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Inscription\r\nsee Signed\r\nin pencil, verso: [Robe de taffetas gris garnie de rubans/Robe de foulard ecossais garnie d\\'un ruch de ruban/Mantelet de Mousseline/Chale de filet noir/Mr Barre/Chapeau de paille Beige/Cupole de Tulle mouchete, marabous de paille/Mr Haute coeur?]",
   "life_date": "French, 1820 - 1874",
-  "marks": "Signature; Mark; Inscription\r\nsee Signed\r\nin penci In pencil, LR: [Heloise Leloir]",
+  "markings": "In pencil, LR recto: [PRtx]\r\n",
   "medium": "Watercolor and gouache over graphite",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, LR: [Heloise Leloir]",
   "style": "19th century",
   "text": "",
   "title": "Two Women on a Bench"

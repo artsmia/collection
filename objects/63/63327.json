@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.69",
-  "artist": "Utagawa Hiroshige; Published by Mikawaya Heiroku",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Mikawaya Heiroku",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1957,
   "image_width": 2471,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige ga}",
+  "markings": "Censor seals: {Kinugasa}, {Hama}\r\nPublisher seal: {Yokkaichi, Mihei}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "For this fan print, Hiroshige depicts the noblewoman Murasaki Shikibu (active ca.973-ca.1016), the author of Genji monogatari (Tale of Genji), one of the world's oldest-and Japan's most beloved-novels. It is said that lady Murasaki came up with the idea for her novel while viewing the harvest moon over Lake Biwa while staying at Ishiyamadera temple. Hiroshige exploited this episode as an autumn theme for his fan design.",
   "title": "Murasaki Gazing at the Moon at Ishiyama Temple"

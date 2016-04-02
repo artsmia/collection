@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.121",
-  "artist": "Utagawa Hiroshige; Tani Bunchō; Published by Yamaguchiya Tōbei",
+  "artist": "Artist: Utagawa Hiroshige; Artist: Tani Bunchō; Publisher: Published by Yamaguchiya Tōbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2798,
   "image_width": 1910,
+  "inscription": "upper left: {waka}; lower right: Chinese poem",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "upper left: {waka}; lower right: Chinese poem ",
+  "markings": "Censor: Kai, December 1853; Calligrapher: Seiken Gengyo; URC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Four Images, Harimaze"

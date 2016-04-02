@@ -1,6 +1,7 @@
 {
   "accession_number": "53.7",
-  "artist": "E. Fred Anderson",
+  "artist": "Artist: E. Fred Anderson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3744,
   "image_width": 5264,
+  "inscription": "Signature",
   "life_date": "American, 1910-1962",
-  "marks": "Signature LRC: [E. Fred Anderson]",
+  "markings": "",
   "medium": "Gouache",
   "nationality": "American",
   "provenance": "The artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [E. Fred Anderson]",
   "style": "20th century",
   "text": "",
   "title": "Sea Gull"

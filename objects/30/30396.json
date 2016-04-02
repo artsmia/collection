@@ -1,6 +1,7 @@
 {
   "accession_number": "98.105.117",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Sculpture",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Walter Lane Barksdale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3639,
   "image_width": 5559,
+  "inscription": "Inscriptions",
   "life_date": null,
-  "marks": "Inscriptions ",
+  "markings": "two untranslated inscriptions, under base and on back of man\\'S garment",
   "medium": "Ivory, pigment",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "(Farmer and Dog)"

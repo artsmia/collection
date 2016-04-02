@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.56",
-  "artist": "Bartolomeo Coriolano; After Guido Reni",
+  "artist": "Artist: Bartolomeo Coriolano; Artist: After Guido Reni",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of the funds from Dr. Harold Joachim",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian (Bologna), about 1599-about 1676",
-  "marks": "Signature In plate",
+  "inscription": "Signature",
+  "life_date": "Italian (Bologna), 1575–1642",
+  "markings": "",
   "medium": "Chiaroscurio woodcut",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "17th century",
   "text": "",
   "title": "A Thesis"

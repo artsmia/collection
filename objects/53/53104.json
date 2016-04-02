@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,594",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2983,
   "image_width": 3956,
+  "inscription": "Center verso, in pencil: [H. / 10]\r\nLL verso, in pencil: [Whistler - \\\"Wheelwright\\\" W.162 K.233 One of \\\"26 Etchings\\\"]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "Center verso, in pencil: [H. / 10]\r\nLL verso, in p LL recto, in pencil: sheet trimmed leaving a tab f",
+  "markings": "LL printed in plate: [(butterfly symbol)]\r\nLR verso on tab, in blue ink: [(intertwined H and M)] Howard Mansfield collector\\'s stamp (Lugt 1342)\r\n",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "Howard Mansfield (Lugt 1342, 1849-1938), New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL recto, in pencil: sheet trimmed leaving a tab for Whistler\\'s butterfly monogram and [imp.]",
   "style": "19th century",
   "text": "",
   "title": "Wheelwright from \"The Second Venice Set\""

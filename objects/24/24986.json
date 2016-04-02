@@ -1,6 +1,7 @@
 {
   "accession_number": "86.13.17",
-  "artist": "Peter Bateman; Ann Bateman",
+  "artist": "Artist: Peter Bateman; Artist: Ann Bateman",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Margaret B. Hawks",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3993,
   "image_width": 3316,
+  "inscription": "Marks; Inscription\r\n\r\nEngraved with initials [J * B] under foot on opposite side from marks.",
   "life_date": "British, 1740-1825",
-  "marks": "Marks; Inscription\r\n\r\nEngraved with initials [J *  ",
+  "markings": "Marks\r\n\r\nFully marked under foot.",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sugar basket"

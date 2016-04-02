@@ -1,6 +1,7 @@
 {
   "accession_number": "P.48.11",
-  "artist": "Adja Yunkers",
+  "artist": "Artist: Adja Yunkers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signature\r\n\r\nsee Signed in pale blue ink: [Yunkers]",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pale blue ink: [Yunkers]",
   "style": "20th century",
   "text": "",
   "title": "Child with Dead Birds"

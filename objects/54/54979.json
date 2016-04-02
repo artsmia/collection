@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.3.17",
-  "artist": "Félix Vallotton; L' Image , No. 9",
+  "artist": "Artist: Félix Vallotton; Publisher: L' Image , No. 9",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Gardner Teall",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swiss, 1865 - 1925",
-  "marks": "Signature\r\n\r\nsee Signed signed in plate and on sheet",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in plate and on sheet",
   "style": "19th century",
   "text": "",
   "title": "L' Eté et L' Hiver"

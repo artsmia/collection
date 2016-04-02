@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.14",
-  "artist": "Gary L. Johnson; Timothy P. Greer",
+  "artist": "Artist: Gary L. Johnson; Artist: Timothy P. Greer",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3634,
   "image_width": 1897,
+  "inscription": "Signed, numbered, titled, and studio stamp.",
   "life_date": "American, born 1954",
-  "marks": "Signed, numbered, titled, and studio stamp. LR: [Gary L. Johnson]\r\nLL: [A.P. 1/10]\r\nLC: [\\\"The ",
+  "markings": "VEL studio stamp in silver ink (verso): PRINTED AT VERMILLION EDITIONS LTD.",
   "medium": "Lithograph in white ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Gary L. Johnson]\r\nLL: [A.P. 1/10]\r\nLC: [\\\"The Neo-Cookie-Cutter Style\\\"]",
   "style": "20th century",
   "text": "",
   "title": "The Neo-Cookie-Cutter Style"

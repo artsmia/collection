@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.18.6",
-  "artist": "Joseph Nechvatal; Published by Akasha Studio, Minneapolis",
+  "artist": "Artist: Joseph Nechvatal; Publisher: Published by Akasha Studio, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Dr. Glen D. Nelson",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1985 Joseph Nechvatal",
   "image_height": 3733,
   "image_width": 2833,
+  "inscription": "Signed and Numbered\r\n\r\nInscribed in pencil, LL: [AP 2/6]",
   "life_date": "American, born 1951",
-  "marks": "Signed and Numbered\r\n\r\nInscribed in pencil, LL: [A Signed in pencil, LR: [Joseph Nechvatal]\r\n",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis; Glen D. Nelson, Minneapolis; gave to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Joseph Nechvatal]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Push"

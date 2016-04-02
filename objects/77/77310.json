@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,449",
-  "artist": "Ego ?; H. Pyall; Thomas McLean",
+  "artist": "Artist: Ego ?; Engraver: H. Pyall; Publisher: Thomas McLean",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "English, active 1827-1833",
+  "markings": "",
   "medium": "Hand-colored aquatint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Going Out to Dinner, or Rather Late than Otherwise"

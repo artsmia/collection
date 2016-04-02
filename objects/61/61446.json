@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.86.1",
-  "artist": "Buffalo Pottery",
+  "artist": "Manufacturer: Buffalo Pottery",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Janice Lea Lurie in honor of Irene F. Lurie",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark, Inscription and Signature\r\n\r\nOn front, below central image, in black glaze: [The Fallowfield Hunt the Start]",
   "life_date": "Buffalo, New York",
-  "marks": "Mark, Inscription and Signature\r\n\r\nOn front, below On front, below central image: [B.SAUTER-(?)]",
+  "markings": "On bottom, in black glaze: (buffalo surmounting a sign)/MADE AT/YE/BUFFALO POTTERY/19/09/DELDARE WARE/UNDERGLAZE]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On front, below central image: [B.SAUTER-(?)]",
   "style": "20th century",
   "text": "",
   "title": "Plate with Hunting Scene"

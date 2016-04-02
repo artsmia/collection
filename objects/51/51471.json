@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,906",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Mrs. George P. Douglas, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "In pencil at lower margin:  Charing Cross  Jo Pennell  Goulding Imp  15 printed*\r\n\r\n*Wuerth says 5",
   "life_date": "American, 1860 - 1926",
-  "marks": "In pencil at lower margin:  Charing Cross  Jo Penn in pencil",
+  "markings": "Collector\\'s: \\\"D\\\" stamp on verso",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil",
   "style": "19th century",
   "text": "",
   "title": "Rainy Night, Charing Cross Station"

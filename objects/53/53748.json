@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.19",
-  "artist": "Helen Frankenthaler; Published by Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Helen Frankenthaler; Publisher: Published by Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Chop Mark\r\n\r\nsee Signed",
   "life_date": "American, 1928-2011",
-  "marks": "Signature, Chop Mark\r\n\r\nsee Signed in pencil: [Frankenthaler]",
+  "markings": "Publisher\\'s blindstamp, LR",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "(Brooke Alexander, New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Frankenthaler]",
   "style": "20th century",
   "text": "",
   "title": "Altitudes"

@@ -1,6 +1,7 @@
 {
   "accession_number": "96.66.2a,b",
-  "artist": "Christopher Dresser; Old Hall Earthenware Company",
+  "artist": "Designer: Christopher Dresser; Manufacturer: Old Hall Earthenware Company",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2090,
   "image_width": 4858,
+  "inscription": "Stamp",
   "life_date": "Scottish, 1834-1904",
-  "marks": "Stamp ",
+  "markings": "bottom UL side: \\'B&N & 4186\\' \\'Hampden\\', underside of lid: illegible stamp",
   "medium": "Earthenware",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Covered Tureen, one of a pair"

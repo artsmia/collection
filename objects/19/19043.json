@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.101",
-  "artist": "Carle Vernet; Louis-Philibert Debucourt",
+  "artist": "Maker: Carle Vernet; Engraver: Louis-Philibert Debucourt",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1758 - 1836",
-  "marks": "Title; Inscription ",
+  "inscription": "Title; Inscription",
+  "life_date": "French, 1755 - 1832",
+  "markings": "Title, location and attribution of engraver and publisher, on bottom (Seems to have been cut from print and attached to drawing)",
   "medium": "Watercolor",
   "nationality": "French",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Adieux d'un Russe à une Parisienne"

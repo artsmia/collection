@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.258.1",
-  "artist": "Frank Lloyd Wright; Frank Lloyd Wright; William Wesley Peters; Horizon Press",
+  "artist": "Artist: Frank Lloyd Wright; Author: Frank Lloyd Wright; Author: William Wesley Peters; Publisher: Horizon Press",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Roger G. Kennedy",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1867 - 1959",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1867–1959",
+  "markings": "",
   "medium": "Lithographic reproductions of architectural drawings; letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Buildings, Plans and Designs by Frank Lloyd Wright"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.15",
-  "artist": "Vija Celmins; Published by Gemini G.E.L., Los Angeles",
+  "artist": "Artist: Vija Celmins; Publisher: Published by Gemini G.E.L., Los Angeles",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in graphite in LL:  [55/75]",
   "life_date": "American, (born Latvia) 1939",
-  "marks": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in gr Signed in graphite, LR:  [V. Celmins]",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "Target Corporation, Minneapolis, gave to MIA, 2001",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in graphite, LR:  [V. Celmins]",
   "style": "20th century",
   "text": "",
   "title": "Drypoint-Ocean Surface"

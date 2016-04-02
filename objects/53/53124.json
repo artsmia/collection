@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,609",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3708,
   "image_width": 2584,
+  "inscription": "LL verso, in pencil: [a44201]\r\nLR verso, in pencil: [30]; in pencil by Whistler: [4th proof pulled / (butterfly symbol)]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [a44201]\r\nLR verso, in pencil LL recto, in pencil: sheet trimmed leaving a tab f",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL recto, in pencil: sheet trimmed leaving a tab for Whistler\\'s butterfly monogram and [imp.]",
   "style": "19th century",
   "text": "",
   "title": "Pierrot"

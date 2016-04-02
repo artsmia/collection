@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,300",
-  "artist": "Jacob van Ruisdael",
+  "artist": "Artist: Jacob van Ruisdael",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "Gift of Miss Eileen Bigelow and Mrs. O. H. Ingram, in memory of their mother, Mrs. Alice F. Bigelow, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Dutch, 1628 or 1629 - 1682",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1628 or 1629–1682",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Cottage and Footbridge"

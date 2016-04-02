@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.26.18",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edith and Norman Garmezy",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4232,
   "image_width": 2872,
+  "inscription": "LL verso, in pencil: [MK 33268]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [MK 33268] LL on tab, in pencil: [(butterfly symbol)] and [im",
+  "markings": "Watermark: [W W]\r\n",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "(Harbor Gallery, New York); Edith and Norman Garmezy, Edina, Minn.; given to MIA, 1998.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL on tab, in pencil: [(butterfly symbol)] and [imp.]",
   "style": "19th century",
   "text": "",
   "title": "The Beggars"

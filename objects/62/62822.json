@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.63.33",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Casts and Copies",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "kyōka",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "kyōka Hokusai aratame Iitsu hitsu 北斎改為一筆",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hokusai aratame Iitsu hitsu 北斎改為一筆",
   "style": "19th century",
   "text": "Meiji-period reproduction",
   "title": "Stone"

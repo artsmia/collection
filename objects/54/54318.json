@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.7",
-  "artist": "Thomas Rose",
+  "artist": "Artist: Thomas Rose",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. DeCourcy E. McIntosh",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1942",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Thomas Rose]",
+  "markings": "Chop Mark: triangle",
   "medium": "Color lithograph with collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Thomas Rose]",
   "style": "20th century",
   "text": "",
   "title": "Simple, Though Unlikely"

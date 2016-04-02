@@ -1,6 +1,7 @@
 {
   "accession_number": "64.21.1",
-  "artist": "Kenneth Callahan",
+  "artist": "Artist: Kenneth Callahan",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Emily Winthrop Miles",
@@ -14,8 +15,9 @@
   "image_copyright": "© Kenneth Callahan",
   "image_height": 4660,
   "image_width": 6231,
+  "inscription": "Signature",
   "life_date": "American, 1905-1986",
-  "marks": "Signature Signed LR: [Kenneth Callahan]",
+  "markings": "",
   "medium": "Oil on board",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed LR: [Kenneth Callahan]",
   "style": "20th century",
   "text": "",
   "title": "The Meeting"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.235",
-  "artist": "Jean-Honoré Fragonard",
+  "artist": "Artist: Jean-Honoré Fragonard",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Daniel T. and Helen E. Lindsay",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4662,
   "image_width": 5973,
-  "life_date": "French, 1732-1806",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1732–1806",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G310",
+  "signed": "",
   "style": "18th century",
   "text": "Like many artists of his generation, Jean-Honoré Fragonard initially trained in Italy. While living in Rome from 1756 to 1761, he visited the Villa d'Este at Tivoli and painted the grand staircase leading into the famous water gardens with their hundreds of cascading fountains. This work by one of France's most important 18th-century painters was purchased by the director of the French Academy in Rome before the artist returned home. ",
   "title": "The Grand Staircase of the Villa d'Este at Tivoli"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.115",
-  "artist": "Utagawa Kunisada; Published by Hiranoya Chōemon",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Hiranoya Chōemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2586,
   "image_width": 1794,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": " 五渡亭國貞画 {Gototei Kunisada ga}",
+  "markings": "censor seal: 極 {kiwame} | publisher\\'s seal: 長 {Chō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "五渡亭國貞画 {Gototei Kunisada ga}",
   "style": "19th century",
   "text": "Center sheet of a triptych. Related to the play Hakatagoma meibutsu banashi 博多高麗名物噺, performed at the Kawarazaki Theater, 1815, tenth month.",
   "title": "The Actor Matsumoto Kōshirō V as Genkai no Nadaemon"

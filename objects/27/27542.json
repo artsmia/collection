@@ -1,6 +1,7 @@
 {
   "accession_number": "91.19",
-  "artist": "Werner Gilles",
+  "artist": "Artist: Werner Gilles",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark; Inscription",
   "life_date": "German, 1894 - 1961",
-  "marks": "Signature; Date; Mark; Inscription [Gilles/1952], lower right, recto",
+  "markings": "Watermark: crab design?; [989a], lower right corner of board",
   "medium": "Watercolor",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Gilles/1952], lower right, recto",
   "style": "20th century",
   "text": "",
   "title": "Landscape"

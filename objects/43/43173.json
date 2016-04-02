@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.14.3",
-  "artist": "Sam Gilliam",
+  "artist": "Maker: Sam Gilliam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Gilliam",
   "image_height": 4374,
   "image_width": 3402,
+  "inscription": "Signed, dated, inscribed, titled, and chop mark.",
   "life_date": "American, born 1933",
-  "marks": "Signed, dated, inscribed, titled, and chop mark. LR: [Sam Gilliam 1982]\r\nLR: [Archive Proof]\r\nLL: [",
+  "markings": "LL: VEL chop mark",
   "medium": "Color relief print, screenprint, etching, drypoint, aquatint, and roulette",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Sam Gilliam 1982]\r\nLR: [Archive Proof]\r\nLL: [Buoy / Landscape / III]",
   "style": "20th century",
   "text": "",
   "title": "Buoy Landscape III"

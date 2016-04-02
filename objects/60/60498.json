@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.279.11",
-  "artist": "J. &amp; J.G. Low Patent Art Tile Works",
+  "artist": "Manufacturer: J. &amp; J.G. Low Patent Art Tile Works",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Christopher Monkhouse in honor of Matthew Welch",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4076,
   "image_width": 4080,
+  "inscription": "",
   "life_date": "Chelsea, Massachussets, 1877-1907",
-  "marks": " ",
+  "markings": "\\\"REG. TRADE MARK\\\" and 2 keys(?) inside a circle, stamped, on back; \\\"Pat. Feb. 18.79\\\", in black, on back",
   "medium": "Glazed earthenware, metal",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile with botanical design"

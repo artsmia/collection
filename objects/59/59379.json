@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.84.1",
-  "artist": "Adja Yunkers",
+  "artist": "Artist: Adja Yunkers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3534,
   "image_width": 2660,
+  "inscription": "Signed, Dated, Numbered, Titled, Chop Mark",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signed, Dated, Numbered, Titled, Chop Mark LR: [Adja Yunkers -80]\r\nLC: [A.P. 1/10]\r\nLL: [LES ",
+  "markings": "Artist\\'s Chop Mark, VEL Chop Mark",
   "medium": "Color etching and screenprint with hand-coloring",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Adja Yunkers -80]\r\nLC: [A.P. 1/10]\r\nLL: [LES PENDUS.]\r\nLR: Artist\\'s Chop Mark\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Les Pendus"

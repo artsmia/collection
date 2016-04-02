@@ -1,6 +1,7 @@
 {
   "accession_number": "P.505",
-  "artist": "Giuseppe Longhi; after Leonardo da Vinci",
+  "artist": "Artist: Giuseppe Longhi; Artist: after Leonardo da Vinci",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription \r\nverses in Longhi\\'s script: [Leonardo da Vinci inv.] [Marcod Oggiono dip] [Ape Longhi inc. 182]",
   "life_date": "Italian (Lombardy), 1766 - 1831",
-  "marks": "Inscription \r\nverses in Longhi\\'s script: [Leonardo ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "La Madonna del Lago"

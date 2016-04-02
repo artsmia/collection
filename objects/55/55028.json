@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.146",
-  "artist": "Arman (Arman Fernandez)",
+  "artist": "Artist: Arman (Arman Fernandez)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Arman Studio Archives NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nNumbered LL: [10/150]",
   "life_date": "French, 1928 - 2005",
-  "marks": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nNumbered LL: [ Incised signature, LL: [Arman]",
+  "markings": "",
   "medium": "Color screenprint on acetate",
   "nationality": "French",
   "provenance": "(Galerie Thomas, Münich, Germany); sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Incised signature, LL: [Arman]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Tubes of Paint)"

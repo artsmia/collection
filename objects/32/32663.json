@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.69",
-  "artist": "Auguste (François-Auguste-René) Rodin; Text by Paul Gsell; a Bernard Grasset Éditeur, Paris",
+  "artist": "Artist: Auguste (François-Auguste-René) Rodin; Author: Text by Paul Gsell; Publisher: a Bernard Grasset Éditeur, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1840-1917",
-  "marks": " ",
+  "markings": "",
   "medium": "Photographs and text",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "L'Art"

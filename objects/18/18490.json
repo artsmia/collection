@@ -1,6 +1,7 @@
 {
   "accession_number": "62.76.1",
-  "artist": "Amedeo Modigliani",
+  "artist": "Maker: Amedeo Modigliani",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4224,
   "image_width": 2651,
+  "inscription": "Signature",
   "life_date": "Italian, 1884 - 1920",
-  "marks": "Signature [Modigliani] in graphite, lower left",
+  "markings": "",
   "medium": "Graphite on white wove paper fully laid on Japanese paper",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Modigliani] in graphite, lower left",
   "style": "20th century",
   "text": "",
   "title": "Mr. Heyden of Dublin"

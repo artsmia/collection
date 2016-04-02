@@ -1,6 +1,7 @@
 {
   "accession_number": "91.73.2",
-  "artist": "Jean-Baptiste Carpeaux",
+  "artist": "Maker: Jean-Baptiste Carpeaux",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6551,
   "image_width": 3655,
+  "inscription": "Signature",
   "life_date": "French, 1827-1875",
-  "marks": "Signature ",
+  "markings": "\\'JBt. Carpeaux. 1874\\' on base",
   "medium": "Terra cotta",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Eve Emportant le Fruit de Mal (Eve Chassee du Paradis Terrestre)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.19",
-  "artist": "Leonardo Lasansky",
+  "artist": "Artist: Leonardo Lasansky",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Leonardo Lasansky",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Edition\r\n\r\nIn graphite, LL:  Mentiras y Milagros 4/50",
   "life_date": "American, born 1946",
-  "marks": "Signature, Title, Edition\r\n\r\nIn graphite, LL:  Men in graphite LR:  [Lasansky]",
+  "markings": "",
   "medium": "Color engraving, drypoint, softground, sugar-lift, roulette, mezzotint, spit-bite, and etching",
   "nationality": "American",
   "provenance": "the artist",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite LR:  [Lasansky]",
   "style": "21st century",
   "text": "",
   "title": "Mentiras y Milagros (Lies and Miracles)"

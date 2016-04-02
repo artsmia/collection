@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,753",
-  "artist": "Auguste Louis Lepère",
+  "artist": "Artist: Auguste Louis Lepère",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury, 1958",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "stamp",
   "life_date": "French, 1849 - 1918",
-  "marks": "stamp ",
+  "markings": "Blind stamp: Sagot",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La vieille passerelle, bords du petite morin"

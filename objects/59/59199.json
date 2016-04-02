@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.6",
-  "artist": "Emmanuel Aubain",
+  "artist": "Artist: Emmanuel Aubain",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"98/110\\\", in graphite, LL",
   "life_date": "French",
-  "marks": "\\\"98/110\\\", in graphite, LL \\\"Aubain\\\", in graphite, LR",
+  "markings": "unidentified chop mark LR",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Aubain\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Saint Gervais-Saint Protais"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.16.58",
-  "artist": "Thomas Schofield Handforth",
+  "artist": "Artist: Thomas Schofield Handforth",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Merle Shera",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\n# on back side",
   "life_date": "American, 1897 - 1947",
-  "marks": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\n# on etched on image - penciled on margin\r\n",
+  "markings": "Watermark:  <Whatman>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "etched on image - penciled on margin\r\n",
   "style": "20th century",
   "text": "",
   "title": "Benito"

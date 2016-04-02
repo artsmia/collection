@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,082",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\non verso in the artist\\'s hand: [one of first 10 prints]",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\non v in plate at LL: [Philip Kappel]; pencil at LR marg",
+  "markings": "Watermark: <F.J. Head and Co.>",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate at LL: [Philip Kappel]; pencil at LR margin: [Philip Kappel]",
   "style": "20th century",
   "text": "",
   "title": "Sail and Steam"

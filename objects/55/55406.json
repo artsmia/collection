@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,068",
-  "artist": "Jan Matthijs Graadt van Roggen; after Jacob van Ruisdael",
+  "artist": "Artist: Jan Matthijs Graadt van Roggen; Artist: after Jacob van Ruisdael",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Dutch, born 1866",
-  "marks": "Signature\r\n\r\n(see Signed) in pencil: [Jan Graadt van Roggen]",
+  "inscription": "Signature\r\n\r\n(see Signed)",
+  "life_date": "Dutch, 1628 or 1629–1682",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Jan Graadt van Roggen]",
   "style": "19th century",
   "text": "",
   "title": "View of Haarlem (The Bleaching Ground)"

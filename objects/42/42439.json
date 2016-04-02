@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.89",
-  "artist": "Matsumura Keibun",
+  "artist": "Artist: Matsumura Keibun",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1625,
   "image_width": 3991,
+  "inscription": "14 haiku poems about early spring",
   "life_date": "Japanese, 1779 - 1843",
-  "marks": "14 haiku poems about early spring Keibun",
+  "markings": "\\\"Keibun\\\" sealed in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Keibun",
   "style": "19th century",
   "text": "",
   "title": "(Seacoast with pines and Mt. Fuji)"

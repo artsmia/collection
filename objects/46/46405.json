@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,448",
-  "artist": "Jean Pierre Simon; after Opie",
+  "artist": "Artist: Jean Pierre Simon; Artist: after Opie",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "English, c.1750 - c.1810",
-  "marks": " ",
+  "markings": "",
   "medium": "Stipple",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Sleeping Nymph"

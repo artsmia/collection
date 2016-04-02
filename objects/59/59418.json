@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.156",
-  "artist": "Franz Eggenschwiler",
+  "artist": "Artist: Franz Eggenschwiler",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Miss Eileen Bigelow & Mrs. O. H. Ingram, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Swiss, 1930 - 2000",
-  "marks": "Mark ",
+  "markings": "Watermark: <B F K Rives> \r\nChop mark: <70>",
   "medium": "Color screenprint",
   "nationality": "Swiss",
   "provenance": "(Galerie Renee Ziegler, Zurich); sold to MIA, 1971.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Schweizerischer Kunstverein"

@@ -1,6 +1,7 @@
 {
   "accession_number": "78.71.1",
-  "artist": "Cameron Booth",
+  "artist": "Artist: Cameron Booth",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4361,
   "image_width": 6580,
+  "inscription": "Signature",
   "life_date": "American, 1892 - 1980",
-  "marks": "Signature LL: [Cameron Booth]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Cameron Booth]",
   "style": "20th century",
   "text": "",
   "title": "Range Village"

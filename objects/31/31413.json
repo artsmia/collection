@@ -1,6 +1,7 @@
 {
   "accession_number": "99.195.21.2",
-  "artist": "Georg Jensen",
+  "artist": "Maker: Georg Jensen",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Denmark",
   "creditline": "Gift of The Frederick and Margaret L. Weyerhaeuser Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2363,
   "image_width": 5411,
+  "inscription": "Stamp",
   "life_date": "Danish, 1866-1935",
-  "marks": "Stamp ",
+  "markings": "at underside of handle nearest bowl: [141]/oval [GEORG JENSEN]/[DENMARK]/[STERLING]",
   "medium": "Silver",
   "nationality": "Danish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Ladle"

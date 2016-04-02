@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,251",
-  "artist": "Edmond Hédouin",
+  "artist": "Artist: Edmond Hédouin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1663,
   "image_width": 2719,
+  "inscription": "Signature",
   "life_date": "French, 1820 - 1889",
-  "marks": "Signature Signature centered, below image on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature centered, below image on sheet",
   "style": "19th century",
   "text": "",
   "title": "Silence et nuit des bois"

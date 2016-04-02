@@ -1,6 +1,7 @@
 {
   "accession_number": "B.95.7",
-  "artist": "Edward Ruscha; Edward A. Foster; Published by Minneapolis Institute of Art; Co-designed by Edward Ruscha; Co-designed by Edward A. Foster; Printed by Kolorpress, Inc., Minneapolis",
+  "artist": "Artist: Edward Ruscha; Author: Edward A. Foster; Publisher: Published by Minneapolis Institute of Art; Designer: Co-designed by Edward Ruscha; Designer: Co-designed by Edward A. Foster; Printer: Printed by Kolorpress, Inc., Minneapolis",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Sandra and Peter Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "© Ed Ruscha",
   "image_height": 4038,
   "image_width": 3381,
+  "inscription": "none",
   "life_date": "American, born 1937",
-  "marks": "none unsigned",
+  "markings": "",
   "medium": "Artist's book: offset lithographs, letterpress",
   "nationality": "American",
   "provenance": "Pub. by Minneapolis Institute of Arts, 1972; Sandra and Peter Butler, Minneapolis; thier gift to MIA, 1995.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "unsigned",
   "style": "20th century",
   "text": "",
   "title": "Edward Ruscha (ED-WERD REW-SHAY) Young Artist"

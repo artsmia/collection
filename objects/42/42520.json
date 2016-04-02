@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.40",
-  "artist": "Kawabata Gyokusho_",
+  "artist": "Artist: Kawabata Gyokusho_",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3645,
   "image_width": 4522,
+  "inscription": "",
   "life_date": "Japanese, 1842 - 1913",
-  "marks": " Gyokusho_",
+  "markings": "2 artist\\'s seal in red",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Gyokusho_",
   "style": "19th century",
   "text": "",
   "title": "Train Coming Back to the Takanawa Station"

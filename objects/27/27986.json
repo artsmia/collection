@@ -1,6 +1,7 @@
 {
   "accession_number": "92.57.4",
-  "artist": "David Saunders",
+  "artist": "Artist: David Saunders",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Date; Signature",
   "life_date": "American, born 1954",
-  "marks": "Date; Signature LR: [David Saunders 1983]",
+  "markings": "VEL chop, LL",
   "medium": "Lithographic crayon on acetate",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [David Saunders 1983]",
   "style": "20th century",
   "text": "",
   "title": "Sea of Troubles"

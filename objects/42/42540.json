@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.33",
-  "artist": "Gesshū",
+  "artist": "Artist: Gesshū",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3608,
   "image_width": 4776,
+  "inscription": "16 haikus about the New Year",
   "life_date": "Japanese",
-  "marks": "16 haikus about the New Year {Gesshū}",
+  "markings": "Red artist\\'s seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Gesshū}",
   "style": "19th century",
   "text": "",
   "title": "(Morning glow on the New Year's day)"

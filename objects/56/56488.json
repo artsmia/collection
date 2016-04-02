@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.39",
-  "artist": "Georges Rouault",
+  "artist": "Artist: Georges Rouault",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Dr. & Mrs. David Bradford",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1871 - 1958",
-  "marks": " Signed with initials and dated on plate <GR 1922>",
+  "inscription": "",
+  "life_date": "French, 1871–1958",
+  "markings": "",
   "medium": "Aquatint, roulette, and drypoint over heliogravure",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed with initials and dated on plate <GR 1922>",
   "style": "20th century",
   "text": "",
   "title": "Au pressoir, le raisin fut foulé, plate 48 from \"Miserere\""

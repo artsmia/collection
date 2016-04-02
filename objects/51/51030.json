@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,152",
-  "artist": "John M. Pope",
+  "artist": "Artist: John M. Pope",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1963",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American",
-  "marks": " In plate:  1882",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate:  1882",
   "style": "19th century",
   "text": "",
   "title": "The Reprimand"

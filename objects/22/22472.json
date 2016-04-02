@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.110",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1992,
   "image_width": 2876,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Publisher:Sanoki(Sanoya Kihei); LRC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Listening to Insects in Do_kan-yama Hill"

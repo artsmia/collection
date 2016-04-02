@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,928",
-  "artist": "Samuel Arlent Edwards; after Alessandro di Mariano Botticelli",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: after Alessandro di Mariano Botticelli",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Artist, 1923",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature on plate in pencil",
+  "inscription": "Signature",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "word \\\"Minneapolis\\\" in pencil in upper right corner, upside down; a small 73 in lower left of sheet",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate in pencil",
   "style": "19th century",
   "text": "",
   "title": "Portrait of a Lady (Lucrezia Tornabuoni)"

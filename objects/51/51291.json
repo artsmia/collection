@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,141",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signed in pencil in lower margin < Joseph Pennell >\r\nEtched in plate: < Water Street Stairs Jo Pennell >\r\n",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signed in pencil in lower margin < Joseph Pennell  in plate and on paper in pencil",
+  "markings": "",
   "medium": "Etching on Japan paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate and on paper in pencil",
   "style": "19th century",
   "text": "",
   "title": "Water Street Stairs, Looking Down"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.426",
-  "artist": "Utagawa Hiroshige; Jōshūya Jūzō / Jūbei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Jōshūya Jūzō / Jūbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4801,
   "image_width": 3333,
+  "inscription": "Titles of images: {Iwa} (Rock), {Kame no ko} (Small Tortoise), {Karasu} (Crow), {Tōjin} (Chinese Man), {Katatsumuri} (Snail), {Kitsune} (Fox), {Shachihoko} (Fish Shape Statue), {Mimizuku} (Owl)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Titles of images: {Iwa} (Rock), {Kame no ko} (Smal ",
+  "markings": "Publisher\\'s seal: {Jōshige-ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Eight Shadow Figures"

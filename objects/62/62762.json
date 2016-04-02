@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.187",
-  "artist": "Leo A. Henkora",
+  "artist": "Artist: Leo A. Henkora",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Flora Kase Ornstein in memory of her mother, Dorothy Miller Kase Gilbert, a student of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 1940,
   "image_width": 2444,
+  "inscription": "Signature, Title, Date and Edition\r\n\r\nsee Signed",
   "life_date": "American (b. Austria), 1893-1954",
-  "marks": "Signature, Title, Date and Edition\r\n\r\nsee Signed at bottom edge, in pencil: [Leo A. Henkora - 1930 ",
+  "markings": "LRC, in pencil: [6/50]",
   "medium": "Woodcut",
   "nationality": "American (b. Austria)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "at bottom edge, in pencil: [Leo A. Henkora - 1930  Labor]",
   "style": "20th century",
   "text": "",
   "title": "Labor"

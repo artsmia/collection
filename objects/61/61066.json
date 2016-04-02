@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.586",
-  "artist": "Utagawa Hiroshige; Ibaya Kyūbei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Ibaya Kyūbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2879,
   "image_width": 1896,
+  "inscription": "Upper (on fan): (Two sons of Gennojō successfully revenged their father on a foggy morning. The story had been told in Kameyama long afterwards.)\r\n\r\nLower: (Ishi (Gennojō) had a mistress named Omastu in Akashi. She was raising two of his children, making a small money from a sewing job. Despite her poverty, she had been faithful to her husband, always caring for him. When she was taking a nap on an evening, she dreamed that her husband was coming home. As soon as she happily welcomed him in house, the dream had suddenly gone. She awakened with the realization that she had an opposite dream (sakayume) and her husband had been killed. Then she decided to be a nun, left her children with her father in law, and cut her hair.)\r\n\r\nUnconfirmed inscription from MFAB: [（こま絵）まだ霧ふかき朝まだき　城のこなたの松原にて　源之丞が二人の伜　かんなん辛苦も時を得て　恨みかさなる水右衛門を首尾よく討取本地に返り　名を万代に残しける　めでたしめでたし 　（画中）石井が隠妻（ことつま）お松といえるは明石の里に侘住ひ　二人り子供を養育し賎が手業に世を送る　まづしき中に操を立　夫の身の上物案じ　しばしまどろむ夕暮に　門辺にたたずむ源之丞　昔にかはらぬ立派の出立　お松は嬉しく出迎ひ　御堅固なりしか我夫（つま）と　いわんとすればこつぜんと　ねふりはさめて逆夢なる　返り討ときくよりも　ひたんに袖をしぼりしが　思ひ定めて幼子を　舅の源蔵に預け置き　みどりの黒髪をおし切て　菩提の道に入りにける]",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Upper (on fan): (Two sons of Gennojō successfully  ",
+  "markings": "Publisher\\'s seal: {Ibaya Kyūbē}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Kameyama"

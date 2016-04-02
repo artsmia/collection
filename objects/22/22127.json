@@ -1,6 +1,7 @@
 {
   "accession_number": "79.12.7",
-  "artist": "Camille Fauré",
+  "artist": "Artist: Camille Fauré",
+  "classification": "Enamelware",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4043,
   "image_width": 2798,
+  "inscription": "Signature",
   "life_date": "French, 1872-1944",
-  "marks": "Signature near bottom: [C. Faure, Limoges]",
+  "markings": "",
   "medium": "Fired glass on copper, silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "near bottom: [C. Faure, Limoges]",
   "style": "20th century",
   "text": "",
   "title": "Vase"

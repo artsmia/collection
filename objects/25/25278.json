@@ -1,6 +1,7 @@
 {
   "accession_number": "87.104",
-  "artist": "James Childs",
+  "artist": "Artist: James Childs",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. David G. Dudley",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3744,
+  "inscription": "Signature; Mark; Date",
   "life_date": "American, born 1948",
-  "marks": "Signature; Mark; Date Signed in pencil, LR: [Jas. Childs]; at margin bel",
+  "markings": "Watermark: <Rives> at UL",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Jas. Childs]; at margin below, in pencil, LR: [10-73]",
   "style": "20th century",
   "text": "",
   "title": "Female Nude"

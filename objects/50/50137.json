@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.35.612",
-  "artist": "Auguste Louis Lepère",
+  "artist": "Artist: Auguste Louis Lepère",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Harry Drake",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5488,
   "image_width": 8641,
+  "inscription": "Signature, Inscription and Stamp\r\n\r\nLLC, in pencil: [No 20]; on back, in pencil: [900145]",
   "life_date": "French, 1849 - 1918",
-  "marks": "Signature, Inscription and Stamp\r\n\r\nLLC, in pencil LRC, in pencil: [A Lepère]",
+  "markings": "LRC on image, stamped in black: [EN]",
   "medium": "Color woodcut",
   "nationality": "French",
   "provenance": "L'Estampe Nouvelle, Lugt 886 (founded 1897), Paris. [Judith L. Pillsbury, Paris, until 1994; sold in March for TTOO, to Drake]; Harry Drake, St. Paul (1994-d. 2012; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [A Lepère]",
   "style": "19th century",
   "text": "",
   "title": "Le Bassin des Tuileries"

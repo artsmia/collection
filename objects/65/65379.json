@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.268.3",
-  "artist": "J. &amp; J.G. Low Patent Art Tile Works",
+  "artist": "Manufacturer: J. &amp; J.G. Low Patent Art Tile Works",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Christopher Monkhouse in honor of Barbara Longfellow",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3244,
   "image_width": 3228,
+  "inscription": "Inscription and Stamp\r\non back, in pencil: [9]",
   "life_date": "Chelsea, Massachussets, 1877-1907",
-  "marks": "Inscription and Stamp\r\non back, in pencil: [9] ",
+  "markings": "on back, stamped: [J & J. G. LOW,/ PATENT ART TILE/ WORKS,/ CHELSEA,/ MASS./ U.S.A./ COPYRIGHT 1881 by J & J. G. LOW]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile with Sunflower Design"

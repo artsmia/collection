@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.28",
-  "artist": "Ishikawa Toraji; Carved by Yamagishi Kazue; Printed by Urushibara Eijirō",
+  "artist": "Artist: Ishikawa Toraji; Carver: Carved by Yamagishi Kazue; Printer: Printed by Urushibara Eijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1927,
   "image_width": 2531,
+  "inscription": "",
   "life_date": "Japanese, 1875 - 1964",
-  "marks": " {Ishikawa}",
+  "markings": "red artist\\'s seal: {Tora}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ishikawa}",
   "style": "20th century",
   "text": "",
   "title": "Clearing After Sudden Shower"

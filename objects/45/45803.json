@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.90",
-  "artist": "Eugène Delacroix",
+  "artist": "Artist: Eugène Delacroix",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3706,
   "image_width": 5340,
-  "life_date": "French, 1798 - 1863",
-  "marks": "Signature In stone: Eug. Delacroix",
+  "inscription": "Signature",
+  "life_date": "French, 1798–1863",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In stone: Eug. Delacroix",
   "style": "19th century",
   "text": "",
   "title": "Mule-Drivers from Tetuán"

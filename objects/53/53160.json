@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,517",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4053,
   "image_width": 3248,
+  "inscription": "LL printed in plate: [Imp. Delatre. Rue St. Jacques. 171.]\r\nLL verso, in pencil: [228]; [a23328]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL printed in plate: [Imp. Delatre. Rue St. Jacque Printed signature LR (diagonally) in the plate: [W",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LR (diagonally) in the plate: [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "Fumette"

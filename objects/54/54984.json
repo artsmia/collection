@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,183",
-  "artist": "Léopold Flameng; After John Collier",
+  "artist": "Artist: Léopold Flameng; Artist: After John Collier",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1831 - 1911",
-  "marks": "Signatures and Chop in pencil: [Leopold Flameng]; \r\nin pencil: [John C",
+  "inscription": "Signatures and Chop",
+  "life_date": "French, 1831–1911",
+  "markings": "1 chop mark: [cs]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Leopold Flameng]; \r\nin pencil: [John Collier]",
   "style": "19th century",
   "text": "",
   "title": "Charles Darwin"

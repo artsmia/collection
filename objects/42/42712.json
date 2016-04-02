@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.12",
-  "artist": "Michel Aubert; after Antoine Watteau",
+  "artist": "Artist: Michel Aubert; Artist: after Antoine Watteau",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1700/04 - 1757",
-  "marks": "Signature and Mark\r\n\r\nsee Sigmed signed in print, lower right",
+  "inscription": "Signature and Mark\r\n\r\nsee Sigmed",
+  "life_date": "French, 1684 - 1721",
+  "markings": "Watermark",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in print, lower right",
   "style": "18th century",
   "text": "",
   "title": "L'Indiscret"

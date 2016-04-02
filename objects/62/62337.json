@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.103",
-  "artist": "Oda Kazuma",
+  "artist": "Artist: Oda Kazuma",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2853,
   "image_width": 1942,
+  "inscription": "{Taishō jūyonen}",
   "life_date": "Japanese, 1882 - 1956",
-  "marks": "{Taishō jūyonen} {Kazuma hitsu}",
+  "markings": "",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kazuma hitsu}",
   "style": "20th century",
   "text": "",
   "title": "Yūfuku Hot Spring in Iwami"

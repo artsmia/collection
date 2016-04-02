@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.3.1",
-  "artist": "Herb Jackson",
+  "artist": "Artist: Herb Jackson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1945",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Herb Jackson]",
+  "markings": "Watermark: <BFK Rives France>",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Herb Jackson]",
   "style": "20th century",
   "text": "",
   "title": "Fire"

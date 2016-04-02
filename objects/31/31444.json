@@ -1,6 +1,7 @@
 {
   "accession_number": "99.215.3",
-  "artist": "Kanō Tsunenobu",
+  "artist": "Maker: Kanō Tsunenobu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Allegra and Paul Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4371,
   "image_width": 7010,
+  "inscription": "Signature; Stamp",
   "life_date": "Japanese, 1636 - 1713",
-  "marks": "Signature; Stamp ",
+  "markings": "\\'Tsunenobu\\', in black, LR corner; gourd-shaped seal in red, below signature",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Rooftops in Woods Near Lake"

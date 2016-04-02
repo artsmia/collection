@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.143.1",
-  "artist": "Mori Kansai",
+  "artist": "Artist: Mori Kansai",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Alfred and Ingrid Lenz Harrison",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2001,
   "image_width": 3950,
+  "inscription": "",
   "life_date": "Japanese, 1814 - 1894",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Monkeys"

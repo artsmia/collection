@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.184.2",
-  "artist": "Johann Adam Klein",
+  "artist": "Artist: Johann Adam Klein",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1668,
   "image_width": 2129,
+  "inscription": "Signature, Date and Inscription\r\n\r\nsee Signed",
   "life_date": "German, 1792 - 1875",
-  "marks": "Signature, Date and Inscription\r\n\r\nsee Signed LRC, in black: [J.A. Klein fet Müchen 1819.]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in black: [J.A. Klein fet Müchen 1819.]",
   "style": "19th century",
   "text": "",
   "title": "The Painters on Their Travels"

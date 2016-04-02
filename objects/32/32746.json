@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.12.1",
-  "artist": "Eric Fischl; Frederic Tuten; Editions Enrico Navarra , Paris",
+  "artist": "Artist: Eric Fischl; Author: Frederic Tuten; Publisher: Editions Enrico Navarra , Paris",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signatures\r\n\r\nSigned by artist and author on colophon page",
   "life_date": "American, born 1948",
-  "marks": "Signatures\r\n\r\nSigned by artist and author on colop Signed by artist and author on colophon",
+  "markings": "",
   "medium": "Color aquatints and aquatints in black ink, letterpress",
   "nationality": "American",
   "provenance": "[Mary Ryan Gallery, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed by artist and author on colophon",
   "style": "20th century",
   "text": "",
   "title": "Vincent, A Delirium"

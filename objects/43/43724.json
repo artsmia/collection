@@ -1,6 +1,7 @@
 {
   "accession_number": "P.96.25.1",
-  "artist": "Winold Reiss",
+  "artist": "Artist: Winold Reiss",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Reiss Estate",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (b. Germany), 1886 - 1953",
-  "marks": "Signature\r\n\r\nsee Signed Signed in graphite LR: [Winold Reiss]",
+  "markings": "",
   "medium": "Woodcut in brown ink on Japan paper",
   "nationality": "American (b. Germany)",
   "provenance": "Lora and Martin Weinstein, Minneapolis; given to MIA, 1996",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in graphite LR: [Winold Reiss]",
   "style": "20th century",
   "text": "",
   "title": "Nibelungen I"

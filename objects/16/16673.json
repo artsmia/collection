@@ -1,6 +1,7 @@
 {
   "accession_number": "42.33",
-  "artist": "Theodore Suina (Ku Pe Ru, Snow Beads)",
+  "artist": "Artist: Theodore Suina (Ku Pe Ru, Snow Beads)",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Mrs. C.C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2438,
   "image_width": 4925,
+  "inscription": "Various inscriptions, verso.",
   "life_date": "American (Cochiti Pueblo), born 1918",
-  "marks": "Various inscriptions, verso. Signed in black ink, LRC: [Theodore. Suina.]",
+  "markings": "",
   "medium": "Gouache and watercolor",
   "nationality": "American",
   "provenance": "Kate Koon Bovey, Minneapolis; given  to MIA, 1942.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in black ink, LRC: [Theodore. Suina.]",
   "style": "20th century",
   "text": "",
   "title": "Deer Dance"

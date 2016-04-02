@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.56",
-  "artist": "Michael Manzavrakos",
+  "artist": "Artist: Michael Manzavrakos",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Michael Manzavrakos",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signatrue, Date, Title, Inscription\r\n\r\nsee Signed\r\n\r\nTitled in pencil LL [Edison\\'s Porch -- II State --]",
   "life_date": "American, 1951-2014",
-  "marks": "Signatrue, Date, Title, Inscription\r\n\r\nsee Signed\r Signed, dated in pencil LR [M. Mazavrakos. 1983]",
+  "markings": "",
   "medium": "Drypoint, plate tone, and collage (fragments of torn photograph)",
   "nationality": "American",
   "provenance": "Dayton Hudson Corporation and later, Target Corporation, 1983-2001; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil LR [M. Mazavrakos. 1983]",
   "style": "20th century",
   "text": "",
   "title": "Edison's Porch--State II"

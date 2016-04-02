@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.16.1",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1983,
   "image_width": 2903,
+  "inscription": "大嶋十二景之内　真ひる {Ōshima jūnikei no uchi, Mahiru} (The Twelve Views of Ōshima Island, High Noon)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "大嶋十二景之内　真ひる {Ōshima jūnikei no uchi, Mahiru} (The  hand-applied: 深水 {Shinsui}",
+  "markings": "hand-applied red artist\\'s seal: 深水 {Shinsui} | LLC, publisher seal: ワタナベ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "hand-applied: 深水 {Shinsui}",
   "style": "20th century",
   "text": "",
   "title": "High Noon"

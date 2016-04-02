@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.5",
-  "artist": "Robert Cumming",
+  "artist": "Artist: Robert Cumming",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "©Robert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 3863,
   "image_width": 2955,
+  "inscription": "Signature, date, inscription\r\n\r\n",
   "life_date": "American, born 1943",
-  "marks": "Signature, date, inscription\r\n\r\n UL: [Cumming]\r\nLL in blue felt-tip pen: [Cyclone C",
+  "markings": "",
   "medium": "Blue felt-tip pen, graphite on Hyatt note pad paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UL: [Cumming]\r\nLL in blue felt-tip pen: [Cyclone Chamber/Oculus/Funnel Tower]\r\nLL in pencil: [Cumming/1985]",
   "style": "20th century",
   "text": "",
   "title": "Four Sketches from 'Apex Oculus'"

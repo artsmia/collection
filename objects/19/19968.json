@@ -1,6 +1,7 @@
 {
   "accession_number": "72.60",
-  "artist": "Keith Rasmussen",
+  "artist": "Artist: Keith Rasmussen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2402,
   "image_width": 1700,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1942",
-  "marks": "Signature; Date on left: [K Rasmussen 72]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on left: [K Rasmussen 72]",
   "style": "20th century",
   "text": "",
   "title": "Nancy Seated-in Profile"

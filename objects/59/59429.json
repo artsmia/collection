@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.35",
-  "artist": "Maybelle Stamper",
+  "artist": "Artist: Maybelle Stamper",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Stamp\r\n\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature; Date; Title; Stamp\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Lithograph with color stencils (silkscreen?)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Moment of Inspiration"

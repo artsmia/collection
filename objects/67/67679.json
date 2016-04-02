@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,941",
-  "artist": "Utagawa Toyoharu; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Utagawa Toyoharu; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1889,
   "image_width": 2707,
-  "life_date": "Japanese, 1735 - 1814",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "uki-e",
   "text": "",
   "title": "Fukagawa Hachiman Shrine in Edo"

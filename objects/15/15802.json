@@ -1,6 +1,7 @@
 {
   "accession_number": "35.8.1",
-  "artist": "George Ridout",
+  "artist": "Maker: George Ridout",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3582,
   "image_width": 5426,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "stamped in base of each stick: [GR]",
   "medium": "Silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Queen Anne",
   "text": "",
   "title": "Candlestick, one of a pair"

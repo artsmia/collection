@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.44",
-  "artist": "George Sugarman; St. Cloud State University",
+  "artist": "Artist: George Sugarman; Workshop: St. Cloud State University",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Black and Rebecca Haas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1912",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Sugarman]",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Sugarman]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

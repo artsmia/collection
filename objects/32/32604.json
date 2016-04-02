@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.50.15",
-  "artist": "Frank Gaard",
+  "artist": "Artist: Frank Gaard",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Paul C. Johnson, Jr. Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Gaard",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Mark\r\n\r\nin brown acrylic, LL: [Portrait of Laura Brandenburg]\r\n",
   "life_date": "American, born 1944",
-  "marks": "Signature; Title; Mark\r\n\r\nin brown acrylic, LL: [P in blue acrylic, LR: [Frankie Gaard]",
+  "markings": "Watermark: <BFK RIVES/FRANCE>",
   "medium": "Acrylic",
   "nationality": "American",
   "provenance": "Acquired from the artist, 2001",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in blue acrylic, LR: [Frankie Gaard]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Laura B."

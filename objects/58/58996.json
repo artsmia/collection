@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.41.1",
-  "artist": "Philip Larson",
+  "artist": "Artist: Philip Larson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4031,
   "image_width": 3080,
+  "inscription": "Signed, Dated, Numbered, Titled, Inscribed, and Chop Mark",
   "life_date": "American, born 1944",
-  "marks": "Signed, Dated, Numbered, Titled, Inscribed, and Ch LL: [PHILIP LARSON 1978]\r\nLL: [A.P. 1/9]\r\nLL: [FIR",
+  "markings": "VEL Chop Mark",
   "medium": "Etching and drypoint with plate tone in blue ink",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [PHILIP LARSON 1978]\r\nLL: [A.P. 1/9]\r\nLL: [FIRST STENCIL]\r\nLC: [RICHARDSON AND WHITE / BOSTON]\r\nLL: VEL chop mark",
   "style": "20th century",
   "text": "",
   "title": "First Stencil (Richardson & White)"

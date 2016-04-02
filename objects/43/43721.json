@@ -1,6 +1,7 @@
 {
   "accession_number": "P.96.28",
-  "artist": "John Willenbecher",
+  "artist": "Artist: John Willenbecher",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Willenbecher",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Edition\r\n\r\nsee Signed",
   "life_date": "American, born 1936",
-  "marks": "Signature; Title; Edition\r\n\r\nsee Signed in graphite, recto: [Capriccio/John Willenbecher/2",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "The artist",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, recto: [Capriccio/John Willenbecher/27/75]",
   "style": "20th century",
   "text": "",
   "title": "Capriccio"

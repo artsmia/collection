@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.93",
-  "artist": "Unknown Dutch, 16th century",
+  "artist": "Artist: Unknown Dutch, 16th century",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4489,
   "image_width": 3432,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "water: Jumping animal",
   "medium": "Hand-colored woodcut",
   "nationality": null,
   "provenance": "George Dunn",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Christ Unclothed"

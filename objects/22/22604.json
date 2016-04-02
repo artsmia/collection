@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.168",
-  "artist": "Utagawa Hiroshige",
+  "artist": "Artist: Utagawa Hiroshige",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2832,
   "image_width": 1941,
+  "inscription": "Yes (Chinese poem); {Kanoto u ? bōjits} (one day of the year 1831)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Yes (Chinese poem); {Kanoto u ? bōjits} (one day o {Ichiyūsai}",
+  "markings": "Artist\\'s seal: {Utagawa Hiroshige}; illegible seal; {Matsumoto} (publisher Mastumoto Mankichi?)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai}",
   "style": "19th century",
   "text": "",
   "title": "(Bridge in a Gorge)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.16",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2941,
   "image_width": 3515,
+  "inscription": "Date; Signature",
   "life_date": "American, born 1949",
-  "marks": "Date; Signature L center: [T. L. Solien \\'85]",
+  "markings": "",
   "medium": "Color pastels and ballpoint on folded newsprint",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.; sold to MIA, 1986.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "L center: [T. L. Solien \\'85]",
   "style": "20th century",
   "text": "",
   "title": "The Husband Lost at Sea"

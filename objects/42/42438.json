@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.65",
-  "artist": "Mori Jihō",
+  "artist": "Artist: Mori Jihō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3532,
   "image_width": 4715,
+  "inscription": "8 haiku poems",
   "life_date": "Japanese, Shijō, 1818 - 1891",
-  "marks": "8 haiku poems 二鳳 {Jihō}",
+  "markings": "red seal: 弐鳳 {Jihō}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "二鳳 {Jihō}",
   "style": "19th century",
   "text": "",
   "title": "The Four Sleepers"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.4",
-  "artist": "Lovis Corinth",
+  "artist": "Artist: Lovis Corinth",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1858 - 1925",
-  "marks": "Signature and inscription\r\nLRC in pencil: [32] LRC below image, in pencil: [Lovis Cornith]; LLC i",
+  "inscription": "Signature and inscription\r\nLRC in pencil: [32]",
+  "life_date": "German, 1858-1925",
+  "markings": "",
   "medium": "Drypoint with plate tone",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC below image, in pencil: [Lovis Cornith]; LLC in pencil: [Schlafende 1912/ Pl. 20.2 x 25.1/ So Signierte Doucke]",
   "style": "20th century",
   "text": "",
   "title": "Schlafende (Sleeping)"

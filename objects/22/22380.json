@@ -1,6 +1,7 @@
 {
   "accession_number": "80.80.40",
-  "artist": "Richard Westall",
+  "artist": "Artist: Richard Westall",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Stanley and Lucile Slocum",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, 1765 - 1836",
-  "marks": "Signature bottom left recto: [Richard Westall - RA - del.]",
+  "markings": "",
   "medium": "Graphite on heavy wove paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom left recto: [Richard Westall - RA - del.]",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Richard Westall (?)"

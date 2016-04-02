@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,209",
-  "artist": "Wilhelm Hecht; After Arnold Böcklin",
+  "artist": "Artist: Wilhelm Hecht; Artist: After Arnold Böcklin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1843 - 1920",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1843–1920",
+  "markings": "",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Death Riding through a Harvest"

@@ -1,6 +1,7 @@
 {
   "accession_number": "39.17",
-  "artist": "Thomas Schofield Handforth",
+  "artist": "Artist: Thomas Schofield Handforth",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1897 - 1947",
-  "marks": "Signature LR: [Handforth]",
+  "markings": "",
   "medium": "Charcoal",
   "nationality": "American",
   "provenance": "From exhibition at Hudson D. Walker Gallery, New York, 'Recent Drawings' Dec.4-Dec23, 1939.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Handforth]",
   "style": "20th century",
   "text": "",
   "title": "Along the Canal"

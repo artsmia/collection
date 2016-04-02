@@ -1,6 +1,7 @@
 {
   "accession_number": "56.49",
-  "artist": "Urban Stanley Couch",
+  "artist": "Artist: Urban Stanley Couch",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Kirk Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 6580,
   "image_width": 4890,
+  "inscription": "Signature",
   "life_date": "Cherokee / American, 1927 - 2007",
-  "marks": "Signature LR: [Urban]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Urban]",
   "style": "20th century",
   "text": "",
   "title": "Windows"

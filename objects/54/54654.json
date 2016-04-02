@@ -1,6 +1,7 @@
 {
   "accession_number": "P.824",
-  "artist": "Ludolph Backhuysen",
+  "artist": "Artist: Ludolph Backhuysen",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Dutch, 1631 - 1708",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1631–1708",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Title Page to the Marine Set"

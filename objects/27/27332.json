@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.4",
-  "artist": "Günter R. Reitz",
+  "artist": "Photographer: Günter R. Reitz",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© G%C3%BCnter R. Reitz",
   "image_height": 1878,
   "image_width": 1899,
+  "inscription": "Stamp",
   "life_date": "German",
-  "marks": "Stamp ",
+  "markings": "Photographer\\'s stamp verso: [Exposition Internationale de Photographie Regards sur la terre des hommes / International Exhibition of Photography The Camera as Witness,\\' Montreal Expo 67, 1967]",
   "medium": "Gelatin silver print",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Colleague in Izmir, Turkey"

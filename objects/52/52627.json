@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,326",
-  "artist": "Giovanni Battista Piranesi",
+  "artist": "Artist: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Martha T. Wallace Memorial Fund, 1930",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature [Piranesi f.]",
+  "inscription": "Signature",
+  "life_date": "Italian, 1720–1778",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Piranesi f.]",
   "style": "18th century",
   "text": "",
   "title": "An Architectural Medley, With a Man on the Rack in the Foreground, plate 2 from Carceri d'Invenzione"

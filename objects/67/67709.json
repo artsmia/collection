@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.15",
-  "artist": "Robert Morris; Styria Studio, New York; Experiments in Art and Technology (E.A.T.), New York",
+  "artist": "Artist: Robert Morris; Printer: Styria Studio, New York; Publisher: Experiments in Art and Technology (E.A.T.), New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©2001 Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition, Stamp, Date\r\n\r\n\r\n",
   "life_date": "American, born 1931",
-  "marks": "Signature, Edition, Stamp, Date\r\n\r\n\r\n in pencil, verso: [TP 1/4 Lewitt]",
+  "markings": "Stamped on verso: [copyright 1973 by Sol Lewitt printed at Styris Studio]",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, verso: [TP 1/4 Lewitt]",
   "style": "20th century",
   "text": "",
   "title": "Diagram for Sculpture"

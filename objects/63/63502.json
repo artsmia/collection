@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.238",
-  "artist": "Tony Fitzpatrick",
+  "artist": "Artist: Tony Fitzpatrick",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift from the collection of Kevin Quandt",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title, Date",
   "life_date": "American, born 1958",
-  "marks": "Title, Date LLC, in pencil: [February 5, 1990]",
+  "markings": "",
   "medium": "Colored pencil and graphite",
   "nationality": "American",
   "provenance": "(Janet Fleisher Gallery, Philadelphia); Kevin M. Quandt, Minneapolis, until 2002; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in pencil: [February 5, 1990]",
   "style": "20th century",
   "text": "",
   "title": "Dirty Dove"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,058",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\n\r\nsee Signed",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature and Mark\r\n\r\nsee Signed pencil in LR margin: Philip Kappel",
+  "markings": "Watermark",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "pencil in LR margin: Philip Kappel",
   "style": "20th century",
   "text": "",
   "title": "Boat with Ship in Background"

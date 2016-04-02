@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.84.46",
-  "artist": "Rick Smith",
+  "artist": "Artist: Rick Smith",
+  "classification": "Sculpture",
   "continent": null,
   "country": null,
   "creditline": "Gift from the Collection of John and Robyn Horn",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2000 Rick Smith. All rights reserved.",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n",
   "life_date": "American, 20th century",
-  "marks": "\r\n ",
+  "markings": "",
   "medium": "Concrete, steel",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "21st century",
   "text": "",
   "title": "Vertical Fragment"

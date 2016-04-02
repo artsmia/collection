@@ -1,6 +1,7 @@
 {
   "accession_number": "67.40",
-  "artist": "Louis Comfort Tiffany",
+  "artist": "Maker: Louis Comfort Tiffany",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6864,
   "image_width": 5216,
-  "life_date": "American, 1848-1933",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1848–1933",
+  "markings": "",
   "medium": "Glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Vase"

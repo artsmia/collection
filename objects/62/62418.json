@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.151",
-  "artist": "Hirano Hakuhō; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Hirano Hakuhō; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2938,
   "image_width": 1745,
+  "inscription": "[?] {Shōwa shichinen ichigatsu}",
   "life_date": "Japanese, 1879 - 1957",
-  "marks": "[?] {Shōwa shichinen ichigatsu} 白峰画 {Hakuhō-ga}",
+  "markings": "red artist\\'s seal: {Hirano}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "白峰画 {Hakuhō-ga}",
   "style": "20th century",
   "text": "",
   "title": "Before the Mirror"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.49",
-  "artist": "John Newman",
+  "artist": "Artist: John Newman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 3863,
   "image_width": 2856,
+  "inscription": "Annotated on recto and verso",
   "life_date": "American, born 1952",
-  "marks": "Annotated on recto and verso ",
+  "markings": "",
   "medium": "Color lithograph, aquatint, and drypoint with additions in graphite, ballpoint pen, and marker",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Fold-Out"

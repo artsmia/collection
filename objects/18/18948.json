@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.140",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3787,
   "image_width": 3484,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "\\'P 559\\', in pencil, LL front; \\'Ppt\\', in pencil, LR front",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study of a Broken Tulip (Tulipa x gesneriana)"

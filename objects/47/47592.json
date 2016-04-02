@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.54",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mr. and Mrs. Harrison R. Johnston, Jr., by exchange and \r\nthe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4952,
   "image_width": 3320,
-  "life_date": "German, 1471 - 1528",
-  "marks": "Inscription\r\n\r\nSigned and dated with monogram ",
+  "inscription": "Inscription\r\n\r\nSigned and dated with monogram",
+  "life_date": "German, 1471–1528",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "H. S. Theobald (L. 1375), sold at Theobald sale in Stuttgart by Gutekunst in 1910; Stefan Jancsy (L. suppl. 15 2g d, twice, on verso); another collector's mark (') in pencil, \"S.R.\"",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Holy Family with Anna and Joachim Under a Tree"

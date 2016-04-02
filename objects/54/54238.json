@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.195",
-  "artist": "Lucas Huygensz van Leyden",
+  "artist": "Artist: Lucas Huygensz van Leyden",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4214,
   "image_width": 3136,
+  "inscription": "",
   "life_date": "Dutch, about 1494-1533",
-  "marks": " ",
+  "markings": "Watermark: Quartered coat-of-arms with fleur-de-lys, surmounted by crown (Holl.3)",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "Earl of Aylesford L.58; Kupferstichkabinett, Staatliche Museen, Berlin. L.1609 & 2482; Colnaghi; Knoedler & Co., 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Adam and Eve after Their Expulsion from Paradise"

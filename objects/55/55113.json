@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,319",
-  "artist": "Timothy Cole; after Dante Gabriel Rossetti",
+  "artist": "Artist: Timothy Cole; Artist: after Dante Gabriel Rossetti",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "Coll. of Lady Drummond In plate, on sheet",
+  "inscription": "Coll. of Lady Drummond",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "20th century",
   "text": "",
   "title": "Pandora's Box"

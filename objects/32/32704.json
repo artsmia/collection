@@ -1,6 +1,7 @@
 {
   "accession_number": "B.97.7.7",
-  "artist": "Odilon Redon; Text by Gustave Flaubert; Published by Les Amis d' Odilon Redon (Philippe Gonin), Paris",
+  "artist": "Artist: Odilon Redon; Author: Text by Gustave Flaubert; Publisher: Published by Les Amis d' Odilon Redon (Philippe Gonin), Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1840 - 1916",
-  "marks": " ",
+  "markings": "",
   "medium": "Heliogravures after lithographs, letterpress",
   "nationality": "French",
   "provenance": "Ruth and Bruce Dayton, Wayzata, Minn.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La tentation de Saint Antoine"

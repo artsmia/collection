@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,067",
-  "artist": "Kellogg and Cumstock",
+  "artist": "Artist: Kellogg and Cumstock",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift, 1924",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " No",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No",
   "style": "19th century",
   "text": "",
   "title": "Puppies"

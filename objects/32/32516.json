@@ -1,6 +1,7 @@
 {
   "accession_number": "B.97.6.8",
-  "artist": "Edward Ruscha; Edward Ruscha; Multiples, Inc., New York",
+  "artist": "Artist: Edward Ruscha; Author: Edward Ruscha; Publisher: Multiples, Inc., New York",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Library Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Ed Ruscha",
   "image_height": "",
   "image_width": "",
+  "inscription": "none",
   "life_date": "American, born 1937",
-  "marks": "none unsigned",
+  "markings": "Stamped number [17857] in black ink on last page.",
   "medium": "Artist's book; offset printing",
   "nationality": "American",
   "provenance": "Transferred from MIA Library",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "unsigned",
   "style": "20th century",
   "text": "",
   "title": "Babycakes with Weights"

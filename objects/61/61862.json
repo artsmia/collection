@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.120.1",
-  "artist": "René Georges Hermann-Paul",
+  "artist": "Artist: René Georges Hermann-Paul",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2953,
   "image_width": 1658,
+  "inscription": "Signature, Inscription, Stamp\r\n\r\nLRC in plate in black: [HP (interlocked)]",
   "life_date": "French, 1864 - 1940",
-  "marks": "Signature, Inscription, Stamp\r\n\r\nLRC in plate in b LRC below image in pencil :[Hermann Paul]",
+  "markings": "LRC on back in black: [Venie Galerie de Chartres/23-10-2000/Hermann Paul]",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC below image in pencil :[Hermann Paul]",
   "style": "19th century",
   "text": "",
   "title": "At the Exhibition"

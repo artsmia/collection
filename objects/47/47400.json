@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,452",
-  "artist": "William Monk",
+  "artist": "Artist: William Monk",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "English, 1863 - 1937",
-  "marks": " ",
+  "markings": "",
   "medium": null,
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Bishop Lloyd's Palace Chester"

@@ -1,6 +1,7 @@
 {
   "accession_number": "72.52",
-  "artist": "Jud Fine",
+  "artist": "Artist: Jud Fine",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1944",
-  "marks": "Signature; Date [Jud Fine, \\'71]",
+  "markings": "",
   "medium": "Red ink",
   "nationality": "American",
   "provenance": "Acquired directly from the artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Jud Fine, \\'71]",
   "style": "20th century",
   "text": "",
   "title": "Red Chicken Corner Study"

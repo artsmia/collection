@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,250",
-  "artist": "Timothy Cole; after (attributed to) Francesco Zurbaran",
+  "artist": "Artist: Timothy Cole; Artist: after (attributed to) Francesco Zurbaran",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "\\\"166\\\" in pencil at lower center edge; Also in penc On sheet",
+  "inscription": "\\\"166\\\" in pencil at lower center edge; Also in pencil in lower right \\\"Charming Proof T.C.\\\"",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "20th century",
   "text": "",
   "title": "Saint Elizabeth"

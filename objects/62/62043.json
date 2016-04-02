@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.116.2",
-  "artist": "Gerome Kamrowski",
+  "artist": "Artist: Gerome Kamrowski",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Paul C. Johnson, Jr. Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Gerome Kamrowski",
   "image_height": 1920,
   "image_width": 1467,
+  "inscription": "Signature and Date",
   "life_date": "American, 1914-2004",
-  "marks": "Signature and Date Signed, dated in white, LRC: [Kamrowski 1950]",
+  "markings": "Commercial sandpaper brand markings, verso",
   "medium": "Ink, watercolor, gouache, and pastel on sandpaper",
   "nationality": "American",
   "provenance": "Collection of the artist; acquired by MIA, 1988",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in white, LRC: [Kamrowski 1950]",
   "style": "20th century",
   "text": "",
   "title": "Untitled [#8]"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.15",
-  "artist": "Henry van de Velde; Meissen Porcelain Factory",
+  "artist": "Designer: Henry van de Velde; Manufacturer: Meissen Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F SABAM%2C Belgium",
   "image_height": 3655,
   "image_width": 4095,
-  "life_date": "Belgian, 1863-1957",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Belgian, 1863–1957",
+  "markings": "",
   "medium": "Hard-paste porcelain, underglaze decoration",
   "nationality": "Belgian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "",
   "title": "Salad bowl"

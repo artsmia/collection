@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.18",
-  "artist": "Gabor Peterdi",
+  "artist": "Artist: Gabor Peterdi",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3695,
   "image_width": 4695,
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American (b. Hungary), 1915-2001",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Peterdi]",
+  "markings": "Watermark: <Arches>",
   "medium": "Color etching in blue ink",
   "nationality": "American",
   "provenance": "Lublin Graphics, Inc., Greenwich, Conn. (publisher); sold to MIA, 1977.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Peterdi]",
   "style": "20th century",
   "text": "",
   "title": "Surf"

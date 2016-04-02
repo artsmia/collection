@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.78",
-  "artist": "Henry Moore",
+  "artist": "Artist: Henry Moore",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Samuel Sachs II",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Henry Moore Foundation. All Rights Reserved%2C DACS 2014 %2F www.henry-moore.org",
   "image_height": 3191,
   "image_width": 4015,
+  "inscription": "Signature, Date",
   "life_date": "British, 1898 - 1986",
-  "marks": "Signature, Date Signed, dated on the plate only",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "Sam Sachs II, Minneapolis (MIA Director)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated on the plate only",
   "style": "20th century",
   "text": "",
   "title": "Multicolored Reclining Figure"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,207",
-  "artist": "Timothy Cole; after Sir John Opie",
+  "artist": "Artist: Timothy Cole; Artist: after Sir John Opie",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": " On sheet",
+  "inscription": "",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "19th century",
   "text": "",
   "title": "Mary Wollstonecraft"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.157",
-  "artist": "Totoya Hokkei",
+  "artist": "Artist: Totoya Hokkei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4420,
   "image_width": 3847,
+  "inscription": "Poem by Kajitsuen Umenobu(or Baishin)",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": "Poem by Kajitsuen Umenobu(or Baishin) Hokkei",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hokkei",
   "style": "19th century",
   "text": "",
   "title": "Yashima"

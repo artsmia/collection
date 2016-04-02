@@ -1,6 +1,7 @@
 {
   "accession_number": "92.56.3",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\ninscribed in graphite LR: [rejected first version]",
   "life_date": "American, born 1949",
-  "marks": "Signature; Date; Inscription\r\ninscribed in graphit LR: [T.L.S. \\'82]",
+  "markings": "",
   "medium": "Black chalk on white wove",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [T.L.S. \\'82]",
   "style": "20th century",
   "text": "",
   "title": "The Night Watchman"

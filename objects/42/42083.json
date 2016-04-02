@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,307",
-  "artist": "Giovanni Battista Piranesi; Giovanni Battista Piranesi",
+  "artist": "Maker: Giovanni Battista Piranesi; Etcher: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3627,
   "image_width": 5161,
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature and watermark signed on scroll: [Cav. Piranesi F.]",
+  "inscription": "Signature and watermark",
+  "life_date": "Italian, 1720–1778",
+  "markings": "Watermark",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on scroll: [Cav. Piranesi F.]",
   "style": "18th century",
   "text": "",
   "title": "View of St. Peter's Basilica and Piazza in the Vatican"

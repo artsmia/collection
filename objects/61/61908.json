@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.84.15",
-  "artist": "Todd Hoyer",
+  "artist": "Artist: Todd Hoyer",
+  "classification": "Woodwork",
   "continent": null,
   "country": "United States",
   "creditline": "Gift from the Collection of John and Robyn Horn",
@@ -14,8 +15,9 @@
   "image_copyright": "© Todd Hoyer",
   "image_height": 3035,
   "image_width": 4058,
+  "inscription": "Signature, Inscription and Sticker\r\n\r\non bottom, incised: [EMORY OAK]",
   "life_date": "American, born 1952",
-  "marks": "Signature, Inscription and Sticker\r\n\r\non bottom, i on bottom, incised: [TH]",
+  "markings": "on bottom, on sticker: [78]",
   "medium": "Emory oak",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on bottom, incised: [TH]",
   "style": "20th century",
   "text": "",
   "title": "Untitled, from the Conical Series"

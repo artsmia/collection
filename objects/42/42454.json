@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.2",
-  "artist": "Robert Breer; Styria Studio, New York; Experiments in Art and Technology (E.A.T.), New York",
+  "artist": "Artist: Robert Breer; Printer: Styria Studio, New York; Publisher: Experiments in Art and Technology (E.A.T.), New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Date",
   "life_date": "American, 1926-2011",
-  "marks": "Signature; Edition; Date on image, LR:  [Robert Breer 1/4 T.P. 1973]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": null,
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on image, LR:  [Robert Breer 1/4 T.P. 1973]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

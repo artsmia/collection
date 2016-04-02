@@ -1,6 +1,7 @@
 {
   "accession_number": "96.101.1a,b",
-  "artist": "Royal Worcester Factory",
+  "artist": "Maker: Royal Worcester Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mary C. Briggs",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2916,
   "image_width": 4347,
+  "inscription": "Stamp, Mark",
   "life_date": null,
-  "marks": "Stamp, Mark ",
+  "markings": "bottom of cup and saucer: \\'RSI\\' and circle with crown; \\'51\\' inside circle; \\'N\\' below circle; impression of same circle with crown on bottom of saucer",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Double Walled Cup with Saucer"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.254.9.11",
-  "artist": "Jacques Callot",
+  "artist": "Artist: Jacques Callot",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of George W. Rickey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1312,
   "image_width": 2972,
+  "inscription": "",
   "life_date": "French, 1592-1635",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Les Grandes Misères de la Guerre, from a set of 18 etchings"

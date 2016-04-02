@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.24.3",
-  "artist": "Karl Hagedorn",
+  "artist": "Artist: Karl Hagedorn",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Friends of the Institute",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4589,
   "image_width": 7247,
+  "inscription": "Signature; Edition; Title\r\n\r\nsee Signed\r\n\r\nLL [4/10]; LC: [The Press]",
   "life_date": "American, (born in Germany) born 1922",
-  "marks": "Signature; Edition; Title\r\n\r\nsee Signed\r\n\r\nLL [4/1 LR: [Hagedorn]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Hagedorn]",
   "style": "20th century",
   "text": "",
   "title": "The Press"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,247",
-  "artist": "Timothy Cole; after Diego Rodriguez Velazquez",
+  "artist": "Artist: Timothy Cole; Artist: after Diego Rodriguez Velazquez",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "\\\"163\\\" at bottom center On sheet",
+  "inscription": "\\\"163\\\" at bottom center",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "20th century",
   "text": "",
   "title": "Head of a Young Man"

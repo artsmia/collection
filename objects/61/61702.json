@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,919",
-  "artist": "Utagawa Hiroshige; Published by Koshimuraya Heisuke",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Koshimuraya Heisuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1768,
   "image_width": 2743,
+  "inscription": "yes(kyo_ka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "yes(kyo_ka) ",
+  "markings": "Censor:kiwame\r\nPublisher:Shiba Koshihei",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "B. Matsuki; Freer (1896); Ford (Feb. 1905)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Evening Snow at Uchikawa"

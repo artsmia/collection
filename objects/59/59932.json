@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.27",
-  "artist": "Gerald E. Martin",
+  "artist": "Artist: Gerald E. Martin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. & Mrs. David W. Cost",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1941",
-  "marks": "Signature LR",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR",
   "style": "20th century",
   "text": "",
   "title": "Sleeping Venus"

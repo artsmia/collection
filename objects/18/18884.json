@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.3",
-  "artist": "Daniel Schwartz",
+  "artist": "Artist: Daniel Schwartz",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, b.1929",
-  "marks": "Signature; Mark LRC: [D. Schwartz]",
+  "markings": "Watermark: <strathmore U.S.A.>",
   "medium": "Charcoal",
   "nationality": "American",
   "provenance": "David M. Daniels, Minneapolis and New York",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [D. Schwartz]",
   "style": "20th century",
   "text": "",
   "title": "The Fallen Runner"

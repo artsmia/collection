@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.213",
-  "artist": "Utagawa Sadahide; Daikokuya Heikichi",
+  "artist": "Artist: Utagawa Sadahide; Publisher: Daikokuya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2689,
   "image_width": 1889,
+  "inscription": "Right: (America); left: {America-jin} (American girl)",
   "life_date": "Japanese, 1807 - 1873",
-  "marks": "Right: (America); left: {America-jin} (American gi {Gountei Sadahide ga}",
+  "markings": "Censor: Kai+Cock shō (1); Carver: Yokokawa Horitake",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Gountei Sadahide ga}",
   "style": "19th century",
   "text": "",
   "title": "American MerchantsTravelling in Yokohama"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,690",
-  "artist": "Louis Legrand",
+  "artist": "Artist: Louis Legrand",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1863 - 1951",
-  "marks": "Signature on plate: [Louis Legrand]; in pencil: [Louis Legra",
+  "markings": "",
   "medium": "Aquatint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Louis Legrand]; in pencil: [Louis Legrand]",
   "style": "19th century",
   "text": "",
   "title": "Les Amants"

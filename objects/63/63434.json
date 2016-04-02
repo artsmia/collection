@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.34.5",
-  "artist": "Utagawa Hiroshige; Published by Sakanaya Eikichi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Sakanaya Eikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2649,
   "image_width": 1783,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga 広重画",
+  "markings": "Censor: kai, Feb.1858\r\nPublisher: Uoei",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga 広重画",
   "style": "19th century",
   "text": "",
   "title": "Takata Riding Grounds"

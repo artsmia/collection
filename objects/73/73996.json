@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,045",
-  "artist": "Unknown English, 16th century; Published by Laurie &amp; Whittle Publishing House",
+  "artist": "Artist: Unknown English, 16th century; Publisher: Published by Laurie &amp; Whittle Publishing House",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "English, fl. 1794-1812",
+  "markings": "",
   "medium": "Mezzotint, gouache color",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Autumn, No. 208, from Series of Seasons, \"Vide Thomsons Seasons\""

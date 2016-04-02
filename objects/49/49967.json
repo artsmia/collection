@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.23",
-  "artist": "Eugène Bléry",
+  "artist": "Artist: Eugène Bléry",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. John C. Stoller",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title, Date, Inscription\r\n\r\nLC in ink: [t]",
   "life_date": "French, 1805 - 1886",
-  "marks": "Title, Date, Inscription\r\n\r\nLC in ink: [t] in plate on left/title middle/right bottom: [aqua ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "Bonafons-Murat",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate on left/title middle/right bottom: [aqua forti, 1840]",
   "style": "19th century",
   "text": "",
   "title": "Marsh Plants"

@@ -1,6 +1,7 @@
 {
   "accession_number": "84.123.1",
-  "artist": "Unknown European",
+  "artist": "Artist: Unknown European",
+  "classification": "Textiles",
   "continent": "Europe",
   "country": null,
   "creditline": "Gift of Joseph E. Walton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Handpainted paper, mother-of-pearl handle",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Fan"

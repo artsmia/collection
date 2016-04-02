@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,738",
-  "artist": "Kitagawa Utamaro; Published by Iwatoya Kisaburō",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Iwatoya Kisaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2630,
   "image_width": 1847,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "Censor: kiwame; publisher\\'s seal: {Iwatoya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "19th century",
   "text": "",
   "title": "The Courtesans Hanaōgi and Takigawa of the Ōgiya House"

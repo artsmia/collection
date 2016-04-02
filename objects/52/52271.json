@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,324",
-  "artist": "Charles Adams Platt; after J. Appleton Brown",
+  "artist": "Artist: Charles Adams Platt; Artist: after J. Appleton Brown",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1861 - 1933",
-  "marks": " In pencil in margin",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in margin",
   "style": "19th century",
   "text": "",
   "title": "Landscape with Sheep Grazing"

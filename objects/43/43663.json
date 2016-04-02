@@ -1,6 +1,7 @@
 {
   "accession_number": "P.96.1",
-  "artist": "John Constable; David Lucas",
+  "artist": "Artist: John Constable; Artist: David Lucas",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Anne and Hadlai Hull Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3173,
   "image_width": 4855,
-  "life_date": "British, 1776 - 1837",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1776–1837",
+  "markings": "",
   "medium": "Mezzotint with additions in black ink, pencil, and white heightening",
   "nationality": "British",
   "provenance": "Collection: Ashcroft ('); Helmut H. Rumbler, Germany",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Stoke-by-Nayland, Suffolk"

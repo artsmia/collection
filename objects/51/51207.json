@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,384",
-  "artist": "Paul Serusier",
+  "artist": "Artist: Paul Serusier",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1863 - 1927",
-  "marks": "Signature signed on the stone",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on the stone",
   "style": "19th century",
   "text": "",
   "title": "Marché, breton"

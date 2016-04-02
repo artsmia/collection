@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.19",
-  "artist": "Jasper Johns",
+  "artist": "Artist: Jasper Johns",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 5016,
   "image_width": 3396,
+  "inscription": "Printed inscription: [AMERICAN CENTER / CELEBRATION / JOHN CAGE / 23 Septembre 1982 / THEATRE DU ROND-POINT RENAUD BARRAULT / Telephone 256-6070 / Copyright © 1982 JASPER JOHNS]",
   "life_date": "American, born 1930",
-  "marks": "Printed inscription: [AMERICAN CENTER / CELEBRATIO Unsigned",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Vermillion Edtions Limted., Minneapolis; sold to MIA, 1986.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Unsigned",
   "style": "20th century",
   "text": "",
   "title": "American Center Celebration: John Cage"

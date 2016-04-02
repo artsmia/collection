@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.92",
-  "artist": "Okamoto Toyohiko; Matsumura Keibun; Kawamura Kiho_",
+  "artist": "Artist: Okamoto Toyohiko; Artist: Matsumura Keibun; Artist: Kawamura Kiho_",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3628,
   "image_width": 4682,
-  "life_date": "Japanese, 1773 - 1845",
-  "marks": "23 haiku poems Toyohiko(right), Keibun(middle), Kiho_(left)",
+  "inscription": "23 haiku poems",
+  "life_date": "Japanese, 1779 - 1843",
+  "markings": "\\\"Toyohiko\\\"(right), \\\"Keibun\\\"(middle), \\\"Kiho_\\\"(left) sealed in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyohiko(right), Keibun(middle), Kiho_(left)",
   "style": "19th century",
   "text": "",
   "title": "(Three branches of coral)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.28",
-  "artist": "Martin Schongauer",
+  "artist": "Artist: Martin Schongauer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Dorothy Millett Lindeke",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4629,
   "image_width": 3202,
+  "inscription": "Mark",
   "life_date": "German, c. 1450-1491",
-  "marks": "Mark ",
+  "markings": "Watermark: interlaced C\\'s with crown; related to Briquet 9323ff?",
   "medium": "Engraving\r\n",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "The Crucifixion with Four Angels"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.29",
-  "artist": "Clement Haupers",
+  "artist": "Artist: Clement Haupers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1900 - 1982",
-  "marks": "Signature; Date; Edition; Title\r\n\r\nsee Signed\r\n\r\ni In graphite, LR: [Haupers 36]",
+  "inscription": "Signature; Date; Edition; Title\r\n\r\nsee Signed\r\n\r\nin graphite, LL: [16/50]; in graphite, LC: [Pine County Farm]",
+  "life_date": "American, 1900–1982",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, LR: [Haupers 36]",
   "style": "20th century",
   "text": "",
   "title": "Pine County Farm"

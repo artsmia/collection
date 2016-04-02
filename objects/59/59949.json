@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.37.18",
-  "artist": "Jim McCormick; Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: Jim McCormick; Publisher: Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature LR",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR",
   "style": "20th century",
   "text": "",
   "title": "Recollections II"

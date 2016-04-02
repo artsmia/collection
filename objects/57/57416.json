@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.121",
-  "artist": "Armin Landeck",
+  "artist": "Artist: Armin Landeck",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Prints and Drawings Miscellaneous Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Date\r\n\r\nin pencil, LL:  [Ed. 100]",
   "life_date": "American, 1905 - 1984",
-  "marks": "Signature; Edition; Date\r\n\r\nin pencil, LL:  [Ed. 1 in LR:  [Landeck 1945]",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in LR:  [Landeck 1945]",
   "style": "20th century",
   "text": "",
   "title": "City Lane"

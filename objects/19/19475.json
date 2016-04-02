@@ -1,6 +1,7 @@
 {
   "accession_number": "68.52",
-  "artist": "Colin Lanceley",
+  "artist": "Artist: Colin Lanceley",
+  "classification": "Drawings",
   "continent": "Australia",
   "country": "Australia",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription; Mark\r\nsee Signed\r\nInscribed LC in black ink [Europa]",
   "life_date": "Australian, born 1938",
-  "marks": "Signature; Date; Inscription; Mark\r\nsee Signed\r\nIn LR in black ink: [Lanceley 68]",
+  "markings": "Watermark: <TH SAUNDERS ENGLAND>",
   "medium": "Pen, ink and colored chalks",
   "nationality": "Australian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in black ink: [Lanceley 68]",
   "style": "20th century",
   "text": "",
   "title": "Europa"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.157",
-  "artist": "Ann Ledy",
+  "artist": "Artist: Ann Ledy",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Honeywell International Inc.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\n\r\nLL, in graphite: [22/\\'76]",
   "life_date": "American",
-  "marks": "Signature; Date\r\n\r\nLL, in graphite: [22/\\'76] in graphite: [Ledy]",
+  "markings": "",
   "medium": "Oil on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite: [Ledy]",
   "style": "20th century",
   "text": "",
   "title": "Chastity"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,200",
-  "artist": "Jules de Goncourt",
+  "artist": "Artist: Jules de Goncourt",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "French 1830 - 1870",
-  "marks": "Signature and Date On plate: initials and date",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On plate: initials and date",
   "style": "19th century",
   "text": "",
   "title": "Portrait d' Edmond de Goncourt"

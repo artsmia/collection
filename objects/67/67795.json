@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.110",
-  "artist": "attributed to Hosoda Eiri; Published by Maruya Bun'emon",
+  "artist": "Artist: attributed to Hosoda Eiri; Publisher: Published by Maruya Bun'emon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2766,
   "image_width": 1919,
+  "inscription": "",
   "life_date": "Japanese, fl. 1790-1800",
-  "marks": " ",
+  "markings": "Publisher:Maru-Bun",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Three Women Travelling through a Ravine"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.1",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3384,
   "image_width": 4386,
+  "inscription": "Signature, date, inscription, chop mark",
   "life_date": "American, born 1949",
-  "marks": "Signature, date, inscription, chop mark LR: [T.L. Solien 1981]\r\nLL: [ARCHIVE PROOF (projec",
+  "markings": "LR: VEL chopmark",
   "medium": "Etching and roulette",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [T.L. Solien 1981]\r\nLL: [ARCHIVE PROOF (project rejected)]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

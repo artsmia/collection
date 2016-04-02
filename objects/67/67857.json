@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.142",
-  "artist": "Utagawa Toyokuni; Published by Tsuruya Kinsuke",
+  "artist": "Artist: Utagawa Toyokuni; Publisher: Published by Tsuruya Kinsuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2956,
   "image_width": 1453,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "Publisher:Tsuruya Kinsuke",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "18th-19th century",
   "text": "",
   "title": "The Actor Arashi Hinasuke"

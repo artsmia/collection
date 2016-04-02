@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.2",
-  "artist": "Cameron Booth",
+  "artist": "Artist: Cameron Booth",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nArtist bio typed by Dr. Coe, taped to frame; title and artist, taped to frame, center bottom",
   "life_date": "American, 1892 - 1980",
-  "marks": "Signature\r\n\r\nArtist bio typed by Dr. Coe, taped to Signed with initials and dated: [CB/59]",
+  "markings": "",
   "medium": "Gouache on paper",
   "nationality": "American",
   "provenance": "John and Myrtle Coe, Bloomington, MInn.",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed with initials and dated: [CB/59]",
   "style": "20th century",
   "text": "",
   "title": "Shore"

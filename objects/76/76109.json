@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,649",
-  "artist": "Michael Wolgemut; Text by Hartmann Schedel; Published by Anton Koberger",
+  "artist": "Artist: Michael Wolgemut; Author: Text by Hartmann Schedel; Publisher: Published by Anton Koberger",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1434/37-1519",
-  "marks": "\r\n\r\n ",
+  "inscription": "\r\n\r\n",
+  "life_date": "German, c. 1445 - 1513",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Frontispiece, God the Judge, from The Nuremberg Chronicle"

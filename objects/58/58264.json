@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.6.15",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Miss Perrie Jones, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4302,
   "image_width": 3441,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Spanish",
   "provenance": "[Hauswedell, Germany]; sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Les pauvres"

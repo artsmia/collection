@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,941",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature, Inscription and Watermark\r\nInscribed, u Signed in plate LL, and in pencil beneath plate LR",
+  "inscription": "Signature, Inscription and Watermark\r\nInscribed, upper left: [Le ciel une peu plus gris/ (??) le coup de (plaque?)] LR: [Bonne pour le Terrain]",
+  "life_date": "French, 1847-1898",
+  "markings": "Watemark, centered in lowest edge of paper: [MBM]",
   "medium": "Etching, drypoint, aquatint, roulette",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in plate LL, and in pencil beneath plate LR",
   "style": "19th century",
   "text": "",
   "title": "Les Petites Chaumières"

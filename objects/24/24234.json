@@ -1,6 +1,7 @@
 {
   "accession_number": "83.96.4a,b",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Dorothy Mann Cordry, Frederick M. Mann, Jr., and Eleanor Mann Olson in memory of their parents, Mr. and Mrs. Frederick M. Mann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Glazed earthenware; wood stand",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tea bowl (chawan) and stand"

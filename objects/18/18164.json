@@ -1,6 +1,7 @@
 {
   "accession_number": "55.35",
-  "artist": "David Ratner",
+  "artist": "Artist: David Ratner",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1922",
-  "marks": "Signature LL: [Ratner]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Ratner]",
   "style": "20th century",
   "text": "",
   "title": "Lake Little Darling"

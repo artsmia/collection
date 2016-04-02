@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.134",
-  "artist": "Tanaka Nikka",
+  "artist": "Artist: Tanaka Nikka",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1950,
   "image_width": 4902,
+  "inscription": "",
   "life_date": "Japanese, died 1845",
-  "marks": " Nikka",
+  "markings": "\\\"Kikka\\\" seal in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Nikka",
   "style": "19th century",
   "text": "",
   "title": "(Nandin branch, chloranthus glaber and adonis)"

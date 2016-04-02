@@ -1,6 +1,7 @@
 {
   "accession_number": "96.134.4",
-  "artist": "Hollis Sigler",
+  "artist": "Artist: Hollis Sigler",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David L. Parker and Mary M.D. Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1982 Hollis Sigler",
   "image_height": 3459,
   "image_width": 3990,
+  "inscription": "Signature; Date; Inscription; Title\r\n\r\nsee Signed\r\n\r\nInscribed in graphite, LL: [Working Proof-Vermillion]\r\n\r\nInscribed in black ink on mat, verso: [There is a doubt she could be right]",
   "life_date": "American, 1948 - 2001",
-  "marks": "Signature; Date; Inscription; Title\r\n\r\nsee Signed\r in graphite LL: [Hollis Sigler 1982]",
+  "markings": "",
   "medium": "Pastel over lithograph (key plate)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite LL: [Hollis Sigler 1982]",
   "style": "20th century",
   "text": "",
   "title": "There is a Doubt, She Could be Right"

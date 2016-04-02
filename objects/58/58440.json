@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,357",
-  "artist": "Anders Zorn",
+  "artist": "Artist: Anders Zorn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "Gift of Mrs. Grace B. Wells, 1954",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4151,
   "image_width": 2839,
+  "inscription": "Signature and Date\r\n\r\nsee Signed",
   "life_date": "Swedish, 1860 - 1920",
-  "marks": "Signature and Date\r\n\r\nsee Signed [Zorn, 1911]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swedish",
   "provenance": "Whitney",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Zorn, 1911]",
   "style": "20th century",
   "text": "",
   "title": "Mona"

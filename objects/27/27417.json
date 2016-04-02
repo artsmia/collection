@@ -1,6 +1,7 @@
 {
   "accession_number": "91.112.45",
-  "artist": "Mori Yoshitoshi",
+  "artist": "Artist: Mori Yoshitoshi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1898 - 1992",
-  "marks": " Yoshitoshi Mori",
+  "markings": "\\\"Yoshitoshi\\\"  seal in red",
   "medium": "Japanese stencil",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yoshitoshi Mori",
   "style": "20th century",
   "text": "",
   "title": "(Two Demons)"

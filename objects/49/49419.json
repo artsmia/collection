@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.10",
-  "artist": "Barthelemy-Augustin Blondel d' Azaincourt; After Johan Georg Wille",
+  "artist": "Artist: Barthelemy-Augustin Blondel d' Azaincourt; Artist: After Johan Georg Wille",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3649,
   "image_width": 4170,
-  "life_date": "French, 1719 - 1794",
-  "marks": "Signature; Date; Mark\r\n\r\nsee Signed in plate: [B. Daizaincourt Sculp 1758]",
+  "inscription": "Signature; Date; Mark\r\n\r\nsee Signed",
+  "life_date": "French, 1715 - 1808",
+  "markings": "Watermark: fragment T",
   "medium": "Etching and stipple",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate: [B. Daizaincourt Sculp 1758]",
   "style": "18th century",
   "text": "",
   "title": "The Farmyard"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,339",
-  "artist": "Marcus, Irving",
+  "artist": "Artist: Marcus, Irving",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature In pencil:  [Irving Marcus]",
+  "markings": "",
   "medium": "Etching and aquatint, wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil:  [Irving Marcus]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Bella Bluebush"

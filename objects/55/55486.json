@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,850",
-  "artist": "Rufino Tamayo",
+  "artist": "Artist: Rufino Tamayo",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Mr. Marvin Small, 1961",
@@ -14,8 +15,9 @@
   "image_copyright": "Art © Tamayo Heirs%2FMexico%2FLicensed by VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Watermark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [49/100]",
   "life_date": "Mexican, 1899 - 1991",
-  "marks": "Signature; Edition; Watermark\r\n\r\nsee Signed\r\n\r\nNum Signed in pencil, LR: [R. Tamayo]",
+  "markings": "Watermark: <Arches>",
   "medium": "Color lithograph",
   "nationality": "Mexican",
   "provenance": "Marvin Small, New York; given to MIA, 1961.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [R. Tamayo]",
   "style": "20th century",
   "text": "",
   "title": "Mujer"

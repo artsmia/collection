@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.308.1",
-  "artist": "signed Tosa Mitsuoki",
+  "artist": "Artist: signed Tosa Mitsuoki",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3728,
   "image_width": 1520,
+  "inscription": "",
   "life_date": "Japanese, 1617 - 1691",
-  "marks": " [土佐左近将監光起図] {Tosa Sakon no Shōgen Mitsuoki zu}",
+  "markings": "LRC",
   "medium": "Mounted panel; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[土佐左近将監光起図] {Tosa Sakon no Shōgen Mitsuoki zu}",
   "style": "17th century",
   "text": "",
   "title": "Hawk"

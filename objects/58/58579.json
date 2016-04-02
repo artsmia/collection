@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.13",
-  "artist": "Philip J. Barber; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Philip J. Barber; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3833,
   "image_width": 2944,
+  "inscription": "Signed, dated, numbered and chop mark.",
   "life_date": "American, born 1951",
-  "marks": "Signed, dated, numbered and chop mark. LR: [P. Barber 78]\r\nLL: [10/12]\r\n",
+  "markings": "LR: VEL chop mark",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [P. Barber 78]\r\nLL: [10/12]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

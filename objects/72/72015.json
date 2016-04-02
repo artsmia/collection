@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,956",
-  "artist": "John Edwards",
+  "artist": "Artist: John Edwards",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\nvery faint: [J. Edwards del et sculp.]\r\n\r\n\r\n\r\n",
   "life_date": "English, 1763 - 1806",
-  "marks": "Inscription\r\nvery faint: [J. Edwards del et sculp. ",
+  "markings": "\r\n",
   "medium": "Hand-colored etching, printed in pale ink",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Magnolia or Tulip Tree, No. 44"

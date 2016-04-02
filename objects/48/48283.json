@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,489",
-  "artist": "William Walker; After Ross",
+  "artist": "Artist: William Walker; Artist: After Ross",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Scottish, 1791 - 1867",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Scottish, 1791–1867",
+  "markings": "",
   "medium": "Stipple",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Jack Singleton Conley, Lord Lyndhurst"

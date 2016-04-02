@@ -1,6 +1,7 @@
 {
   "accession_number": "83.106.1",
-  "artist": "Dale Eldred",
+  "artist": "Artist: Dale Eldred",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from Irene Hixon Whitney",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Inscription\r\n\r\n",
   "life_date": "American, 1933-1993",
-  "marks": "Signature; Date; Title; Inscription\r\n\r\n on each: [Dale Eldred, Minneapolis Project, 1983] ",
+  "markings": "",
   "medium": "Photomontage and engineered working drawings on mylar",
   "nationality": "American",
   "provenance": "Acquired by the MIA from the artist, Dale Eldred, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on each: [Dale Eldred, Minneapolis Project, 1983] and designated with numbers",
   "style": "20th century",
   "text": "",
   "title": "Minneapolis Project Drawing, no. 1"

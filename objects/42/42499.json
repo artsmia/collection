@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.23",
-  "artist": "Tanomura Chokunyū",
+  "artist": "Artist: Tanomura Chokunyū",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3544,
   "image_width": 4673,
+  "inscription": "8 haiku poems",
   "life_date": "Japanese, 1814 - 1907",
-  "marks": "8 haiku poems Chokunyu_ koji??",
+  "markings": "\\\"Sho_ko\\\" seal in red\r\n\\\"Sekibunkanu ?? no tanomi ni(orderd by Sekibunkanu??)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Chokunyu_ koji??",
   "style": "19th century",
   "text": "",
   "title": "(Plum blossoms)"

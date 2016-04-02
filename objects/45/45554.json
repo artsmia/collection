@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.99",
-  "artist": "Harriet Bart; Harriet Bart; Philip Gallo",
+  "artist": "Artist: Harriet Bart; Publisher: Harriet Bart; Printer: Philip Gallo",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1831,
   "image_width": 3056,
+  "inscription": "",
   "life_date": "American, born 1941",
-  "marks": " Signed in pencil, on colophon page: Harriet Bart",
+  "markings": "",
   "medium": "Photographs, fabric samples, and letterpress; bound volume",
   "nationality": "American",
   "provenance": "The artist, Minneapolis; sold to MIA, 2001.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, on colophon page: Harriet Bart",
   "style": "21st century",
   "text": "Garment Registry recalls the toils, sacrifices, and experiences of countless anonymous women who contributed to the development of modern America. Designed by Harriet Bart and Minneapolis publisher and printer Philip Gallo, the artist's book juxtaposes prose by well-known women writers--such as Martha Graham, Virginia Woolf, Doris Lessing, Willa Cather, and Collette--with historic photographs, fabric samples, and facsimiles of pages from an unidentified ledger listing the names of anonymous women and the amount of dues each paid. The effect is a subtle, yet poignant commemoration of the important and often underappreciated role that women have played in American history.",
   "title": "Garment Register"

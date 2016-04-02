@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.45",
-  "artist": "Chuck Close; Parasol Press Ltd., New York; Printed by Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: Chuck Close; Publisher: Parasol Press Ltd., New York; Printer: Printed by Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Marcia Levine",
@@ -14,8 +15,9 @@
   "image_copyright": "© Chuck Close%2C courtesy PaceWildenstein%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition; Chop Mark\r\n\r\nsee Signed\r\n\r\nInscribed in pencil, LL: [Keith / four times]\r\nNumbered in pencil, LC: [6/50]",
   "life_date": "American, born 1940",
-  "marks": "Signature; Date; Title; Edition; Chop Mark\r\n\r\nsee  Signed, dated in pencil, LR: [C. Close 1975]",
+  "markings": "Parasol Press, New York, blindstamp",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "John D. and Marcia W. Levine, St. Louis Park, Minn.; their gift to MIA, 1982",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [C. Close 1975]",
   "style": "20th century",
   "text": "",
   "title": "Keith / Four times"

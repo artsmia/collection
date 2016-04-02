@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.17",
-  "artist": "Gendron Jensen",
+  "artist": "Artist: Gendron Jensen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2382,
   "image_width": 2032,
+  "inscription": "Signature; Number\r\n\r\nrecto: LR corner in ink [2]",
   "life_date": "American, born 1939",
-  "marks": "Signature; Number\r\n\r\nrecto: LR corner in ink [2] LR corner: [G:71] circled",
+  "markings": "",
   "medium": "Black ink, red ink and colored pencil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR corner: [G:71] circled",
   "style": "20th century",
   "text": "",
   "title": "Mountain Ash"

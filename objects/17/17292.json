@@ -1,6 +1,7 @@
 {
   "accession_number": "48.4",
-  "artist": "Mari Arnal",
+  "artist": "Artist: Mari Arnal",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3611,
   "image_width": 5568,
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature LRC: [Mari Arnal]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [Mari Arnal]",
   "style": "20th century",
   "text": "",
   "title": "The Seals"

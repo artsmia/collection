@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.109",
-  "artist": "Kōei",
+  "artist": "Artist: Kōei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3392,
   "image_width": 4448,
+  "inscription": "9 poems about the New Year",
   "life_date": "Japanese, act. 1860s",
-  "marks": "9 poems about the New Year [公英] {Kōei}",
+  "markings": "red artist\\'s seal: [公英] {Kōei}\r\nSho Iwai Sako_(calligrapher)\r\nGahaku Ko_ei(painter)\r\n\\\"Mizunoe inu no haru\\\"(spring of the Year of Dog) UL\r\n",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[公英] {Kōei}",
   "style": "19th century",
   "text": "",
   "title": "(Lobster and common hepatica)"

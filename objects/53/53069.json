@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,749",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4542,
   "image_width": 3334,
+  "inscription": "LL recto, in pencil: [The Scotch Widow W118 K142]\r\nLL verso, in pencil: [Whistler \\'The Scotch Widow\\' K.142 only state, can.]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [The Scotch Widow W118 K142]\r RC printed in plate: [(butterfly symbol)]",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "RC printed in plate: [(butterfly symbol)]",
   "style": "19th century",
   "text": "",
   "title": "The Scotch Widow"

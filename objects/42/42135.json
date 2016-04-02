@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,861",
-  "artist": "Lyonel Feininger",
+  "artist": "Artist: Lyonel Feininger",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (active Germany), 1871 - 1956",
-  "marks": " Yes",
+  "inscription": "",
+  "life_date": "American (active Germany), 1871–1956",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "American (active Germany)",
   "provenance": "(Kornfeld & Klipstein, Germany); sold to MIA, 1966.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "20th century",
   "text": "",
   "title": "Lehnstedt"

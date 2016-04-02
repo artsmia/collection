@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.102.3",
-  "artist": "Thomas Rose; Text by Thomas Rose; Minnesota Center for Book Arts, Minneapolis , publisher",
+  "artist": "Artist: Thomas Rose; Author: Text by Thomas Rose; Publisher: Minnesota Center for Book Arts, Minneapolis , publisher",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Harold Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, born 1942",
-  "marks": " \\\"Thomas Rose\\\", in black ink, on colophon page",
+  "markings": "",
   "medium": "Photogravures, letterpress; bound volume",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Thomas Rose\\\", in black ink, on colophon page",
   "style": "20th century",
   "text": "",
   "title": "Winter Book"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.82",
-  "artist": "Utagawa Hiroshige II; Sakanaya Eikichi",
+  "artist": "Artist: Utagawa Hiroshige II; Publisher: Sakanaya Eikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2819,
   "image_width": 1899,
+  "inscription": "Yoru no ame ni\r\noto wo yuzuri te\r\nyu_kaze wo\r\nyoru ni nadaturu\r\nKarasaki no matsu",
   "life_date": "Japanese, 1826 - 1869",
-  "marks": "Yoru no ame ni\r\noto wo yuzuri te\r\nyu_kaze wo\r\nyoru ",
+  "markings": "Censor:kai, March 1857\r\nPublisher:Uoei",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Night Rain at Karasaki"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.16",
-  "artist": "Mel Ramos; Published by Tamarind Institute, Albuquerque, New Mexico",
+  "artist": "Artist: Mel Ramos; Publisher: Published by Tamarind Institute, Albuquerque, New Mexico",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "©Mel Ramos %2F Copyright VAGA%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL [30/45]",
   "life_date": "American, born 1935",
-  "marks": "Signature; Edition; Mark\r\n\r\nsee Signed\r\n\r\nNumbered \\\"Mel Ramos 81\\\", in graphite, LR",
+  "markings": "Publisher\\'s blind stamp, LL",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Target Corporation, Minneapolis, until 2001; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Mel Ramos 81\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Oakland: Ode to Moe"

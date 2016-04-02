@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.7",
-  "artist": "Gustav Goetsch",
+  "artist": "Artist: Gustav Goetsch",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. Emerson G. Wulling",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "American, 1877 - 1934",
-  "marks": "Signature\r\nsee Signed on work\r\n",
+  "markings": "",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on work\r\n",
   "style": "20th century",
   "text": "",
   "title": "Beach Scene"

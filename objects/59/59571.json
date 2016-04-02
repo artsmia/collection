@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.28.46",
-  "artist": "Doug Warner",
+  "artist": "Artist: Doug Warner",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1930",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on work",
+  "markings": "Watermarks:  <YY>",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on work",
   "style": "20th century",
   "text": "",
   "title": "Pyramid VI"

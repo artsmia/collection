@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,865",
-  "artist": "Jacopo de' Barbari",
+  "artist": "Artist: Jacopo de' Barbari",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2242,
   "image_width": 1205,
+  "inscription": "Signature",
   "life_date": "Italian (Venice), c. 1460/70-before 1516",
-  "marks": "Signature Caduceus (artist\\'s sign) [Marie]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Caduceus (artist\\'s sign) [Marie]",
   "style": "16th century",
   "text": "There are only nine known impressions of this engraving, with this sheet being the only one in the United States.",
   "title": "Man with Cradle"

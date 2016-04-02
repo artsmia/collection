@@ -1,6 +1,7 @@
 {
   "accession_number": "78.102",
-  "artist": "Birney MacNabb Quick",
+  "artist": "Artist: Birney MacNabb Quick",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Ben and Abby Grey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Stamp",
   "life_date": "American, 1912 - 1981",
-  "marks": "Signature; Date; Stamp in charcoal LR: [Quick 71.]",
+  "markings": "Blind Stamp: [Veritable papier d\\'arches/satine]",
   "medium": "Charcoal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in charcoal LR: [Quick 71.]",
   "style": "20th century",
   "text": "",
   "title": "Heave Ho Amsterdam"

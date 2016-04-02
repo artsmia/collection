@@ -1,6 +1,7 @@
 {
   "accession_number": "96.82",
-  "artist": "Stuart Mead",
+  "artist": "Artist: Stuart Mead",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Frank Gaard",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1991 Stuart Mead",
   "image_height": 4398,
   "image_width": 3202,
+  "inscription": "",
   "life_date": "American, born 1955",
-  "marks": " LRC on foot of easel: Stu Mead 91\\'",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC on foot of easel: Stu Mead 91\\'",
   "style": "20th century",
   "text": "",
   "title": "Untitled (seated nude man with horns)"

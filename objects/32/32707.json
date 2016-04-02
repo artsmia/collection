@@ -1,6 +1,7 @@
 {
   "accession_number": "B.97.9",
-  "artist": "Georges Braque; Daisetz Teitaro Suzuki; Eugen Herrigel; Louis Broder",
+  "artist": "Artist: Georges Braque; Author: Daisetz Teitaro Suzuki; Author: Eugen Herrigel; Publisher: Louis Broder",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "French, 1882 - 1963",
-  "marks": "Signature\r\nsee Signed in graphite: [G. Braque]",
+  "markings": "",
   "medium": "Color lithographs, etchings, woodcuts",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite: [G. Braque]",
   "style": "20th century",
   "text": "",
   "title": "Le Tir à l'Arc"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.114",
-  "artist": "School of Maria Sibylla Merian",
+  "artist": "Artist: School of Maria Sibylla Merian",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nLR recto: [PExx]; LL recto: [P186]",
   "life_date": "German, 1647-1717",
-  "marks": "Inscription\r\n\r\nLR recto: [PExx]; LL recto: [P186] ",
+  "markings": "",
   "medium": "Watercolor and graphite",
   "nationality": "German",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Small Blue Bird, Parrot and Fruits"

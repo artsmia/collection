@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.136",
-  "artist": "Lucas Cranach the Elder",
+  "artist": "Artist: Lucas Cranach the Elder",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7911,
   "image_width": 5065,
-  "life_date": "German (Saxony), 1472 - 1553",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German (Saxony), 1472–1553",
+  "markings": "Watermark: High crown, Briquet 4921, Augsburg, 1500",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Albertina Duplicate (Lugt 5g); sold C. G. Boerner, Leipzig, May 25-27, 1925, lot 395; to Colnaghi, London; to Herschel V. Jones, 1925.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Virgin and Child Adored by Frederic the Wise of Saxony"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,962",
-  "artist": "Mary Cassatt",
+  "artist": "Artist: Mary Cassatt",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2599,
   "image_width": 1791,
+  "inscription": "Unintelligible word at bottom of front page",
   "life_date": "American, 1844-1926",
-  "marks": "Unintelligible word at bottom of front page Yes",
+  "markings": "",
   "medium": "Soft ground and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "19th century",
   "text": "",
   "title": "Two Children on the Grass"

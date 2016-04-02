@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.20.7",
-  "artist": "Robert Israel",
+  "artist": "Artist: Robert Israel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Julius E. Davis",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Edition\r\n\r\nsee Signed\r\n\r\nLL.: no.",
   "life_date": "American, born 1939",
-  "marks": "Signature; Mark; Edition\r\n\r\nsee Signed\r\n\r\nLL.: no. on sheet",
+  "markings": "Watermark:  <ches> (fragment)",
   "medium": "Hand-colored lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Choregos"

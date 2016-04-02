@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.1",
-  "artist": "Don Cailliez",
+  "artist": "Artist: Don Cailliez",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2531,
   "image_width": 3588,
+  "inscription": "Signed, dated, numbered, titled, and VEL chop mark.",
   "life_date": "American, born 1934",
-  "marks": "Signed, dated, numbered, titled, and VEL chop mark LR: [Cailliez \\'81]\r\nLL: [28/36]\r\nLL: [Grandma\\'s Ki",
+  "markings": "LL: VEL chop mark",
   "medium": "Color screenprint and lithograph with collage and hand-coloring",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Cailliez \\'81]\r\nLL: [28/36]\r\nLL: [Grandma\\'s Kitchen]",
   "style": "20th century",
   "text": "",
   "title": "Grandma's Kitchen"

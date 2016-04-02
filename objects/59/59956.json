@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,981",
-  "artist": "Gabor Peterdi",
+  "artist": "Artist: Gabor Peterdi",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Howard E. Kaerwer, Jr., 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4584,
   "image_width": 3569,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (b. Hungary), 1915-2001",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Color etching and engraving",
   "nationality": "American",
   "provenance": "Barbara and Howard Kaerwer, Eden Prairie, Minn.; given to MIA, 1967.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Exodus"

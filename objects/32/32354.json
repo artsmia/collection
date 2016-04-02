@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.20",
-  "artist": "Salvador Dali; Text by Salvador Dali; Jean-Jacques Pauvert , Paris",
+  "artist": "Artist: Salvador Dali; Author: Text by Salvador Dali; Publisher: Jean-Jacques Pauvert , Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Salvador Dali%2C Gala-Salvador Dali Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Spanish, 1904-1989",
-  "marks": " ",
+  "markings": "",
   "medium": "Artist's book; photographic illustrations and text",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Le mythe tragique de l'Angélus de Millet"

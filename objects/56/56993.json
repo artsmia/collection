@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.25.4",
-  "artist": "John Cage; Crown Point Press, San Francisco",
+  "artist": "Artist: John Cage; Publisher: Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition, Inscription, Stamp\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [21/25]; inscribed in pencil LL: [II]\r\n\r\nPublisher\\'s / printer\\'s stamp in black ink, verso: [(logo) CROWN POINT PRESS / STEPHEN THOMAS]",
   "life_date": "American, 1912-1992",
-  "marks": "Signature, Edition, Inscription, Stamp\r\n\r\nsee Sign Signed in pencil, LR: [John Cage]",
+  "markings": "WM: [R...]; stamp in black ink, verso",
   "medium": "Etching, drypoint, and soft-ground etching",
   "nationality": "American",
   "provenance": "[LA Louver Gallery, Los Angeles]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [John Cage]",
   "style": "20th century",
   "text": "",
   "title": "Day II"

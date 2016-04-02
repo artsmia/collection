@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,374",
-  "artist": "George Brookshaw",
+  "artist": "Artist: George Brookshaw",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark\r\n\r\n\r\n\r\n",
   "life_date": "British, active 1804 - 1819",
-  "marks": "Mark\r\n\r\n\r\n\r\n ",
+  "markings": "Watermark: <1813>\r\n",
   "medium": "Line and stipple engraving, partially printed in color, finished by hand",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Raspberries"

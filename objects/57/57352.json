@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.201",
-  "artist": "Lucas Huygensz van Leyden",
+  "artist": "Artist: Lucas Huygensz van Leyden",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, about 1494-1533",
-  "marks": " ",
+  "markings": "Watermark: Letter B in crowned shield close to Briquet 8067",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "unidentified, L.1181; Dr. C.D. Ginsburg, L.1145",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Adoration of the Magi"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.118",
-  "artist": "Max Klinger",
+  "artist": "Artist: Max Klinger",
+  "classification": "Prints",
   "continent": null,
   "country": "Germany",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2275,
   "image_width": 1753,
+  "inscription": "Signature, Inscription, Stamp\r\n\r\nLLC below image in pencil: [(illegible inscription)]\r\nLLC in pencil: [T7793]",
   "life_date": "German, 1857 - 1920",
-  "marks": "Signature, Inscription, Stamp\r\n\r\nLLC below image i LRC below image in pencil: [M Klinger]",
+  "markings": "LRC on image :[(illegible stamp)]\r\nLLQ on back stamped in black: [Ausgeschieden aus der/Graphischen Sammlung/Museum der bildenden/Künste Leipzig]",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC below image in pencil: [M Klinger]",
   "style": "19th century",
   "text": "",
   "title": "New Dreams of Happiness"

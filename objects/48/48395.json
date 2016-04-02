@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,966",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Richard E. Lewis Fund, 1963",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Mark",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Date, Mark monogram and date in plate, upper right: [1520 / H",
+  "markings": "Watermark: High Crown",
   "medium": "Etching on iron",
   "nationality": "German",
   "provenance": "Colnaghi; Knoedler",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date in plate, upper right: [1520 / HSB]",
   "style": "16th century",
   "text": "",
   "title": "The Bagpipe Player and His Lover"

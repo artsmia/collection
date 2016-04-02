@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.20",
-  "artist": "Léopold Flameng",
+  "artist": "Maker: Léopold Flameng",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1831 - 1911",
-  "marks": "Title Recto, printed: [LA MORGUE]",
+  "inscription": "Title",
+  "life_date": "French, 1831–1911",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Recto, printed: [LA MORGUE]",
   "style": "19th century",
   "text": "",
   "title": "La Morgue"

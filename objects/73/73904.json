@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,663",
-  "artist": "Julius Schiller; Published by Andreas Aperger; Engraved by Lucas Kilian (after Mathias Kager)",
+  "artist": "Artist: Julius Schiller; Publisher: Published by Andreas Aperger; Engraver: Engraved by Lucas Kilian (after Mathias Kager)",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4862,
   "image_width": 6677,
-  "life_date": "German, died 1627",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1579 - 1637",
+  "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "A Catholic lawyer and amateur astronomer, Julius Schiller created a celestial atlas that substituted mythological constellations for Christian ones. The ancient constellation Argo Navis, for example, became Noah's Ark. Here Noah peeks out to see a dove returning with good news. Although Schiller produced a first-rate compendium, he failed to alter the course of astronomical nomenclature. ",
   "title": "Noah's Ark (Argo Navis or Ship of the Argonauts) from Coelum Stellatum Christianum (Christian Starry Heavens)"

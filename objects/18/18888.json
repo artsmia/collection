@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.1",
-  "artist": "George Bellows",
+  "artist": "Artist: George Bellows",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
-  "life_date": "American, 1882 - 1925",
-  "marks": "Signature; Inscription\r\n\r\non verso, in pencil: [Ni LL: [Geo Bellows]",
+  "inscription": "Signature; Inscription\r\n\r\non verso, in pencil: [Night[crossed out]/The Window/GB/ George Bellows]",
+  "life_date": "American, 1882–1925",
+  "markings": "",
   "medium": "Black conté crayon and graphite on hot press board",
   "nationality": "American",
   "provenance": "Allison and Co., New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Geo Bellows]",
   "style": "20th century",
   "text": "",
   "title": "The Window"

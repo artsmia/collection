@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.19",
-  "artist": "Attributed to Pietro da Cortona (Pietro Berrettini)",
+  "artist": "Artist: Attributed to Pietro da Cortona (Pietro Berrettini)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nbottom center, in black chalk or pencil: [M. Aurelius (?)]",
   "life_date": "Italian (Tuscany), 1596 - 1669",
-  "marks": "Inscription\r\n\r\nbottom center, in black chalk or pe ",
+  "markings": "",
   "medium": "Pen and brown ink and wash; laid down",
   "nationality": "Italian (Tuscany)",
   "provenance": "Theodore Allen Heinrich, Toronto (his posthumous sale, Christie's, London, July 6, 1982, no. 214, as Circle of Nicolas Poussin, for £150, to Moir); Alfred Moir, Santa Barbara (1982-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Adventus of Hadrian (Marcus Aurelius)"

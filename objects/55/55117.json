@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,320",
-  "artist": "Timothy Cole; after Ludwig Knaus",
+  "artist": "Artist: Timothy Cole; Artist: after Ludwig Knaus",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "236 in pencil at bottom; on back Metropolitan, N.Y In plate, on sheet",
+  "inscription": "236 in pencil at bottom; on back Metropolitan, N.Y.",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "20th century",
   "text": "",
   "title": "Flight Into Egypt, or The Holy Family"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.31",
-  "artist": "Beth Van Hoesen",
+  "artist": "Artist: Beth Van Hoesen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "© E. Mark Adams and Beth Van Hoesen Trust",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition; Mark\r\n\r\nsee Signed\r\n\r\non sheet, LL: [1961]\r\non mat:   [off white wove, \\\"Mirror\\\" 1961.  Etching and aquatint 2/25, Beth Van Hoesen, Intaglio Prints, 1972.  Beth Van Hoesen, U.S., XXC., b.1926, Gift of Abby Weed Grey, 1983.]",
   "life_date": "American, 1926-2010",
-  "marks": "Signature; Date; Title; Edition; Mark\r\n\r\nsee Signe in pencil, on sheet",
+  "markings": "Chop Marks:  <M>",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, on sheet",
   "style": "20th century",
   "text": "",
   "title": "Mirror"

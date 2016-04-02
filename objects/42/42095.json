@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,739",
-  "artist": "Kitagawa Utamaro; Published by Tsuruya Kiemon",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5182,
   "image_width": 3513,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " Utamaro ga",
+  "markings": "Censor:kiwame\r\nPublisher:Tsuruya\r\nCollecter:Wakai oyaji",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Utamaro ga",
   "style": "18th century",
   "text": "",
   "title": "\"Asazuma-bune, Fan-seller, and Poetic Epithets\""

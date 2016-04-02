@@ -1,6 +1,7 @@
 {
   "accession_number": "81.131",
-  "artist": "Louis Michel Eilshemius",
+  "artist": "Artist: Louis Michel Eilshemius",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4988,
   "image_width": 6601,
+  "inscription": "Signature and Date",
   "life_date": "American, 1864 - 1941",
-  "marks": "Signature and Date LL: [Eilshemius 1916]; also signed on verso.",
+  "markings": "",
   "medium": "Oil on paper mounted on board",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Eilshemius 1916]; also signed on verso.",
   "style": "20th century",
   "text": "",
   "title": "Sunset"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.28",
-  "artist": "Pier Francesco Mola",
+  "artist": "Artist: Pier Francesco Mola",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2634,
   "image_width": 3992,
+  "inscription": "Signature, Inscription and Stamp\r\n\r\nLRC, in pencil: [591]",
   "life_date": "Italian, 1612 - 1666",
-  "marks": "Signature, Inscription and Stamp\r\n\r\nLRC, in pencil LRC, in brown: [Mola]",
+  "markings": "LRC below child\\'s foot, stamped in black: unidentified symbol",
   "medium": "Black ink and gray wash on laid paper",
   "nationality": "Italian",
   "provenance": "David Loshak, Ann Arbor (in 1974). Sale, Sotheby's, London, July 4, 1985, no. 35, for £3,568, to Moir; Alfred Moir, Santa Barbara (1985-d.2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in brown: [Mola]",
   "style": "17th century",
   "text": "",
   "title": "Hermione and the Shepherds"

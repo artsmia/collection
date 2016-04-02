@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.29",
-  "artist": "Jean-Émile Laboureur",
+  "artist": "Artist: Jean-Émile Laboureur",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Philip W. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Watermark and inscription\r\nInscription: [s. & #]",
   "life_date": "French, 1877 - 1943",
-  "marks": "Watermark and inscription\r\nInscription: [s. & #] ",
+  "markings": "watermarks: [ARCHES] and monogram",
   "medium": "Woodcut",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "New York Evening"

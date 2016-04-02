@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.10",
-  "artist": "Hans Haffenrichter",
+  "artist": "Artist: Hans Haffenrichter",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Inscriptions",
   "life_date": "German, 1897 - 1981",
-  "marks": "Signature, Date, Inscriptions [Hans Haffenrichter / 1946/47], bottom right, rect",
+  "markings": "Inscribed in graphite LR: [op. 47/50]; on verso: [Property of John I. Coe]",
   "medium": "Watercolor",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Hans Haffenrichter / 1946/47], bottom right, recto",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Abstract Sunrise)"

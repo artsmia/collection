@@ -1,6 +1,7 @@
 {
   "accession_number": "B.95.5",
-  "artist": "Inge Bruggeman; Text by Hank Lazar; Ink-A! Press, Tuscaloosa, Alabama",
+  "artist": "Designer: Inge Bruggeman; Author: Text by Hank Lazar; Publisher: Ink-A! Press, Tuscaloosa, Alabama",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Relief print and letterpress on hand-dyed paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Negation"

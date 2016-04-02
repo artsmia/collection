@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,807",
-  "artist": "Francis Seymour Haden",
+  "artist": "Artist: Francis Seymour Haden",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1850,
   "image_width": 2522,
+  "inscription": "Signature",
   "life_date": "British, 1818-1910",
-  "marks": "Signature in pencil",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "English",
   "provenance": "William M. Ladd, Portland, Ore., until 1916.; sold to Hershcel V. Jones, Minneapolis, 1916; given/sold to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil",
   "style": "19th century",
   "text": "",
   "title": "A Sunset in Ireland"

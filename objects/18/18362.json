@@ -1,6 +1,7 @@
 {
   "accession_number": "58.36",
-  "artist": "Birney MacNabb Quick",
+  "artist": "Artist: Birney MacNabb Quick",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Harold Joachim",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3335,
   "image_width": 4703,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, 1912 - 1981",
-  "marks": "Signature; Date; Title LR: [The Diners-58.Quick]",
+  "markings": "",
   "medium": "Charcoal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [The Diners-58.Quick]",
   "style": "20th century",
   "text": "",
   "title": "The Diners"

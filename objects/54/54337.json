@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.50.29",
-  "artist": "John O. Schlump; John O. Schlump",
+  "artist": "Artist: John O. Schlump; Printer: John O. Schlump",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [John O. Schlump]",
+  "markings": "",
   "medium": "Screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [John O. Schlump]",
   "style": "20th century",
   "text": "",
   "title": "Intimate Crevice"

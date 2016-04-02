@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.155.9",
-  "artist": "Utagawa Kunisada; Utagawa Hiroshige; Published by Maruya Kyūshirō; Carved by Yokogawa Takejirō",
+  "artist": "Artist: Utagawa Kunisada; Artist: Utagawa Hiroshige; Publisher: Published by Maruya Kyūshirō; Carver: Carved by Yokogawa Takejirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Japanese, 1786 - 1865",
-  "marks": "UL: {[Narumi?? Hoshizaki]} in toshidama cartouche: 豊國画 {Toyokuni ga} |  廣重画 {",
+  "inscription": "UL: {[Narumi?? Hoshizaki]}",
+  "life_date": "Japanese, 1797 - 1858",
+  "markings": "date seal: 卯八 {u hachi} (Hare 8) | censor seal: 改 {aratame} (inspected) | publisher\\'s seal: {Marukyū} | carver\\'s seal: {hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga} |  廣重画 {Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "Narumi"

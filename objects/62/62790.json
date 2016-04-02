@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.54.6",
-  "artist": "Warren MacKenzie; Alix Kolesky MacKenzie, American",
+  "artist": "Artist: Warren MacKenzie; Artist: Alix Kolesky MacKenzie, American",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Jane B. and Martin E. Abel, from the estate of Dr. Samuel and Edith K. Beirstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Warren MacKenzie",
   "image_height": 2708,
   "image_width": 3112,
+  "inscription": "Stamp",
   "life_date": "American, born 1924",
-  "marks": "Stamp ",
+  "markings": "on exterior, at bottom edge, stamped: [(intertwined initials)]",
   "medium": "Glazed stoneware",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Sauce or gravy server"

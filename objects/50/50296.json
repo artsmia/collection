@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.160",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4528,
   "image_width": 3476,
-  "life_date": "German, 1471 - 1528",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1471–1528",
+  "markings": "Watermark: Circle with two concentric lines (M. 258; c. 1620)",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Knoedler & Co., 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Portrait of Ulrich Varnbüler"

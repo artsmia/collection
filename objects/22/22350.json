@@ -1,6 +1,7 @@
 {
   "accession_number": "81.113.2.2",
-  "artist": "Shibata Zeshin",
+  "artist": "Artist: Shibata Zeshin",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1807 - 1891",
-  "marks": " {Zeshin}",
+  "markings": "{Shin}",
   "medium": "Lacquer and gold on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Zeshin}",
   "style": "19th century",
   "text": "",
   "title": "Spring, Birds and Flowers in Spring and Autumn"

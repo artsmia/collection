@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.6",
-  "artist": "Yanagisawa Kien",
+  "artist": "Artist: Yanagisawa Kien",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3860,
   "image_width": 1532,
+  "inscription": "Inscription and mark\r\ninscription in black, URC",
   "life_date": "Japanese, 1706 - 1758",
-  "marks": "Inscription and mark\r\ninscription in black, URC ",
+  "markings": "two seals in red, URC",
   "medium": "Hanging scroll; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sitting Tiger"

@@ -1,6 +1,7 @@
 {
   "accession_number": "56.29.10",
-  "artist": "Wanda Gag",
+  "artist": "Artist: Wanda Gag",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of the Estate of Wanda Gag",
@@ -14,8 +15,9 @@
   "image_copyright": "Courtesy Wanda G%C3%A1g Estate",
   "image_height": 4714,
   "image_width": 3744,
+  "inscription": "Signature; Date",
   "life_date": "American, 1893 - 1946",
-  "marks": "Signature; Date LR: [Wanda Gag \\'27]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Wanda Gag \\'27]",
   "style": "20th century",
   "text": "",
   "title": "Castor Oil Plant"

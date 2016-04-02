@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,779",
-  "artist": "Sanders Alexander Van Brugsal",
+  "artist": "Artist: Sanders Alexander Van Brugsal",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Miss Tessie Jones in memory of her parents, Mr. and Mrs. Herschel V. Jones, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3943,
   "image_width": 3277,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Annunciation"

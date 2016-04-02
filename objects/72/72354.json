@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,084",
-  "artist": "Pierandrea Mattioli",
+  "artist": "Artist: Pierandrea Mattioli",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4751,
   "image_width": 2959,
+  "inscription": "\r\n\r\n",
   "life_date": "Italian, 1500 - 1577",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Woodcut illustration, original color?",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Von Angurien, from Commentarii in Sex Libros Pedacii Dioscoridis"

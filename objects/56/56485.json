@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,818",
-  "artist": "Georges Rouault; Published by Ambroise Vollard, Paris, France",
+  "artist": "Artist: Georges Rouault; Publisher: Published by Ambroise Vollard, Paris, France",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1871 - 1958",
-  "marks": "Inscribed in blue ink, lower left margin <Hindenbo Signed in blue ink, lower right margin <Georges Ro",
+  "inscription": "Inscribed in blue ink, lower left margin <Hindenbourg 2e Tirage>\r\nDated in blue ink, lower right margin <1933>",
+  "life_date": "French, 1871–1958",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in blue ink, lower right margin <Georges Rouault>",
   "style": "20th century",
   "text": "",
   "title": "Portrait of General Von Hindenburg"

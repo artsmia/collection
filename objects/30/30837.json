@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.11",
-  "artist": "Joe Jones",
+  "artist": "Artist: Joe Jones",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Title; Mark\r\n\r\ntitle inscribed in artist\\'s hand, verso",
   "life_date": "American, 1909 - 1963",
-  "marks": "Signature; Title; Mark\r\n\r\ntitle inscribed in artis In black ink, bottom RC, recto: [Joe Jones]",
+  "markings": "Watermark: [J Perrigot Arches]",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In black ink, bottom RC, recto: [Joe Jones]",
   "style": "20th century",
   "text": "",
   "title": "Dock Yard, Bermuda"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,556",
-  "artist": "Paul Klee; Published by Staatliches Bauhaus; Printed by Staatliches Bauhaus",
+  "artist": "Artist: Paul Klee; Publisher: Published by Staatliches Bauhaus; Printer: Printed by Staatliches Bauhaus",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6000,
   "image_width": 4483,
+  "inscription": "Signature; Date; and Inscription\r\n\r\nsee Signed\r\n\r\nAnnot. as edition of 110 impressions of Bauhaus-Drucke, 1921, Weimar",
   "life_date": "Swiss, 1879 - 1940",
-  "marks": "Signature; Date; and Inscription\r\n\r\nsee Signed\r\n\r\n [Klee 1921/123]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Klee 1921/123]",
   "style": "20th century",
   "text": "",
   "title": "Hoffmanneske Szene"

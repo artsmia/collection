@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.78",
-  "artist": "Jean-Baptiste Le Prince",
+  "artist": "Artist: Jean-Baptiste Le Prince",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Prints and Drawings Council and Kemper E. Kirkpatrick",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4359,
   "image_width": 2995,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "French, 1734 - 1781",
-  "marks": "Signature\r\n\r\nsee Signed in plate on image",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "R.G. Michel",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate on image",
   "style": "18th century",
   "text": "",
   "title": "The Magician"

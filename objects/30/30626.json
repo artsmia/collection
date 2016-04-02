@@ -1,6 +1,7 @@
 {
   "accession_number": "98.148.2",
-  "artist": "Ernst Krantz",
+  "artist": "Artist: Ernst Krantz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Stamp",
   "life_date": "1884 - 1954",
-  "marks": "Inscription; Stamp ",
+  "markings": "in black ink, LL: [SK3-1743]; Estate stamp, verso: [NACHLASS ERNST KRANTZ/Frau Katharina Krantz]",
   "medium": "Graphite on cream wove paper",
   "nationality": null,
   "provenance": "Allen Brookins-Brown, Minneapolis\r\nGalerie Pommersfelde, Berlin",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Ruinen (Ruins)"

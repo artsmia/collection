@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,071",
-  "artist": "Jan Matthijs Graadt van Roggen; after Weissenbruch",
+  "artist": "Artist: Jan Matthijs Graadt van Roggen; Artist: after Weissenbruch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(see Signed)",
   "life_date": "Dutch, born 1866",
-  "marks": "Signature\r\n\r\n(see Signed) in pencil: [Jan Graadt van Roggen]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Jan Graadt van Roggen]",
   "style": "19th century",
   "text": "",
   "title": "The Mill"

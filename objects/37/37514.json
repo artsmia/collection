@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.178.26",
-  "artist": "Ohara Shōson; Published by Matsuki Heikichi",
+  "artist": "Artist: Ohara Shōson; Publisher: Published by Matsuki Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1877 - 1945",
-  "marks": " {Koson}",
+  "markings": "red artist\\'s seal K.c: {Koson}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Koson}",
   "style": "20th century",
   "text": "",
   "title": "Flying Geese and Moon"

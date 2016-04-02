@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.196",
-  "artist": "Mario Avati",
+  "artist": "Artist: Mario Avati",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Title, Edition\r\n\r\nTitled in pencil, LC: [LES PAPILLONS DE NAGASAKI]\r\n\r\nNumbered in pencil, LL: [7/50]",
   "life_date": "French (born Monaco), 1921 - 2009",
-  "marks": "Signature, Date, Title, Edition\r\n\r\nTitled in penci Signed, dated in pencil, LR: [AVATI 62]",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "French",
   "provenance": "(Sagot Le Garrec, Paris); sold to MIA, 1969.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [AVATI 62]",
   "style": "20th century",
   "text": "",
   "title": "Butterflies of Nagasaki"

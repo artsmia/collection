@@ -1,6 +1,7 @@
 {
   "accession_number": "37.47",
-  "artist": "I. (Johann) H. (Heinrich) Giese",
+  "artist": "Maker: I. (Johann) H. (Heinrich) Giese",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mrs. Ridgely Hunt",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German",
-  "marks": "Signature [I.H.Giese- Iserlon, Fecit]",
+  "markings": "",
   "medium": "Brass, copper",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[I.H.Giese- Iserlon, Fecit]",
   "style": "18th century",
   "text": "",
   "title": "Tobacco box"

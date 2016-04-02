@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.115.1a-tt",
-  "artist": "Jim Dine; Text by Frank O'Hara, American; Published by Arion Press",
+  "artist": "Artist: Jim Dine; Author: Text by Frank O'Hara, American; Publisher: Published by Arion Press",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of the Harriet Hanley Estate",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1935",
-  "marks": "Signature on last page in pencil: [Jim Dine]",
+  "markings": "",
   "medium": "Letterpress; lithographs",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on last page in pencil: [Jim Dine]",
   "style": "20th century",
   "text": "",
   "title": "Biotherm (for Bill Berkson)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.40.293",
-  "artist": "Winslow Homer; Oliver Ditson, Boston",
+  "artist": "Artist: Winslow Homer; Publisher: Oliver Ditson, Boston",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Robert D. Semsch",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1836 - 1910",
-  "marks": " No",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No",
   "style": "19th century",
   "text": "",
   "title": "Polka Mazurkas"

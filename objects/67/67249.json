@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.64.15",
-  "artist": "Kawanabe Kyōsai",
+  "artist": "Artist: Kawanabe Kyōsai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2025,
   "image_width": 2028,
+  "inscription": "",
   "life_date": "Japanese, 1831 - 1889",
-  "marks": " Kyo_sai",
+  "markings": "artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with embossing and sunago",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kyo_sai",
   "style": "19th century",
   "text": "",
   "title": "Sleeping Cat"

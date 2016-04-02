@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.246",
-  "artist": "Franz Kline",
+  "artist": "Artist: Franz Kline",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Edith and Norman Garmezy in honor of Richard J. Campbell, in recognition of his 20 years of service to the Prints and Drawings Department, MIA",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": 2392,
   "image_width": 1946,
+  "inscription": "Signature, Date, Inscription\r\n\r\nLLC in pencil: [Merry Xmas/ - /Happy New Year]\r\nLRC in pencil: [Elizabeth + Franz]",
   "life_date": "American, 1910-1962",
-  "marks": "Signature, Date, Inscription\r\n\r\nLLC in pencil: [Me LRC, in the plate: [F KUNE/ 1940]",
+  "markings": "",
   "medium": "Etching with plate tone",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in the plate: [F KUNE/ 1940]",
   "style": "20th century",
   "text": "",
   "title": "Season's Greetings"

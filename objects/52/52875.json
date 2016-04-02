@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,587",
-  "artist": "Nicolas Béatrizet",
+  "artist": "Artist: Nicolas Béatrizet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Lorraine",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "French, c.1505 - 1575",
-  "marks": "Mark ",
+  "markings": "watermark: anchor in a circle",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Fall of Phaëton"

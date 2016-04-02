@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.44",
-  "artist": "Gerrit Rietveld; Gerard A. van de Groenekan",
+  "artist": "Designer: Gerrit Rietveld; Maker: Gerard A. van de Groenekan",
+  "classification": "Furniture",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C The Netherlands",
   "image_height": 1920,
   "image_width": 1284,
-  "life_date": "Dutch, 1888-1964",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1888–1964",
+  "markings": "",
   "medium": "Oak, brass",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G379",
+  "signed": "",
   "style": "De Stijl",
   "text": "",
   "title": "Zig-Zag chair"

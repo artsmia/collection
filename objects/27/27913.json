@@ -1,6 +1,7 @@
 {
   "accession_number": "92.130",
-  "artist": "Jacob El Hanani",
+  "artist": "Artist: Jacob El Hanani",
+  "classification": "Drawings",
   "continent": "Asia",
   "country": "Israel",
   "creditline": "Gift of Myron Kunin\r\n\r\n\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3440,
   "image_width": 3457,
+  "inscription": "Signature; Date; Title\r\nsee Signed",
   "life_date": "Israeli (b. Morocco), born 1947",
-  "marks": "Signature; Date; Title\r\nsee Signed verso in graphite: [JACOB EL HANNANI/1989-92/ VAAD",
+  "markings": "",
   "medium": "Pen and black ink",
   "nationality": "Israeli",
   "provenance": "Myron Kunin, Minneapolis; given to MIA, 1992.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "verso in graphite: [JACOB EL HANNANI/1989-92/ VAAD]",
   "style": "20th century",
   "text": "",
   "title": "Vaad"

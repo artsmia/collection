@@ -1,6 +1,7 @@
 {
   "accession_number": "P.89.14",
-  "artist": "A. C. Webb",
+  "artist": "Artist: A. C. Webb",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Charles H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1888",
-  "marks": "Signature; Mark\r\n\r\nsee Signed [A.C. Webb]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[A.C. Webb]",
   "style": "20th century",
   "text": "",
   "title": "Dentelle de Pierre, Rouen"

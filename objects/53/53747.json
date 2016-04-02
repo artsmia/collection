@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.1",
-  "artist": "Leland Fletcher",
+  "artist": "Artist: Leland Fletcher",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil CL: [18/38]",
   "life_date": "American, born 1946",
-  "marks": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered Signed, dated in pencil, CR: [Leland Fletcher \\'79]",
+  "markings": "Chop: Strathmore artist",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, CR: [Leland Fletcher \\'79]",
   "style": "20th century",
   "text": "",
   "title": "Inside the Times"

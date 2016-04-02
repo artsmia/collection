@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.32",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "Gift of Mr. and Mrs. Harrison R. Johnston, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1859,
   "image_width": 2306,
+  "inscription": "Mark",
   "life_date": "Dutch, 1606-1669",
-  "marks": "Mark ",
+  "markings": "Watermark: Crown of Strasbourg Lily ?",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "bought Snyder 8/30/28; Franklin M. Crosby, Jr.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Triumph of Mordecai"

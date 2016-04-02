@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.666",
-  "artist": "Ferdinand Jean Luigini",
+  "artist": "Artist: Ferdinand Jean Luigini",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, watermark and chop marks",
   "life_date": "French, b. 1870",
-  "marks": "Signature, watermark and chop marks signed in pencil, right",
+  "markings": "chop marks: embossed symol; watermarks: lower left",
   "medium": "Aquatint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil, right",
   "style": "20th century",
   "text": "",
   "title": "Le Marche à Venise"

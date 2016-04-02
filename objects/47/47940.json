@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.224",
-  "artist": "Israhel van Meckenem",
+  "artist": "Artist: Israhel van Meckenem",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, c. 1445-1503",
-  "marks": "Mark ",
+  "markings": "Watermark: Gothic \\\"Y\\\" with cross (Briquet 9182; Cologne 1467)",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "Colhaghi; Knoedler, 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Christ Washing Feet of the Apostles"

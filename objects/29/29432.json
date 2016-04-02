@@ -1,6 +1,7 @@
 {
   "accession_number": "96.97.32",
-  "artist": "Wang Zhen",
+  "artist": "Maker: Wang Zhen",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5566,
   "image_width": 3379,
+  "inscription": "Inscription; Seals",
   "life_date": "Chinese, 1867 - 1938",
-  "marks": "Inscription; Seals ",
+  "markings": "undecifered text across top half and clam both sides; 4 artist seals; and 4 collector seals",
   "medium": "Ink and color on silk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Portrait of Buddha"

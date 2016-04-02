@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.16.12",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1906,
   "image_width": 2876,
+  "inscription": "大嶌十二景之内　三原の砂漠 {Ōshima jūnikei no uchi, Mihara no sabaku} (The Twelve Views of Ōshima Island, Desert of Mount Mihara)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "大嶌十二景之内　三原の砂漠 {Ōshima jūnikei no uchi, Mihara no s hand-applied 深水畫 {Shinsui ga} (picture by Shinsui)",
+  "markings": "hand-applied red artist\\'s seal: 深水 {Shinsui} | LLC, publisher seal: ワタナベ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper with mica and embossing",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "hand-applied 深水畫 {Shinsui ga} (picture by Shinsui)",
   "style": "20th century",
   "text": "",
   "title": "Desert of Mount Mihara"

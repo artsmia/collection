@@ -1,6 +1,7 @@
 {
   "accession_number": "P.451",
-  "artist": "Giorgio Ghisi; After Francesco Saviati",
+  "artist": "Artist: Giorgio Ghisi; Artist: After Francesco Saviati",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1520 - 1582",
-  "marks": "Signature In plate, upper right: [Fran Salviati In]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "P. Mariette Collection (Lugt 1678) (on recto)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, upper right: [Fran Salviati In]",
   "style": "16th century",
   "text": "",
   "title": "The Visitation of the Virgin to St. Elizabeth"

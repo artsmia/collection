@@ -1,6 +1,7 @@
 {
   "accession_number": "46.4",
-  "artist": "Briggs Dyer",
+  "artist": "Artist: Briggs Dyer",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5048,
   "image_width": 7060,
+  "inscription": "Signature",
   "life_date": "American, 1911-1970",
-  "marks": "Signature LR: [B. Dyer]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [B. Dyer]",
   "style": "20th century",
   "text": "",
   "title": "Corner of Chartres Street"

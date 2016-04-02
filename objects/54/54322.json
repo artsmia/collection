@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.102",
-  "artist": "Bud Shark",
+  "artist": "Artist: Bud Shark",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Shark Foundation Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Shark]",
+  "markings": "Chop mark",
   "medium": "Color lithography, grey inks",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Shark]",
   "style": "20th century",
   "text": "",
   "title": "This Way and That"

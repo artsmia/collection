@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.14",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 961,
   "image_width": 4762,
+  "inscription": "Signature; Date; Inscription\r\nbottom in pencil: [Sketch of Scene III]",
   "life_date": "American, born 1949",
-  "marks": "Signature; Date; Inscription\r\nbottom in pencil: [S LR, in pencil: [T. L. Solien \\'85]\r\nbottom in penci",
+  "markings": "",
   "medium": "Brush and oil in black, white and gray over carbon paper transfer",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in pencil: [T. L. Solien \\'85]\r\nbottom in pencil: [Sketch of Scene III]",
   "style": "20th century",
   "text": "",
   "title": "The Husband Lost at Sea (Fragment)"

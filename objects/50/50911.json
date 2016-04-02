@@ -1,6 +1,7 @@
 {
   "accession_number": "P.443",
-  "artist": "Agostino Carracci",
+  "artist": "Artist: Agostino Carracci",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4056,
   "image_width": 2987,
+  "inscription": "Signature",
   "life_date": "Italian (Bolognese), 1557 - 1602",
-  "marks": "Signature In plate",
+  "markings": "Watermark:<FT> (?)\r\nCollector\\'s Marks: Red Stamp on Recto LL: H.F. Sewall (Lugt 1309)",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Red Stamp Recto, H.F. Sewall (L.1309).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "16th century",
   "text": "",
   "title": "Titian"

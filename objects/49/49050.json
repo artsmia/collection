@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,652.4",
-  "artist": "Jacques Callot",
+  "artist": "Artist: Jacques Callot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Ridgely Hunt, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "French, 1592-1635",
-  "marks": "Signature\r\n\r\nsee Signed name printed on image edge",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "name printed on image edge",
   "style": "17th century",
   "text": "",
   "title": "Les appret du festin"

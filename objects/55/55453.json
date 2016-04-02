@@ -1,6 +1,7 @@
 {
   "accession_number": "P.723",
-  "artist": "Nicolaes Lauwers; After Joerdens",
+  "artist": "Artist: Nicolaes Lauwers; Artist: After Joerdens",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Flanders/Belgium",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Flemish, 1600 - 1652(?)",
-  "marks": "Signature on plate: Nicolaes Lawers",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Flemish",
   "provenance": "de Graaf, Amsterdam",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: Nicolaes Lawers",
   "style": "17th century",
   "text": "",
   "title": "Jupiter and Mercury with Baucis and Philemon"

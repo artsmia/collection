@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.60",
-  "artist": "Utagawa Kuniyoshi; Published by Minatoya Kohei",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Minatoya Kohei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2710,
   "image_width": 1897,
+  "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": " Ichiyu_sai Kuniyoshi ga",
+  "markings": "Censor:Kinugasa, Hama\r\nPublisher:Minatoya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ichiyu_sai Kuniyoshi ga",
   "style": "19th century",
   "text": "",
   "title": "An Actor in the role of Kaminari Shōkurō"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.72d",
-  "artist": "Awashima Kangetsu",
+  "artist": "Artist: Awashima Kangetsu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1810,
   "image_width": 5183,
+  "inscription": "",
   "life_date": "Japanese, 1859 - 1926",
-  "marks": " {Bon\\'un Kangetsu hitsu}",
+  "markings": "Unread artist\\'s seal",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Bon\\'un Kangetsu hitsu}",
   "style": "19th-20th century",
   "text": "",
   "title": "(Asakusa Kannon temple caricatures D)"

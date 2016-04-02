@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,550",
-  "artist": "Andreas Cellarius; Published by Gerard Valk and Peter Schenk, Amsterdam",
+  "artist": "Artist: Andreas Cellarius; Publisher: Published by Gerard Valk and Peter Schenk, Amsterdam",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3526,
   "image_width": 4118,
+  "inscription": "\r\n\r\n",
   "life_date": "German (active in the Netherlands), c. 1596 - 1665",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "Dutch-German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "Although the title places this sky chart in antiquity, Andreas Cellarius in fact included a number of recently identified stars. Some 17 new constellations appear here-including the Southern Triangle, the Peacock, the American Indian, and the Toucan-that were not described by Ptolemy. Most of the new southern stars were first published in 1612 by the Dutch cartographer and theologian Petrus Plancius, who had supplied astronomical instruments to a navigator with the Dutch East India Company. ",
   "title": "The Southern Stellar Hemisphere of Antiquity, plate 27 from Harmonia Microcosmica"

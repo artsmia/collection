@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,926",
-  "artist": "Okumura Masanobu",
+  "artist": "Artist: Okumura Masanobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1972,
   "image_width": 2695,
+  "inscription": "",
   "life_date": "Japanese, 1686 - 1764",
-  "marks": " ",
+  "markings": "\\\"Wakamasa\\\" (meaning unknown) written above the title, same letters seen on P.70.162\r\npart of the letter \\\"ga\\\"(painted) on the lower left corner\r\n\\\"Ikeda??\\\" written on the barrel, could be the name of publisher",
   "medium": "Woodblock print (sumizuri-e); ink on paper",
   "nationality": "Japanese",
   "provenance": "Ford (bought from Vickery, Atkins & Torrey, no.17 in collection)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Three Sake Tasters"

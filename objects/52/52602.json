@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.237",
-  "artist": "Nicolleto Rosex Modena",
+  "artist": "Artist: Nicolleto Rosex Modena",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5235,
   "image_width": 3391,
+  "inscription": "Signature",
   "life_date": "Italian, active 1490- 1512",
-  "marks": "Signature In plate",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "K.E. Hasse, Lugt 860; Colnaghi; Knoedler & Co., 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "16th century",
   "text": "",
   "title": "The Nativity"

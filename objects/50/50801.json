@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.2.2",
-  "artist": "François-Nicolas Chifflart",
+  "artist": "Artist: François-Nicolas Chifflart",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and mark",
   "life_date": "French, 1825 - 1901",
-  "marks": "Signature and mark Signed in pen",
+  "markings": "monogram",
   "medium": "Etching, plate tone",
   "nationality": "French",
   "provenance": "Alfred Morrison",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pen",
   "style": "19th century",
   "text": "",
   "title": "Nightmare"

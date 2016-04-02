@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.9",
-  "artist": "Fernand Khnopff",
+  "artist": "Artist: Fernand Khnopff",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of funds of the Print and Drawing Curatorial Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5541,
   "image_width": 3594,
+  "inscription": "Inscription; Mark\r\nBlind stamp: [Ste. Aquae Belges]",
   "life_date": "Belgian, 1858 - 1921",
-  "marks": "Inscription; Mark\r\nBlind stamp: [Ste. Aquae Belges ",
+  "markings": "Watermark: <Van Gelder Zonen>",
   "medium": "Drypoint",
   "nationality": "Belgian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Mask"

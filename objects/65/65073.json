@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.215",
-  "artist": "Utagawa Hiroshige II; Published by Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Hiroshige II; Publisher: Published by Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2225,
   "image_width": 1639,
+  "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "marks": " Hiroshige ga",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "No.19 Matsuchi Hill"

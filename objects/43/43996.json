@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.26.5",
-  "artist": "Jasper Johns; Published by Gemini G.E.L., Los Angeles",
+  "artist": "Artist: Jasper Johns; Publisher: Published by Gemini G.E.L., Los Angeles",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edith and Norman Garmezy",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 4253,
   "image_width": 3218,
+  "inscription": "Signature, Date, Edition, Stamp, and Inscription\r\n\r\nNumbered in pencil, LL: [29/60]\r\n\r\non verso below gallery stamp, in pencil: [JJ 77-840]",
   "life_date": "American, born 1930",
-  "marks": "Signature, Date, Edition, Stamp, and Inscription\r\n Signed, dated in pencil, LR margin: [J. Johns / 77",
+  "markings": "LR margin: publisher\\'s blind stamps; on verso, in purple: gallery stamp",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "The Merryman Collection, Stanford, Calif.; Edith and Norman Garmezy, Edina, Minn.; Estate of Edith Garmezy, Edina, Minn., partial gift completed posthumously in 2005.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR margin: [J. Johns / 77]",
   "style": "20th century",
   "text": "",
   "title": "0 through 9"

@@ -1,6 +1,7 @@
 {
   "accession_number": "64.55.2",
-  "artist": "Richard Segalman",
+  "artist": "Artist: Richard Segalman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1934",
-  "marks": "Signature; Date LR: [Segalman 64]",
+  "markings": "",
   "medium": "Charcoal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Segalman 64]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of a Woman at a Table"

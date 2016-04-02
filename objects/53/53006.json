@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,558",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2581,
   "image_width": 3466,
+  "inscription": "Recto, across bottom of sheet, cursive in pencil: [J. McNeill Whistler Presented to P.J. Hamerton]\r\nCenter verso, in pencil: [A26222]\r\nLL verso, in pencil: [202]; cursive in pencil: [Wedmore 69. / \\\"Sketching\\\" (1862). / Presentation proof from Whistler to Hamerton. / The handwriting on the face is Hamerton\\'s.]\r\nLR verso, in pencil: [36]",
   "life_date": "American, 1834 - 1903",
-  "marks": "Recto, across bottom of sheet, cursive in pencil:  Printed signature LR (diagonally) in the plate: [W",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LR (diagonally) in the plate: [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "Sketching, No. 1"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.177",
-  "artist": "Utagawa Hiroshige; Aritaya Seiemon",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Aritaya Seiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1976,
   "image_width": 2748,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Publisher\\'s seal: {Yūeidō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Woman and Badger"

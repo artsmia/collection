@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,970",
-  "artist": "Rodolphe Piguet",
+  "artist": "Artist: Rodolphe Piguet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription",
   "life_date": "Swiss, 1840 - 1915",
-  "marks": "Inscription ",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Girl With Flowers"

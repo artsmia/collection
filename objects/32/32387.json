@@ -1,6 +1,7 @@
 {
   "accession_number": "99.95",
-  "artist": "Frederick Gutekunst",
+  "artist": "Photographer: Frederick Gutekunst",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Jill Collins and John Thillmann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1120,
+  "inscription": "Artist\\'s Stamp, Inscription",
   "life_date": "American, 1831-1917",
-  "marks": "Artist\\'s Stamp, Inscription ",
+  "markings": "Center back: photographer stamp lower edge front: name and historical information",
   "medium": "Albumen print (carte de visite)",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Henry Benjamin Whipple, Bishop of Minnesota"

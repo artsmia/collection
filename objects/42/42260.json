@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.79",
-  "artist": "Unknown German, 15th century",
+  "artist": "Artist: Unknown German, 15th century",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "Watermark: Bull\\'s Head (fragment) close to Briquet, 15314",
   "medium": "Hand-colored woodcut",
   "nationality": null,
   "provenance": "Knoedler & Co., 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "Christ on the Mount of Olives"

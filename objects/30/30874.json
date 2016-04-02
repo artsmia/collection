@@ -1,6 +1,7 @@
 {
   "accession_number": "98.270.1",
-  "artist": "Lance E. Kiland",
+  "artist": "Artist: Lance E. Kiland",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1669,
   "image_width": 2840,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1947",
-  "marks": "Signature; Date; Title in graphite, LR: [Lance E. Kiland \\'74\\']",
+  "markings": "in graphite, LL: [Garbo and the Great Stiller]",
   "medium": "Graphite on white wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Lance E. Kiland \\'74\\']",
   "style": "20th century",
   "text": "",
   "title": "Garbo and the Great Stiller"

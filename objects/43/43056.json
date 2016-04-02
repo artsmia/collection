@@ -1,6 +1,7 @@
 {
   "accession_number": "P.91.37.1",
-  "artist": "John Steuart Curry; Associated American Artists, New York , 1940",
+  "artist": "Artist: John Steuart Curry; Publisher: Associated American Artists, New York , 1940",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Howard Conn",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Steuart Curry Estate",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1897-1946",
-  "marks": "Signature, Edition Signed in pencil, LR: [John Steuart Curry]",
+  "inscription": "Signature, Edition",
+  "life_date": "American, 1897–1946",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Howard Conn; given to MIA, 1991.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G315",
+  "signed": "Signed in pencil, LR: [John Steuart Curry]",
   "style": "20th century",
   "text": "",
   "title": "John Brown"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.95.7",
-  "artist": "Terry Winters; Grenfell Press, New York; Printed by Leslie Miller",
+  "artist": "Artist: Terry Winters; Publisher: Grenfell Press, New York; Printer: Printed by Leslie Miller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4990,
   "image_width": 3612,
+  "inscription": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNubmered in pencil, LC",
   "life_date": "American, born 1949",
-  "marks": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNubmered Signed in pencil, LL: [Terry Winters]",
+  "markings": "",
   "medium": "Linoleum cut  on indigo-dyed Seikishu paper",
   "nationality": "American",
   "provenance": "(Betsy Senior, New York); sold to MIA, 1995.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LL: [Terry Winters]",
   "style": "20th century",
   "text": "",
   "title": "Triangulation"

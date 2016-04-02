@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,225",
-  "artist": "Henri-Charles Guérard",
+  "artist": "Artist: Henri-Charles Guérard",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2571,
   "image_width": 5763,
+  "inscription": "",
   "life_date": "French, 1846 - 1897",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching, roulette",
   "nationality": "French",
   "provenance": "Barrion coll.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study of a Monkey"

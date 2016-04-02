@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,508",
-  "artist": "Rodolphe Bresdin",
+  "artist": "Artist: Rodolphe Bresdin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signagure, Date, Inscription\r\ninscribed by Rodolphine: [Bresdin Rudolph 1875]\r\n",
   "life_date": "French, 1822 - 1885",
-  "marks": "Signagure, Date, Inscription\r\ninscribed by Rodolph 1872 w/ sig. on matte",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "1872 w/ sig. on matte",
   "style": "19th century",
   "text": "",
   "title": "La Comedie de la Mort"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.255",
-  "artist": "Christine Kermaire",
+  "artist": "Artist: Christine Kermaire",
+  "classification": "Books",
   "continent": null,
   "country": "Belgium",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Belgian, born 1953",
-  "marks": " \\\"KERMAIRE\\\", on cover, LR",
+  "markings": "",
   "medium": "Photographic illustrations, collage, colored sand, mylar, fabric-covered boards",
   "nationality": null,
   "provenance": "The artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"KERMAIRE\\\", on cover, LR",
   "style": "21st century",
   "text": "",
   "title": "Survival Phylactery Yarvis Syndrom"

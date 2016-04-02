@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.9",
-  "artist": "Hans Haffenrichter",
+  "artist": "Artist: Hans Haffenrichter",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Inscription",
   "life_date": "German, 1897 - 1981",
-  "marks": "Signature, Date, Inscription [Hans Haffenrichter 1942], bottom right corner, re",
+  "markings": "Inscribed in graphite LR [op. 19/42]; verso: [Property of John I. Coe]",
   "medium": "Watercolor",
   "nationality": "German",
   "provenance": "John I. Coe, Bloomington, MN",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Hans Haffenrichter 1942], bottom right corner, recto",
   "style": "20th century",
   "text": "",
   "title": "Untitled [Abstract Composition]"

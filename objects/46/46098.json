@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,729",
-  "artist": "Oskar Laske; Die Graphischen Künste",
+  "artist": "Artist: Oskar Laske; Publisher: Die Graphischen Künste",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Austrian, 1874 - 1951",
-  "marks": " in plate",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate",
   "style": "19th century",
   "text": "",
   "title": "Fish Market in Bruegge"

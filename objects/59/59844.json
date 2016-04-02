@@ -1,6 +1,7 @@
 {
   "accession_number": "B.84.3",
-  "artist": "Pablo Picasso; Text by Prosper Mérimée; Published by La Bibliotèque Française; Atelier Lacourière et Frélaut, Paris, France (engravings, aquatints); Imprimerie Union, Paris , (text and type)",
+  "artist": "Artist: Pablo Picasso; Author: Text by Prosper Mérimée; Publisher: Published by La Bibliotèque Française; Printer: Atelier Lacourière et Frélaut, Paris, France (engravings, aquatints); Printer: Imprimerie Union, Paris , (text and type)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4108,
   "image_width": 3274,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "Watermark: <M/France (underneath and upside-down)>",
   "medium": "Engravings with burin, lift ground aquatints, letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Carmen"

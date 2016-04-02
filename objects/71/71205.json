@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,649",
-  "artist": "After Basil Besler",
+  "artist": "Artist: After Basil Besler",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nVerso: Text.\r\nI. Caryophyllus multiplex maximus variegatus.\r\n",
   "life_date": "German, 1561 - 1629",
-  "marks": "Inscription\r\n\r\nVerso: Text.\r\nI. Caryophyllus multi ",
+  "markings": "\r\n",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Caryophyllus multiplex maximus variegatus (Variegated Florist's Carnation)"

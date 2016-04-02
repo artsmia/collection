@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,282",
-  "artist": "Giovanni Boldini",
+  "artist": "Artist: Giovanni Boldini",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1842 - 1931",
-  "marks": "Signature On plate, on sheet",
+  "markings": "",
   "medium": "Lithograph on plate",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On plate, on sheet",
   "style": "19th Century",
   "text": "",
   "title": "Portrait of Paul Helleu"

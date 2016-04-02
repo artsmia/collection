@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,940",
-  "artist": "Text by Sir David Wilkie; Sir William John Newton",
+  "artist": "Author: Text by Sir David Wilkie; Miniaturist: Sir William John Newton",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William Hood Dunwoody Fund, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4356,
   "image_width": 2706,
-  "life_date": "Scottish, 1785-1841",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Scottish, 1785–1841",
+  "markings": "",
   "medium": "Pen and brown ink on cream paper",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Letter from David Wilkie to William Newton, May 22, 1829"

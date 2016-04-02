@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.106",
-  "artist": "Utagawa Kunisada; Published by Akamatsuya Shōtarō",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Akamatsuya Shōtarō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1699,
   "image_width": 2735,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": " 英一螮畫 {Hanabusa Ittai ga}",
+  "markings": "red artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "英一螮畫 {Hanabusa Ittai ga}",
   "style": "19th century",
   "text": "",
   "title": "Sixth Month"

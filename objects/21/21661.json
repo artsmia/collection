@@ -1,6 +1,7 @@
 {
   "accession_number": "77.76",
-  "artist": "Jules Pascin",
+  "artist": "Artist: Jules Pascin",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7204,
   "image_width": 5389,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (born Bulgaria), 1885 - 1930",
-  "marks": "Signature\r\n\r\nsee Signed LR: [Pascin]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Pascin]",
   "style": "20th century",
   "text": "Though born in Bulgaria and naturalized as an American citizen, Pascin’s true home was Paris, especially the gritty, bohemian world of Montparnasse. He was transfixed by female sexuality, and sometimes seems to have been overpowered by femininity. Shortly after their affair ended, he wrote a suicide note in blood to his lover and muse Lucy Krohg.",
   "title": "Lou Lou"

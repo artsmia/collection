@@ -1,6 +1,7 @@
 {
   "accession_number": "50.16",
-  "artist": "Johannes Nilsson",
+  "artist": "Artist: Johannes Nilsson",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Swedish, 1757 - 1827",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on linen",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Bonader"

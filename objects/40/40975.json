@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.180",
-  "artist": "Nikola Tesla; Welch Scientific Company",
+  "artist": "Creator: Nikola Tesla; Manufacturer: Welch Scientific Company",
+  "classification": "Industrial Design",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3769,
   "image_width": 2739,
+  "inscription": "Label",
   "life_date": "American (born Serbia), 1857-1943",
-  "marks": "Label ",
+  "markings": "[W.M. Welch Scientific Co., Chicago, IL] on back of base",
   "medium": "Steel, copper, wire, wood",
   "nationality": "Serbian-American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "\"Tesla Coil\" high-frequency discharge demonstrator"

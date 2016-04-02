@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,302",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3905,
   "image_width": 3137,
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "Watermark: winged lion",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "The Artist Drawing is clearly more an allegory of art than documentation of a specific studio. The combination of minutely finished sections with manifestly unfinished parts may allude to the comparison between the two greatest painters of Greek antiquity, Apelles and Protogenes. The latter was known for the fine detail of his paintings, and the former for the speed and freedom of his work. The most highly valued paintings by Apelles were those left unfinished, for in them one could see his working process. Here, Rembrandt laid claim to being the inheritor of both traditions. Moreover, by leaving the model so thoroughly unfinished, he reminded us of his ability to draw from his imagination.",
   "title": "The Artist Drawing from a Model, unfinished plate"

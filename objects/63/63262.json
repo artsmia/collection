@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.241.14",
-  "artist": "Kawase Hasui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Nancy M. Rose",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7678,
   "image_width": 5318,
+  "inscription": "",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": " LLC: 巴水謹呈 {Hasui kintei}",
+  "markings": "LLC, red round artist\\'s seal: 川セ {Kawase} | LRC, round publisher seal A: ワタナベ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC: 巴水謹呈 {Hasui kintei}",
   "style": "20th century",
   "text": "",
   "title": "Morning at Nijū Bridge"

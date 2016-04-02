@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,730",
-  "artist": "Thomas Goff Lupton; after G. Stuart",
+  "artist": "Artist: Thomas Goff Lupton; Artist: after G. Stuart",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "English, 1791 - 1873",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching and mezzotint",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Richard Earlom, Esq."

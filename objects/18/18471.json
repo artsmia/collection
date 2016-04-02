@@ -1,6 +1,7 @@
 {
   "accession_number": "61.36.6",
-  "artist": "Oskar Kokoschka",
+  "artist": "Artist: Oskar Kokoschka",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Bequest of Putnam Dana McMillan",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 6307,
   "image_width": 8318,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": "Signature; Date; Mark\r\n\r\nsee Signed Signed and dated in pencil, LR: [O.Kokoschka 57]",
+  "inscription": "Signature; Date; Mark\r\n\r\nsee Signed",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "Recto: UL corner in pencil: [Vis-50(?)]",
   "medium": "Watercolor on paper",
   "nationality": "Austrian",
   "provenance": "Acquired from the artist by Putnam Dana McMillan, Minneapolis and Santa Barbara, Calif., 1958-1961; Estate of Putnam Dana McMillan (bequethed to MIA, 1961)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [O.Kokoschka 57]",
   "style": "20th century",
   "text": "",
   "title": "Lake Geneva"

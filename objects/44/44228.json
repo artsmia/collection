@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.28.2.3",
-  "artist": "Jerry Rudquist; Published by Akasha Studio, Minneapolis",
+  "artist": "Artist: Jerry Rudquist; Publisher: Published by Akasha Studio, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David and Mary Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Jerry Rudquist",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition; Title\r\n\r\nsee Signed\r\n\r\nUL, each print: [Archive Proof]\r\ntitle, verso, each print",
   "life_date": "American, 1934 - 2001",
-  "marks": "Signature; Date; Edition; Title\r\n\r\nsee Signed\r\n\r\nU UL, each print: [Jerry Rudquist \\'94]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UL, each print: [Jerry Rudquist \\'94]",
   "style": "20th century",
   "text": "",
   "title": "Eater"

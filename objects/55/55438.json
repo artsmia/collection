@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,575",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Mr. and Mrs. Leo R. Pflaum",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4934,
   "image_width": 3676,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " in pencil: Picasso",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: Picasso",
   "style": "20th century",
   "text": "",
   "title": "Venus and Cupid"

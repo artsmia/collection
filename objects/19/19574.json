@@ -1,6 +1,7 @@
 {
   "accession_number": "70.36",
-  "artist": "Gerard Valcin",
+  "artist": "Artist: Gerard Valcin",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "Haiti",
   "creditline": "Gift of the Center for Inter-American Relations",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Haitian, born 1923",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on tagboard",
   "nationality": "Haitian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Restaurant Hotel"

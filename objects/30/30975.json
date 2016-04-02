@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.5",
-  "artist": "Qian Gu",
+  "artist": "Maker: Qian Gu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1184,
   "image_width": 2560,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1508 - about 1578",
-  "marks": "Signature; Stamps artist\\' signature and seal, at URC",
+  "markings": "collector\\'s seal at LRC",
   "medium": "Ink and color on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\' signature and seal, at URC",
   "style": "16th century",
   "text": "",
   "title": "Seated Scholar under a Cliff Side Pavilion"

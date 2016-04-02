@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.1",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2624,
   "image_width": 4026,
+  "inscription": "LL verso, in penci: [DTMKBHHH]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in penci: [DTMKBHHH] LR printed in plate: [(butterfly symbol)]",
+  "markings": "LR verso, in red ink: [(jph)] J.P. Heseltine collector\\'s stamp (Lugt 1508)",
   "medium": "Lithotint",
   "nationality": "American",
   "provenance": "J.P. Heseltine (Lugt 1508, b. 1843), London",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR printed in plate: [(butterfly symbol)]",
   "style": "19th century",
   "text": "",
   "title": "Nocturne: The River at Battersea"

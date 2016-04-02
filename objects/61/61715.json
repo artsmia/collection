@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.435",
-  "artist": "Utagawa Hiroshige; Published by Mitaya Kihachi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Mitaya Kihachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1742,
   "image_width": 2695,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:kiwame\r\nPublisher:Eisendo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "This picture is after an illustration in vol. 住吉郡1 of Pictures of Famous Places in Settsu (Settsu meisho zue) from 1796.",
   "title": "Giant Pine of Naniwaya in Anryū-machi"

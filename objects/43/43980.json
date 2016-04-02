@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.31.8",
-  "artist": "Malcolm Morley; Shorewood Atelier, New York",
+  "artist": "Artist: Malcolm Morley; Publisher: Shorewood Atelier, New York",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Terrence D. Curley",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n 14/150, in graphite, lower left",
   "life_date": "American (b. England), born 1931",
-  "marks": "Signature; Inscription\r\n 14/150, in graphite, lowe In graphite, lower right: [Malcolm Morley]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, lower right: [Malcolm Morley]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.12",
-  "artist": "Gordon Grant; The Prairie Print Makers",
+  "artist": "Artist: Gordon Grant; Printer: The Prairie Print Makers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1875 - 1962",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "Allen Brookins-Brown, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Heave and Haul"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,995",
-  "artist": "Unknown Italian",
+  "artist": "Artist: Unknown Italian",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones,1927",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4397,
   "image_width": 3099,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Leaf from a Block Book with Reference to De Civitate Dei, by St. Augustine (426 A.D.)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,997",
-  "artist": "Auguste Louis Lepère",
+  "artist": "Artist: Auguste Louis Lepère",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Miss Perrie Jones, 1961",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, chop marks and collectors marks",
   "life_date": "French, 1849 - 1918",
-  "marks": "Signature, chop marks and collectors marks Initials on print; signature on mat",
+  "markings": "Chop marks: [Ed Sagot Edition Paris] ?; Collector\\'s marks: [F. E. Bliss - 1081] ?; On back: [Bliss]",
   "medium": "Woodcut",
   "nationality": "French",
   "provenance": "F. E. Bliss (L.265)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initials on print; signature on mat",
   "style": "20th century",
   "text": "",
   "title": "Regardent la plaine du Rhin"

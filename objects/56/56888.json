@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.59.14",
-  "artist": "Helen Phillips; Poem by André Verdet; Morris Gallery, New York",
+  "artist": "Artist: Helen Phillips; Author: Poem by André Verdet; Publisher: Morris Gallery, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Walter Bareiss",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4190,
   "image_width": 3600,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1913-1995",
-  "marks": "Signature\r\n\r\nsee Signed on plate: [Phillips]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Phillips]",
   "style": "20th century",
   "text": "",
   "title": "Poem, c. 1951-58, from 21 Etchings and Poems"

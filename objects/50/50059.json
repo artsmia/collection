@@ -1,6 +1,7 @@
 {
   "accession_number": "P.264",
-  "artist": "Karl Biese",
+  "artist": "Artist: Karl Biese",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1863 - 1930",
-  "marks": "Signature on sheet",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Evening"

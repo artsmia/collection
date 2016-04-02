@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,424",
-  "artist": "Auguste Louis Lepère",
+  "artist": "Artist: Auguste Louis Lepère",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3408,
   "image_width": 4948,
+  "inscription": "Signature, Date, Inscription\r\n\r\nInscribed, dated in the block, LL: [Paris 1901]",
   "life_date": "French, 1849 - 1918",
-  "marks": "Signature, Date, Inscription\r\n\r\nInscribed, dated i signed in the block, LL: [A. Lepere]",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "French",
   "provenance": "William H. Ladd, Protland, Ore.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in the block, LL: [A. Lepere]",
   "style": "20th century",
   "text": "",
   "title": "Bucolique moderne"

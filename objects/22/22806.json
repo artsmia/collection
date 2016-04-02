@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.39",
-  "artist": "Utagawa Hiroshige II; Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Hiroshige II; Publisher: Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2387,
   "image_width": 1774,
+  "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "marks": " ",
+  "markings": "Censor:kai+January 1861\r\nPublisher:Tsutakichi-ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "No.44 Twelve Shirines of Kumano at Tsunohazu"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,751",
-  "artist": "Text by Johann Wilhelm Weinmann",
+  "artist": "Author: Text by Johann Wilhelm Weinmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "German, 1683 - 1741",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Line engraving, mock mezzotint, printed in color, additional color by hand",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Aloe Americana minor, from Phytanthoza Iconographia"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,459",
-  "artist": "William Ward; after John Baptist Jackson",
+  "artist": "Artist: William Ward; Artist: after John Baptist Jackson",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "British, 1766 - 1826",
-  "marks": " ",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Lady Anne Vernon-Harcourt"

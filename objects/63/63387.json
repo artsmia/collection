@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.159",
-  "artist": "Torii Kiyohiro; Published by Urokogataya Magobei",
+  "artist": "Artist: Torii Kiyohiro; Publisher: Published by Urokogataya Magobei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2994,
   "image_width": 1453,
+  "inscription": "",
   "life_date": "Japanese, fl. 1737-1776",
-  "marks": " {Torii Kiyohiro hitsu}",
+  "markings": "Publisher: [Urokogataya] hanmoto",
   "medium": "Woodblock print (benizuri-e); ink and limited color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Torii Kiyohiro hitsu}",
   "style": "18th century",
   "text": "",
   "title": "The Actor Nakamura Kiyosaburō as Oroku of the Yamatoya Teahouse"

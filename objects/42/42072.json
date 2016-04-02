@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17",
-  "artist": "Oskar Laske",
+  "artist": "Artist: Oskar Laske",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3772,
   "image_width": 4764,
+  "inscription": "Signatures; Date; Inscription (etched)",
   "life_date": "Austrian, 1874 - 1951",
-  "marks": "Signatures; Date; Inscription (etched) Signed in pencikl, LR: [O. Laske]; Signed, dated o",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencikl, LR: [O. Laske]; Signed, dated on plate, LL: [O. Laske / 1912]",
   "style": "20th century",
   "text": "",
   "title": "Noah's Ark"

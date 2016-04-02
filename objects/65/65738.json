@@ -1,6 +1,7 @@
 {
   "accession_number": "56.52.5",
-  "artist": "Katsushika Hokusai; Published by Tsuruya Kiemon",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4984,
   "image_width": 3523,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " Saki no Hokusai hitsu 前北斎筆",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saki no Hokusai hitsu 前北斎筆",
   "style": "19th century",
   "text": "",
   "title": "Memorial Anniversary"

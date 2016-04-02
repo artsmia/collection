@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.156.16",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3300,
   "image_width": 4333,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodblock printed book; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "53 Stations: Hokusai's Album of Travel Pictures, vol. 1"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.541",
-  "artist": "Utagawa Hiroshige; Maruya Seijirō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Seijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1840,
   "image_width": 2778,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "artist\\'s seal\r\nCensor:Mera, Watanabe\r\nHo_eido_Marusei\r\nFamous kite contest at Kagegawa river(meibutsu Kakegawa dako_) on red seal at the right corner",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "No.28 Fukuroi"

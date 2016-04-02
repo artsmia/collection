@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.60",
-  "artist": "Joseph Ducreux",
+  "artist": "Artist: Joseph Ducreux",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3835,
   "image_width": 4652,
+  "inscription": "Inscription\r\n\r\non verso, in pen and ink: \\\"Wessner\\\" / gr. 13; in a different hand: \\\"[d]i Michelangelo\\\"; in graphite: \\\"D.R. / 72/ 69 [crossed out]\\\"",
   "life_date": "French, 1735 - 1802",
-  "marks": "Inscription\r\n\r\non verso, in pen and ink: \\\"Wessner\\\" ",
+  "markings": "",
   "medium": "Red and white chalk",
   "nationality": "French",
   "provenance": "I. O. Wessner, Lugt 2562a (1851-1921), Saint-Gall, Switzlerland; [Kate Ganz, London, by 1992-93; sold, July 13, for $5,000, to Moir]; Alfred Moir, Santa Barbara (1993-d.2010; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Self-Portrait Screaming in Terror"

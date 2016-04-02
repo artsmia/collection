@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.155.18",
-  "artist": "Utagawa Hiroshige II; Sakanaya Eikichi",
+  "artist": "Artist: Utagawa Hiroshige II; Publisher: Sakanaya Eikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "marks": " Hiroshige ga",
+  "markings": "Censor:kai+Cock sho_\r\nPublisher:Uoei",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Catching Wild Geese in Iyo Province"

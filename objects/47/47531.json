@@ -1,6 +1,7 @@
 {
   "accession_number": "P.192",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4497,
   "image_width": 3472,
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "A simple line from the Old Testament--\"there is no beauty in him, nor comeliness\" (Isaiah 53:2)--was seized upon to justify cruel acts of disfigurement in Passion writings. In this Mocking scene, Christ's oppressors all have some crude means of menacing him, including a screaming trumpet. The assaults were said to leave Christ unrecognizable, an idea suggested by the cloth over his face.",
   "title": "Mocking of Christ"

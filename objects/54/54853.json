@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.9",
-  "artist": "Graham Sutherland; Published by Marlborough Fine Arts Ltd., London",
+  "artist": "Artist: Graham Sutherland; Publisher: Published by Marlborough Fine Arts Ltd., London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Graham Sutherland",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition\r\n\r\nNumbered in pencil: [55/70]",
   "life_date": "British, 1903 - 1980",
-  "marks": "Signature; Edition\r\n\r\nNumbered in pencil: [55/70] Signed in pencil: [Sutherland]",
+  "markings": "water: Arches script",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil: [Sutherland]",
   "style": "20th century",
   "text": "",
   "title": "Insect (Stimulating Seed)"

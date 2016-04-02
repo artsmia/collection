@@ -1,6 +1,7 @@
 {
   "accession_number": "70.46",
-  "artist": "Ciro Ferri (1634-1689)",
+  "artist": "Sculptor: Ciro Ferri (1634-1689)",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3240,
   "image_width": 3269,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Wax, polychromed",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Victory of Alexander over Darius"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,099",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Inscription\r\n\r\nsee Signed\r\n\r\ntitle noted in pencil at LL margin by artist: [Running Free]; artist noted in pencil at LR margin: [This is \\\"Ham\\\" Browns Boat]",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature; Title; Inscription\r\n\r\nsee Signed\r\n\r\ntit in plate at LR corner: [Philip Kappel]; in pencil ",
+  "markings": "Watermark: <England>",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate at LR corner: [Philip Kappel]; in pencil at LR margin: [Philip Kappel]",
   "style": "20th century",
   "text": "",
   "title": "Running Free"

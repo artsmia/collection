@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.273",
-  "artist": "Unknown American; RCA Victor Manufacturing Co., Inc.",
+  "artist": "Designer: Unknown American; Manufacturer: RCA Victor Manufacturing Co., Inc.",
+  "classification": "Industrial Design",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4864,
   "image_width": 4856,
-  "life_date": null,
-  "marks": "Inscription ",
+  "inscription": "Inscription",
+  "life_date": "Camden, New Jersey, est. 1901",
+  "markings": "[RCA Presents: Noel Coward with Leo Reisman and his Orchestra in a program of Noel Coward Songs]",
   "medium": "Plastic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Phonograph record"

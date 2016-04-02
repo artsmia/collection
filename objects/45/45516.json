@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.95.3",
-  "artist": "Pablo Picasso; Text by Robert Desnos; Published by Robert J. Godet, Paris, France",
+  "artist": "Artist: Pablo Picasso; Author: Text by Robert Desnos; Publisher: Published by Robert J. Godet, Paris, France",
+  "classification": "Books",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3510,
   "image_width": 4747,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Etching, letterpress; bound volume",
   "nationality": "Spanish",
   "provenance": "Ruth and Bruce Dayton, Wayzata",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Contrée"

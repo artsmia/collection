@@ -1,6 +1,7 @@
 {
   "accession_number": "63.68.24",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3468,
   "image_width": 4285,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature\r\n\r\nsee Signed in pencil at LL: [Philip Kapel]",
+  "markings": "",
   "medium": "Graphite on cream colored drawing paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil at LL: [Philip Kapel]",
   "style": "20th century",
   "text": "",
   "title": "Old Scows, MacMahan Island"

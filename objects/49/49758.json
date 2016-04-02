@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.121",
-  "artist": "Doulton Art Pottery; Hannah B. Barlow",
+  "artist": "Manufacturer: Doulton Art Pottery; Decorator: Hannah B. Barlow",
+  "classification": "Ceramics",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Peg McNally",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 815,
   "image_width": 631,
+  "inscription": "",
   "life_date": "Staffordshire, England, 1871-1901",
-  "marks": " ",
+  "markings": "\\\"DOULTON/LAMBETH\\\", \\\"1878\\\", \\\"199\\\", \\\"EHB\\\", \\\"C\\\", \\\"O\\\", with other stamps, on bottom; \\\"JENNER & KNEWSTUB 33 ST JAMES ST SW\\\" and other stamps, at rim",
   "medium": "Glazed ceramic, silver",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G334",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Vase"

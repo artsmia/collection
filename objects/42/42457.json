@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.182",
-  "artist": "John Taylor Arms",
+  "artist": "Artist: John Taylor Arms",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription \r\nLR: [S] \r\npenciled on bottom: [20ºº]",
   "life_date": "American, 1887-1953",
-  "marks": "Signature; Inscription \r\nLR: [S] \r\npenciled on bot penciled at bottom",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "penciled at bottom",
   "style": "20th century",
   "text": "",
   "title": "Sentinels"

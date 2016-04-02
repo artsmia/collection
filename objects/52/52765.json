@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,779",
-  "artist": "George Elbert Burr",
+  "artist": "Artist: George Elbert Burr",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. C. C. Bovey, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1859 -1939",
-  "marks": " Yes",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "19th century",
   "text": "",
   "title": "Whirlwinds"

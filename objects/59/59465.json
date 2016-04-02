@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.40",
-  "artist": "John W. Taylor",
+  "artist": "Artist: John W. Taylor",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1897",
-  "marks": "Signature\r\n\r\nsee Signed on sheet, initials on work",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet, initials on work",
   "style": "20th century",
   "text": "",
   "title": "Saturday Morning"

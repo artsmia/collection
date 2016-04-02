@@ -1,6 +1,7 @@
 {
   "accession_number": "52.17",
-  "artist": "Will Lamm",
+  "artist": "Artist: Will Lamm",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3715,
   "image_width": 5454,
+  "inscription": "Signature",
   "life_date": "American, born 1917",
-  "marks": "Signature LR, side: [WILL LAMM]",
+  "markings": "",
   "medium": "Oil on masonite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, side: [WILL LAMM]",
   "style": "20th century",
   "text": "",
   "title": "My Painting Table and Me"

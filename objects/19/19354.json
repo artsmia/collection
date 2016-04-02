@@ -1,6 +1,7 @@
 {
   "accession_number": "68.37",
-  "artist": "Felice Giani",
+  "artist": "Artist: Felice Giani",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Peter Josten",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription and mark\r\n\r\nInscribed, on verso: [Voghera]; in contemporary hand:  [Pinelli]",
   "life_date": "Italian ,1758 - 1823",
-  "marks": "Inscription and mark\r\n\r\nInscribed, on verso: [Vogh ",
+  "markings": "Stamp, recto LL corner in violet ink; [GC]; Lugt 540; \r\nl.r. in blue ink;\r\n",
   "medium": "Pen, ink and bistre wash over black chalk",
   "nationality": "Italian",
   "provenance": "Giuseppe Chiantorre, Lugt 540, recto l.l. corner in violet ink and l.r. in blue ink",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Charity"

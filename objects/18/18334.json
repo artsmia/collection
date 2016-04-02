@@ -1,6 +1,7 @@
 {
   "accession_number": "60.19",
-  "artist": "Paul Granlund",
+  "artist": "Artist: Paul Granlund",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Paul Granlund",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "American, 1925-2003",
-  "marks": "Signature and Date LR: [P. Granlund \\'58]",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [P. Granlund \\'58]",
   "style": "20th century",
   "text": "",
   "title": "Adolescent"

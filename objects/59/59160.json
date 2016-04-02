@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.9.2",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3130,
   "image_width": 3868,
+  "inscription": "Signed, Dated, Numbered, Inscribed",
   "life_date": "American, born 1949",
-  "marks": "Signed, Dated, Numbered, Inscribed LR: each print except title page: T.L. Solien 1982",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: each print except title page: T.L. Solien 1982\r\nLL: each print except title page: A.P. 4/4\r\nLC: each print accordingly except title page: I, II, III, IV, V",
   "style": "20th century",
   "text": "",
   "title": "Sunken Treasure"

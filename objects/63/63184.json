@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,710",
-  "artist": "Utagawa Hiroshige; Published by Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3588,
   "image_width": 5383,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Ichiryu_sai seal\r\nCensor:kiwame\r\nPublisher:Kikakudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "\"Shower at Nihonbashi Bridge\""

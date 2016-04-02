@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.37.5",
-  "artist": "Robert Bowyer Parkes; after Thomas Davidson; George Stinson and Company",
+  "artist": "Artist: Robert Bowyer Parkes; Artist: after Thomas Davidson; Publisher: George Stinson and Company",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Miss Tessie Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1830",
-  "marks": "Signature on plate: [R.B Parkes]",
+  "markings": "",
   "medium": "Mezzotint engraving",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [R.B Parkes]",
   "style": "19th century",
   "text": "",
   "title": "Sing Birdie Sing"

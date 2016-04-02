@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.30",
-  "artist": "Tom Phillips",
+  "artist": "Artist: Tom Phillips",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1937",
-  "marks": "Signature in pencil: [Tom Phillips]",
+  "markings": "chop: W",
   "medium": "Screenprint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Tom Phillips]",
   "style": "20th century",
   "text": "",
   "title": "Eleven Emblems of Violence"

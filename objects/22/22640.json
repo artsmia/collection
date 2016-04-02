@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.20",
-  "artist": "Utagawa Hiroshige",
+  "artist": "Artist: Utagawa Hiroshige",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1967,
   "image_width": 2594,
+  "inscription": "yes(kyo_ka)\r\n",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "yes(kyo_ka)\r\n ",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of Mount Suzuka in Tsuchiyama"

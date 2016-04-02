@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.26",
-  "artist": "Henri Matisse",
+  "artist": "Artist: Henri Matisse",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 2932,
   "image_width": 1966,
-  "life_date": "French, 1869 - 1954",
-  "marks": "Signature and edition LR in graphite: [Henri Matisse]",
+  "inscription": "Signature and edition",
+  "life_date": "French, 1869–1954",
+  "markings": "LR in graphite: [42/50]",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in graphite: [Henri Matisse]",
   "style": "20th century",
   "text": "",
   "title": "Persian Woman"

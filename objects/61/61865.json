@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.114.1",
-  "artist": "Beauford Delaney",
+  "artist": "Artist: Beauford Delaney",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Harriet Hanley Estate",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Beauford Delaney %2F Derek L. Spratley%2C Esq.%2C Court Appointed Administrator",
   "image_height": 1940,
   "image_width": 2523,
+  "inscription": "Signature, Date, Inscriptions\r\n\r\nLLC in black ink: [dear Sam May/you have some of/the real taste of the/great Spain/on this occassion my sincerest Beauford Delaney]\r\n\r\nR edge on back in black ink: [Mr. Spanier]",
   "life_date": "American, 1901-1979",
-  "marks": "Signature, Date, Inscriptions\r\n\r\nLLC in black ink: LRC in black ink: [Beauford Delaney/55/Spain]",
+  "markings": "",
   "medium": "Gouache and watercolor",
   "nationality": "American",
   "provenance": "(Aaron Galleries, Chicago); sold to MIA, 2002.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in black ink: [Beauford Delaney/55/Spain]",
   "style": "20th century",
   "text": "",
   "title": "Abstract Composition"

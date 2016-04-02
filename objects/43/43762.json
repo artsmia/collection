@@ -1,6 +1,7 @@
 {
   "accession_number": "P.96.6.4",
-  "artist": "John Constable; David Lucas",
+  "artist": "Artist: John Constable; Maker: David Lucas",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "British, 1776 - 1837",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1776–1837",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Flatford Mill"

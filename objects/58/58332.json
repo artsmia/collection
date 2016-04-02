@@ -1,6 +1,7 @@
 {
   "accession_number": "87.85.92",
-  "artist": "Yoshida Kiso (self-published)",
+  "artist": "Artist: Yoshida Kiso (self-published)",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1990,
   "image_width": 2488,
+  "inscription": "LRC, in pencil: [Kiso Yoshida 1970]",
   "life_date": "Japanese, born 1919",
-  "marks": "LRC, in pencil: [Kiso Yoshida 1970] ",
+  "markings": "LRC: Red artist\\'s seal {Kiso}",
   "medium": "Woodblock print; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Moon and Wave with Seagulls"

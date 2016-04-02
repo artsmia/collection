@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.84.3",
-  "artist": "Adja Yunkers",
+  "artist": "Artist: Adja Yunkers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3789,
   "image_width": 2869,
+  "inscription": "Signed, Dated, Numbered, Inscribed, Titled, Chop Mark",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signed, Dated, Numbered, Inscribed, Titled, Chop M LR: [Adja Yunkers - 78]\r\nLC: [1/6]\r\nLL: [AP.]\r\nLL:",
+  "markings": "Artist\\'s Chop Mark, VEL Chop Mark",
   "medium": "Inkless intaglio",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Adja Yunkers - 78]\r\nLC: [1/6]\r\nLL: [AP.]\r\nLL: [Untitled I.]\r\nLR: Artist\\'s Chop Mark\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Untitled I"

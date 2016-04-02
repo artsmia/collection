@@ -1,6 +1,7 @@
 {
   "accession_number": "95.113.9",
-  "artist": "Greg Kelsey",
+  "artist": "Artist: Greg Kelsey",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Gostovich and Celeste Koeberl",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Signature; Date\r\n\r\nLower Margin, recto, in graphite: [MAT 7-3/4 x 8-3/4/ Pencil & oil/ \\'DIVISION MARK\\'/\\'cloud figure\\'/ 7-3/4 x 8-3/4/ \\'Figure in the CLOUDS\\' \\'Jane in the Clouds with Division Mark]",
   "life_date": "American, 1951-1991",
-  "marks": "Inscription; Signature; Date\r\n\r\nLower Margin, rect LL in graphite: [Greg Kelsey 1985-87]",
+  "markings": "",
   "medium": "Graphite and oil wash",
   "nationality": "American",
   "provenance": "John Gostovich and Celeste Koeberl, Hudson, WI\r\nSally Johnson, St. Paul\r\nEstate of the artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL in graphite: [Greg Kelsey 1985-87]",
   "style": "20th century",
   "text": "",
   "title": "Jane in the Clouds with Division Mark"

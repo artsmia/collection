@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,737",
-  "artist": "Utagawa Toyokuni ll; Published by Yamamotoya Heikichi",
+  "artist": "Artist: Utagawa Toyokuni ll; Publisher: Published by Yamamotoya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2798,
   "image_width": 1912,
+  "inscription": "",
   "life_date": "Japanese, 1777 - 1835",
-  "marks": " Toyokuni ga",
+  "markings": "Censor:kiwame\r\nPublisher:Yamamotoya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "19th century",
   "text": "",
   "title": "The Actor Nakamura Shikan as the BambooCutter of the Play \"Getsu-setsu-ka Tori?? no seki\""

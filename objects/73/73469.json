@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.133.1",
-  "artist": "Georges Braque; Published by Maeght Editeur, Paris; Printed by Mourlot Freres, Paris",
+  "artist": "Artist: Georges Braque; Publisher: Published by Maeght Editeur, Paris; Printer: Printed by Mourlot Freres, Paris",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ceil T. Victor",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription LLC, in purple: [G13]",
   "life_date": "French, 1882 - 1963",
-  "marks": "Inscription LLC, in purple: [G13] Artist\\'s initials printed in plate, LL: [GB]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Artist\\'s initials printed in plate, LL: [GB]",
   "style": "20th century",
   "text": "",
   "title": "La petite tasse (Little Cup)"

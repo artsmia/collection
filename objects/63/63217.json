@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.210.1",
-  "artist": "Minton, Hollins &amp; Co., Stoke-on-Trent, Staffordshire, England, 1868-1962",
+  "artist": "Manufacturer: Minton, Hollins &amp; Co., Stoke-on-Trent, Staffordshire, England, 1868-1962",
+  "classification": "Ceramics",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Dorothy B. Shannon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3429,
   "image_width": 3433,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "on bottom, in relief: [MINTON / HOLLINS / & CO / PATENT / TILE / WORKS / STOKE ON / TRENT] and [145]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G334",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "\"Hiems\" tile"

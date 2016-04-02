@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,916",
-  "artist": "Georg Schrimpf",
+  "artist": "Artist: Georg Schrimpf",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J. B. Neumann, 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1889 - 1969",
-  "marks": "Signature LRC",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC",
   "style": "20th century",
   "text": "",
   "title": "Woman with Cat"

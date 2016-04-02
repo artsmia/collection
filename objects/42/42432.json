@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.6",
-  "artist": "Baikoku",
+  "artist": "Artist: Baikoku",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3335,
   "image_width": 4461,
+  "inscription": "20 poems about autumn",
   "life_date": "Japanese",
-  "marks": "20 poems about autumn unread signature",
+  "markings": "{Ashichika sha shi} (published by Ashichika poets circle)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "unread signature",
   "style": "19th century",
   "text": "",
   "title": "Fishing Boats on the Aji River in Autumn"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.118",
-  "artist": "School of Maria Sibylla Merian",
+  "artist": "Artist: School of Maria Sibylla Merian",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3316,
   "image_width": 4846,
+  "inscription": "Mark and Inscription\r\n\r\nin pencil, LL front: [P190]; in pencil, LR front: [PEXX]",
   "life_date": "German, 1647-1717",
-  "marks": "Mark and Inscription\r\n\r\nin pencil, LL front: [P190 ",
+  "markings": "Watermark: <D> upper center\r\n",
   "medium": "Watercolor",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Carnation, Roses, and Tulips (Dianthus caryophyllus, Rosa spp., Tulipa x generiana)"

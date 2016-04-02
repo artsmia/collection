@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.146",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3306,
   "image_width": 4983,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "Collector\\'s mark: UR front, in ink: [N. 5]  \r\nin pencil, LL front and LR back: [P 545]; in pencil, LR front: [Pstx]",
   "medium": "Chalk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Cabbage Plant"

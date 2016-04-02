@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.55.1",
-  "artist": "Albert Birkle",
+  "artist": "Artist: Albert Birkle",
+  "classification": "Paintings",
   "continent": null,
   "country": null,
   "creditline": "Myron Kunin Collection",
@@ -14,8 +15,9 @@
   "image_copyright": "© Albert Birkle %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 7830,
   "image_width": 6679,
+  "inscription": "",
   "life_date": "German, 1900 - 1986",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on board",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G263",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Der Postagent Hausler (The Telegraph Operator)"

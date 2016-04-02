@@ -1,6 +1,7 @@
 {
   "accession_number": "32.52",
-  "artist": "Henriette Amiard Oberteuffer",
+  "artist": "Artist: Henriette Amiard Oberteuffer",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4113,
   "image_width": 3356,
+  "inscription": "Signature",
   "life_date": "American (born France), 1878 - 1962",
-  "marks": "Signature LLC: [H. Amiard Oberteuffer]",
+  "markings": "",
   "medium": "Pastel",
   "nationality": "American (born France)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC: [H. Amiard Oberteuffer]",
   "style": "20th century",
   "text": "",
   "title": "Lucille, torso of a young girl"

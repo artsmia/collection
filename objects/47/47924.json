@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.18",
-  "artist": "Robert Sargent Austin",
+  "artist": "Artist: Robert Sargent Austin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2013 Clare Calder%2C Estate Robert Sargent Austin",
   "image_height": 5869,
   "image_width": 4449,
+  "inscription": "Signed, dated",
   "life_date": "British, 1895-1973",
-  "marks": "Signed, dated Signed and dated in pencil, lower margin: [Robert ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, lower margin: [Robert austin 1925]; initialed in plate, upper center: [R.S.A.]",
   "style": "20th century",
   "text": "",
   "title": "Woman Milking a Goat"

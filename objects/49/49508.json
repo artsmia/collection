@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.14",
-  "artist": "Michel Aubert; Veuve Chereau; after Antoine Watteau",
+  "artist": "Artist: Michel Aubert; Printer: Veuve Chereau; Artist: after Antoine Watteau",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1700/04 - 1757",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "French, 1684 - 1721",
+  "markings": "Watermark: doubleheaded eagle and crown (not in H)",
   "medium": "Engraving and etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "La Polonaise"

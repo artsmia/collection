@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.254",
-  "artist": "Martin Schongauer",
+  "artist": "Artist: Martin Schongauer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4677,
   "image_width": 3309,
+  "inscription": "",
   "life_date": "German, c. 1450-1491",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "G. A. Cardew (L. 1134)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Ecce Homo"

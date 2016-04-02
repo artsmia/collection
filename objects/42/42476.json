@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.242",
-  "artist": "Shibata Zeshin",
+  "artist": "Artist: Shibata Zeshin",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3242,
   "image_width": 4311,
+  "inscription": "",
   "life_date": "Japanese, 1807 - 1891",
-  "marks": " ",
+  "markings": "\\\"Tairyu_kyo\\\" seal in red\r\n\\\"Hanakurabe(comparing flowers) serires\\\" written on the mat",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Plum Blossoms"

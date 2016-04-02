@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.259",
-  "artist": "Jacques Villon",
+  "artist": "Artist: Jacques Villon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Samuel Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 2922,
   "image_width": 1951,
-  "life_date": "French, 1875 - 1963",
-  "marks": "Signature and edition In the plate, LLC, and in pencil, LRC: [Jacques Vi",
+  "inscription": "Signature and edition",
+  "life_date": "French, 1875–1963",
+  "markings": "In pencil, LLC: [7/25]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In the plate, LLC, and in pencil, LRC: [Jacques Villon]",
   "style": "20th century",
   "text": "",
   "title": "Baudelaire (au socle)"

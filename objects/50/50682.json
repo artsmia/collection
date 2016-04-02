@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,899",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature on plate",
+  "inscription": "Signature",
+  "life_date": "French, 1847-1898",
+  "markings": "",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate",
   "style": "19th century",
   "text": "",
   "title": "Les Adieux"

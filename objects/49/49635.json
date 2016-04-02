@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.336",
-  "artist": "Lovis Corinth",
+  "artist": "Artist: Lovis Corinth",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Hall James Peterson Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1858 - 1925",
-  "marks": "Signature Signed on the Sheet",
+  "inscription": "Signature",
+  "life_date": "German, 1858-1925",
+  "markings": "",
   "medium": "Soft ground etching",
   "nationality": "German",
   "provenance": "Vonderbank, Frankfurt, PRT",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on the Sheet",
   "style": "20th century",
   "text": "",
   "title": "Tod Und Greis"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.26.6",
-  "artist": "Adolf Lafosse; Charles Motte, Paris; Charles Motte, Paris",
+  "artist": "Artist: Adolf Lafosse; Publisher: Charles Motte, Paris; Printer: Charles Motte, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and inscription\r\nEmbossed: [Lithographie, C. Motte, a Paris]",
   "life_date": "French, 1810 - 1879",
-  "marks": "Signature and inscription\r\nEmbossed: [Lithographie Signature on sheet",
+  "markings": "",
   "medium": "Lithograph, manière noire, mezzotint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature on sheet",
   "style": "19th century",
   "text": "",
   "title": "Two Men Gambling"

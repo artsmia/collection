@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.29",
-  "artist": "Pier Francesco Mola",
+  "artist": "Artist: Pier Francesco Mola",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3957,
   "image_width": 3268,
+  "inscription": "Stamp",
   "life_date": "Italian, 1612 - 1666",
-  "marks": "Stamp ",
+  "markings": "LRC, impressed in paper: [HL]",
   "medium": "Pen and brown ink and gray wash on laid paper",
   "nationality": "Italian",
   "provenance": "Herbert List, Lugt 4063 (1903-1975), Munich. [Kate Ganz, Ltd., London, until 1988; sold July 6, for £1,600, to Moir]; Alfred Moir, Santa Barbara (1988-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Two Angels in Flight"

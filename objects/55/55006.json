@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,324",
-  "artist": "Théophile-Alexandre Steinlen",
+  "artist": "Artist: Théophile-Alexandre Steinlen",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Charles S. Pillsbury, 1950",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "French (born Switzerland), 1859 - 1923",
-  "marks": "Signature; Mark on plate: [Steinlen]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Steinlen]",
   "style": "20th century",
   "text": "",
   "title": ". . . l'appes de l'enfer"

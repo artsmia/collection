@@ -1,6 +1,7 @@
 {
   "accession_number": "76.77",
-  "artist": "after Giovanni da Bologna",
+  "artist": "Artist: after Giovanni da Bologna",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Theodore W. Bennett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5201,
   "image_width": 4147,
+  "inscription": "",
   "life_date": "Italian",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Bird Catcher"

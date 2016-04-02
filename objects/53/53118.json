@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,604",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "LL verso, in pencil: [Whistler \\\"Dipping the Flag\\\" W.242 K.235 only state]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL verso, in pencil: [Whistler \\\"Dipping the Flag\\\"  LR recto, in pencil: sheet trimmed leaving a tab f",
+  "markings": "LC printed in the image: [(butterfly symbol)]",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR recto, in pencil: sheet trimmed leaving a tab for Whistler\\'s butterfly monogram and [imp.]",
   "style": "19th century",
   "text": "",
   "title": "Dipping the Flag"

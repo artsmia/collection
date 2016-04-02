@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,300",
-  "artist": "John Perceval; Joseph Edmendson",
+  "artist": "Artist: John Perceval; Engraver: Joseph Edmendson",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription: [engraved at his Expence. . . is most Humbly Inscribed by. . . Joseph Edmendson, Mobray Herald]",
   "life_date": "English, 1683-1748",
-  "marks": "Inscription: [engraved at his Expence. . . is most ",
+  "markings": "",
   "medium": "Hand-colored engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Viscount Perceval's Seats and Arms"

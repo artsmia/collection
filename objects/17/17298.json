@@ -1,6 +1,7 @@
 {
   "accession_number": "47.44",
-  "artist": "John E. Bratt",
+  "artist": "Artist: John E. Bratt",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3845,
   "image_width": 5140,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature LR: [John Bratt]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [John Bratt]",
   "style": "20th century",
   "text": "",
   "title": "Ghost Town"

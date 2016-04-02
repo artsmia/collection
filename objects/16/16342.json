@@ -1,6 +1,7 @@
 {
   "accession_number": "41.46",
-  "artist": "Alden Chann",
+  "artist": "Artist: Alden Chann",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1914",
-  "marks": "Signature; Mark in wash,LR: [A. Chann \\'41]",
+  "markings": "Watermark: <(GR)UMBACHER USA SUPERBA> at left edge",
   "medium": "Gouache",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in wash,LR: [A. Chann \\'41]",
   "style": "20th century",
   "text": "",
   "title": "Deserted House"

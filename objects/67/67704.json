@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,732",
-  "artist": "Torii Kiyonaga; Published by Kōzuya Isuke",
+  "artist": "Artist: Torii Kiyonaga; Publisher: Published by Kōzuya Isuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2854,
   "image_width": 1944,
+  "inscription": "",
   "life_date": "Japanese, 1752 - 1815",
-  "marks": " {Kiyonaga ga}",
+  "markings": "Publisher: Kōzu-ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kiyonaga ga}",
   "style": "18th century",
   "text": "",
   "title": "Outing at Mukōjima"

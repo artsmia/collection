@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.31",
-  "artist": "John Moore",
+  "artist": "Artist: John Moore",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1941",
-  "marks": "Signature; Mark in pencil: [John Moore]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [John Moore]",
   "style": "20th century",
   "text": "",
   "title": "East View"

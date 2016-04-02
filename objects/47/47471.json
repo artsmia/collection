@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,562",
-  "artist": "Sir David Wilkie",
+  "artist": "Artist: Sir David Wilkie",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Scotland",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Scottish, 1785-1841",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Scottish, 1785–1841",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Lost Receipt"

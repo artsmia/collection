@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,249",
-  "artist": "Johnny Friedlander",
+  "artist": "Artist: Johnny Friedlander",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund, 1964",
@@ -14,8 +15,9 @@
   "image_copyright": "©2003 Artists Rights Society %28ARS%29%2C New York%2FVG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and watermark",
   "life_date": "Germany, 1912 - 1992",
-  "marks": "Signature and watermark in pencil: [Friedlander]",
+  "markings": "Watermark: [Arches]",
   "medium": "Color intaglio",
   "nationality": "German",
   "provenance": "Galerie Michel, Paris",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Friedlander]",
   "style": "20th century",
   "text": "",
   "title": "Composition: bleue, ocre, et rouge"

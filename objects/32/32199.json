@@ -1,6 +1,7 @@
 {
   "accession_number": "99.234.18",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Thomas F.  Arndt",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 2805,
   "image_width": 1892,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in pencil, at top edge on back: [Garbage picker, A",
+  "markings": "in pencil, lower right corner on back: [/18/96]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, at top edge on back: [Garbage picker, Acapulco, 1996 David Parker]",
   "style": "20th century",
   "text": "",
   "title": "Garbage Picker, Acapulco, Mexico"

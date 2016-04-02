@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,201",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " In pencil lower margin:  Jo Pennell;  Etched in pl",
+  "markings": "No watermark",
   "medium": "Etching, laid Japan paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil lower margin:  Jo Pennell;  Etched in plate at lower left (in reverse) is:  Jo Pennell 1893",
   "style": "19th century",
   "text": "",
   "title": "Le Stryge"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.112.21",
-  "artist": "Hashiguchi Goyō (self-published); Carved by Takano Shichinosuke; Printed by Somekawa Kanzō",
+  "artist": "Artist: Hashiguchi Goyō (self-published); Carver: Carved by Takano Shichinosuke; Printer: Printed by Somekawa Kanzō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "大正七年 {Taishō shichinen}",
   "life_date": "Japanese, 1880 - 1921",
-  "marks": "大正七年 {Taishō shichinen} 五葉画 {Goyō ga}",
+  "markings": "red artist\\'s seal: 五葉 {Goyō}",
   "medium": "Woodblock print; ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "五葉画 {Goyō ga}",
   "style": "20th century",
   "text": "Luxury version with mica for the rain.",
   "title": "Yabakei"

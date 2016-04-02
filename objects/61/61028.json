@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.30.1",
-  "artist": "George Earl Resler",
+  "artist": "Artist: George Earl Resler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Diane Fairbrother Syme",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Title\r\n\r\nsee Signed\r\n\r\nin pencil, center, bottom edge of sheet: [Florentine Brass Shop]",
   "life_date": "American, 1882 - 1954",
-  "marks": "Signature; Title\r\n\r\nsee Signed\r\n\r\nin pencil, cente in pencil, LLC, below image: [George Resler imp]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LLC, below image: [George Resler imp]",
   "style": "20th century",
   "text": "",
   "title": "Florentine Brass Shop"

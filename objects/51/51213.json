@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,777",
-  "artist": "Charles Vernier",
+  "artist": "Artist: Charles Vernier",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. C. C. Bovey, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signed",
   "life_date": "French, 1831-1887",
-  "marks": "Signed signed on print",
+  "markings": "",
   "medium": "Hand colored lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on print",
   "style": "19th century",
   "text": "",
   "title": "Impossible de m'asseoir"

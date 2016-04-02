@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,353",
-  "artist": "Henry Wolf; After Robert Swain Gifford; Harper Bros",
+  "artist": "Artist: Henry Wolf; Artist: After Robert Swain Gifford; Publisher: Harper Bros",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1918",
-  "marks": " In plate",
+  "inscription": "",
+  "life_date": "American, 1840 - 1905",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "19th century",
   "text": "",
   "title": "The Roadside"

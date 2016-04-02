@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,687",
-  "artist": "Unknown German, 15th century ?",
+  "artist": "Artist: Unknown German, 15th century ?",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Hand-colored and gilded mixed intaglio",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Gilded Vase with Bouquet"

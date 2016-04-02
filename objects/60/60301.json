@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,939",
-  "artist": "Katsukawa Shunkō",
+  "artist": "Artist: Katsukawa Shunkō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2989,
   "image_width": 1401,
+  "inscription": "",
   "life_date": "Japanese, 1743 - 1817",
-  "marks": " {Shunkō ga}",
+  "markings": "two red collector seals: [福田文庫] {Fukuda Bunko}, [なでしこその] {Nadeshikosono}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Fukuda; Ford",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunkō ga}",
   "style": "18th century",
   "text": "",
   "title": "The Actor Ichikawa Yaozō in Character"

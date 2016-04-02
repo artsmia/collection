@@ -1,6 +1,7 @@
 {
   "accession_number": "80.5",
-  "artist": "Mac Le Sueur",
+  "artist": "Artist: Mac Le Sueur",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Margaret Ewing Cargill Smith",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1908 - 1992",
-  "marks": "Signature LR: [LE SUEUR]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [LE SUEUR]",
   "style": "20th century",
   "text": "",
   "title": "To the Lake"

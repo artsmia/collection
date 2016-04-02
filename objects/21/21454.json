@@ -1,6 +1,7 @@
 {
   "accession_number": "77.66.1",
-  "artist": "George Wintle",
+  "artist": "Maker: George Wintle",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Robert Faegre",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2061,
   "image_width": 4631,
+  "inscription": "Marks; Inscription\r\n\r\nThe initials [JCF] engraved in script on bow.",
   "life_date": "British",
-  "marks": "Marks; Inscription\r\n\r\nThe initials [JCF] engraved  ",
+  "markings": "Marks\r\n\r\nMaker\\'s mark, sovereign\\'s head, duty mark, lion passant, and date letter on inside of one arm of tongs.",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sugar Tongs"

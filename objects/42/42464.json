@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.93",
-  "artist": "Matsumura Keibun; Yoshimura Ko_kei; Okamoto Toyohiko",
+  "artist": "Artist: Matsumura Keibun; Artist: Yoshimura Ko_kei; Artist: Okamoto Toyohiko",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3630,
   "image_width": 4624,
+  "inscription": "42 haiku poems about autumn",
   "life_date": "Japanese, 1779 - 1843",
-  "marks": "42 haiku poems about autumn Ko_kei(right), Keibun(middle), Toyohiko(left)",
+  "markings": "\\\"Ko_kei\\\", \\\"Keibun\\\", \\\"Toyohiko\\\" seal under each signature",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ko_kei(right), Keibun(middle), Toyohiko(left)",
   "style": "19th century",
   "text": "",
   "title": "(Crickets and moon)"

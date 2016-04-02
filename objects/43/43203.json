@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.26",
-  "artist": "John Newman",
+  "artist": "Maker: John Newman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 3700,
   "image_width": 2872,
+  "inscription": "Dated, annotated, chop mark",
   "life_date": "American, born 1952",
-  "marks": "Dated, annotated, chop mark LR: 1985",
+  "markings": "LL: VEL chop mark",
   "medium": "Lithograph with black chalk and graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: 1985",
   "style": "20th century",
   "text": "",
   "title": "Fold-Out"

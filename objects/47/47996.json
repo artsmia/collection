@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,615",
-  "artist": "After Martin Schongauer; Urs Graf",
+  "artist": "Artist: After Martin Schongauer; Artist: Urs Graf",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4259,
   "image_width": 2838,
+  "inscription": "",
   "life_date": "German, c. 1450-1491",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "A Foolish Virgin"

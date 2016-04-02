@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.579",
-  "artist": "André Jacques",
+  "artist": "Artist: André Jacques",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and watermark",
   "life_date": "French, 1880-1960",
-  "marks": "Signature and watermark signed in pencil, in plate, lower right: [Andre Ja",
+  "markings": "watermark: [MO?????R  54]",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil, in plate, lower right: [Andre Jaques];",
   "style": "20th century",
   "text": "",
   "title": "Croix bessannaise"

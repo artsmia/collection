@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,906",
-  "artist": "Rudolph Grossmann",
+  "artist": "Artist: Rudolph Grossmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J. B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1882 - 1941",
-  "marks": "Signature LRC",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC",
   "style": "20th century",
   "text": "",
   "title": "Potsdamer Platz"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.245",
-  "artist": "Kikugawa Eizan; Published by Izumiya Ichibei",
+  "artist": "Artist: Kikugawa Eizan; Publisher: Published by Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2686,
   "image_width": 1782,
+  "inscription": "",
   "life_date": "Japanese, 1787 - 1867",
-  "marks": " [菊川英山筆] {Kikugawa Eizan hitsu}",
+  "markings": "censor seal: {kiwame}\r\nPublisher:Izumi-ichi",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[菊川英山筆] {Kikugawa Eizan hitsu}",
   "style": "19th century",
   "text": "",
   "title": "(Women’s daimyo procession crossing the river on ferry boats)"

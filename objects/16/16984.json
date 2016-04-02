@@ -1,6 +1,7 @@
 {
   "accession_number": "43.36",
-  "artist": "Vernon Nelson",
+  "artist": "Artist: Vernon Nelson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Vernon E. Nelson",
   "image_height": 4460,
   "image_width": 6240,
+  "inscription": "Signature",
   "life_date": "American, 1921 - 2014",
-  "marks": "Signature Signed in pencil LR corner: [Vernon Nelson]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil LR corner: [Vernon Nelson]",
   "style": "20th century",
   "text": "",
   "title": "Alley View"

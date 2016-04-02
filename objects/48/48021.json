@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,759",
-  "artist": "Martin Schongauer",
+  "artist": "Artist: Martin Schongauer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Miss Tessie Jones in memory of her parents, Mr. and Mrs. Herschel V. Jones, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4703,
   "image_width": 3367,
+  "inscription": "",
   "life_date": "German, c. 1450-1491",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Colnaghi, 1868; W. Bell Scott (Lugt 2607)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "The Agony in the Garden"

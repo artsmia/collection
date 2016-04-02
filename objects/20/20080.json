@@ -1,6 +1,7 @@
 {
   "accession_number": "74.1.326",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Drawings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1759,
   "image_width": 1877,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Craftsman of Hida"

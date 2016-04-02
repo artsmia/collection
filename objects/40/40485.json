@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.29.2",
-  "artist": "Oskar Kokoschka",
+  "artist": "Artist: Oskar Kokoschka",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Bequest of Rosalynd C. Pflaum in appreciation of MIA curator Richard Campbell's years of assistance",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 6310,
   "image_width": 9727,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": "Signature, Date and Inscription\r\n\r\nLRC, in pencil: LRC, in the print: [OK]; see Inscription",
+  "inscription": "Signature, Date and Inscription\r\n\r\nLRC, in pencil: [for my beloved Rosalind / (illegible), Litho, 1965 / Oskar Kokoshka]",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "",
   "medium": "Lithograph on tan paper",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in the print: [OK]; see Inscription",
   "style": "20th century",
   "text": "The Austrian Expressionist Oskar Kokoschka published this impressive self-portrait in his 80th year. His likeness slowly emerges in the network of jagged, brutal black marks on the paper—the aging revolutionary artist remains defiant, albeit world-weary.",
   "title": "Self-Portrait"

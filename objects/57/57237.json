@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.28.23",
-  "artist": "Jim McCormick",
+  "artist": "Artist: Jim McCormick",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Christopher A. Graf",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Title, Edition\r\n\r\nTitled in pencil by the artist: [Comstock #1: Disaster VII/XX5]",
   "life_date": "American",
-  "marks": "Signature, Date, Title, Edition\r\n\r\nTitled in penci In pencil in LR margin: [Jim McCormick, \\'75]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in LR margin: [Jim McCormick, \\'75]",
   "style": "20th century",
   "text": "",
   "title": "Comstock #1: Disaster"

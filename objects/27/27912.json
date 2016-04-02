@@ -1,6 +1,7 @@
 {
   "accession_number": "92.131",
-  "artist": "Richard Olson",
+  "artist": "Artist: Richard Olson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Burton F. and Marisol Myers",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2632,
   "image_width": 5389,
+  "inscription": "Signature",
   "life_date": "American, born 1950",
-  "marks": "Signature LR: [Rick Olson]",
+  "markings": "",
   "medium": "Pastel",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Rick Olson]",
   "style": "20th century",
   "text": "",
   "title": "Prairie Sunset"

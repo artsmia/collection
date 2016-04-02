@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.31",
-  "artist": "Domenico Peruzzini",
+  "artist": "Artist: Domenico Peruzzini",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1602 - 1673 or later",
-  "marks": "Title, Signature and Inscription\r\n\r\nLLC, in brown: bottom center, in brown: [Brutus.]; LRC, in brown:",
+  "inscription": "Title, Signature and Inscription\r\n\r\nLLC, in brown: [Ancond 10 (?) .17 Xmbris]",
+  "life_date": "Italian (The Marches), 1602 - c. 1673",
+  "markings": "",
   "medium": "Pen and brown ink on laid paper",
   "nationality": "Italian",
   "provenance": "[Colnaghi, London, 1972; sold for £240 to Moir]; Alfred Moir, Santa Barbara (1972-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom center, in brown: [Brutus.]; LRC, in brown: [Opus Dom. Peruzzini.]",
   "style": "17th century",
   "text": "",
   "title": "Lucius Brutus"

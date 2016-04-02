@@ -1,6 +1,7 @@
 {
   "accession_number": "79.12.10",
-  "artist": "Lalique",
+  "artist": "Maker: Lalique",
+  "classification": "Glass",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4126,
   "image_width": 3126,
+  "inscription": "Signature",
   "life_date": "Wingen-Sur-Moder, France, 1886-present",
-  "marks": "Signature etched in bottom: [R. Lalique]",
+  "markings": "",
   "medium": "Glass",
   "nationality": "French (Wingen-Sur-Moder)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "etched in bottom: [R. Lalique]",
   "style": "Art Deco",
   "text": "",
   "title": "Vase"

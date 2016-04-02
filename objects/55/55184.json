@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.45",
-  "artist": "Carlo Lasinio",
+  "artist": "Artist: Carlo Lasinio",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Mrs. Patrick Butler Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1759 - 1839",
-  "marks": "Signature on plate: [Lasinio]",
+  "markings": "",
   "medium": "Color mezzotint",
   "nationality": "Italian",
   "provenance": "William H. Schab",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Lasinio]",
   "style": "18th century",
   "text": "",
   "title": "The Birth of the Virgin"

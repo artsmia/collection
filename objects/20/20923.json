@@ -1,6 +1,7 @@
 {
   "accession_number": "75.63.1",
-  "artist": "Unknown Spanish, 17th century",
+  "artist": "Artist: Unknown Spanish, 17th century",
+  "classification": "Manuscript",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of James H. Leslie",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Ink and color (tempera?) and gilding on vellum",
   "nationality": null,
   "provenance": "James H. Leslie, Minneapolis, until 1975; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Leaf from an Antiphonary"

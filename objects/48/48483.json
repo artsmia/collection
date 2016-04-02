@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.12",
-  "artist": "David Hockney",
+  "artist": "Artist: David Hockney",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "©David Hockney",
   "image_height": 4301,
   "image_width": 3381,
+  "inscription": "",
   "life_date": "British, born 1937",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "British",
   "provenance": "[Petersburg Press, London]; sold to MIA, 1973.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Wayne Sleep"

@@ -1,6 +1,7 @@
 {
   "accession_number": "89.13",
-  "artist": "Geraldine B. Frise",
+  "artist": "Artist: Geraldine B. Frise",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Louis Safer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark",
   "life_date": "American, 1920-2007",
-  "marks": "Signature; Date; Mark LL: [G.B.F./1961]",
+  "markings": "Watermark: <...iber U.S.A. Strathmore Charcoal 100% Cotton>",
   "medium": "Graphite and charcoal",
   "nationality": "American",
   "provenance": "Geraldine Frise",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [G.B.F./1961]",
   "style": "20th century",
   "text": "",
   "title": "The Woman"

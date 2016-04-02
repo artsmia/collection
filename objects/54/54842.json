@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,469",
-  "artist": "Clement Haupers",
+  "artist": "Artist: Clement Haupers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Artist, 1933",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1900 - 1982",
-  "marks": "in pencil on margin:  \\\"Haupers 1929\\\"\r\nalso \\\"6/30 N in pencil on margin",
+  "inscription": "in pencil on margin:  \\\"Haupers 1929\\\"\r\nalso \\\"6/30 Near Cagnes - sur - mer\\\"",
+  "life_date": "American, 1900–1982",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on margin",
   "style": "20th century",
   "text": "",
   "title": "Near Cagnes-sur-mer"

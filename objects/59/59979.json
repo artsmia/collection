@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.2.7.4",
-  "artist": "Zhang Heng",
+  "artist": "Artist: Zhang Heng",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "active 19th century",
-  "marks": " ",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Eight Immortals of the Wine Cup, from a set of four"

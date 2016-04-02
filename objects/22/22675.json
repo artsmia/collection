@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.85",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1925,
   "image_width": 2798,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " ",
+  "markings": "date seal: tora roku 寅六 (Tiger 6); censor seal: kiwame 極; red collector\\'s seal: Ikeda 池田",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Act I"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.252.1",
-  "artist": "Lee Bontecou; Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Lee Bontecou; Publisher: Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Lee Bontecou",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "\\\"16-34\\\", in graphite, LL",
   "life_date": "American, born 1931",
-  "marks": "\\\"16-34\\\", in graphite, LL \\\"BONTECOU 1965-68\\\", in graphite, LR",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"BONTECOU 1965-68\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Ninth Stone"

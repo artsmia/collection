@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,352",
-  "artist": "Henry Wolf; after Eastman Johnson; Harper Bros",
+  "artist": "Artist: Henry Wolf; Artist: after Eastman Johnson; Publisher: Harper Bros",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1918",
-  "marks": " In plate",
+  "inscription": "",
+  "life_date": "American, 1824 - 1906",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "19th century",
   "text": "",
   "title": "The New England Peddler"

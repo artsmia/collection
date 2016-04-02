@@ -1,6 +1,7 @@
 {
   "accession_number": "51.32.1",
-  "artist": "William Eley",
+  "artist": "Maker: William Eley",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Elizabeth C. Quinlan Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "English, 1756-1824",
-  "marks": "Mark ",
+  "markings": "[WE]",
   "medium": "Silver",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Ladle"

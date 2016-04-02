@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.33",
-  "artist": "Russell T. Gordon",
+  "artist": "Artist: Russell T. Gordon",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\nsee Signed",
   "life_date": "American, born 1936",
-  "marks": "Signature and Mark\r\nsee Signed in pencil: [Russell T. Gordon]",
+  "markings": "Watermark: Arches",
   "medium": "Color etching and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Russell T. Gordon]",
   "style": "20th century",
   "text": "",
   "title": "Sky Vision"

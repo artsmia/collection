@@ -1,6 +1,7 @@
 {
   "accession_number": "B.90.3",
-  "artist": "Henri Rivière; Text by Arsène Alexandre; Eugene Verneau , Paris",
+  "artist": "Artist: Henri Rivière; Author: Text by Arsène Alexandre; Printer: Eugene Verneau , Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Henri Rivi%C3%A8re %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3530,
   "image_width": 4378,
+  "inscription": "Signature and Inscription\r\nsee Signed",
   "life_date": "French, 1864 - 1951",
-  "marks": "Signature and Inscription\r\nsee Signed dedicated and signed by artist on forepage",
+  "markings": "",
   "medium": "Color lithographs",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "dedicated and signed by artist on forepage",
   "style": "20th century",
   "text": "",
   "title": "The 36 Views of the Eiffel Tower"

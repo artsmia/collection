@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,834",
-  "artist": "Armin Horovitz; Die Graphischen Künste",
+  "artist": "Artist: Armin Horovitz; Publisher: Die Graphischen Künste",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Purchase: July, 1922",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Austrian",
-  "marks": " in key plate",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in key plate",
   "style": "20th century",
   "text": "",
   "title": "Skanderbegturm in Kruja"

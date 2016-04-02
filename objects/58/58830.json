@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.83",
-  "artist": "Emil Orlik",
+  "artist": "Artist: Emil Orlik",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "Gift of Harold Sweatt",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8715,
   "image_width": 6005,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Czech, 1870 - 1932",
-  "marks": "Signature\r\n\r\nsee Signed LL",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "Czech",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL",
   "style": "19th-20th century",
   "text": "",
   "title": "Nude With Turban"

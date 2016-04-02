@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,543",
-  "artist": "Jean Morin",
+  "artist": "Artist: Jean Morin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, before 1590 - 1650",
-  "marks": " on plate",
+  "markings": "",
   "medium": "Engraving and etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate",
   "style": "17th century",
   "text": "",
   "title": "Corneille Jansenius, évêque d'Ypres"

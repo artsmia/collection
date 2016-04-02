@@ -1,6 +1,7 @@
 {
   "accession_number": "96.85",
-  "artist": "Dale Chihuly",
+  "artist": "Artist: Dale Chihuly",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Margaret K. Leddick",
@@ -14,8 +15,9 @@
   "image_copyright": "© Copyright 1990%2C Chihuly Studio",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "American, born 1941",
-  "marks": "Mark ",
+  "markings": "Watermark: <AQUARELLE ARCHES>",
   "medium": "Charcoal, acrylic, and watercolor",
   "nationality": "American",
   "provenance": "Margaret K. Leddick",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Venetian Drawing"

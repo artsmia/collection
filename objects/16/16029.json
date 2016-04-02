@@ -1,6 +1,7 @@
 {
   "accession_number": "37.50",
-  "artist": "Adam Kramer",
+  "artist": "Maker: Adam Kramer",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mrs. Ridgely Hunt",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "[Adam Kramer]",
   "medium": "Brass, copper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tobacco Box"

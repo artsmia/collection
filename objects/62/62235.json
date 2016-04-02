@@ -1,6 +1,7 @@
 {
   "accession_number": "2006.73",
-  "artist": "J. &amp; J.G. Low Patent Art Tile Works",
+  "artist": "Manufacturer: J. &amp; J.G. Low Patent Art Tile Works",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Lance Neckar and Carole Zellie",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Chelsea, Massachussets, 1877-1907",
-  "marks": "Mark ",
+  "markings": "On back, impressed: [J&J.G.LOW/PATENT ART TILE/WORKS./CHELSEA,/ MASS./USA/COPYRIGHT 1881]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile"

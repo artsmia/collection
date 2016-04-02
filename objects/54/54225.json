@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.19",
-  "artist": "Aegidius Sadeler; after Roelandt Saverij",
+  "artist": "Artist: Aegidius Sadeler; Artist: after Roelandt Saverij",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Bequest of Mrs. Margaret B. Hawks",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Flemish, 1570 - 1629",
-  "marks": "Mark ",
+  "markings": "Watermark: <PM> in orb",
   "medium": "Engraving",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Woodland Scene"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.164.17",
-  "artist": "William McGregor Paxton",
+  "artist": "Artist: William McGregor Paxton",
+  "classification": "Prints",
   "continent": null,
   "country": "England",
   "creditline": "Given in memory of Olivia Carpenter Coan by her family",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1869 - 1941",
-  "marks": " \\\"Wm M. Paxton [first \\\"m\\\" underlined]\\\", in pencil, ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Wm M. Paxton [first \\\"m\\\" underlined]\\\", in pencil, LRC",
   "style": "20th century",
   "text": "",
   "title": "Rowboat at Riverbank"

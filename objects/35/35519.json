@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.108.2",
-  "artist": "Kenneth Callahan",
+  "artist": "Artist: Kenneth Callahan",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard L. Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "© Kenneth Callahan",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1905-1986",
-  "marks": "Signature LR: [Kenneth Callahan]",
+  "markings": "",
   "medium": "Tempera and oil",
   "nationality": null,
   "provenance": "[Kraushaar Galleries, New York]; Rev. Richard L. Hillstrom, Edina, Minnesota, 1971",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Kenneth Callahan]",
   "style": "20th century",
   "text": "",
   "title": "Episode"

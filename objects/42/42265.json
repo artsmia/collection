@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.344",
-  "artist": "Lyonel Feininger",
+  "artist": "Artist: Lyonel Feininger",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Hall James Peterson Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (active Germany), 1871 - 1956",
-  "marks": "In pencil: \\\"Frl. v. Przthowsky gewidmet 13 III25\\\" In pencil at l.l. margin",
+  "inscription": "In pencil: \\\"Frl. v. Przthowsky gewidmet 13 III25\\\"",
+  "life_date": "American (active Germany), 1871–1956",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American (active Germany)",
   "provenance": "(Karl Vonderbank, Frankfurt, Germany); sold to MIA, 1968.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil at l.l. margin",
   "style": "20th century",
   "text": "",
   "title": "Evening Greetings"

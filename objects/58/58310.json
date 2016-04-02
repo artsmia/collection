@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,983",
-  "artist": "Paul Lemagny",
+  "artist": "Artist: Paul Lemagny",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4602,
   "image_width": 3203,
+  "inscription": "Signature",
   "life_date": "French, born 1905-1977",
-  "marks": "Signature countersigned by Picasso",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "countersigned by Picasso",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Picasso"

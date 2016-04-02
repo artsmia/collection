@@ -1,6 +1,7 @@
 {
   "accession_number": "92.125",
-  "artist": "Alan Turner",
+  "artist": "Artist: Alan Turner",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund and gift of funds of an Anonymous Donor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark",
   "life_date": "American, born 1943",
-  "marks": "Signature; Date; Mark verso, in graphite: [Alan Turner 1992]; LR recto: ",
+  "markings": "Watermark: <J. WHATMAN/1954>",
   "medium": "Graphite, watercolor and gouache",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "verso, in graphite: [Alan Turner 1992]; LR recto: [A.T. 92]",
   "style": "20th century",
   "text": "",
   "title": "Home Economics (II)"

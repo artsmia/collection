@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,885",
-  "artist": "Georges Braque; Maeght Editeur, Paris; Mourlot Freres, Paris",
+  "artist": "Artist: Georges Braque; Publisher: Maeght Editeur, Paris; Printer: Mourlot Freres, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Putnam Dana McMillan, 1961",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and watermark",
   "life_date": "French, 1882 - 1963",
-  "marks": "Signature and watermark Signature in ink: [G. Braque]",
+  "markings": "Watermark: [arches]",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "Putnam Dana McMillan, Minneapolis and Santa Barbara, Calif.; Estate of Putnam Dana McMillan, bequethed to MIA, 1961",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in ink: [G. Braque]",
   "style": "20th century",
   "text": "",
   "title": "Feuilles, couleurs, lumiére"

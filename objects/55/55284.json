@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,021",
-  "artist": "Carel Lodewyck Dake; after Pieter de Hooch",
+  "artist": "Artist: Carel Lodewyck Dake; Artist: after Pieter de Hooch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Dutch, 1857 - 1918",
-  "marks": "Signature\r\n\r\n(see Signed) in pencil: [C.L. Dake]",
+  "inscription": "Signature\r\n\r\n(see Signed)",
+  "life_date": "Dutch, 1629–1684",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [C.L. Dake]",
   "style": "19th century",
   "text": "",
   "title": "The Six House in Delft"

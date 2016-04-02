@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.184",
-  "artist": "Gene Kloss; The Prairie Print Makers , 15th publication, 1945",
+  "artist": "Artist: Gene Kloss; Publisher: The Prairie Print Makers , 15th publication, 1945",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\n[TS]",
   "life_date": "American, 1903 - 1996",
-  "marks": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\n[TS] on sheet",
+  "markings": "Watermark:<Umbria/Italian> with castle",
   "medium": "Aquatint , etching, and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G315",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Southwestern Summer"

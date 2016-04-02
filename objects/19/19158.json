@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.209",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4787,
   "image_width": 3828,
+  "inscription": "Mark, Date",
   "life_date": null,
-  "marks": "Mark, Date ",
+  "markings": "Watermark: [J. Whatman 1805]",
   "medium": "Black ink, watercolor (with some graphite?)",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Insects"

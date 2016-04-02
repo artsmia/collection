@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.15.1",
-  "artist": "Utagawa Hiroshige; Kikuya Kōzaburō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Kikuya Kōzaburō",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3047,
   "image_width": 3870,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige hitsu",
+  "markings": "Censor:Mutata\r\nPublisher:Kinko_do_\r\nEnglish title written on cover",
   "medium": "Woodblock printed book; ink on paper, with hand-applied color",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige hitsu",
   "style": "19th century",
   "text": "",
   "title": "Illustrated Book \"Souvenir of Edo\" vol. 1(east)"

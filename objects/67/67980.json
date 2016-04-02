@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.27.25",
-  "artist": "Xu Bing; Published by University of Minnesota Exchange Portfolio",
+  "artist": "Artist: Xu Bing; Publisher: Published by University of Minnesota Exchange Portfolio",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the University of Minnesota Exchange Portfolio",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Title, Edition\r\n\r\nTitled in pencil, LL: [My Book]\r\nNumbered n pencil, LL: [6/30]",
   "life_date": "Chinese (active in United States), born 1955",
-  "marks": "Signature, Date, Title, Edition\r\n\r\nTitled in penci Signed and dated in pencil, LR: [Xu Bing 1992]",
+  "markings": "",
   "medium": "Color linocut and woodcut on Japan paper",
   "nationality": "Chinese",
   "provenance": "University of Minnesota Exchange Portfolio (publisher); given to MIA, 1992.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [Xu Bing 1992]",
   "style": "20th century",
   "text": "",
   "title": "My Book"

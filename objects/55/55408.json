@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.3",
-  "artist": "Leo Gestel",
+  "artist": "Artist: Leo Gestel",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "Gift of Mr. Lucas Van Hilst",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(see Signed)",
   "life_date": "Dutch, 1881 - 1941",
-  "marks": "Signature\r\n\r\n(see Signed) on stone: [Leo Gestel]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on stone: [Leo Gestel]",
   "style": "20th century",
   "text": "",
   "title": "The Flight from Belgium"

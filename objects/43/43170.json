@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.21",
-  "artist": "Marcia Scanlon",
+  "artist": "Maker: Marcia Scanlon",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1983 Marcia Scanlon",
   "image_height": 1169,
   "image_width": 3727,
+  "inscription": "Signed, Dated, Numbered, Titled, and Chop Mark",
   "life_date": "American, born 1945",
-  "marks": "Signed, Dated, Numbered, Titled, and Chop Mark LR: [Marcia Scanlon 1983]\r\nLL: [3/10]\r\nLL: [Pine H",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype (cognate)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Marcia Scanlon 1983]\r\nLL: [3/10]\r\nLL: [Pine Hill]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Pine Hill"

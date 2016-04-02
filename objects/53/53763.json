@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.34",
-  "artist": "Laura Grosch",
+  "artist": "Artist: Laura Grosch",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1946",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Grosch]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Grosch]",
   "style": "20th century",
   "text": "",
   "title": "Artichokes"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,898",
-  "artist": "Otto Lange",
+  "artist": "Artist: Otto Lange",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J.B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1879 - 1944",
-  "marks": "Signature LR",
+  "markings": "",
   "medium": "Hand-printed color woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR",
   "style": "20th century",
   "text": "",
   "title": "Three Figures"

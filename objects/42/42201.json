@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,566",
-  "artist": "James McNeill Whistler",
+  "artist": "Maker: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection, Gift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3805,
   "image_width": 2990,
+  "inscription": "",
   "life_date": "American, 1834 - 1903",
-  "marks": " ",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, Ore.), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Whistler with the White Lock"

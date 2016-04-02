@@ -1,6 +1,7 @@
 {
   "accession_number": "99.235.13",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Melissa Frisch and Jesse Witten",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in graphite, along top edge, verso: [David Parker]",
+  "markings": "in graphite, along top edge, verso: [Leather Worker with animal waste, Dhaka, Bangladesh, 1993]  in graphite, along bottom edge, verso (upside down): [2/16/93]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, along top edge, verso: [David Parker]",
   "style": "20th century",
   "text": "",
   "title": "Leather Worker with Animal Waste, Dhaka, Bangladesh"

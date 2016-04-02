@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.254.16",
-  "artist": "Lucas van Leyden",
+  "artist": "Artist: Lucas van Leyden",
+  "classification": "Prints",
   "continent": null,
   "country": "Netherlands",
   "creditline": "Gift of George W. Rickey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1494 - 1533",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "George W. Rickey, East Chatham, N.Y.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "St. Joachim Embracing St. Anna"

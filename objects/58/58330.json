@@ -1,6 +1,7 @@
 {
   "accession_number": "87.85.91",
-  "artist": "Yoshida Kiso (self-published)",
+  "artist": "Artist: Yoshida Kiso (self-published)",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "LLC, printed (\\\"Beni\\\" handwritten): [1970ねんさく　紅　梅] {1970nen saku, Beni, Ume}; bottom, handwritten: [Pink], printed: [Plum Tree]; LRC, in pencil: [Kiso Yoshida]",
   "life_date": "Japanese, born 1919",
-  "marks": "LLC, printed (\\\"Beni\\\" handwritten): [1970ねんさく　紅　梅]  ",
+  "markings": "LLC: Red artist\\'s seal {Kiso}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Pink Plum Tree"

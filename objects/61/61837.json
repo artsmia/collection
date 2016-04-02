@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.33.54",
-  "artist": "Peter Behrens; Published by Pan",
+  "artist": "Artist: Peter Behrens; Publisher: Published by Pan",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1505,
-  "life_date": "German, 1868-1940",
-  "marks": "Signature in the block, LC: [PB (intertwined)]",
+  "inscription": "Signature",
+  "life_date": "German, 1868–1940",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "German",
   "provenance": "Norwest Corporation, Minneapolis; given to MIA, 1998.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in the block, LC: [PB (intertwined)]",
   "style": "19th century",
   "text": "",
   "title": "The Kiss"

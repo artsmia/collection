@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.124",
-  "artist": "Utagawa Hiroshige; Murataya Ichigorō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Murataya Ichigorō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2803,
   "image_width": 1933,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Censor:Nuramatsu\r\nPublisher:Muraichi",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "View of rthe Cavern at Enoshima Island"

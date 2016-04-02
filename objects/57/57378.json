@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.47",
-  "artist": "Robert Motherwell; Published by Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Robert Motherwell; Publisher: Published by Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Inscribed in pencil, LL: [trial]",
   "life_date": "American, 1915-1991",
-  "marks": "Inscribed in pencil, LL: [trial] Signed in pencil, LR: [Motherwell]",
+  "markings": "Publisher\\'s blindstamp, LL: [ULAE]",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "(Dayton's Gallery 12, Minneapolis); sold to MIA, 1980.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Motherwell]",
   "style": "20th century",
   "text": "",
   "title": "A la pintura: White 3 - 6 (Oy / Yo)"

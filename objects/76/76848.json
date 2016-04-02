@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.30",
-  "artist": "Suzanne Valadon",
+  "artist": "Artist: Suzanne Valadon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1930,
   "image_width": 2877,
+  "inscription": "Signature, date and edition",
   "life_date": "French, 1867-1938",
-  "marks": "Signature, date and edition LRC below image, in black: [Suzanne Valadon/ 1928]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC below image, in black: [Suzanne Valadon/ 1928]; LRC, in pencil: [Suzane Valadon 72/101]",
   "style": "19th-20th century",
   "text": "",
   "title": "Women"

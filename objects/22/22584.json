@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.250",
-  "artist": "Utagawa Hiroshige; Published by Fujiokaya Hikotarō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Fujiokaya Hikotarō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1800,
   "image_width": 2836,
+  "inscription": "kyo_kasha, Manhachi no nikai nastu towa uso no yo_?\r\n\r\n\r\n\r\n\r\n",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "kyo_kasha, Manhachi no nikai nastu towa uso no yo_ ",
+  "markings": "Censor:kiwame\r\nPublisher:Fujihiko",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Night Scene on Yanagi-bashi Bridge and the Restaurant Manhachi"

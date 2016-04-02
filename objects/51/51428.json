@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,653",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Ridgely Hunt, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " in pencil in L.R.margin < Pennell Imp >\r\netched in",
+  "markings": "water: Van Gelder",
   "medium": "Etching, laid paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil in L.R.margin < Pennell Imp >\r\netched in plate on billboard in upper center: < Jo Pennell drew this 1880 >\r\n\r\n\r\n",
   "style": "19th century",
   "text": "",
   "title": "Callowhill Street Bridge"

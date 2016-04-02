@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.511",
-  "artist": "Utagawa Hiroshige II; Fujiokaya Keijirō",
+  "artist": "Artist: Utagawa Hiroshige II; Publisher: Fujiokaya Keijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1917,
   "image_width": 2683,
+  "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "marks": " {Hiroshige ga}",
+  "markings": "Censor: kai+March 1864; publisher\\'s seal: {Fujukei}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "(Fisherwomen)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,078.4",
-  "artist": "Jean Ignace Isidore Gérard Grandville",
+  "artist": "Artist: Jean Ignace Isidore Gérard Grandville",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. C.C. Bovey, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1803 - 1847",
-  "marks": "Signature Signature in plate",
+  "markings": "",
   "medium": "Hand colored lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in plate",
   "style": "19th century",
   "text": "",
   "title": "M. Martin-Pecheur apportant au Diner a sa famille"

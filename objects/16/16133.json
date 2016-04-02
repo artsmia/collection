@@ -1,6 +1,7 @@
 {
   "accession_number": "39.55",
-  "artist": "Henry Ernest Schnakenberg",
+  "artist": "Artist: Henry Ernest Schnakenberg",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3497,
   "image_width": 4427,
+  "inscription": "Signature",
   "life_date": "American, 1892 - 1970",
-  "marks": "Signature LL: [Schnakenberg]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Schnakenberg]",
   "style": "20th century",
   "text": "",
   "title": "Romantic Landscape"

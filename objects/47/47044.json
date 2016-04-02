@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.142",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4518,
   "image_width": 3498,
-  "life_date": "German, 1471 - 1528",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1471–1528",
+  "markings": "Watermark: small Imperial Orb, M. 56",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Alfred Hubert (L. 130); Frederick Keppel, 1918",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "The Prodigal Son"

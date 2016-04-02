@@ -1,6 +1,7 @@
 {
   "accession_number": "92.81.2",
-  "artist": "Margery Edwards",
+  "artist": "Artist: Margery Edwards",
+  "classification": "Collages / Assemblages",
   "continent": "Australia",
   "country": "Australia",
   "creditline": "Gift of Dr. K. David Edwards in loving and grateful memory of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3668,
   "image_width": 5017,
+  "inscription": "Inscription; Date; Signature; Mark\r\nsee Signed\r\ninscribed verso in graphite: [M. Edwards/ N.Y. 311 1989]",
   "life_date": "Australian, 1933-1989",
-  "marks": "Inscription; Date; Signature; Mark\r\nsee Signed\r\nin LR in graphite: [M. Edwards 1989]",
+  "markings": "Watermark:<OM Fabriano>",
   "medium": "Handmade paper collage",
   "nationality": "Australian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in graphite: [M. Edwards 1989]",
   "style": "20th century",
   "text": "",
   "title": "New York 311"

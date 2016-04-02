@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.59",
-  "artist": "Unknown English, 16th century",
+  "artist": "Artist: Unknown English, 16th century",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut, laid",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Description and Manner of the Poisoning of King John"

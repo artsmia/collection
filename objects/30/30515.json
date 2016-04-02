@@ -1,6 +1,7 @@
 {
   "accession_number": "98.105.93",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Sculpture",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Walter Lane Barksdale",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5509,
   "image_width": 3596,
+  "inscription": "Inscriptions; Tag",
   "life_date": null,
-  "marks": "Inscriptions; Tag ",
+  "markings": "two areas of untranslated inscriptions, at back of skirt on proper left leg and on front of alms book; lender\\'S tag, at holes on back",
   "medium": "Ivory",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "(Penitent Oni)"

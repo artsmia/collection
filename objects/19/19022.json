@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.100",
-  "artist": "Robert Dighton",
+  "artist": "Artist: Robert Dighton",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4991,
   "image_width": 3631,
+  "inscription": "Signature; Marks; Title\r\n\r\nlower center: [Winter] \r\n[500] (Faint)",
   "life_date": "British, 1752-1814",
-  "marks": "Signature; Marks; Title\r\n\r\nlower center: [Winter]  LR: [Dighton del.]",
+  "markings": "Watermark: top half of fleur-de-lis within shield, surmounted by a crown in ink, LL: Collector\\'s number, in pencil, LL[PRLxx]",
   "medium": "Watercolor with touches of white",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Dighton del.]",
   "style": "18th century",
   "text": "",
   "title": "Winter, from a Series of the Four Seasons"

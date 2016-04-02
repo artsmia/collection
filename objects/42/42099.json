@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,884.81",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The William Hood Dunwoody Fund, 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Yes",
   "life_date": null,
-  "marks": "Yes Across bottom of drawing",
+  "markings": "Francisco Goya y Lucieuleo Piuton",
   "medium": "Pen and brown ink on tracing paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Across bottom of drawing",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Goya, copy of Plate I of Los Caprichos (1793-98)"

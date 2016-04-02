@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.123",
-  "artist": "Everett Shinn",
+  "artist": "Artist: Everett Shinn",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of G.R. Durenberger",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1965,
   "image_width": 2437,
+  "inscription": "in graphite, verso: [To John Phillips,/My good friend/ from Michigan/ Everett Shinn]",
   "life_date": "American, 1876 - 1953",
-  "marks": "in graphite, verso: [To John Phillips,/My good fri Initialed in red, LR: [E.S.-(illegible] | In penci",
+  "markings": "Watermark: <University of Michigan>",
   "medium": "Graphite with watercolor wash",
   "nationality": "American",
   "provenance": "The artist; given to John Phillips, Michigan. Gephard R. Durenberger, Henderson, Minn.; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed in red, LR: [E.S.-(illegible] | In pencil, verso: [Everett Shinn]",
   "style": "20th century",
   "text": "",
   "title": "Costumed Figures on a Stage"

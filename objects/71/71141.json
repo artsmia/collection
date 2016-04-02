@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,629",
-  "artist": "Basil Besler",
+  "artist": "Artist: Basil Besler",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nVerso: Text.\r\nI. Hyacinthus Orientalis violacco colore albis lineis.\r\nII. Hyacinthus Orientalis floreduplici.\r\nIII. Hyacinthus Orientalis aeflexis folys, colore violaceo\r\nIIII. Crocus Fundo vernus alba violaceo.",
   "life_date": "German, 1561 - 1629",
-  "marks": "Inscription\r\n\r\nVerso: Text.\r\nI. Hyacinthus Orienta ",
+  "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Vernalium: Ordo II, fol. 5, from Hortus Eystettensis"

@@ -1,6 +1,7 @@
 {
   "accession_number": "90.98",
-  "artist": "Peter Kunz",
+  "artist": "Artist: Peter Kunz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\nsee Signed\r\nLL in pencil: [for Michael with Love (heart)]",
   "life_date": "Swiss",
-  "marks": "Signature; Date; Inscription\r\nsee Signed\r\nLL in pe in pencil: [Peter Kunz-Opfersei, \\'79]",
+  "markings": "",
   "medium": "Colored pencil",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Peter Kunz-Opfersei, \\'79]",
   "style": "20th century",
   "text": "",
   "title": "Magic Stone from Cascade River"

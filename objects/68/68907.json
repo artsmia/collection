@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.75",
-  "artist": "Utagawa Kuniyoshi; Published by Ebisu",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Ebisu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2645,
   "image_width": 1823,
+  "inscription": "At edge: [67] (number of the pieces in the series);\r\nSuō\\'s poem (followed by detailed explanation):\r\n(You offered your arm\r\nTo be my pillow \r\nIn a manner as casual as \r\nA dream of spring night\r\nBut, I\\'m afraid \r\nThat people may rumor us)\r\n{Haru no yo no\r\nYume bakari naru\r\nTe-makura ni\r\nKai naku tata n\r\nNa koso oshi kere}\r\n",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "At edge: [67] (number of the pieces in the series) {Chōōrō Kuniyoshi ga}",
+  "markings": "Red artist\\'s seal {Kuniyoshi}; Publisher: Ebisu",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Chōōrō Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Illustration of the Suō no Naishi's Poem"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,577",
-  "artist": "Anders Zorn",
+  "artist": "Artist: Anders Zorn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "Gift of Mrs. Chauncey McCormick, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4683,
   "image_width": 3538,
+  "inscription": "Signature and Date",
   "life_date": "Swedish, 1860 - 1920",
-  "marks": "Signature and Date [Zorn 1915]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Zorn 1915]",
   "style": "20th century",
   "text": "",
   "title": "The Swan"

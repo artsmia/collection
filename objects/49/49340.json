@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,574",
-  "artist": "Robert Nanteuil; after Phillippe de Champaigne",
+  "artist": "Artist: Robert Nanteuil; Artist: after Phillippe de Champaigne",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\non back LL: [JEI]",
   "life_date": "French, 1623-1678",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\non back [Nanteuil Sculpehat]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "R.S. Holford, black stamp verso (L.2242)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Nanteuil Sculpehat]",
   "style": "17th century",
   "text": "",
   "title": "Victor Le Bouthillier, Archevêque de Tours"

@@ -1,6 +1,7 @@
 {
   "accession_number": "50.13",
-  "artist": "Edward Connock",
+  "artist": "Maker: Edward Connock",
+  "classification": "Metalwork",
   "continent": null,
   "country": "England",
   "creditline": "The Olivia C. Coan Fund for the Georgian Room",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nEngraved in center is an unidentified crest.",
   "life_date": null,
-  "marks": "Inscription\r\n\r\nEngraved in center is an unidentifi ",
+  "markings": "Mark\r\n\r\nFully marked on underside.",
   "medium": "silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tray"

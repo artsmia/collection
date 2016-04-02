@@ -1,6 +1,7 @@
 {
   "accession_number": "98.145.1",
-  "artist": "Shusaku Arakawa",
+  "artist": "Artist: Shusaku Arakawa",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection\r\nGift of Dr. Glen D. Nelson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3720,
   "image_width": 2551,
+  "inscription": "None",
   "life_date": "American (born Japan) 1936-2010",
-  "marks": "None ",
+  "markings": "",
   "medium": "Acrylic on frosted Mylar",
   "nationality": "American (born Japan)",
   "provenance": "Vermillion Editions Limted, Minneapolis; Glen D. Nelson; given to MIA, 1998.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled preparatory drawing for third panel of 'Tomb of Chance II'"

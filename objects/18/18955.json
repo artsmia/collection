@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.147",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3297,
   "image_width": 5192,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "Collector\\'s mark: LR front: [Pstx] \r\nin pencil, LR back: [P546]; in ink, LR front: [N 16]",
   "medium": "Chalk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Pomegranates and Dead Bird"

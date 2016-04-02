@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.258",
-  "artist": "Aizawa Sekko",
+  "artist": "Artist: Aizawa Sekko",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2746,
   "image_width": 5288,
+  "inscription": "poet\\'s name on the white recutangular beside each figure",
   "life_date": "Japanese, 1806 - 1847",
-  "marks": "poet\\'s name on the white recutangular beside each  {Sekko hitsu}",
+  "markings": "unread artist\\'s seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Sekko hitsu}",
   "style": "19th century",
   "text": "",
   "title": "(Bashō and his pupils)"

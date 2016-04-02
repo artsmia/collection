@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.317",
-  "artist": "Walter Dexel",
+  "artist": "Artist: Walter Dexel",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1471,
+  "inscription": "Signature; Date\r\non back: Date and [Figuration F-J]",
   "life_date": "German, 1890 - 1973",
-  "marks": "Signature; Date\r\non back: Date and [Figuration F-J on back",
+  "markings": "",
   "medium": "Gouache",
   "nationality": "German",
   "provenance": "Norwest Corporation, Minneapolis; given to MIA, 1998",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on back",
   "style": "20th century",
   "text": "",
   "title": "Composition F-J"

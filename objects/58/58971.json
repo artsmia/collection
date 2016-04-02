@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.40",
-  "artist": "Gary L. Johnson; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Gary L. Johnson; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5004,
   "image_width": 2645,
+  "inscription": "Signed, numbered, and chop mark.",
   "life_date": "American, born 1954",
-  "marks": "Signed, numbered, and chop mark. LR: [Gary L. Johnson]\r\nLL: [10/10 A.P.]",
+  "markings": "LR: VEL chop mark",
   "medium": "Open bite and spit-bite etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Gary L. Johnson]\r\nLL: [10/10 A.P.]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

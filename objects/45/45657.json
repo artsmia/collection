@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.32",
-  "artist": "Félix Vallotton; Edmond Sagot",
+  "artist": "Artist: Félix Vallotton; Publisher: Edmond Sagot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3857,
   "image_width": 4930,
+  "inscription": "Signature; Stamp; Inscription\r\n\r\nsee Signed\r\n\r\n[Judith Pillsbury] stamp UR; [actuellement, 39 bis, Rue de Chateaudon, 39 bis]",
   "life_date": "Swiss, 1865 - 1925",
-  "marks": "Signature; Stamp; Inscription\r\n\r\nsee Signed\r\n\r\n[Ju in block, LL: [FV]",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in block, LL: [FV]",
   "style": "19th century",
   "text": "This woodcut was commissioned as an advertisement for Edmond Sagot's print gallery in Paris.  Throngs of eager collectors crowd around the gallery's window in a scene that Sagot wished was commonplace, but probably happened infrequently if at all.",
   "title": "The Print Lovers"

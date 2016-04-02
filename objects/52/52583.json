@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.82",
-  "artist": "Jean-Émile Laboureur",
+  "artist": "Artist: Jean-Émile Laboureur",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title and mark",
   "life_date": "French, 1877 - 1943",
-  "marks": "Signature, title and mark signed left, below image; on verso, lower right: [",
+  "markings": "On sheet upper right: [LG373]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed left, below image; on verso, lower right: [Automne a Versaille] [19012]",
   "style": "20th century",
   "text": "",
   "title": "L'Automne à Versailles"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.1.8",
-  "artist": "Lynn Klein; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Lynn Klein; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Art Accessions Endowment Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3566,
   "image_width": 2397,
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1950",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [LK 1992]\r\nLL: [A.P. 1/4]\r\n",
+  "markings": "LL: VEL chop mark",
   "medium": "Color photolithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [LK 1992]\r\nLL: [A.P. 1/4]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Yabure)"

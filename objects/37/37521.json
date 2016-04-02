@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.140.2",
-  "artist": "Utagawa Hiroshige; Maruya Seijirō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Seijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige ga}",
+  "markings": "Censor: Mera, Watanabe",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "No. 40 Chiryū"

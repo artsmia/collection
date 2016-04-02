@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.16",
-  "artist": "David Trowbridge; Published by Cirrus Editions, Ltd., Los Angeles",
+  "artist": "Artist: David Trowbridge; Publisher: Published by Cirrus Editions, Ltd., Los Angeles",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Benton J. Case Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition\r\n\r\nNumbered in pencil, LC: [14/45]",
   "life_date": "American, 1945-2009",
-  "marks": "Signature, Date, Edition\r\n\r\nNumbered in pencil, LC Signed and dated in pencil, LC: [Trowbridge 72]",
+  "markings": "publisher\\'s chop mark",
   "medium": "Color screenprint on frosted Mylar",
   "nationality": "American",
   "provenance": "Benton J. Case, Jr., Minneapolis; given to MIA, 1974.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LC: [Trowbridge 72]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

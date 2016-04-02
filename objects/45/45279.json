@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.53",
-  "artist": "Paul Klee; François Marie Arouet de Voltaire; Pantheon, New York",
+  "artist": "Artist: Paul Klee; Author: François Marie Arouet de Voltaire; Publisher: Pantheon, New York",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3064,
   "image_width": 4614,
+  "inscription": "Edition\r\n\r\nInscribed in black ink, on colophon page: [No 21]",
   "life_date": "Swiss, 1879 - 1940",
-  "marks": "Edition\r\n\r\nInscribed in black ink, on colophon pag Unsigned",
+  "markings": "",
   "medium": "Illustrated book with reproductions of pen and ink drawings; includes two extra suites of illustrations; bound volume",
   "nationality": "Swiss",
   "provenance": "[Black Sun Books, New York]; Ruth and Bruce Dayton, Wayzata, Minn.; their gfit to MIA, 2001",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Unsigned",
   "style": "20th century",
   "text": "",
   "title": "Candide"

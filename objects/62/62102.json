@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.651",
-  "artist": "Utagawa Hiroshige II; Fujiokaya Keijirō",
+  "artist": "Artist: Utagawa Hiroshige II; Publisher: Fujiokaya Keijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2697,
   "image_width": 1813,
+  "inscription": "Describes the anniversary ceremony of opening the temple on November 28th.\r\n{Ikko ha nite Kyōto nishi roku-jō yorino ??jo no jūni gatsu nijūhachi nichi wa kaizan-ki nite shichi-chūya no hōe shigyō nari.\r\nSōmon no rōnyaku nannyo sankei gunshū wo ????? toyū}",
   "life_date": "Japanese, 1826 - 1869",
-  "marks": "Describes the anniversary ceremony of opening the  ",
+  "markings": "Censor: kai+November 1862; publisher\\'s seal: {Fujikei-ban}; carver\\'s seal: {Horikane} (unknown)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Temple at Tsukiji"

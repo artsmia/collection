@@ -1,6 +1,7 @@
 {
   "accession_number": "35.7.111",
-  "artist": "Ellen Gertrude Emmet Rand",
+  "artist": "Artist: Ellen Gertrude Emmet Rand",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of John R. Van Derlip in memory of Ethel Morrison Van Derlip",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "American, 1876 - 1941",
-  "marks": "Signature and Date UL: [Ellen Emmet Rand, 1929]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UL: [Ellen Emmet Rand, 1929]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of John R. Van Derlip"

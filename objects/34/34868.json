@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.285",
-  "artist": "Ishikawa Toyonobu; Published by Urokogataya Magobei",
+  "artist": "Artist: Ishikawa Toyonobu; Publisher: Published by Urokogataya Magobei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2637,
   "image_width": 1414,
+  "inscription": "Poem about New Year",
   "life_date": "Japanese, 1711 - 1785",
-  "marks": "Poem about New Year {Ishikawa Toyonobu hitsu}",
+  "markings": "Publisher seal: Urokogataya",
   "medium": "Woodblock print (benizuri-e); ink and limited color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ishikawa Toyonobu hitsu}",
   "style": "18th century",
   "text": "",
   "title": "Two Girls Playing with Thread Ball"

@@ -1,6 +1,7 @@
 {
   "accession_number": "77.42",
-  "artist": "Thomas Girtin",
+  "artist": "Artist: Thomas Girtin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Atherton Bean",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2629,
   "image_width": 4421,
+  "inscription": "Title; Mark\r\n\r\nin ink script over pencil, on mounting sheet: [Morpeth Northumberland]",
   "life_date": "British, 1775 - 1802",
-  "marks": "Title; Mark\r\n\r\nin ink script over pencil, on mount ",
+  "markings": "Watermark, on original mounting sheet (now removed):  [Dutch 1793]",
   "medium": "Watercolor over graphite",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Morpeth Bridge"

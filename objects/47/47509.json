@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,773",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of a Friend of the Institute, in memory of Mrs. J. R. Van Derlip, 1922",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "pen verso, Paul Behaim (L. 365); oen verso, P. Mariette 1692 (L. 1788) Pierre; oen verso, F. Gawet 1827 (L.1069).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Virgin Crowned by Two Angels"

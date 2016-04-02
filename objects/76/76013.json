@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,438",
-  "artist": "William Heath; Published by Thomas McLean , 26 Haymarket, London",
+  "artist": "Artist: William Heath; Publisher: Published by Thomas McLean , 26 Haymarket, London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "English, 1795 - 1840",
-  "marks": "Signature\r\n\r\nsee Signed [Esq.]--drawing of little man*",
+  "markings": "",
   "medium": "Hand-colored etching",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Esq.]--drawing of little man*",
   "style": "19th century",
   "text": "",
   "title": "A La Mode. 1829. At Home"

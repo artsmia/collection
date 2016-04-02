@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,221",
-  "artist": "Henri-Charles Guérard",
+  "artist": "Artist: Henri-Charles Guérard",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1906,
   "image_width": 2484,
+  "inscription": "Chop marks",
   "life_date": "French, 1846 - 1897",
-  "marks": "Chop marks ",
+  "markings": "Chop marks; AB",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portraits de MM. de Lesseps, Coppée, général Pittié, de Bornier, Henri Martin, Mis de Cherville"

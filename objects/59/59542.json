@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.23.12",
-  "artist": "Tom Wesselmann",
+  "artist": "Artist: Tom Wesselmann",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© Tom Wesselmann %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nnoted on mat: [artist, amer.20th C., title, date, 928/1000, rubber stamp, source and accession number]",
   "life_date": "American, 1931 - 2004",
-  "marks": "Inscription\r\n\r\nnoted on mat: [artist, amer.20th C. ",
+  "markings": "",
   "medium": "Rubber stamp print",
   "nationality": "American",
   "provenance": "[Parasol Press Ltd., New York]; sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Shiny Nude"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,959",
-  "artist": "Mary Cassatt",
+  "artist": "Artist: Mary Cassatt",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "American, 1844-1926",
-  "marks": " Yes, Mary Cassatt\\'s mark lower left front, stamp;",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes, Mary Cassatt\\'s mark lower left front, stamp;",
   "style": "19th century",
   "text": "When artist Edgar Degas died in 1917, more than ninety prints by Mary Cassatt were discovered in his studio. Cassatt relied on her friend Degas for guidance on aquatint and probably called on artist Marcellin Desboutin to help perfect her drypoint technique. Her disciplined touch is evident in The Mirror, which she may have printed on the press in her apartment-studio in Paris. Cassatt exhibited this print and eleven others at the Durand-Ruel gallery in Paris. Critic Edmond de Goncourt was unimpressed. \"The admiration expressed in all the papers for Mlle Cassatt's work is enough to make you die of laughter,\" he wrote.",
   "title": "The Mirror"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,199",
-  "artist": "Timothy Cole; after John Hoppner",
+  "artist": "Artist: Timothy Cole; Artist: after John Hoppner",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "115 on bottom of mat In plate, on sheet",
+  "inscription": "115 on bottom of mat",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "19th century",
   "text": "",
   "title": "Countess of Oxford (Jane Elizabeth Scott)"

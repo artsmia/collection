@@ -1,6 +1,7 @@
 {
   "accession_number": "75.88.2",
-  "artist": "Maurice de Vlaminck",
+  "artist": "Artist: Maurice de Vlaminck",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3879,
   "image_width": 4700,
+  "inscription": "Signature",
   "life_date": "French, 1876 - 1958",
-  "marks": "Signature [Vlaminck], lower left",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Vlaminck], lower left",
   "style": "20th century",
   "text": "",
   "title": "Landscape"

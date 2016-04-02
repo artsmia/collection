@@ -1,6 +1,7 @@
 {
   "accession_number": "74.60.3",
-  "artist": "Henry Pember Smith",
+  "artist": "Artist: Henry Pember Smith",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Joseph K. Weiser",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4940,
   "image_width": 3393,
+  "inscription": "Mark",
   "life_date": "American, 1854 - 1907",
-  "marks": "Mark ",
+  "markings": "Watermark: <J WHATMAN/1889>",
   "medium": "Watercolor on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Untitled [Canal Scene]"

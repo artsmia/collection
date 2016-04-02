@@ -1,6 +1,7 @@
 {
   "accession_number": "98.159.3",
-  "artist": "Red Grooms; Published by Akasha Studio, Minneapolis",
+  "artist": "Artist: Red Grooms; Publisher: Published by Akasha Studio, Minneapolis",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Date\r\n\r\nLL: [STUDIO PROOF]",
   "life_date": "American, born 1937",
-  "marks": "Signature; Inscription; Date\r\n\r\nLL: [STUDIO PROOF] LR: [Red Grooms \\'97]",
+  "markings": "",
   "medium": "Collaged photocopies with inscribed color notations",
   "nationality": "American",
   "provenance": "Akasha, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Red Grooms \\'97]",
   "style": "20th century",
   "text": "",
   "title": "Studio Proof for 'The Empire State Building'"

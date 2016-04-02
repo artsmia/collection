@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,954",
-  "artist": "Hosoda Eishi; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Hosoda Eishi; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1902,
   "image_width": 2781,
+  "inscription": "",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": " Eishi ga",
+  "markings": "Censor:kiwame\r\nPublisher:Nishimuraya",
   "medium": "Woodblock print (key block); ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Eishi ga",
   "style": "18th century",
   "text": "",
   "title": "Key block impression for \"Five Beauties\""

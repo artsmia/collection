@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.148",
-  "artist": "Eisen",
+  "artist": "Artist: Eisen",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3929,
   "image_width": 3514,
+  "inscription": "Poem by Umimatsunoya Kuroeda\r\nThe pttern of the dividing screen is like a whispered invitation in the licenced quarters; not to part at dawn is the first dream of the New Year.\r\n(Nezumin naki \r\nShikiru byo_bu no\r\n???\r\nMon akete hanasanu\r\nKuruwa no hatsuyume)\r\n",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": "Poem by Umimatsunoya Kuroeda\r\nThe pttern of the di Keisai",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Keisai",
   "style": "19th century",
   "text": "",
   "title": "Happy Rats"

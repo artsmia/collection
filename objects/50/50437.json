@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,283",
-  "artist": "Jacques Beurdeley; Edmond Sagot",
+  "artist": "Artist: Jacques Beurdeley; Publisher: Edmond Sagot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Miss Eileen Bigelow and Mrs. O. H. Ingram, in memory of their mother, Mrs. Alice F. Bigelow, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Stamp",
   "life_date": "French, 1874 - 1934",
-  "marks": "Signature, Stamp LRC in pencil: [J. Beourdely]",
+  "markings": "Dry Stamp recto: [Edmond Sagot, Editeur, Paris]",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in pencil: [J. Beourdely]",
   "style": "20th century",
   "text": "",
   "title": "The Creamery"

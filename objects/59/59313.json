@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,545",
-  "artist": "Paul Klee",
+  "artist": "Artist: Paul Klee",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Titled\r\n\r\nsee Signed\r\n\r\nTitled, LLC: [Esel]",
   "life_date": "Swiss, 1879 - 1940",
-  "marks": "Signature; Titled\r\n\r\nsee Signed\r\n\r\nTitled, LLC: [E Signed LRC: [Klee ]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed LRC: [Klee ]",
   "style": "20th century",
   "text": "",
   "title": "Der Esel"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,928",
-  "artist": "Conrad Felixmüller",
+  "artist": "Artist: Conrad Felixmüller",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J.B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1897 - 1977",
-  "marks": "Signature LLC",
+  "inscription": "Signature",
+  "life_date": "German, 1897–1977",
+  "markings": "",
   "medium": "Etching and drypoint with plate tone",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC",
   "style": "20th century",
   "text": "",
   "title": "Smiling Head of a Woman"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,580",
-  "artist": "Giorgio Morandi",
+  "artist": "Artist: Giorgio Morandi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "©2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1890 - 1964",
-  "marks": "Signature outside image in pencil",
+  "markings": "Watermarks: <Umbria Italia (Fabriani)>",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "outside image in pencil",
   "style": "20th century",
   "text": "",
   "title": "Landscape"

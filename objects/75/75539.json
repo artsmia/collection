@@ -1,6 +1,7 @@
 {
   "accession_number": "P.16,952",
-  "artist": "Etienne-Maurice Falconet; Valentine Green",
+  "artist": "Artist: Etienne-Maurice Falconet; Engraver: Valentine Green",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "French, 1716-1791",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Lady Nuneham"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.1",
-  "artist": "Parviz Tanavoli",
+  "artist": "Artist: Parviz Tanavoli",
+  "classification": "Drawings",
   "continent": "Asia",
   "country": "Iran",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5294,
   "image_width": 3368,
+  "inscription": "Inscription\r\nParviz Tanavoli\r\n11-20-57, 58\r\nBenial, Tehran--Venice",
   "life_date": "Iranian",
-  "marks": "Inscription\r\nParviz Tanavoli\r\n11-20-57, 58\r\nBenial ",
+  "markings": "Inscribed in ink: [P.T. XVI w, G]",
   "medium": "Pen and ink on white tissue (faded to yellow)",
   "nationality": "Iranian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Standing Nude)"

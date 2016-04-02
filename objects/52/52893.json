@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.102",
-  "artist": "Benjamin West; Published by Philippe Andre",
+  "artist": "Artist: Benjamin West; Publisher: Published by Philippe Andre",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4698,
   "image_width": 3354,
+  "inscription": "Signature",
   "life_date": "American, 1738 - 1820",
-  "marks": "Signature In lower rt. print",
+  "markings": "",
   "medium": "Polyautography (pen lithograph)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In lower rt. print",
   "style": "19th century",
   "text": "",
   "title": "The Angel of the Resurrection , from \"Specimens of Polyautography\""

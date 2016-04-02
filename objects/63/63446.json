@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.73",
-  "artist": "Nishikawa Sukenobu",
+  "artist": "Artist: Nishikawa Sukenobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1948,
   "image_width": 3026,
+  "inscription": "story\r\n",
   "life_date": "1671 - 1750",
-  "marks": "story\r\n ",
+  "markings": "",
   "medium": "From a woodblock printed book (sumizuri-e); ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Scene from Classical Literature"

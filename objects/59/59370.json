@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.13",
-  "artist": "Agnes Story",
+  "artist": "Artist: Agnes Story",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2661,
   "image_width": 3661,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American (b. Venezuela), born 1956",
-  "marks": "Signed, Dated, Numbered, and Chop Mark UR: [Agnes Story 1984]\r\nUR: [A.P. 6/6]\r\nLR: VEL Ch",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph, screenprint (varnish), collage, sand, and hand-coloring",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [Agnes Story 1984]\r\nUR: [A.P. 6/6]\r\nLR: VEL Chop Mark\r\n",
   "style": "20th century",
   "text": "",
   "title": "Pelicano Club"

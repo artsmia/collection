@@ -1,6 +1,7 @@
 {
   "accession_number": "65.56.5",
-  "artist": "John Chumley",
+  "artist": "Artist: John Chumley",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1928-1956",
-  "marks": "Signature LL: [Chumley]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Chumley]",
   "style": "20th century",
   "text": "",
   "title": "Study for Goldie (I)"

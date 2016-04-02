@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,604",
-  "artist": "José Clemente Orozco; Printed by George C. Miller",
+  "artist": "Artist: José Clemente Orozco; Printer: Printed by George C. Miller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of the Estate of George W. Morgan, 1958",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Mexican, 1883 - 1949",
-  "marks": "Signature\r\n\r\nsee Signed ",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Mexican",
   "provenance": "Estate of George W. Morgan",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La bandera"

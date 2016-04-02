@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.181.2",
-  "artist": "Toyohara Kunichika; Published by Wakasaya Jingorō",
+  "artist": "Artist: Toyohara Kunichika; Publisher: Published by Wakasaya Jingorō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1835 - 1900",
-  "marks": " {Kunichika hitsu}",
+  "markings": "Censor: Kai + Dec. 1867; Carver: Horitoyo",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kunichika hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Sawamura [?] as Kumokiri Nizaemon"

@@ -1,6 +1,7 @@
 {
   "accession_number": "86.114.3",
-  "artist": "Nancy Randall",
+  "artist": "Artist: Nancy Randall",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5165,
   "image_width": 3620,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1928",
-  "marks": "Signature; Date LR: [Nancy Randall \\'82]",
+  "markings": "",
   "medium": "Oil crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nancy Randall \\'82]",
   "style": "20th century",
   "text": "",
   "title": "Sketches for 'Cicada Series'"

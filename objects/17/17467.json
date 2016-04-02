@@ -1,6 +1,7 @@
 {
   "accession_number": "49.22",
-  "artist": "Francis Roman Meisch",
+  "artist": "Artist: Francis Roman Meisch",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5430,
   "image_width": 3632,
+  "inscription": "Signature; Date",
   "life_date": "American, 1915 - 1998",
-  "marks": "Signature; Date in watercolor, LR corner: [F.R.Meisch 1949]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in watercolor, LR corner: [F.R.Meisch 1949]",
   "style": "20th century",
   "text": "",
   "title": "Modernizing Main Street"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,862",
-  "artist": "Lovis Corinth",
+  "artist": "Artist: Lovis Corinth",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "No source information, 1961",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1858 - 1925",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1858-1925",
+  "markings": "Watermark:<VAN GELD (GELDER)>",
   "medium": "Etching and drypoint",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Landscape"

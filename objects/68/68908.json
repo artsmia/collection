@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.65",
-  "artist": "Utagawa Kuniyoshi; Published by Ebisu",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Ebisu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2672,
   "image_width": 1826,
+  "inscription": "Hitomaro\\'s poem (followed by detailed explanantion):\r\n(I wonder\r\nThat I have to spend this night alone\r\nThe night might be prolonged\r\nAs long as trailing tails\r\nOf lonely phesants)\r\n{Ahibiki no\r\nYamadori no o no\r\nShidario no\r\nNaganagashi yo wo\r\nHitori ka mo ne mu}",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "Hitomaro\\'s poem (followed by detailed explanantion {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Red artist\\'s seal {Kuniyoshi}; Publisher: Ebisu",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Illustration of the Kakinomoto Hitomaro's Poem"

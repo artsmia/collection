@@ -1,6 +1,7 @@
 {
   "accession_number": "94.94",
-  "artist": "Lisa Bradley",
+  "artist": "Artist: Lisa Bradley",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "© the artist",
   "image_height": 5942,
   "image_width": 4733,
+  "inscription": "Verso, center stretcher bar: (medium)",
   "life_date": "American, born 1951",
-  "marks": "Verso, center stretcher bar: (medium) Verso, UL corner canvas: (artist\\'s last name)",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Verso, UL corner canvas: (artist\\'s last name)",
   "style": "20th century",
   "text": "",
   "title": "Jumna"

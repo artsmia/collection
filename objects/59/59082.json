@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.59",
-  "artist": "Thomas Rose",
+  "artist": "Artist: Thomas Rose",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3820,
   "image_width": 2868,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American, born 1942",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LR: [Thomas A Rose 79]\r\nLL: [6/6]\r\nLR: VEL Chop Ma",
+  "markings": "VEL Chop Mark",
   "medium": "Lithograph with color pencil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Thomas A Rose 79]\r\nLL: [6/6]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "67.21",
-  "artist": "Gregory Masurovsky",
+  "artist": "Artist: Gregory Masurovsky",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Gregory Masurovsky",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4502,
   "image_width": 3418,
+  "inscription": "Signature; Date, Mark\r\n\r\n",
   "life_date": "American, 1929-2009",
-  "marks": "Signature; Date, Mark\r\n\r\n In LR: [G M 66]",
+  "markings": "Watermark: <Ingres d\\'Arches Made in France MBM>",
   "medium": "Pen and India ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LR: [G M 66]",
   "style": "20th century",
   "text": "",
   "title": "Nude No.10"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.59.13",
-  "artist": "John Koch",
+  "artist": "Artist: John Koch",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2322,
   "image_width": 1707,
-  "life_date": "American, 1909-1978",
-  "marks": "Signature LL: [Koch]",
+  "inscription": "Signature",
+  "life_date": "American, 1909 - 1978",
+  "markings": "",
   "medium": "Graphite heightened in white pencil on brown paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Koch]",
   "style": "20th century",
   "text": "",
   "title": "Studies"

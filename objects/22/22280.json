@@ -1,6 +1,7 @@
 {
   "accession_number": "80.65.1",
-  "artist": "attributed to Abraham Walkowitz",
+  "artist": "Artist: attributed to Abraham Walkowitz",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Richard Wilcox in memory of Alice M. O'Brien",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3437,
   "image_width": 2792,
-  "life_date": "American, 1880 - 1965",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1880–1965",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Female Nude"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.23.1",
-  "artist": "Zigmunds Priede",
+  "artist": "Artist: Zigmunds Priede",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. James Duffey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Mark; Inscription\r\n\r\nsee Signed\r\n\r\nsigned in pencil LR:  [3 Priede \\'75 (c)]\r\non verso, in pencil LR: [cumulus]",
   "life_date": "American, born (Latvia) 1935",
-  "marks": "Signature; Date; Title; Mark; Inscription\r\n\r\nsee S in pencil: [Z. Priede]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Z. Priede]",
   "style": "20th century",
   "text": "",
   "title": "Cumulus"

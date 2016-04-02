@@ -1,6 +1,7 @@
 {
   "accession_number": "2010.107.1",
-  "artist": "Jules Chéret; Printed by Imprimerie Chaix, Paris",
+  "artist": "Artist: Jules Chéret; Printer: Printed by Imprimerie Chaix, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Kate Butler Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5990,
   "image_width": 4220,
+  "inscription": "Title and Inscription\r\n\r\nprinted text: [Lire dans LE RADICAL Lundi Prochain / Le No. 5 c / La CLOSURIE DES GENETS / Grand Roman Inedit par / EDMOND LEPELLETIER / Tire du Drame / DE Frederic SOULIE]",
   "life_date": "French (Paris, Nice), 1836 - 1932",
-  "marks": "Title and Inscription\r\n\r\nprinted text: [Lire dans  see Inscription",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "Kate Butler Peterson, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "see Inscription",
   "style": "19th century",
   "text": "",
   "title": "La Closerie des Genets"

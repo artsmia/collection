@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.9",
-  "artist": "Utagawa Kunikazu; Utagawa Yoshitaki; Utagawa Yoshiyuki; Ishikawaya Wasuke",
+  "artist": "Artist: Utagawa Kunikazu; Artist: Utagawa Yoshitaki; Artist: Utagawa Yoshiyuki; Publisher: Ishikawaya Wasuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3774,
   "image_width": 2783,
-  "life_date": "Japanese, fl. c.1848-1868",
-  "marks": " {Yoshitaki hitsu}; {Kunikazu ga}; {Yoshiyuki ga}",
+  "inscription": "",
+  "life_date": "Japanese, 1841 - 1899",
+  "markings": "Publisher\\'s seal on most prints: {Ishiwa ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Yoshitaki hitsu}; {Kunikazu ga}; {Yoshiyuki ga}",
   "style": "19th century",
   "text": "",
   "title": "Hundred Views of Ōsaka"

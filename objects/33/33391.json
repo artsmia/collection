@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.154",
-  "artist": "Pirro Ligorio",
+  "artist": "Artist: Pirro Ligorio",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Professor Alfred Moir in memory of Louis Nippert Zelle",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1839,
   "image_width": 1688,
+  "inscription": "Inscribed bottom center in pen and brown ink: \\\"Orphaeus\\\"; bottom left in pen and brown ink; a heptagon with the sides numbered, within a square with the words \\\"septangano\\\" (?) written over it; across the top in pen and in the same brown ink a fragmentary  paragraph: \r\n\r\nCaliope tuono il numero Sette... ario, hebbe p della lyra la quale Hesedito (?) da lyno, et -- fiere et gli arbori et i sassi et gli ucelli --\\\"  [R.J. Campbell, Old Master Drawings from the Collection of Alfred Moir, 2000, no. 27]\r\n\r\nAccording to Jean-Luc Baroni the inscription reads: Calliope trovo il numero settenario, hebbe p... della lyra la quale heredito da Lyni, et fiere er gli arbori et i sassi et gli ucelli\\\" [Exh. cat. Douwes Fine Art, June 30 - July 12, 1980]",
   "life_date": "Italian, 1513 - 1583",
-  "marks": "Inscribed bottom center in pen and brown ink: \\\"Orp ",
+  "markings": "\\\"C\\\" (Lugt 474, formerly thought to be the mark of P. Crozat)",
   "medium": "Pen and brown ink on white laid paper",
   "nationality": "Italian",
   "provenance": "Unidentified collection (L 474, formerly thought to be the mark of P. Crozat);\r\nPrivate Collection, New Zealand (Sale, Christie's, London, July 4, 1972, lot 67 [group lot], to Baskett and Day, 420 gns); [Baskett and Day, London, since 1972]; [Jean-Luc Baroni, London, in 1980, sold to Moir]; Prof. Alfred Moir, Santa Barbara, CA, 1980-2003, gave to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Orpheus Charming the Beasts"

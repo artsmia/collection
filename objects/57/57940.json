@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.187",
-  "artist": "Paul Gavarni (Sulpice-Guillaume Chevalier)",
+  "artist": "Artist: Paul Gavarni (Sulpice-Guillaume Chevalier)",
+  "classification": "Drawings",
   "continent": null,
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2661,
   "image_width": 1994,
+  "inscription": "Signature, Title",
   "life_date": "French, 1804 - 1866",
-  "marks": "Signature, Title \\\"Gavarni\\\", [LR] in red chalk",
+  "markings": "Title inscribed at lower margin of sheet.",
   "medium": "Watercolor over red chalk, heightened with white gouache on cream wove",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Gavarni\\\", [LR] in red chalk",
   "style": "19th century",
   "text": "",
   "title": "Mon épouse? Elle a un anneau dans le nez: l'anneau du mariage"

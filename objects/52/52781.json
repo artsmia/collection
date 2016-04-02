@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.173.10.1",
-  "artist": "Doulton Art Pottery",
+  "artist": "Manufacturer: Doulton Art Pottery",
+  "classification": "Ceramics",
   "continent": null,
   "country": null,
   "creditline": "Gift of Nancy M. Rose",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4076,
   "image_width": 4080,
+  "inscription": "\\\"AS\\\", \\\"562/T\\\" and \\\"EN\\\", in black and brown ink, on back; \\\"DOULTON/[symbol]/LAMBETH[inside a circle]\\\", stamped on back in black",
   "life_date": "Staffordshire, England, 1871-1901",
-  "marks": "\\\"AS\\\", \\\"562/T\\\" and \\\"EN\\\", in black and brown ink, on ",
+  "markings": "",
   "medium": "Glazed ceramic",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Tile with floral decoration, one of a pair"

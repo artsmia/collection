@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.267",
-  "artist": "Yamada Ho_gyoku; Iseya Sōemon",
+  "artist": "Artist: Yamada Hōgyoku; Publisher: Iseya Sōemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1975,
   "image_width": 2467,
+  "inscription": "",
   "life_date": "Japanese, fl. c.1804-1844",
-  "marks": " ",
+  "markings": "Artist\\'s seal: {Hōgyoku}; {Keikadō shoga in} (works of Keikadō) seal",
   "medium": "Woodblock print (aizuri-e); color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Turtles"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,954",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3780,
   "image_width": 5088,
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature, Inscription and Stamp\r\nInscribed: \\\"Essa Signature",
+  "inscription": "Signature, Inscription and Stamp\r\nInscribed: \\\"Essai en 3 tons(?)/ tiré par l\\'artiste/ ou tiré de son port Jeuille(?)]",
+  "life_date": "French, 1847-1898",
+  "markings": "Stamp",
   "medium": "Photomechanical reproduction, etching, aquatint, roulette, drypoint, lift ground, soft ground, stop-out, and engraving, printed in black and blue",
   "nationality": "French",
   "provenance": "William M. Ladd",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature",
   "style": "19th century",
   "text": "This sobering sight is one that Félix Buhot often saw from his window during the fourteen years he lived on the boulevard de Clichy in Paris. The verse at lower left tells us that this funeral is for an undertaker's mute. Given to inventive marginalia, Buhot sympathetically decorated this print with swans and flower blossoms influenced by Japanese art. He used so many different processes on this expressive sheet that it is more akin to monotype than to a traditional editioned print. Buhot's own funeral occurred about ten years after he made this work, when he died at age fifty-one as a result of mental illness.",
   "title": "Funeral Procession on the Boulevard de Clichy"

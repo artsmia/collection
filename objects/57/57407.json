@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.52",
-  "artist": "Jack Levine",
+  "artist": "Artist: Jack Levine",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. Thomas Bergen",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jack Levine %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1915",
-  "marks": "Signature In plate",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "20th century",
   "text": "",
   "title": "The Curator"

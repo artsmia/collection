@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.34.13",
-  "artist": "Luigi Lucioni",
+  "artist": "Artist: Luigi Lucioni",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Colles Larkin",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition, Number, Inscription\r\n\r\nIn LR:  STOWE VILLAGE - 18:00 ED.6 Print num 2 2nd ED 100 - not for sale\r\n",
   "life_date": "American (born Italy), 1900 - 1988",
-  "marks": "Signature, Date, Edition, Number, Inscription\r\n\r\nI In LR:  [Luigi Lucioni 1933]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LR:  [Luigi Lucioni 1933]",
   "style": "20th century",
   "text": "",
   "title": "Stowe Village"

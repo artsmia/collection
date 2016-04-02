@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.1",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1817,
   "image_width": 2552,
+  "inscription": "yes (kyo_ka)\r\n*see the front card of L85.214.50",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "yes (kyo_ka)\r\n*see the front card of L85.214.50 ",
+  "markings": "Censor:Kiwame\r\nPublisher:Sanoya Kihe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Gookin",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of the Fudesute Mountain in Sakanoshita"

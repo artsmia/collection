@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.54.1-12",
-  "artist": "Albert Besnard; Le Livre Contemporain, Paris",
+  "artist": "Artist: Albert Besnard; Publisher: Le Livre Contemporain, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1849 - 1934",
-  "marks": "Signature all etchings, signed in the plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "all etchings, signed in the plate",
   "style": "20th century",
   "text": "",
   "title": "Affaire Clémenceau"

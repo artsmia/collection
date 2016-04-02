@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,262",
-  "artist": "Paul Adolphe Rajon; After Félix Bracquemond",
+  "artist": "Artist: Paul Adolphe Rajon; Artist: After Félix Bracquemond",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Willaim M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1843 - 1888",
-  "marks": "Signature on image",
+  "inscription": "Signature",
+  "life_date": "French, 1833 - 1914",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on image",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Bracquemond in 1852"

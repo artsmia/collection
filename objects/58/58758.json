@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.15",
-  "artist": "Glen Grafelman",
+  "artist": "Artist: Glen Grafelman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3534,
   "image_width": 2833,
+  "inscription": "Signed, dated, numbered, and VEL studio stamp.",
   "life_date": "American, born 1958",
-  "marks": "Signed, dated, numbered, and VEL studio stamp. LR, red ink: [G.81]\r\nLL, red ink: [7/11]",
+  "markings": "VEL studio stamp, verso: [PRINTED AT VERMILLION EDITIONS LTD.]",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, red ink: [G.81]\r\nLL, red ink: [7/11]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.6.11",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4573,
   "image_width": 3473,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Signature in pencil, in plate",
+  "inscription": "Signature",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Etching and lift ground aquatint (sugar lift)",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, in plate",
   "style": "20th century",
   "text": "",
   "title": "Le Singe"

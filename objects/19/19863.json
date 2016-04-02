@@ -1,6 +1,7 @@
 {
   "accession_number": "72.11.2n",
-  "artist": "Frank Lloyd Wright",
+  "artist": "Designer: Frank Lloyd Wright",
+  "classification": "Architecture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The David Draper Dayton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1867 - 1959",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1867–1959",
+  "markings": "",
   "medium": "Wood",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Screen from the Little House"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.257.20",
-  "artist": "Malcolm H. Myers",
+  "artist": "Artist: Malcolm H. Myers",
+  "classification": "Drawings",
   "continent": null,
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"98\\\", in graphite, LR",
   "life_date": "American, 1917-2002",
-  "marks": "\\\"98\\\", in graphite, LR \\\"Myers\\\", in graphite, LL",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Myers\\\", in graphite, LL",
   "style": "20th century",
   "text": "",
   "title": "Model"

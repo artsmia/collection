@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.29.12",
-  "artist": "A. R. Penck (Ralf Winkler); Maximillian Verlag, Münich",
+  "artist": "Artist: A. R. Penck (Ralf Winkler); Publisher: Maximillian Verlag, Münich",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Anne and Robert Buxton",
@@ -14,8 +15,9 @@
   "image_copyright": "© A. R. Penck%2C courtesy Brooke Alexander",
   "image_height": 4952,
   "image_width": 3744,
+  "inscription": "Signature, Edition\r\n\r\nNumbered in pencil, LL: 22/50",
   "life_date": "German, born 1939",
-  "marks": "Signature, Edition\r\n\r\nNumbered in pencil, LL: 22/5 Signed in pencil, LR: ar. penck",
+  "markings": "",
   "medium": "Woodcut \r\n",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: ar. penck",
   "style": "20th century",
   "text": "",
   "title": "Die Arbeit geht weiter (The work goes on)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,735",
-  "artist": "Katsukawa Shun'ei; Published by Iwatoya Kisaburō",
+  "artist": "Artist: Katsukawa Shun'ei; Publisher: Published by Iwatoya Kisaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2872,
   "image_width": 1926,
+  "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "marks": " {Shun\\'ei ga}",
+  "markings": "Publisher\\'s seal: {Iwatoya Kisaburō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shun\\'ei ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "The Actor Ichikawa Danjūrō Vl"

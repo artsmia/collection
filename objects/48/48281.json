@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,506",
-  "artist": "Charles-Émile Jacque",
+  "artist": "Artist: Charles-Émile Jacque",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and mark",
   "life_date": "French, 1813-1894",
-  "marks": "Signature and mark Signature-part of print",
+  "markings": "On one plate: [G.288]\r\n",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature-part of print",
   "style": "19th century",
   "text": "",
   "title": "Man Filling Jug"

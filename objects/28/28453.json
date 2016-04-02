@@ -1,6 +1,7 @@
 {
   "accession_number": "94.102.1",
-  "artist": "Edward Steichen",
+  "artist": "Photographer: Edward Steichen",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David J. Parins",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Edward Steichen %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3747,
   "image_width": 3102,
-  "life_date": "American (born Luxembourg), 1879 - 1973",
-  "marks": "Signature ",
+  "inscription": "Signature",
+  "life_date": "American (born Luxembourg), 1879–1973",
+  "markings": "front left center edge; artist\\'s last name under picture frame in photograph",
   "medium": "Dye transfer print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Franklin D. Roosevelt"

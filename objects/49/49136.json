@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,730",
-  "artist": "Maxime Lalanne",
+  "artist": "Artist: Maxime Lalanne",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury, 1958",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title and date",
   "life_date": "French, 1827 - 1886",
-  "marks": "Signature, title and date Signature in plate with title and date",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in plate with title and date",
   "style": "19th century",
   "text": "",
   "title": "Tour de Montalban, Amsterdam"

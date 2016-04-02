@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,972",
-  "artist": "Louis Cabat",
+  "artist": "Artist: Louis Cabat",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3456,
   "image_width": 5292,
+  "inscription": "Signature",
   "life_date": "French, 1812 - 1893",
-  "marks": "Signature Signed on plate",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on plate",
   "style": "19th century",
   "text": "",
   "title": "Cliche Verre - Landscape"

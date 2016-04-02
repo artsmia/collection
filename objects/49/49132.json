@@ -1,6 +1,7 @@
 {
   "accession_number": "P.47.471",
-  "artist": "Claude Gellée (called Le Lorrain)",
+  "artist": "Artist: Claude Gellée (called Le Lorrain)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of John Crosby",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1603 - 1682",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "French, 1603–1682",
+  "markings": "Watermark: tip of fleur de lys",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Roman Forum"

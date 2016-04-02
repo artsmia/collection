@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.118",
-  "artist": "Paul Gavarni (Sulpice-Guillaume Chevalier)",
+  "artist": "Artist: Paul Gavarni (Sulpice-Guillaume Chevalier)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3308,
   "image_width": 2504,
+  "inscription": "Signature",
   "life_date": "French, 1804 - 1866",
-  "marks": "Signature Signed in pencil",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil",
   "style": "19th century",
   "text": "",
   "title": "Nocturne of Two Noses"

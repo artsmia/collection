@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,013",
-  "artist": "Workshop of Attavante degli Attavanti",
+  "artist": "Artist: Workshop of Attavante degli Attavanti",
+  "classification": "Manuscript",
   "continent": "Europe",
   "country": "Italy (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Italian, 1452 - 1525",
-  "marks": "Mark ",
+  "markings": "",
   "medium": "Ink, gouache and gilding on vellum",
   "nationality": "Italian",
   "provenance": "Dwight and Helen Minnich, Minneapolis, Minn., until 1966; gift/sale to MIA..",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Leaf from an Illuminated  Psalter"

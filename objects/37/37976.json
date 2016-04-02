@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.279.21",
-  "artist": "Adolf Dehn",
+  "artist": "Artist: Adolf Dehn",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Adolf Dehn",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Adolf Arthur Dehn",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Inscription",
   "life_date": "American, 1895 - 1968",
-  "marks": "Signature; Date; Title; Inscription ",
+  "markings": "\\'Adolf Dehn Aug. 4, 1955 Yaddo \\'Everybody loves Mamma.\\' (Mother\\'s Day.)\\', in graphite, LR, verso; \\'853\\', \\'[mathematical equations]\\', UL",
   "medium": "Ink and watercolor on white wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Everybody Loved Mama"

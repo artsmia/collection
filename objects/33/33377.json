@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.14",
-  "artist": "Attributed to Annibale Carracci",
+  "artist": "Artist: Attributed to Annibale Carracci",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8164,
   "image_width": 5820,
-  "life_date": "Italian (Bologna), 1560 - 1609",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian (Bologna), 1560–1609",
+  "markings": "Watermark: eagle? in a circle with a handle",
   "medium": "Black chalk",
   "nationality": "Italian (Bologna)",
   "provenance": "Sale, Sotheby's, London, July 3, 1995, no. 156, as Bolognese school, c. 1600, for £1,176.25, to Moir; Alfred Moir, Santa Barbara (1995-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Portrait of a Young Man"

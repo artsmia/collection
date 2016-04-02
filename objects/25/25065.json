@@ -1,6 +1,7 @@
 {
   "accession_number": "86.114.2",
-  "artist": "Philip J. Barber; Michael Reid",
+  "artist": "Artist: Philip J. Barber; Artist: Michael Reid",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3101,
   "image_width": 4763,
+  "inscription": "Signature; Date; Inscription\r\n\r\n",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Inscription\r\n\r\n LR: [P. Barber \\'81]; in graphite, LC: [fields-two ",
+  "markings": "",
   "medium": "Colored chalk and graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [P. Barber \\'81]; in graphite, LC: [fields-two plates aquatint/separation of centered-left band/right band]; in graphite, UR: [HEAD?/Buff?]",
   "style": "20th century",
   "text": "",
   "title": "Study for \"Either or (both)\""

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,505",
-  "artist": "Charles-Émile Jacque",
+  "artist": "Artist: Charles-Émile Jacque",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark, stamp and chop marks",
   "life_date": "French, 1813-1894",
-  "marks": "Mark, stamp and chop marks ",
+  "markings": "On back: chop marks; on back in pencil: [1139D.B]; stamped on back: [ET3330]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Rieur"

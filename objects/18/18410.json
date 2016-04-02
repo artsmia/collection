@@ -1,6 +1,7 @@
 {
   "accession_number": "61.55.28a,b",
-  "artist": "William Gamble",
+  "artist": "Maker: William Gamble",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5195,
   "image_width": 2367,
-  "life_date": "",
-  "marks": "Mark\r\n\r\nEngraved on underside are the initials:    ",
+  "inscription": "Mark\r\n\r\nEngraved on underside are the initials:       [F]\r\n                                                                       [I] [*] [S]",
+  "life_date": null,
+  "markings": "Mark\r\n\r\nFully marked (britannia standard) on side of body.  Cover unmarked.",
   "medium": "Silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "William III",
   "text": "",
   "title": "Sugar Caster"

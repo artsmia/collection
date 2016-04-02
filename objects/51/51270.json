@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,143",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Etched in plate < Momie Sauerkraut\\'s Row, Pennell \\'81 >\r\nEtched in plate on sign, third building from L. < Jo Pennell 81 >\r\nSigned in pencil in lower margin < Joseph Pennell >\r\n",
   "life_date": "American, 1860 - 1926",
-  "marks": "Etched in plate < Momie Sauerkraut\\'s Row, Pennell  in plate and hand in pencil",
+  "markings": "",
   "medium": "Etching, wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate and hand in pencil",
   "style": "19th century",
   "text": "",
   "title": "Sauerkraut Row"

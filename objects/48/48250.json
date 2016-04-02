@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,626",
-  "artist": "Samuel Arlent Edwards; After Memling",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: After Memling",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Oliver C. Wyman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature and Inscription\r\nAutograph inscription b on sheet",
+  "inscription": "Signature and Inscription\r\nAutograph inscription by the artist on cardboard",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "",
   "medium": "Color mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "19th century",
   "text": "",
   "title": "A Gentleman of Bruges"

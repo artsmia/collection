@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.59.12",
-  "artist": "Ben Nicholson; Poem by Herbert Read; Morris Gallery, New York",
+  "artist": "Artist: Ben Nicholson; Author: Poem by Herbert Read; Publisher: Morris Gallery, New York",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Walter Bareiss",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4169,
   "image_width": 3585,
-  "life_date": "British, 1894 - 1982",
-  "marks": "Signature on margin",
+  "inscription": "Signature",
+  "life_date": "British, 1894–1982",
+  "markings": "Watermark: <BFK Rives France>",
   "medium": "Etching and drypoint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on margin",
   "style": "20th century",
   "text": "",
   "title": "Tenement, 1957, from 21 Etchings and Poems"

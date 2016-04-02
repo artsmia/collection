@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,566",
-  "artist": "Robert Nanteuil",
+  "artist": "Artist: Robert Nanteuil",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "French, 1623-1678",
-  "marks": "Signature\r\n\r\nsee Signed printed in plate",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "printed in plate",
   "style": "17th century",
   "text": "",
   "title": "Francois Blondeau, Président de la Chambre Comptes"

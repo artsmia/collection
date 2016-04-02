@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,969",
-  "artist": "Roger Maurice Grillon",
+  "artist": "Artist: Roger Maurice Grillon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of William Channing Whitney\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4271,
   "image_width": 2713,
+  "inscription": "marks",
   "life_date": "French, 1881-1938",
-  "marks": "marks ",
+  "markings": "Top center in commercial typeface: [Roger Gibbons]; [Appartisant au Nonvel Essor] (?) beneath image, lower right, in commercial italics",
   "medium": "Woodcut",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Ionides"

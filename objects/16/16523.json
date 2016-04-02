@@ -1,6 +1,7 @@
 {
   "accession_number": "41.61.1",
-  "artist": "E. T. Quannie",
+  "artist": "Artist: E. T. Quannie",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. C. C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature\r\nsee Signed LR: [E.T. Quannie]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [E.T. Quannie]",
   "style": "20th century",
   "text": "",
   "title": "Indian Dancers"

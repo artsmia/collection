@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,419",
-  "artist": "Auguste Louis Lepère; after Gustave Popelin",
+  "artist": "Artist: Auguste Louis Lepère; Artist: after Gustave Popelin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Herschel V. Jones, 1925",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title, date",
   "life_date": "French, 1849 - 1918",
-  "marks": "Signature, title, date Block LL: [A Lepere]; block LR: [Gustave Popelin];",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Block LL: [A Lepere]; block LR: [Gustave Popelin]; In same hand(?) lower right, signature, title, and more",
   "style": "19th century",
   "text": "",
   "title": "Sacrifice d'esculape"

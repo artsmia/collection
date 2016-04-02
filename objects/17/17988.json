@@ -1,6 +1,7 @@
 {
   "accession_number": "51.33.2",
-  "artist": "Thomas Jones",
+  "artist": "Maker: Thomas Jones",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Ireland",
   "creditline": "The Elizabeth C. Quinlan Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Mark",
   "life_date": "Irish",
-  "marks": "Mark ",
+  "markings": "makers mark: TJ in rectangle",
   "medium": "Silver",
   "nationality": "Irish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sauce boat"

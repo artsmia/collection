@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,301",
-  "artist": "Pancrace Bessa; after Pierre-Joseph Redouté; Jean-François Janinet; Text by Francois-Andre Michaux",
+  "artist": "Artist: Pancrace Bessa; Artist: after Pierre-Joseph Redouté; Engraver: Jean-François Janinet; Author: Text by Francois-Andre Michaux",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1772 - 1835",
-  "marks": "Inscription\r\n[Dessine par Bessa d\\'apres les Dessin ",
+  "inscription": "Inscription\r\n[Dessine par Bessa d\\'apres les Dessins originaux faits en Egypte par Redoute jeune]\r\n\r\n",
+  "life_date": "Flemish (active France), 1759-1840",
+  "markings": "\r\n",
   "medium": "Stipple engraving, color-printed, finished by hand",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Fruit of Tree, from Histoire des arbres Forestiers de l'Amerique septentrionale"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,622",
-  "artist": "Willem Jansz. Blaeu",
+  "artist": "Artist: Willem Jansz. Blaeu",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Holland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "Dutch, 1571-1638",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "Dutch, 1571-1638",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "Joan Blaeu reissued this earlier map of Asia in his 1662 atlas despite its being outdated; Korea, for instance, is still represented as an island. This map appeared in Blaeu's atlas alongside several newer, more accurate maps of the region, charted by the Jesuit Martino Martini. The overly large size of the Philippines and Indonesia reflects their importance to European traders, a distortion seen also in Ricci's map.\r\n\r\nDecorating the borders of the map, ten pairs of figures represent the fashions and customs of the various regions, reflecting the curiosity of map readers about people around the world.\r\n",
   "title": "Map of Asia, from Joan Blaeu's \"Atlas Maior,\" Amsterdam, 1662"

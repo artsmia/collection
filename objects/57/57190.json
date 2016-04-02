@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.186.3",
-  "artist": "Gabriel Villard",
+  "artist": "Artist: Gabriel Villard",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Janet and Winton Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3297,
   "image_width": 4795,
+  "inscription": "Signature, Stamp",
   "life_date": "French, born 1835",
-  "marks": "Signature, Stamp [Gabriel Villard], estate stamp signature, LR",
+  "markings": "",
   "medium": "Pastel and chalk on beige-grey charcoal paper",
   "nationality": null,
   "provenance": "Molly Klobe - Chamberlin Gallery, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Gabriel Villard], estate stamp signature, LR",
   "style": "19th century",
   "text": "",
   "title": "Moonlight Scene with House, Lake and Trees"

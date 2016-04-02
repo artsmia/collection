@@ -1,6 +1,7 @@
 {
   "accession_number": "78.58",
-  "artist": "Saul P. Steinberg",
+  "artist": "Artist: Saul P. Steinberg",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©2001 Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4302,
   "image_width": 2681,
+  "inscription": "Signature; Date; Chop; Stamp",
   "life_date": "American, 1914-1999",
-  "marks": "Signature; Date; Chop; Stamp LR in ink: [STEINBERG/1964]",
+  "markings": "Watermark: <WS> (Strathmore Artist Paperchop)\r\nLL Stamped:  <Copyright (symbol) 1965 by Saul Steinberg \\'New Yorker\\'>",
   "medium": "Ink, crayon, and watercolor",
   "nationality": "American",
   "provenance": "The artist, 1965-78; given to the MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in ink: [STEINBERG/1964]",
   "style": "20th century",
   "text": "",
   "title": "Florida"

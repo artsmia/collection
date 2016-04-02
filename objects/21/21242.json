@@ -1,6 +1,7 @@
 {
   "accession_number": "76.72.63",
-  "artist": "Unknown Korean",
+  "artist": "Artist: Unknown Korean",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Celadon glazed pottery",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "10th-14th century",
   "text": "",
   "title": "Jar"

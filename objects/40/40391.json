@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.91.5",
-  "artist": "Arthur Douglas Nash; Libbey Glass Company, Toledo, Ohio, est. 1878",
+  "artist": "Designer: Arthur Douglas Nash; Manufacturer: Libbey Glass Company, Toledo, Ohio, est. 1878",
+  "classification": "Glass",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2244,
   "image_width": 3978,
+  "inscription": "marks",
   "life_date": "American, 1885-1940",
-  "marks": "marks ",
+  "markings": "\\'Libbey\\', manufacturer\\'s insignia on bottom",
   "medium": "Glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "\"Knickerbocker \" square base glass"

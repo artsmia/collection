@@ -1,6 +1,7 @@
 {
   "accession_number": "47.31",
-  "artist": "Tyra Kleen",
+  "artist": "Artist: Tyra Kleen",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "Gift of Mrs. Ruth Phelps-Morand",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Swedish",
-  "marks": "Signature; Date\r\nsee Signed LR: [Tyra Kleen 1914]",
+  "markings": "",
   "medium": "Chalk",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Tyra Kleen 1914]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Countess Phelps Resse"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.545",
-  "artist": "Charles Heyman",
+  "artist": "Artist: Charles Heyman",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, stamp and watermark",
   "life_date": "French, 1881 - 1915",
-  "marks": "Signature, stamp and watermark signed on frame; signed: [M Heyman]",
+  "markings": "Watermark: [crest (tragmint?)]; Stamp: [Sagot]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on frame; signed: [M Heyman]",
   "style": "20th century",
   "text": "",
   "title": "Le Hameau, Larivière"

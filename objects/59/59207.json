@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,785",
-  "artist": "Moishe Smith",
+  "artist": "Artist: Moishe Smith",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1929",
-  "marks": "Signature\r\n\r\nsee Signed on margin",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on margin",
   "style": "20th century",
   "text": "",
   "title": "Rapallo"

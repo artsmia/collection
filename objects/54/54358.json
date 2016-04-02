@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.11.1",
-  "artist": "Alan Turner",
+  "artist": "Artist: Alan Turner",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1943",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Alan Turner]",
+  "markings": "Watermark: <Arches>\r\nChop mark: <Arrow Press>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Alan Turner]",
   "style": "20th century",
   "text": "",
   "title": "Landscape I"

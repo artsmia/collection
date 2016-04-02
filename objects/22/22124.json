@@ -1,6 +1,7 @@
 {
   "accession_number": "79.12.4",
-  "artist": "Charles Chatteaux",
+  "artist": "Maker: Charles Chatteaux",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5143,
   "image_width": 3267,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature [Ch. CHATTEEAUX]",
+  "markings": "[KERAMIS]",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Ch. CHATTEEAUX]",
   "style": "20th century",
   "text": "",
   "title": "Vase"

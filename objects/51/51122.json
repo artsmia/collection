@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,084",
-  "artist": "Stephen Parrish",
+  "artist": "Artist: Stephen Parrish",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1846 - 1938",
-  "marks": " Stephen Parrish in pencil on sheet; S. Parrish etc",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Stephen Parrish in pencil on sheet; S. Parrish etched in plate",
   "style": "19th century",
   "text": "",
   "title": "Flooded Lands, Adirondacks"

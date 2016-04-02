@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.19",
-  "artist": "Hoitsi",
+  "artist": "Artist: Hoitsi",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3780,
   "image_width": 1104,
+  "inscription": "Inscription",
   "life_date": null,
-  "marks": "Inscription ",
+  "markings": "undecifered, LRC",
   "medium": "Ink and color on silk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Yamabuki"

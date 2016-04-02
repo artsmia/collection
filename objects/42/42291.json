@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.158",
-  "artist": "Kitagawa Saigyo",
+  "artist": "Artist: Kitagawa Saigyo",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3718,
   "image_width": 4733,
+  "inscription": "75 haiku poems abour spring",
   "life_date": "Japanese, born 1813",
-  "marks": "75 haiku poems abour spring Son Sigyo kinsha",
+  "markings": "\\\"Saigyo\\\" seal\r\n\\\"Shoko_ shunei sono-ni\\\"(the second seriese of spring poems)\\\" UR\r\n\\\"Bunsei 10 hinoto i 3 gatsu 16 nichi(March 16, the year of Boar)\\\" UL",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Son Sigyo kinsha",
   "style": "19th century",
   "text": "",
   "title": "Purple Magnolia"

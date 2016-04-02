@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.25",
-  "artist": "Ernest David Roth",
+  "artist": "Artist: Ernest David Roth",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\\\\see Signed",
   "life_date": "American, (born Germany) 1879 - 1964",
-  "marks": "Signature; Mark\r\n\\\\see Signed pencil and plate",
+  "markings": "Chop Mark:  <Chicago Society of Etchers>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "pencil and plate",
   "style": "20th century",
   "text": "",
   "title": "The Little Florentine Shops"

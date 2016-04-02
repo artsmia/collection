@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.30",
-  "artist": "James Faed; after Sir Francis Grant P.R.A.; Henry Graves &amp; Co., London",
+  "artist": "Artist: James Faed; Artist: after Sir Francis Grant P.R.A.; Publisher: Henry Graves &amp; Co., London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of John W. Ittmann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "British, 1821 - 1911",
-  "marks": "Signature; Mark\r\n on plate: [James Faed]",
+  "inscription": "Signature; Mark\r\n",
+  "life_date": "British, 1821–1911",
+  "markings": "Chop: KBK; Print Sellers Association",
   "medium": "Engraving",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [James Faed]",
   "style": "19th century",
   "text": "",
   "title": "The Duchess of Sutherland"

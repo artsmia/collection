@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.1",
-  "artist": "Kitagawa Utamaro; Text by Tōrai Sanna",
+  "artist": "Artist: Kitagawa Utamaro; Author: Text by Tōrai Sanna",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3155,
   "image_width": 3881,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " Utamaro ga",
+  "markings": "Tenmei 4, To_rai Sanna saku\r\nletters on the right of title are illegible\r\n\\\"To_rai Sanna gesaku\\\" written on the last page\r\nCollecter:Hayashi Tadamasa(sealed on the first and last page)",
   "medium": "Woodblock printed book; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Utamaro ga",
   "style": "18th century",
   "text": "",
   "title": "Creation of the World"

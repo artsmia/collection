@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.230",
-  "artist": "Utagawa Kuniyoshi; Published by Kagaya Kichiemon",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Kagaya Kichiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1942,
   "image_width": 2901,
+  "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": " Ichiyu_sai Kuniyoshi go",
+  "markings": "Censor:kiwame\r\nPublisher:Kagaya\r\n",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ichiyu_sai Kuniyoshi go",
   "style": "19th century",
   "text": "Even though images featuring perspective were no longer a novelty in 19th century Japan, the degree of realism achieved by Kuniyoshi in this image must have been surprising. The straight lines he used to delineate the eaves and white walls of the warehouses give the impression of recession into the far distance. The three people emerging over the crest of the hill further accentuate the effect of recession and lend a dramatic note to this remarkable image. ",
   "title": "Kasumigaseki"

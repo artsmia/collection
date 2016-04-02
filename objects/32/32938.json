@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.18",
-  "artist": "Joel Janowitz",
+  "artist": "Artist: Joel Janowitz",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Joel Janowitz",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nin graphite, LL: [DARKENING]",
   "life_date": "American, born 1945",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nin grap in graphite, LR: [Janowitz 2000]",
+  "markings": "",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "Acquired directly from the artist, Boston, 2001.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Janowitz 2000]",
   "style": "21st century",
   "text": "",
   "title": "Darkening"

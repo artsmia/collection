@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.32",
-  "artist": "Gesshū",
+  "artist": "Artist: Gesshū",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3667,
   "image_width": 4897,
+  "inscription": "UL: {Kinoe ne} (the year of Rat) ????; 9 haikus about the New Year",
   "life_date": "Japanese",
-  "marks": "UL: {Kinoe ne} (the year of Rat) ????; 9 haikus ab {Gesshū}",
+  "markings": "Red artist\\'s seal: {Gesshū}; another unread red artist\\'s seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Gesshū}",
   "style": "19th century",
   "text": "",
   "title": "(Straw festoon and mice)"

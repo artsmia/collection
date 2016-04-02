@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.57",
-  "artist": "Omar Rayo",
+  "artist": "Artist: Omar Rayo",
+  "classification": "Prints",
   "continent": "South America",
   "country": "Colombia",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3744,
   "image_width": 5616,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Colombian, 1928-2010",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Omar Rayo]",
+  "markings": "WM: veritable papier d\\'arches",
   "medium": "Inkless intaglio",
   "nationality": "Colombian",
   "provenance": "[Associated American Artists, New York]; sold to MIA, 1968.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Omar Rayo]",
   "style": "20th century",
   "text": "",
   "title": "Water Please"

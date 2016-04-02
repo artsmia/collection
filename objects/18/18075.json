@@ -1,6 +1,7 @@
 {
   "accession_number": "54.10",
-  "artist": "John E. Anderson",
+  "artist": "Artist: John E. Anderson",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Special Works of Art Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3297,
   "image_width": 5511,
+  "inscription": "Signature and Date",
   "life_date": "American, 1923 - 1971",
-  "marks": "Signature and Date LL: [john anderson 54.]",
+  "markings": "",
   "medium": "Oil on masonite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [john anderson 54.]",
   "style": "20th century",
   "text": "",
   "title": "Some Patterns of Culture"

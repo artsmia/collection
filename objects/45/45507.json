@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.97.1",
-  "artist": "Francisco Mora",
+  "artist": "Artist: Francisco Mora",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3488,
   "image_width": 5081,
+  "inscription": "Signature, date, title\r\n\r\n",
   "life_date": "Mexican, 1922-2002",
-  "marks": "Signature, date, title\r\n\r\n Signed in graphite",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Mexican",
   "provenance": "[Sragow Gallery, New York]; sold to MIA, 2001.",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in graphite",
   "style": "20th century",
   "text": "",
   "title": "Massacre"

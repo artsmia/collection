@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,082",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2276,
   "image_width": 1917,
+  "inscription": "Etched in plate at lower right in reverse: The Hall of Iron PRR Jo Pennell 1919",
   "life_date": "American, 1860 - 1926",
-  "marks": "Etched in plate at lower right in reverse: The Hal In pencil in lower margin:  Jo Pennell Imp",
+  "markings": "Collector\\'s \\\"D\\\" stamp printed on verso; no watermark\r\n",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  Jo Pennell Imp",
   "style": "20th century",
   "text": "",
   "title": "The Hall of Iron, Pennsylvania Station, New York"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.648",
-  "artist": "Georges Le Meilleur",
+  "artist": "Artist: Georges Le Meilleur",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and date",
   "life_date": "French, 1861 - 1945",
-  "marks": "Signature and date signed in pencil on right; on plate: [CL (?) 1912]",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil on right; on plate: [CL (?) 1912]",
   "style": "20th century",
   "text": "",
   "title": "Le tournant de la route à St. Martin aux Buneaux"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,309",
-  "artist": "Giovanni Battista Piranesi; Giovanni Battista Piranesi",
+  "artist": "Maker: Giovanni Battista Piranesi; Etcher: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature and watermark signed L margin: [Cavalier Piranesi F.]",
+  "inscription": "Signature and watermark",
+  "life_date": "Italian, 1720–1778",
+  "markings": "Watermark",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed L margin: [Cavalier Piranesi F.]",
   "style": "18th century",
   "text": "",
   "title": "The Aqueduct of Nero Leading to the Palatine; A Branch of the Aqua Claudia"

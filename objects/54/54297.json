@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,903",
-  "artist": "Timothy Cole",
+  "artist": "Artist: Timothy Cole",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "\\\"Sir John Sterling Col. London\\\" pencil on sheet On sheet",
+  "inscription": "\\\"Sir John Sterling Col. London\\\" pencil on sheet",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "19th century",
   "text": "",
   "title": "El Greco's Daughter"

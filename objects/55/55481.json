@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,330",
-  "artist": "Hue Mazelet Luquiens",
+  "artist": "Artist: Hue Mazelet Luquiens",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Margaret McMillan Webber, 1951",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1881 - 1961",
-  "marks": "Signature Yes",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "20th century",
   "text": "",
   "title": "Tradewind"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.254",
-  "artist": "Utagawa Kunihiro; Published by Tenmaya Kihei",
+  "artist": "Artist: Utagawa Kunihiro; Publisher: Published by Tenmaya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2781,
   "image_width": 1927,
+  "inscription": "poem dedicated to the deceased actor\r\nThe Fame of the Moon\r\nRemains at Komagaike pond\r\nAfter moon has gone\r\n(???? ya\r\nTuski no nagori wa\r\nKomagaike)",
   "life_date": "Japanese, fl. c.1820s-1830s",
-  "marks": "poem dedicated to the deceased actor\r\nThe Fame of  {Kunihiro ga}",
+  "markings": "Publisher:Ten-ki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kunihiro ga}",
   "style": "19th century",
   "text": "",
   "title": "The Actor Arashi Kitsusaburō l as Nagai Genzaburō"

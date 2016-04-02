@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.178.5",
-  "artist": "Takemura Shūsui active. c.1960-70",
+  "artist": "Artist: Takemura Shūsui active. c.1960-70",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese",
-  "marks": " Shu_sui",
+  "markings": "\\\"Takemura\\\" sealed in red",
   "medium": "Color woodblock print",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Shu_sui",
   "style": "20th century",
   "text": "",
   "title": "Egret on a Heavenly Bamboo Branch"

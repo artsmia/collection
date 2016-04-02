@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.24",
-  "artist": "Paul Herrmann",
+  "artist": "Artist: Paul Herrmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp",
   "life_date": "German, 1864 - 1940",
-  "marks": "Signature; Stamp in blue pencil, LR: [Henri Heran]",
+  "markings": "publishers blindstamp, LL",
   "medium": "Color woodcut and lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in blue pencil, LR: [Henri Heran]",
   "style": "19th century",
   "text": "",
   "title": "Frightened Nymph"

@@ -1,6 +1,7 @@
 {
   "accession_number": "91.176",
-  "artist": "Clement Haupers",
+  "artist": "Artist: Clement Haupers",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John W. Ittman in Memory of Kemper Kirkpatrick",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5553,
   "image_width": 3594,
-  "life_date": "American, 1900 - 1982",
-  "marks": "Signature; Date LR: [Haupers/30]",
+  "inscription": "Signature; Date",
+  "life_date": "American, 1900–1982",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Haupers/30]",
   "style": "20th century",
   "text": "",
   "title": "Landscape"

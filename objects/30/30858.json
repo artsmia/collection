@@ -1,6 +1,7 @@
 {
   "accession_number": "98.261.2",
-  "artist": "Ella McBride",
+  "artist": "Photographer: Ella McBride",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Richard Anderson",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 2477,
   "image_width": 1935,
+  "inscription": "Title; Signature; Inscriptions",
   "life_date": "American, 1862-1965",
-  "marks": "Title; Signature; Inscriptions ",
+  "markings": "\\'#3--In the Spring--Miss Ella E. McBride 1006 Lowman Bldg. Seattle. Wash. $10\\', in black ink, PULQ of mount, verso; \\'52\\', in graphite, PULC of mount, verso; \\'2\\', in blue pencil, and \\'O\\', in red pencil, PULQ of mount, verso",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "In the Spring"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.6",
-  "artist": "Xiang Shengmo",
+  "artist": "Maker: Xiang Shengmo",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2146,
   "image_width": 4363,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1597-1658",
-  "marks": "Signature; Stamps artist\\'s signature and seal, at right top center",
+  "markings": "",
   "medium": "Ink on gold-flecked paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and seal, at right top center",
   "style": "17th century",
   "text": "",
   "title": "Landscape"

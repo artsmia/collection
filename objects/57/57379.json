@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.24.7",
-  "artist": "Cathe Mueller",
+  "artist": "Artist: Cathe Mueller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition\r\n\r\nArtist has written in pencil at L.L. the edition:\r\n54/100",
   "life_date": "American, born 1950",
-  "marks": "Signature, Edition\r\n\r\nArtist has written in pencil Signed in pencil at L.L. on the print",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil at L.L. on the print",
   "style": "20th century",
   "text": "",
   "title": "Salmon Run"

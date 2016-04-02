@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.219",
-  "artist": "Utagawa Hiroshige III; Published by Tsujiokaya Bunsuke",
+  "artist": "Artist: Utagawa Hiroshige III; Publisher: Published by Tsujiokaya Bunsuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2915,
   "image_width": 1971,
+  "inscription": "On lanterns: {Masumura-rō} (name of the restaurant)",
   "life_date": "Japanese, 1843-1894",
-  "marks": "On lanterns: {Masumura-rō} (name of the restaurant {Hiroshige hitsu}",
+  "markings": "Censor: Monkey 2; publisher\\'s seal: {Tsujibun}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige hitsu}",
   "style": "19th century",
   "text": "",
   "title": "View from Kanagawa Hill"

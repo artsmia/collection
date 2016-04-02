@@ -1,6 +1,7 @@
 {
   "accession_number": "P.91.25.1",
-  "artist": "Grant Wood; AAA",
+  "artist": "Artist: Grant Wood; Publisher: AAA",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John I. Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1891-1942",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1891–1942",
+  "markings": "",
   "medium": "Hand-colored lithograph",
   "nationality": "American",
   "provenance": "John and Myrtle Coe, Bloomington, Minn.; given to MIA, 1991.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Fruits"

@@ -1,6 +1,7 @@
 {
   "accession_number": "92.124",
-  "artist": "Bretby",
+  "artist": "Maker: Bretby",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Robert C. Winton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3965,
   "image_width": 3354,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "\\'Bretby\\' \\'England\\' \\'1667\\'",
   "medium": "Earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vase"

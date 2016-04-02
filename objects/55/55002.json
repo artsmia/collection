@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,828",
-  "artist": "Georges Rouault",
+  "artist": "Artist: Georges Rouault",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1871 - 1958",
-  "marks": "Inscribed in blue ink, lower left margin <Automne  on stone: [Rouault]; in blue ink, lower right marg",
+  "inscription": "Inscribed in blue ink, lower left margin <Automne - 3e tirage - 1933 ->",
+  "life_date": "French, 1871–1958",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "H. Bérès, Paris",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on stone: [Rouault]; in blue ink, lower right margin: [Georges Rouault]",
   "style": "20th century",
   "text": "",
   "title": "Automne (Autumn)"

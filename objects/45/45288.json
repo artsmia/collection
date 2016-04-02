@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.52.1",
-  "artist": "Jacques Villon",
+  "artist": "Artist: Jacques Villon",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of John E. Andrus III",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1875 - 1963",
-  "marks": "Signature and inscription [Jacques Villon]: in graphite, LR",
+  "inscription": "Signature and inscription",
+  "life_date": "French, 1875–1963",
+  "markings": "[6/30]: in graphite, LL",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Jacques Villon]: in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Renée de trois quarts"

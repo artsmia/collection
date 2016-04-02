@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.145",
-  "artist": "Utagawa Hiroshige; Fujiokaya Hikotarō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Fujiokaya Hikotarō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2943,
   "image_width": 1081,
+  "inscription": "Yes (waka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Yes (waka) ",
+  "markings": "Censor: Kiwame; publisher\\'s seal: {Fujihiko}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "High Priest Henjō"

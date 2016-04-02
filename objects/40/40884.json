@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.62.2",
-  "artist": "Württembergische Metallwaren Fabrik (a.k.a. WMF)",
+  "artist": "Maker: Württembergische Metallwaren Fabrik (a.k.a. WMF)",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1418,
+  "inscription": "Mark",
   "life_date": "Geislingen, Germany, est. 1853",
-  "marks": "Mark ",
+  "markings": "[WMFN I/O], on handle",
   "medium": "Silverplate, gilt",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "As with Liberty & Co. of London, WMF engaged an impressive list of designers, but chose not to identify them, promoting the company name instead. This punch bowl is among the most flamboyant works appearing in the company's line, likely produced as a showpiece or for a special commission. The vessel is surrounded by intertwining tendrils, but its Germanic accents, the angular handles, the green faceted glass and its assertive presence distinguish it from the softer embellishments familiar to French Art Nouveau.",
   "title": "Ladle"

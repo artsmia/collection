@@ -1,6 +1,7 @@
 {
   "accession_number": "91.135.2",
-  "artist": "Harry Glassgold",
+  "artist": "Artist: Harry Glassgold",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Eva Gruschka",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3601,
   "image_width": 4370,
+  "inscription": "Inscription\r\n\r\nLR: [To Mother-from Harry]",
   "life_date": "American (b. Russia), born 1908",
-  "marks": "Inscription\r\n\r\nLR: [To Mother-from Harry] ",
+  "markings": "",
   "medium": "Watercolor, charcoal",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Coal Town"

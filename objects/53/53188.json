@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,434",
-  "artist": "Pieter van Schuppen; after Beaubrun",
+  "artist": "Artist: Pieter van Schuppen; Artist: after Beaubrun",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nin plate: [Beaubrun pinx]; [Van Schupen Sculpebat]",
   "life_date": "French, 1623/27 - 1702",
-  "marks": "Inscription\r\n\r\nin plate: [Beaubrun pinx]; [Van Sch ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Pierre Ignace de Braux"

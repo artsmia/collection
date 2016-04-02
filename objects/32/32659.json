@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.65",
-  "artist": "Max Pollak; Text by Theodore Dreiser; Horace Liveright, New York",
+  "artist": "Artist: Max Pollak; Author: Text by Theodore Dreiser; Publisher: Horace Liveright, New York",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American (born Czechoslovakia), 1886 - 1970",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithographic illustrations of color aquatints, letterpress; bound volume",
   "nationality": "American (born Czechoslovakia)",
   "provenance": "Ruth and Bruce Dayton, Wayzata, Minn.; given to MIA, 1991.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G280",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "My City"

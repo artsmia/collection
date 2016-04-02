@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.16",
-  "artist": "Pierre Michel Alix; Ostervald; after Jean-Baptiste Greuze",
+  "artist": "Artist: Pierre Michel Alix; Workshop: Ostervald; Artist: after Jean-Baptiste Greuze",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1762 - 1817",
-  "marks": "Signature\r\n\r\nsee Signed signed in plates in LR",
+  "inscription": "Signature\r\n\r\nsee Signed",
+  "life_date": "French, 1725–1805",
+  "markings": "",
   "medium": "Etching, color aquatint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in plates in LR",
   "style": "18th century",
   "text": "",
   "title": "The Paralytic Waited on by his Children"

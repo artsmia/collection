@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,451",
-  "artist": "Abraham Ortelius; Plantin",
+  "artist": "Artist: Abraham Ortelius; Publisher: Plantin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Flanders",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Flanders, 1527-1598",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored woodcut",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Initial O"

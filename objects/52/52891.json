@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,951",
-  "artist": "Julian Alden Weir",
+  "artist": "Artist: Julian Alden Weir",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1852 - 1919",
-  "marks": " In plate, on sheet",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "19th century",
   "text": "",
   "title": "Kitchen-Well (Masure)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "96.107.1",
-  "artist": "Paul Jenkins",
+  "artist": "Artist: Paul Jenkins",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Richard Sweet and Fay Gallus",
@@ -14,8 +15,9 @@
   "image_copyright": "© Paul Jenkins",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Date; Stamp",
   "life_date": "American, 1923-2012",
-  "marks": "Signature; Inscription; Date; Stamp LL: [Paul Jenkins] on verso, in black ink [Paul Je",
+  "markings": "Blind stamp recto, LL: <VERITABLE PAPIER D\\'ARCHES/(Illegible)>",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "Richard Sweet",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Paul Jenkins] on verso, in black ink [Paul Jenkins/\\'Phenomena Bite Metal\\'/1975] and in graphite: [Chicago/1551]",
   "style": "20th century",
   "text": "",
   "title": "Phenomena Bite Metal"

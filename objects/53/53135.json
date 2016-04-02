@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,614",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4532,
   "image_width": 2922,
+  "inscription": "LR recto, in pencil: [W.80]\r\nLL verso, in pencil: [a215]\r\n\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LR recto, in pencil: [W.80]\r\nLL verso, in pencil:  UL printed in plate: [(butterfly symbol)]; LR in p",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UL printed in plate: [(butterfly symbol)]; LR in plate, in pencil: [(butterfly symbol)]\r\n",
   "style": "19th century",
   "text": "",
   "title": "Mother and Child, No. 1"

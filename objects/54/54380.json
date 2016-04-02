@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.12.3",
-  "artist": "Philip J. von Raabe",
+  "artist": "Artist: Philip J. von Raabe",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist in memory of Richard D. Maltby",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1943",
-  "marks": "Signature; Mark in pencil: [Philip Raabe]",
+  "markings": "Watermark: <Arches>",
   "medium": "Color etching and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Philip Raabe]",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait with Moon-Eye"

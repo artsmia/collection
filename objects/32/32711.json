@@ -1,6 +1,7 @@
 {
   "accession_number": "B.98.1.1",
-  "artist": "Dixon and Smith",
+  "artist": "Maker: Dixon and Smith",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Book",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "A List of The Prices of Tin Patty Pans, Scallop Shells, Tart Pans, and Tin Plates"

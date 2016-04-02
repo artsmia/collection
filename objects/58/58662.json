@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.24.9a",
-  "artist": "Sam Gilliam",
+  "artist": "Artist: Sam Gilliam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Gilliam%2C Courtesy Steven Andersen%2C Vermillion Editions%2C Ltd.",
   "image_height": 3692,
   "image_width": 4808,
+  "inscription": "Signed, dated, numbered",
   "life_date": "American, born 1933",
-  "marks": "Signed, dated, numbered LR: [S.G. \\'80]\r\nLL: [State IX - A]",
+  "markings": "",
   "medium": "Sugar-lift etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [S.G. \\'80]\r\nLL: [State IX - A]",
   "style": "20th century",
   "text": "",
   "title": "Coffee Thyme"

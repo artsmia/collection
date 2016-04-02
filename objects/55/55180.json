@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.38",
-  "artist": "Salvator Rosa",
+  "artist": "Artist: Salvator Rosa",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian (Naples), 1615 - 1673",
-  "marks": "Signature on plate: [Salvator Rosa]",
+  "inscription": "Signature",
+  "life_date": "Italian (Naples), 1615–1673",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Salvator Rosa]",
   "style": "17th century",
   "text": "",
   "title": "Rescue of the Infant Oedipus"

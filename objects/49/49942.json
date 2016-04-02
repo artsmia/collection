@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.102.7",
-  "artist": "Bonnie Thompson Norman et al.; Robert Bly; Minnesota Center for Book Arts, Minneapolis",
+  "artist": "Artist: Bonnie Thompson Norman et al.; Author: Robert Bly; Publisher: Minnesota Center for Book Arts, Minneapolis",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Harold Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 20th century",
-  "marks": " \\\"Robert Bly\\\", in blue ink, on colophon page",
+  "markings": "",
   "medium": "Mixed media, letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Robert Bly\\\", in blue ink, on colophon page",
   "style": "20th century",
   "text": "",
   "title": "Saturday Nights in Marietta"

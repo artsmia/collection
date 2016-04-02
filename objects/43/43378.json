@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.30a,b",
-  "artist": "Robert Mapplethorpe",
+  "artist": "Maker: Robert Mapplethorpe",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Robert Mapplethorpe %2F The Robert Mapplethorpe Foundation",
   "image_height": 3866,
   "image_width": 3782,
+  "inscription": "Signature, Date, Edition, Stamp",
   "life_date": "American, 1946 - 1989",
-  "marks": "Signature, Date, Edition, Stamp LR: [ROBERT MAPPLETHORPE \\'88]\r\nLL: [AP 1/6]\r\nVERSO",
+  "markings": "VEL Studio Stamp",
   "medium": "Photolithographs; diptych",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [ROBERT MAPPLETHORPE \\'88]\r\nLL: [AP 1/6]\r\nVERSO: [PRINTED AT VERMILLION EDITIONS LTD.]",
   "style": "20th century",
   "text": "",
   "title": "Calla Lily"

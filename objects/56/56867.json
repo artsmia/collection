@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,772",
-  "artist": "Arthur B. Davies; Printed by George C. Miller",
+  "artist": "Artist: Arthur B. Davies; Printer: Printed by George C. Miller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of E. Weyhe, 1921",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1862 - 1928",
-  "marks": " not signed",
+  "markings": "",
   "medium": "Lithograph in white ink on pink cardstock",
   "nationality": "American",
   "provenance": "(Weyhe Gallery, New York, until 1921); given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "not signed",
   "style": "20th century",
   "text": "",
   "title": "Growth of Spring"

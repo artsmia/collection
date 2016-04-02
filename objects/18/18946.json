@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.139",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3563,
   "image_width": 4751,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "\\'C & I Honig [with fleur-de-lis]\\', on watermark; \\'P558\\', in pencil, LL front; \\'Ppt\\', in pencil, LR front",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study of a Parrot Tulip (Tulipa x gesneriana)"

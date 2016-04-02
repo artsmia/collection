@@ -1,6 +1,7 @@
 {
   "accession_number": "69.138",
-  "artist": "Alexandre-Gabriel Decamps",
+  "artist": "Artist: Alexandre-Gabriel Decamps",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1803 - 1860",
-  "marks": "Signature, Date [Decamps 1840]",
+  "inscription": "Signature, Date",
+  "life_date": "French, 1803–1860",
+  "markings": "",
   "medium": "Black and white chalk, estompe, white lead on brown wove paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Decamps 1840]",
   "style": "19th century",
   "text": "",
   "title": "The Siege of Clermont"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.259.4",
-  "artist": "Guy Goodwin",
+  "artist": "Artist: Guy Goodwin",
+  "classification": "Paintings",
   "continent": null,
   "country": null,
   "creditline": "Gift of Mary and Bob Mersky",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 5216,
   "image_width": 6248,
+  "inscription": "",
   "life_date": "American, born 1940",
-  "marks": " Back, LRC, in black: G. G. \\'88",
+  "markings": "",
   "medium": "Oil on linen",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Back, LRC, in black: G. G. \\'88",
   "style": "20th century",
   "text": "",
   "title": "Return to E"

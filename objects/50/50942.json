@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.55",
-  "artist": "Marcellin Gilbert Desboutin",
+  "artist": "Artist: Marcellin Gilbert Desboutin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; P.E.",
   "life_date": "French, 1823 - 1902",
-  "marks": "Signature; Mark; P.E. [M. Desboutin]",
+  "markings": "Watermark: <G> Hard Loeber;\r\nP/E: Marcel Guérin (L. suppl. 1872 b)",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[M. Desboutin]",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Edgar Degas"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.23",
-  "artist": "Al Dornisch",
+  "artist": "Artist: Al Dornisch",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3510,
   "image_width": 4902,
+  "inscription": "Signed, dated, numbered, and VEL chop mark.",
   "life_date": "American, born 1931",
-  "marks": "Signed, dated, numbered, and VEL chop mark. LR: [AL / DORNISCH / \\'78]\r\nLR: [5/35]\r\n",
+  "markings": "LR: VEL chop mark",
   "medium": "Color photolithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [AL / DORNISCH / \\'78]\r\nLR: [5/35]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Mallards"

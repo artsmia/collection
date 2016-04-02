@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.52",
-  "artist": "Master S. H. F.",
+  "artist": "Artist: Master S. H. F.",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3304,
   "image_width": 4299,
+  "inscription": "Inscription\r\nEnglish text verso",
   "life_date": "German",
-  "marks": "Inscription\r\nEnglish text verso ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Adam and Eve"

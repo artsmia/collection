@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.52",
-  "artist": "Daniele da Volterra",
+  "artist": "Artist: Daniele da Volterra",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8727,
   "image_width": 6754,
+  "inscription": "Inscription and Stamp\r\n\r\nLRC, in brown ink: [de Mich. Ang. Buona Ruota.]",
   "life_date": "Italian, 1509 - 1566",
-  "marks": "Inscription and Stamp\r\n\r\nLRC, in brown ink: [de Mi ",
+  "markings": "LRC, stamped in blue: [GV] Lugt 1223",
   "medium": "Black chalk and gray wash on laid paper",
   "nationality": "Italian",
   "provenance": "Giuseppe Vallardi, Lugt 1223 (1784-1863), Milan. Sale, Sotheby's, London, July 4, 1975, no. 38, for £550, to Moir; Alfred Moir, Santa Barbara (1975-d.2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Drapery Studies (recto); Two Sketches of Doric Capitals (verso)"

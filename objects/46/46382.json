@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,927",
-  "artist": "Samuel Arlent Edwards; after Memling",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: after Memling",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Artist, 1923",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature in pencil on plate border",
+  "inscription": "Signature",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "Front Sheet lower left: 72; Reverse sheet lower edge: Edwards, S.A., \\\"Gentelman of Bruges\\\" after Memling (Gift of S.A. Edwards, 1923) 6927",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on plate border",
   "style": "19th century",
   "text": "",
   "title": "Gentleman of Bruges"

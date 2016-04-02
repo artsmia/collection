@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.82.7",
-  "artist": "Jean de Paléologue",
+  "artist": "Artist: Jean de Paléologue",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6402,
   "image_width": 4528,
+  "inscription": "Signature",
   "life_date": "American, 1860 - 1942",
-  "marks": "Signature in LR corner (printed): [PAL]",
+  "markings": "",
   "medium": "Color lithograph, mounted on linen",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in LR corner (printed): [PAL]",
   "style": "19th century",
   "text": "",
   "title": "Loie Fuller"

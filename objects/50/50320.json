@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,749",
-  "artist": "Max Pechstein",
+  "artist": "Artist: Max Pechstein",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J. B. Neumann, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
   "image_height": 4793,
   "image_width": 3873,
+  "inscription": "",
   "life_date": "German, 1881 - 1955",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "J.B. Neumann, New York; his gift to MIA, 1941.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Wounded Man"

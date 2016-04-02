@@ -1,6 +1,7 @@
 {
   "accession_number": "71.40",
-  "artist": "Francisco Lopez",
+  "artist": "Artist: Francisco Lopez",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Spanish, born 1932",
-  "marks": "Signature\r\nsee Signed in black chalk LRC: [Fco Lopez]",
+  "markings": "",
   "medium": "Graphite and black chalk on paper",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black chalk LRC: [Fco Lopez]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Isabella"

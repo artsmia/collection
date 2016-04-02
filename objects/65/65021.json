@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.259.5",
-  "artist": "Howard Hodgkin; Printed by Solo Press, New York; Published by Bernard Jacobson Ltd.",
+  "artist": "Artist: Howard Hodgkin; Printer: Printed by Solo Press, New York; Publisher: Published by Bernard Jacobson Ltd.",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Mary and Bob Mersky",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition, Mark\r\n\r\nLRC, in pencil: [15/50]",
   "life_date": "British, born 1932",
-  "marks": "Signature, Date, Edition, Mark\r\n\r\nLRC, in pencil:  LLC, in pencil: [HH/ 1980]",
+  "markings": "Printer\\'s blindstamp: Solo Press",
   "medium": "Lithograph in beige and black with hand-coloring; diptych",
   "nationality": "British",
   "provenance": "Robert and Mary Mersky, Minneapolis; given to MIA, 2002.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "G100",
+  "signed": "LLC, in pencil: [HH/ 1980]",
   "style": "20th century",
   "text": "",
   "title": "Black Moonlight"

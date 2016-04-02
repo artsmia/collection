@@ -1,6 +1,7 @@
 {
   "accession_number": "54.28.1",
-  "artist": "Baccarat Glass Works",
+  "artist": "Maker: Baccarat Glass Works",
+  "classification": "Glass",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. C. M. Skinner in memory of her mother, Mrs. Harry Whiting",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Paperweight"

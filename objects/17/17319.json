@@ -1,6 +1,7 @@
 {
   "accession_number": "47.42",
-  "artist": "John E. Anderson",
+  "artist": "Artist: John E. Anderson",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4704,
   "image_width": 6365,
+  "inscription": "Signature",
   "life_date": "American, 1923 - 1971",
-  "marks": "Signature LL: [j.o.h.n. a.n.d.e.r.s.o.n.]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G378",
+  "signed": "LL: [j.o.h.n. a.n.d.e.r.s.o.n.]",
   "style": "20th century",
   "text": "",
   "title": "Cloud Chamber Dream"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.11.1",
-  "artist": "Kishi Ganku",
+  "artist": "Artist: Kishi Ganku",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3840,
   "image_width": 1488,
+  "inscription": "Inscription and mark\r\ninscription in black, R edge",
   "life_date": "Japanese, 1749/56 - 1838",
-  "marks": "Inscription and mark\r\ninscription in black, R edge ",
+  "markings": "seal in red, R edge",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tiger, from a Tiger and Dragon pair"

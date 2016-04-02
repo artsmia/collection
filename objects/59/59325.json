@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,131",
-  "artist": "Tomas Frantisek (Franz) Simon",
+  "artist": "Artist: Tomas Frantisek (Franz) Simon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Czech, 1877 - 1942",
-  "marks": "Signature\r\n\r\nsee Signed In pencil, below image",
+  "markings": "",
   "medium": "Color etching",
   "nationality": "Czech",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, below image",
   "style": "20th century",
   "text": "",
   "title": "Interior, Cathedral"

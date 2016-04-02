@@ -1,6 +1,7 @@
 {
   "accession_number": "93.82.3",
-  "artist": "Marsden Hartley",
+  "artist": "Artist: Marsden Hartley",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard Lewis Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5645,
   "image_width": 9456,
-  "life_date": "American, 1877-1943",
-  "marks": "Signature; Date; Title; Inscription\r\n\r\nDated and i in graphite, LR: [Marsden Hartley / Dogtown-Glouce",
+  "inscription": "Signature; Date; Title; Inscription\r\n\r\nDated and inscribed, verso: [Dogtown 1934 No 16 S-337 RC-10297]",
+  "life_date": "American, 1877–1943",
+  "markings": "\r\n",
   "medium": "Pen and black ink on paper",
   "nationality": "American",
   "provenance": "Estate of the artist, 1943; [Babcock Galleries, New York, until 1957 (sold to Hillstrom)]; Rev. Richard Lewis Hillstrom, St. Paul, 1957-93 (RLH 103); given to MIA, 1993.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Marsden Hartley / Dogtown-Gloucester]",
   "style": "20th century",
   "text": "",
   "title": "Landscape with Fence Posts and Rocks (Dogtown Common)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "44.31",
-  "artist": "Henry Bannarn",
+  "artist": "Maker: Henry Bannarn",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4163,
   "image_width": 3456,
-  "life_date": "American, 1910-1965",
-  "marks": "Signature Signed, lower right: [H. Bannarn]",
+  "inscription": "Signature",
+  "life_date": "American, 1910–1965",
+  "markings": "",
   "medium": "Watercolor with graphite",
   "nationality": null,
   "provenance": "Acquired directly from the artist, 1944.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, lower right: [H. Bannarn]",
   "style": "20th century",
   "text": "",
   "title": "The Smoker"

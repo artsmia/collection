@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.19.2",
-  "artist": "Robert Ryman; Crown Point Press, San Francisco",
+  "artist": "Artist: Robert Ryman; Publisher: Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1930",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on sheet",
+  "markings": "Watermark: <J C ?>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Etching in Four Parts, Part 2"

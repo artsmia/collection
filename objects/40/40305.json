@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.46.4",
-  "artist": "Robert Johnson; Napper &amp; Davenport",
+  "artist": "Designer: Robert Johnson; Manufacturer: Napper &amp; Davenport",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "English",
-  "marks": "Marks ",
+  "inscription": "Marks",
+  "life_date": "Birmingham, England",
+  "markings": "incised on bottom: [The \\'Cube\\' Trademark, Patent # / Made in England / Cube Teapots LTD, Leicester / Sole Manufacturers in Metal / T.W.2S / 5]",
   "medium": "Silver plate",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Sugar basin from a coffee and tea service"

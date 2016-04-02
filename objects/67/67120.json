@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.86",
-  "artist": "Jim Dine; Petersburg Press Ltd., London , Ernie Donagh",
+  "artist": "Artist: Jim Dine; Publisher: Petersburg Press Ltd., London , Ernie Donagh",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. and Mrs. Russell Cowles II",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1935",
-  "marks": "Signature; Date lower edge, center",
+  "markings": "",
   "medium": "Lithograph with handwork over half-tone images; collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "lower edge, center",
   "style": "20th century",
   "text": "",
   "title": "Picabia II (Forgot)"

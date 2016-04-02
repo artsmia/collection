@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,799",
-  "artist": "David Hockney",
+  "artist": "Artist: David Hockney",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "©David Hockney",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1937",
-  "marks": "Signature Signed in ink: [David Hockney]",
+  "markings": "",
   "medium": "Etching and aquatint in black and red inks",
   "nationality": "British",
   "provenance": "[Kasmin Gallery, London]; sold to MIA, 1966.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in ink: [David Hockney]",
   "style": "20th century",
   "text": "",
   "title": "The Hypnotist"

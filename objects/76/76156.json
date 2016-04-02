@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.1",
-  "artist": "Karel Appel",
+  "artist": "Artist: Karel Appel",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and edition",
   "life_date": "Dutch, 1921 - 2006",
-  "marks": "Signature and edition LRC, in pencil: [Appel]",
+  "markings": "LLC, in pencil: [71/200]",
   "medium": "Color lithograph",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Appel]",
   "style": "20th century",
   "text": "",
   "title": "Composition"

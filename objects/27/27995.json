@@ -1,6 +1,7 @@
 {
   "accession_number": "92.56.2",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "American, born 1949",
-  "marks": "Signature\r\nsee Signed LR, white wove: [T.L. Solien, 1982]   \r\nLL, mylar:",
+  "markings": "",
   "medium": "Lithographic crayon on white wove; oil crayon on mylar overlay",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, white wove: [T.L. Solien, 1982]   \r\nLL, mylar: [T.L. Solien, 1982]",
   "style": "20th century",
   "text": "",
   "title": "The Three Sailors"

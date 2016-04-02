@@ -1,6 +1,7 @@
 {
   "accession_number": "80.66",
-  "artist": "Circle of John Wootton",
+  "artist": "Artist: Circle of John Wootton",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Given in memory of Mr. and Mrs. Richard Carlton by their daughter, Jean",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2307,
   "image_width": 4256,
+  "inscription": "",
   "life_date": "1686 - 1765",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Racing Scene at Newmarket"

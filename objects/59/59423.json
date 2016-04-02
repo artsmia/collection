@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.10",
-  "artist": "Ján Reykdal",
+  "artist": "Artist: Ján Reykdal",
+  "classification": "Prints",
   "continent": null,
   "country": "Iceland",
   "creditline": "Gift of the First Bank System",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition\r\n\r\nsee Signed\r\nLL: [22/45 t.p. 1-\\'a]",
   "life_date": "Icelandic, born 1945",
-  "marks": "Signature; Date; Edition\r\n\r\nsee Signed\r\nLL: [22/45 in pencil, LR: [Ján Reykdal \\'81]",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "Icelandic",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [Ján Reykdal \\'81]",
   "style": "20th century",
   "text": "",
   "title": "By the Glacier I"

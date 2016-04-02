@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.81",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1937,
   "image_width": 2651,
+  "inscription": "Looking forward to spring,\r\nI\\'ve been counting the rainy days.\r\nHere comes another rain and\r\nthe grass by the road is sprouting.\r\nIt\\'s time to travel to Kusatsu.\r\n\r\nTanaoshimi no\r\nhikazu kasane te\r\nharusame ni\r\nmgumu Kusatsu no\r\ntabi no shibakusa\r\n\r\nby Shibaguchiya Okazumi",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Looking forward to spring,\r\nI\\'ve been counting the ",
+  "markings": "Censor:Kiwame\r\nPublisher:Sanoya Kihe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "\"Kusatsu\""

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,933",
-  "artist": "Otto H. Bacher",
+  "artist": "Artist: Otto H. Bacher",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift\r\nThe William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3880,
   "image_width": 5169,
+  "inscription": "",
   "life_date": "American, 1856 - 1909",
-  "marks": " In plate, on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "19th century",
   "text": "",
   "title": "Two Boats"

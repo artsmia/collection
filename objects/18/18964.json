@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.191",
-  "artist": "William Hayes",
+  "artist": "Artist: William Hayes",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "British, 1729 - 1799",
-  "marks": "Signature; Date LL: [WHayes April 1798]",
+  "markings": "",
   "medium": "Pen and ink, watercolor",
   "nationality": "British",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [WHayes April 1798]",
   "style": "18th century",
   "text": "",
   "title": "Green Winged Dove"

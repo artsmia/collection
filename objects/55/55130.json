@@ -1,6 +1,7 @@
 {
   "accession_number": "P.67.1",
-  "artist": "Otto Dix",
+  "artist": "Artist: Otto Dix",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mr. and Mrs. D. Thomas Bergen",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1891 - 1969",
-  "marks": "Signature in pencil: [Dix]",
+  "inscription": "Signature",
+  "life_date": "German, 1891–1969",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Dix]",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait with Child"

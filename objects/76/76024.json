@@ -1,6 +1,7 @@
 {
   "accession_number": "P.16,945",
-  "artist": "William Hogarth; Louis Gerard Scotin; Published by William Hogarth",
+  "artist": "Artist: William Hogarth; Engraver: Louis Gerard Scotin; Publisher: Published by William Hogarth",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "British, 1697 - 1764",
-  "marks": "\r\n\r\n ",
+  "inscription": "\r\n\r\n",
+  "life_date": "British, 1697–1764",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Plate VI, from Marriage A-La-Mode"

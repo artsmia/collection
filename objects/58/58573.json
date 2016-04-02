@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.20",
-  "artist": "Robert Cumming",
+  "artist": "Artist: Robert Cumming",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "©Robert Cumming %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 3571,
   "image_width": 2709,
+  "inscription": "Signed, dated, titled, numbered, chop mark",
   "life_date": "American, born 1943",
-  "marks": "Signed, dated, titled, numbered, chop mark LR: [Cumming 1986]\r\nLL: [APEX-OCULUS]\r\nLC: [C.T.P.",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph and offset lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Cumming 1986]\r\nLL: [APEX-OCULUS]\r\nLC: [C.T.P. 4/5]",
   "style": "20th century",
   "text": "",
   "title": "Apex Oculus"

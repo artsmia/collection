@@ -1,6 +1,7 @@
 {
   "accession_number": "83.22",
-  "artist": "Michael Mogavero",
+  "artist": "Artist: Michael Mogavero",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from The National Endowment for the Arts and Dr. and Mrs. Milton L. Bullock",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1950",
-  "marks": "Signature; Date LR: [Mogavero 81]",
+  "markings": "",
   "medium": "Ebony pencil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Mogavero 81]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

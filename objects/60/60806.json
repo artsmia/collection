@@ -1,6 +1,7 @@
 {
   "accession_number": "51.40.28",
-  "artist": "Utagawa Hiroshige; Maruya Seijirō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Seijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Margaret McMillan Webber Estate",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1716,
   "image_width": 2817,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "URC censor seals: {Mera}, {Watanabe}; LRC publisher\\'s seal: Maruya Seijirō; LRC red collector\\'s seal: 松喜 {Matsuki}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "No. 48: Seki"

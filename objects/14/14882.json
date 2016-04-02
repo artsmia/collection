@@ -1,6 +1,7 @@
 {
   "accession_number": "28.63a,b",
-  "artist": "Matthew Boulton Plate Co.",
+  "artist": "Manufacturer: Matthew Boulton Plate Co.",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. John Crosby, in memory of Mrs. Albert W. Hastings",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Marks",
   "life_date": "Sheffield, England, 1759-1842",
-  "marks": "Marks ",
+  "markings": "two sunburts and cross",
   "medium": "Sheffield plate (silver fused to copper), wood (replaced)",
   "nationality": "Sheffield, England",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Argyle"

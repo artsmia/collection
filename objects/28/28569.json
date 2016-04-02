@@ -1,6 +1,7 @@
 {
   "accession_number": "94.99.5",
-  "artist": "Michael A. Smith",
+  "artist": "Photographer: Michael A. Smith",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Christopher Cardozo",
@@ -14,8 +15,9 @@
   "image_copyright": "© Michael A. Smith",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Date; Series; Number",
   "life_date": "American, born 1942",
-  "marks": "Signature; Title; Date; Series; Number ",
+  "markings": "back center of mat: title, date and series number; front of mat below bottom edge of image: year and artist\\'s signature",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Toroweap, Arizona"

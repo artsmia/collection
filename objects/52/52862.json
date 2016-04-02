@@ -1,6 +1,7 @@
 {
   "accession_number": "P.54",
-  "artist": "Cadwallader Washburn",
+  "artist": "Artist: Cadwallader Washburn",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "100. ?/54 (lower edge, right corner); upper edge 1/52",
   "life_date": "American, 1866 - 1965",
-  "marks": "100. ?/54 (lower edge, right corner); upper edge 1 In pencil, also title",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, also title",
   "style": "19th century",
   "text": "",
   "title": "Rainbow, Porferio Diaz Park"

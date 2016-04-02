@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.238",
-  "artist": "Nicolleto Rosex Modena",
+  "artist": "Artist: Nicolleto Rosex Modena",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4811,
   "image_width": 3334,
+  "inscription": "Signature",
   "life_date": "Italian, active 1490- 1512",
-  "marks": "Signature In image - on plate",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Ambroise Firmin-Didot, L. 119; Colnaghi; Knoedler & Co., 1926.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In image - on plate",
   "style": "16th century",
   "text": "",
   "title": "St. George"

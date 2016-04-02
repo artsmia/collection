@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.199",
-  "artist": "William Lewin",
+  "artist": "Maker: William Lewin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4290,
   "image_width": 3344,
+  "inscription": "Signature; Date; Inscriptions",
   "life_date": "English, died 1795",
-  "marks": "Signature; Date; Inscriptions In LL:  W LEWIN 1789",
+  "markings": "\\'Spotted Falcon.\\', lower center recto; \\'No. 13\\', UL",
   "medium": "Gouache and watercolor on off-white wove paper.\r\nPer cat.card:  Original drawing, h.c.",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LL:  W LEWIN 1789",
   "style": "18th century",
   "text": "",
   "title": "Spotted Falcon, No. 13"

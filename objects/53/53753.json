@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.26",
-  "artist": "Sam Gilliam",
+  "artist": "Artist: Sam Gilliam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Gilliam",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "American, born 1933",
-  "marks": "Signature\r\nsee Signed in pencil: [Sam Gillam]",
+  "markings": "",
   "medium": "Screenprint with flocking",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Sam Gillam]",
   "style": "20th century",
   "text": "",
   "title": "Top Bunk"

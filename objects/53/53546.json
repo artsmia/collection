@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.158.8",
-  "artist": "Luigi Rossini",
+  "artist": "Artist: Luigi Rossini",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Margaret B. Hawks, 1984",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Yes",
   "life_date": "Italian, 1790 - 1857",
-  "marks": "Yes L.L.",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "L.L.",
   "style": "19th Century",
   "text": "",
   "title": "Avanzi del Palazzo de Cesari"

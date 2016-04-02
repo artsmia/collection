@@ -1,6 +1,7 @@
 {
   "accession_number": "96.161",
-  "artist": "Josiah Wedgwood; Wedgwood and Bentley",
+  "artist": "Maker: Josiah Wedgwood; Maker: Wedgwood and Bentley",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Carl A. Weyerhaeuser",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "British, 1730 - 1795",
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Medallion of Chaucer"

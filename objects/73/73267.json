@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,684",
-  "artist": "Attributed to Antony Jakob Goedkint; after Pietro Foglia, Italian, c. 1617-1691; Text by Hendrik Adriaan van Rheede tot Drakenstein; Published by Joannis van Someren and Joannis van Dyck",
+  "artist": "Engraver: Attributed to Antony Jakob Goedkint; Artist: after Pietro Foglia, Italian, c. 1617-1691; Author: Text by Hendrik Adriaan van Rheede tot Drakenstein; Publisher: Published by Joannis van Someren and Joannis van Dyck",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6569,
   "image_width": 8383,
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1636 - 1691",
+  "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "Dutch",
   "provenance": "Dwight and Helen Minnich, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Nati-schambu, from Hortus Indicus Malabaricus (Vol. 1)"

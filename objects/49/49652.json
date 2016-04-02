@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,923",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J.B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature and Inscription\r\nMAX BECKMANN 1912 LR corner: [Beckmann]",
+  "inscription": "Signature and Inscription\r\nMAX BECKMANN 1912",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR corner: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Omnibus"

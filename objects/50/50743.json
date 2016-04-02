@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.88",
-  "artist": "Monogrammist P.V.; After Giulio Bonasone; After Raphael Sanzio",
+  "artist": "Artist: Monogrammist P.V.; Artist: After Giulio Bonasone; Artist: After Raphael Sanzio",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian",
-  "marks": "Signature PoV",
+  "inscription": "Signature",
+  "life_date": "Italian, active 1531 – 1574",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "PoV",
   "style": "16th century",
   "text": "",
   "title": "The Pharoah's Cup"

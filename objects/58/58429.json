@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,384",
-  "artist": "Anders Zorn",
+  "artist": "Artist: Anders Zorn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4286,
   "image_width": 3241,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swedish, 1860 - 1920",
-  "marks": "Signature\r\n\r\nsee Signed [Zorn]",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Zorn]",
   "style": "19th century",
   "text": "",
   "title": "King Oscar II (Second plate)"

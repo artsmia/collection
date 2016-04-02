@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,772",
-  "artist": "Diego Rivera; Published by The Weyhe Gallery, New York",
+  "artist": "Artist: Diego Rivera; Publisher: Published by The Weyhe Gallery, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Mrs. Charles C. Bovey, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2012 Banco de M%C3%A9xico Diego Rivera Frida Kahlo Museums Trust%2C Mexico%2C D.F. %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3794,
   "image_width": 5065,
+  "inscription": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LR: [B-33-49]",
   "life_date": "Mexican, 1886 - 1957",
-  "marks": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nNumbered Signed, dated in pencil, LL: [Diego Rivera 1930]",
+  "markings": "",
   "medium": "Lithograph with yellow tone stone",
   "nationality": "Mexican",
   "provenance": "Kate Koon Bovey, Minneapolis; given to MIA, 1941.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LL: [Diego Rivera 1930]",
   "style": "20th century",
   "text": "",
   "title": "El mercado de flores"

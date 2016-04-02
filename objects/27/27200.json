@@ -1,6 +1,7 @@
 {
   "accession_number": "90.97",
-  "artist": "Lucien-Marie-Francois Metivet",
+  "artist": "Maker: Lucien-Marie-Francois Metivet",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4735,
   "image_width": 2191,
+  "inscription": "Signature; Inscription",
   "life_date": "French, 1863 - 1930",
-  "marks": "Signature; Inscription [L. Metivet], in chalk, upper right",
+  "markings": "[Lv 98>68], in pencil, verso",
   "medium": "Black chalk heightened with white chalk on white laid paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[L. Metivet], in chalk, upper right",
   "style": "19th century",
   "text": "",
   "title": "Study for the painting 'Le Destin'"

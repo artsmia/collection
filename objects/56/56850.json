@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.59.23",
-  "artist": "Various artists; Morris Gallery, New York",
+  "artist": "Artist: Various artists; Publisher: Morris Gallery, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Walter Bareiss",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4155,
   "image_width": 3618,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Type face, buff wove Rives",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "21 Etchings and Poems"

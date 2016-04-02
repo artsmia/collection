@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.12",
-  "artist": "Matsui Genshu",
+  "artist": "Artist: Matsui Genshu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9960,
   "image_width": 2768,
+  "inscription": "Inscription and mark\r\nJapanese inscription in black, LL",
   "life_date": "1752 - 1813",
-  "marks": "Inscription and mark\r\nJapanese inscription in blac ",
+  "markings": "two stamps in red, LR",
   "medium": "Ink on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Walking Tiger"

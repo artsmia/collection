@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.3.15",
-  "artist": "Léon Ruffe; after Eugène Carrière (Salon du Champs de Mars)",
+  "artist": "Artist: Léon Ruffe; Artist: after Eugène Carrière (Salon du Champs de Mars)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Gardner Teall, 1920",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 19th century",
-  "marks": "Signature In plate: [Eugene Carriere]",
+  "inscription": "Signature",
+  "life_date": "French, 1849 - 1906",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate: [Eugene Carriere]",
   "style": "19th-20th century",
   "text": "",
   "title": "Christ en croix"

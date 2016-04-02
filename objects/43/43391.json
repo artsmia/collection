@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.7",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3670,
   "image_width": 3337,
+  "inscription": "Signature, date, number, chop mark",
   "life_date": "American, born 1949",
-  "marks": "Signature, date, number, chop mark LL: [C.T.P. 10/11]\r\nLR: [T.L. Solien 1985 - 90]",
+  "markings": "LM: VEL chop mark",
   "medium": "Etching, aquatint, and color lithograph",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [C.T.P. 10/11]\r\nLR: [T.L. Solien 1985 - 90]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.54.7",
-  "artist": "Agostino d' Musi",
+  "artist": "Artist: Agostino d' Musi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1490 - 1540 (active 1514-1536)",
-  "marks": "Inscription\r\non plate: [AV] and [Ant. Sal. Exc.] ",
+  "inscription": "Inscription\r\non plate: [AV] and [Ant. Sal. Exc.]",
+  "life_date": "Italian, 1490-1540 (active 1514-1536)",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Hercules and Antaeus"

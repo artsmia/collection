@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,951",
-  "artist": "Hosoda Eiri; Published by Enomotoya Kichibei",
+  "artist": "Artist: Hosoda Eiri; Publisher: Published by Enomotoya Kichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2936,
   "image_width": 1907,
+  "inscription": "",
   "life_date": "Japanese, fl. 1790-1800",
-  "marks": " {Rekisentei Eiri ga}",
+  "markings": "Publisher\\'s seal: {Enomotoya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Rekisentei Eiri ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "(Two Women Traveling by Horse on the Foot of Mt. Fuji)"

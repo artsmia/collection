@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.11",
-  "artist": "Jasper Johns; Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Jasper Johns; Publisher: Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 5007,
   "image_width": 3744,
+  "inscription": "Signature, Date, Inscription\r\n\r\nsee Signed\r\n\r\nInscribed in pencil, LL: [artist\\'s proof]",
   "life_date": "American, born 1930",
-  "marks": "Signature, Date, Inscription\r\n\r\nsee Signed\r\n\r\nInsc Signed, dated in pencil, LR: [J. Johns / \\'62]; on ",
+  "markings": "No chop mark noted, unlike edition",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "(Margo Leavin Gallery, Los Angeles); sold to MIA, 1978.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [J. Johns / \\'62]; on stone: [J. Johns]",
   "style": "20th century",
   "text": "",
   "title": "Painting with Two Balls II"

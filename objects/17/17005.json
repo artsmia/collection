@@ -1,6 +1,7 @@
 {
   "accession_number": "44.30",
-  "artist": "Fridtjof Schroder",
+  "artist": "Artist: Fridtjof Schroder",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": null,
-  "marks": "Signature and Date LR: [F. Schroder 44]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [F. Schroder 44]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Eleanor"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.265",
-  "artist": "Jules David",
+  "artist": "Artist: Jules David",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Number; Marks\r\nsee Signed\r\nin red ink, LL recto: [Le 24 Juin 1885]\r\nin pencil, recto: [For Plate 2222; June 1885, Ast]",
   "life_date": "French, 1808 - 1892",
-  "marks": "Signature; Date; Number; Marks\r\nsee Signed\r\nin red in red ink LL: [Jules David]",
+  "markings": "in ink, verso: [No 2222; 24 Juin 1885.] \r\nother notes in pencil, verso",
   "medium": "Watercolor and gouache over graphite",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in red ink LL: [Jules David]",
   "style": "19th century",
   "text": "",
   "title": "Two Women in a Garden"

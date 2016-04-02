@@ -1,6 +1,7 @@
 {
   "accession_number": "77.2.2",
-  "artist": "WE or WF",
+  "artist": "Artist: WE or WF",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Given in memory of Mrs. Betty Bean Flinsch by her children",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4486,
   "image_width": 4838,
+  "inscription": "",
   "life_date": "English (name and dates unknown)",
-  "marks": " ",
+  "markings": "Marks\r\n\r\nFully marked on handle.  Lion passant, sovereign\\'s head, and maker\\'s mark on foot ring and on lip ring.",
   "medium": "Silver, glass",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Jug in the form of an Askos"

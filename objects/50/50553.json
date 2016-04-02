@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,811",
-  "artist": "Félix Bracquemond",
+  "artist": "Artist: Félix Bracquemond",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Stamp",
   "life_date": "French, 1833 - 1914",
-  "marks": "Signature and Stamp Collector\\'s pencil signature recto (Edouard About)",
+  "markings": "Ph. Burty, red stamp recto (L. 413)",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "Edouard About, Ph. Burty (L.413)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Collector\\'s pencil signature recto (Edouard About)",
   "style": "19th century",
   "text": "",
   "title": "Le Canard"

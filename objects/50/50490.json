@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.294",
-  "artist": "Jacques Beurdeley",
+  "artist": "Artist: Jacques Beurdeley",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark, Watermark",
   "life_date": "French, 1874 - 1934",
-  "marks": "Mark, Watermark ",
+  "markings": "Watermarks: C.H. Wittmann\r\n\r\nCollector\\'s marks: blurred violet stamp, verso",
   "medium": "Etching, drypoint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Casa di Camello"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.7",
-  "artist": "St. Julian Fishburne",
+  "artist": "Artist: St. Julian Fishburne",
+  "classification": "Drawings",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and date",
   "life_date": "American, born 1927",
-  "marks": "Signature and date LLC, in pencil: [St. Julian Fishburne 61]",
+  "markings": "",
   "medium": "Charcoal on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in pencil: [St. Julian Fishburne 61]",
   "style": "20th century",
   "text": "",
   "title": "Seated Female Nude"

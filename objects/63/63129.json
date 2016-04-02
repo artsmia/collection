@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.239",
-  "artist": "Jasper Johns; Published by Brooke Alexander Editions, New York",
+  "artist": "Artist: Jasper Johns; Publisher: Published by Brooke Alexander Editions, New York",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Mary and Bob Mersky",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 2712,
   "image_width": 1960,
+  "inscription": "Signature, Date, Edition and Chop Mark\r\n\r\nsee Signed\r\n\r\nNumbered LLC below image, in pencil: [33/225]",
   "life_date": "American, born 1930",
-  "marks": "Signature, Date, Edition and Chop Mark\r\n\r\nsee Sign Signed, dated LRC below image, in pencil: [Jasper ",
+  "markings": "ULAE blindstamp",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Mary and Bob Mersky, Minneapolis; given to MIA, 2002.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated LRC below image, in pencil: [Jasper Johns / \\'85 - \\'91]",
   "style": "20th century",
   "text": "",
   "title": "Summer (Blue)"

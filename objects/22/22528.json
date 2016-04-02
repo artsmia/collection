@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.234",
-  "artist": "Eisen; Published by Takenouchi Magohachi",
+  "artist": "Artist: Eisen; Publisher: Published by Takenouchi Magohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1888,
   "image_width": 2818,
+  "inscription": "On edge: English title",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": "On edge: English title {Keisai ga}",
+  "markings": "censor seal inside flag: {kiwame}; publisher\\'s seal: {Takenouchi han}\r\n",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Keisai ga}",
   "style": "19th century",
   "text": "",
   "title": "No. 06, Ageo Station: The Kamo Shrine"

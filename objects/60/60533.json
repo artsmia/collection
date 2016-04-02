@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,721",
-  "artist": "Utagawa Hiroshige; Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:April 1858\r\nPublisher:Tsutaya Kichizo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Mt. Fuji Seen from Shichirigahama Beach in Sagami Province"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.119a,b",
-  "artist": "George Wicks",
+  "artist": "Maker: George Wicks",
+  "classification": "Metalwork",
   "continent": null,
   "country": "England",
   "creditline": "Given in memory of Olivia Carpenter Coan by her family",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"1727\\\", incised, on bottom",
   "life_date": "English",
-  "marks": "\\\"1727\\\", incised, on bottom ",
+  "markings": "\\\"M\\\", \\\"GW [intertwined]\\\", coat of arms and lion, stamped, on bottom",
   "medium": "Silver",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Loving cup with cover"

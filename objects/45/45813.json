@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.17",
-  "artist": "Paul Gavarni (Sulpice-Guillaume Chevalier)",
+  "artist": "Artist: Paul Gavarni (Sulpice-Guillaume Chevalier)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds of John E. Andrus III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2852,
   "image_width": 1983,
+  "inscription": "Signature, Date",
   "life_date": "French, 1804 - 1866",
-  "marks": "Signature, Date [g.f. 53], LR",
+  "markings": "",
   "medium": "Black and red chalks heightened with watercolor and gouache",
   "nationality": "French",
   "provenance": "Dr. Voillemont\r\nPrivate collection, Paris\r\n[W.M. Brady & Co., New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[g.f. 53], LR",
   "style": "19th century",
   "text": "",
   "title": "Å la recherche d'une position sociale"

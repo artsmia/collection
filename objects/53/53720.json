@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.12.2",
-  "artist": "Jean-Charles Delafosse",
+  "artist": "Artist: Jean-Charles Delafosse",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from Barbara and Charles DeLaittre in memory of Mrs. Arnett Leslie",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\n\r\nsee Signed",
   "life_date": "French, 1734 - 1789",
-  "marks": "Signature and Mark\r\n\r\nsee Signed inscribed in plate",
+  "markings": "Watermark: nine grapes",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "inscribed in plate",
   "style": "18th century",
   "text": "",
   "title": "Charity and Humility"

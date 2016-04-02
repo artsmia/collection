@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,364",
-  "artist": "Sir Robert Strange",
+  "artist": "Artist: Sir Robert Strange",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "English, 1721 - 1792",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Medallion Portrait of Himself"

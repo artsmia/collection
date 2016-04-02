@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.90",
-  "artist": "Edward Ruscha; Published by Tamarind Lithography Workshop, Los Angeles; Printed by Tamarind Lithography Workshop, Los Angeles",
+  "artist": "Artist: Edward Ruscha; Publisher: Published by Tamarind Lithography Workshop, Los Angeles (now Albuquerque, N.M.); Printer: Printed by Tamarind Lithography Workshop, Los Angeles (now Albuquerque, N.M.)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "© Ed Ruscha",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark\r\n\r\n",
   "life_date": "American, born 1937",
-  "marks": "Signature; Date; Mark\r\n\r\n Signed and dated in pencil LL: [E. Ruscha 1969]",
+  "markings": "Workshop chop mark LL; prnter\\'s chop mark LR; workshop number in pencil, verson; watermark: symbols\r\n",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Marguerite and Russell Cowles, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil LL: [E. Ruscha 1969]",
   "style": "20th century",
   "text": "",
   "title": "Marble, Olive"

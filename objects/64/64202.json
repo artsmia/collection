@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.677",
-  "artist": "Utagawa Hiroshige; Koshimuraya Heisuke",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4792,
   "image_width": 3160,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige hitsu",
+  "markings": "Censor:kai,Ox12\r\nPublisher:Koshihei\r\nCarver:Horitake(Yokokawa Takejiro_)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige hitsu",
   "style": "19th century",
   "text": "",
   "title": "\"Bingo--Kannon Temple at Abuto\""

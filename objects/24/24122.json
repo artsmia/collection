@@ -1,6 +1,7 @@
 {
   "accession_number": "83.17a,b",
-  "artist": "Jedd Garet",
+  "artist": "Artist: Jedd Garet",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from The National Endowment for the Arts and Anne S. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1955",
-  "marks": "Signature\r\n\r\nsee Signed on verso: [Jedd Garet]",
+  "markings": "",
   "medium": "Charcoal, colored pencil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on verso: [Jedd Garet]",
   "style": "20th century",
   "text": "",
   "title": "Tossing and Turning"

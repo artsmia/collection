@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.85",
-  "artist": "Utagawa Kuniyoshi",
+  "artist": "Artist: Utagawa Kuniyoshi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1680,
   "image_width": 2919,
+  "inscription": "2 poems(kyo_ka?); right one by Ryu_ka-en Zuitan, left by Ryu_o_tei Kaya",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "2 poems(kyo_ka?); right one by Ryu_ka-en Zuitan, l Ko_cho_ro_ Kuniyoshuga",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ko_cho_ro_ Kuniyoshuga",
   "style": "19th century",
   "text": "",
   "title": "(Warrior and Woman with Monkey Mask)"

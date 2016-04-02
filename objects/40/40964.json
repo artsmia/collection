@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.132",
-  "artist": "Unknown French; Bonwit Teller, New York City",
+  "artist": "Designer: Unknown French; Retailer: Bonwit Teller, New York City",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "[MMR] on front",
   "medium": "Brass, satin",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G263",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Purse"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.216",
-  "artist": "Utagawa Hiroshige; Kawaguchiya Shōzō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Kawaguchiya Shōzō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2738,
   "image_width": 952,
+  "inscription": "poem(waka) see 81.133.181",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "poem(waka) see 81.133.181 Hiroshige ga",
+  "markings": "Publisher:Kawasho_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Pounding Silk in Settsu Province"

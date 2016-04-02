@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.111",
-  "artist": "Yoshimura Ko_iitsu",
+  "artist": "Artist: Yoshimura Ko_iitsu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3379,
   "image_width": 4421,
+  "inscription": "11 haiku poems",
   "life_date": "Japanese, 1818 - 1874",
-  "marks": "11 haiku poems Ko_itsu",
+  "markings": "\\\"Ko_itsu\\\" seal in red\r\n\\\"Ushi no haru\\\"(Spring of the year of Ox)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ko_itsu",
   "style": "19th century",
   "text": "",
   "title": "(Oxen)"

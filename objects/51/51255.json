@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,224",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signed on stone:  Pennell Miraflores",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signed on stone:  Pennell Miraflores In pencil in lower margin:  Jo Pennell; also on st",
+  "markings": "Water: FABRIANO (ITALY)",
   "medium": "Transfer lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  Jo Pennell; also on stone",
   "style": "20th century",
   "text": "",
   "title": "Early Morning, Miraflores"

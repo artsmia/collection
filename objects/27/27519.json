@@ -1,6 +1,7 @@
 {
   "accession_number": "91.169.1",
-  "artist": "Edward Windsor Kemble",
+  "artist": "Maker: Edward Windsor Kemble",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ronald M. Koch",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2718,
   "image_width": 4332,
+  "inscription": "Signature; Inscriptions",
   "life_date": null,
-  "marks": "Signature; Inscriptions [Kemble] lower right, recto",
+  "markings": "[Original by Kemble, signed and published in \\'Puck\\'] in ink, top, verso; [E.W. Kemble/Some testimonials from the/Indiana Press/July 27, 1907] [Some newspaper comments on/our Vice Presidents] in graphite, lower left, verso",
   "medium": "Pen and black ink on off-white wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Kemble] lower right, recto",
   "style": "20th century",
   "text": "",
   "title": "Political Caricatures"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,213",
-  "artist": "Thomas Moran; Cassell &amp; Co., Ltd.",
+  "artist": "Artist: Thomas Moran; Publisher: Cassell &amp; Co., Ltd.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1837 - 1926",
-  "marks": " In plate\r\n",
+  "markings": "",
   "medium": "Etching with roulette and drypoint",
   "nationality": "American",
   "provenance": "George A. Goddard, Boston",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate\r\n",
   "style": "19th century",
   "text": "",
   "title": "A Tower of Cortez -- Mexico"

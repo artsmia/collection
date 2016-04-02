@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,002",
-  "artist": "Francis Seymour Haden; Frederick Goulding",
+  "artist": "Artist: Francis Seymour Haden; Printer: Frederick Goulding",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1703,
   "image_width": 2534,
+  "inscription": "Signature",
   "life_date": "British, 1818-1910",
-  "marks": "Signature in pencil",
+  "markings": "",
   "medium": "Mezzotint with drypoint (?)",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil",
   "style": "19th century",
   "text": "",
   "title": "Grayling Fishing"

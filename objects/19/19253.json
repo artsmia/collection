@@ -1,6 +1,7 @@
 {
   "accession_number": "66.43.2",
-  "artist": "Francesco Fanelli (1577-after 1641)",
+  "artist": "Artist: Francesco Fanelli (1577-after 1641)",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "1577-after 1641",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Episode on the Flight into Egypt"

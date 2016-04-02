@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.220",
-  "artist": "Utagawa Hiroshige; Ezakiya Kichibei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Ezakiya Kichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1831,
   "image_width": 2771,
+  "inscription": "Unread English note on edge",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Unread English note on edge {Hiroshige ga}",
+  "markings": "Red artist\\'s seal: {Ichiryūsai}; publisher\\'s seal: {Ekichi}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "Suruga Bank of Ōi River at Shimada"

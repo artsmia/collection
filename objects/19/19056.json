@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.113",
-  "artist": "School of Maria Sibylla Merian",
+  "artist": "Artist: School of Maria Sibylla Merian",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2964,
   "image_width": 4266,
+  "inscription": "Mark and Inscription\r\n\r\nin pencil, LL front: [P185]; in pencil, LR front; [PExx]\r\n\r\n\r\n",
   "life_date": "German, 1647-1717",
-  "marks": "Mark and Inscription\r\n\r\nin pencil, LL front: [P185 ",
+  "markings": "Watermark: <D>\r\n",
   "medium": "Watercolor",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Basket of Flowers"

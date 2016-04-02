@@ -1,6 +1,7 @@
 {
   "accession_number": "P.43",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dundwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3601,
   "image_width": 4740,
+  "inscription": "In pencil lower margin:  The Great Mill, Garry (sic) - Illinois United States  Work in America - Steel at Garry (sic)",
   "life_date": "American, 1860 - 1926",
-  "marks": "In pencil lower margin:  The Great Mill, Garry (si In pencil in lower margin:  Jo Pennell",
+  "markings": "water: MBM (FRANCE) INGRES D\\'ARCHES",
   "medium": "Transfer lithograph\r\n",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  Jo Pennell",
   "style": "20th century",
   "text": "",
   "title": "The Big Mill, Gary, Indiana"

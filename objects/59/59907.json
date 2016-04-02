@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.272.33",
-  "artist": "Karel Appel",
+  "artist": "Artist: Karel Appel",
+  "classification": "Paintings",
   "continent": null,
   "country": null,
   "creditline": "Gift of George W. Rickey",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Karel Appel %2F Artists Rights Society %28ARS%29%2C New York%2C NY",
   "image_height": 2781,
   "image_width": 5244,
+  "inscription": "",
   "life_date": "Dutch, 1921 - 2006",
-  "marks": " LRC, in black: Appel",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in black: Appel",
   "style": "20th century",
   "text": "",
   "title": "In Mini, Blue Face"

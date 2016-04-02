@@ -1,6 +1,7 @@
 {
   "accession_number": "77.22.75.1",
-  "artist": "GV; BB",
+  "artist": "Artist: GV; Artist: BB",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Philip L. Baldwin",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5422,
   "image_width": 4823,
+  "inscription": "",
   "life_date": "Italian (name and dates unknown)",
-  "marks": " ",
+  "markings": "",
   "medium": "Silver",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Candlestick, one of a pair"

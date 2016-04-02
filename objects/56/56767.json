@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,093",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Inscription\r\n\r\nsee Signed\r\n\r\nat LL margin, in pencil: [To Mr. Philip Little]; Title noted in pencil by artist at LL margin: [Barranquilla, Colombia S.A.]",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature; Title; Inscription\r\n\r\nsee Signed\r\n\r\nat  plate at LL: [Philip Kappel]; in pencil at LR marg",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "plate at LL: [Philip Kappel]; in pencil at LR margin: [Philip Kappel]",
   "style": "20th century",
   "text": "",
   "title": "Barranquilla, Colombia, S.A"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,080",
-  "artist": "Edmand T. Montgomery",
+  "artist": "Artist: Edmand T. Montgomery",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature On sheet",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "20th century",
   "text": "",
   "title": "Severance Hall from the Promenade"

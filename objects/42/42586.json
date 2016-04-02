@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.65.1",
-  "artist": "John Martin; Published by Septimus Prowett, London",
+  "artist": "Artist: John Martin; Publisher: Published by Septimus Prowett, London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3538,
   "image_width": 4940,
+  "inscription": "",
   "life_date": "British, 1789 - 1854",
-  "marks": " ",
+  "markings": "",
   "medium": "Mezzotint and etching",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Eve at the Fountain"

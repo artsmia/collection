@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.10",
-  "artist": "Kubota Beisen",
+  "artist": "Artist: Kubota Beisen",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3746,
   "image_width": 2550,
+  "inscription": "{Meiji sanjūnen Hinoto tori gantan} (January 1st of the Year of Rooster, 1901)",
   "life_date": "Japanese, 1852 - 1906",
-  "marks": "{Meiji sanjūnen Hinoto tori gantan} (January 1st  {Beisen shihistu}",
+  "markings": "Red artist\\'s seal: {Beisen}; published and printed by Akiyama Buemon; publisher\\'s seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Beisen shihistu}",
   "style": "20th century",
   "text": "",
   "title": "(Cock and hen)"

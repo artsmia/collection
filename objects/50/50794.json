@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,418",
-  "artist": "Pierre Puvis de Chavannes",
+  "artist": "Artist: Pierre Puvis de Chavannes",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Edward A. Foster, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5098,
   "image_width": 3168,
+  "inscription": "Signature",
   "life_date": "French, 1824 - 1898",
-  "marks": "Signature Signature in pencil",
+  "markings": "",
   "medium": "Lithograph in brown ink",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in pencil",
   "style": "19th century",
   "text": "",
   "title": "Study of a Woman"

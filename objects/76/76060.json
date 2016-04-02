@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,399",
-  "artist": "F. Ragot; after Pierre Mariette Le Fils; Published by Gregoire Huret",
+  "artist": "Engraver: F. Ragot; Artist: after Pierre Mariette Le Fils; Publisher: Published by Gregoire Huret",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": "\r\n\r\n ",
+  "inscription": "\r\n\r\n",
+  "life_date": "French, 1634-1716",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "La Veüe, from The Five Senses"

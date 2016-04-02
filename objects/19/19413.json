@@ -1,6 +1,7 @@
 {
   "accession_number": "69.11.1",
-  "artist": "Attributed to Giacinto Brandi",
+  "artist": "Artist: Attributed to Giacinto Brandi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Dr. Alfred Bader",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5202,
   "image_width": 3649,
+  "inscription": "Signature",
   "life_date": "Italian (Roman), 1623 - 1691",
-  "marks": "Signature [Giacinto Brandi] in brown ink, but not the same p",
+  "markings": "",
   "medium": "Pen and brown ink and wash over traces of black chalk",
   "nationality": "Italian",
   "provenance": "Unidentified, not in Lugt",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Giacinto Brandi] in brown ink, but not the same pen point used as in the drawing",
   "style": "17th century",
   "text": "This methodically drawn, detailed design was probably a contract drawing, executed by the artist as the final modello for approval by the patron before painting on the project was begun. The airy, brightly lit scene of cherubs floating around the Holy Ghost probably decorated the ceiling of a chapel.",
   "title": "The Holy Ghost"

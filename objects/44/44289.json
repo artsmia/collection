@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.31.9",
-  "artist": "Carol Summers",
+  "artist": "Artist: Carol Summers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Inscription\r\n\r\nedition and title in graphite, LL: [233/250 Pass 5420]",
   "life_date": "American, born 1925",
-  "marks": "Signature, Title, Inscription\r\n\r\nedition and title in graphite, LR: [Carol Summers]",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Carol Summers]",
   "style": "20th century",
   "text": "",
   "title": "Pass 5420"

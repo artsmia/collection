@@ -1,6 +1,7 @@
 {
   "accession_number": "88.52.2",
-  "artist": "Janet Scudder",
+  "artist": "Artist: Janet Scudder",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Joann W. O'Connell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5616,
   "image_width": 3535,
+  "inscription": "Signature",
   "life_date": "American, 1869-1940",
-  "marks": "Signature in base on back: [Janet Scudder]",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in base on back: [Janet Scudder]",
   "style": "20th century",
   "text": "",
   "title": "Miniature of 'Frog Fountain'"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.61",
-  "artist": "Eileen Mayo; Text by Serge Lifar , et al.; Sacheverell Sitwell; C. W. Beaumont, London",
+  "artist": "Artist: Eileen Mayo; Author: Text by Serge Lifar , et al.; Translator: Sacheverell Sitwell; Publisher: C. W. Beaumont, London",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithographic illustrations and text",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Serge Lifar"

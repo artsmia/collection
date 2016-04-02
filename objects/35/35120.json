@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.212.2",
-  "artist": "Frank Stella; Published by Gemini G.E.L., Los Angeles",
+  "artist": "Artist: Frank Stella; Publisher: Published by Gemini G.E.L., Los Angeles",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown in memory of Deborah Brookins-Brown Pritchett",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Stella %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 1834,
   "image_width": 2512,
+  "inscription": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LR: [38/75]\r\n",
   "life_date": "American, born 1936",
-  "marks": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered Signed and dated in pencil, LR: [F. Stella \\'70]",
+  "markings": "",
   "medium": "Lithograph in silver ink",
   "nationality": "American",
   "provenance": "Allen Brookins-Brown, Minneapolis, until 2001; gave to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [F. Stella \\'70]",
   "style": "20th century",
   "text": "",
   "title": "Casa Cornu, from the Aluminum Series"

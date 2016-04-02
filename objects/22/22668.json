@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.79",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1344,
   "image_width": 2941,
+  "inscription": "Right: kyōka titled {Imado no yūkei} (Sunset at Imado); middle: kyōka untitled; left: kyōka titled {Sumida no miyakodori} (Gulls at Sumida)\r\n",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Right: kyōka titled {Imado no yūkei} (Sunset at I ",
+  "markings": "",
   "medium": "From a woodblock printed book; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Crane and Pine Field at Shirahige, Taya at Hashiba"

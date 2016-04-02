@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.141",
-  "artist": "Okumura Masanobu",
+  "artist": "Artist: Okumura Masanobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2875,
   "image_width": 486,
+  "inscription": "",
   "life_date": "Japanese, 1686 - 1764",
-  "marks": " Ho_getsudo_ Tancho_sai Okumura Bunkaku Masanibu Ba",
+  "markings": "Tancho_sai seal",
   "medium": "Woodblock print (sumizuri-e); ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ho_getsudo_ Tancho_sai Okumura Bunkaku Masanibu Baio_ ga",
   "style": "18th century",
   "text": "",
   "title": "Shōki the Demon Queller"

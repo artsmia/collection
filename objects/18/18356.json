@@ -1,6 +1,7 @@
 {
   "accession_number": "61.13",
-  "artist": "Alexander Brook",
+  "artist": "Artist: Alexander Brook",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Margaret Washburn Hunt",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4655,
   "image_width": 3876,
+  "inscription": "Signature and Date",
   "life_date": "American, 1898-1980",
-  "marks": "Signature and Date Signed LR: [A. Brook - 1928]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed LR: [A. Brook - 1928]",
   "style": "20th century",
   "text": "",
   "title": "Vase of Flowers"

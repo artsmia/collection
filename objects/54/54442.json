@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.19",
-  "artist": "Paul Gauguin; Printed by Pola Gauguin; Published by Pola Gauguin",
+  "artist": "Artist: Paul Gauguin; Printer: Printed by Pola Gauguin; Publisher: Published by Pola Gauguin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Julia B. Bigelow Fund by John Bigelow",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5258,
   "image_width": 3464,
+  "inscription": "In pencil, LL: Paul Gauguin fait. | Title inscribed on the block, UC: NOA NOA",
   "life_date": "French, 1848 - 1903",
-  "marks": "In pencil, LL: Paul Gauguin fait. | Title inscribe In pencil, LR: Pola Gauguin imp. | Artist monogram",
+  "markings": "Numbered in pencil, UL: No. 71",
   "medium": "Woodcut on China paper",
   "nationality": "French",
   "provenance": "[Paul Proute, Paris, until 1975; sold, May 14, for Fr 8,540 to MIA].",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, LR: Pola Gauguin imp. | Artist monogram on the block, UC: PGO",
   "style": "20th century",
   "text": "",
   "title": "Fragrant Scent"

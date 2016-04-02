@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.135",
-  "artist": "Maruyama Ōju",
+  "artist": "Artist: Maruyama Ōju",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3324,
   "image_width": 4516,
+  "inscription": "26 haiku poems about autumn",
   "life_date": "Japanese, 1777 - 1815",
-  "marks": "26 haiku poems about autumn O_ju, Yu_? ho(helped by Yu_?, an unconfirmed artis",
+  "markings": "\\\"Takezawa Yu_?\\\" sealed LR\r\n\\\"O_ju\\\" sealed LL",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "O_ju, Yu_? ho(helped by Yu_?, an unconfirmed artist)",
   "style": "19th century",
   "text": "",
   "title": "Moonlight Landscape"

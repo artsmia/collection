@@ -1,6 +1,7 @@
 {
   "accession_number": "65.23.1",
-  "artist": "Thomas P. Anshutz",
+  "artist": "Artist: Thomas P. Anshutz",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2509,
   "image_width": 1866,
+  "inscription": "Mark; Inscription\r\n\r\n[Daniels 9302] in pencil, verso",
   "life_date": "American, 1851 - 1912",
-  "marks": "Mark; Inscription\r\n\r\n[Daniels 9302] in pencil, ver ",
+  "markings": "Watermark: PL BAS",
   "medium": "Charcoal on cream laid paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Standing Male Nude"

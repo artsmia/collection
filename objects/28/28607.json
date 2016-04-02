@@ -1,6 +1,7 @@
 {
   "accession_number": "95.114.1",
-  "artist": "Julio Fábres Rivas",
+  "artist": "Artist: Julio Fábres Rivas",
+  "classification": "Drawings",
   "continent": "South America",
   "country": "Chile",
   "creditline": "Gift of Julio Fábres Rivas",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5183,
   "image_width": 3660,
+  "inscription": "Signature; Date\r\nsee Signed",
   "life_date": "Chilean, born 1928",
-  "marks": "Signature; Date\r\nsee Signed LR in graphite: [J. FABRES R.-95]",
+  "markings": "",
   "medium": "Colored chalk on white wove",
   "nationality": "Chilean",
   "provenance": "Gift of the artist, 1995.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in graphite: [J. FABRES R.-95]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "61.55.15",
-  "artist": "Paul de Lamerie",
+  "artist": "Artist: Paul de Lamerie",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3458,
   "image_width": 3614,
+  "inscription": "Mark",
   "life_date": "English (born Holland), 1688-1751",
-  "marks": "Mark ",
+  "markings": "Mark\r\n\r\nMaker\\'s mark (sterling mark registered March 17, 1733) and lion passant on underside.",
   "medium": "Silver",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "George II",
   "text": "",
   "title": "Cream pitcher"

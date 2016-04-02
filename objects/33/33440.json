@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.68",
-  "artist": "Martin Knoller",
+  "artist": "Artist: Martin Knoller",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\nLLC, in pencil: untranslated inscription",
   "life_date": "Austrian, 1725 - 1804",
-  "marks": "Inscription\r\n\r\nLLC, in pencil: untranslated inscri ",
+  "markings": "",
   "medium": "Pen and brown ink and gray wash on laid paper",
   "nationality": "Austrian",
   "provenance": "Richard P. Wunder, New York and La Jolla, California (until 1976; his sale, Christie's, London, July 7, 1976, part of no. 50, as by F. Fischetti, for £150, to Moir); Alfred Moir, Santa Barbara (1976-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Glorification of Saint Matthew"

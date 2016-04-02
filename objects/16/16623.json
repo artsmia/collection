@@ -1,6 +1,7 @@
 {
   "accession_number": "42.23",
-  "artist": "Ralph White, Jr.",
+  "artist": "Artist: Ralph White, Jr.",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Local Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, born 1921",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "First Snowfall"

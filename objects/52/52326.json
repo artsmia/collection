@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.17",
-  "artist": "R. H. Atkinson",
+  "artist": "Artist: R. H. Atkinson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1785 - 1851",
-  "marks": "Signature in plate",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate",
   "style": "19th century",
   "text": "",
   "title": "U. S. Post Office at Minneapolis"

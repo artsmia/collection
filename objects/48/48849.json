@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.76",
-  "artist": "Käthe Kollwitz",
+  "artist": "Artist: Käthe Kollwitz",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Stanley H. Brackett in memory of his wife, Lois Martin Brackett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, 1867-1945",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Listeners"

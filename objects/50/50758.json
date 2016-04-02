@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,934",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature and Inscription\r\nInscribed: [memory of B Signed in plate",
+  "inscription": "Signature and Inscription\r\nInscribed: [memory of Bar ham-Couet, Kent. FB aquatint from a sketch by Mr.s E.V.B.]",
+  "life_date": "French, 1847-1898",
+  "markings": "",
   "medium": "Etching, aquatint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in plate",
   "style": "19th century",
   "text": "",
   "title": "La Dame aux Cygnes"

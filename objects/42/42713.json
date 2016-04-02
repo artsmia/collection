@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.13",
-  "artist": "Michel Aubert (?); after Antoine Watteau",
+  "artist": "Artist: Michel Aubert (?); Artist: after Antoine Watteau",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3973,
   "image_width": 4746,
-  "life_date": "French, 1700/04 - 1757",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1684 - 1721",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "Prouté",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Fêtes au Dieu Pan"

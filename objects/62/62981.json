@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.10",
-  "artist": "Tony Johannot",
+  "artist": "Artist: Tony Johannot",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from Janet and Winton Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2228,
   "image_width": 1826,
+  "inscription": "Signature and Date",
   "life_date": "French, 1803 - 1852",
-  "marks": "Signature and Date LLC, in brown: [Tony Johannot . 1829]",
+  "markings": "",
   "medium": "Watercolor with gum arabic and heightening",
   "nationality": "French",
   "provenance": "Charles Nodier, 1829; thence by descent; Molly Klobe/Chamberlain Gallery, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in brown: [Tony Johannot . 1829]",
   "style": "19th century",
   "text": "",
   "title": "Leila, Hassan and the Giaour"

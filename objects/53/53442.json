@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,838",
-  "artist": "William B. Closson; after George Fuller",
+  "artist": "Artist: William B. Closson; Artist: after George Fuller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Miss A. G. Latham, 1943",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1848 - 1926",
-  "marks": "Signature on sheet",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "19th century",
   "text": "",
   "title": "Psyche"

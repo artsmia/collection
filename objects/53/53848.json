@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.65",
-  "artist": "James Loftus",
+  "artist": "Artist: James Loftus",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John W. Ittmann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title, Number, Signature, Date\r\n\r\n",
   "life_date": "American, born 1954",
-  "marks": "Title, Number, Signature, Date\r\n\r\n In pencil: [James Loftus]",
+  "markings": "",
   "medium": "Drypoint, white wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [James Loftus]",
   "style": "20th century",
   "text": "",
   "title": "Pine Ridge Winter"

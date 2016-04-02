@@ -1,6 +1,7 @@
 {
   "accession_number": "B.94.3.2",
-  "artist": "Claude Flight; Text by Claude Flight; John Lane The Bodley Head, Ltd. , London",
+  "artist": "Artist: Claude Flight; Author: Text by Claude Flight; Publisher: John Lane The Bodley Head, Ltd. , London",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "British, 1881 - 1955",
-  "marks": " ",
+  "markings": "",
   "medium": "Illustrations; letterpress",
   "nationality": "British",
   "provenance": "[Sims-Reed Rare Books, London]; sold to MIA, 1994.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Lino-cuts:  A Hand-book of Linoleum-Cut Colour Printing"

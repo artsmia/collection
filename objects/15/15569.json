@@ -1,6 +1,7 @@
 {
   "accession_number": "32.21.12",
-  "artist": "Benjamin Burt",
+  "artist": "Maker: Benjamin Burt",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Mark",
   "life_date": "American, 1729-1805",
-  "marks": "Mark ",
+  "markings": "maker\\'s mark stamped to right and left of handle: [Benjamin Burt] with italic capitals in cartouche\r\n\r\n",
   "medium": "Silver",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tankard"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.2.1",
-  "artist": "Ulf Erikkson",
+  "artist": "Artist: Ulf Erikkson",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swedish, born 1942",
-  "marks": "Signature\r\n\r\nsee Signed in pencil, LR",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR",
   "style": "20th century",
   "text": "",
   "title": "Landscape (with Lane)"

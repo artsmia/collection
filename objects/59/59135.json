@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.64.2",
-  "artist": "Scott Sandell",
+  "artist": "Artist: Scott Sandell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2717,
   "image_width": 3851,
+  "inscription": "Signed, Dated, and Chop Mark",
   "life_date": "American, born 1953",
-  "marks": "Signed, Dated, and Chop Mark LC: [Sandell 78]\r\nLC: VEL Chop Mark",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [Sandell 78]\r\nLC: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

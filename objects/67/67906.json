@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.57",
-  "artist": "Kitagawa Utamaro; Published by Tsutaya Jūzaburō",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Tsutaya Jūzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2742,
   "image_width": 1861,
+  "inscription": "kyo_ka\r\n\r\nAdmiring the bloom of the evening ground\r\nArranged on the Flower-fan\r\nPeople will forget\r\nBecoming intimate\r\nAnd seeing Hanao_gi\\'s evening face\r\nNone in their heart\r\nWould ever grow sated\r\n\r\nJpapanese:\r\nNoserarete\r\nMiru yu_kei no \r\nHana o_gi\r\nHito no kokoro ni \r\nAki no kisareba\r\nby Yanagihara Mukai\r\n",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": "kyo_ka\r\n\r\nAdmiring the bloom of the evening ground {Utamaro hitsu}",
+  "markings": "Censor:kiwame\r\nPublisher:Tsuta-ju_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "18th century",
   "text": "",
   "title": "The Courtesan Hanaōgi of the Ōgiya House"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,959",
-  "artist": "Jules Michelin",
+  "artist": "Artist: Jules Michelin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and inscription\r\nInscription: [avec les remoursures 23 8bre 1861 (Jules Jacquemart/]",
   "life_date": "French, 1815-1870",
-  "marks": "Signature and inscription\r\nInscription: [avec les  Signature in plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in plate",
   "style": "19th century",
   "text": "",
   "title": "Landscape with Rustic Bridge in Foreground"

@@ -1,6 +1,7 @@
 {
   "accession_number": "99.232.27",
-  "artist": "Sigismund Blumann",
+  "artist": "Photographer: Sigismund Blumann",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Holly and James Bogin",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscriptions; Stamp",
   "life_date": "American, 1872 - 1956",
-  "marks": "Inscriptions; Stamp ",
+  "markings": "verso: \\'M133\\', and \\'BS\\', in graphite, along top edge; \\'BOG\\', \\'TR1510.90\\', and \\'4\\', in graphite, along bottom edge; \\'Sigismund Blumann\\', stamped, LRQ",
   "medium": "gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled [city street]"

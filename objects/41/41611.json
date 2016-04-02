@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.83.1",
-  "artist": "François Bonvin",
+  "artist": "Artist: François Bonvin",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Gabriel P. and Yvonne M.L. Weisberg in celebration of the 100th anniversary of the Minneapolis Institute of Art",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "French, 1817 - 1887",
-  "marks": "Signature and Date \\'F. Bonvin 1857.\\' in black oil at lower right corn",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G321",
+  "signed": "\\'F. Bonvin 1857.\\' in black oil at lower right corner",
   "style": "19th century",
   "text": "",
   "title": "Up from the Cellar"

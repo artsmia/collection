@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,860",
-  "artist": "Frank Duveneck; Frederick Keppel",
+  "artist": "Artist: Frank Duveneck; Publisher: Frederick Keppel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1848 - 1919",
-  "marks": " In plate, on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "19th century",
   "text": "",
   "title": "Desdemona's House"

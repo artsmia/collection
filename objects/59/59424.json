@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.2",
-  "artist": "Terje Roalkvam",
+  "artist": "Artist: Terje Roalkvam",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "Gift of the First Bank System",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Title\r\n\r\nsee Signed\r\n\r\nLL: [35/50 serigraph E.T. \\\"Markant Tendons\\\"]",
   "life_date": "Norwegian, born 1948",
-  "marks": "Signature; Edition; Title\r\n\r\nsee Signed\r\n\r\nLL: [35 Signed, dated LR: [Terje Roalkvam-78]",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "Norwegian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated LR: [Terje Roalkvam-78]",
   "style": "20th century",
   "text": "",
   "title": "Distinct Tendency"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.31",
-  "artist": "Yoshida Masaji (self-published)",
+  "artist": "Artist: Yoshida Masaji (self-published)",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4736,
   "image_width": 3496,
+  "inscription": "Right, in pencil: [?　?????] {Koke, Yoshida Masaji}; bottom, in pencil: [1958 Moss No 3 6/100 Masaji Yoshida]\r\n",
   "life_date": "Japanese, 1917-1971",
-  "marks": "Right, in pencil: [?　?????] {Koke, Yoshida Masaji} ",
+  "markings": "LRC: Red artist\\'s seal {Masaji}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Moss No. 3"

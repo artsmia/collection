@@ -1,6 +1,7 @@
 {
   "accession_number": "62.70.1",
   "artist": "",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Miss Alice O'Brien",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6715,
   "image_width": 3020,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature ",
+  "markings": "Apocryphal signature of Wang Wei",
   "medium": "Color on silk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Two Sages Playing Music"

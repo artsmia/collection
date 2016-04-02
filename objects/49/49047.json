@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,652.1",
-  "artist": "Jacques Callot",
+  "artist": "Artist: Jacques Callot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Ridgely Hunt, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\non print back: [3003, 11652 1/4]",
   "life_date": "French, 1592-1635",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\non prin in print on image",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in print on image",
   "style": "17th century",
   "text": "",
   "title": "Le Depart"

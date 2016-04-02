@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.264",
-  "artist": "Anton Kleiber; Keramos Wiener Kunstkeramik",
+  "artist": "Designer: Anton Kleiber; Manufacturer: Keramos Wiener Kunstkeramik",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4553,
   "image_width": 3351,
+  "inscription": "",
   "life_date": "Austrian, 1874-1951",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-painted earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Vase"

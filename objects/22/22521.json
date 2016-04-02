@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.228",
-  "artist": "Eisen; Published by Kawaguchiya Uhei",
+  "artist": "Artist: Eisen; Publisher: Published by Kawaguchiya Uhei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1691,
   "image_width": 2665,
+  "inscription": "",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": " {Eisen ga}",
+  "markings": "Publisher\\'s seal: {Fukukawadō Kawaguchi}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eisen ga}",
   "style": "19th century",
   "text": "",
   "title": "Spring View of Benzai-ten Shrine at the Shinobazu Pond in Edo"

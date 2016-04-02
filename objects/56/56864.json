@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.35",
-  "artist": "Arthur B. Davies; Printed by Ernest Haskell",
+  "artist": "Artist: Arthur B. Davies; Printer: Printed by Ernest Haskell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3601,
   "image_width": 5454,
+  "inscription": "",
   "life_date": "American, 1862 - 1928",
-  "marks": " In pencil",
+  "markings": "",
   "medium": "Soft-ground etching and aquatint with drypoint and roulette on green paper",
   "nationality": "American",
   "provenance": "(R.E. Lewis and Daughter, San Francisco); sold to MIA, 1968.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil",
   "style": "20th century",
   "text": "",
   "title": "Moonlight on the Grassy Bank"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.12.10",
-  "artist": "Gendron Jensen",
+  "artist": "Artist: Gendron Jensen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2172,
   "image_width": 2032,
+  "inscription": "Signature; Inscription\r\n\r\nverso, in pencil: [74.21.2 (L)] (12)",
   "life_date": "American, born 1939",
-  "marks": "Signature; Inscription\r\n\r\nverso, in pencil: [74.21 LR corner: [GJ:74] circled",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR corner: [GJ:74] circled",
   "style": "20th century",
   "text": "",
   "title": "Vetera"

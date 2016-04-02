@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.124",
-  "artist": "Hashiguchi Goyō (self-published); Carved by Takano Shichinosuke; Printed by Akimoto Shōzaburō",
+  "artist": "Artist: Hashiguchi Goyō (self-published); Carver: Carved by Takano Shichinosuke; Printer: Printed by Akimoto Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1930,
   "image_width": 2938,
+  "inscription": "大正九年八月 {Taishō kunen hachigatsu} (August 1920)",
   "life_date": "Japanese, 1880 - 1921",
-  "marks": "大正九年八月 {Taishō kunen hachigatsu} (August 1920) 五葉画 {Goyō ga} (picture by Goyō)",
+  "markings": "red artist\\'s seal: GY",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "五葉画 {Goyō ga} (picture by Goyō)",
   "style": "20th century",
   "text": "",
   "title": "Ducks"

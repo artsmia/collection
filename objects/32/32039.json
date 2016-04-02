@@ -1,6 +1,7 @@
 {
   "accession_number": "99.224.2",
-  "artist": "Christopher Dresser; Old Hall Earthenware Company",
+  "artist": "Designer: Christopher Dresser; Manufacturer: Old Hall Earthenware Company",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Christopher Monkhouse in honor of Catherine Futter",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark; Inscription",
   "life_date": "Scottish, 1834-1904",
-  "marks": "Mark; Inscription ",
+  "markings": "\\'Old Hall/England/E\\'ware 02 (L)\\', mark, on bottom; illegible inscription, in blue, on bottom",
   "medium": "Transfer-printer earthenware",
   "nationality": "Scottish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G333",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Pitcher"

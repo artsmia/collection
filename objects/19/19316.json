@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.98",
-  "artist": "Robert Dighton",
+  "artist": "Artist: Robert Dighton",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Marks\r\n\r\nsee Signed",
   "life_date": "British, 1752-1814",
-  "marks": "Signature; Marks\r\n\r\nsee Signed LR: [Dighton del.]",
+  "markings": "Watermark: top of fleur-de-lis within shield, surmounted by a crown\r\nin ink, LL: [497] partial",
   "medium": "Ink and watercolor with touches of white",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Dighton del.]",
   "style": "18th century",
   "text": "",
   "title": "Spring, from a Series of the Four Seasons"

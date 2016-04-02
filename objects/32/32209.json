@@ -1,6 +1,7 @@
 {
   "accession_number": "99.235.8",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Melissa Frisch and Jesse Witten",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 2706,
   "image_width": 1805,
+  "inscription": "Title; Date; Signature",
   "life_date": "American, born 1951",
-  "marks": "Title; Date; Signature in graphite, along top edge, verso: [News Vendor, ",
+  "markings": "in graphite, along bottom edge, verso (upside down): [2-25,26-93]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, along top edge, verso: [News Vendor, Aurangabad India, 1995 David Parker]",
   "style": "20th century",
   "text": "",
   "title": "News Vendor, Aurangabad, India"

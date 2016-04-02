@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.27",
-  "artist": "Erich Mallina",
+  "artist": "Artist: Erich Mallina",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp\r\n\r\nsee Signed",
   "life_date": "Austrian, 1873 - 1954",
-  "marks": "Signature; Stamp\r\n\r\nsee Signed in pencil: [E.M.]",
+  "markings": "stamp on verso",
   "medium": "Hand-colored woodcut",
   "nationality": "Czech",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [E.M.]",
   "style": "20th century",
   "text": "",
   "title": "Stylized Christ"

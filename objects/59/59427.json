@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.9",
-  "artist": "Olli Viiri",
+  "artist": "Artist: Olli Viiri",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Finland",
   "creditline": "Gift of the First Bank System",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Edition\r\n\r\nsee Signed\r\nCenter: [canis navalis]\r\nLL: [T P l\\'a 4/30]",
   "life_date": "Finnish, born 1941",
-  "marks": "Signature, Title, Edition\r\n\r\nsee Signed\r\nCenter: [ LR: [Olli Viiri 1961]",
+  "markings": "",
   "medium": "Linocut",
   "nationality": "Finnish",
   "provenance": "First Bank, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Olli Viiri 1961]",
   "style": "20th century",
   "text": "",
   "title": "Canis Navalis"

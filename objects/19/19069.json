@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.296",
-  "artist": "Anais Colin Toudouze",
+  "artist": "Artist: Anais Colin Toudouze",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Marks\r\n\r\nsee Signed",
   "life_date": "French, 1822 - 1899",
-  "marks": "Signature; Marks\r\n\r\nsee Signed In red ink, LR: [Anais Toudouze]",
+  "markings": "In pencil, LR recto: [RExx]\r\nin pencil, LR verso: [251158 C77]\r\nin pencil, LC verso: [RPrte]",
   "medium": "Graphite and watercolor heightened with gouache",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In red ink, LR: [Anais Toudouze]",
   "style": "19th century",
   "text": "",
   "title": "Two Women and a Young Girl"

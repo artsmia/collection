@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,987",
-  "artist": "Jules Chéret; Chaix and De Malberbie",
+  "artist": "Artist: Jules Chéret; Publisher: Chaix and De Malberbie",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The David M. Daniels Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5899,
   "image_width": 4048,
+  "inscription": "",
   "life_date": "French (Paris, Nice), 1836 - 1932",
-  "marks": " ",
+  "markings": "",
   "medium": "Color lithograph (poster)",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Spinner"

@@ -1,6 +1,7 @@
 {
   "accession_number": "32.21.2",
-  "artist": "Jeremiah Dummer",
+  "artist": "Artist: Jeremiah Dummer",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3947,
   "image_width": 5249,
+  "inscription": "Mark\r\n\r\nOn side are engraved the arms of Brown or Browne of Massachusetts.",
   "life_date": "American, 1645-1718",
-  "marks": "Mark\r\n\r\nOn side are engraved the arms of Brown or  ",
+  "markings": "maker\\'s mark stamped on side: <J D> Roman capitals, a pellet between, a fleur-de-lis beneath in a heart-shaped shield\r\nmaker\\'s mark on base: <J D> Roman capitals in an oval",
   "medium": "Silver",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Two-handled cup"

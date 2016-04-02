@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.13.2",
-  "artist": "Peter Milton",
+  "artist": "Artist: Peter Milton",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Title\r\n\r\nTitled in pencil by artist at LC margin",
   "life_date": "American, born 1930",
-  "marks": "Signature, Date, Title\r\n\r\nTitled in pencil by arti in pencil, L.R. margin:  [P Milton 63]",
+  "markings": "Chop: Impression Work Shop, Boston",
   "medium": "Lift ground etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, L.R. margin:  [P Milton 63]",
   "style": "20th century",
   "text": "",
   "title": "Summer Landscape V"

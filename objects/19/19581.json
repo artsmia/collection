@@ -1,6 +1,7 @@
 {
   "accession_number": "69.60.1",
-  "artist": "Jack Youngquist",
+  "artist": "Artist: Jack Youngquist",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Patricia Johnson Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American",
-  "marks": "Signature; Date UR: [Jack Youngquist 1968]",
+  "markings": "",
   "medium": "Graphite and colored ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [Jack Youngquist 1968]",
   "style": "20th century",
   "text": "",
   "title": "Aboard Ship"

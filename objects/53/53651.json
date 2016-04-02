@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.33.15",
-  "artist": "Frank Lloyd Wright; Auvergne Press",
+  "artist": "Artist: Frank Lloyd Wright; Printer: Auvergne Press",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1867 - 1959",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, 1867–1959",
+  "markings": "",
   "medium": null,
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Page from The House Beautiful"

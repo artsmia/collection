@@ -1,6 +1,7 @@
 {
   "accession_number": "95.83.2",
-  "artist": "Robert Harding",
+  "artist": "Artist: Robert Harding",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Felix A. Martucci",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Inscription\r\n\r\nin graphite, recto, CR: [New Sun New Moon]\r\n\r\ninscribed verso: [Robert Harding/ New Sun/New Moon] and [Three Constructions of vision(?) (illegible) group III]",
   "life_date": "American, born 1938",
-  "marks": "Signature; Date; Title; Inscription\r\n\r\nin graphite in graphite, CL: [Robert Harding 1975]",
+  "markings": "",
   "medium": "Watercolor and gouache over graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, CL: [Robert Harding 1975]",
   "style": "20th century",
   "text": "",
   "title": "New Sun, New Moon"

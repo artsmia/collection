@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.390",
-  "artist": "Francisco Jose de Goya y Lucientes",
+  "artist": "Artist: Francisco Jose de Goya y Lucientes",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1968",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4545,
   "image_width": 6770,
+  "inscription": "",
   "life_date": "Spanish, 1746-1828",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching, aquatint, and burnishing",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "This image has been interpreted as illustrating the Spanish proverb, \"There is something beneath the sackcloth,\" or \"You can't judge a man by his clothes.\"",
   "title": "Los ensacados (The Men in Sacks)"

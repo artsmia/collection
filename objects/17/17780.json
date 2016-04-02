@@ -1,6 +1,7 @@
 {
   "accession_number": "56.21.43",
   "artist": "",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "China",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3386,
   "image_width": 3176,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Bowl"

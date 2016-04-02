@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,846",
-  "artist": "David Alfaro Siqueiros; Printed by George C. Miller",
+  "artist": "Artist: David Alfaro Siqueiros; Printer: Printed by George C. Miller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Miss Leona Prasse, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
   "image_height": 5022,
   "image_width": 3661,
+  "inscription": "Signature; Date; Inscription; Watermark\r\n\r\nsee Signed\r\n\r\nInscription (printed?) LL margin: [George Miller / Litho]",
   "life_date": "Mexican, 1896 - 1974",
-  "marks": "Signature; Date; Inscription; Watermark\r\n\r\nsee Sig Signed, dated on stone, LL: [A. Siqueiros / taxco ",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Lithograph",
   "nationality": "Mexican",
   "provenance": "Leona Prasse; given to MIA, 1957.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated on stone, LL: [A. Siqueiros / taxco - / 4 - 1931]]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of William Spratling, Taxco"

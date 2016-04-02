@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.176",
-  "artist": "Utagawa Yoshitsuya; Gifuya Seishichi",
+  "artist": "Artist: Utagawa Yoshitsuya; Publisher: Gifuya Seishichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2816,
   "image_width": 1926,
+  "inscription": "",
   "life_date": "Japanese, 1822 - 1866",
-  "marks": " {Ichieisai Yoshitsuya ga}",
+  "markings": "Censor: kai+Ram 4; publisher\\'s seal: Shōbundō",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichieisai Yoshitsuya ga}",
   "style": "19th century",
   "text": "",
   "title": "Tsuchiyama"

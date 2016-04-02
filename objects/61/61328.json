@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,918",
-  "artist": "Utagawa Hiroshige; Koshimuraya Heisuke",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2683,
   "image_width": 1810,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:Mera, Watanabe, July 1853\r\nPublisher:Koshimuraya Heisuke\r\nCarver:Horitake(Yokokawa Takejirō)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Pine Field of Miho in Suruga Province"

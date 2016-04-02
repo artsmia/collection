@@ -1,6 +1,7 @@
 {
   "accession_number": "62.34.2",
-  "artist": "Albert Paris von Gütersloh",
+  "artist": "Artist: Albert Paris von Gütersloh",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Albert Paris von G%C3%BCtersloh %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 7331,
   "image_width": 5614,
+  "inscription": "Signature, Date; Inscription\r\n\r\nsee Signed",
   "life_date": "Austrian, 1887 - 1973",
-  "marks": "Signature, Date; Inscription\r\n\r\nsee Signed LR: [Gütersloh / Torbole 1913]",
+  "markings": "",
   "medium": "Pen and brown ink",
   "nationality": "Austrian",
   "provenance": "Hans Tietze (1880-1954), Vienna and New York. David M. Daniels, Minneapolis and New York, until 1962; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Gütersloh / Torbole 1913]",
   "style": "20th century",
   "text": "",
   "title": "Self-portrait"

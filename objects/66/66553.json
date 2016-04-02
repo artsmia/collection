@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.149",
-  "artist": "Kitagawa Utamaro; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2890,
   "image_width": 1973,
-  "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "Censor:kiwame, the 1st. month of the year of Tiger\r\nPublisher:Eijudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Matsuō's Wife Chiyo from the Play \"Tenarai kagami\""

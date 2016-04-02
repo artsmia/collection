@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.221",
-  "artist": "Utagawa Hiroshige; Published by Enshūya Matabei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Enshūya Matabei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2003,
   "image_width": 2525,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Censor:Mera, Watanabe, Rat 7\r\nPublisher:Yamato(unknown)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Kinryūzan Temple at Asakusa"

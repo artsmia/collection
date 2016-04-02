@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.11",
-  "artist": "Charles Kieffer",
+  "artist": "Artist: Charles Kieffer",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"12/30\\\", in graphite, LL",
   "life_date": "French, 1902 - 1992",
-  "marks": "\\\"12/30\\\", in graphite, LL \\\"Kieffer\\\", in graphite, LR",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Kieffer\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Danseuses et Musiciennes (Dancers and Musicians)"

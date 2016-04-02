@@ -1,6 +1,7 @@
 {
   "accession_number": "27.10",
-  "artist": "Maitland De Gogorza",
+  "artist": "Artist: Maitland De Gogorza",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Horace Ropes for the John DeLaittre Memorial Collection",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1896",
-  "marks": "Signature [Maitland de Gogorza]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Maitland de Gogorza]",
   "style": "20th century",
   "text": "",
   "title": "Brooklyn Bridge"

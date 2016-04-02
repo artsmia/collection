@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.94.1",
-  "artist": "Henri de Toulouse-Lautrec",
+  "artist": "Artist: Henri de Toulouse-Lautrec",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5145,
   "image_width": 3991,
+  "inscription": "",
   "life_date": "French, 1864 - 1901",
-  "marks": " LL, in graphite: T-Lautrec Nº24",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL, in graphite: T-Lautrec Nº24",
   "style": "19th century",
   "text": "",
   "title": "The Englishman at the Moulin Rouge"

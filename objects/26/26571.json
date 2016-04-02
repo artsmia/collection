@@ -1,6 +1,7 @@
 {
   "accession_number": "90.19",
-  "artist": "Jane Dickson",
+  "artist": "Artist: Jane Dickson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Hassam Fund, The Speicher Fund, and The Louis Betts and Garder Symons Fund (American Academy and Institute of Arts and Letters, NY)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4215,
   "image_width": 5958,
+  "inscription": "Signature; Date; Mark",
   "life_date": "American, born 1952",
-  "marks": "Signature; Date; Mark verso: [J.D. 87]",
+  "markings": "Watermark: <FABRIANO>",
   "medium": "Oilstick on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "verso: [J.D. 87]",
   "style": "20th century",
   "text": "",
   "title": "Orange Dust #5"

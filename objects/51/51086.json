@@ -1,6 +1,7 @@
 {
   "accession_number": "P.461",
-  "artist": "Cesare Reverdino",
+  "artist": "Artist: Cesare Reverdino",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Italian, active 1531 - 1561",
-  "marks": " ",
+  "markings": "Watermark: [LI]",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "From W.B. Scott Coll. (L.2607).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "St. Jerome"

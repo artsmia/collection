@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,087",
-  "artist": "Timothy Cole",
+  "artist": "Artist: Timothy Cole",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": " In pencil and in plate",
+  "inscription": "",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving, India proof\r\na mosaic",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil and in plate",
   "style": "19th century",
   "text": "",
   "title": "Saint Agnes"

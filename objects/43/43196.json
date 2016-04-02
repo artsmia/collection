@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.27",
-  "artist": "Sabina Ott",
+  "artist": "Maker: Sabina Ott",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3872,
   "image_width": 2853,
+  "inscription": "Signed, Dated, and Chop Mark",
   "life_date": "American, born 1955",
-  "marks": "Signed, Dated, and Chop Mark LR: [Sabina Ott 88]\r\nLL: VEL Chop Mark",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Sabina Ott 88]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "New Science / Landscape"

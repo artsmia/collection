@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,894",
-  "artist": "Ernst Ludwig Kirchner",
+  "artist": "Artist: Ernst Ludwig Kirchner",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4700,
   "image_width": 3654,
+  "inscription": "Inscription\r\nH.365I verso",
   "life_date": "German, 1880 - 1938",
-  "marks": "Inscription\r\nH.365I verso ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Nachlass/E.L. Kirchner",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Goatherd"

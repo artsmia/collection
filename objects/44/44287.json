@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.31.7",
-  "artist": "Philip Pearlstein; Published by Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: Philip Pearlstein; Publisher: Published by Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Signature; Date\r\n\r\nsee Signed",
   "life_date": "American, born 1924",
-  "marks": "Inscription; Signature; Date\r\n\r\nsee Signed in graphite, LR: [34/100 Philip Pearlstein 73]",
+  "markings": "",
   "medium": "Color lithograph\r\n",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [34/100 Philip Pearlstein 73]",
   "style": "20th century",
   "text": "",
   "title": "Girl on Orange and Black Mexican Rug"

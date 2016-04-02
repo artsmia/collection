@@ -1,6 +1,7 @@
 {
   "accession_number": "97.79.2",
-  "artist": "Frank Gaard",
+  "artist": "Artist: Frank Gaard",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Max and Sam Gaard",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Gaard",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\n\r\nsee Signed",
   "life_date": "American, born 1944",
-  "marks": "Signature; Date\r\n\r\nsee Signed in black ink inside front cover: [Frank Gaard/Wint",
+  "markings": "",
   "medium": "Graphite, colored pencil, felt-tipped pen, ballpoint pen",
   "nationality": "American",
   "provenance": "Acquired from the artist, 1997",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink inside front cover: [Frank Gaard/Winter 1970-1/ Minneapolis]",
   "style": "20th century",
   "text": "",
   "title": "Notebook"

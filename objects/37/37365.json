@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.122a,b",
-  "artist": "Tachibana Morikuni",
+  "artist": "Artist: Tachibana Morikuni",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "coloring instruction written",
   "life_date": "Japanese, 1679 - 1748",
-  "marks": "coloring instruction written ",
+  "markings": "written below print on mat in blue ink; LLC blue stamp \\'GENUINE\\'\r\n\\\"Manazuru\\\"(white-naped crane) on UC, \\\"Hinazuru\\\"(crane chick) on LLC on the right page; \\\"Hinazuru\\\"(crane chick) on LLC on the left page,",
   "medium": "From a woodblock printed book; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bamboo and Cranes"

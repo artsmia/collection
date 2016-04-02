@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,012",
-  "artist": "Peter Gottlandt; after Lucas Cranach The Younger",
+  "artist": "Artist: Peter Gottlandt; Artist: after Lucas Cranach The Younger",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, active 1549 - 1572",
-  "marks": "Mark ",
+  "markings": "Watermark: Towers",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Fall and Redemption of Man"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.1.1.3",
-  "artist": "John Biggers; The Limited Editions Club",
+  "artist": "Artist: John Biggers; Publisher: The Limited Editions Club",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Biggers",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1924 - 2001",
-  "marks": "In LL:  HC V In LR:  John Biggers",
+  "inscription": "In LL:  HC V",
+  "life_date": "New York",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LR:  John Biggers",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Female Figure with Two Youths)"

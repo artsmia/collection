@@ -1,6 +1,7 @@
 {
   "accession_number": "99.234.7",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Thomas F.  Arndt",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 1859,
   "image_width": 2800,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in graphite along top edge, verso: [Nepal, 1993 Da",
+  "markings": "in graphite, along left edge, verso: [2-3,4-93]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite along top edge, verso: [Nepal, 1993 David Parker]",
   "style": "20th century",
   "text": "",
   "title": "Nepal"

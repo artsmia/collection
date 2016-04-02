@@ -1,6 +1,7 @@
 {
   "accession_number": "91.112.27",
-  "artist": "Unknown Korean",
+  "artist": "Artist: Unknown Korean",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9232,
   "image_width": 5899,
+  "inscription": "Chinese poem:\r\nThey hear the sound of wind from a thousand miles away, and roar over a green pass, then the roaring sound can break rocks.\r\nJapanese translation:\r\nSen-ri ni oite kaze no koe wo kiki\r\nSo_gai no hoe, shiko_ shite iwa wo saku",
   "life_date": null,
-  "marks": "Chinese poem:\r\nThey hear the sound of wind from a  ",
+  "markings": "",
   "medium": "Handcolored lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Tigers and Birds, Evils Gathering"

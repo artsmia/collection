@@ -1,6 +1,7 @@
 {
   "accession_number": "80.81",
-  "artist": "DeWitt Hardy",
+  "artist": "Artist: DeWitt Hardy",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n\r\nLL corner in pencil: [A-CY 1-26-6 $40.00]\r\n\r\nin blue ball-point pen: [2] possibly followed by more which could be covered by hinging tape.",
   "life_date": "American, born 1940",
-  "marks": "Signature; Inscription\r\n\r\nLL corner in pencil: [A- [D. Hardy]",
+  "markings": "",
   "medium": "Sanguine",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[D. Hardy]",
   "style": "20th century",
   "text": "",
   "title": "Untitled [Reclining Nude]"

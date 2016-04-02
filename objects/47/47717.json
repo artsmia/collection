@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,333",
-  "artist": "Sir Frank Short",
+  "artist": "Artist: Sir Frank Short",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3720,
   "image_width": 4896,
+  "inscription": "",
   "life_date": "British, 1857 - 1945",
-  "marks": " ",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Evening on the Thames"

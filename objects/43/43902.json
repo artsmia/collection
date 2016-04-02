@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.20.2",
-  "artist": "Louise Nevelson; Atelier 17 , New York",
+  "artist": "Artist: Louise Nevelson; Printer: Atelier 17 , New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Louise Nevelson %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Edition\r\n\r\nIn graphite, recto: [9/20 \\'Goddess from the Great Beyond\\' Louise Nevelson]\r\n\r\n",
   "life_date": "American (born Ukraine), 1899-1988",
-  "marks": "Signature, Title, Edition\r\n\r\nIn graphite, recto: [ In graphite, recto",
+  "markings": "",
   "medium": "Etching and aquatint in green-black ink",
   "nationality": "American",
   "provenance": "The artist; Estate of the artist; (G.W. Einstein Company, New York); sold to MIA, 1998",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In graphite, recto",
   "style": "20th century",
   "text": "",
   "title": "Goddess from the Great Beyond"

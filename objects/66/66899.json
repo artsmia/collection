@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.7",
-  "artist": "Published by Cornelis Ploos van Amstel; Cornelis Brouwer; after Gerbrand van den Eeckhout",
+  "artist": "Publisher: Published by Cornelis Ploos van Amstel; Etcher: Cornelis Brouwer; Artist: after Gerbrand van den Eeckhout",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "Gift of Mrs. Dwight Minnich",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp and Inscription:\r\n\r\nLettered in plate with facsimile signature of artist, at lower right: [G.V. Eeckhout fe.];\r\n\r\nverso, in graphite: ? Josi, C 1821 / Collection etc. / Est.",
   "life_date": "Dutch, 1726 - 1798",
-  "marks": "Stamp and Inscription:\r\n\r\nLettered in plate with f ",
+  "markings": "back verso, coat-of-arms, LLC: Ploos van Amstel- Josi (Lugt 2725)",
   "medium": "Etching and aquatint in brown ink",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Botanist"

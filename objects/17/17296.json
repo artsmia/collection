@@ -1,6 +1,7 @@
 {
   "accession_number": "48.2",
-  "artist": "Henriette Diebold",
+  "artist": "Artist: Henriette Diebold",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American (born France), 1894/95-1973",
-  "marks": "Signature LR: [Henriette]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "The artist; acquired by MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Henriette]",
   "style": "20th century",
   "text": "",
   "title": "Milkweed"

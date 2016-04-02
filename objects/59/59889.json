@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.49",
-  "artist": "John Himmelfarb; Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: John Himmelfarb; Printer: Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition",
   "life_date": "American, born 1946",
-  "marks": "Signature; Date; Title; Edition ",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Whirled Map"

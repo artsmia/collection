@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,920",
-  "artist": "Utagawa Hiroshige; Published by Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Ichiryu_sai seal\r\nunknown seal on back",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "E.S. Hull to Freer (1898); Freer to Ford (Feb. 1905)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Snow at the Shrine Ground of Kameido Tenman"

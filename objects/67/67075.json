@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.114.1",
-  "artist": "Stuart Nielsen",
+  "artist": "Artist: Stuart Nielsen",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of John E. Andrus III",
@@ -14,8 +15,9 @@
   "image_copyright": "© Stuart Nielsen",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature, title, date, edition and chop",
   "life_date": "American, born 1947",
-  "marks": "Signature, title, date, edition and chop below image, in pencil: [7/18 North Nielsen 02]",
+  "markings": "chop on back, bottom center in black: [HP (inside a square)]",
   "medium": "Etching with cutting, watercolor and copper, silver and gold leaf",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "below image, in pencil: [7/18 North Nielsen 02]",
   "style": "21st century",
   "text": "",
   "title": "North, from \"Cardinal Suite\""

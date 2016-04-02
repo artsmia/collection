@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.3",
-  "artist": "Unknown Korean",
+  "artist": "Artist: Unknown Korean",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3140,
   "image_width": 3148,
+  "inscription": "Label",
   "life_date": null,
-  "marks": "Label ",
+  "markings": "bottom \\'425-late 18th\\'; side \\'Sotheby\\'s Arcade Auction J86\\'",
   "medium": "Ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Jar"

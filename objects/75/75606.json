@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,499",
-  "artist": "Noel Dieudonne Finart; Thiebaut; Published by Basset, Rue St. Jacques, No. 64",
+  "artist": "Artist: Noel Dieudonne Finart; Etcher: Thiebaut; Publisher: Published by Basset, Rue St. Jacques, No. 64",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1797 - 1852",
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Hand-colored etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "La Venus Antique a Sa Toilette"

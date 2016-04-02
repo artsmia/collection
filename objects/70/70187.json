@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.311",
-  "artist": "Utagawa Toyokuni ll; Published by Maruya Seijirō",
+  "artist": "Artist: Utagawa Toyokuni ll; Publisher: Published by Maruya Seijirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2718,
   "image_width": 1935,
+  "inscription": "",
   "life_date": "Japanese, 1777 - 1835",
-  "marks": " 後素亭豊國画 Gosotei Toyokuni ga",
+  "markings": "censor\\'s seal: 極 kiwame\r\npublisher seal: (Marks 299 -seal similar to 27-010)",
   "medium": "Woodblock print (aizuri-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "後素亭豊國画 Gosotei Toyokuni ga",
   "style": "19th century",
   "text": "This is an example of an aizuri-e, a print with just blue as color. In this case, there is also black which was, however, not used for the outlines as usual.",
   "title": "Beauty Holding a Pipe"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.65",
-  "artist": "Thomas Cox",
+  "artist": "Artist: Thomas Cox",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1948",
-  "marks": "Signature In pencil: [Thomas Cox]",
+  "markings": "",
   "medium": "Woodcut, lithograph, hand-torn Japan paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Thomas Cox]",
   "style": "20th century",
   "text": "",
   "title": "Ziggurat"

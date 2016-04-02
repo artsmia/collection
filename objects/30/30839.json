@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.12",
-  "artist": "Herbert Lenz",
+  "artist": "Artist: Herbert Lenz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Tag",
   "life_date": "born 1919",
-  "marks": "Tag ",
+  "markings": "[Minneapolis Institue of Arts, L57.504; Dr. John I. Coe], tag, upper right corner, verso; identification tag, lower center, verso",
   "medium": "Watercolor, gouache and graphite on off-white wove paper",
   "nationality": null,
   "provenance": "John I. Coe, Bloomington, MN",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "In der Starzlachklamm"

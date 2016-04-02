@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.126",
-  "artist": "Paulus Potter",
+  "artist": "Artist: Paulus Potter",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Dutch, 1625 - 1654",
-  "marks": "Mark ",
+  "markings": "Watermark: close Churchill 286, c.1630",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "Ex Coll: K. E. von Liphart (Lugt 1687); LJ. Peoli (Lugt 2020); Lisa & Leonard Baskin 1965 (ms.)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Shepherd"

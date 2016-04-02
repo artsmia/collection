@@ -1,6 +1,7 @@
 {
   "accession_number": "70.33.7",
-  "artist": "Joseph Edwards",
+  "artist": "Maker: Joseph Edwards",
+  "classification": "Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rhodes Robertson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 654,
   "image_width": 549,
+  "inscription": "Mark",
   "life_date": "American, 1737 - 1783",
-  "marks": "Mark ",
+  "markings": "maker\\'s mark: [J. Edwards]",
   "medium": "Silver",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "18th century",
   "text": "The engraved coat of arms on this tankard are those of the Jackson family.",
   "title": "Tankard"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.64.43",
-  "artist": "Eisen; Published by Iseya Rihei",
+  "artist": "Artist: Eisen; Publisher: Published by Iseya Rihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1885,
   "image_width": 2827,
+  "inscription": "",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": " ",
+  "markings": "publisher\\'s seal: {Iseri}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "No. 15, Itahana"

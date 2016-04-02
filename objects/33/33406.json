@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.38",
-  "artist": "Salvator Rosa",
+  "artist": "Artist: Salvator Rosa",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3975,
   "image_width": 4868,
-  "life_date": "Italian (Naples), 1615 - 1673",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian (Naples), 1615–1673",
+  "markings": "",
   "medium": "Pen and brown ink and wash over black chalk on laid paper",
   "nationality": "Italian",
   "provenance": "'Queen Christina (1626-89), Rome; 'Cardinal Decio Azzolini (1623-89), Rome; 'Prince Livio Odescalchi (1652-1713), Rome. Beardmore Collection. Sale, Christie's, London, July 6, 1976, no. 86, for £190 to Moir; Alfred Moir, Santa Barbara (1976-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Sleeping Boy"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.172",
-  "artist": "Hosoda Eishi; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Hosoda Eishi; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2820,
   "image_width": 1966,
+  "inscription": "",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": " {Eishi ga}",
+  "markings": "Censor:kiwame\r\nPublisher:Eijudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eishi ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "\"Komurasaki of the Kadotamaya House\""

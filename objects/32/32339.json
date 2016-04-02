@@ -1,6 +1,7 @@
 {
   "accession_number": "B.90.5",
-  "artist": "Thomas Bewick",
+  "artist": "Artist: Thomas Bewick",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the James Ford Bell Museum of Natural History",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "British, 1753 - 1828",
-  "marks": " ",
+  "markings": "",
   "medium": "Wood engravings",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "A Portfolio of Wood Engravings from the History of British Birds"

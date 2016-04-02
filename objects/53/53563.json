@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,565",
-  "artist": "Robert Nanteuil; after Phillippe de Champaigne",
+  "artist": "Artist: Robert Nanteuil; Artist: after Phillippe de Champaigne",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "French, 1623-1678",
-  "marks": "Signature\r\n\r\nsee Signed LR: [Rob.Nanteuil]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "Sir Anthony Westcombe + 1452, (Lugt 202)\r\n",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Rob.Nanteuil]",
   "style": "17th century",
   "text": "",
   "title": "Charles Benoise, Conseiller au Parlement de Paris"

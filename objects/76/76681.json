@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.26",
-  "artist": "John Piper; Printed by Harley Brothers, London",
+  "artist": "Artist: John Piper; Printer: Printed by Harley Brothers, London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, edition and printer\\'s chop",
   "life_date": "British, 1903-1992",
-  "marks": "Signature, edition and printer\\'s chop LRC in pencil: [John Piper]",
+  "markings": "LLC in pencil: [31/50]; LRC, below signature, impressed: (cartouche with crown over two hearts)",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in pencil: [John Piper]",
   "style": "20th century",
   "text": "",
   "title": "Syleham"

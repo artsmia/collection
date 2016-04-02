@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.72a,b",
-  "artist": "Royal Doulton Potteries",
+  "artist": "Manufacturer: Royal Doulton Potteries",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1867,
   "image_width": 2560,
+  "inscription": "Marks",
   "life_date": "Burslem, Staffordshire, and Stoke-on-Trent, English, est. 1815",
-  "marks": "Marks ",
+  "markings": "Royal Doulton manufacturer\\'S insignia, \\'Radiance / D5421 x\\' within glaze on bottom",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "\"Casino Ware\" covered dish"

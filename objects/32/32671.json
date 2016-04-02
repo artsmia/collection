@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.77",
-  "artist": "Pierre Vidal, French, 1849-1929; Text by Pierre Louÿs; A. Blaizot , Paris; Binding by Charles Septier",
+  "artist": "Artist: Pierre Vidal, French, 1849-1929; Author: Text by Pierre Louÿs; Publisher: A. Blaizot , Paris; Book Binder: Binding by Charles Septier",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2733,
   "image_width": 4207,
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, active 1933-1958",
+  "markings": "",
   "medium": "Hand-colored lithographs; letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Les aventures du roi Pausole (The Adventures of King Pausole)"

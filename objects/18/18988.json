@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.179",
-  "artist": "Attributed to William Hopwood",
+  "artist": "Artist: Attributed to William Hopwood",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Marks",
   "life_date": null,
-  "marks": "Signature; Marks LR: [W.H.]",
+  "markings": "Watermark:  <MEADS & CO>\r\nportions of letters in pencil, LR recto: [Atx];\r\n",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [W.H.]",
   "style": "19th century",
   "text": "",
   "title": "Two Women in Conversation"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.16.57",
-  "artist": "Thomas Schofield Handforth",
+  "artist": "Artist: Thomas Schofield Handforth",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Merle Shera",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Mark\r\n\r\nsee Signed\r\n\r\non right back in pencil \\\".57  .5  T87.1912  (1034)\r\non right front in pencil \\\"30-\\\"",
   "life_date": "American, 1897 - 1947",
-  "marks": "Signature; Inscription; Mark\r\n\r\nsee Signed\r\n\r\non r on right margin\r\n",
+  "markings": "Watermark:  <J. Whatman>",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on right margin\r\n",
   "style": "20th century",
   "text": "",
   "title": "Rodeo"

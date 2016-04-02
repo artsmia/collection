@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.26.2",
-  "artist": "Robert Motherwell; Published by Robert Motherwell",
+  "artist": "Maker: Robert Motherwell; Publisher: Published by Robert Motherwell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Robert Motherwell %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Numbered in pencil, LR: [64/75]",
   "life_date": "American, 1915-1991",
-  "marks": "Numbered in pencil, LR: [64/75] Signed in pencil, LR: [Motherwell]",
+  "markings": "Watermark: <BFK Rives>; artist\\'s blindstamp, LR: <Robert Motherwell Editions>",
   "medium": "Aquatint, liftground-etching and aquatint in black and brown ink on gray paper",
   "nationality": "American",
   "provenance": "Marguerite and Russell Cowles II, Minneapolis; given to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Motherwell]",
   "style": "20th century",
   "text": "",
   "title": "Gesture II (State I)"

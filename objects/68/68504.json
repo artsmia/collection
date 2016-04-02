@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.166",
-  "artist": "Eisen; Published by Moriya Jihei",
+  "artist": "Artist: Eisen; Publisher: Published by Moriya Jihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1823,
   "image_width": 2654,
+  "inscription": "",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": " {Eisen ga}",
+  "markings": "Publisher\\'s seal: {Mori-ji}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Eisen ga}",
   "style": "19th century",
   "text": "",
   "title": "View of Eitai Bridge at the Eastern Capital"

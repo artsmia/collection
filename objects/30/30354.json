@@ -1,6 +1,7 @@
 {
   "accession_number": "98.120.4",
-  "artist": "Mao Xiang",
+  "artist": "Maker: Mao Xiang",
+  "classification": "Calligraphy",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2046,
   "image_width": 4353,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1611 - 1693",
-  "marks": "Signature; Stamps [Mao Xiang], in ink, at center left side",
+  "markings": "one artist\\'s stamp in red ink, below signature, and a second at URC",
   "medium": "Ink on gold paper; fan",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Mao Xiang], in ink, at center left side",
   "style": "17th century",
   "text": "",
   "title": "Running Script Calligraphy"

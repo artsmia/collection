@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,889",
-  "artist": "Rudolph Ruzicka",
+  "artist": "Artist: Rudolph Ruzicka",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Purchase: July 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "Czech-American, born 1883",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on sheet & work",
+  "markings": "Watermark",
   "medium": "Wood engraving",
   "nationality": "Czech-American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet & work",
   "style": "20th century",
   "text": "",
   "title": "St. John's in Varick Street"

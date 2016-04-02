@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.18",
-  "artist": "Gendron Jensen",
+  "artist": "Artist: Gendron Jensen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1978,
   "image_width": 1931,
+  "inscription": "Signature",
   "life_date": "American, born 1939",
-  "marks": "Signature LR corner: [G:72] circled",
+  "markings": "",
   "medium": "Pen, black and red ink and graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR corner: [G:72] circled",
   "style": "20th century",
   "text": "",
   "title": "Wild Roses"

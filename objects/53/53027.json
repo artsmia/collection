@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,743",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4530,
   "image_width": 3238,
+  "inscription": "LL recto, in pencil: [A Girl with Large Eyes K.131]\r\nLL verso, in pencil: [Whistler \\'A Girl with Large Eyes\\' K.131 only state, can.]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [A Girl with Large Eyes K.131 ",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "A Girl with Large Eyes"

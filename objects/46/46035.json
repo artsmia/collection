@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,604",
-  "artist": "Emma Bormann",
+  "artist": "Artist: Emma Bormann",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Anonymous Gift, 1938",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Austrian, 1877 - 1974",
-  "marks": " in pencil",
+  "inscription": "",
+  "life_date": "Austrian, 1877–1974",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil",
   "style": "20th century",
   "text": "",
   "title": "Bosporus"

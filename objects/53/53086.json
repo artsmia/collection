@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,761",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4512,
   "image_width": 3281,
+  "inscription": "LL recto, in pencil: [K.176]\r\nLL verso, in pencil: [Whistler - \\\"Under Old Battersea Bridge\\\" K.176 iii/iii can.]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [K.176]\r\nLL verso, in pencil: ",
+  "markings": "Watermark: [1814 / 2]",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Under Old Battersea Bridge"

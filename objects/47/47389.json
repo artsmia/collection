@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.64.2",
-  "artist": "John Martin",
+  "artist": "Artist: John Martin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3333,
   "image_width": 4972,
+  "inscription": "",
   "life_date": "British, 1789 - 1854",
-  "marks": " ",
+  "markings": "",
   "medium": "Mezzotint and etching",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Fall of Babylon"

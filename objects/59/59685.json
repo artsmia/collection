@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.98.3",
-  "artist": "Barbara Ball Shark",
+  "artist": "Artist: Barbara Ball Shark",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Shark Foundation Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on sheet",
+  "markings": "Chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Shell Fragments"

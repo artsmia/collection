@@ -1,6 +1,7 @@
 {
   "accession_number": "72.98",
-  "artist": "John Wesley",
+  "artist": "Artist: John Wesley",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Robert Elkon Gallery",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3316,
   "image_width": 4722,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1928",
-  "marks": "Signature; Date; Title In ink, LL of center: [THE KISS\\' John Wesley 1964]",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "American",
   "provenance": "[Robert Elkon Gallery, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In ink, LL of center: [THE KISS\\' John Wesley 1964]",
   "style": "20th century",
   "text": "",
   "title": "The Kiss"

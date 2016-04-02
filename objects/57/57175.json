@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.186.1",
-  "artist": "André-Victor-Edouard Devambez",
+  "artist": "Artist: André-Victor-Edouard Devambez",
+  "classification": "Drawings",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Janet and Winton Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1930,
   "image_width": 1964,
+  "inscription": "Signature",
   "life_date": "French, 1867 - 1943",
-  "marks": "Signature [André Devambez], UR",
+  "markings": "",
   "medium": "Gouache on cardboard",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[André Devambez], UR",
   "style": "19th century",
   "text": "",
   "title": "Man with a Pipe, Seated at a Table"

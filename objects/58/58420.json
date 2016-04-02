@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.29",
-  "artist": "Kellogg",
+  "artist": "Artist: Kellogg",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James and John David",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n\r\n[The Hero Who Defended The Mothers Will Protect the Daughters]",
   "life_date": null,
-  "marks": "Signature; Inscription\r\n\r\n[The Hero Who Defended T on sheet",
+  "markings": "",
   "medium": "Hand colored lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "19th century",
   "text": "",
   "title": "Washington's Reception by the Ladies at Trenton, N.J., April, 1789"

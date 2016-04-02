@@ -1,6 +1,7 @@
 {
   "accession_number": "37.3",
-  "artist": "Robert Neely",
+  "artist": "Artist: Robert Neely",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edmund M. Kopietz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1915",
-  "marks": "Signature in pencil at LR: [Bob Neely]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil at LR: [Bob Neely]",
   "style": "20th century",
   "text": "",
   "title": "The Big Top"

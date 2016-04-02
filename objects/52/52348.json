@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.34",
-  "artist": "Domenico Tiepolo",
+  "artist": "Artist: Domenico Tiepolo",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian (Venice), 1727 - 1804",
-  "marks": "Signature LL on etching: hallmark of artist",
+  "inscription": "Signature",
+  "life_date": "Italian (Venice), 1727–1804",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Venice)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL on etching: hallmark of artist",
   "style": "18th century",
   "text": "",
   "title": "Episode of the Falling Statue"

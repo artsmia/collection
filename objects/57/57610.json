@@ -1,6 +1,7 @@
 {
   "accession_number": "P.784",
-  "artist": "Cornelis Visscher",
+  "artist": "Artist: Cornelis Visscher",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3924,
   "image_width": 2952,
+  "inscription": "",
   "life_date": "Dutch, 1629-1658",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "St. Mark"

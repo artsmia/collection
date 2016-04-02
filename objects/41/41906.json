@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,312",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1683,
   "image_width": 4289,
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "Watermark: Coat-of -arms withStrasburg lily and letters <WR>",
   "medium": "Etching and drypoint (counterproof)",
   "nationality": "Dutch",
   "provenance": "Black stamp verso, Earl of Aylesford (L. 58); T. Wilson 1818 in pencil (L. 2580); black stamp verso, Duke of Buccleuch (L. 402); William M. Ladd, Portland, Oreg.; Herschel V. Jones, Minneapolis (until 1916; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "This magnificent panorama was long thought to be the estate of Jan Uytenbogaert, a tax receiver and gold weigher in Holland, which is how the print acquired its name. When the landscape is viewed in reverse, however, as the counterproof enables us to do, it is clear that the etching shows the property of Christoffel Thijsz., to whom Rembrandt owed money for his house. The artist may have made this print, sketched from the dunes outside Haarlem, to help offset his debt. The rare counterproof, which would have been a useful working tool for Rembrandt because its orientation was the same as that of the copper plate, was made by running a freshly printed impression through the press a second time with another sheet of paper.",
   "title": "The Goldweigher's Field"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.7",
-  "artist": "Philip Thompson",
+  "artist": "Artist: Philip Thompson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3078,
   "image_width": 4893,
+  "inscription": "Signature, Date",
   "life_date": "American, born 1933",
-  "marks": "Signature, Date LL: [P.Thompson 1977]",
+  "markings": "",
   "medium": "Pen and black ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [P.Thompson 1977]",
   "style": "20th century",
   "text": "",
   "title": "The Dowry"

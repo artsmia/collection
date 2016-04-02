@@ -1,6 +1,7 @@
 {
   "accession_number": "P.886",
-  "artist": "Marten Schoevaerdts",
+  "artist": "Artist: Marten Schoevaerdts",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3401,
   "image_width": 4703,
+  "inscription": "",
   "life_date": "Flemish, born 1667",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th-18th century",
   "text": "",
   "title": "Peasants in the Courtyard of an Inn"

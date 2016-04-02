@@ -1,6 +1,7 @@
 {
   "accession_number": "47.51",
-  "artist": "Earl Potvin",
+  "artist": "Artist: Earl Potvin",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3211,
   "image_width": 5207,
-  "life_date": "American, 1923 - 2014",
-  "marks": "Signature, Date, Title\r\n\r\nsee Signed\r\n\r\nTitled in  Signed and dated in ink, LRC: [EARL POTVIN 47\\']; a",
+  "inscription": "Signature, Date, Title\r\n\r\nsee Signed\r\n\r\nTitled in black ink, verso: [\\'CANNIBAL CHRISTIANS OUT ON THE SPREE\\']",
+  "life_date": "American, 1923–2014",
+  "markings": "",
   "medium": "Crayon, colored ink and ink wash on board",
   "nationality": "American",
   "provenance": "The artist; purchased by MIA, 1947",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in ink, LRC: [EARL POTVIN 47\\']; and in black ink marker, verso: [Earl F. Potvin 47\\']",
   "style": "20th century",
   "text": "",
   "title": "Cannibal Christians Out on the Spree"

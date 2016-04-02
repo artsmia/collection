@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.47",
-  "artist": "Utagawa Kunimaru; Sōshūya Yohei",
+  "artist": "Artist: Utagawa Kunimaru; Artist: Sōshūya Yohei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1871,
   "image_width": 2629,
+  "inscription": "illegible pencil note on the edge",
   "life_date": "Japanese, 1794 - 1829",
-  "marks": "illegible pencil note on the edge {Utagawa Kunimaru ga}",
+  "markings": "Censor: Kiwame; publisher\\'s seal: {Sōshūya Yohē ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utagawa Kunimaru ga}",
   "style": "19th century",
   "text": "",
   "title": "View of the Shinmei Shrine at Shiba in Edo"

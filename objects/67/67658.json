@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,944",
-  "artist": "Torii Kiyonaga; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Torii Kiyonaga; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2813,
   "image_width": 1935,
+  "inscription": "",
   "life_date": "Japanese, 1752 - 1815",
-  "marks": " {Kiyonaga ga}",
+  "markings": "Publisher: Eijudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kiyonaga ga}",
   "style": "18th century",
   "text": "",
   "title": "[Four women in mitate as Ushiwaka serenading Jōruri-hime]"

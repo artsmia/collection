@@ -1,6 +1,7 @@
 {
   "accession_number": "46.34",
-  "artist": "Oliver Mason",
+  "artist": "Artist: Oliver Mason",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Local Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature in black watercolor, LR: [Oliver Mason]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black watercolor, LR: [Oliver Mason]",
   "style": "20th century",
   "text": "",
   "title": "Colorado Woods"

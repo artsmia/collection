@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,925",
-  "artist": "Max Beckmann",
+  "artist": "Artist: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of J.B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature and Inscription\r\nin Beckmann\\'s hand at b LR: [Beckmann]",
+  "inscription": "Signature and Inscription\r\nin Beckmann\\'s hand at bottom: [Beckmann Bildnis J.B.N. 1919 Rad]\r\ninscribed at right: [Bildnis V.B.N]\r\nnumber 20 in a circle",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "German",
   "provenance": "unidentified stamp verso: Bundles denkmal in violet",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of J.B. Neumann"

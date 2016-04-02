@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.18.5",
-  "artist": "Duncan Hannah",
+  "artist": "Maker: Duncan Hannah",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Dr. Glen D. Nelson",
@@ -14,8 +15,9 @@
   "image_copyright": "© Duncan Hannah",
   "image_height": 2661,
   "image_width": 3690,
+  "inscription": "Signed, dated, numbered, annotated, chop mark",
   "life_date": "American, born 1952",
-  "marks": "Signed, dated, numbered, annotated, chop mark LR: [State Proof -w- notes - archive / Duncan Hann",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [State Proof -w- notes - archive / Duncan Hannah 9.11.90]",
   "style": "20th century",
   "text": "",
   "title": "Under the El"

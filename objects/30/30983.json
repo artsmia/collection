@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.13",
-  "artist": "Dong Qichang",
+  "artist": "Maker: Dong Qichang",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2102,
   "image_width": 4350,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese",
-  "marks": "Signature; Stamps artist\\'s signature and seal, at left center top ed",
+  "markings": "",
   "medium": "Ink on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and seal, at left center top edge",
   "style": "17th century",
   "text": "",
   "title": "Shoreline Landscape"

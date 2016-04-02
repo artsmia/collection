@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.174",
-  "artist": "Sho_rakusai Sho_ju",
+  "artist": "Artist: Sho_rakusai Sho_ju",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3427,
   "image_width": 4055,
+  "inscription": "30 haiku poems",
   "life_date": "Japanese, fl. late 18th-early 19th c.",
-  "marks": "30 haiku poems Sho_ju",
+  "markings": "\\\"Sho_ju ??\\\" seal\r\n\\\"Fuyu haru gin(poems made in late winter and early spring)",
   "medium": "Woodblock print (surimono); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Sho_ju",
   "style": "19th century",
   "text": "",
   "title": "(Leaping carp)"

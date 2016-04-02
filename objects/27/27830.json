@@ -1,6 +1,7 @@
 {
   "accession_number": "92.158.37",
-  "artist": "Frederick William Hulme",
+  "artist": "Artist: Frederick William Hulme",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Leo A. Hodroff",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3380,
   "image_width": 4409,
+  "inscription": "Signature",
   "life_date": "British, 1816 - 1884",
-  "marks": "Signature [F.W.Hulme]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[F.W.Hulme]",
   "style": "19th century",
   "text": "",
   "title": "The Sunday Morning Walk"

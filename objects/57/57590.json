@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,307",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2665,
   "image_width": 3524,
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "Watermark: Strasburg bend in shield surmounted by a lily, cf. Heawood 141",
   "medium": "Etching and drypoint",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "The Three Trees is the largest and most famous of Rembrandt's twenty-six landscape etchings. Nearly two-thirds of the image is filled with a lively passing storm, a comment on nature's inescapable power. A closer look, however, reveals that various human activities are unfolding beneath the roiling sky. Up on the dike behind the three trees, a wagonload of travelers heads toward the tiny figure of an artist sketching. At left, an angler tries his luck; at far right, two lovers try to conceal themselves in the bushes. The three trees themselves have religious connotations, signifying not only the Trinity but also the three crosses on Calvary. \r\n",
   "title": "The Three Trees"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,039",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1963",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Title\r\n\r\nsee Signed\r\n\r\nTitle noted in pencil by artist at L.L. M.: [Nile Boats]",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature and Title\r\n\r\nsee Signed\r\n\r\nTitle noted i in pencil at L.R. Margin: [Philip Kappel]",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil at L.R. Margin: [Philip Kappel]",
   "style": "20th century",
   "text": "",
   "title": "Nile Boats"

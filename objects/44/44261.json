@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.23",
-  "artist": "Joe Goode (Jose Bueno)",
+  "artist": "Artist: Joe Goode (Jose Bueno)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Irving Weiser",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition\r\nsee Signed\r\n\r\nlower left: [4/10]",
   "life_date": "American, born 1937",
-  "marks": "Signature; Date; Edition\r\nsee Signed\r\n\r\nlower left lower right: [Joe Goode 1998]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "lower right: [Joe Goode 1998]",
   "style": "20th century",
   "text": "",
   "title": "Untitled, from Moon Series"

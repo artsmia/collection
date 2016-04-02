@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,696",
-  "artist": "Johan Georg Wille; after Adriaen van Ostade",
+  "artist": "Artist: Johan Georg Wille; Artist: after Adriaen van Ostade",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription and Mark\r\n\r\ntop upper left just outside image: [18 Platte]",
   "life_date": "French, 1715 - 1808",
-  "marks": "Inscription and Mark\r\n\r\ntop upper left just outsid ",
+  "markings": "Collector\\'s marks",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Les bons Amis"

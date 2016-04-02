@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.111",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4744,
   "image_width": 3808,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "In pencil, LL front: [PI 8]; in pencil, LR front: [PEXX]; in ink, LR front: [Eringus Marinus]; in ink, UR front: [11?]; illegible word, in pencil, upper center front",
   "medium": "Watercolor and tempera",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Sea Holly (Eringium Maritimum)"

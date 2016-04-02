@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,327",
-  "artist": "Robert J. Wickenden",
+  "artist": "Artist: Robert J. Wickenden",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1861 - 1931",
-  "marks": " In pencil/ R.J.W 93 plate on rt. bot",
+  "markings": "Stamp W. 44 on sheet",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil/ R.J.W 93 plate on rt. bot",
   "style": "19th century",
   "text": "",
   "title": "La Mére Pannecaye"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.91.7.1",
-  "artist": "Kiki Smith; Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Kiki Smith; Publisher: Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5250,
   "image_width": 5253,
+  "inscription": "Signature, Date, Edition, Chop Mark\r\n\r\nsee Signed, Mark(s)\r\n\r\nNumbered in pencil, LR",
   "life_date": "American, born Germany, 1954",
-  "marks": "Signature, Date, Edition, Chop Mark\r\n\r\nsee Signed, Signed, dated in pencil, LR: [Kiki Smith 1990]",
+  "markings": "Publisher\\'s blindstamp, LR: [ULAE]",
   "medium": "Color lithograph \r\n",
   "nationality": "German-American",
   "provenance": "(John C. Stoller Gallery, Minneapolis); sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [Kiki Smith 1990]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Hair)"

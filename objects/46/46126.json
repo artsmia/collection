@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.45",
-  "artist": "Richard Anuszkiewicz; Printed by Editions Lassiter-Meisel, New York",
+  "artist": "Artist: Richard Anuszkiewicz; Printer: Printed by Editions Lassiter-Meisel, New York",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Richard Anuszkiewicz %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Numbered LL in pencil <9/45>",
   "life_date": "American, born 1930",
-  "marks": "Numbered LL in pencil <9/45> LR in pencil <Anuszkiewicz>",
+  "markings": "Unidentified chop mark LL",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "Target Corporation, Minnepolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in pencil <Anuszkiewicz>",
   "style": "20th century",
   "text": "",
   "title": "Trans-Lumina with Turquoise"

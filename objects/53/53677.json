@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,321",
-  "artist": "Canaletto (Giovanni Antonio Canal)",
+  "artist": "Artist: Canaletto (Giovanni Antonio Canal)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Miss Eileen Bigelow and Mrs. O. H. Ingram, in memory of their mother, Mrs. Alice F. Bigelow, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian (Venice), 1697 - 1768",
-  "marks": "Yes ",
+  "inscription": "Yes",
+  "life_date": "Italian (Venice), 1697–1768",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Panorama D' une Ville Baignée Par Une Rivière"

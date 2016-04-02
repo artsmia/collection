@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.78",
-  "artist": "Utagawa Kuniyoshi; Ibaya Senzaburō",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Ibaya Senzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2811,
   "image_width": 1858,
+  "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": " {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Censor: Yoshimura, Muramatsu; publisher\\'s seal: {Iba-sen}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Fashionable Crowd of the New Year's Day"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.23.3",
-  "artist": "Zigmunds Priede",
+  "artist": "Artist: Zigmunds Priede",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. James Duffey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition; Title; Mark\r\n\r\nsee Signed\r\n\r\nin pencil, LR verso: [Arctic-Stone]",
   "life_date": "American, born (Latvia) 1935",
-  "marks": "Signature; Date; Edition; Title; Mark\r\n\r\nsee Signe in pencil, LL: [A/P  Priede \\'75 (c)]",
+  "markings": "Watermark: <J Whatman 1951 England>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LL: [A/P  Priede \\'75 (c)]",
   "style": "20th century",
   "text": "",
   "title": "Arctic-Stone"

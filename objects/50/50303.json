@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.149",
-  "artist": "Karl Schmidt-Rottluff",
+  "artist": "Artist: Karl Schmidt-Rottluff",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Mr. and Mrs. Hall James Peterson Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "image_height": 4020,
   "image_width": 3236,
-  "life_date": "German, 1884 - 1976",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1884–1976",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Large Prophetess"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.20,378dup",
-  "artist": "Thomas Sheraton",
+  "artist": "Maker: Thomas Sheraton",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Watermark",
   "life_date": "British, 1751 - 1806",
-  "marks": "Watermark ",
+  "markings": "watermark",
   "medium": "Etching, printed in color",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Chairs"

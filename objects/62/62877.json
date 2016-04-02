@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.229.1.26",
-  "artist": "Alexa Horochowski",
+  "artist": "Artist: Alexa Horochowski",
+  "classification": "Books",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Weiser Family Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Sticker",
   "life_date": "American (b. Argentina)",
-  "marks": "Sticker ",
+  "markings": "URC: [$1.49]",
   "medium": "Ink on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Frontera Siniestra"

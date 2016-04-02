@@ -1,6 +1,7 @@
 {
   "accession_number": "92.57.5",
-  "artist": "Agnes Story",
+  "artist": "Artist: Agnes Story",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Date",
   "life_date": "American (b. Venezuela), born 1956",
-  "marks": "Signature; Date LR: [A. Story \\'84]",
+  "markings": "",
   "medium": "Conté crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [A. Story \\'84]",
   "style": "20th century",
   "text": "",
   "title": "Study for 'Swimming Pool'"

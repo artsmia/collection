@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.57",
-  "artist": "Satō Hōdai",
+  "artist": "Artist: Satō Hōdai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3502,
   "image_width": 4682,
+  "inscription": "12 poems abour the New Year",
   "life_date": "Japanese, act. c. 1845 - 1875",
-  "marks": "12 poems abour the New Year [保大] {Hōdai}",
+  "markings": "red artist\\'s seal: [保大] {Hōdai}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[保大] {Hōdai}",
   "style": "19th century",
   "text": "",
   "title": "(Three white mice)"

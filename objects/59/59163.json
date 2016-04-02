@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.65",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2417,
   "image_width": 3507,
+  "inscription": "Signed, dated, numbered, chopmark",
   "life_date": "American, born 1949",
-  "marks": "Signed, dated, numbered, chopmark LC: [T.L. Solien \\'85]\r\nLL: [CTP 3/4]",
+  "markings": "LL: VEL chopmark",
   "medium": "Lithograph and screenprint",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.; Mr. and Mrs. George McKay Reid, Minnepolis; given to MIA, 1986.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [T.L. Solien \\'85]\r\nLL: [CTP 3/4]",
   "style": "20th century",
   "text": "",
   "title": "The Husband Lost at Sea"

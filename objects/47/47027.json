@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.94.3",
-  "artist": "Henri de Toulouse-Lautrec",
+  "artist": "Artist: Henri de Toulouse-Lautrec",
+  "classification": "Books",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1864 - 1901",
-  "marks": " ",
+  "markings": "",
   "medium": "Lithographs, letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Exposition de la Dépêche de Toulouse (The Toulouse Dispatch)"

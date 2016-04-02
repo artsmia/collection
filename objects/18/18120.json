@@ -1,6 +1,7 @@
 {
   "accession_number": "52.5",
-  "artist": "Julia Pearl",
+  "artist": "Artist: Julia Pearl",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date\r\n\r\nsee Signed",
   "life_date": "American, born 1928",
-  "marks": "Signature, Date\r\n\r\nsee Signed LL: [Julia Pearl 4/52]",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Julia Pearl 4/52]",
   "style": "20th century",
   "text": "",
   "title": "Family Portrait"

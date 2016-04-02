@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.50.25",
-  "artist": "Chris Kakas",
+  "artist": "Artist: Chris Kakas",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1941",
-  "marks": "Signature and Mark\r\n\r\nsee Signed in pencil: [Chris Kakas]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Chris Kakas]",
   "style": "20th century",
   "text": "",
   "title": "Big Fish Game"

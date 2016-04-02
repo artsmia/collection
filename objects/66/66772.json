@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.204",
-  "artist": "Utagawa Kuniyoshi",
+  "artist": "Artist: Utagawa Kuniyoshi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2900,
   "image_width": 1991,
+  "inscription": "Written at edge: [64] (64th poem in the anthology); Sadayori\\'s poem (and detailed description of the scene where the poem was made):\r\n\r\n{Asa-borake \r\nUji no kawa-giri\r\nTaedae ni\r\nArawarewataru\r\nSeze no ajiro-gi}\r\n\r\n(Early dawn reveals fishing weirs in the morning mist of the Uji river)\r\n\r\n",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "Written at edge: [64] (64th poem in the anthology) {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Red artist\\'s seal; Publisher: Ebisu",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Illustration of the Fujiwara Sadayori's Poem"

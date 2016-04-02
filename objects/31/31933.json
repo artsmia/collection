@@ -1,6 +1,7 @@
 {
   "accession_number": "99.230.5",
-  "artist": "Sigismund Blumann",
+  "artist": "Photographer: Sigismund Blumann",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. Donald and Alice Lappé",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title; Signature; Date; Stickers; Inscription",
   "life_date": "American, 1872 - 1956",
-  "marks": "Title; Signature; Date; Stickers; Inscription ",
+  "markings": "\\'Mount Ranier Sigismund Blumann\\', in pencil, on mount below image; photographer\\'s sticker and New York Camera Club stickers, on back of mount; \\'M021\\', in pencil, at UL corner on back of mount",
   "medium": "gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Mount Ranier"

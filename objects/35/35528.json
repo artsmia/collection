@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.108.3",
-  "artist": "Edwin Dickinson",
+  "artist": "Artist: Edwin Dickinson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard L. Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Title; Date\r\n\r\nsee Signed",
   "life_date": "American, 1891 - 1978",
-  "marks": "Signature; Title; Date\r\n\r\nsee Signed in graphite vertically along the left-hand edge: [",
+  "markings": "",
   "medium": "Graphite",
   "nationality": null,
   "provenance": "(James Graham & Sons Gallery, New York, sold to Hillstrom, 1968); Rev. Richard L. Hillstrom, Edina, Minn., 1968-2001; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite vertically along the left-hand edge: [1939/Sheldrake]; in graphite, verso: [Prow Wyer\\'s Glen/1939]",
   "style": "20th century",
   "text": "",
   "title": "Prow, Wyer's Glen"

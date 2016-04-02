@@ -1,6 +1,7 @@
 {
   "accession_number": "82.120",
-  "artist": "Douglas Cumming",
+  "artist": "Artist: Douglas Cumming",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Timothy Tully",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1971 Douglas Cumming",
   "image_height": 3572,
   "image_width": 3533,
+  "inscription": "Signature and Date",
   "life_date": "American, born 1943",
-  "marks": "Signature and Date on verso: [Cumming \\'71]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on verso: [Cumming \\'71]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

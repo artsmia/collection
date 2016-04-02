@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,895",
-  "artist": "Samuel Arlent Edwards; after Fra Filippo Lippi",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: after Fra Filippo Lippi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Artist, 1923",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature in pencil on sheet",
+  "inscription": "Signature",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on sheet",
   "style": "19th century",
   "text": "",
   "title": "Madonna"

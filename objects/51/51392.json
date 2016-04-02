@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,581",
-  "artist": "Horace Vernet",
+  "artist": "Artist: Horace Vernet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. R. E. Lewis, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and marks",
   "life_date": "French, 1789 - 1863",
-  "marks": "Signature and marks Lower left on image: [H. Vernet]",
+  "markings": "Lower left on sheet: [Ber. 128-146] and [20 B75]",
   "medium": "Lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Lower left on image: [H. Vernet]",
   "style": "19th century",
   "text": "",
   "title": "Les deux Pigeons"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,054",
-  "artist": "Henry Moses; Henry Moses; W. &amp; J. Munn",
+  "artist": "Artist: Henry Moses; Engraver: Henry Moses; Publisher: W. &amp; J. Munn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark; Inscription",
   "life_date": "English, 1782-1870",
-  "marks": "Mark; Inscription ",
+  "markings": "\\'J. Whatman, 1801\\', on watermark; \\'Published as the Act directs December 1, 1804 by W. & J. Munn\\', in black ink, center bottom verso",
   "medium": "Engraving and soft-ground etching, tinted in sepia wash",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Sewing Circle"

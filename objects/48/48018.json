@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,949",
-  "artist": "Martin Schongauer",
+  "artist": "Artist: Martin Schongauer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4694,
   "image_width": 3341,
+  "inscription": "Mark",
   "life_date": "German, c. 1450-1491",
-  "marks": "Mark ",
+  "markings": "Watermark: Lehr 6",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Albertina Dupl. (Lugt Suppl. 5g)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Christ Before the High Priest Caiaphas"

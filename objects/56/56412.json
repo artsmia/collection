@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.53",
-  "artist": "Virgil Solis",
+  "artist": "Artist: Virgil Solis",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3276,
   "image_width": 4314,
+  "inscription": "Inscription\r\nEnglish text verso",
   "life_date": "German, 1514 - 1562",
-  "marks": "Inscription\r\nEnglish text verso ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "New Testament Scene"

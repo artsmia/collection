@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.10.5",
-  "artist": "Robert Mangold; Published by Crown Point Press, San Francisco",
+  "artist": "Artist: Robert Mangold; Publisher: Published by Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© Robert Mangold %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4856,
   "image_width": 4815,
+  "inscription": "Signature",
   "life_date": "American, born 1937",
-  "marks": "Signature on verso",
+  "markings": "",
   "medium": "Color aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on verso",
   "style": "20th century",
   "text": "",
   "title": "Plate E, from Five Aquatints"

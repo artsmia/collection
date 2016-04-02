@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.20",
-  "artist": "Ellsworth Kelly; Published by Maeght Editeur, Paris",
+  "artist": "Artist: Ellsworth Kelly; Publisher: Published by Maeght Editeur, Paris",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2015 Ellsworth Kelly",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1923",
-  "marks": "Signature; Edition\r\n\r\nNumbered in pencil, LLC: [25 Signed in pencil, LRC: [Kelly]",
+  "inscription": "Signature; Edition\r\n\r\nNumbered in pencil, LLC: [25/75]",
+  "life_date": "American, 1923 - 2015",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Target Corporation, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LRC: [Kelly]",
   "style": "20th century",
   "text": "",
   "title": "Cyclamen V"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,314",
-  "artist": "Unknown English, 16th century; Ackerman &amp; Co.",
+  "artist": "Artist: Unknown English, 16th century; Publisher: Ackerman &amp; Co.",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. C.C. Bovey, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Funeral Procession of the Duke of Wellington"

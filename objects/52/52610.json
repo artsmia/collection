@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,333",
-  "artist": "Giovanni Battista Piranesi",
+  "artist": "Artist: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Martha T. Wallace Memorial Fund, 1930",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian, 1720–1778",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "A Prison Door, Surmounted by a Colossal Wheel-Shaped Opening, Crossed by Beams"

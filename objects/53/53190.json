@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,159",
-  "artist": "Robert James Malone",
+  "artist": "Artist: Robert James Malone",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date",
   "life_date": "American, 1892 - 1934",
-  "marks": "Signature, Date In pencil in lower margin:  [Robert James Malone];",
+  "markings": "Collector\\'s \\\"D\\\" stamp printed on verso; watermark:  <Umbria Italia>\r\n",
   "medium": "Etching on wove paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  [Robert James Malone];\r\nEtched in plate at lower right and center left: [Robert James Malone, 1927]",
   "style": "20th century",
   "text": "",
   "title": "A Rag, A Press, A Copper Plate, and Jo Pennell"

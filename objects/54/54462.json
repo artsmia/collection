@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,893",
-  "artist": "Antonio Frasconi",
+  "artist": "Artist: Antonio Frasconi",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Antonio Frasconi %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American and Uruguayan (born Argentina), 1919-2013",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Frasconi]",
+  "markings": "",
   "medium": "Color woodcut and screenprint",
   "nationality": "American and Uruguayan",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Frasconi]",
   "style": "20th century",
   "text": "",
   "title": "Reflection"

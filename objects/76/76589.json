@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.28.18",
-  "artist": "Kawase Hasui; Published by Kawaguchi Jirō; Carved by Maeda Kentarō; Printed by Komatsu Wasankichi",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Kawaguchi Jirō; Carver: Carved by Maeda Kentarō; Printer: Printed by Komatsu Wasankichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Paul Schweitzer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "bottom margin: 昭和四年十二月作 {Shōwa yonen jūnigatsu saku} (made in December 1929)",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": "bottom margin: 昭和四年十二月作 {Shōwa yonen jūnigatsu sak LRC: 巴水 {Hasui}",
+  "markings": "LRC, red round artist\\'s seal: 川セ {Kawase} | LL margin publisher\\'s seal: カワグチ {Kawaguchi} | LR margin: 彫前田摺小松　版権所有 {hori Maeda suri Komatsu, hanken shoyū} (carved by Maeda, printed by Komatsu, copyright)",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: 巴水 {Hasui}",
   "style": "20th century",
   "text": "second edition published by Kawaguchi alone",
   "title": "Snow at Zōjōji Temple"

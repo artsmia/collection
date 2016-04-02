@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.9",
-  "artist": "Robert Moskowitz",
+  "artist": "Artist: Robert Moskowitz",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4560,
   "image_width": 3950,
+  "inscription": "Signature; Date; Inscription\r\n\r\n\r\n\r\n",
   "life_date": "American, born 1935",
-  "marks": "Signature; Date; Inscription\r\n\r\n\r\n\r\n LR in graphite: [Working Plan RM 85]",
+  "markings": "",
   "medium": "Graphite and ballpoint pen",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in graphite: [Working Plan RM 85]",
   "style": "20th century",
   "text": "",
   "title": "Working Plan for 'Cadillac Chopsticks'"

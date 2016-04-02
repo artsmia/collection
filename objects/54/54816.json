@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.39",
-  "artist": "Stephen Buckley; Bernard Jacobson Ltd.",
+  "artist": "Artist: Stephen Buckley; Publisher: Bernard Jacobson Ltd.",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, born 1944",
-  "marks": "Signature in pencil: [Stephen Buckley]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color etching and aquatint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Stephen Buckley]",
   "style": "20th century",
   "text": "",
   "title": "Untitled, from September Suite"

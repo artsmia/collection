@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.89",
-  "artist": "Unknown Netherlandish or German",
+  "artist": "Artist: Unknown Netherlandish or German",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands or Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3344,
   "image_width": 2782,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored woodcut",
   "nationality": null,
   "provenance": "Knoedler & Co., 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "Though this is now the only known impression of this print, the publisher was clearly intent on mass producing such images. At the right edge of the sheet is a fragment of another woodcut printed simultaneously. Over time, it is often the cheapest, most common prints that become rare, for no one thinks to preserve them.",
   "title": "The Last Judgment"

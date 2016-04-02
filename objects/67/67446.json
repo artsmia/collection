@@ -1,6 +1,7 @@
 {
   "accession_number": "51.40.1",
-  "artist": "Kawase Hasui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Margaret McMillan Webber Estate",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1878,
   "image_width": 2789,
+  "inscription": "bottom margin: Bamboo Yard at Komagata (Bank of Sumida River) by Kawase Hasui 1919",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": "bottom margin: Bamboo Yard at Komagata (Bank of Su LRC: 巴水 {Hasui} | LRC: 大正八初夏 {Taishō hachi shoka} ",
+  "markings": "LRC, red lozenge artist\\'s seal: 川セ {Kawase} | LL, round publisher seal A: ワタナベ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: 巴水 {Hasui} | LRC: 大正八初夏 {Taishō hachi shoka} (Early Summer 1919)",
   "style": "20th century",
   "text": "",
   "title": "Komagata Embankment"

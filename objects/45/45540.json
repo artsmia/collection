@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.8",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Paintings",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1981 T.L. Solien",
   "image_height": "",
   "image_width": "",
+  "inscription": "Dayton\\'s sticker, on back",
   "life_date": "American, born 1949",
-  "marks": "Dayton\\'s sticker, on back \\\"T. Solien/81/Mr. Sandman\\\", in pencil, on back",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"T. Solien/81/Mr. Sandman\\\", in pencil, on back",
   "style": "20th century",
   "text": "",
   "title": "Mr. Sandman"

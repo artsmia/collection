@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.234.1",
-  "artist": "Benton Spruance",
+  "artist": "Artist: Benton Spruance",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2877,
   "image_width": 1844,
+  "inscription": "Signature, Title and Edition\r\n\r\nsee Signed\r\n\r\nLLC below image, in pencil: [Ed. 50]",
   "life_date": "American, 1904 - 1967",
-  "marks": "Signature, Title and Edition\r\n\r\nsee Signed\r\n\r\nLLC  LRC in image, in black: [BS]; LRC below image, in ",
+  "markings": "\r\n",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC in image, in black: [BS]; LRC below image, in pencil: [B Spruance]; below image, center, in pencil: [Young Lincoln]",
   "style": "20th century",
   "text": "",
   "title": "Young Lincoln"

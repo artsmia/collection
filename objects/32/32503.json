@@ -1,6 +1,7 @@
 {
   "accession_number": "B.97.6.6",
-  "artist": "Edward Ruscha; Published by Edward Ruscha; Printed by Blair Litho, Los Angeles",
+  "artist": "Artist: Edward Ruscha; Publisher: Published by Edward Ruscha; Printer: Printed by Blair Litho, Los Angeles",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Library Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Ed Ruscha",
   "image_height": "",
   "image_width": "",
+  "inscription": "none",
   "life_date": "American, born 1937",
-  "marks": "none unsigned",
+  "markings": "Distributor\\'s name and address stamped in black ink on title page. MIA ex-library markings on exterior and interior.",
   "medium": "Artist's book; four-color offset printing",
   "nationality": "American",
   "provenance": "Transferred from MIA Library",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "unsigned",
   "style": "20th century",
   "text": "",
   "title": "Nine Swimming Pools and a Broken Glass"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.23.9",
-  "artist": "Andy Warhol",
+  "artist": "Artist: Andy Warhol",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Andy Warhol Foundation for the Visual Arts%2C Inc. %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4957,
   "image_width": 4957,
+  "inscription": "Signature; Edition",
   "life_date": "American, 1928 - 1987",
-  "marks": "Signature; Edition Signed in ink, numbered with rubber stamp, verso",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in ink, numbered with rubber stamp, verso",
   "style": "20th century",
   "text": "",
   "title": "Mao"

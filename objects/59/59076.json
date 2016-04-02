@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.16.3",
-  "artist": "Virginia Randolph-Bueide",
+  "artist": "Artist: Virginia Randolph-Bueide",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3155,
   "image_width": 3359,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1938",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Virginia Randolph 1978]\r\nLL: [A.P. 6/8]\r\nLL: ",
+  "markings": "LC: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Virginia Randolph 1978]\r\nLL: [A.P. 6/8]\r\nLL: [Water]",
   "style": "20th century",
   "text": "",
   "title": "Water"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.13",
-  "artist": "Eric Fischl; Parasol Press Ltd., New York",
+  "artist": "Artist: Eric Fischl; Publisher: Parasol Press Ltd., New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Edition\r\n\r\nNumbered in pencil",
   "life_date": "American, born 1948",
-  "marks": "Signature; Date; Edition\r\n\r\nNumbered in pencil Signed, dated in pencil",
+  "markings": "",
   "medium": "Color aquatint\r\n",
   "nationality": "American",
   "provenance": "[John C. Soller, Minneapolis]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil",
   "style": "20th century",
   "text": "",
   "title": "Dark Figure, from Four Aquatints"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.101",
-  "artist": "Natori Shunsen; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Natori Shunsen; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2834,
   "image_width": 1928,
+  "inscription": "昭和三年作 {Shōwa sannen saku} (made in 1928)",
   "life_date": "Japanese, 1886 - 1960",
-  "marks": "昭和三年作 {Shōwa sannen saku} (made in 1928) 春仙子 {Shunsen-shi}",
+  "markings": "red artist\\'s seal: 温墅 {Onsho} | publisher seal: 版權所有渡邊庄三郎 {hanken shoyū Watanabe Shōzaburō} (copyright Watanabe Shōzaburō) | on back, red seal: 百五拾枚限り絶版　第百参拾貮番 {hyakugojū mai kagiri zeppan, dai hyakusanjūni ban} (limited edition of 150, number 132)",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "春仙子 {Shunsen-shi}",
   "style": "20th century",
   "text": "",
   "title": "Combing Hair"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,141",
-  "artist": "Timothy Cole; after Andrea del Sarto",
+  "artist": "Artist: Timothy Cole; Artist: after Andrea del Sarto",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "p. 56 In plate, on sheet",
+  "inscription": "p. 56",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "19th century",
   "text": "",
   "title": "Two Angels (Cherubs)"

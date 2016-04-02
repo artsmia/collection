@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.92",
-  "artist": "Utagawa Kuniyoshi; Published by Enshūya Matabei",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Enshūya Matabei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2708,
   "image_width": 1895,
+  "inscription": "several examples of how being patient makes you smart",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "several examples of how being patient makes you sm {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Publisher: Murata; red artist\\'s seal; publisher\\'s seal: {Enshūya Matabē}; [2] (the number of the piece in the series)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Be Patient"

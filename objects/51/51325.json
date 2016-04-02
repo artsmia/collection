@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,951",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1955",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2598,
   "image_width": 5018,
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " In pencil lower right margin:  Joseph Pennell\r\nEtc",
+  "markings": "collector\\'s \\\"D\\\" stamp printed L.R. on recto",
   "medium": "Etching, laid paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil lower right margin:  Joseph Pennell\r\nEtched in plate L.R.:  Jo Pennell\r\n",
   "style": "19th century",
   "text": "",
   "title": "Yesterday and Today in Venice"

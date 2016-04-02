@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.113",
-  "artist": "Utagawa Toyokuni; Published by Yamamotoya Heikichi",
+  "artist": "Artist: Utagawa Toyokuni; Publisher: Published by Yamamotoya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2721,
   "image_width": 1872,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "Censor:kiwame\r\nPublisher:Yamamotoya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "19th century",
   "text": "",
   "title": "The Actor Iwai Matsunosuke"

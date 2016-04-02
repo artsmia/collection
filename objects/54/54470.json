@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.16.2",
-  "artist": "John Himmelfarb; Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: John Himmelfarb; Printer: Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1946",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [John Himmelfarb]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [John Himmelfarb]",
   "style": "20th century",
   "text": "",
   "title": "The Clock and the Rose"

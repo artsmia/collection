@@ -1,6 +1,7 @@
 {
   "accession_number": "P.96.5",
-  "artist": "Jean-Jacques Flipart; after Charles-Nicolas Cochin  II",
+  "artist": "Artist: Jean-Jacques Flipart; Artist: after Charles-Nicolas Cochin  II",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6545,
   "image_width": 7355,
-  "life_date": "French, 1719 - 1782",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1715 - 1790",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Concours pour le prix de l'etude des têtes et de l'expression"

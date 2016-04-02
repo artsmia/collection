@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,953",
-  "artist": "Sebastiano dei' Valentinis",
+  "artist": "Artist: Sebastiano dei' Valentinis",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian",
-  "marks": "Signature In image on plate, LRC",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In image on plate, LRC",
   "style": "16th century",
   "text": "",
   "title": "Repose in Egypt"

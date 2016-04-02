@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,214",
-  "artist": "Joseph Pennell; Cassell &amp; Co., Ltd.",
+  "artist": "Artist: Joseph Pennell; Publisher: Cassell &amp; Co., Ltd.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " in plate-upper left",
+  "markings": "",
   "medium": "Etching, chine colle",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate-upper left",
   "style": "19th century",
   "text": "",
   "title": "The Ponte Vecchio, Florence"

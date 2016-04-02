@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.90",
-  "artist": "attributed to Okumura Masanobu",
+  "artist": "Artist: attributed to Okumura Masanobu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2790,
   "image_width": 2031,
+  "inscription": "left side is full page text, probably the profile of Ben no naishi and some episodes of her life",
   "life_date": "Japanese, 1686 - 1764",
-  "marks": "left side is full page text, probably the profile  ",
+  "markings": "\\\"gi jin ? 5\\\" written on upper center\r\n\\\"11\\\" (probably page number) on lower center",
   "medium": "From a woodblock printed book; ink on paper, with hand-applied color",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Ben no naishi"

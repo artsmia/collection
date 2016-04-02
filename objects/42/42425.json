@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.83",
-  "artist": "Matsumura Keibun",
+  "artist": "Artist: Matsumura Keibun",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3641,
   "image_width": 4685,
+  "inscription": "16 haiku poems about winter",
   "life_date": "Japanese, 1779 - 1843",
-  "marks": "16 haiku poems about winter Keibun",
+  "markings": "\\\"Keibun\\\" sealed in red\r\n",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Keibun",
   "style": "19th century",
   "text": "",
   "title": "Autumn Leaves and Pine Needles"

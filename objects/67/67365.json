@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.76",
-  "artist": "Steven Campbell",
+  "artist": "Artist: Steven Campbell",
+  "classification": "Prints",
   "continent": null,
   "country": "Scotland",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Steven Campbell",
   "image_height": 3850,
   "image_width": 3181,
+  "inscription": "Signature, Date and Edition",
   "life_date": "Scottish, 1953-2007",
-  "marks": "Signature, Date and Edition LRC, in pencil: [Steven M. Campbell 1983]",
+  "markings": "LLC, in pencil: [12/20]",
   "medium": "Woodcut on Japan paper",
   "nationality": null,
   "provenance": "Weinstein Gallery, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Steven M. Campbell 1983]",
   "style": "20th century",
   "text": "",
   "title": "Gesturing Hiker"

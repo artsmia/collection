@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.81.1",
-  "artist": "RCA Victor Manufacturing Co., Inc.",
+  "artist": "Manufacturer: RCA Victor Manufacturing Co., Inc.",
+  "classification": "Industrial Design",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Various Donors, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Sticker\r\n\r\nOn bottom: manufacturer\\'s label",
   "life_date": "Camden, New Jersey, est. 1901",
-  "marks": "Sticker\r\n\r\nOn bottom: manufacturer\\'s label ",
+  "markings": "",
   "medium": "Bakelite, felt, metal, cardboard, electrical compnents",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Electric phonograph, model R-100"

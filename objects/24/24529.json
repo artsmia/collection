@@ -1,6 +1,7 @@
 {
   "accession_number": "84.54",
-  "artist": "Cameron Booth",
+  "artist": "Artist: Cameron Booth",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Mrs. Cameron Booth",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3392,
   "image_width": 4246,
+  "inscription": "Signature and Date",
   "life_date": "American, 1892 - 1980",
-  "marks": "Signature and Date Signed and dated LRC: [CB 59]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated LRC: [CB 59]",
   "style": "20th century",
   "text": "",
   "title": "Sombrous #4"

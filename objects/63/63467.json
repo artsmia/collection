@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.168",
-  "artist": "Hosoda Eishi; Published by Takasu Sōshichi",
+  "artist": "Artist: Hosoda Eishi; Publisher: Published by Takasu Sōshichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2657,
   "image_width": 1975,
+  "inscription": "",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": " Eishi ga",
+  "markings": "Censor:kiwame\r\nPublisher:Shiba, Takasu",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Eishi ga",
   "style": "18th century",
   "text": "",
   "title": "September"

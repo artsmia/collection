@@ -1,6 +1,7 @@
 {
   "accession_number": "54.23",
-  "artist": "Herculaneum Pottery",
+  "artist": "Artist: Herculaneum Pottery",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Myron C. Balch",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3914,
   "image_width": 3388,
+  "inscription": "Mark",
   "life_date": "c. 1793 - 1841",
-  "marks": "Mark ",
+  "markings": "[Wm. Russel, Junr.]; appears below the lip of the pitcher",
   "medium": "Glazed earthenware (creamware) with transfer printed decoration",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Jug"

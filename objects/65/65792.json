@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,551",
-  "artist": "Emil Nolde (born Emil Hansen)",
+  "artist": "Artist: Emil Nolde (born Emil Hansen)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Purchase: A. Frumkin; The Miscellaneous Works of Art Purchase Fund, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nolde Stiftung Seeb%C3%BCll",
   "image_height": 4588,
   "image_width": 3766,
-  "life_date": "German, 1867 - 1956",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1867–1956",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th Century",
   "text": "",
   "title": "The Peddler"

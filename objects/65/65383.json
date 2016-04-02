@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.268.7",
-  "artist": "Maw &amp; Company, Ltd.",
+  "artist": "Manufacturer: Maw &amp; Company, Ltd.",
+  "classification": "Ceramics",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Christopher Monkhouse in honor of Gep Durenberger",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3092,
   "image_width": 3116,
+  "inscription": "Stamp",
   "life_date": "Shropshire, England",
-  "marks": "Stamp ",
+  "markings": "on back, stamped: [MAW & CO/ BROMELEY (?)]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile with Organic Design"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.158.3a-i",
-  "artist": "Man Ray (Emmanuel Rudnitsky); Text by Jean Cocteau; Published by Librairie Stock",
+  "artist": "Artist: Man Ray (Emmanuel Rudnitsky); Author: Text by Jean Cocteau; Publisher: Published by Librairie Stock",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Transfer from the Art Research and Reference Library",
@@ -14,8 +15,9 @@
   "image_copyright": "© Man Ray Trust %2F Artists Rights Society %28ARS%29%2C NY %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1890 - 1976",
-  "marks": " ",
+  "markings": "",
   "medium": "Heliogravure of a Rayogram, letterpress",
   "nationality": "American",
   "provenance": "Origin unknown. Transfer from MIA Research and Reference Library.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "L'ange Heurtebise"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.8",
-  "artist": "Wilber H. Schilling; Text by Michael Dennis Browne and Patricia Hampl; Published by Frederick R. Weisman Art Museum , Minneapolis",
+  "artist": "Artist: Wilber H. Schilling; Author: Text by Michael Dennis Browne and Patricia Hampl; Publisher: Published by Frederick R. Weisman Art Museum , Minneapolis",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsigned by designer and authors on colophon page",
   "life_date": "American, born 1962",
-  "marks": "Signature\r\nsigned by designer and authors on colop ",
+  "markings": "",
   "medium": "Color illustration, letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "2 for 5:  Two Authors--Five Years"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.81",
-  "artist": "Utagawa Hiroshige; Published by Sakanaya Eikichi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Sakanaya Eikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2677,
   "image_width": 1793,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga 広重画",
+  "markings": "Censor: Kai, March 1857\r\nPublisher: Sakanaya Eikichi",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga 広重画",
   "style": "19th century",
   "text": "",
   "title": "Nakagawa River Mouth"

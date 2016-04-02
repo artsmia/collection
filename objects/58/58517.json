@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.33",
-  "artist": "Clayton Pond",
+  "artist": "Artist: Clayton Pond",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\n\r\nsee Signed",
   "life_date": "American, born 1941",
-  "marks": "Signature; Date; Inscription\r\n\r\nsee Signed on sheet, in ballpoint: [For Abby Grey with much t",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet, in ballpoint: [For Abby Grey with much thanks - Clayton Pond  \\'67]",
   "style": "20th century",
   "text": "",
   "title": "The Red Chair"

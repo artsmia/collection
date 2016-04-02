@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.108.4",
-  "artist": "John E. Heliker",
+  "artist": "Artist: John E. Heliker",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard L. Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1909",
-  "marks": "Signature LL: [Heliker]",
+  "markings": "",
   "medium": "Pastel",
   "nationality": null,
   "provenance": "[Krauhaar Galleries, New York]\r\nRev. Richard Lewis Hillstrom, Edina, MN, 1968",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Heliker]",
   "style": "20th century",
   "text": "",
   "title": "Voyage"

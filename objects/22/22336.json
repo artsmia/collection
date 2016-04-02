@@ -1,6 +1,7 @@
 {
   "accession_number": "80.51.4",
-  "artist": "J. Culbert",
+  "artist": "Artist: J. Culbert",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3630,
   "image_width": 4693,
+  "inscription": "Signature; Date; Inscription",
   "life_date": "British, active about 1800",
-  "marks": "Signature; Date; Inscription [J. Culber invü delü 1798], in grey ink, in margin",
+  "markings": "[3 V114] (circled), in pencil, on verso",
   "medium": "Pen and black ink, wash and watercolor on white wove paper, laid down on edges",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J. Culber invü delü 1798], in grey ink, in margin LR",
   "style": "19th century",
   "text": "",
   "title": "Spring"

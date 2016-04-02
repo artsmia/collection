@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.249",
-  "artist": "Utagawa Hiroshige; Ibaya Senzaburō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Ibaya Senzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2701,
   "image_width": 1804,
+  "inscription": "Description of a scene of the Soga brothers\\' story: (They found their enemy hunting in the field located the foot of Mt. Asama. They were waiting for a chance to kill him, but they couldn\\'t make it at that time.)\r\n{Kamakura dono shinano no kuni Asamagatake no fumoto naru Miharano ni kari shii kereba, Soga kyōdai no hitobito wa suwa toki kinu to iiawase kariba no hitokazu ni magire tsutsu teki Kudō wo nerau to iedomo jisetus ya ima ni itarazari ken, bengi wo ezareba sugosugo to furusato e koso kaeri kere.}",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Description of a scene of the Soga brothers\\' story ",
+  "markings": "Censor: Muramatsu",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Scene of The Soga Brothers' Story"

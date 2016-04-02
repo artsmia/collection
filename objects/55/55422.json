@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.60",
-  "artist": "Antonio Tapies",
+  "artist": "Artist: Antonio Tapies",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VEGAP%2C Spain",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\\\"Al Dr. R.L. Simmons, Tapies\\\"",
   "life_date": "Spanish, 1923-2012",
-  "marks": "Signature\r\n\\\"Al Dr. R.L. Simmons, Tapies\\\" In pencil: [Tapies]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Tapies]",
   "style": "20th century",
   "text": "",
   "title": "Print for Second International Course of Renal Transplantation"

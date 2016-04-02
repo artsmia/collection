@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.15",
-  "artist": "David F. Driesbach",
+  "artist": "Artist: David F. Driesbach",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American",
-  "marks": "Signature; Mark on sheet",
+  "markings": "Watermark:  <RIVES>",
   "medium": "Etching and handset type",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Margo's Last Chance"

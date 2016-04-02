@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.23",
-  "artist": "Stefan Martin",
+  "artist": "Artist: Stefan Martin",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title, edition and inscription\r\nbottom edge in pencil: [Futility 196/300 Stefan Martin Sc.]",
   "life_date": "American (born Lithuania), 1898 - 1969",
-  "marks": "Signature, title, edition and inscription\r\nbottom  LLC in red: [Ben Shahn]; LRC in black: [Ben Shahn]",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC in red: [Ben Shahn]; LRC in black: [Ben Shahn]",
   "style": "20th century",
   "text": "",
   "title": "Futility"

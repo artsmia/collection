@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.5",
-  "artist": "Jim Dine; Styria Studio, New York; Experiments in Art and Technology (E.A.T.), New York",
+  "artist": "Artist: Jim Dine; Printer: Styria Studio, New York; Publisher: Experiments in Art and Technology (E.A.T.), New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition",
   "life_date": "American, born 1935",
-  "marks": "Signature, Edition LL:  [Jim Dine  1/4 T.P.]",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL:  [Jim Dine  1/4 T.P.]",
   "style": "20th century",
   "text": "",
   "title": "Peaches, 1969"

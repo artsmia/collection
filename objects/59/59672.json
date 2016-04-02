@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.6",
-  "artist": "William Weege",
+  "artist": "Artist: William Weege",
+  "classification": "Multiples",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John W. Ittmann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition, Chop mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LC: [7/50]",
   "life_date": "American, born 1935",
-  "marks": "Signature, Date, Edition, Chop mark\r\n\r\nsee Signed\r Signed, dated in pencil, LC: [Weege 76]",
+  "markings": "Publisher\\'s chop (?) above signature",
   "medium": "Colored paper pulp",
   "nationality": "American",
   "provenance": "John W. Ittmann, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LC: [Weege 76]",
   "style": "20th century",
   "text": "",
   "title": "Shooting Star"

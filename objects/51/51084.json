@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.244",
-  "artist": "Peregino da Cesena",
+  "artist": "Artist: Peregino da Cesena",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Italian",
-  "marks": " ",
+  "markings": "",
   "medium": "Niello engraving",
   "nationality": "Italian",
   "provenance": "von Zelebor, Vienna, 1880; A. Freiherr von Lanna, 5712, L. 2773; Frederick Keppel, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Three Women Dancing"

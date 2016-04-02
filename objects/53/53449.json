@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,846",
-  "artist": "William B. Closson; after Henry Sandham",
+  "artist": "Artist: William B. Closson; Artist: after Henry Sandham",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Miss A. G. Latham, 1943",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, 1848 - 1926",
-  "marks": "Signature; Mark [WBC] in pencil, also in plate",
+  "markings": "monogram on left and H. Sandham on right",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[WBC] in pencil, also in plate",
   "style": "19th century",
   "text": "",
   "title": "The Old Tower"

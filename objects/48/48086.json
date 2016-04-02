@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.109",
-  "artist": "Russell Sidney Reeve",
+  "artist": "Artist: Russell Sidney Reeve",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Josephine Scott Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title\r\n\r\nin pencil: [Westminster]",
   "life_date": "British, 1895 - 1970",
-  "marks": "Signature; Title\r\n\r\nin pencil: [Westminster] in pencil, LR: [Russell S. Reeve]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [Russell S. Reeve]",
   "style": "20th century",
   "text": "",
   "title": "Westminster"

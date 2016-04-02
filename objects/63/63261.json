@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.241.1",
-  "artist": "Suzuki Kason; Published by Hasegawa Takejiro_",
+  "artist": "Artist: Suzuki Kason; Publisher: Published by Hasegawa Takejiro_",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Nancy M. Rose",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "8 poems by famous British poets",
   "life_date": "Japanese, 1860 - 1919",
-  "marks": "8 poems by famous British poets Kason on the back cover",
+  "markings": "publisher\\'s name on the front cover\r\nartist\\'s seal on the back cover",
   "medium": "Woodblock printed book; ink and color on paper, with hand-applied color",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kason on the back cover",
   "style": "19th century",
   "text": "",
   "title": "Glimpses of Japan"

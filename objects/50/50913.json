@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.3",
-  "artist": "Annibale Carracci",
+  "artist": "Artist: Annibale Carracci",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4453,
   "image_width": 3390,
-  "life_date": "Italian (Bologna), 1560 - 1609",
-  "marks": "Signature In plate: [An. Caracci. fe]; along lower edge [P. ",
+  "inscription": "Signature",
+  "life_date": "Italian (Bologna), 1560–1609",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "Italian (Bologna)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate: [An. Caracci. fe]; along lower edge [P. S. F.]",
   "style": "16th-17th century",
   "text": "Even as northern Protestants were making Jerome their own, Counter-Reformation artists were exploiting the hermit's story to make an appeal for the Catholic faith. With characteristic naturalism, Carracci endowed Jerome with an intensity of feeling that makes his communion with God palpable. Carricci's expressive style invites beholders to enter Jerome's world, emulate his ecstatic spirituality, and ultimately glimpse the divine themselves.  ",
   "title": "Saint Jerome in the Wilderness"

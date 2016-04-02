@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.257.35",
-  "artist": "Malcolm H. Myers",
+  "artist": "Artist: Malcolm H. Myers",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Dr. James J. Duffey and Maureen O. Sullivan Duffey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"11/17\\\", in graphite",
   "life_date": "American, 1917-2002",
-  "marks": "\\\"11/17\\\", in graphite \\\"Malcom H. Myers\\\", in graphite, LR",
+  "markings": "",
   "medium": "Color aquatint, etching, and golf leaf; edition of 17",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Malcom H. Myers\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Don Quixote Gild Leaf"

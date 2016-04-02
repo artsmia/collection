@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.63.14",
-  "artist": "A Pupil of Katsushika Hokusai",
+  "artist": "Artist: A Pupil of Katsushika Hokusai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1748,
   "image_width": 2462,
+  "inscription": "kyōka by Rokusuikan Tenchū",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "kyōka by Rokusuikan Tenchū {Ōju(ordered made by) Hoku?? ga}\r\n",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ōju(ordered made by) Hoku?? ga}\r\n",
   "style": "19th century",
   "text": "",
   "title": "New Year's Day of the Year of Horse"

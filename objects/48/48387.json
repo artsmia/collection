@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,433",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Richard P. Gale, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1500-1550",
-  "marks": "Signature monogram in plate, upper left: [HSB]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in plate, upper left: [HSB]",
   "style": "16th century",
   "text": "",
   "title": "Three Soldiers and a Dog"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.12.9",
-  "artist": "Kn Thurlbeck",
+  "artist": "Artist: Kn Thurlbeck",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Canada",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2687,
   "image_width": 3497,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "Canadian, born 1957",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LC: [Kn Thurlbecl 1985]\r\nLR: [6/7]\r\nLR: VEL Chop M",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph",
   "nationality": "Canadian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [Kn Thurlbecl 1985]\r\nLR: [6/7]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

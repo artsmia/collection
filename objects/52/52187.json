@@ -1,6 +1,7 @@
 {
   "accession_number": "P.47.177",
-  "artist": "Luca Carlevarijs",
+  "artist": "Artist: Luca Carlevarijs",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of John Crosby",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, 1663 - 1730",
-  "marks": "Signature name on plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "name on plate",
   "style": "18th century",
   "text": "",
   "title": "St. Giorgio, Chiefa de Greci"

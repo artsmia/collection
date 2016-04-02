@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.251",
-  "artist": "Hans Leonhard Schäufelein",
+  "artist": "Artist: Hans Leonhard Schäufelein",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2471,
   "image_width": 4171,
+  "inscription": "Mark",
   "life_date": "German, c. 1482 - 1539/40",
-  "marks": "Mark ",
+  "markings": "Watermark: \\\"R\\\" in coat-of-arms",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Ambroise Firmin-Didot, (L. 119); J. J. Peoli, (l. 2020); Frederick Keppel, 1916",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "Using drawing skills honed in Albrecht Dürer's workshop, Hans Schäufelein focused on justice for Susanna. Prompted by God, Daniel asks each elder separately under which tree she committed her alleged adultery. When they gave differing answers, their lie was exposed. Schäufelein compressed the narrative to include, clockwise from back right: the elders entering the garden, Daniel questioning Susanna, her maids, the courtroom, and the elders being put to death.",
   "title": "Susanna and the Elders"

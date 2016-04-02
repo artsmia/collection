@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.92",
-  "artist": "Utagawa Kuniyoshi; Published by Kazusaya Iwazō",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Kazusaya Iwazō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Robert W. Groth",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2793,
   "image_width": 1968,
+  "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": " Ichiyu_sai Kuniyoshi ga",
+  "markings": "Censor:Muramatsu, Fukushima\r\nPublisher:unknown seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ichiyu_sai Kuniyoshi ga",
   "style": "19th century",
   "text": "",
   "title": "(Two Ghosts from Famous Ghosts Series)"

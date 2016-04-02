@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.63",
-  "artist": "Abraham Bloemaert",
+  "artist": "Artist: Abraham Bloemaert",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2860,
   "image_width": 4054,
-  "life_date": "Dutch, 1566 - 1651",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1566–1651",
+  "markings": "",
   "medium": "Pen and black ink and brown wash with touches of white over black chalk on laid paper",
   "nationality": "Dutch",
   "provenance": "William Pitcairn Knowles, Lugt 2643 (1820-1894), Rotterdam. Sale, Sotheby's, London, July 4, 1994, no. 44, for £3,400, to Moir; Alfred Moir, Santa Barbara (1994-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Adoration of the Shepherds"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,574",
-  "artist": "Horace Vernet",
+  "artist": "Artist: Horace Vernet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. R. E. Lewis, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title and mark",
   "life_date": "French, 1789 - 1863",
-  "marks": "Signature, title and mark Lower left below image: [H. Vernet]; In pencil low",
+  "markings": "Lower left, backing sheet: [10]",
   "medium": "Lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Lower left below image: [H. Vernet]; In pencil lower right, backing sheet: [La Fontaine]",
   "style": "19th century",
   "text": "",
   "title": "L'Astrologue qui se laisse tomber dans un puits"

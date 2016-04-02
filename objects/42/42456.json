@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.152",
-  "artist": "Jim Dine",
+  "artist": "Artist: Jim Dine",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Thomas Edblom",
@@ -14,8 +15,9 @@
   "image_copyright": "© Jim Dine %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4906,
   "image_width": 5822,
+  "inscription": "Signature",
   "life_date": "American, born 1935",
-  "marks": "Signature In pencil: [Jim Dine]",
+  "markings": "",
   "medium": "Color lithograph with gingham collage",
   "nationality": "American",
   "provenance": "Torson, Dayton's Gallery 12\r\nSee P.12,753",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Jim Dine]",
   "style": "20th century",
   "text": "",
   "title": "Double Apple Palette with Gingham"

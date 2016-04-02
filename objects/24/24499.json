@@ -1,6 +1,7 @@
 {
   "accession_number": "84.73",
-  "artist": "Raoul Dufy",
+  "artist": "Artist: Raoul Dufy",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Estate of  of Dorothy Millett Lindeke",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 3554,
   "image_width": 4674,
+  "inscription": "Signature; Date; Title; Mark; Inscriptions; Label\r\nUL, verso: [E. Bignou]; UR, verso: [Stuart Art Gallery Jean B. Derving (Director), 1943]; on label, back of frame: [NIWEAU GALLERY/63 East 57th Street/New York, N.Y./Ref. no. 625]",
   "life_date": "French, 1877-1953",
-  "marks": "Signature; Date; Title; Mark; Inscriptions; Label\r ",
+  "markings": "LR: [1933];Watermark: <Arches> at both left and right margins",
   "medium": "Gouache and watercolor",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Epsom"

@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.11",
-  "artist": "John Newman",
+  "artist": "Artist: John Newman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 2549,
   "image_width": 3836,
+  "inscription": "Inscription\r\n\r\nUR in litho crayon: [JAN/1985 Archive]",
   "life_date": "American, born 1952",
-  "marks": "Inscription\r\n\r\nUR in litho crayon: [JAN/1985 Archi ",
+  "markings": "",
   "medium": "Graphite, litho crayon, and orange grease pencil",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Annotated Sketch for 'Fold-Out'"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,936",
-  "artist": "Isoda Koryūsai",
+  "artist": "Artist: Isoda Koryūsai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2579,
   "image_width": 1990,
+  "inscription": "poem",
   "life_date": "Japanese, 1735 - 1790 ?",
-  "marks": "poem [湖龍画] {Koryū ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Fenollosa to Ford (1904)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[湖龍画] {Koryū ga}",
   "style": "18th century",
   "text": "",
   "title": "Weather Clearing at Awazu"

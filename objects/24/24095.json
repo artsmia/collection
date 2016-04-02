@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.11",
-  "artist": "Gordon Grant",
+  "artist": "Artist: Gordon Grant",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1875 - 1962",
-  "marks": "Signature signed LL in ink",
+  "markings": "",
   "medium": "Watercolor and graphite",
   "nationality": "American",
   "provenance": "Dr. and MRs. John E. Larkin, \r\nDr. and Mrs. John E. Larkin, Dellwood, Minn.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed LL in ink",
   "style": "20th century",
   "text": "",
   "title": "Overhauling Sails"

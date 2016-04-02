@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.99",
-  "artist": "Watanabe Shōzaburō; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Watanabe Shōzaburō; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1911,
   "image_width": 2847,
+  "inscription": "{Shōwa jūichinen sangatsu 24 ka utsusu}",
   "life_date": "Japanese, 1885 - 1962",
-  "marks": "{Shōwa jūichinen sangatsu 24 ka utsusu} ",
+  "markings": "{Watanabe kakōsaku}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Evening View from Nishi Park in Fukuoka"

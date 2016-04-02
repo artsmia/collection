@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.153",
-  "artist": "Utagawa Kuniyoshi; Carved by Shinzō",
+  "artist": "Artist: Utagawa Kuniyoshi; Carver: Carved by Shinzō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4530,
   "image_width": 3952,
+  "inscription": "Poem by Do_tei Tsukimaru",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "Poem by Do_tei Tsukimaru Ichiyu_sai Kuniyoshi ga",
+  "markings": "LRC red printer seal: {Surikō Shinzō}; Drum mark inred is the mark of poet circle Taiko-ren",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ichiyu_sai Kuniyoshi ga",
   "style": "19th century",
   "text": "",
   "title": "Ki(ri)shun; Five-sheet print of Collecting Brine, no. 2"

@@ -1,6 +1,7 @@
 {
   "accession_number": "78.103.3",
-  "artist": "David Trowbridge",
+  "artist": "Artist: David Trowbridge",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edward A. Foster",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2945,
   "image_width": 3754,
+  "inscription": "Signature; Date",
   "life_date": "American, 1945-2009",
-  "marks": "Signature; Date Signed and dated in pencil, LR: [TROWBRIDGE 1973]",
+  "markings": "",
   "medium": "Acrylic paint on acetate",
   "nationality": "American",
   "provenance": "Edward A. Foster (former MIA curator of prints and drawings), Minneapolis; given to MIA, 1978.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [TROWBRIDGE 1973]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

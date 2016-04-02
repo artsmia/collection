@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.12.6",
-  "artist": "Nicholas Africano; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Nicholas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 2943,
   "image_width": 3840,
+  "inscription": "Signed, dated, numbered, inscribed, and chop mark\r\n",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, numbered, inscribed, and chop mark\r LR: [Nicholas Africano 1986]\r\nLL: [A.P. 1/8]\r\nPrin",
+  "markings": "LR: VEL chop mark",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nicholas Africano 1986]\r\nLL: [A.P. 1/8]\r\nPrinted inscription, UC: [Memoir]",
   "style": "20th century",
   "text": "",
   "title": "Memoir"

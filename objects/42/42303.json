@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.17",
-  "artist": "Busetsu",
+  "artist": "Artist: Busetsu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3335,
   "image_width": 4461,
+  "inscription": "",
   "life_date": "Japanese, active c.1860",
-  "marks": " {Busetsu hitsu}",
+  "markings": "Red artist\\'s seal: {Jiraku} (maybe his gō or poet name)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Busetsu hitsu}",
   "style": "19th century",
   "text": "",
   "title": "(White doves on drum)"

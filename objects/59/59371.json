@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.12",
-  "artist": "Agnes Story",
+  "artist": "Artist: Agnes Story",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3150,
   "image_width": 3675,
+  "inscription": "Signed, Dated, Numbered, VEL Chop Mark",
   "life_date": "American (b. Venezuela), born 1956",
-  "marks": "Signed, Dated, Numbered, VEL Chop Mark UR: [AGNES STORY 1984]\r\nUR: [A.P. 2/8]\r\nLL: VEL Ch",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph, screenprint, and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [AGNES STORY 1984]\r\nUR: [A.P. 2/8]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Pool"

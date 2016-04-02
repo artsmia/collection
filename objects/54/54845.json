@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.92",
-  "artist": "John Hoyland",
+  "artist": "Artist: John Hoyland",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription; Mark\r\nEDS",
   "life_date": "British, 1934-2011",
-  "marks": "Signature; Inscription; Mark\r\nEDS in pencil: [John Hoyland]",
+  "markings": "Chop: J. Green",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [John Hoyland]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

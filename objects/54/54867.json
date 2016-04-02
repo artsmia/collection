@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.12",
-  "artist": "Ellsworth Kelly; Printed by Styria Studio, New York; Published by Experiments in Art and Technology (E.A.T.), New York",
+  "artist": "Artist: Ellsworth Kelly; Printer: Printed by Styria Studio, New York; Publisher: Published by Experiments in Art and Technology (E.A.T.), New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2015 Ellsworth Kelly",
   "image_height": 4563,
   "image_width": 3460,
-  "life_date": "American, born 1923",
-  "marks": "Signature; Edition, Stamp\r\n\r\nsee Signed\r\n\r\nNumbere Initialed in pencil, LR: [E.K.]",
+  "inscription": "Signature; Edition, Stamp\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [T.P. 1/4]",
+  "life_date": "American, 1923 - 2015",
+  "markings": "Stamp, verso",
   "medium": "Screenprint in black ink",
   "nationality": "American",
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York); sold to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed in pencil, LR: [E.K.]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

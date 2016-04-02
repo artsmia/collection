@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,970",
-  "artist": "José Guadalupe Posada",
+  "artist": "Artist: José Guadalupe Posada",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of J. B. Neumann",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2965,
   "image_width": 4138,
+  "inscription": "Yes",
   "life_date": "Mexican, 1852 - 1913",
-  "marks": "Yes ",
+  "markings": "howe",
   "medium": "Relief engraving",
   "nationality": "Mexican",
   "provenance": "J.B. Neumann, Berlin, Germany; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Procession"

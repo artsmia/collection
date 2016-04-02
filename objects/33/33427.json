@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.6",
-  "artist": "Giovanni Baglione",
+  "artist": "Artist: Giovanni Baglione",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4320,
   "image_width": 3202,
+  "inscription": "Inscription\r\n\r\nLRC, in black: [471]",
   "life_date": "Italian, 1566 - 1643",
-  "marks": "Inscription\r\n\r\nLRC, in black: [471] ",
+  "markings": "",
   "medium": "Pen and brown ink and wash on laid paper",
   "nationality": "Italian",
   "provenance": "[Colnaghi, London, until 1989; sold July 19, as Anonymous Italian, for £1,250, to Moir]; Alfred Moir, Santa Barbara (1989-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th-17th century",
   "text": "",
   "title": "Saint Lawrence Restoring the Sight of Lucillus"

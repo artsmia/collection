@@ -1,6 +1,7 @@
 {
   "accession_number": "96.61",
-  "artist": "Unknown Italian",
+  "artist": "Artist: Unknown Italian",
+  "classification": "Manuscript",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Marion and John Andrus",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5276,
   "image_width": 3895,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Black ink and gouache on vellum",
   "nationality": null,
   "provenance": "Marion and John Andrus, Wayzata, Minn., until 1996; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Leaf from an Antiphonary"

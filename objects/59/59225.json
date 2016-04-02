@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.13",
-  "artist": "Maurice- Elie Sarthou",
+  "artist": "Artist: Maurice- Elie Sarthou",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"143/220\\\", in graphite, LL; \\\"Le port\\\", in graphite, LL",
   "life_date": "French",
-  "marks": "\\\"143/220\\\", in graphite, LL; \\\"Le port\\\", in graphite \\\"M.E. Sarthou\\\", in graphite, LR",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"M.E. Sarthou\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Le Port"

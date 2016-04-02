@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,910",
-  "artist": "Katsushika Hokusai; Poem by Iwama Otsuni; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Katsushika Hokusai; Author: Poem by Iwama Otsuni; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Bara no hana / chiri nu ru ori ka / oka no ie, Otsuni (Roses may start falling / at the garden of the house / on the hill, Otsuni; transl. by Dr. N. Hayasho, Oct. 2007)",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Bara no hana / chiri nu ru ori ka / oka no ie, Ots Saki no Hokusai Iitsu hitsu 前北斎為一筆",
+  "markings": "red censor seal: kiwame 極; red publisher\\'s seal: Eijudō 永寿堂",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saki no Hokusai Iitsu hitsu 前北斎為一筆",
   "style": "19th century",
   "text": "The verse above the bush-warbler reads: \r\n\r\n   <p>The house on the hill opens\r\n          when the rose scatters her petals.<p>",
   "title": "Warbler and Roses"

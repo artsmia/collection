@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.102.1",
-  "artist": "Barbara Harman; J. F. Powers; Minnesota Center for Book Arts, Minneapolis",
+  "artist": "Artist: Barbara Harman; Author: J. F. Powers; Publisher: Minnesota Center for Book Arts, Minneapolis",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Harold Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 20th century",
-  "marks": " \\\"J.F. Powers\\\", in black ink, on colophon page",
+  "markings": "",
   "medium": "Woodcuts, letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"J.F. Powers\\\", in black ink, on colophon page",
   "style": "20th century",
   "text": "",
   "title": "The Old Bird, A Love Story"

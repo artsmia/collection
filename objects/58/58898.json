@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.33",
-  "artist": "Red Grooms; Brooke Alexander",
+  "artist": "Artist: Red Grooms; Publisher: Brooke Alexander",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 5232,
   "image_width": 3474,
+  "inscription": "Signed, numbered, and chop mark.",
   "life_date": "American, born 1937",
-  "marks": "Signed, numbered, and chop mark. LR, in red pencil: [Red Grooms]\r\nLL, in red pencil",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in red pencil: [Red Grooms]\r\nLL, in red pencil: [H.C. 3/7]\r\n",
   "style": "20th century",
   "text": "",
   "title": "The Tattoo Artist"

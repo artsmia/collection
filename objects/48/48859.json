@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.367",
-  "artist": "Emil Nolde (born Emil Hansen)",
+  "artist": "Artist: Emil Nolde (born Emil Hansen)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Hall James Peterson Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nolde Stiftung Seeb%C3%BCll",
   "image_height": 4528,
   "image_width": 3731,
-  "life_date": "German, 1867 - 1956",
-  "marks": "Signatures Signed and dated  in pencil, LR: [Emile Nolde 06].",
+  "inscription": "Signatures",
+  "life_date": "German, 1867–1956",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "German",
   "provenance": "Christie's London, 5-28-61, RPN; sold to MIA, 1968.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated  in pencil, LR: [Emile Nolde 06]. Counter-signed by printer in pencil, LL",
   "style": "20th century",
   "text": "",
   "title": "Farmer and Wife"

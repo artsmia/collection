@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,419",
-  "artist": "Käthe Kollwitz; Published by Gesellschaft fur vervielfaltigende Kunst, Vienna",
+  "artist": "Artist: Käthe Kollwitz; Publisher: Published by Gesellschaft fur vervielfaltigende Kunst, Vienna",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Printed inscription along bottom edge noting medium, title, and publisher.",
   "life_date": "German, 1867-1945",
-  "marks": "Printed inscription along bottom edge noting mediu Not signed",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "German",
   "provenance": "William M. Ladd, Portland, Ore., sold to Jones; Herschel V. Jones, Minneapolis, until 1916; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Not signed",
   "style": "20th century",
   "text": "",
   "title": "Portrait of a Working Woman with Blue Shawl"

@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.10",
-  "artist": "John Newman",
+  "artist": "Artist: John Newman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Newman",
   "image_height": 3829,
   "image_width": 2696,
+  "inscription": "Inscription\r\n\r\nUR inscribed: [Jan/1985/Archive]",
   "life_date": "American, born 1952",
-  "marks": "Inscription\r\n\r\nUR inscribed: [Jan/1985/Archive] ",
+  "markings": "",
   "medium": "Graphite and colored felt-tip marker on tracing vellum",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Sketch for 'Fold-Out'"

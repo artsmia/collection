@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.297",
-  "artist": "Utagawa Hiroshige; Daikokuya Heikichi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Daikokuya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2455,
   "image_width": 1779,
+  "inscription": "poem (waka) see P.18.133.181",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "poem (waka) see P.18.133.181 {Hiroshige ga}",
+  "markings": "Censor: Muramatsu; publisher\\'s seal: {Taihei ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "Pounding Silk in Settsu Province"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.185",
-  "artist": "Utagawa Hiroshige; Koshimuraya Heisuke",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1760,
   "image_width": 2755,
+  "inscription": "Yes(kyo_ka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Yes(kyo_ka) ",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Autumn Moon at Seto"

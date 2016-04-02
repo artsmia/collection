@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,653",
-  "artist": "James Fagan; after T. Hill",
+  "artist": "Artist: James Fagan; Artist: after T. Hill",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"T. Hill\\\" in plate lr corner",
   "life_date": "American, 1864 - 1910",
-  "marks": "\\\"T. Hill\\\" in plate lr corner On plate",
+  "markings": "",
   "medium": "Etching with brown ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On plate",
   "style": "19th century",
   "text": "",
   "title": "Headwaters of the Sacramento"

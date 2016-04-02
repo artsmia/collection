@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.8",
-  "artist": "Andrew Leicester",
+  "artist": "Artist: Andrew Leicester",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3027,
   "image_width": 3800,
+  "inscription": "Signed, Dated, Numbered, Titled, and Chop Mark",
   "life_date": "American (b. England), born 1948",
-  "marks": "Signed, Dated, Numbered, Titled, and Chop Mark LR: [LEICESTER 78]\r\nLL: [2/8 AP]\r\nLL: [DIAMOND]\r\nL",
+  "markings": "VEL Chop Mark",
   "medium": "Lithograph and embossing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [LEICESTER 78]\r\nLL: [2/8 AP]\r\nLL: [DIAMOND]\r\nLL: VEL Chop Mark\r\n",
   "style": "20th century",
   "text": "",
   "title": "Diamond"

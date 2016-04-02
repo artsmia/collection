@@ -1,6 +1,7 @@
 {
   "accession_number": "95.112.1",
-  "artist": "Greg Kelsey",
+  "artist": "Artist: Greg Kelsey",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Sally Johnson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\n\r\nin blue ink upper margin recto: [MAT/8 3/8x10½ Nuclear Landscape]",
   "life_date": "American, 1951-1991",
-  "marks": "Signature; Date; Inscription\r\n\r\nin blue ink upper  In blue ink upper margin: [Greg Kelsey 1977]",
+  "markings": "",
   "medium": "Oil, black ink wash, and collage on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In blue ink upper margin: [Greg Kelsey 1977]",
   "style": "20th century",
   "text": "",
   "title": "Nuclear Landscape"

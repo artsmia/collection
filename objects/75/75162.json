@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,627",
-  "artist": "Published by Justus Danckerts",
+  "artist": "Publisher: Published by Justus Danckerts",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Holland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3825,
   "image_width": 2065,
+  "inscription": "\r\n\r\n",
   "life_date": "Dutch, 1630 - 1695",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Engraving with contemporary color",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Frontispiece, from Atlas"

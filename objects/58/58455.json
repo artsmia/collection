@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,673",
-  "artist": "Anders Zorn; Published by Die Graphischen Künste",
+  "artist": "Artist: Anders Zorn; Publisher: Published by Die Graphischen Künste",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4336,
   "image_width": 3277,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swedish, 1860 - 1920",
-  "marks": "Signature\r\n\r\nsee Signed In plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "20th century",
   "text": "",
   "title": "Self Portrait I"

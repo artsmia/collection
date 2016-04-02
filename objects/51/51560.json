@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,830",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Edward A. Foster, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1838,
   "image_width": 2326,
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " In pencil",
+  "markings": "Collector\\'s \\\"D\\\" stamp printed on verso; no apparent watermark\r\n",
   "medium": "Etching and aquatint on Japan paper",
   "nationality": "American",
   "provenance": "Edward A. Foster, Minneapolis; his gift to MIA, 1965",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil",
   "style": "19th century",
   "text": "",
   "title": "La Tamise (The Thames)"

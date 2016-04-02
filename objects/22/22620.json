@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.149",
-  "artist": "Yashima Gakutei",
+  "artist": "Artist: Yashima Gakutei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2295,
   "image_width": 1981,
+  "inscription": "by Yamato Watamori: \r\n(Seeing off Gakute\\'s departure,\r\nSun rising in the eastern sky\r\n?????\r\nWhat kind of sky\r\nIs wating for you \r\nIn your travel)\r\n{Gakutei uji no tabidachi wo okurite\\'\r\nHigashi yori\r\n???? tomou\r\n?? no tsuru\r\nHinode no kimi wo\r\nMatsu tabi no sora}\r\n",
   "life_date": "Japanese, c.1786 - 1868",
-  "marks": "by Yamato Watamori: \r\n(Seeing off Gakute\\'s departu [岳亭] {Gakutei}",
+  "markings": "red artist\\'s seal: [島] {Shima}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[岳亭] {Gakutei}",
   "style": "19th century",
   "text": "",
   "title": "(Flying Crane, Rising Sun)"

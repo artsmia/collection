@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.19",
-  "artist": "Raphaël Drouart",
+  "artist": "Artist: Raphaël Drouart",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"5/60\\\", in graphite, LL; \\\"Le bassin du Luxembourg\\\", in graphite, LL",
   "life_date": "French, 1884 - 1972",
-  "marks": "\\\"5/60\\\", in graphite, LL; \\\"Le bassin du Luxembourg\\\" \\\"R Drouart\\\", in graphite, LR",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"R Drouart\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Le Bassin de Luxembourg (Luxembourg Basin)"

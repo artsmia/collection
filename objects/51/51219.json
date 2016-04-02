@@ -1,6 +1,7 @@
 {
   "accession_number": "P.36",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1753,
   "image_width": 2166,
+  "inscription": "In pencil in lower left margin:  Building the Bridge - Cologne July 31 1914; signed on stone:  J.Pennell",
   "life_date": "American, 1860 - 1926",
-  "marks": "In pencil in lower left margin:  Building the Brid In pencil in lower margin:  Jo Pennell",
+  "markings": "water: INGRES FRANCE",
   "medium": "Transfer lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  Jo Pennell",
   "style": "20th century",
   "text": "",
   "title": "Building the Bridge at Cologne"

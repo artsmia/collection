@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,253",
-  "artist": "Rembrandt Harmensz. van Rijn",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "Dutch",
   "provenance": "black stamp verso, H. Füssli and Co. (L.1008).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "This print's nickname-rather than referring to a tomb, as was long thought-is derived from the name of the person who may have commissioned it, either Nicolaes or Pieter de la Tombe.",
   "title": "Christ Preaching"

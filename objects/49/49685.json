@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.6.2",
-  "artist": "Antoine Claude François Villerey; after Jean-Michel Moreau le Jeune",
+  "artist": "Artist: Antoine Claude François Villerey; Artist: after Jean-Michel Moreau le Jeune",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1754 - 1828",
-  "marks": "Signature and Inscription\r\nengraved in plate, at L engraved in plate at LR margin: [Villerey Sc]",
+  "inscription": "Signature and Inscription\r\nengraved in plate, at LL margin: [J. Moreau Le J. D];",
+  "life_date": "French, 1741 - 1814",
+  "markings": "",
   "medium": "Engraving and etching",
   "nationality": "French",
   "provenance": "Proute, Paris",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "engraved in plate at LR margin: [Villerey Sc]",
   "style": "18th-19th century",
   "text": "",
   "title": "Harpageme"

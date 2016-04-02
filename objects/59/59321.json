@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.58",
-  "artist": "Tomas Frantisek (Franz) Simon",
+  "artist": "Artist: Tomas Frantisek (Franz) Simon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Czech Republic",
   "creditline": "Gift of Stanley Brackett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Marks",
   "life_date": "Czech, 1877 - 1942",
-  "marks": "Marks ",
+  "markings": "Watermark\r\nChopmark\r\n",
   "medium": "Color aquatint",
   "nationality": "Czech",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Winter"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.274",
-  "artist": "Otto Gampert",
+  "artist": "Artist: Otto Gampert",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swiss",
-  "marks": "Signature\r\n\r\nsee Signed [O. Gampert]",
+  "markings": "",
   "medium": "Soft-ground etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[O. Gampert]",
   "style": "19th century",
   "text": "",
   "title": "Gewitterluft"

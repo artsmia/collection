@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,302",
-  "artist": "Pablo Picasso; Printed by Auguste Delâtre",
+  "artist": "Artist: Pablo Picasso; Printer: Printed by Auguste Delâtre",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4967,
   "image_width": 3895,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "WM: [Van Gelder Zonen]",
   "medium": "Etching and drypoint",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th Century",
   "text": "This visual essay on the difference between physical and emotional closeness represents Picasso's first serious engagement with printmaking, an activity that would become a life-long passion. Impressions from the first edition have rich shadows, but impressions from the second edition-shown here-were printed more starkly, completely stripping the image of any romantic warmth.",
   "title": "Le repas frugal"

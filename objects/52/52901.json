@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,515",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2216,
   "image_width": 1786,
+  "inscription": "UR recto, in pencil: [05302J]\r\nLR recto, in pencil: [W.13.]\r\nLL verso, in pencil: [a33627]\r\nLC verso, in pencil: [15]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "UR recto, in pencil: [05302J]\r\nLR recto, in pencil Printed signature LL (diagonally) in the plate: [W",
+  "markings": "LR recto below image, in pencil: [(butterfly monogram)]",
   "medium": "Etching\r\n",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, OR), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LL (diagonally) in the plate: [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "Little Arthur from \"Twelve Etchings from Nature\""

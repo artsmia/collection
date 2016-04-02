@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.12",
-  "artist": "Karl Schmidt-Rottluff",
+  "artist": "Artist: Karl Schmidt-Rottluff",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mrs. Heinz Schultz",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Germany",
   "image_height": 3508,
   "image_width": 4393,
-  "life_date": "German, 1884 - 1976",
-  "marks": "Signature in pencil: [S. Rottluff]",
+  "inscription": "Signature",
+  "life_date": "German, 1884–1976",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Borgenicht Gallery",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [S. Rottluff]",
   "style": "20th century",
   "text": "",
   "title": "Russische Landschaft mit Wasserträger (Russian Landscape with Water Carrier), from the Zehn Holzschnitte (Ten Woodcuts) portfolio"

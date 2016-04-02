@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,187",
-  "artist": "Wanda Gag",
+  "artist": "Artist: Wanda Gag",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "Courtesy Wanda G%C3%A1g Estate",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark",
   "life_date": "American, 1893 - 1946",
-  "marks": "Signature; Date; Mark in pencil at L.R. margin: [WANDA GAG \\'35]",
+  "markings": "Watermark: <RIVES>\r\n",
   "medium": "Lithograph on zinc",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil at L.R. margin: [WANDA GAG \\'35]",
   "style": "20th century",
   "text": "",
   "title": "Uncle Frank's Workshop"

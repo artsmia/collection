@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.21",
-  "artist": "Louis Marcel Myr; Galerie Marcel Guiot",
+  "artist": "Artist: Louis Marcel Myr; Publisher: Galerie Marcel Guiot",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"55/75\\\", in graphite, LL",
   "life_date": "French, 1893 - 1964",
-  "marks": "\\\"55/75\\\", in graphite, LL \\\"M Myr\\\", in graphite, LR",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"M Myr\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Le Casino de Paris (The Paris Casino)"

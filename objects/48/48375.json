@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,867.8",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Inscription\r\n\r\ninscribed and numbered in plate, upper left: [7 / LVNA]",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Date, Inscription\r\n\r\ninscribed and numb monogram and date in plate, lower right: [1539 / H",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "W. Bell Scott (L. 2607); Lawsen Thompson (L. 1770)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date in plate, lower right: [1539 / HSB]",
   "style": "16th century",
   "text": "",
   "title": "Moon"

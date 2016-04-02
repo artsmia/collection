@@ -1,6 +1,7 @@
 {
   "accession_number": "74.93",
-  "artist": "Edmund M. Kopietz",
+  "artist": "Artist: Edmund M. Kopietz",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. Stanley H. Brackett in memory of his wife, Lois Martin Brackett",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, 1900 - 1998",
-  "marks": "Signature; Date LR: [E.M. Kopietz 34\\']",
+  "markings": "",
   "medium": "Watercolor over graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [E.M. Kopietz 34\\']",
   "style": "20th century",
   "text": "",
   "title": "St. Johnsbury, Vermont"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.145",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5220,
   "image_width": 3390,
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "pen & ink verso, not identified (l. 2085); pen & ink verso, prob. Paul Behaim (L. 365); black stamp verso, Julian Marshall (l. 1494); indistinguishable stamp verso",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Virgin and Child with the Monkey"

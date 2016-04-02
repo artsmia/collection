@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.293.28",
-  "artist": "Sam Francis; Published by Brooke Alexander Editions, New York",
+  "artist": "Artist: Sam Francis; Publisher: Published by Brooke Alexander Editions, New York",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Target Corporation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sam Francis Foundation %2F Artists Rights Society %28ARS%29%2C NY. All rights reserved.",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Publisher\\'s chop\r\n\r\nNumbered in pencil, LL",
   "life_date": "American, 1923 - 1994",
-  "marks": "Signature; Edition; Publisher\\'s chop\r\n\r\nNumbered i Signed in pencil LR",
+  "markings": "Publishers chop, LR verso",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Target Corporation, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil LR",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

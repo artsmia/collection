@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,343",
-  "artist": "Gustav Kruell; Harper &amp; Brothers, New York; after Alfred Kappers ?",
+  "artist": "Artist: Gustav Kruell; Publisher: Harper &amp; Brothers, New York; Artist: after Alfred Kappers ?",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "1842 - 1906",
-  "marks": " In plate",
+  "markings": "",
   "medium": "Engraving on wood",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "19th century",
   "text": "",
   "title": "Rent Day"

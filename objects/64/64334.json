@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.5",
-  "artist": "Buffalo Pottery",
+  "artist": "Manufacturer: Buffalo Pottery",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Janice Lea Lurie in memory of Sarah and Harry Freeman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3244,
   "image_width": 2880,
+  "inscription": "Stamp",
   "life_date": "Buffalo, New York",
-  "marks": "Stamp ",
+  "markings": "on bottom, in brown: [MADE IN/ U.S.A./ D.H.M.]",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Deldare Pitcher"

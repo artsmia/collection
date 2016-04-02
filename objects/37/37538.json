@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.155.20",
-  "artist": "Bunchō; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Bunchō; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Japanese, fl. c.1765-1792",
-  "marks": " {Ippitsusai Bunchō ga}",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "Publisher:Nishimura",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ippitsusai Bunchō ga}",
   "style": "18th century",
   "text": "",
   "title": "Nakamura Noshio I in a Female Role"

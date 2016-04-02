@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.57",
-  "artist": "John Sloan",
+  "artist": "Artist: John Sloan",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1871 - 1951",
-  "marks": "Signature on sheet, on plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet, on plate",
   "style": "20th century",
   "text": "",
   "title": "Anshutz on Anatomy"

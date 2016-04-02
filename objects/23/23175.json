@@ -1,6 +1,7 @@
 {
   "accession_number": "82.21",
-  "artist": "Harold Altman",
+  "artist": "Artist: Harold Altman",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1698,
   "image_width": 5312,
+  "inscription": "Signature",
   "life_date": "American, born 1924",
-  "marks": "Signature LR: [H. Altman]",
+  "markings": "",
   "medium": "Silverpoint",
   "nationality": "American",
   "provenance": "Bruce Dayton; Peter Deitsch (PD 77024, 1961')",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [H. Altman]",
   "style": "20th century",
   "text": "",
   "title": "The Market"

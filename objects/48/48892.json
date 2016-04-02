@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.126",
-  "artist": "Christian Rohlfs",
+  "artist": "Artist: Christian Rohlfs",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Mr. and Mrs. Hall James Peterson Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, 1849 - 1938",
-  "marks": " Signed in pencil, LR: Chr. Rohlfs",
+  "markings": "",
   "medium": "Linoleum cut in red-brown ink",
   "nationality": "German",
   "provenance": "(Karl & Faber, Munich); sold to MIA, 1969.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: Chr. Rohlfs",
   "style": "20th century",
   "text": "",
   "title": "Cerberus"

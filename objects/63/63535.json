@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.465",
-  "artist": "Utagawa Hiroshige; Published by Iseya Rihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Iseya Rihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1851,
   "image_width": 2847,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige ga}",
+  "markings": "red artist\\'s seal: {Utagawa}; publisher\\'s seal: {Kinjudō} (Iseya Rihei)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "No. 25, Yawata"

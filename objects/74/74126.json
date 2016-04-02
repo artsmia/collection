@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,831",
-  "artist": "Mark Catesby",
+  "artist": "Artist: Mark Catesby",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n\r\n\r\n\r\n",
   "life_date": "English, 1682/83 - 1749",
-  "marks": "\r\n\r\n\r\n\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Hand-colored etching",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Anona maxima, foliis oblongis angustis. . .Phalaena magna ex rufo & albo varia Americana"

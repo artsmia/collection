@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,940",
-  "artist": "Salvator Rosa",
+  "artist": "Artist: Salvator Rosa",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian (Naples), 1615 - 1673",
-  "marks": "Signature In plate",
+  "inscription": "Signature",
+  "life_date": "Italian (Naples), 1615–1673",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "17th century",
   "text": "",
   "title": "Diogenes and His Cap"

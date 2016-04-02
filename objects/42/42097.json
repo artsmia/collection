@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,952",
-  "artist": "Hosoda Eishi; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Hosoda Eishi; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2780,
   "image_width": 1858,
+  "inscription": "waka by Komachi\r\n\r\nColor of flowers had changed \r\nBefore I wasn\\'t aware of that\r\nWhile I\\'d been seeing the time\r\nPassing by me and the world\r\n\r\nHana no iro wa \r\nUtsuri ni keri na\r\nItazura ni\r\nWaga mi yo ni furu \r\nNagame seshi ma ni",
   "life_date": "Japanese, 1756 - 1829",
-  "marks": "waka by Komachi\r\n\r\nColor of flowers had changed \r\n Eishi ga",
+  "markings": "Censor:kiwame\r\nPublisher:Nishimuraya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Eishi ga",
   "style": "18th-19th century",
   "text": "",
   "title": "\"Courtesan as Komachi\""

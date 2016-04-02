@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.27.29",
-  "artist": "Angelica Caporaso",
+  "artist": "Artist: Angelica Caporaso",
+  "classification": "Prints",
   "continent": "South America",
   "country": "Argentina",
   "creditline": "Gift of Harlan D. Boss",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Title, Edition, Inscriptions\r\n\r\nsee Signed",
   "life_date": "Argentinian, born 1928",
-  "marks": "Signature, Date, Title, Edition, Inscriptions\r\n\r\ns Signed in pencil, LL: [A. Caporaso]",
+  "markings": "",
   "medium": "Color viscosity etching with aquatint",
   "nationality": "Argentinian",
   "provenance": "Harlan D. Boss, St. Paul; given to MIA, 1990.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LL: [A. Caporaso]",
   "style": "20th century",
   "text": "",
   "title": "The Dance"

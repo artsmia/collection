@@ -1,6 +1,7 @@
 {
   "accession_number": "P.758",
-  "artist": "Jonas Suyderhoef; after Gerard ter Borch",
+  "artist": "Artist: Jonas Suyderhoef; Artist: after Gerard ter Borch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(See Signed)",
   "life_date": "Dutch, about 1613 - 1686",
-  "marks": "Signature\r\n\r\n(See Signed) on plate: [Jonas Suyderhoef]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Jonas Suyderhoef]",
   "style": "17th century",
   "text": "",
   "title": "The Peace of Münster"

@@ -1,6 +1,7 @@
 {
   "accession_number": "B.99.5",
-  "artist": "Frederic Remington; Nelson Miles; Werner Company",
+  "artist": "Artist: Frederic Remington; Author: Nelson Miles; Publisher: Werner Company",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Frank Meyers Steiner",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1861-1909",
-  "marks": "Signature; Inscription\r\nsee Signed\r\ndedication on  In pen and ink, on foreleaf and dedication page[Fr",
+  "inscription": "Signature; Inscription\r\nsee Signed\r\ndedication on foreleaf from author",
+  "life_date": "American, 1861–1909",
+  "markings": "",
   "medium": "Wood engravings, color photolithographs, watercolor drawing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pen and ink, on foreleaf and dedication page[Frederick Remington]",
   "style": "19th century",
   "text": "",
   "title": "Personal Recollections and Observations of General Nelson A. Miles"

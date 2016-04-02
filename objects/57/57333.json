@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,063",
-  "artist": "Johan Barthold Jongkind",
+  "artist": "Artist: Johan Barthold Jongkind",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1819 - 1891",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sortie de la Maison Cochin (Faubourg Saint-Jacques)"

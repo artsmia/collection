@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.8.1",
-  "artist": "Robert Koehler",
+  "artist": "Artist: Robert Koehler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Emerson G. Wulling",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3690,
   "image_width": 4860,
-  "life_date": "American, 1850 - 1917",
-  "marks": " No",
+  "inscription": "",
+  "life_date": "American, 1850–1917",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No",
   "style": "19th century",
   "text": "",
   "title": "Prosit!"

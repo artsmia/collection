@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,130",
-  "artist": "Sears Gallagher",
+  "artist": "Artist: Sears Gallagher",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1963",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"AH DX Sand Dunes Drypoint\\\" written in pencil on bottom left corner",
   "life_date": "1869 - 1934",
-  "marks": "\\\"AH DX Sand Dunes Drypoint\\\" written in pencil on b On sheet",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "19th-20th century",
   "text": "",
   "title": "Sand Dunes"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.62.58",
-  "artist": "Nancy Randall",
+  "artist": "Artist: Nancy Randall",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4278,
   "image_width": 3000,
+  "inscription": "Signed, Dated, Inscribed",
   "life_date": "American, born 1928",
-  "marks": "Signed, Dated, Inscribed LR: [Nancy Randall \\'82]\r\nLL: [Color Trial Proof]",
+  "markings": "",
   "medium": "Color etching, drypoint, roulette, soft-ground etching, and acrylic",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nancy Randall \\'82]\r\nLL: [Color Trial Proof]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

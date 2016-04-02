@@ -1,6 +1,7 @@
 {
   "accession_number": "71.16",
-  "artist": "Emilio Ortiz",
+  "artist": "Artist: Emilio Ortiz",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4472,
   "image_width": 3033,
+  "inscription": "Signature; Title; Date\r\nsee Signed\r\ntitle and date on verso",
   "life_date": "Mexican, 1936-1987",
-  "marks": "Signature; Title; Date\r\nsee Signed\r\ntitle and date [E. Ortiz]",
+  "markings": "",
   "medium": "Collage, ink and gouache",
   "nationality": "Mexican",
   "provenance": "The artist; sold to MIA, 1971.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[E. Ortiz]",
   "style": "20th century",
   "text": "",
   "title": "Figure"

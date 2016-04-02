@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.21.1",
-  "artist": "Tom Egerman",
+  "artist": "Artist: Tom Egerman",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1935",
-  "marks": "Signature; Mark in pencil: [Tom Egerman]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Three color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Tom Egerman]",
   "style": "20th century",
   "text": "",
   "title": "Don't Tread on Me"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.490",
-  "artist": "Giovanni Battista Piranesi",
+  "artist": "Maker: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature on plate: [Cavalier Piranesi F.]",
+  "inscription": "Signature",
+  "life_date": "Italian, 1720–1778",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Cavalier Piranesi F.]",
   "style": "18th century",
   "text": "",
   "title": "View of the Piazza and Basilica of St. John Lateran"

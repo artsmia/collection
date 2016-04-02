@@ -1,6 +1,7 @@
 {
   "accession_number": "P.73.35",
-  "artist": "Rockwell Kent; Printed by George C. Miller",
+  "artist": "Artist: Rockwell Kent; Printer: Printed by George C. Miller",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Plattsburgh State Art Museum%2C Rockwell Kent Gallery and Collection",
   "image_height": 3741,
   "image_width": 4539,
+  "inscription": "",
   "life_date": "American, 1882-1971",
-  "marks": " on sheet",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "(June 1 Gallery of Fine Art, Washington, D.C.)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "International Workers Order (IWO)"

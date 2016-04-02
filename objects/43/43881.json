@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.25.2",
-  "artist": "James McNeill Whistler",
+  "artist": "Maker: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Estate of Charles J. Winton and Henrietta McDonald Winton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4039,
   "image_width": 3029,
+  "inscription": "LL recto, in pencil: [MK 33741]\r\nLR recto, in pencil: [65022]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [MK 33741]\r\nLR recto, in penc Printed signature LR (diagonally) in the plate: [W",
+  "markings": "Watermark: [(horn)]",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LR (diagonally) in the plate: [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "La Vieille aux Loques from \"Twelve Etchings from Nature\""

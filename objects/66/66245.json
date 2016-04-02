@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,934",
-  "artist": "Katsukawa Shunshō",
+  "artist": "Artist: Katsukawa Shunshō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2887,
   "image_width": 1327,
+  "inscription": "",
   "life_date": "Japanese, 1726 - 1793",
-  "marks": " {Shunshō ga}",
+  "markings": "",
   "medium": "Color woodblock print, probably bright orange color added later",
   "nationality": "Japanese",
   "provenance": "E.S. Hull; Freer (1898); Ford (Feb. 1905)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunshō ga}",
   "style": "18th century",
   "text": "",
   "title": "The Actor Nakamura Noshio in a Female Role"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.11",
-  "artist": "Gabor Peterdi",
+  "artist": "Artist: Gabor Peterdi",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American (b. Hungary), 1915-2001",
-  "marks": "Signature; Mark\r\n\r\nsee Signed Signed on the plate",
+  "markings": "Watermark: <Arches>",
   "medium": "Color relief etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed on the plate",
   "style": "20th century",
   "text": "",
   "title": "Red Eclipse II"

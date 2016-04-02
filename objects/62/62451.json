@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.125.3",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō; Printed by Ono Gintarō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō; Printer: Printed by Ono Gintarō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5668,
   "image_width": 8049,
+  "inscription": "伊豆八景之内　白浜の残照 {Izu hakkei no uchi, Shirahama no zanshō} (The Eight Views of Izu, Afterglow at Shirahama)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "伊豆八景之内　白浜の残照 {Izu hakkei no uchi, Shirahama no zan hand-applied 深水 {Shinsui}",
+  "markings": "hand-applied red artist\\'s seal: 深水 {Shinsui} | LLC, publisher seal: ワタナベ {Watanabe} | LR, printer seal: 摺師　斧銀太郎 {surishi Ono Gintarō}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "hand-applied 深水 {Shinsui}",
   "style": "20th century",
   "text": "",
   "title": "Afterglow at Shirahama"

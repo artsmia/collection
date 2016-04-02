@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.139.9",
-  "artist": "Nakajima Shunko_; Aoki Tsunesaburō",
+  "artist": "Artist: Nakajima Shunko_; Publisher: Aoki Tsunesaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Titles of each print of this series are listed on the upper part of the back, the advertising of other publications of this publisher is on the lower part.",
   "life_date": "Japanese",
-  "marks": "Titles of each print of this series are listed on  {Nakajima Shunkō ga}",
+  "markings": "URC: Copyright; LLC: publisher\\'s seal: {Aoki Kōzandō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Nakajima Shunkō ga}",
   "style": "19th century",
   "text": "",
   "title": "Frontispiece of the Modern Beauties Series"

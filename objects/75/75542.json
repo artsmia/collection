@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,241",
-  "artist": "Friedrich Heinrich Wilhelm Martini",
+  "artist": "Artist: Friedrich Heinrich Wilhelm Martini",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "German, 1729-1780",
-  "marks": "\r\n\r\n No signatures",
+  "markings": "\r\n",
   "medium": "Hand-colored etching and engraving\r\n\r\n",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signatures",
   "style": "18th century",
   "text": "",
   "title": "Tab. CVIII., Purpurae frondibus duplicatis, from \"Neues Systematisches Conchylien-Cabinet\""

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,860",
-  "artist": "A follower of Giulio Bonasone",
+  "artist": "Artist: A follower of Giulio Bonasone",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, active 1531 - 1574",
-  "marks": "Signature Initialed at LR",
+  "markings": "Watermark: Hand\r\nCollector\\'s Marks: on verso in brown ink: <Dr. Jul. Hofmann Wien>;",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "Dr. Julius Hofmann, Vienna ( L.1264), brown stamp verso.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed at LR",
   "style": "16th century",
   "text": "",
   "title": "A Putto Presenting Grain to Ceres"

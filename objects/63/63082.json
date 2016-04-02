@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.342a-c",
-  "artist": "Utagawa Hiroshige; Okazawa Taheiji",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Okazawaya Taheiji",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3492,
   "image_width": 7012,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Ichiryu_sai seal\r\nCensor:kai, July 1857\r\nPublisher:Okazawaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Eight Views of Kanazawa in Musashi Province at Night"

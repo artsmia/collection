@@ -1,6 +1,7 @@
 {
   "accession_number": "B.63.2a-c",
-  "artist": "Josef Albers; Text by Josef Albers; Yale University Press, New Haven, Conn.",
+  "artist": "Artist: Josef Albers; Author: Text by Josef Albers; Publisher: Yale University Press, New Haven, Conn.",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Bruce B. Dayton and Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate Josef Albers %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American (born Germany), 1888 - 1976",
-  "marks": " ",
+  "markings": "",
   "medium": "Color screenprints, letterpress",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Interaction of Color"

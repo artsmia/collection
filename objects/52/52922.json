@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,530",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4416,
   "image_width": 3603,
+  "inscription": "Centered along bottom of image, printed in the plate: [Annie.]\r\nLL verso, in pencil: [202]\r\n",
   "life_date": "American, 1834 - 1903",
-  "marks": "Centered along bottom of image, printed in the pla Printed signature LL (diagonally) in the plate: [W",
+  "markings": "Watermark: [E&S] (British paper 1778)",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "(Kennedy Galleries, New York). William M. Ladd (1855-1931, Portland, OR), by 1916; Herschel V. Jones (1861-1928, Minneapolis), 1916; his gift to MIA, 1916.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LL (diagonally) in the plate: [Whistler] [Whistler]",
   "style": "19th century",
   "text": "",
   "title": "Annie, Seated"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.171.6",
-  "artist": "Red Grooms",
+  "artist": "Artist: Red Grooms",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3701,
   "image_width": 2662,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1937",
-  "marks": "Signature; Date LR: [Red Grooms 80]",
+  "markings": "",
   "medium": "Felt tip pen and graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Red Grooms 80]",
   "style": "20th century",
   "text": "",
   "title": "Sketches for the shade for The Pancake Eater"

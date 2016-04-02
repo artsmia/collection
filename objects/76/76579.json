@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.28.14",
-  "artist": "Kawase Hasui; Published by Kawaguchi Jirō; Published by Sakai Shōkichi; Carved by Maeda Kentarō; Printed by Komatsu Wasankichi",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Kawaguchi Jirō; Publisher: Published by Sakai Shōkichi; Carver: Carved by Maeda Kentarō; Printer: Printed by Komatsu Wasankichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Paul Schweitzer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "bottom margin: 昭和四年八月作 {Shōwa yonen hachigatsu saku} (made in August 1929)",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": "bottom margin: 昭和四年八月作 {Shōwa yonen hachigatsu sak LRC: 巴水 {Hasui}",
+  "markings": "LRC, red round artist\\'s seal: 川セ {Kawase} | LL margin, publisher\\'s seal: 酒井川口合版 {Sakai Kawaguchi gōban} (Sakai Kawaguchi joint publication) | LL margin: 彫工前田　摺工小松 {horikō Maeda, surikō Komatsu}  (carving by Maeda, printwork by Komatsu) | 版権所有 {hanken shoyū} (copyright)",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: 巴水 {Hasui}",
   "style": "20th century",
   "text": "first edition",
   "title": "Pine Tree in Clear Weather after Snow"

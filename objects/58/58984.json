@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.12.5",
-  "artist": "Steven Kramer; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Steven Kramer; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3988,
   "image_width": 2981,
+  "inscription": "Signed, dated, and chop mark.",
   "life_date": "American, born 1953",
-  "marks": "Signed, dated, and chop mark. LR, in yellow pencil: [Kramer 1985]\r\nVerso: [\\\"You ",
+  "markings": "LL: VEL chop mark",
   "medium": "Color monotype with color pencil additions",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in yellow pencil: [Kramer 1985]\r\nVerso: [\\\"You Gotta Have Your / Tips On Fire\\\" / (from a poem by / Victor Hernandez Cruz)]",
   "style": "20th century",
   "text": "",
   "title": "You Gotta Have Your Tips on Fire"

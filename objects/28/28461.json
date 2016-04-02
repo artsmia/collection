@@ -1,6 +1,7 @@
 {
   "accession_number": "94.43.1",
-  "artist": "Peter Busa",
+  "artist": "Artist: Peter Busa",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Chris Busa",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Peter Busa %2F Courtesy Christopher Busa",
   "image_height": 7352,
   "image_width": 9528,
+  "inscription": "Signature; Date; Inscription\r\n\r\ntitle, date inscribed verso",
   "life_date": "American, 1914-1985",
-  "marks": "Signature; Date; Inscription\r\n\r\ntitle, date inscri in blue casein, LR : [Busa]",
+  "markings": "",
   "medium": "Casein on paper",
   "nationality": null,
   "provenance": "The arist; Chris Busa, given to MIA, 1994.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in blue casein, LR : [Busa]",
   "style": "20th century",
   "text": "",
   "title": "Children's Game"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,805",
-  "artist": "Attributed to Johann Jakob Haid; Text by Johann Wilhelm Weinmann",
+  "artist": "Engraver: Attributed to Johann Jakob Haid; Author: Text by Johann Wilhelm Weinmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed\r\n\r\n",
   "life_date": "German, 1704 - 1767",
-  "marks": "Signature\r\n\r\nsee Signed\r\n\r\n [H]",
+  "markings": "\r\n",
   "medium": "Line engraving, mock mezzotint, printed in color, additional color by hand",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[H]",
   "style": "18th century",
   "text": "",
   "title": "a-c Papaver sativum etc., from Phytanthoza Iconographia"

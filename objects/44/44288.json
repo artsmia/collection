@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.31.8",
-  "artist": "Philip Pearlstein; Published by Landfall Press, Santa Fe, N.M.",
+  "artist": "Artist: Philip Pearlstein; Publisher: Published by Landfall Press, Santa Fe, N.M.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Inscription\r\n\r\nsee Signed\r\n\r\nin graphite, LL: [Nude lying on black and red blanket 13/50]",
   "life_date": "American, born 1924",
-  "marks": "Signature; Date; Title; Inscription\r\n\r\nsee Signed\r in graphite, LR: [Philip Pearlstein 74]",
+  "markings": "",
   "medium": "Color aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Philip Pearlstein 74]",
   "style": "20th century",
   "text": "",
   "title": "Nude Lying on Black and Red Blanket"

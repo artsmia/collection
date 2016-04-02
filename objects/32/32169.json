@@ -1,6 +1,7 @@
 {
   "accession_number": "99.233.30",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 2730,
   "image_width": 1834,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in pencil, at top edge on back: [Self Portrait, Me",
+  "markings": "in pencil, at lower left corner on back: [3/15/96]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, at top edge on back: [Self Portrait, Mexico, 1996 David Parker]",
   "style": "20th century",
   "text": "",
   "title": "Self Portrait, Mexico"

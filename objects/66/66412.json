@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.325",
-  "artist": "Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1147,
   "image_width": 3030,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " Katsushika Hokusai ga かつしか北斎画",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Katsushika Hokusai ga かつしか北斎画",
   "style": "19th century",
   "text": "",
   "title": "The Seven Gods of Good Fortune in a Lion Dance"

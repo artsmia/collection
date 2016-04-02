@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.63",
-  "artist": "Philip Pearlstein; Landfall Press, Santa Fe, N.M. PP78-727",
+  "artist": "Artist: Philip Pearlstein; Workshop: Landfall Press, Santa Fe, N.M. PP78-727",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Date; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1924",
-  "marks": "Signature; Edition; Date; Mark\r\n\r\nsee Signed in pencil: [Philipe Pearlstein]",
+  "markings": "Watermark: <hes> (fragment)\r\n2 chop marks",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Philipe Pearlstein]",
   "style": "20th century",
   "text": "",
   "title": "Canyon de Chelly"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.506",
-  "artist": "Giuseppe Longhi; After Raphael Sanzio",
+  "artist": "Artist: Giuseppe Longhi; Artist: After Raphael Sanzio",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5092,
   "image_width": 3584,
-  "life_date": "Italian (Lombardy), 1766 - 1831",
-  "marks": "Signature In plate",
+  "inscription": "Signature",
+  "life_date": "Italian, 1483–1520",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "18th century",
   "text": "The genius behind this image is Raphael, whose original 1518 painting hangs in Florence's Pitti Palace. That small work-about the same size as this engraving-was inspired by an oracle from Ezekiel, who is shown standing on the ground below. In Ezekiel 1, the prophet mentions four winged creatures, which Raphael construed as the symbols of the Evangelists. These transport God high above Ezekiel, in a straddling of Old and New Testaments.",
   "title": "The Vision of Ezekiel"

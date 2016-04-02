@@ -1,6 +1,7 @@
 {
   "accession_number": "70.54",
-  "artist": "Wenzel Peter",
+  "artist": "Artist: Wenzel Peter",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The David M. Daniels Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\nsee Signed",
   "life_date": "Austrian, 1745 - 1829",
-  "marks": "Signature; Mark\r\nsee Signed in pen on backing sheet, LR: [Peters pittore boemo",
+  "markings": "Watermark: clover in a double circle? similar to Heywood no. 2420?",
   "medium": "Black and white chalk on blue prepared paper",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pen on backing sheet, LR: [Peters pittore boemo]",
   "style": "18th century",
   "text": "",
   "title": "A Young Stag"

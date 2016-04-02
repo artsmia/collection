@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,201",
-  "artist": "Possibly Cornelis Visscher",
+  "artist": "Artist: Possibly Cornelis Visscher",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1629-1658",
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Woodcut",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Bouquet of Birds and Flowers"

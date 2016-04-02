@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.122",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, 1500-1550",
-  "marks": "Signature signed in plate, upper left: [SEBOLT BEHAM HSB]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Brockhaus; R. Gutekunst (L. 2213a); Bressler, 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in plate, upper left: [SEBOLT BEHAM HSB]",
   "style": "16th century",
   "text": "",
   "title": "Wedding Feast at Cana"

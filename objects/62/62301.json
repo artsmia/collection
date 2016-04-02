@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.164",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2921,
   "image_width": 1877,
+  "inscription": "昭和七年七月十五日 {Shōwa shichinen shichigatsu jūgonichi} (July 15th, 1932)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "昭和七年七月十五日 {Shōwa shichinen shichigatsu jūgonichi}  深水作 {Shinsui saku} (made by Shinsui)",
+  "markings": "red artist\\'s seal: 深水 {Shinsui} | LLC: publisher seal: ワタナベ {Watanabe} | LL: publisher seal: 版権所有　渡邊庄三郎 {hanken shoyū Watanabe Shōzaburō} (copyright Watanabe Shōzaburō) | on back, red seal: 貮百五拾枚絶版　第貮百四拾貮番 {nihyakugojū mai zeppan, dai nihyakuyonjūni ban} (edition of 250, number 242) | red square publisher seal: わたなべ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "深水作 {Shinsui saku} (made by Shinsui)",
   "style": "20th century",
   "text": "",
   "title": "Maiko Girl"

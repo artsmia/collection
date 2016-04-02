@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.113",
-  "artist": "Gerhard Marcks; Published by Müller &amp; Co. Verlag, Potsdam, Germany; Printed by Staatliches Bauhaus",
+  "artist": "Artist: Gerhard Marcks; Publisher: Published by Müller &amp; Co. Verlag, Potsdam, Germany; Printer: Printed by Staatliches Bauhaus",
+  "classification": "Prints",
   "continent": null,
   "country": "Germany",
   "creditline": "Gift of the Print and Drawing Curatorial Council in memory of Marianne Baird Wallman",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 1668,
   "image_width": 2516,
+  "inscription": "Signature and Date",
   "life_date": "German, 1889-1981",
-  "marks": "Signature and Date LLC, in two areas, in pencil: [Gerhard Marcks 1921",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "(Catherine E. Burns Fine Prints and Drawings, Oakland, Calif.); sold to MIA, 2003.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in two areas, in pencil: [Gerhard Marcks 1921]",
   "style": "20th century",
   "text": "",
   "title": "Cats"

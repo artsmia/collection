@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.180",
-  "artist": "Robert A. Nelson",
+  "artist": "Artist: Robert A. Nelson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Stephen B. Andrus",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3449,
   "image_width": 4389,
+  "inscription": "Signature; Title; Edition; Date; Mark\r\n\r\nTEDS",
   "life_date": "American, born 1925",
-  "marks": "Signature; Title; Edition; Date; Mark\r\n\r\nTEDS on sheet",
+  "markings": "Watermark:<Arches/France>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Field Piece  (5\" - Gun)"

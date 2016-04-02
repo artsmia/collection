@@ -1,6 +1,7 @@
 {
   "accession_number": "60.1",
-  "artist": "George Cohen",
+  "artist": "Artist: George Cohen",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. Paul Ganz",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3542,
   "image_width": 6944,
+  "inscription": "Signature",
   "life_date": "American, born 1913",
-  "marks": "Signature LR: [GEO. COHEN]",
+  "markings": "",
   "medium": "Oil, gold leaf and glass on masonite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [GEO. COHEN]",
   "style": "20th century",
   "text": "",
   "title": "Popolus"

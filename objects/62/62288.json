@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.172",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1856,
   "image_width": 2595,
+  "inscription": "軽井沢の早春　昭和廿三年二月 {Karuizawa no sōshun Shōwa nijūsannen nigatsu}",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "軽井沢の早春　昭和廿三年二月 {Karuizawa no sōshun Shōwa nijūsann hand-applied 深水 {Shinsui}",
+  "markings": "hand-applied red artist\\'s seal: 深水 {Shinsui} | LRC, publisher seal: ワタナベ {Watanabe} | LLC, red collector seal: 末久壽宇恵留 {Matsuhisa Juu Eru}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "[末久壽宇恵留] {Matsuhisa Juu Eru}",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "hand-applied 深水 {Shinsui}",
   "style": "20th century",
   "text": "",
   "title": "Early Spring at Karuizawa"

@@ -1,6 +1,7 @@
 {
   "accession_number": "84.79",
-  "artist": "Maud Oakes",
+  "artist": "Artist: Maud Oakes",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American",
-  "marks": "Signature; Date LR: [Maud Oakes 1935]",
+  "markings": "",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Maud Oakes 1935]",
   "style": "20th century",
   "text": "",
   "title": "Boat Builders"

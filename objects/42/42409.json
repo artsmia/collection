@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.133",
-  "artist": "Nishimura Nantei",
+  "artist": "Artist: Nishimura Nantei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3693,
   "image_width": 4712,
+  "inscription": "43 poems about summer",
   "life_date": "Japanese, 1775 - 1834",
-  "marks": "43 poems about summer Nantei",
+  "markings": "\\\"Nantei\\\" sealed",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Nantei",
   "style": "19th century",
   "text": "",
   "title": "Hollyhock Festival Procession"

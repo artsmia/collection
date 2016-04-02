@@ -1,6 +1,7 @@
 {
   "accession_number": "28.33",
-  "artist": "Theodore J. Richardson",
+  "artist": "Artist: Theodore J. Richardson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Harry E. Wood",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1855 - 1914",
-  "marks": "Signature [T. J. Richardson]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[T. J. Richardson]",
   "style": "19th century",
   "text": "",
   "title": "Twin Totems, Kasaan"

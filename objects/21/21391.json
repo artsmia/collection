@@ -1,6 +1,7 @@
 {
   "accession_number": "77.2.5",
-  "artist": "Louis Comfort Tiffany",
+  "artist": "Designer: Louis Comfort Tiffany",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "Given in memory of Mrs. Betty Bean Flinsch by her children",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6109,
   "image_width": 4151,
-  "life_date": "American, 1848-1933",
-  "marks": "Inscription ",
+  "inscription": "Inscription",
+  "life_date": "American, 1848–1933",
+  "markings": "on base, \\'5184 j. L.C. Tiffany Favrile\\'",
   "medium": "Glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Vase"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,151",
-  "artist": "Nicolas Sanson; Alexis Hubert Jaillot",
+  "artist": "Artist: Nicolas Sanson; Artist: Alexis Hubert Jaillot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1600-1667",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored engraving, illumined with gold",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Le Comte de Hollande"

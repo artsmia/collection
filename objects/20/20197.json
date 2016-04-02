@@ -1,6 +1,7 @@
 {
   "accession_number": "74.55.1",
-  "artist": "Jo Davidson",
+  "artist": "Artist: Jo Davidson",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. Waring Jones, Mrs. A. Fran Sifter, Mr. Winton Jones and Mrs. Charles Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Jo Davidson",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1883 - 1952",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Herschel V. Jones"

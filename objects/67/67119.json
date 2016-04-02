@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.2",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature, Inscription\r\n\r\ninscribed in banderole: [ON DIR HAB ICH GERISEN DAS ICH MICH HAB BESCHISEN]",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Inscription\r\n\r\ninscribed in banderole:  monogram in plate, upper edge: [HSB]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in plate, upper edge: [HSB]",
   "style": "16th century",
   "text": "",
   "title": "The Little Buffoon"

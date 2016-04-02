@@ -1,6 +1,7 @@
 {
   "accession_number": "P.67.2",
-  "artist": "James McGarrell; Mourlot Freres, Paris",
+  "artist": "Artist: James McGarrell; Publisher: Mourlot Freres, Paris",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. D. Thomas Bergen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Marks",
   "life_date": "American, born 1930",
-  "marks": "Signature, Marks Penciled below image",
+  "markings": "Chop Marks:  printed on back\r\nCollector\\'s Marks:  printed on mat",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Penciled below image",
   "style": "20th century",
   "text": "",
   "title": "Light and Dark"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.25",
-  "artist": "Pierre-Paul Prud'hon; Godefrey Engelmann",
+  "artist": "Artist: Pierre-Paul Prud'hon; Publisher: Godefrey Engelmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. Pierce McNally",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1758 - 1823",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1758–1823",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "Bonafoue - Murat",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "An Unhappy Family"

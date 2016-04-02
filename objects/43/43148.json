@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.7",
-  "artist": "T.L. Solien",
+  "artist": "Maker: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2576,
   "image_width": 3608,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American, born 1949",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LC: [T.L. Solien 1982]\r\nLC: [A.P. 3/9]\r\nLC: VEL Ch",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph, screenprint, and etching",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [T.L. Solien 1982]\r\nLC: [A.P. 3/9]\r\nLC: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "The Three Sailors"

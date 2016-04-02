@@ -1,6 +1,7 @@
 {
   "accession_number": "98.18.2.1",
-  "artist": "Kan Tenjū",
+  "artist": "Artist: Kan Tenjū",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3713,
   "image_width": 4569,
+  "inscription": "Explanation on how this book was made on the first 8 pages\r\nChinese poem on some pages",
   "life_date": "1727 - 1795",
-  "marks": "Explanation on how this book was made on the first ",
+  "markings": "Published in Kyo_wa 3 on the first page)\r\nCopied by Tenju on Sep. 23, 1767(on the last page)",
   "medium": "Woodblock printed book; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Landscape Sketches by I Fukyū"

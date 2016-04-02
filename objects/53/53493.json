@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,160",
-  "artist": "Horace Devitt Welsh",
+  "artist": "Artist: Horace Devitt Welsh",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Gift of Mrs. George P. Douglas, 1946",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp\r\n\r\nsee Signed",
   "life_date": "American, 1888 - 1942",
-  "marks": "Signature; Stamp\r\n\r\nsee Signed In pencil in lower margin:  [H. Devitt Welsh]",
+  "markings": "Collector\\'s \\\"D\\\" stamp printed on verso; no watermark\r\n",
   "medium": "Woodcut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  [H. Devitt Welsh]",
   "style": "20th century",
   "text": "",
   "title": "Joseph Pennell"

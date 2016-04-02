@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.229.1",
-  "artist": "Minton and Company",
+  "artist": "Manufacturer: Minton and Company",
+  "classification": "Ceramics",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Polly Johnson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4076,
   "image_width": 4080,
+  "inscription": "",
   "life_date": "Stoke-on-Trent, Staffordshire, England, est. 1793",
-  "marks": " ",
+  "markings": "\\\"MINTON & Cº/PATENT/STOKE UPON TRENT\\\", stamped, on back",
   "medium": "Earthenware, encaustic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Tile"

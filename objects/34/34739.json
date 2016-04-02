@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.77",
-  "artist": "Utagawa Hiroshige; Sanoya Kihei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1947,
   "image_width": 2654,
+  "inscription": "Kyo_ka\r\nJapanese:Suzuk- yama furu sugoroku wa tabibito no saki e saki eto isogu Kiyotaka\r\nThe Kiyotaki Fall is running through the valley like travellers moving forward their way at the foot of Mt. Suzuka.(I guess)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "Kyo_ka\r\nJapanese:Suzuk- yama furu sugoroku wa tabi ",
+  "markings": "Censor:Kiwame\r\nPublisher:Sanoya Kihe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of the Fudesaka Mountain in Sakanoshita"

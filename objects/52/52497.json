@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.649",
-  "artist": "Georges Le Meilleur",
+  "artist": "Artist: Georges Le Meilleur",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1861 - 1945",
-  "marks": "Signature signed in pencil and in plate, right",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil and in plate, right",
   "style": "19th century",
   "text": "",
   "title": "Sure le plateau des petites dalles"

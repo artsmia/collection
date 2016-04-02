@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,813",
-  "artist": "Félix Bracquemond",
+  "artist": "Artist: Félix Bracquemond",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription and Stamp;\r\nrecto: A. Poulet-Malassis",
   "life_date": "French, 1833 - 1914",
-  "marks": "Inscription and Stamp;\r\nrecto: A. Poulet-Malassis ",
+  "markings": "black stamp recto: Sir William Drake (L.2743)",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "A. Poulet-Malassis (according to inscription recto); Sir William Drake, black stamp recto (L.2743)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Bachots au bord de la Seine"

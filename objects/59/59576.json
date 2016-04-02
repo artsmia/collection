@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.43",
-  "artist": "Grant Wood; Published by Associated American Artists, New York",
+  "artist": "Artist: Grant Wood; Publisher: Published by Associated American Artists, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard L. Hillstrom in memory of Rev. Ralph R. Lindquist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3448,
   "image_width": 4602,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1891–1942",
-  "marks": "Signature\r\n\r\nsee Signed Signed in pencil, LR: [Grant Wood]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Reverend Richard L. Hillstrom, St. Paul; given to MIA, 1984.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G315",
+  "signed": "Signed in pencil, LR: [Grant Wood]",
   "style": "20th century",
   "text": "A pioneer of American Regionalism, Grant Wood was a figurative painter best known for his perceptive interpretations of life in rural and small town America. Though he created only a small number of editioned prints during his career, Wood was a masterful draftsman, whose refined drawings were effectively translated through the medium of lithography. In this image of an idealized Iowa farmstead, Wood presents a romanticized portrayal of the American farmer, independent and self-assured, as he surveys his rural domain with pride.",
   "title": "In the Spring"

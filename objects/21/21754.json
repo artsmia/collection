@@ -1,6 +1,7 @@
 {
   "accession_number": "78.29.1",
-  "artist": "Louis Comfort Tiffany",
+  "artist": "Maker: Louis Comfort Tiffany",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Pauline Whitaker Parker in memory of Mrs. Charles Schaefer Whitaker",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3211,
   "image_width": 4732,
-  "life_date": "American, 1848-1933",
-  "marks": "Inscription\r\n\r\non bottom: [ L.C.T. Favrile 10070] ",
+  "inscription": "Inscription\r\n\r\non bottom: [ L.C.T. Favrile 10070]",
+  "life_date": "American, 1848–1933",
+  "markings": "",
   "medium": "Favrile glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Bowl with Leaf and Vine Pattern"

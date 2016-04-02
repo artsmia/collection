@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.279.4",
-  "artist": "Minton and Company",
+  "artist": "Manufacturer: Minton and Company",
+  "classification": "Ceramics",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Christopher Monkhouse in honor of Brian Kraft",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3496,
   "image_width": 3508,
+  "inscription": "\\\"AN\\\", in pencil, on back",
   "life_date": "Stoke-on-Trent, Staffordshire, England, est. 1793",
-  "marks": "\\\"AN\\\", in pencil, on back ",
+  "markings": "\\\"MINTONS/CHINA WORKS/STOKE ON TRENT\\\", stamped, on back/\\\"PUBLISHED BY MACULLAR PARKER COMPANY\\\", in brown, on back",
   "medium": "Glazed earthenware",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "\"Old Hancock House\" tile"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.182",
-  "artist": "Marion-Ortolf Bagley; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Marion-Ortolf Bagley; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "©1980 Marian-Ortolf Bagley",
   "image_height": 3780,
   "image_width": 2856,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1931",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Marian Ortolf Bagley 1980]\r\nLL: [A.P. 17/20]\r",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Marian Ortolf Bagley 1980]\r\nLL: [A.P. 17/20]\r\nLL: [Iris]",
   "style": "20th century",
   "text": "",
   "title": "Iris"

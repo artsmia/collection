@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.450",
-  "artist": "Jean Frélaut; Edmond Sagot Editeur, Paris",
+  "artist": "Artist: Jean Frélaut; Publisher: Edmond Sagot Editeur, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2003 Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and blind stamp",
   "life_date": "French, 1879 - 1954",
-  "marks": "Signature and blind stamp in pencil lower right, in stone lower left",
+  "markings": "Blind stamp",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil lower right, in stone lower left",
   "style": "20th century",
   "text": "",
   "title": "Les foins coupés"

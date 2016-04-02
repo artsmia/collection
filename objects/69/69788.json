@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.96",
-  "artist": "Utagawa Toyohiro; Published by Yamadaya Sanshirō",
+  "artist": "Artist: Utagawa Toyohiro; Publisher: Published by Yamadaya Sanshirō",
+  "classification": "Casts and Copies",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2818,
   "image_width": 1855,
+  "inscription": "",
   "life_date": "Japanese, 1773 - 1828",
-  "marks": " {Toyohiro ga}",
+  "markings": "Publisher:Yamadaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Toyohiro ga}",
   "style": "19th century",
   "text": "center panel of vertical ōban triptych",
   "title": "The Sixth Month, a Triptych"

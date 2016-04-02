@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.20",
-  "artist": "Francesco Bartolozzi",
+  "artist": "Artist: Francesco Bartolozzi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of E. L. Cussler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian (Florence, active London), 1727 - 1815",
-  "marks": "Signature In plate",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "18th century",
   "text": "",
   "title": "For the Benefit of M. Jones"

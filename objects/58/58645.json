@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.23",
-  "artist": "Brad Davis; Published by Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "artist": "Artist: Brad Davis; Publisher: Published by Vermillion Editions Limited, Minneapolis and First Bank, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1942",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [Brad Davis \\'85]\r\nLR: [5/12 AP]\r\n",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Brad Davis \\'85]\r\nLR: [5/12 AP]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Three Junipers"

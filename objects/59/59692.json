@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.51",
-  "artist": "Lucy Sallick",
+  "artist": "Artist: Lucy Sallick",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\n",
   "life_date": "American, born 1937",
-  "marks": "Signature; Mark\r\n\r\n ",
+  "markings": "Watermark: <BFK Rives France>",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Pencil & Sketches"

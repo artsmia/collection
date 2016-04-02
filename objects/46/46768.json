@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.86",
-  "artist": "Unknown German, 15th century",
+  "artist": "Artist: Unknown German, 15th century",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3370,
   "image_width": 3151,
+  "inscription": "Inscription\r\n\r\nLatin inscription in XVI century hand: [St. Elizabeth, Pray for Us]",
   "life_date": null,
-  "marks": "Inscription\r\n\r\nLatin inscription in XVI century ha ",
+  "markings": "",
   "medium": "Hand-colored woodcut",
   "nationality": null,
   "provenance": "Przibram, Vienna (not in Lugt); Colnaghi; Knoedler & Co.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "St. Elizabeth with a Beggar (Rhenish)"

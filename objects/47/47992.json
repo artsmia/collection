@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.257",
-  "artist": "Martin Schongauer",
+  "artist": "Artist: Martin Schongauer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4772,
   "image_width": 3467,
+  "inscription": "Mark",
   "life_date": "German, c. 1450-1491",
-  "marks": "Mark ",
+  "markings": "Watermark: Gothic P",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Colnaghi; Knoedler, 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th century",
   "text": "",
   "title": "Saint John the evangelist on the Island of Patmos"

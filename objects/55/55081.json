@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,330",
-  "artist": "Rembrandt Harmensz. van Rijn; reworked by Jan Georg van Vliet",
+  "artist": "Artist: Rembrandt Harmensz. van Rijn; Artist: reworked by Jan Georg van Vliet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "J. L. H. Le Secq, blue stamps verso (L. 1336).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Bust of a Bald Man Looking Down, Grinning"

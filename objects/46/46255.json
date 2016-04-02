@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,765",
-  "artist": "Charles T. Giertsen",
+  "artist": "Artist: Charles T. Giertsen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. C.C. Bovey, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 2027,
   "image_width": 2612,
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature on sheet\r\nsee Signed",
+  "markings": "",
   "medium": "Color linocut",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet\r\nsee Signed",
   "style": "20th century",
   "text": "",
   "title": "Gramp's Barn"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.3",
-  "artist": "Ayaoka Yūshin; Published by Akiyama Buemon",
+  "artist": "Artist: Ayaoka Yūshin; Publisher: Published by Akiyama Buemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3775,
   "image_width": 2544,
+  "inscription": "",
   "life_date": "Japanese, 1846 - 1910",
-  "marks": " {Ayaoka}",
+  "markings": "Red artist\\'s seal: {Ayaoka}; printed May 8, Meiji 26; published May 11 Meiji 26 by Akiyama Buemon; copyright held by publisher; price: 4 sen; carver\\'s seal: {Yamamoto}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ayaoka}",
   "style": "19th century",
   "text": "",
   "title": "Kirifuri Waterfalls"

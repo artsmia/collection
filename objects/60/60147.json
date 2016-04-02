@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.13.2",
-  "artist": "Robert Kipness",
+  "artist": "Artist: Robert Kipness",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2349,
   "image_width": 1801,
+  "inscription": "\\\"20/50\\\", in graphite, LL",
   "life_date": "born 1931",
-  "marks": "\\\"20/50\\\", in graphite, LL \\\"Kipness\\\", in graphite, LR",
+  "markings": "",
   "medium": "Mezzotint",
   "nationality": "",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Kipness\\\", in graphite, LR",
   "style": "21st century",
   "text": "",
   "title": "Without World"

@@ -1,6 +1,7 @@
 {
   "accession_number": "99.19",
-  "artist": "Qi Baishi",
+  "artist": "Maker: Qi Baishi",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2384,
   "image_width": 4139,
+  "inscription": "Inscription; Stamp",
   "life_date": "Chinese, 1863 - 1957",
-  "marks": "Inscription; Stamp ",
+  "markings": "Two-character untranslated inscription, in black, at UR corner; seal, in red, below inscription",
   "medium": "Ink and colors on paper",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Lotus"

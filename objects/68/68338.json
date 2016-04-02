@@ -1,6 +1,7 @@
 {
   "accession_number": "P.94.20.15",
-  "artist": "Red Grooms",
+  "artist": "Artist: Red Grooms",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of David Parker",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signed, annotated",
   "life_date": "American, born 1937",
-  "marks": "Signed, annotated LL, in red graphite: [R.G.]\r\nLLC: [Run #15]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL, in red graphite: [R.G.]\r\nLLC: [Run #15]",
   "style": "20th century",
   "text": "",
   "title": "Sno-Show (Vermillion Editions' 15th Anniversary Exhibition)"

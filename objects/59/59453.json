@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,526.1",
-  "artist": "Gardner C. Teall",
+  "artist": "Artist: Gardner C. Teall",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Gardner C. Teall, 1917",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, b. 1878",
-  "marks": "Signature\r\n\r\nsee Signed pencil, LR margin, in plate:  [T]",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "pencil, LR margin, in plate:  [T]",
   "style": "20th century",
   "text": "",
   "title": "Portrait Study"

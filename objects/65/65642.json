@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.30.5",
-  "artist": "Frans Masereel; Pierre Vorms, Paris",
+  "artist": "Artist: Frans Masereel; Publisher: Pierre Vorms, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The Edith and Norman Garmezy Prints and Drawings Acquisition Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Signature\r\n\\'H.C.\\' and \\'FM\\', on each print",
   "life_date": "Belgian, 1889 - 1972",
-  "marks": "Inscription; Signature\r\n\\'H.C.\\' and \\'FM\\', on each p dedication signed by the artist on colophon page",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "Belgian",
   "provenance": "Paul Proute, Paris",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "dedication signed by the artist on colophon page",
   "style": "20th century",
   "text": "",
   "title": "Plate 5 from \"Expiations\" portfolio"

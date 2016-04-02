@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.76",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2979,
   "image_width": 1894,
+  "inscription": "昭和六年一月元旦 {Shōwa rokunen ichigatsu gantan} (January 1st, 1931)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "昭和六年一月元旦 {Shōwa rokunen ichigatsu gantan} (January 深水畫 {Shinsui ga} (picture by Shinsui)",
+  "markings": "red artist\\'s seal: 深水 {Shinsui} | BRC, publisher seal: ワタナベ {Watanabe} | on back, red seal: 貮百五拾枚絶版　第百参拾九番 {nihyakugojū mai zeppan, dai hyakusanjūkyū ban} (edition of 250, number 139) | red square publisher seal: わたなべ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "深水畫 {Shinsui ga} (picture by Shinsui)",
   "style": "20th century",
   "text": "",
   "title": "Hand Mirror"

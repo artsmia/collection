@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.16",
-  "artist": "Ludovico Carracci",
+  "artist": "Artist: Ludovico Carracci",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4241,
   "image_width": 3466,
+  "inscription": "Inscription and mark\r\n\r\nLR, in pen and brown ink: [L Carrache.]",
   "life_date": "Italian (Bologna), 1555 - 1619",
-  "marks": "Inscription and mark\r\n\r\nLR, in pen and brown ink:  ",
+  "markings": "Mount watermark: double-headed eagle, similar to Heawood 1322 but with two crowns",
   "medium": "Pen and brown ink, brush and brown wash over black chalk; laid down on mount",
   "nationality": "Italian (Bologna)",
   "provenance": "Sale, Sotheby's, London, July 4, 1993, no. 117, as Bolognese school for £2,700, to Moir; Alfred Moir, Santa Barbara (1993-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Alexander Farnese Directing the Siege of Antwerp"

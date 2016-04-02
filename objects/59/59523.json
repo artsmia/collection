@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.24.10",
-  "artist": "Jantje Visscher",
+  "artist": "Artist: Jantje Visscher",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1933",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Lithograph with intaglio",
   "nationality": "American",
   "provenance": "Acquired from the artist, 1976",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Construction #7"

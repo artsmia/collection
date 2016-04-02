@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.282",
-  "artist": "Kitagawa Tsukimaro",
+  "artist": "Artist: Kitagawa Tsukimaro",
+  "classification": "Casts and Copies",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Poem by Kaseitei Shironari 花盛亭白成",
   "life_date": "Japanese, fl. c.1800s-1820s",
-  "marks": "Poem by Kaseitei Shironari 花盛亭白成 [観雪斎月麿寫] {Kansetsusai Tsukimaro sha}",
+  "markings": "red artist\\'s seals: [月　麿] {Tsuki/maro}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[観雪斎月麿寫] {Kansetsusai Tsukimaro sha}",
   "style": "19th century",
   "text": "Meiji-period reproduction",
   "title": "Kintarō subduing a hawk with a large axe"

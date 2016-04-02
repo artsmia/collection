@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,769",
-  "artist": "Louis,  Count Sparre; Published by Die Graphischen Künste",
+  "artist": "Artist: Louis,  Count Sparre; Publisher: Published by Die Graphischen Künste",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swedish, 1863 - 1964",
-  "marks": "Signature\r\n\r\nsee Signed In plate",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "20th century",
   "text": "",
   "title": "Riverbend"

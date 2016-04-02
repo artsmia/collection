@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.37.14",
-  "artist": "Herb Jackson",
+  "artist": "Artist: Herb Jackson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1945",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Herb Jackson]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Herb Jackson]",
   "style": "20th century",
   "text": "",
   "title": "Pod III Open"

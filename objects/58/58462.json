@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.115",
-  "artist": "Karl Bodmer",
+  "artist": "Artist: Karl Bodmer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nengraved at top left plate margin is: [Alleghany, N.A.]",
   "life_date": "Swiss, 1809 - 1893",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nengrave engraved, LL of print",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "engraved, LL of print",
   "style": "19th century",
   "text": "",
   "title": "The Pheasants"

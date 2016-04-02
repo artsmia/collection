@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.611",
-  "artist": "Utagawa Hiroshige; Tsutaya Kichizō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Tsutaya Kichizō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2867,
   "image_width": 1931,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:April 1858\r\nPublisher:Tsutaya Kichizo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sagami River"

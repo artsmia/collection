@@ -1,6 +1,7 @@
 {
   "accession_number": "99.176.11a,b",
-  "artist": "Gao Qipei",
+  "artist": "Artist: Gao Qipei",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Label",
   "life_date": "Chinese, 1660 - 1734",
-  "marks": "Label ",
+  "markings": "label, on front of album, with untranslated inscriptions, two seals and \\'Kao Chieh 1\\', in pencil, \\'C4\\', in black ink and \\'57\\', in blue ink, at bottom of label",
   "medium": "Fabric and wood",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Cover for Finger Painting Album"

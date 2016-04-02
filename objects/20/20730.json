@@ -1,6 +1,7 @@
 {
   "accession_number": "75.18",
-  "artist": "Paul Hapke",
+  "artist": "Artist: Paul Hapke",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Ryman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3408,
   "image_width": 4512,
+  "inscription": "Signature; Date",
   "life_date": "American",
-  "marks": "Signature; Date in pencil, LR: [Hapke 72]",
+  "markings": "",
   "medium": "Watercolor and graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [Hapke 72]",
   "style": "20th century",
   "text": "",
   "title": "Hero Eight Times"

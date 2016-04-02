@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.22",
-  "artist": "Eugene Sturman; Cirrus Editions, Ltd., Los Angeles",
+  "artist": "Artist: Eugene Sturman; Publisher: Cirrus Editions, Ltd., Los Angeles",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1945",
-  "marks": "Signature; Mark\r\n\r\nsee Signed on verso in pencil: [Eugen Sturman]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on verso in pencil: [Eugen Sturman]",
   "style": "20th century",
   "text": "",
   "title": "Quadrant II"

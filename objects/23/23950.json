@@ -1,6 +1,7 @@
 {
   "accession_number": "83.110.10",
-  "artist": "Clara Gardner Mairs",
+  "artist": "Artist: Clara Gardner Mairs",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4514,
   "image_width": 3368,
+  "inscription": "Signature",
   "life_date": "American, 1878 - 1963",
-  "marks": "Signature LR: [C.Mairs]",
+  "markings": "",
   "medium": "Graphite",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [C.Mairs]",
   "style": "20th century",
   "text": "",
   "title": "Untitled [seated girl in white dress]"

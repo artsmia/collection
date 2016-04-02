@@ -1,6 +1,7 @@
 {
   "accession_number": "96.37.48",
-  "artist": "Olivia Parker",
+  "artist": "Photographer: Olivia Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Film in the Cities",
@@ -14,8 +15,9 @@
   "image_copyright": "© Olivia Parker. All rights reserved.",
   "image_height": 2356,
   "image_width": 1841,
+  "inscription": "Signature; Date; Edition",
   "life_date": "American, born 1941",
-  "marks": "Signature; Date; Edition LRC, in ink: [Olivia Parker c 1983 7/9]",
+  "markings": "",
   "medium": "Color Polaroid",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in ink: [Olivia Parker c 1983 7/9]",
   "style": "20th century",
   "text": "",
   "title": "Lumber Exchange, Minneapolis"

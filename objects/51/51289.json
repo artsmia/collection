@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,136",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signed in pencil in lower margin < Joseph Pennell >\r\nEtched in plate at L. Left < At Chestnut St. Bridge Pennell 1880)\r\nAlso etched in notice affixed to marble slab at C.R. < Jo Pennel >\r\nEtched on marble slab at C.R. is < .....Jan 29 1881 >  (in reverse)\r\n\r\n",
   "life_date": "American, 1860 - 1926",
-  "marks": "Signed in pencil in lower margin < Joseph Pennell  on sheet, etched in plate at l.r.",
+  "markings": "No watermark",
   "medium": "Etching, wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet, etched in plate at l.r.",
   "style": "19th century",
   "text": "",
   "title": "(At) Chestnut Street Bridge (Marble Yard)"

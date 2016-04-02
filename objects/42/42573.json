@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.5.4",
-  "artist": "Nancy Randall",
+  "artist": "Maker: Nancy Randall",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3731,
   "image_width": 2559,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American, born 1928",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LR: [Nancy Randall - 80]\r\nLL: [A.P. 3/6]\r\nLL: VEL ",
+  "markings": "VEL Chop Mark",
   "medium": "Etching in red-brown ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nancy Randall - 80]\r\nLL: [A.P. 3/6]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "The Four Corners, Plate IV"

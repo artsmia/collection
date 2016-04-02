@@ -1,6 +1,7 @@
 {
   "accession_number": "93.70.47",
-  "artist": "El Lissitzky (Lazar Markovich Lissitzky)",
+  "artist": "Photographer: El Lissitzky (Lazar Markovich Lissitzky)",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1935,
   "image_width": 2544,
-  "life_date": "Russian, 1890-1941",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Russian, 1890–1941",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "Russian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Model for Meyerhold Theatre"

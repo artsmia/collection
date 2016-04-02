@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.45",
-  "artist": "Matsukawa Hanzan",
+  "artist": "Artist: Matsukawa Hanzan",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3485,
   "image_width": 4681,
+  "inscription": "13 haiku poems about the New Year",
   "life_date": "Japanese, 1818 - 1882",
-  "marks": "13 haiku poems about the New Year O_ju Kakyo",
+  "markings": "\\\"Yasunobu\\\" seal in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "O_ju Kakyo",
   "style": "19th century",
   "text": "",
   "title": "(Rats carrying treasures)"

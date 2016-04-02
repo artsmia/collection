@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.24.11",
-  "artist": "Don Nice; Kinji Akagawa / MCAD",
+  "artist": "Artist: Don Nice; Printer: Kinji Akagawa / MCAD",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1932",
-  "marks": "Signature; Inscription; Mark \r\n[For Kinji] on sheet",
+  "inscription": "Signature; Inscription; Mark \r\n[For Kinji]",
+  "life_date": "American, born 1940",
+  "markings": "Watermark: Ches <Arches>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Grapes"

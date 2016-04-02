@@ -1,6 +1,7 @@
 {
   "accession_number": "92.57.8.1",
-  "artist": "Nicholas Africano",
+  "artist": "Artist: Nicholas Africano",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 3627,
   "image_width": 2699,
+  "inscription": "Date; Signature",
   "life_date": "American, born 1948",
-  "marks": "Date; Signature LR: [Nicholas 1987]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nicholas 1987]",
   "style": "20th century",
   "text": "",
   "title": "Study for \"May - Before the Storm, Still Human,\" from the portfolio \"Lilacs and Smoke\""

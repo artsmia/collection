@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,942",
-  "artist": "Mary Nimmo Moran",
+  "artist": "Artist: Mary Nimmo Moran",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "1841 - 1899",
-  "marks": " No",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No",
   "style": "19th century",
   "text": "",
   "title": "The Goosepond - East Hampton, Long Island"

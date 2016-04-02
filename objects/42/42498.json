@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.229",
-  "artist": "Okamoto Toyohiko",
+  "artist": "Artist: Okamoto Toyohiko",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4429,
   "image_width": 2888,
+  "inscription": "18 haiku poems about winter",
   "life_date": "Japanese, 1773 - 1845",
-  "marks": "18 haiku poems about winter Toyohiko",
+  "markings": "\\\"Toyohiko\\\" seal in red\r\nBunsei 9 i no toshi(the year of Boar)\r\nKosa(meaning unknown) Sakuramon ren(poestry circle)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyohiko",
   "style": "19th century",
   "text": "",
   "title": "(Snowy landscape)"

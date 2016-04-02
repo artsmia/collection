@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.138",
-  "artist": "Utagawa Kunisada; Published by Yamamotoya Heikichi",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Yamamotoya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1975,
   "image_width": 2776,
+  "inscription": "names of the characters in the scen written in the boxes from right to left: {ryo_shi Do_hachi} (The Fisherman Do_hachi) | {ryo_shi Namishichi} (The Fisherman Namishichi) | {Untenbo_} (Monk Unten) | {Terute hime} (Princess Terute)",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": "names of the characters in the scen written in the in toshidama cartouche: 豊國画 {Toyokuni ga}",
+  "markings": "censor seals: {Watanabe} | {Mera} | publisher\\'s seal: {Yamamotoya} | [unknown, unidentified seal]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "",
   "title": "Scene of Namishichi Committing Suicide from the Story \"Oguri gaiden\""

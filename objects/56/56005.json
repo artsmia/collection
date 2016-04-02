@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,956",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Willaim M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9211,
   "image_width": 6401,
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature; Inscriptions Signed in pencil, LR: [Felix Buhot (w/ owl design)",
+  "inscription": "Signature; Inscriptions",
+  "life_date": "French, 1847-1898",
+  "markings": "",
   "medium": "Etching, aquatint, and drypoint",
   "nationality": "French",
   "provenance": "William M. Ladd, Portland, Ore.; Hershcel V. Jones, Minneapolis; acquired by MIA, 1916",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Felix Buhot (w/ owl design)]",
   "style": "19th century",
   "text": "",
   "title": "Le Hibou (The Owl)"

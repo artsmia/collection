@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.23.2",
-  "artist": "Max Beckmann",
+  "artist": "Maker: Max Beckmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Rev. Richard Lewis Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2014 Artists Rights Society %28ARS%29%2C New York %2F VG Bild-Kunst%2C Bonn",
   "image_height": 4714,
   "image_width": 3744,
-  "life_date": "German, 1884 - 1950",
-  "marks": "Signature Signed in pencil, LR: [Beckmann]",
+  "inscription": "Signature",
+  "life_date": "German, 1884–1950",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "German",
   "provenance": "(Allan Frumkin Gallery, Chicago, until 1959, sold to Hillstrom); Rev. Richard Lewis Hillstrom, St. Paul, 1959-93; given to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Beckmann]",
   "style": "20th century",
   "text": "",
   "title": "Snake Charmer"

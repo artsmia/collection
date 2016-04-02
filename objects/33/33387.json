@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.23",
-  "artist": "Gaetano Gandolfi",
+  "artist": "Artist: Gaetano Gandolfi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8528,
   "image_width": 6347,
+  "inscription": "",
   "life_date": "Italian, 1734 - 1802",
-  "marks": " ",
+  "markings": "",
   "medium": "Pen and brown ink over traces of black chalk on laid paper",
   "nationality": null,
   "provenance": "[R. E. Lewis, San Francisco, until 1969; sold August, for $300, to Moir]; Alfred Moir, Santa Barbara (1969-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Five Grotesque Heads"

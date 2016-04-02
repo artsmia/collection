@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.134",
-  "artist": "Claude Corneille de Lyon",
+  "artist": "Artist: Claude Corneille de Lyon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "French, active 1534 - 1574",
-  "marks": "Mark ",
+  "markings": "Collector\\'s marks: Jules Renouvier L1525, Frederick Keppel 1925",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "Jules Renouvier, L. 1525; Frederick Keppel, 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Last Judgement"

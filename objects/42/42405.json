@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.13",
-  "artist": "Naruse  Bokugai",
+  "artist": "Artist: Naruse  Bokugai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3244,
   "image_width": 4348,
+  "inscription": "22 haiku poems",
   "life_date": "Japanese, active c.1860",
-  "marks": "22 haiku poems Bokugai",
+  "markings": "\\\"Chingu_ gaishi\\\" seal in red\r\n\\\"Ashichika sha shi\\\"(published by Ashichika poets circle)\r\n",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Bokugai",
   "style": "19th century",
   "text": "",
   "title": "(Fishing boats)"

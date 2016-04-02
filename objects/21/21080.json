@@ -1,6 +1,7 @@
 {
   "accession_number": "76.33",
-  "artist": "Jean-Antoine Houdon",
+  "artist": "Maker: Jean-Antoine Houdon",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4928,
   "image_width": 3456,
+  "inscription": "",
   "life_date": "French, 1741-1828",
-  "marks": " ",
+  "markings": "",
   "medium": "Stucco, polychromed",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Jean-Jacques Rousseau"

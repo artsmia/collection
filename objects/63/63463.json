@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.177",
-  "artist": "Bunchō",
+  "artist": "Artist: Bunchō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2589,
   "image_width": 1904,
+  "inscription": "",
   "life_date": "Japanese, fl. c.1765-1792",
-  "marks": " {Ippitsusai Bunchō ga}",
+  "markings": "artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ippitsusai Bunchō ga}",
   "style": "18th century",
   "text": "",
   "title": "Vesper at Ueno"

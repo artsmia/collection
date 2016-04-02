@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.41",
-  "artist": "Kobayashi Kiyochika; Published by Fukuda Kumajirō",
+  "artist": "Artist: Kobayashi Kiyochika; Publisher: Published by Fukuda Kumajirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1906,
   "image_width": 3003,
+  "inscription": "",
   "life_date": "Japanese, 1847 - 1915",
-  "marks": " Kobayashi Kiyochika hitsu",
+  "markings": "Censor:Meiji 14 the 5th. month\r\nPublisher:Fukudaya Kumajiro_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kobayashi Kiyochika hitsu",
   "style": "19th century",
   "text": "",
   "title": "Main Gate of the Second Exposition at Tokyo_"

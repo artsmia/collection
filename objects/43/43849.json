@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.22.1",
-  "artist": "Cyrus LeRoy Baldridge",
+  "artist": "Artist: Cyrus LeRoy Baldridge",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title; Signature; Date",
   "life_date": "American, 1889 - 1977",
-  "marks": "Title; Signature; Date Yes",
+  "markings": "In pencil, LL margin: [Pagen Princess--Nigeria]\r\nIn pencil, LR margin: [Cyrus LeRoy Baldridge \\'38]",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes",
   "style": "20th century",
   "text": "",
   "title": "Pagen Princess, Nigeria"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.50",
-  "artist": "John Sloan",
+  "artist": "Artist: John Sloan",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of John Sloan %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3715,
   "image_width": 5388,
+  "inscription": "Imperial Japan edition;\r\nErased: Limited to ten (10) sets. John Sloan",
   "life_date": "American, 1871 - 1951",
-  "marks": "Imperial Japan edition;\r\nErased: Limited to ten (1 In plate, on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G316",
+  "signed": "In plate, on sheet",
   "style": "20th century",
   "text": "John Sloan taught himself to etch from books. One of his first and most important fine-art efforts was a series called \"New York City Life,\" which includes Roofs, Summer Night. \"I always liked to watch the people in the summer, especially the way they live on the roofs,\" he wrote. However, Sloan's attempts to record the unvarnished realities of urban life were too racy for the early 1900s, and he had barely any takers even at $2 a print. Still, he broke ground by introducing topical urban imagery into American etching. ",
   "title": "Roofs, Summer Night"

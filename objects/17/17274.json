@@ -1,6 +1,7 @@
 {
   "accession_number": "46.29",
-  "artist": "Floyd E. Brewer",
+  "artist": "Artist: Floyd E. Brewer",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 5492,
   "image_width": 4340,
+  "inscription": "Signature",
   "life_date": null,
-  "marks": "Signature LR: [Floyd E. Brewer]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Floyd E. Brewer]",
   "style": "20th century",
   "text": "",
   "title": "Evening Concert"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.212",
-  "artist": "Arthur Luiz Piza; Published by La Hune, Paris",
+  "artist": "Artist: Arthur Luiz Piza; Publisher: Published by La Hune, Paris",
+  "classification": "Prints",
   "continent": "South America",
   "country": "Brazil",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LLC: [45/85]",
   "life_date": "Brazilian, born 1928",
-  "marks": "Signature and Edition\r\n\r\nsee Signed\r\n\r\nNumbered in Signed in pencil, LRC: [Piza]",
+  "markings": "",
   "medium": "Color etching and engraving",
   "nationality": "Brazilian",
   "provenance": "[Galerie La Hune, Paris]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LRC: [Piza]",
   "style": "20th century",
   "text": "",
   "title": "The Green Cosmos"

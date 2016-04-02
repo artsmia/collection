@@ -1,6 +1,7 @@
 {
   "accession_number": "51.6",
-  "artist": "Robert W. Peterson",
+  "artist": "Artist: Robert W. Peterson",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, born 1927",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G378",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Green Weed River"

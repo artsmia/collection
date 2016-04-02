@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,784",
-  "artist": "Thom O'Connor",
+  "artist": "Artist: Thom O'Connor",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund, 1967\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1937",
-  "marks": "Signature On sheet",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet",
   "style": "20th century",
   "text": "",
   "title": "The Magician"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.52.2",
-  "artist": "Jean-Baptiste-Camille Corot",
+  "artist": "Artist: Jean-Baptiste-Camille Corot",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of John E. Andrus III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\nLR, incription in graphite: \\\"Don de Eug. Ducasse 2 9bre 1872 2e Etat\\\"",
   "life_date": "French, 1796 - 1875",
-  "marks": "Inscription\r\nLR, incription in graphite: \\\"Don de E ",
+  "markings": "",
   "medium": "Etching, plate tone",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Souvenir de Toscane"

@@ -1,6 +1,7 @@
 {
   "accession_number": "50.27",
-  "artist": "Hans Hilgus",
+  "artist": "Maker: Hans Hilgus",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mrs. Chauncey McCormick and Mrs. Richard E. Danielson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6248,
   "image_width": 4062,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Silver, ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th-17th century",
   "text": "",
   "title": "Tankard"

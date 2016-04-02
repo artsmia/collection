@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.641",
-  "artist": "Utagawa Kunisada; Utagawa Hiroshige II; Published by Hiranoya Shinzō; Carved by Ōta Tashichi",
+  "artist": "Artist: Utagawa Kunisada; Artist: Utagawa Hiroshige II; Publisher: Published by Hiranoya Shinzō; Carver: Carved by Ōta Tashichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2487,
   "image_width": 1736,
-  "life_date": "Japanese, 1786 - 1865",
-  "marks": " in toshidama cartouche: 喜翁豊國画 {kiō Toyokuni ga} | ",
+  "inscription": "",
+  "life_date": "Japanese, 1826 - 1869",
+  "markings": "combined date and censor seal: 子七改 {ne nana aratame} (Rat 7 inspected) | publisher\\'s seal: 万丁平のや {Yorozuchô Hiranoya} | carver\\'s seal: 彫多七 {hori Tashichi}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in toshidama cartouche: 喜翁豊國画 {kiō Toyokuni ga} | 廣重画 {Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "Hashiba Ferry in Snow"

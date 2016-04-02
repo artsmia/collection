@@ -1,6 +1,7 @@
 {
   "accession_number": "82.38.2",
-  "artist": "Piet (Pieter) Zwart",
+  "artist": "Photographer: Piet (Pieter) Zwart",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F PICTORIGHT%2C Netherlands",
   "image_height": 3713,
   "image_width": 2692,
-  "life_date": "Dutch, 1885-1977",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1885–1977",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G365",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Locomotief"

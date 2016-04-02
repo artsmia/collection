@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.95",
-  "artist": "Sawa Sekkyō; Published by Yamadaya Shōbei",
+  "artist": "Artist: Sawa Sekkyō; Publisher: Published by Yamadaya Shōbei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1844,
   "image_width": 2807,
+  "inscription": "",
   "life_date": "Japanese, fl. c.1790s-1800s",
-  "marks": " {Sekkyō ga}",
+  "markings": "Publisher:Yamadaya-ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Sekkyō ga}",
   "style": "18th-19th century",
   "text": "",
   "title": "Perspective Print: Cloth Store of Owari-cho_"

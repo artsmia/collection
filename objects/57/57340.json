@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,062",
-  "artist": "Johan Barthold Jongkind",
+  "artist": "Artist: Johan Barthold Jongkind",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n(see Signed)",
   "life_date": "Dutch, 1819 - 1891",
-  "marks": "Signature\r\n\r\n(see Signed) in pencil, LL: [Jongkind]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LL: [Jongkind]",
   "style": "19th century",
   "text": "",
   "title": "Canal de Hollande, près de Rotterdam (Hiver)"

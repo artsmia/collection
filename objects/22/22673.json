@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.83",
-  "artist": "Kitao Masayoshi; Published by Tsuruya Kiemon",
+  "artist": "Artist: Kitao Masayoshi; Publisher: Published by Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1972,
   "image_width": 2795,
+  "inscription": "",
   "life_date": "Japanese, 1764 - 1824",
-  "marks": " {Kitao Masayoshi ga}",
+  "markings": "Censor:kiwame\r\nPublisher:Tsuruya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kitao Masayoshi ga}",
   "style": "18th century",
   "text": "",
   "title": "Perspective Print: Act 4 of The Syllabary Book of the Forty-seven Ro_nin"

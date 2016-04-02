@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.146",
-  "artist": "Totoya Hokkei",
+  "artist": "Artist: Totoya Hokkei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4215,
   "image_width": 3637,
+  "inscription": "Poem by Seiyôken Umeyo",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": "Poem by Seiyôken Umeyo Hokkei",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hokkei",
   "style": "19th century",
   "text": "",
   "title": "Old Kintoki and Small Demon with Towel in Snake Shape"

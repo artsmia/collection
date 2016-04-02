@@ -1,6 +1,7 @@
 {
   "accession_number": "80.80.41",
-  "artist": "Robert Smirke",
+  "artist": "Artist: Robert Smirke",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Stanley and Lucile Slocum",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5128,
   "image_width": 3343,
+  "inscription": "Signature; Inscription",
   "life_date": "British, 1752 - 1845",
-  "marks": "Signature; Inscription bottom recto: [R. Smirke del./V. Daniell.]",
+  "markings": "",
   "medium": "Graphite on wove paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom recto: [R. Smirke del./V. Daniell.]",
   "style": "19th century",
   "text": "",
   "title": "Standing Man in Early 19th-Century Dress"

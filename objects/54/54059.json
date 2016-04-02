@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.318",
-  "artist": "Auguste Brouet",
+  "artist": "Artist: Auguste Brouet",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Watermark and Stamp",
   "life_date": "French, 1872 - 1941",
-  "marks": "Watermark and Stamp ",
+  "markings": "Watermark: <Arches>; Stamp: [HHR] Cercle Libraire Estampe",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Les Zemgaras"

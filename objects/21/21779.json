@@ -1,6 +1,7 @@
 {
   "accession_number": "78.10a,b",
-  "artist": "Louis Comfort Tiffany",
+  "artist": "Workshop: Louis Comfort Tiffany",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "Given in memory of Mrs. Arthur G. Cohen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1848-1933",
-  "marks": "Inscription ",
+  "inscription": "Inscription",
+  "life_date": "American, 1848–1933",
+  "markings": "on bottom: [8105 K L.C. Tiffany - Favrile]",
   "medium": "Favrile glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th-20th century",
   "text": "",
   "title": "Flower Bowl"

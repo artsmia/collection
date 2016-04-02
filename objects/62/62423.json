@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.144",
-  "artist": "Kawase Hasui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Kawase Hasui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2708,
   "image_width": 1824,
+  "inscription": "URC: 大正十四年春 {Taishō jūyonen haru}",
   "life_date": "Japanese, 1883 - 1957",
-  "marks": "URC: 大正十四年春 {Taishō jūyonen haru} URC: 巴水 {Hasui}",
+  "markings": "URC, red round artist\\'s seal: 川セ {Kawase}",
   "medium": "Woodblock print; ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "(Kabutoya Gallery, 1986).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "URC: 巴水 {Hasui}",
   "style": "20th century",
   "text": "",
   "title": "Departing Spring"

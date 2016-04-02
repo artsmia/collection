@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.186",
-  "artist": "Shunpo",
+  "artist": "Artist: Shunpo",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2523,
   "image_width": 4245,
+  "inscription": "6 poems about spring",
   "life_date": "Japanese",
-  "marks": "6 poems about spring {Shunpo ga}",
+  "markings": "Artist\\' seal\r\nUnread seal LRC(collector?)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunpo ga}",
   "style": "19th century",
   "text": "",
   "title": "(Sake cups in a river)"

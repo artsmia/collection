@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.256",
-  "artist": "Robert Indiana; Published by Robert Indiana; Printed by Simca Print Artists, Inc., New York",
+  "artist": "Artist: Robert Indiana; Publisher: Published by Robert Indiana; Printer: Printed by Simca Print Artists, Inc., New York",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Margaret P. Cost",
@@ -14,8 +15,9 @@
   "image_copyright": "© Morgan Art Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title, Edition\r\n\r\nInscribed and numbered in pencil, LL: [AHAVA 61/96]",
   "life_date": "American, born 1928",
-  "marks": "Signature; Date; Title, Edition\r\n\r\nInscribed and n Signed, dated in pencil, LR: [R Indiana 1978]",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "Margaret P. Cost; given to MIA, 2001.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [R Indiana 1978]",
   "style": "20th century",
   "text": "",
   "title": "Ahava (Love)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "61.55.19a,b",
-  "artist": "attributed to George Garthorne",
+  "artist": "Artist: attributed to George Garthorne",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of James F. and Louise H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5283,
   "image_width": 3148,
+  "inscription": "Mark\r\n\r\nContemporary inscription on underside of base: \r\n                 [WV]\r\n            [Ex Dono]\r\n                   [G]\r\n               [W]    [S]",
   "life_date": "active 1680-1730",
-  "marks": "Mark\r\n\r\nContemporary inscription on underside of b ",
+  "markings": "Mark\r\n\r\nFully marked on body near cover.  Maker\\'s mark and lion passant on cover.\r\n\r\n[GG] pellet below",
   "medium": "Silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "William and Mary",
   "text": "",
   "title": "Caster"

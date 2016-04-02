@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.163.1",
-  "artist": "Utagawa Sadahide",
+  "artist": "Artist: Utagawa Sadahide",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2915,
   "image_width": 3583,
+  "inscription": "Chinese poem on the first page, written by Abe Kininshiki, calligraphed by Ohara Chikudo_",
   "life_date": "Japanese, 1807 - 1873",
-  "marks": "Chinese poem on the first page, written by Abe Kin Gyokuransai Sadahide ga",
+  "markings": "Publisher:Gunpo_do_ jo_shi(unknown)\r\nCarver:Nakamura Shuntai\r\nDated Bunkyu_ Kinoe-ne\r\nall on the back of cover",
   "medium": "Woodblock printed book; ink and limited color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Gyokuransai Sadahide ga",
   "style": "19th century",
   "text": "",
   "title": "Pictured Phenomenon vol.1"

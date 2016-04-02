@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.20",
-  "artist": "Pietro da Cortona (Pietro Berrettini)",
+  "artist": "Artist: Pietro da Cortona (Pietro Berrettini)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3879,
   "image_width": 4380,
+  "inscription": "Inscription\r\n\r\nLLC, in brown: [3]",
   "life_date": "Italian (Tuscany), 1596 - 1669",
-  "marks": "Inscription\r\n\r\nLLC, in brown: [3] ",
+  "markings": "",
   "medium": "Pen and brown ink on laid paper",
   "nationality": "Italian (Tuscany)",
   "provenance": "Sale, Christie's, New York, January 15, 1992, no. 22, as Circle of Guido Reni, for $900, to Mia Weiner, for Moir; Alfred Moir, Santa Barbara (1992-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Rest on the Flight into Egypt"

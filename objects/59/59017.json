@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.47",
-  "artist": "Bernard McNally",
+  "artist": "Artist: Bernard McNally",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2898,
   "image_width": 3857,
+  "inscription": "Signed, Dated, Inscribed, Titled, and Chop Mark",
   "life_date": "American, born 1944",
-  "marks": "Signed, Dated, Inscribed, Titled, and Chop Mark LR: [BERNARD MCNALLY 1977]\r\nLC: [A.P.]\r\nLL: [\\'BAHA",
+  "markings": "VEL Chop Mark",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [BERNARD MCNALLY 1977]\r\nLC: [A.P.]\r\nLL: [\\'BAHA\\'I TEMPLE\\']\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Bahai Temple"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.128",
-  "artist": "Utagawa Hiroshige; Ezakiya Kichibei; Ezakiya Tatsuzō",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Ezakiya Kichibei; Publisher: Ezakiya Tatsuzō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1822,
   "image_width": 2706,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige ga}",
+  "markings": "Red artist\\'s seal: {Ichiryūsai}; publisher\\'s seal: {Ezaki}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
   "title": "Ferry at Rokugō, Kawasaki"

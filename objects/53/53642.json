@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.7",
-  "artist": "Louis-Jean Desprez",
+  "artist": "Artist: Louis-Jean Desprez",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3519,
   "image_width": 4288,
+  "inscription": "Signature",
   "life_date": "French, 1743 - 1804",
-  "marks": "Signature Engraved signature, LL: [Desprez Inv. et Sculp.]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "(Georges Martin du Nord, France); acquired by MIA, 1984",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Engraved signature, LL: [Desprez Inv. et Sculp.]",
   "style": "18th century",
   "text": "An inscription that accompanied later editions of this image attests to this creature's predations: \"The beast, born in the burning sands of Africa, lived in the ruined palace once belonging to Masinissa (ca. 240-148 B.C.), the former ruler of Numidia, a retreat which the chimera left only to devour animals and unwary travelers. Neither land nor sea could contain the monster, who moved ceaselessly over both in his unending hunt. Here, a blazing sun and an arch describe the chimera's African habitat; the ground is crawling with reptiles and strewn with the remains of victims.\"",
   "title": "The Chimera"

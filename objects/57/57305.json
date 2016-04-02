@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,246",
-  "artist": "Cassell &amp; Co., Ltd.; F. H. Maurice de Haas",
+  "artist": "Publisher: Cassell &amp; Co., Ltd.; Artist: F. H. Maurice de Haas",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Name, title, 6246 on back",
   "life_date": "NY, London, Paris",
-  "marks": "Name, title, 6246 on back On print",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On print",
   "style": "19th century",
   "text": "",
   "title": "Fishing Boats on the Beach at Scheveningen"

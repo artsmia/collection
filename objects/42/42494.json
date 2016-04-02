@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.225",
-  "artist": "Niwa Tōkei",
+  "artist": "Artist: Niwa Tōkei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3402,
   "image_width": 4422,
+  "inscription": "",
   "life_date": "Japanese, 1758 - 1820",
-  "marks": " {Tōkei}",
+  "markings": "{Tōkei}",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Tōkei}",
   "style": "18th-19th century",
   "text": "",
   "title": "Tea Stand for Viewing Autumn Colors"

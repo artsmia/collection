@@ -1,6 +1,7 @@
 {
   "accession_number": "54.4",
-  "artist": "Ivan Majdrakoff",
+  "artist": "Artist: Ivan Majdrakoff",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1927",
-  "marks": "Signature LR: [Ivan Majdrakoff \\'53]",
+  "markings": "",
   "medium": "Pen and ink on paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Ivan Majdrakoff \\'53]",
   "style": "20th century",
   "text": "",
   "title": "Studio Plants"

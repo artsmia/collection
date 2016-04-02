@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.10",
-  "artist": "Richard Bosman; Experimental Workshop, San Francisco",
+  "artist": "Artist: Richard Bosman; Publisher: Experimental Workshop, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Beverly and John Rollwagen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition\r\nin graphite LL:  [2/32]",
   "life_date": "Australian, born India 1944",
-  "marks": "Signature; Edition\r\nin graphite LL:  [2/32] in graphite LR: [Bosman]",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "Australian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite LR: [Bosman]",
   "style": "20th century",
   "text": "",
   "title": "The Rescue"

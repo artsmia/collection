@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.117",
-  "artist": "Augustus Welby Northmore Pugin",
+  "artist": "Artist: Augustus Welby Northmore Pugin",
+  "classification": "Architecture",
   "continent": null,
   "country": "England",
   "creditline": "Gift of Patricia and Martin Levy",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "English, 1812-1852",
-  "marks": " \\\"Pugin\\\", incised, on PR side on back, near center",
+  "markings": "\\\"1\\\", stamped at center, 3 in. from top, on back",
   "medium": "Brass",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Pugin\\\", incised, on PR side on back, near center",
   "style": "19th century",
   "text": "",
   "title": "Door grille"

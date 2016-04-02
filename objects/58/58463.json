@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.38",
-  "artist": "Sophie Henriette Taeuber-Arp",
+  "artist": "Artist: Sophie Henriette Taeuber-Arp",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swiss, 1889 - 1943",
-  "marks": "Signature\r\n\r\nsee Signed [S.H. Taeuber-Arp]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[S.H. Taeuber-Arp]",
   "style": "20th century",
   "text": "",
   "title": "Parasols"

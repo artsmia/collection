@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.197a,b",
-  "artist": "C.F.O. Müller; Rüppurr-Fayence Manufaktur",
+  "artist": "Designer: C.F.O. Müller; Manufacturer: Rüppurr-Fayence Manufaktur",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3372,
   "image_width": 3076,
-  "life_date": null,
-  "marks": "Marks ",
+  "inscription": "Marks",
+  "life_date": "Germany",
+  "markings": "Insignia, \\'Made in Germany\\', \\'68\\' on bottom",
   "medium": "Faience",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Bottle with stopper"

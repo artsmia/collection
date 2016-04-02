@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.71",
-  "artist": "Hokumyō; Published by Kawaji",
+  "artist": "Artist: Hokumyō; Publisher: Published by Kawaji",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1923,
   "image_width": 2753,
+  "inscription": "",
   "life_date": "Japanese, fl. 1830s - 1840s",
-  "marks": " {Hokumyō hitsu}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hokumyō hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Sekiya Village by the Sumida River"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,794",
-  "artist": "Camille Pissarro",
+  "artist": "Artist: Camille Pissarro",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Philip W. Pillsbury, 1959",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1830 - 1903",
-  "marks": "Signature signed in pencil",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "Coll. M. Taillardat, acc. to Loys Delteil. Mrs. Charles S. Pillsbury, Minneapolis; Philip Winston Pillsbury, Wayzata, Minn.; given to MIA, 1959.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil",
   "style": "19th century",
   "text": "",
   "title": "Grand'mère (La femme de l'artiste)"

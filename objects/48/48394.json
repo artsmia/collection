@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,432",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Richard P. Gale, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Date monogram and date in plate, upper right: [1547 / H",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date in plate, upper right: [1547 / HSB]",
   "style": "16th century",
   "text": "",
   "title": "Job Conversing with His Friends"

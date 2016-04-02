@@ -1,6 +1,7 @@
 {
   "accession_number": "74.7a,b",
-  "artist": "Pierre Puget",
+  "artist": "Artist: Pierre Puget",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6813,
   "image_width": 4925,
+  "inscription": "",
   "life_date": "French, 1620 - 1694",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Hercules as Archer"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.32",
-  "artist": "John Moore",
+  "artist": "Artist: John Moore",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, born 1941",
-  "marks": "Signature on sheet",
+  "markings": "",
   "medium": "Offset lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Four Glasses"

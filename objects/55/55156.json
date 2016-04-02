@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.181.3",
-  "artist": "Paul Wunderlich",
+  "artist": "Artist: Paul Wunderlich",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\nLL: E.A.",
   "life_date": "German, born 1927",
-  "marks": "Signature; Inscription\r\nLL: E.A. in pencil: [Wunderlich]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Color lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Wunderlich]",
   "style": "20th century",
   "text": "",
   "title": "Johanna Posing for Redfern"

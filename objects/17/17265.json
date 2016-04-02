@@ -1,6 +1,7 @@
 {
   "accession_number": "46.35",
-  "artist": "John Martin Socha",
+  "artist": "Artist: John Martin Socha",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Julia B. Bigelow Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Date",
   "life_date": "1913 - 1983",
-  "marks": "Signature and Date LL: [John Martin Socha, 1946]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [John Martin Socha, 1946]",
   "style": "20th century",
   "text": "",
   "title": "Okinawa Gardens"

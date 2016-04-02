@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.9",
-  "artist": "Utagawa Yoshitoyo; Enshūya Hikobei",
+  "artist": "Artist: Utagawa Yoshitoyo; Publisher: Enshūya Hikobei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2809,
   "image_width": 1931,
+  "inscription": "Kyōka poem on circus (the information about the circus written on the left of the title); date: (from the middle of March); place: (illegible)",
   "life_date": "Japanese, 1830 - 1866",
-  "marks": "Kyōka poem on circus (the information about the ci {Ichiryūsai Yoshitoyo ga}",
+  "markings": "Censor: Kai+Boar 2",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiryūsai Yoshitoyo ga}",
   "style": "19th century",
   "text": "",
   "title": "Elephant From India With Tiger"

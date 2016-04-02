@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,509",
-  "artist": "Paul Klee; Printed by Max Girardet, Bern",
+  "artist": "Artist: Paul Klee; Printer: Printed by Max Girardet, Bern",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3273,
   "image_width": 3460,
+  "inscription": "Signature; Date; Title; Inscriptions\r\n\r\nsee also Signed\r\n\r\nTitled in plate, LL: [Komiker]; dated in plate, LR: [Januar 04]; inscribed in plate, LR: [Bern / 4 invent.] \r\n\r\nVarious illegible inscriptions in pencil, verso (partially erased?)",
   "life_date": "Swiss, 1879 - 1940",
-  "marks": "Signature; Date; Title; Inscriptions\r\n\r\nsee also S Initialed in the plate, LR: [PK]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swiss",
   "provenance": "(Lea Bonti Jaray, London); sold to MIA , 1956.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initialed in the plate, LR: [PK]",
   "style": "20th century",
   "text": "",
   "title": "Komiker"

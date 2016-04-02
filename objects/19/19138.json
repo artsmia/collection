@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.225",
-  "artist": "Pierre Numa Bassaget (Numa)",
+  "artist": "Artist: Pierre Numa Bassaget (Numa)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscriptions; Mark\r\nin pencil, LL: [Numa]; in brown ink, recto: [Lemonier ___ bonnet de ___ ___ rubans de taffetas. Chapeau (Rest illegible) M. Sévilles ___(?)] \r\nin red ink, verso: [___ du soiée]",
   "life_date": "French, active 1830 - 1848",
-  "marks": "Signature; Inscriptions; Mark\r\nin pencil, LL: [Num ",
+  "markings": "Collector\\'s number, LR recto[Lxx] \r\n",
   "medium": "Watercolor and graphite",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Two Women in an Interior"

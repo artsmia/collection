@@ -1,6 +1,7 @@
 {
   "accession_number": "53.9",
-  "artist": "Helen V. Forsberg",
+  "artist": "Artist: Helen V. Forsberg",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4956,
   "image_width": 6892,
+  "inscription": "Signature and Date",
   "life_date": "American",
-  "marks": "Signature and Date LL: [H. Forsberg-\\'53]",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [H. Forsberg-\\'53]",
   "style": "20th century",
   "text": "",
   "title": "Lone Gull"

@@ -1,6 +1,7 @@
 {
   "accession_number": "33.19",
-  "artist": "Charles Despiau",
+  "artist": "Artist: Charles Despiau",
+  "classification": "Sculpture",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5125,
   "image_width": 3427,
+  "inscription": "Signature and Inscription \r\n\r\n(on nape of neck): [C. Despiau. Premiere epreuve]",
   "life_date": null,
-  "marks": "Signature and Inscription \r\n\r\n(on nape of neck): [ (Nape of neck): [C. Despiau. Premiere epreuve]",
+  "markings": "",
   "medium": "Bronze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "(Nape of neck): [C. Despiau. Premiere epreuve]",
   "style": "20th century",
   "text": "",
   "title": "Head of a Woman"

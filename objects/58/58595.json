@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.9",
-  "artist": "Christine Benson; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Christine Benson; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3672,
   "image_width": 2991,
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [Benson \\'77]\r\nLR: [Artist\\'s Proof 6/7]\r\nPrinte",
+  "markings": "LL: VEL chop mark",
   "medium": "Color etching and pochoir (spray paint)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Benson \\'77]\r\nLR: [Artist\\'s Proof 6/7]\r\nPrinted inscription, center: [CHOCOLATE]",
   "style": "20th century",
   "text": "",
   "title": "Chocolate"

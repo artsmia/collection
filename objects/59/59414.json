@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,323",
-  "artist": "Bruce Shobaken",
+  "artist": "Artist: Bruce Shobaken",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1950",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Edition; P & D Number\r\n\r\n[title, \\\"10/25\\\", 12323]",
   "life_date": "American",
-  "marks": "Signature; Title; Edition; P & D Number\r\n\r\n[title, pencil: [Bruce Shobaken 50]",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "pencil: [Bruce Shobaken 50]",
   "style": "20th century",
   "text": "",
   "title": "Acrobats"

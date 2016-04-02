@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,525",
-  "artist": "Clara Gardner Mairs",
+  "artist": "Artist: Clara Gardner Mairs",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Artist, 1957",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 3145,
   "image_width": 3842,
+  "inscription": "Signature",
   "life_date": "American, 1878 - 1963",
-  "marks": "Signature On sheet and work",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On sheet and work",
   "style": "20th century",
   "text": "",
   "title": "Baby Moses"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.15.3",
-  "artist": "Zhu Sheng",
+  "artist": "Artist: Zhu Sheng",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton\r\n",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp",
   "life_date": "1617-c. 1691",
-  "marks": "Signature; Stamp artist\\'s signature and seal, along side of image",
+  "markings": "",
   "medium": "Ink on silk",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and seal, along side of image",
   "style": "17th century",
   "text": "",
   "title": "Bamboo, one of four"

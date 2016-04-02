@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,073",
-  "artist": "Donald Shaw MacLaughlan",
+  "artist": "Artist: Donald Shaw MacLaughlan",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Inscription, Date\r\n\r\nEtched in plate at LC:  Roches of Naye 1910",
   "life_date": "American (born Canada), 1876 - 1938",
-  "marks": "Signature, Inscription, Date\r\n\r\nEtched in plate at In pencil at LR: [DS MacLaughlan];\r\netched in plat",
+  "markings": "Watermark",
   "medium": "Etching, cream laid paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil at LR: [DS MacLaughlan];\r\netched in plate at LR:  [DS MacLaughlin 1910]",
   "style": "20th Century",
   "text": "",
   "title": "A Page from the Alps"

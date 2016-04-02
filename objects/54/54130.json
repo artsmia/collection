@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,183",
-  "artist": "Robert Partin",
+  "artist": "Artist: Robert Partin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Eugene Larkin, 1963",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1928",
-  "marks": "Signature\r\n\r\nsee Signed In pencil: [Robert Partin]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Robert Partin]",
   "style": "20th century",
   "text": "",
   "title": "Touchstone"

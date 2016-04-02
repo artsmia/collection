@@ -1,6 +1,7 @@
 {
   "accession_number": "55.37",
-  "artist": "Sam Kennedy",
+  "artist": "Artist: Sam Kennedy",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The David Draper Dayton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Sam Kennedy",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 20th century",
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Death Mask of John Flannagan"

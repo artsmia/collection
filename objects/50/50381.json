@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,965",
-  "artist": "Charles Maurin",
+  "artist": "Artist: Charles Maurin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4155,
   "image_width": 3191,
+  "inscription": "Signature",
   "life_date": "French, 1854 - 1914",
-  "marks": "Signature Signature in plate and in pencil",
+  "markings": "",
   "medium": "Color etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in plate and in pencil",
   "style": "19th century",
   "text": "",
   "title": "Tineuse de cartes"

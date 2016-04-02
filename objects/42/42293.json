@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.16",
-  "artist": "Yokoyama Seiki; Kishi Gantai; Kitagawa Saigyo; Kishi Renzan",
+  "artist": "Artist: Yokoyama Seiki; Artist: Kishi Gantai; Artist: Kitagawa Saigyo; Artist: Kishi Renzan",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1882,
   "image_width": 4814,
-  "life_date": "Japanese, 1792 - 1864",
-  "marks": "Preliminary remarks followed by 19 haiku poemes an Seiki ga, Gantai, Saigyo ga, Renzan ga, Bunrin ga(",
+  "inscription": "Preliminary remarks followed by 19 haiku poemes and 6 kyo_ka poems",
+  "life_date": "Japanese, born 1813",
+  "markings": "Kaei 6 nen haru(spring of 1853)",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Seiki ga, Gantai, Saigyo ga, Renzan ga, Bunrin ga(R to L)",
   "style": "19th century",
   "text": "",
   "title": "(Plum blossom designs by five artists)"

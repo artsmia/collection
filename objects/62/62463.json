@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.148",
-  "artist": "Yamanaka Kodō; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Yamanaka Kodō; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2578,
   "image_width": 1776,
+  "inscription": "[?] {Shōwa tatsumi risshū}",
   "life_date": "Japanese, 1869 - 1945",
-  "marks": "[?] {Shōwa tatsumi risshū} 辰重繪 {Tatsushige-e}",
+  "markings": "red artist\\'s seal: やまなか {Yamanaka}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "辰重繪 {Tatsushige-e}",
   "style": "20th century",
   "text": "",
   "title": "Actress Sakai Yoneko"

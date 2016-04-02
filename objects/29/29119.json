@@ -1,6 +1,7 @@
 {
   "accession_number": "96.145",
-  "artist": "Kesnel Franklin",
+  "artist": "Artist: Kesnel Franklin",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "Haiti",
   "creditline": "Gift of Mary M. Majzoub in memory of my late husband Ahmad Joseph Majzoub, M.D.",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1977 Kesnel Franklin",
   "image_height": 4527,
   "image_width": 2179,
+  "inscription": "Verso URC, in black marker: Rara / 24x48 / Franklin",
   "life_date": "Haitian, 1945-1978",
-  "marks": "Verso URC, in black marker: Rara / 24x48 / Frankli LRC front, in black paint: Franklin / 77",
+  "markings": "",
   "medium": "Oil on Masonite",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC front, in black paint: Franklin / 77",
   "style": "20th century",
   "text": "",
   "title": "Procession"

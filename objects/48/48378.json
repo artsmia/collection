@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,250",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Funds from Mrs. Franklin M. Crosby Jr. and the William Hood Dunwoody Fund, 1947",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title\r\n\r\ninscribed in plate at top: INFORTVNIVM",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Title\r\n\r\ninscribed in plate at top: INF monogram in plate, upper left: [HSB]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in plate, upper left: [HSB]",
   "style": "16th century",
   "text": "",
   "title": "Misfortune"

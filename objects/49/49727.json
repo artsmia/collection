@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,524.2",
-  "artist": "Jean Claude Richard de Saint-Non; after Hubert Robert",
+  "artist": "Artist: Jean Claude Richard de Saint-Non; Artist: after Hubert Robert",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Gardner Teall, 1917",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1727 - 1791",
-  "marks": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nupper r in plate",
+  "inscription": "Signature and Inscription\r\n\r\nsee Signed\r\n\r\nupper right corner in plate [6]",
+  "life_date": "French, 1733 - 1808",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate",
   "style": "18th century",
   "text": "",
   "title": "Vue Prise dans les jardins de Villa Madame"

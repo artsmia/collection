@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.87.3",
-  "artist": "Pierre Célice",
+  "artist": "Artist: Pierre Célice",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of funds from Robert Taylor",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "French, born 1932",
-  "marks": "Signature; Mark Signature in pencil: [Celice]",
+  "markings": "Watermark: <Arches France>",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "Ackerman Foundation",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature in pencil: [Celice]",
   "style": "20th century",
   "text": "",
   "title": "Marine IV"

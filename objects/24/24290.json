@@ -1,6 +1,7 @@
 {
   "accession_number": "84.122.87",
-  "artist": "Zanesville Glass Manufacturing Company",
+  "artist": "Maker: Zanesville Glass Manufacturing Company",
+  "classification": "Glass",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Three Trustees",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "(Zanesville, Ohio)",
-  "marks": " ",
+  "markings": "",
   "medium": "Glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Globular Bottle"

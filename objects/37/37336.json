@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.158",
-  "artist": "Toyohara  Chikanobu; Published by Fukuda Hatsujirō",
+  "artist": "Artist: Toyohara  Chikanobu; Publisher: Published by Fukuda Hatsujirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2517,
   "image_width": 4910,
+  "inscription": "Signature, Titles, and Seals throughout",
   "life_date": "Japanese, 1838 - 1912",
-  "marks": "Signature, Titles, and Seals throughout Yo_shu_ Kunichika on each",
+  "markings": "Yo_ seal in red on each\r\n",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yo_shu_ Kunichika on each",
   "style": "19th century",
   "text": "",
   "title": "Public Appearances of Shōgun"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.89.28.3",
-  "artist": "Oskar Kokoschka; Wiener Werkstätte (Vienna Workshops)",
+  "artist": "Artist: Oskar Kokoschka; Publisher: Wiener Werkstätte (Vienna Workshops)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29%2C New York %2F Pro Litteris%2C Zurich",
   "image_height": 6059,
   "image_width": 7391,
-  "life_date": "Austrian, 1886 - 1980",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Austrian, 1886–1980",
+  "markings": "",
   "medium": "Color lithograph, letterpress",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "The Dreaming Youths"

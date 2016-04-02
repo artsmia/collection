@@ -1,6 +1,7 @@
 {
   "accession_number": "99.233.66",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 2828,
   "image_width": 1901,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in pencil, at top edge on back: [9/30/98 Laborer, ",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, at top edge on back: [9/30/98 Laborer, Huanuni Bolivia, 1998 David Parker/Huanuni]",
   "style": "20th century",
   "text": "",
   "title": "Laborer, Huanuni, Bolivia"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.107",
-  "artist": "Andy Sinats",
+  "artist": "Artist: Andy Sinats",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Canadian, born 1943",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Screenprint",
   "nationality": "Canadian",
   "provenance": "[Peter M. David Gallery, Minneapolis]; sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "The White House"

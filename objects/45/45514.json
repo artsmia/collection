@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.95.1",
-  "artist": "James Ensor; Un coup de dés . . ., Brussels",
+  "artist": "Artist: James Ensor; Publisher: Un coup de dés . . ., Brussels",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Artists Rights Society %28ARS%29 New York %2F SABM%2C Belgium",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Belgian, 1860-1949",
-  "marks": " ",
+  "markings": "",
   "medium": "Color lithographs after drawings, letterpress",
   "nationality": "Belgian",
   "provenance": "Ruth and Bruce Dayton, Wayzata",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "La Gamme d'Amour"

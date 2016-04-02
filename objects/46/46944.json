@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.6",
-  "artist": "William Holman Hunt",
+  "artist": "Artist: William Holman Hunt",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morisson Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, date and inscription\r\nLL corner of paper, in pencil: [2nd Oct 16, 79]",
   "life_date": "British, 1827 - 1910",
-  "marks": "Signature, date and inscription\r\nLL corner of pape LRC, in the plate: [18 WHH (intertwined) 79]",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in the plate: [18 WHH (intertwined) 79]",
   "style": "19th century",
   "text": "",
   "title": "The Father's Leave-Taking"

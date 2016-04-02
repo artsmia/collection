@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,379",
-  "artist": "Claude Gellée (called Le Lorrain)",
+  "artist": "Artist: Claude Gellée (called Le Lorrain)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1603 - 1682",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1603–1682",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Tempest"

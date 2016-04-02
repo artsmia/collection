@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.331",
-  "artist": "Katsushika Hokusai; Published by Iseya Sanjirō",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Iseya Sanjirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1910,
   "image_width": 2805,
+  "inscription": "Tago no ura ni/ uchiidete mireba/ shirotae no/ Fuji no takane ni/ yuki wa furitsutsu 「山辺赤人　田子の浦に　うち出でてみれば　白妙の　富士の高根に　雪は降つつ」",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": "Tago no ura ni/ uchiidete mireba/ shirotae no/ Fuj Saki no Hokusai Manji 前北斎卍",
+  "markings": "publisher\\'s seal: Eijudō 永寿堂",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Saki no Hokusai Manji 前北斎卍",
   "style": "19th century",
   "text": "",
   "title": "Poem by Yamabe no Akahito"

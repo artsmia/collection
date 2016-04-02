@@ -1,6 +1,7 @@
 {
   "accession_number": "P.456",
-  "artist": "Andrea Schiavone",
+  "artist": "Artist: Andrea Schiavone",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Italian, 1522(?) - 1582",
-  "marks": " ",
+  "markings": "Collector\\'s Marks: [Sir Mark Sykes (?)] [WM Esdaile] ([WE] on recto) .",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "Sir Mark Sykes (L 1897); en recto, Wm. Esdaile (L.2617).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Adoration of the Magi"

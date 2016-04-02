@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.424",
-  "artist": "Utagawa Hiroshige; Yamamotoya Heikichi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Yamamotoya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1812,
   "image_width": 2736,
+  "inscription": "yes(kyo_ka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "yes(kyo_ka) ",
+  "markings": "Censor:kiwame\r\nPublisher:Eikudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Geese Homing at Katada"

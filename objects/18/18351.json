@@ -1,6 +1,7 @@
 {
   "accession_number": "61.25",
-  "artist": "Nathanial Schlaubitz",
+  "artist": "Silversmith: Nathanial Schlaubitz",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Poland",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5287,
   "image_width": 5001,
+  "inscription": "Mark",
   "life_date": "Polish, 1662-1726",
-  "marks": "Mark ",
+  "markings": "\\'NH\\' Danzig/Gdansk mark",
   "medium": "Silver, parcel-gilt",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "17th-18th century",
   "text": "Schlaubitz was the foremost silversmith of his age in Gdansk, a major trading port on the Baltic Sea. The tankard is adorned with the biblical scene of Moses crossing the Red Sea, which would have had special significance for a patron in a city dominated by maritime economy.",
   "title": "Tankard"

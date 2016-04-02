@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.242.4",
-  "artist": "Text by David Ryan and Bevis Hillier, et al.; Minneapolis Institute of Art , publisher; Bentley, Farrell and Burnett , designers",
+  "artist": "Author: Text by David Ryan and Bevis Hillier, et al.; Publisher: Minneapolis Institute of Art , publisher; Designer: Bentley, Farrell and Burnett , designers",
+  "classification": "Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Brian and Julia Morrison Palmer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Color illustrations; letterpress",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Art Deco"

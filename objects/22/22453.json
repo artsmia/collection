@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.124",
-  "artist": "Katsushika Taito II and two other artists; Izumiya Ichibei",
+  "artist": "Artist: Katsushika Taito II and two other artists; Publisher: Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2661,
   "image_width": 1774,
+  "inscription": "",
   "life_date": "Japanese, fl. 1810-1853",
-  "marks": " Bottom plate: {Katsushika Taioto}",
+  "markings": "Censor: {Kiwame}; top edge: {Izumi-ichi ban} (published by Izumiya)",
   "medium": "Woodblock print (ishizuri-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Bottom plate: {Katsushika Taioto}",
   "style": "19th century",
   "text": "",
   "title": "Horse, Bamboo, Flower"

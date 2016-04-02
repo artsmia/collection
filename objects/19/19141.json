@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.228",
-  "artist": "Pierre Numa Bassaget (Numa)",
+  "artist": "Artist: Pierre Numa Bassaget (Numa)",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscriptions; Date\r\n(listed from top) in pencil, recto: [Le Sylphide [partially erased], 1843] [T___ de (Leymerie)][Coiffures de (Paris)] [Costume de Lermonie(?)] [bonnet de Mll Bau_(?)] \r\nin ink, UL recto: [No 6.(underlined)]\r\nin brown ink, verso: [Le 18 février 1843 Boucher](the engraver?)",
   "life_date": "French, active 1830 - 1848",
-  "marks": "Signature; Inscriptions; Date\r\n(listed from top) i In pencil, LL: [Numa]",
+  "markings": "",
   "medium": "Watercolor and graphite",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, LL: [Numa]",
   "style": "19th century",
   "text": "",
   "title": "Wedding Couple and Assistant"

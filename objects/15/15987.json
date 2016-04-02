@@ -1,6 +1,7 @@
 {
   "accession_number": "37.4",
-  "artist": "Minna E. Radusch",
+  "artist": "Artist: Minna E. Radusch",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edmund M. Kopietz",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1907,
   "image_width": 2550,
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature LR in pencil: [Minna E. Radusch]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in pencil: [Minna E. Radusch]",
   "style": "20th century",
   "text": "",
   "title": "Martha's Vineyard"

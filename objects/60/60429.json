@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.42.15",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. John and Kay Dunne",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 1851,
   "image_width": 2761,
+  "inscription": "Signature; Title; Date\r\nin pencil, on back: [Bend Tec 2001]",
   "life_date": "American, born 1951",
-  "marks": "Signature; Title; Date\r\nin pencil, on back: [Bend  in pencil, on back: [David Parker]",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, on back: [David Parker]",
   "style": "21st century",
   "text": "",
   "title": "BendTec, Inc., Duluth, Minnesota"

@@ -1,6 +1,7 @@
 {
   "accession_number": "88.101.3",
-  "artist": "George Bellows",
+  "artist": "Artist: George Bellows",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1882 - 1925",
-  "marks": "Signature UR, in crayon: [Geo Bellows]",
+  "inscription": "Signature",
+  "life_date": "American, 1882–1925",
+  "markings": "",
   "medium": "Black crayon and graphite",
   "nationality": "American",
   "provenance": "(H.V. Allison & Co., Inc., New York, see dealer's label); John and Colles Larkin, Dellwood, Minn., until 1988; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR, in crayon: [Geo Bellows]",
   "style": "20th century",
   "text": "",
   "title": "The White Slave"

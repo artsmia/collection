@@ -1,6 +1,7 @@
 {
   "accession_number": "73.38.2",
-  "artist": "Myer Abel",
+  "artist": "Artist: Myer Abel",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Jane F. Braunstein",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature",
   "life_date": "American, 1904 - 1946",
-  "marks": "Signature L: [Abel]",
+  "markings": "",
   "medium": "Crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "L: [Abel]",
   "style": "20th century",
   "text": "",
   "title": "Chieftain"

@@ -1,6 +1,7 @@
 {
   "accession_number": "71.41",
-  "artist": "Gregory Masurovsky",
+  "artist": "Artist: Gregory Masurovsky",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date, Mark",
   "life_date": "American, 1929-2009",
-  "marks": "Signature; Date, Mark In LR recto:  [GM \\'71\\']; countersigned in full and",
+  "markings": "Watermark: <Ingres d\\'Arches>",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In LR recto:  [GM \\'71\\']; countersigned in full and entitled on verso",
   "style": "20th century",
   "text": "",
   "title": "Unsealed Letter"

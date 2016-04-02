@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,867.7",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Inscription\r\n\r\ninscribed in plate, upper right: [MERCVRY]\r\nnumbered in plate, upper left: 6",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Inscription\r\n\r\ninscribed in plate, uppe monogram in plate, upper left: [HSB]",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "W. Bell Scott (L. 2607); Lawsen Thompson (L. 1770)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram in plate, upper left: [HSB]",
   "style": "16th century",
   "text": "",
   "title": "Mercury"

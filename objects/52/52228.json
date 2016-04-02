@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.146",
-  "artist": "Dennis Rowan; Published by Dennis Rowan",
+  "artist": "Artist: Dennis Rowan; Publisher: Published by Dennis Rowan",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Edition\r\n\r\nsee Signed\r\n\r\nin graphite, LL: [Pierced and Beset]\r\nin graphite, LC: [11/20]",
   "life_date": "American, born 1938",
-  "marks": "Signature; Title; Edition\r\n\r\nsee Signed\r\n\r\nin grap Signed in graphite, LR: [Rowan]",
+  "markings": "",
   "medium": "Photogravure and etching",
   "nationality": "American",
   "provenance": "Purchased from the artist via the Minnesota National Print Biennial",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in graphite, LR: [Rowan]",
   "style": "21st century",
   "text": "",
   "title": "Pierced and Beset"

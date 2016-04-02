@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.269",
-  "artist": "Michael Wolgemut; Text by Anton Koberger",
+  "artist": "Artist: Michael Wolgemut; Author: Text by Anton Koberger",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, 1434/37 - 1519",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "Frederick Keppel, 1925",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "15th-16th century",
   "text": "",
   "title": "King David in Bed Thanking God that his Son is on the Throne"

@@ -1,6 +1,7 @@
 {
   "accession_number": "95.91.1.11",
-  "artist": "Zhang Yu",
+  "artist": "Maker: Zhang Yu",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5518,
   "image_width": 2375,
+  "inscription": "Marks",
   "life_date": "Chinese, 1734 - 1803",
-  "marks": "Marks ",
+  "markings": "ULC, two columns of undeciphered text with three stamps",
   "medium": "Ink and color on paper, hanging scroll",
   "nationality": "Chinese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bird and Flower"

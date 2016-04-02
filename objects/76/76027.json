@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,597",
-  "artist": "Jodocus Hondius; Published by Hendrik Hondius",
+  "artist": "Artist: Jodocus Hondius; Publisher: Published by Hendrik Hondius",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Holland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "Dutch, 1563 - 1611",
-  "marks": "\r\n\r\n ",
+  "markings": "",
   "medium": "Color engraving, with gold",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Frontispiece from Atlas"

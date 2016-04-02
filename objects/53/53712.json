@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.25",
-  "artist": "William Crutchfield",
+  "artist": "Artist: William Crutchfield",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "American, born 1932",
-  "marks": "Signature; Mark In pencil: [Crutchfield]",
+  "markings": "Watermark:  <Arches>",
   "medium": "Screen print, wove",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Crutchfield]",
   "style": "20th century",
   "text": "",
   "title": "Titanic"

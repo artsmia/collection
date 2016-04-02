@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,350",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mrs. Grace B. Wells, 1954",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature, Mark and Stamp initials on plate in etched seal unicorn",
+  "inscription": "Signature, Mark and Stamp",
+  "life_date": "French, 1847-1898",
+  "markings": "FB w/owl bright rose recto",
   "medium": "Etching, aquatint, roulette",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "initials on plate in etched seal unicorn",
   "style": "19th century",
   "text": "",
   "title": "Débarquement en Angleterre"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.84.41",
-  "artist": "Norm Sartorius",
+  "artist": "Artist: Norm Sartorius",
+  "classification": "Woodwork",
   "continent": null,
   "country": null,
   "creditline": "Gift from the Collection of John and Robyn Horn",
@@ -14,8 +15,9 @@
   "image_copyright": "© Norm Sartorius",
   "image_height": 2094,
   "image_width": 4040,
+  "inscription": "Signature",
   "life_date": "American, born 1947",
-  "marks": "Signature on bottom of handle, incised: [NS]",
+  "markings": "",
   "medium": "Honduras rosewood, fiddleback maple",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on bottom of handle, incised: [NS]",
   "style": "20th century",
   "text": "",
   "title": "Spoon"

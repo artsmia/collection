@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.61",
-  "artist": "Utagawa Kuniyoshi; Published by Ebisu",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Ebisu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2701,
   "image_width": 1870,
+  "inscription": "Tenchi\\'s poem:\r\n(My hermitage\r\nLoacated by a rice puddy \r\nIn autumn field\r\nBecause my thatched room got loose\r\nDew drops coming through to wet my sleeve)\r\n{Aki no ta no\r\nKario no io no\r\nToma wo arami\r\nWaga koromode wa\r\nTsuyu ni nure tsutsu}\r\n; followed by a detailed explanation of the poem",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "Tenchi\\'s poem:\r\n(My hermitage\r\nLoacated by a rice  {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Red artist\\'s seal: {Ichiyū}; Publisher: Ebisu; Carver: Horikatsu (unknown)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Illustration of the Emperor Tenchi's Poem"

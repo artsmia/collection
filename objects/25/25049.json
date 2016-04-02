@@ -1,6 +1,7 @@
 {
   "accession_number": "86.115.17",
-  "artist": "Frank Big Bear",
+  "artist": "Artist: Frank Big Bear",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3663,
   "image_width": 2637,
+  "inscription": "Signature; Date",
   "life_date": "American (White Earth Ojibwe), born 1953",
-  "marks": "Signature; Date on shoulder of figure [10-85 Frank Big Bear, Jr.]",
+  "markings": "",
   "medium": "Colored pencil on paper",
   "nationality": "American (White Earth Ojibwe)",
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1986.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on shoulder of figure [10-85 Frank Big Bear, Jr.]",
   "style": "20th century",
   "text": "",
   "title": "Gall"

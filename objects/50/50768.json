@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,074",
-  "artist": "Charles Louis Courtry; after Adolphe Leleux",
+  "artist": "Artist: Charles Louis Courtry; Artist: after Adolphe Leleux",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Inscription\r\nIn margin, in graphite: [A.M. L. Gaucheron Souvenir du reconnaissons son eleve]",
   "life_date": "French, 1846 - 1897",
-  "marks": "Signature and Inscription\r\nIn margin, in graphite: Signed LR in pencil; margin",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed LR in pencil; margin",
   "style": "19th century",
   "text": "",
   "title": "La Marèchalerie"

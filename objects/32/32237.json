@@ -1,6 +1,7 @@
 {
   "accession_number": "99.239",
-  "artist": "Andy Warhol",
+  "artist": "Artist: Andy Warhol",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Terrence D. Curley",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Andy Warhol Foundation for the Visual Arts%2C Inc. %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n\r\nInscribed in brown marker UC: [To the Red Carpet]",
   "life_date": "American, 1928 - 1987",
-  "marks": "Signature; Inscription\r\n\r\nInscribed in brown marke LC in reddish-brown ink: [Andy Warhol] and in blac",
+  "markings": "",
   "medium": "Reddish-brown ink marker",
   "nationality": "American",
   "provenance": "Terrence D. Curley, Golden Valley, Minn.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC in reddish-brown ink: [Andy Warhol] and in black ink LR [aw]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Campbell's Soup Can)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,320",
-  "artist": "after James Ramsey; F. Bacon",
+  "artist": "Artist: after James Ramsey; Engraver: F. Bacon",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "English, 1803 - 1887",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait.  Thomas Bewick"

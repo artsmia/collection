@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.270",
-  "artist": "Jules David",
+  "artist": "Artist: Jules David",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Number; Marks\r\nsee Signed\r\nin black ink, verso: [No. 2533] and [31 Mars 1889]",
   "life_date": "French, 1808 - 1892",
-  "marks": "Signature; Date; Number; Marks\r\nsee Signed\r\nin bla [Jules David] in red ink LL",
+  "markings": "in red ink, LL recto: [Le 31 mars 1889]\r\nin red ink, LR recto: [No. 14]\r\nLC recto: [For plate 2533] [Axx] and other erased pencil marks\r\n",
   "medium": "Watercolor heightened with gouache",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Jules David] in red ink LL",
   "style": "19th century",
   "text": "",
   "title": "Two Women on a Balcony"

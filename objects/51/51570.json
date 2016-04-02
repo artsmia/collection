@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,203",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " In pencil in lower margin and etched in plate at l",
+  "markings": "Watermark:  Balston & Co. 1S7",
   "medium": "Etching, wove paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin and etched in plate at lower right:  Jo Pennell",
   "style": "19th century",
   "text": "",
   "title": "Le Puy, Third Plate"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.24.3",
-  "artist": "Sandra Kraskin",
+  "artist": "Artist: Sandra Kraskin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3581,
   "image_width": 3487,
+  "inscription": "Signature; Edition\r\n\r\nsee Signed",
   "life_date": "American",
-  "marks": "Signature; Edition\r\n\r\nsee Signed on work",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on work",
   "style": "20th century",
   "text": "",
   "title": "Amish Intersection"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,260",
-  "artist": "Samuel Colman; Cassell &amp; Co., Ltd.",
+  "artist": "Artist: Samuel Colman; Publisher: Cassell &amp; Co., Ltd.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1832 - 1920",
-  "marks": " In pencil",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil",
   "style": "19th century",
   "text": "",
   "title": "The Olive Trees of the Riviera"

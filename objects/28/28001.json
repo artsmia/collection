@@ -1,6 +1,7 @@
 {
   "accession_number": "92.56.6",
-  "artist": "David Saunders",
+  "artist": "Maker: David Saunders",
+  "classification": "Collages / Assemblages",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Date; Signature; Inscription",
   "life_date": "American, born 1954",
-  "marks": "Date; Signature; Inscription LR: [David Saunders 1983]\r\nLL: [W.P.]",
+  "markings": "VEL chop, LL",
   "medium": "Collage with oil pastel",
   "nationality": "American",
   "provenance": "[Vermillion Editions Limited, Minneapolis]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [David Saunders 1983]\r\nLL: [W.P.]",
   "style": "20th century",
   "text": "",
   "title": "Sea of Trouble"

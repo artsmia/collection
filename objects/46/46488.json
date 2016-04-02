@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.82.10",
-  "artist": "Matthew Metz",
+  "artist": "Artist: Matthew Metz",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Eunice Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "© Matthew Metz",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "American (Kendallville, Indiana), born 1961",
-  "marks": " \\\"METZ [between 2 bands of triangles, enclosed in a",
+  "markings": "",
   "medium": "Glazed ceramic",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"METZ [between 2 bands of triangles, enclosed in a square]\\\", incised, on bottom",
   "style": "20th century",
   "text": "",
   "title": "Vase with sheaf of wheat"

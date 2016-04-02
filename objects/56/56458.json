@@ -1,6 +1,7 @@
 {
   "accession_number": "P.88.61",
-  "artist": "Robert von Neumann; The Prairie Print Makers",
+  "artist": "Artist: Robert von Neumann; Artist: The Prairie Print Makers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title\r\n\r\nIn LL: [Fishing off the Maine Coast]",
   "life_date": "American, 1888-1976",
-  "marks": "Signature, Title\r\n\r\nIn LL: [Fishing off the Maine  in pencil lower right below image: [Robert von Neu",
+  "markings": "",
   "medium": "Transfer lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil lower right below image: [Robert von Neumann]",
   "style": "20th century",
   "text": "",
   "title": "Fishing off the Maine Coast"

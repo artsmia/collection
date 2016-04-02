@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.18",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2825,
   "image_width": 1763,
+  "inscription": "大正十二年十二月 {Taishō jūninen jūnigatsu} (December 1923)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "大正十二年十二月 {Taishō jūninen jūnigatsu} (December 1923 深水畫 {Shinsui ga} (picture by Shinsui)",
+  "markings": "red artist\\'s seal: 伊東 {Itō} | publisher seal: ワタナベ {Watanabe} | on back, red seal 百五拾枚限り絶版　第一二七番 {hyakugojū mai kagiri zeppan, dai hyakunijūnana ban} (limited edition of 150, number 127)",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "深水畫 {Shinsui ga} (picture by Shinsui)",
   "style": "20th century",
   "text": "Twelfth and last print of the series Twelve Forms of New Beauties (Shin bijin jūni sugata) and Shinsui's first print produced after the Great Kantō earthquake of September 1, 1923.",
   "title": "Melancholy in Spring"

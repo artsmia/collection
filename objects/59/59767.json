@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.28.45",
-  "artist": "Doug Warner",
+  "artist": "Artist: Doug Warner",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition; Mark; Inscription\r\n\r\nsee Signed\r\n\r\nReverse sheet:  [BAL.25.14.6 NFS.  P.76.28.45 DW28765,\r\non mat:  Lakeside Studio, \\\"PYRAMID V\\\" 1976, color litho, gift of Mr./Mrs. Frederick P. Nause, 1976.  Doug Warner, U.S. XX C.]\r\n\r\n",
   "life_date": "American, born 1930",
-  "marks": "Signature; Date; Title; Edition; Mark; Inscription in pencil: [Warner 1976] with title and [VII/XXV]",
+  "markings": "chop marks: LR sheet",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Warner 1976] with title and [VII/XXV]",
   "style": "20th century",
   "text": "",
   "title": "Pyramid V"

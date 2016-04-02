@@ -1,6 +1,7 @@
 {
   "accession_number": "99.233.45",
-  "artist": "David Parker",
+  "artist": "Photographer: David Parker",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "© David Parker",
   "image_height": 1920,
   "image_width": 1293,
+  "inscription": "Signature; Date; Title",
   "life_date": "American, born 1951",
-  "marks": "Signature; Date; Title in pencil, at top edge on back: [Garbage picker, A",
+  "markings": "in pencil, lower right corner on back: [10/22/98]",
   "medium": "Gelatin silver print",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, at top edge on back: [Garbage picker, Arequipa Peru, 1998 David Parker]",
   "style": "20th century",
   "text": "Lack of access to safe sources of drinking water and proper sanitation facilities contribute to the great majority of deaths in children from diarrheal diseases. In developing countries these diseases are the leading cause of death in children and account for nearly 1.5 million deaths worldwide annually.",
   "title": "Garbage Picker, Arequipa, Peru"

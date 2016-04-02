@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.1",
-  "artist": "Takaku Aigai",
+  "artist": "Artist: Takaku Aigai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3281,
   "image_width": 4317,
+  "inscription": "10 poems",
   "life_date": "Japanese, 1796 - 1843",
-  "marks": "10 poems Aigai ga",
+  "markings": "\\\"Sekiso_\\\" seal in red\r\nunread red seal LRC, collecter?",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Aigai ga",
   "style": "19th century",
   "text": "",
   "title": "(Bamboo in snow)"

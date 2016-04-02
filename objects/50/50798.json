@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.2.3",
-  "artist": "François-Nicolas Chifflart",
+  "artist": "Artist: François-Nicolas Chifflart",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Watermark and Collector\\'s Mark",
   "life_date": "French, 1825 - 1901",
-  "marks": "Watermark and Collector\\'s Mark ",
+  "markings": "Watermark: ARC fragment; Collector\\'s Mark: monogram",
   "medium": "Etching, plate tone",
   "nationality": "French",
   "provenance": "Alfred Morrison",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Reveil de l'aquafortiste"

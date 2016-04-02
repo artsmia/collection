@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.13.1",
-  "artist": "Cole Rogers",
+  "artist": "Artist: Cole Rogers",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Carla K. McGrath",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nin graphite, LL: [AP]",
   "life_date": "American",
-  "marks": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nin graphite, L in graphite, LR: [Cole Rogers]",
+  "markings": "",
   "medium": "Lithograph; artist's proof",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Cole Rogers]",
   "style": "20th century",
   "text": "",
   "title": "Time of the Signs"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.95.10",
-  "artist": "James McNeill Whistler",
+  "artist": "Maker: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Paul C. Johnson Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2763,
   "image_width": 3349,
+  "inscription": "",
   "life_date": "American, 1834 - 1903",
-  "marks": " CL, in the image: [(butterfly symbol)]",
+  "markings": "LL, below image, in pencil: [(butterfly symbol)]\r\n",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "CL, in the image: [(butterfly symbol)]",
   "style": "19th century",
   "text": "",
   "title": "Gaiety Stage Door"

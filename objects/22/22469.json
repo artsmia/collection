@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.108",
-  "artist": "Utagawa Hiroshige",
+  "artist": "Artist: Utagawa Hiroshige",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3179,
   "image_width": 4203,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " {Hiroshige ga}",
+  "markings": "Ichiryu_sai seal; LRC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "Located about sixty miles southwest of Tokyo, Hakone has been a popular destination because of its natural hot springs and beautiful mountain scenery. There are seven spas in Hakone, and a number of ukiyo-e artists designed seven-print series featuring them. Depicted here is Ashinoyu hot spring from such a series designed by Hiroshige. The buildings in the foreground are the inns with their hot spring baths that catered to visitors.",
   "title": "\"Ashinoyu\""

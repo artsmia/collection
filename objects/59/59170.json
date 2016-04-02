@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.12.8",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2883,
   "image_width": 3680,
+  "inscription": "Signed, Dated, Countersigned, Dated, Titled, and Chop Mark",
   "life_date": "American, born 1949",
-  "marks": "Signed, Dated, Countersigned, Dated, Titled, and C UR: [T.L. Solien \\'85]\r\nVERSO: [T.L. Solien \\'85]\r\nV",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.; Mr. and Mrs. George McKay Reid; their gift to MIA, 1987.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR: [T.L. Solien \\'85]\r\nVERSO: [T.L. Solien \\'85]\r\nVERSO: [\\\"Monitor\\\"]\r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Monitor"

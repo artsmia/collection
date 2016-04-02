@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.37.6",
-  "artist": "James John Chant; after Thomas Creswick R.A; after William Powell Frith; after Richard Ansdell R.A.; George Stinson and Company",
+  "artist": "Artist: James John Chant; Artist: after Thomas Creswick R.A; Artist: after William Powell Frith; Artist: after Richard Ansdell R.A.; Publisher: George Stinson and Company",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Miss Tessie Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "British, born 1819",
-  "marks": "Signature on plate: [J.J. Chant]",
+  "inscription": "Signature",
+  "life_date": "British, 1819–1909",
+  "markings": "",
   "medium": "Mezzotint engraving",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [J.J. Chant]",
   "style": "19th century",
   "text": "",
   "title": "A Dream of the Future"

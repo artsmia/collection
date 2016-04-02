@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,250",
-  "artist": "Charles Adams Platt",
+  "artist": "Artist: Charles Adams Platt",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "on plate, lower edge: op 33 \\\"An Old Settler\\\" C.A. Platt 1882",
   "life_date": "American, 1861 - 1933",
-  "marks": "on plate, lower edge: op 33 \\\"An Old Settler\\\" C.A.  In pencil on sheet:  CA Platt",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil on sheet:  CA Platt",
   "style": "19th century",
   "text": "",
   "title": "An Old Settler"

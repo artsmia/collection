@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.3",
-  "artist": "T.L. Solien",
+  "artist": "Artist: T.L. Solien",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3362,
   "image_width": 3803,
+  "inscription": "Signed, Dated, Numbered",
   "life_date": "American, born 1949",
-  "marks": "Signed, Dated, Numbered LR: [T.L. Solien 1982]\r\nLL: [5/5]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Mpls.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [T.L. Solien 1982]\r\nLL: [5/5]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

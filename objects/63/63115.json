@@ -1,6 +1,7 @@
 {
   "accession_number": "68.15.17",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Katherine L. Fraser",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3013,
   "image_width": 1132,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Woodblock print; ink on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Bishamonten"

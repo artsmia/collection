@@ -1,6 +1,7 @@
 {
   "accession_number": "89.120.18",
-  "artist": "Unknown Korean",
+  "artist": "Artist: Unknown Korean",
+  "classification": "Metalwork",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of Mary Annette and David Thompson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Bronze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "12th-13th century",
   "text": "",
   "title": "Spoon"

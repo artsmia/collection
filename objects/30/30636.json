@@ -1,6 +1,7 @@
 {
   "accession_number": "98.178.1.1",
-  "artist": "Bergmeister Kunstschmiede",
+  "artist": "Maker: Bergmeister Kunstschmiede",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of funds from Dolly J. Fiterman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp",
   "life_date": null,
-  "marks": "Stamp ",
+  "markings": "stamped, on bottom of base: [Kunstchmiede/BERGMEISTER/Ebersberg]",
   "medium": "Cast bronze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Candlestick, one of a pair"

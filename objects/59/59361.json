@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,840",
-  "artist": "Thomas Moran",
+  "artist": "Artist: Thomas Moran",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Edmund D. Brooks, May 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1837 - 1926",
-  "marks": " In pencil and in plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "Mr. and Mrs. Edmund D. Brooks, Minneapolis.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil and in plate",
   "style": "19th century",
   "text": "",
   "title": "Morning on the St. Johns, Florida"

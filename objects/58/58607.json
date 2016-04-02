@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.15",
-  "artist": "Lee Bjorklund",
+  "artist": "Artist: Lee Bjorklund",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3873,
   "image_width": 2820,
+  "inscription": "Signed, dated, numbered, and chop mark.",
   "life_date": "American, born 1940",
-  "marks": "Signed, dated, numbered, and chop mark. LR: [Bjorklund 1978]\r\nLL: [A.P. 2/8]",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph and hand-colored stencils",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Bjorklund 1978]\r\nLL: [A.P. 2/8]",
   "style": "20th century",
   "text": "",
   "title": "Site Drawn #15"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.21",
-  "artist": "Claude-Joseph Vernet",
+  "artist": "Artist: Claude-Joseph Vernet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9552,
   "image_width": 7096,
-  "life_date": "French, 1714 - 1789",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "French, 1714–1789",
+  "markings": "Watermark: fleur-de-lys in circle",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Return from Fishing"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.117",
-  "artist": "Utagawa Hiroshige; Published by Takenouchi Magohachi; Carved by Jirobei; Printed by Heibei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Takenouchi Magohachi; Carver: Carved by Jirobei; Printer: Printed by Heibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1925,
   "image_width": 2833,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige ga",
+  "markings": "Censor:kiwame\r\nPublisher:Takenouchi\r\nCarver:Jirobe_(Horiko_ Jirobe_)\r\nPrinter:Heibe_(Surishi Heibe_)\r\nabove two written on the sign boards hung inside the inn, not sealed",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
   "title": "Women Soliciting Travelers, Goyu"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.3",
-  "artist": "Francis Chapin",
+  "artist": "Artist: Francis Chapin",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Inscription\r\n\r\nverso: [Property of John I. Coe]",
   "life_date": "American, 1899 - 1965",
-  "marks": "Signature; Inscription\r\n\r\nverso: [Property of John Recto, LR: [Francis Chapin]",
+  "markings": "",
   "medium": "Watercolor and black ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Recto, LR: [Francis Chapin]",
   "style": "20th century",
   "text": "",
   "title": "White Sails"

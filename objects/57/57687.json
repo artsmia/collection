@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.42",
-  "artist": "Jan Muller; after Hans von Aachen",
+  "artist": "Artist: Jan Muller; Artist: after Hans von Aachen",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6723,
   "image_width": 4481,
+  "inscription": "",
   "life_date": "Dutch, 1571 - 1628",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th-17th century",
   "text": "",
   "title": "Martyrdom of Saint Sebastian"

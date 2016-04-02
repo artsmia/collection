@@ -1,6 +1,7 @@
 {
   "accession_number": "P.236",
-  "artist": "Wenceslaus Hollar",
+  "artist": "Artist: Wenceslaus Hollar",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Bohemian (active in London and Antwerp) 1607-1677",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching with drypoint and burin\r\n",
   "nationality": "British",
   "provenance": "William M. Ladd",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Still Life with Muffs"

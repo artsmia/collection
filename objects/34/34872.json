@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.289",
-  "artist": "Totoya Hokkei",
+  "artist": "Artist: Totoya Hokkei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "kyo_ka poem\r\n\\\"Harukaze no \r\nChikaradameshi ya\r\nIsamashiku\r\nYanagi wo yusuru\r\nUme no hana osho_\\\"\r\n\r\nAs spring wind is trying its strength,\r\nPlum-blossom monk violently is shaking a willow tree.\r\n\r\nby Edo Shigaraki Kacho_ya Noriyasu",
   "life_date": "Japanese, 1780 - 1850",
-  "marks": "kyo_ka poem\r\n\\\"Harukaze no \r\nChikaradameshi ya\r\nIsa 呉北渓 {Go Hokkei}",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "呉北渓 {Go Hokkei}",
   "style": "19th century",
   "text": "Hanazono poetry club",
   "title": "Wood: Lu Zhishen"

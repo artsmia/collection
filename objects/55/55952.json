@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,184",
-  "artist": "Timothy Cole; after David Teniers, the Younger",
+  "artist": "Artist: Timothy Cole; Artist: after David Teniers, the Younger",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "\\\"Fine proof! T. C.\\\" on proof in pencil; \\\"100\\\" penc In plate below image and paper",
+  "inscription": "\\\"Fine proof! T. C.\\\" on proof in pencil; \\\"100\\\" penciled bottom center of board",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate below image and paper",
   "style": "19th century",
   "text": "",
   "title": "Afternoon"

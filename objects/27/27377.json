@@ -1,6 +1,7 @@
 {
   "accession_number": "91.112.80",
-  "artist": "Kikugawa Eizan",
+  "artist": "Artist: Kikugawa Eizan",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Charles B. Meech",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4601,
   "image_width": 6668,
+  "inscription": "waka poem",
   "life_date": "Japanese, 1787 - 1867",
-  "marks": "waka poem ",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "(Courtesan and a Man Kissing)"

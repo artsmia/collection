@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,553",
-  "artist": "Pablo Picasso; Published by Atelier Roger Lacourière, Paris, France; Printed by Atelier Roger Lacourière, Paris, France",
+  "artist": "Artist: Pablo Picasso; Publisher: Published by Atelier Roger Lacourière, Paris, France; Printer: Printed by Atelier Roger Lacourière, Paris, France",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in re Signed in red crayon, LR:[ Picasso]; on plate: [Pi",
+  "inscription": "Signature, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in red crayon, LL: [3/3]",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "",
   "medium": "Etching on vellum",
   "nationality": "Spanish",
   "provenance": "(Lucien Goldschmidt Galleries, New York); sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in red crayon, LR:[ Picasso]; on plate: [Picasso]",
   "style": "20th century",
   "text": "",
   "title": "Femme torero. Dernier baiser?"

@@ -1,6 +1,7 @@
 {
   "accession_number": "70.28",
-  "artist": "Alphonse Mucha",
+  "artist": "Artist: Alphonse Mucha",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Czechoslovakia",
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Stamp\r\n\r\nsee Signed",
   "life_date": "Czech, 1860 - 1939",
-  "marks": "Signature; Stamp\r\n\r\nsee Signed recto LRC, in pencil: [Mu]",
+  "markings": "Two civil stamps verso, one the estate stamp with the pen and ink number [1092]",
   "medium": "Black chalk and graphite",
   "nationality": "Czech",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "recto LRC, in pencil: [Mu]",
   "style": "20th century",
   "text": "",
   "title": "Young Girl"

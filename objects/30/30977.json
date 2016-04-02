@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.7",
-  "artist": "Dong Qichang",
+  "artist": "Maker: Dong Qichang",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2237,
   "image_width": 4522,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1555 - 1636",
-  "marks": "Signature; Stamps artist\\'s signature and seal, at upper left center",
+  "markings": "collector\\'s seal, at right center",
   "medium": "Ink on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and seal, at upper left center",
   "style": "16th-17th century",
   "text": "",
   "title": "Landscape"

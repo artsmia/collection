@@ -1,6 +1,7 @@
 {
   "accession_number": "P.44dup",
-  "artist": "Joseph Pennell",
+  "artist": "Artist: Joseph Pennell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dundwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2560,
   "image_width": 1942,
+  "inscription": "",
   "life_date": "American, 1860 - 1926",
-  "marks": " In pencil in lower margin:  J. Pennell",
+  "markings": "Watermark:  INGRES PM F (Italia)",
   "medium": "Transfer lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil in lower margin:  J. Pennell",
   "style": "20th century",
   "text": "",
   "title": "The Woolworth Building"

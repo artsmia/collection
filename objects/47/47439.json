@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,187",
-  "artist": "Samuel Palmer",
+  "artist": "Artist: Samuel Palmer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "British, 1805-1881",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "English",
   "provenance": "William M. Ladd, Portland, Ore.; Herschel V. Jones, Minneapolis, 1916; his gift to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Christmas"

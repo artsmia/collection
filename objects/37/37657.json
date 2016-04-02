@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.104.1a,b",
-  "artist": "Utagawa Kunisada; Published by Yorozuya Kichibei",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Yorozuya Kichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Seal",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": "Signature and Seal in toshidama cartouche: 豊國画 {Toyokuni ga}",
+  "markings": "censor seals: {Kinugasa} | {Murata} | publisher\\'s seal: {Yorozuya ban}",
   "medium": "Woodblock prints (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "",
   "title": "Fighting Scene on the Koryū Castle from the Play of Eight-dog Warriors"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.12",
-  "artist": "Cao Tang",
+  "artist": "Maker: Cao Tang",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2099,
   "image_width": 4238,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese",
-  "marks": "Signature; Stamps artist\\'s signature and seal, at ULC",
+  "markings": "collector\\'s seal, at LLC",
   "medium": "Ink on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and seal, at ULC",
   "style": "17th century",
   "text": "",
   "title": "Bamboo and Prunus"

@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.11",
-  "artist": "Gu Fuzhen",
+  "artist": "Maker: Gu Fuzhen",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2101,
   "image_width": 4180,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1634-after 1716",
-  "marks": "Signature; Stamps artist\\'s signature and two stamps, at ULC",
+  "markings": "",
   "medium": "Ink and colors on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature and two stamps, at ULC",
   "style": "17th-18th century",
   "text": "",
   "title": "Scholar in his Creek Side Retreat"

@@ -1,6 +1,7 @@
 {
   "accession_number": "95.60",
-  "artist": "Charles-François Daubigny",
+  "artist": "Artist: Charles-François Daubigny",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Anonymous gift of funds",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6276,
   "image_width": 8362,
+  "inscription": "Stamp",
   "life_date": "French, 1817 - 1878",
-  "marks": "Stamp Unsigned",
+  "markings": "Estate stamp LR recto (L. 518)",
   "medium": "Graphite",
   "nationality": "French",
   "provenance": "Eric G. Carlson Fine Prints and Drawings, New York",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Unsigned",
   "style": "19th century",
   "text": "",
   "title": "Animaux antédiluviens à Sydenham"

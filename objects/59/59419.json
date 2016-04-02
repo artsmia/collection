@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,396",
-  "artist": "Edvard Munch",
+  "artist": "Artist: Edvard Munch",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "Gift of Bruce B. Dayton, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3819,
   "image_width": 3076,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Norwegian, 1863 - 1944",
-  "marks": "Signature\r\n\r\nsee Signed Signed in pencil: [Edv Munch]",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "Norwegian",
   "provenance": "[Kornfeld & Klipstein, Germany]; Bruce B. Dayton, Wayzata, Minn.; gave to MIA, 1965",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil: [Edv Munch]",
   "style": "19th century",
   "text": "",
   "title": "Angst"

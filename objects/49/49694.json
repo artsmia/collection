@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.8.2",
-  "artist": "Jacques-Louis Petit; after Jean-Michel Moreau le Jeune; finished by Jean Dambrun",
+  "artist": "Artist: Jacques-Louis Petit; Artist: after Jean-Michel Moreau le Jeune; Artist: finished by Jean Dambrun",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3891,
   "image_width": 2866,
-  "life_date": "French, 1760 - c.1812",
-  "marks": "Signature\r\n\r\nsee Signed in plate at LL margin: [JM Morea le Jeune]; at LC:",
+  "inscription": "Signature\r\n\r\nsee Signed",
+  "life_date": "French, 1741 - 1814",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "French",
   "provenance": "Proute, Paris",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in plate at LL margin: [JM Morea le Jeune]; at LC: [L Petit aquaforti]; at LR: [Dambrun sculp[",
   "style": "18th century",
   "text": "",
   "title": "Vignette from the Metamorphesis of Ovid"

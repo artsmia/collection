@@ -1,6 +1,7 @@
 {
   "accession_number": "51.40.41",
-  "artist": "Utagawa Kunisada; Utagawa Hiroshige; Published by Iseya Kanekichi; Carved by Yokogawa Takejirō",
+  "artist": "Artist: Utagawa Kunisada; Artist: Utagawa Hiroshige; Publisher: Published by Iseya Kanekichi; Carver: Carved by Yokogawa Takejirō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Margaret McMillan Webber Estate",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1901,
   "image_width": 3874,
-  "life_date": "Japanese, 1786 - 1865",
-  "marks": " Right, in toshidama cartouche: 豊國画 {Toyokuni ga} |",
+  "inscription": "",
+  "life_date": "Japanese, 1797 - 1858",
+  "markings": "left sheet, red artist\\'s seal: {Ichiryūsai} | date seal: 丑四 {ushi yon} (Ox 4) | censor seals: {Kinugasa}, 村田 {Murata} | carver\\'s seal: 横川彫竹 {Yokogawa hori Take} | publisher\\'s seal: 吉　伊勢兼 {Kichi, Isekane}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Right, in toshidama cartouche: 豊國画 {Toyokuni ga} | Left: 廣重画 {Hiroshige ga}",
   "style": "19th century",
   "text": "Two women on a balcony espy Mitsuuji walking through the reeds at Akashi Bay. Hiroshige later reused his landscape design for a triptych showing Kanazawa Bay in his Eight Views of Kanazawa Bay in Moonlight (Buyō Kanazawa hasshō yakei) from 1857.",
   "title": "Akashi"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.106",
-  "artist": "attributed to Andrea Andreani, the publisher",
+  "artist": "Artist: attributed to Andrea Andreani, the publisher",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, c.1560 - 1623",
-  "marks": "Signature Initials and date in plate",
+  "markings": "",
   "medium": "Woodcut",
   "nationality": "Italian",
   "provenance": "Knoedler and Co.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initials and date in plate",
   "style": "16th century",
   "text": "",
   "title": "Emperor Tiberius"

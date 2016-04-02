@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.58",
-  "artist": "Nishiyama Hōen",
+  "artist": "Artist: Nishiyama Hōen",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3584,
   "image_width": 4737,
+  "inscription": "2 haiku poems",
   "life_date": "Japanese, 1804 - 1867",
-  "marks": "2 haiku poems Ho_en",
+  "markings": "\\\"Ho_en\\\" seal in red",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Ho_en",
   "style": "19th century",
   "text": "",
   "title": "(Butterflies)"

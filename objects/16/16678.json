@@ -1,6 +1,7 @@
 {
   "accession_number": "42.37.3",
   "artist": "",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. C. C. Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1704,
   "image_width": 2272,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Wood, paint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Kachina"

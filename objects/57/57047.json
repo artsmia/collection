@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,240",
-  "artist": "Ignaz M. Gaugengigl; Cassell &amp; Co., Ltd.",
+  "artist": "Artist: Ignaz M. Gaugengigl; Publisher: Cassell &amp; Co., Ltd.",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. George A. Goddard, 1919",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German-American, 1855 - 1932",
-  "marks": " On paper, in plate",
+  "inscription": "",
+  "life_date": "NY, London, Paris",
+  "markings": "",
   "medium": "Etching",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On paper, in plate",
   "style": "19th century",
   "text": "",
   "title": "And Drive Dull Care Away"

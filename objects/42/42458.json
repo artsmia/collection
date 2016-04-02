@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.98",
-  "artist": "Kiin",
+  "artist": "Artist: Kiin",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3276,
   "image_width": 4369,
+  "inscription": "16 haiku poems",
   "life_date": "Japanese",
-  "marks": "16 haiku poems Kiin utsusu",
+  "markings": "\\\"To_bi\\\" seal in red\r\nTempo_ 10(1839) minami-akichiku?",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Kiin utsusu",
   "style": "19th century",
   "text": "",
   "title": "Mount Isa"

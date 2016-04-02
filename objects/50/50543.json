@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,819",
-  "artist": "Félix Bracquemond",
+  "artist": "Artist: Félix Bracquemond",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark and Watermark",
   "life_date": "French, 1833 - 1914",
-  "marks": "Mark and Watermark ",
+  "markings": "Watermarks: partial on left side (Reevs?); Collectror\\'s Marks: Black stamp recto (Sir William Drake, L.2743); red stamp verso (A. Poulet-Malassis, L.1906)",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "Sir William Drake (L 2743); A Poulet-Malassis (L.1906)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Le Canot a voile ponté"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,353",
-  "artist": "Jacques Callot",
+  "artist": "Artist: Jacques Callot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "French, 1592-1635",
-  "marks": "Signature\r\n\r\nsee Signed on plate: [Jacobus Callot]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Jacobus Callot]",
   "style": "17th century",
   "text": "",
   "title": "The Great Fair at Florence"

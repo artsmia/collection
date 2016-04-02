@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,660",
-  "artist": "Luigi Schiavonetti; James Heath; H.W. Worthington",
+  "artist": "Artist: Luigi Schiavonetti; Artist: James Heath; Artist: H.W. Worthington",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mrs. Ridgely Hunt, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1765-1810",
-  "marks": "Signature on plate: [Lewis Schiavonetti]",
+  "inscription": "Signature",
+  "life_date": "English, 1757 - 1834",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate: [Lewis Schiavonetti]",
   "style": "19th century",
   "text": "",
   "title": "Pilgrimage to Canterbury"

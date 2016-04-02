@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.55",
-  "artist": "Edgar Chahine",
+  "artist": "Artist: Edgar Chahine",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of John W. Ittmann",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Edgar Chahine %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and watermark",
   "life_date": "French (born Austria-Hungary), 1874-1947",
-  "marks": "Signature and watermark LL in pencil",
+  "markings": "Watermark: fragment of a monogram",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "Judith Pillsbury, 1983",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL in pencil",
   "style": "19th century",
   "text": "",
   "title": "The Ragpicker"

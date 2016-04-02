@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.95",
-  "artist": "Pierre Thomas Le Clerc",
+  "artist": "Artist: Pierre Thomas Le Clerc",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Mark\r\n[Dessin pour la Galerie des Modes.] on mat",
   "life_date": "French, born 1740",
-  "marks": "Inscription; Mark\r\n[Dessin pour la Galerie des Mod ",
+  "markings": "Collector\\'s mark, LL, in violet: [GBL]",
   "medium": "Sepia",
   "nationality": "French",
   "provenance": "G.B. Lasquin, Paris\r\nDwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Dessin pour la Galerie des Modes"

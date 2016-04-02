@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.89",
-  "artist": "Utagawa Kunisada; Published by Sanoya Kihei",
+  "artist": "Artist: Utagawa Kunisada; Publisher: Published by Sanoya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2784,
   "image_width": 1929,
+  "inscription": "Motoyoshi\\'s poem and the background explanation of the poem: {Wabi nu reba / Ima hata onaji / Naniwa naru / Mi wo tsukushi te mo / Awan to zo omou} (Now, in dire distress / It is all the same to me / So then, let us meet / even though it costs my life / In Naniwa bay)",
   "life_date": "Japanese, 1786 - 1865",
-  "marks": "Motoyoshi\\'s poem and the background explanation of {Kunisada aratame nidai Toyokuni ga}",
+  "markings": "red artist\\'s toshidama seal | censor seal: {Tanaka} | publisher\\'s seal: {Sanoki}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kunisada aratame nidai Toyokuni ga}",
   "style": "19th century",
   "text": "",
   "title": "No. 20 Prince Motoyoshi"

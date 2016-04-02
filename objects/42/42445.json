@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.71",
-  "artist": "Kido_ Kageyasu",
+  "artist": "Artist: Kido_ Kageyasu",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3096,
   "image_width": 4044,
+  "inscription": "69 haiku poems",
   "life_date": "Japanese, act. early 19th century",
-  "marks": "69 haiku poems Sonfu Kido_ Kageyasu kinsha",
+  "markings": "\\\"Kageyasu\\\" seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Imao Keinen",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Sonfu Kido_ Kageyasu kinsha",
   "style": "19th century",
   "text": "",
   "title": "Japanese Yellow Rose (Yamabuki)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,112",
-  "artist": "Timothy Cole; after Fra Filippo Lippi",
+  "artist": "Artist: Timothy Cole; Artist: after Fra Filippo Lippi",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "\\\"Fine Proof T.C.\\\" in pencil on sheet; Written on m In plate, on sheet",
+  "inscription": "\\\"Fine Proof T.C.\\\" in pencil on sheet; Written on mount: Compare Stillman page 105 and \\\"27.\\\"",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate, on sheet",
   "style": "19th century",
   "text": "",
   "title": "The Virgin Adoring Infant"

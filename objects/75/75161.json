@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,322",
-  "artist": "Samuel Freeman; Published by Blackie &amp; Son, Glasgow",
+  "artist": "Artist: Samuel Freeman; Publisher: Published by Blackie &amp; Son, Glasgow",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "English, 1773 - 1857",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Stipple engraving",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Portrait of Baron Cuvier"

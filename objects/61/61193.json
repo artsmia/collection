@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.29.22",
-  "artist": "Pierre Daura",
+  "artist": "Artist: Pierre Daura",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Martha R. Daura",
@@ -14,8 +15,9 @@
   "image_copyright": "© Martha Daura %2F Estate of Pierre Daura. Some rights reserved.",
   "image_height": 3709,
   "image_width": 3182,
+  "inscription": "\\\"The Family Circle\\\", in blue, on back",
   "life_date": "American (born Spain), 1896-1976",
-  "marks": "\\\"The Family Circle\\\", in blue, on back \\\"Daura\\\", in blue, on back",
+  "markings": "",
   "medium": "Oil on cardboard",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "G263",
+  "signed": "\\\"Daura\\\", in blue, on back",
   "style": "20th century",
   "text": "",
   "title": "The Family Circle"

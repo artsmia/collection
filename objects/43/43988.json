@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.26.15",
-  "artist": "David Shapiro",
+  "artist": "Artist: David Shapiro",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Edith and Norman Garmezy",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4499,
   "image_width": 3579,
+  "inscription": "Signature, Date, Title, Edition and Chop mark\r\n\r\nsee Signed\r\n\r\nTitled in pencil, LR, below image: [\\'Kala\\']; numbered in pencil, LL, below image; [2/20]",
   "life_date": "American, 1944-2014",
-  "marks": "Signature, Date, Title, Edition and Chop mark\r\n\r\ns Signed and dated in pencil, LC, below image: [(c) ",
+  "markings": "Publisher\\'s blind stamp, LRC of sheet (unidentified)",
   "medium": "Drypoint, etching and photo-etching on red paper",
   "nationality": "American",
   "provenance": "(Thomson Gallery, Minneapolis); Edith and Norman Garmezy, Edina, Minn.; given to MIA, 1998",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LC, below image: [(c) David Shapiro 88]",
   "style": "20th century",
   "text": "",
   "title": "Kala I"

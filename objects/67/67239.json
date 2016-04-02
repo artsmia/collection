@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.94",
-  "artist": "Hasegawa Sadanobu; Wataya Kihei",
+  "artist": "Artist: Hasegawa Sadanobu; Publisher: Wataya Kihei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1962,
   "image_width": 2747,
+  "inscription": "Bottom margin, in pencil: [Naniwa Hyakkei Sadanobu]; yes (presumably the history of the shrine)",
   "life_date": "1809 - 1879",
-  "marks": "Bottom margin, in pencil: [Naniwa Hyakkei Sadanobu {Sadanobu ga}",
+  "markings": "Publisher\\'s seal: {Wataki}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Sadanobu ga}",
   "style": "19th century",
   "text": "",
   "title": "Snow View of Hirota Shrine"

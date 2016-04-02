@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,590",
-  "artist": "Sebald Beham",
+  "artist": "Artist: Sebald Beham",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2395,
   "image_width": 1799,
+  "inscription": "Signature, Date",
   "life_date": "German, 1500-1550",
-  "marks": "Signature, Date monogram and date in plate, lower right: [1521 / H",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Knoedler",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram and date in plate, lower right: [1521 / HSB]",
   "style": "16th century",
   "text": "",
   "title": "St. Sebald"

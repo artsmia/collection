@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,939",
-  "artist": "Asher Brown Durand; after John Vanderlyn",
+  "artist": "Artist: Asher Brown Durand; Artist: after John Vanderlyn",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "On verso in pencil: \\\"His last work was the \\'Ariadne\\' after Vanderlyn. Published in 1835. A fit closing to his career as an engraver. A. B. Durand is the acknowledged head of the profession in America. \\'American Engravers\\'--Baker page 47.\\\"",
   "life_date": "American, 1796 - 1886",
-  "marks": "On verso in pencil: \\\"His last work was the \\'Ariadn No; identified below plate \\\"Eng. by A. B. Durand\\\"",
+  "markings": "",
   "medium": "Engraving, printed on chine collé",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No; identified below plate \\\"Eng. by A. B. Durand\\\"",
   "style": "19th century",
   "text": "",
   "title": "Ariadne"

@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.198",
-  "artist": "Eisen; Published by Yamamotoya Heikichi",
+  "artist": "Artist: Eisen; Publisher: Published by Yamamotoya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2784,
   "image_width": 1889,
+  "inscription": "",
   "life_date": "Japanese, 1790 - 1848",
-  "marks": " {Kisai Eisen utsusu}",
+  "markings": "unread artist\\'s seal; censor: Watanabe; publisher seal: {Yamamotoya}; LRC: red collector seal: [AM]",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kisai Eisen utsusu}",
   "style": "19th century",
   "text": "",
   "title": "\"Sōmen (Wheat Noodle) Waterfall\""

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.95.16",
-  "artist": "Lill Tschudi",
+  "artist": "Artist: Lill Tschudi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition, Title, Inscription",
   "life_date": "Swiss, 1911-2001",
-  "marks": "Signature, Edition, Title, Inscription Signed in pencil",
+  "markings": "",
   "medium": "Linocut on Japan paper",
   "nationality": "Swiss",
   "provenance": "[Ashgate Publishing, Brookfield, Vt.]; sold to MIA, 1995.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil",
   "style": "20th century",
   "text": "",
   "title": "Ski-joring"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,744",
-  "artist": "Johann Jakob Haid; after Baumgartner; Text by Johann Wilhelm Weinmann",
+  "artist": "Engraver: Johann Jakob Haid; Artist: after Baumgartner; Author: Text by Johann Wilhelm Weinmann",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "German, 1704 - 1767",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Mezzotint, printed in blue",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Frontispiece: Flora, from Phytanthoza Iconographia"

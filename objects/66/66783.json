@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.66",
-  "artist": "Lee Bontecou; Published by Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Lee Bontecou; Publisher: Published by Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Francisca S. Winston Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "© Lee Bontecou",
   "image_height": 6416,
   "image_width": 4673,
+  "inscription": "Signature; Date; Edition; Chop Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [15-27]\r\n",
   "life_date": "American, born 1931",
-  "marks": "Signature; Date; Edition; Chop Mark\r\n\r\nsee Signed\r Signed and dated in pencil, LR: [Bontecou 64]",
+  "markings": "Publisher\\'s blindstamp, LLC",
   "medium": "Lithograph in black and yellow",
   "nationality": null,
   "provenance": "[Dayton's Gallery 12, Minneapolis]",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [Bontecou 64]",
   "style": "20th century",
   "text": "",
   "title": "Fifth Stone"

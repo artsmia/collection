@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.8",
-  "artist": "Johanna Boga",
+  "artist": "Artist: Johanna Boga",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Iceland",
   "creditline": "Gift of the First Bank System",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition\r\n\r\nsee Signed\r\nLC: [on the road III]\r\nLL: [20/50]",
   "life_date": "Icelandic, born 1944",
-  "marks": "Signature; Date; Title; Edition\r\n\r\nsee Signed\r\nLC: in pencil, LR: [Johanna Boga \\'81]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Icelandic",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LR: [Johanna Boga \\'81]",
   "style": "20th century",
   "text": "",
   "title": "On the Road III"

@@ -1,6 +1,7 @@
 {
   "accession_number": "40.26.6",
-  "artist": "Katsushika Hokusai; Published by Eirakuya Tōshirō",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Eirakuya Tōshirō",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Minneapolis Athenaeum",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3333,
   "image_width": 4722,
+  "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "marks": " ",
+  "markings": "Publisher:Eirakuya To_shiro_\r\n\\\"Denshin-Kaishu\\\"(meaning unknown) written above the title\r\n\\\"zen\\\"(complete set) written under the title\r\nCollecter?:Nakagawa",
   "medium": "Woodblock printed book; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Transmitting the Spirit and Revealing the Form of Things: Hokusai's Sketchbooks, vol. 13"

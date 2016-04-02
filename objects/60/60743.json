@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.505",
-  "artist": "Utagawa Hiroshige; Tsuruya Kiemon; Takenouchi Magohachi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Tsuruya Kiemon; Publisher: Takenouchi Magohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:Kiwame\r\nPublisher:Senkakudo_ + Ho_eido_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "These two editions show small but crucial changes. It is possible that the later edition (right) was produced from a new set of blocks, rather than from the blocks used to produce the earlier edition. Most notably, Mount Fuji has been made smaller in the later edition, and the rafts man has been omitted. ",
   "title": "Ferry at Rokugō--Kawasaki"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2003.156.16",
-  "artist": "Maximilien Luce",
+  "artist": "Artist: Maximilien Luce",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mary and Robyn Campbell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1858 - 1941",
-  "marks": "Signature LRC, in pencil: [Luce]",
+  "markings": "",
   "medium": "Black chalk on paper",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Luce]",
   "style": "19th-20th century",
   "text": "",
   "title": "Deux Hommes"

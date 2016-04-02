@@ -1,6 +1,7 @@
 {
   "accession_number": "P.20,705",
-  "artist": "Ernst Ludwig Riepenhausen",
+  "artist": "Artist: Ernst Ludwig Riepenhausen",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed\r\n\r\n",
   "life_date": "German, 1765 - 1840",
-  "marks": "Signature\r\n\r\nsee Signed\r\n\r\n [R] and [Rep.f]",
+  "markings": "\r\n",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[R] and [Rep.f]",
   "style": "19th century",
   "text": "",
   "title": "Fashion Plate, from The Göttinger Almanach"

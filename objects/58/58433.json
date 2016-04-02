@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,937",
-  "artist": "Anders Zorn",
+  "artist": "Artist: Anders Zorn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5072,
   "image_width": 3551,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swedish, 1860 - 1920",
-  "marks": "Signature\r\n\r\nsee Signed [Zorn]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Zorn]",
   "style": "20th century",
   "text": "",
   "title": "Village Violinist"

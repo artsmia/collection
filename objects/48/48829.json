@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.243",
-  "artist": "Georg Pencz",
+  "artist": "Artist: Georg Pencz",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4359,
   "image_width": 2850,
-  "life_date": "German, active c. 1500-1550",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, active c. 1500–1550",
+  "markings": "Watermark: fragment of a cross",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Knoedler & Co. (MK 26227), 1926",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Joseph Sold to the Ishmaelites"

@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.178.20",
-  "artist": "Shibata Zeshin",
+  "artist": "Artist: Shibata Zeshin",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "poems",
   "life_date": "Japanese, 1807 - 1891",
-  "marks": "poems ",
+  "markings": "\\\"Tairyu_kyo\\\" seal\r\nCalligrapher:Terumatsu hitsu and seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "(Collection of Ōtsu-e Subjects)"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.72.43",
-  "artist": "Jean-François Millet; Karl Bodmer",
+  "artist": "Artist: Jean-François Millet; Artist: Karl Bodmer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "French, 1814 - 1875",
-  "marks": "Signature\r\n\r\nsee Signed on stone: [Karl Bodmer]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on stone: [Karl Bodmer]",
   "style": "19th century",
   "text": "",
   "title": "In the Forest"

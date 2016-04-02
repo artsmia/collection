@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.201",
-  "artist": "Paul Wunderlich",
+  "artist": "Artist: Paul Wunderlich",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of funds from Mr. and Mrs. Russell Cowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German, born 1927",
-  "marks": "Signature in pencil: [Wunderlich]",
+  "markings": "Watermark: <BFK Rives>; chop: Verlag Schindler",
   "medium": "Color lithograph",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Wunderlich]",
   "style": "20th century",
   "text": "",
   "title": "Black Rose for Ursala"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.85",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 8676,
   "image_width": 5446,
+  "inscription": "大正十二年一月 {Taishō jūninen ichiigatsu} (January 1923)",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "大正十二年一月 {Taishō jūninen ichiigatsu} (January 1923) 深水畫 {Shinsui ga} (picture by Shinsui)",
+  "markings": "red artist\\'s seal: 伊東 {Itō} | RBC, publisher seal: ワタナベ {Watanabe} | on back, red seal: 貮百枚限り絶版　第百九十八番 {nihyaku mai zeppan, dai hyakukyūjūhachi ban} (edition of 200, number 198)",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Full Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "深水畫 {Shinsui ga} (picture by Shinsui)",
   "style": "20th century",
   "text": "",
   "title": "Charcoal Foot Warmer"

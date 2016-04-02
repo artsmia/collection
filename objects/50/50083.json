@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.271.2",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Woodwork",
   "continent": "Africa",
   "country": "Somalia",
   "creditline": "Gift of Evan Maurer in honor of Beverly Grossman",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6824,
   "image_width": 6767,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Wood",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G254",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Headrest"

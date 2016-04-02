@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.53.1",
-  "artist": "Leonardo Lasansky",
+  "artist": "Artist: Leonardo Lasansky",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "© Leonardo Lasansky",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Number; Mark",
   "life_date": "American, born 1946",
-  "marks": "Signature; Title; Number; Mark in pencil",
+  "markings": "Watermark:  <ARCHES>",
   "medium": "Color etching, soft ground, burin and roulette",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil",
   "style": "20th century",
   "text": "",
   "title": "Partridge Pie"

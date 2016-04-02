@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.5.17",
-  "artist": "Debrah Pearson-Feinn",
+  "artist": "Maker: Debrah Pearson-Feinn",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2828,
   "image_width": 3963,
+  "inscription": "Signed, Dated, Titled, and Chop Mark",
   "life_date": "American, born 1947",
-  "marks": "Signed, Dated, Titled, and Chop Mark LR: [Debrah Pearson 1983]\r\nLL: [Beach Play]\r\nLR: V",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Debrah Pearson 1983]\r\nLL: [Beach Play]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Beach Play (Portrait of Peter Beard)"

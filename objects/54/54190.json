@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,652",
-  "artist": "Félix Buhot",
+  "artist": "Artist: Félix Buhot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature and Inscription\r\nInscribed: [Frontispeic ",
+  "inscription": "Signature and Inscription\r\nInscribed: [Frontispeice pour l\\'Illustration nouvelle d l\\'Editèur Cadart/ Epreuve no 6.-/ à mon ami Octave Uzanye epreuvre d\\'essai FB]",
+  "life_date": "French, 1847-1898",
+  "markings": "",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Frontispiece from \"L 'Illustration Nouvelle\""

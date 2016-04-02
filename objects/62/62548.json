@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.26",
-  "artist": "Itō Shinsui; Published by Watanabe Shōzaburō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2510,
   "image_width": 1949,
+  "inscription": "",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": " hand-applied 深水 {Shinsui}",
+  "markings": "hand-applied red artist\\'s seal: 深水 {Shinsui} | on back, red seal: 特別撰 {tokubetsu sen} (special selection) | red square publisher seal: わたなべ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "hand-applied 深水 {Shinsui}",
   "style": "20th century",
   "text": "",
   "title": "Woman After a Bath"

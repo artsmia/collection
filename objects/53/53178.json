@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,441",
-  "artist": "Antoine Trouvain; after Tortebat",
+  "artist": "Artist: Antoine Trouvain; Artist: after Tortebat",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2035,
   "image_width": 1638,
+  "inscription": "",
   "life_date": "French, 1656 - 1708",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Rene Antoine Houasse"

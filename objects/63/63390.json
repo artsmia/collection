@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,943",
-  "artist": "Torii Kiyomitsu; Published by Yamashiroya",
+  "artist": "Artist: Torii Kiyomitsu; Publisher: Published by Yamashiroya",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3028,
   "image_width": 1514,
+  "inscription": "",
   "life_date": "Japanese, 1735 - 1785",
-  "marks": " {Torii Kiyomitsu hitsu}",
+  "markings": "Publisher: Yamashiroya",
   "medium": "Woodblock print (benizuri-e); ink and limited color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Torii Kiyomitsu hitsu}",
   "style": "18th century",
   "text": "",
   "title": "The Actor Ichimura Kamezō as Aoto Saemon"

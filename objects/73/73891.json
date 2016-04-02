@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,453",
-  "artist": "Unknown Italian",
+  "artist": "Artist: Unknown Italian",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Engraving, black and white",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Frontispiece: Regina Virtus. Il Quatro Libro, from Architettura Di Andrea Palladio"

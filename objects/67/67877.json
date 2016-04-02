@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,918.2",
-  "artist": "Max Weber",
+  "artist": "Artist: Max Weber",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of J.B. Neumann, 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (born Russia), 1881 - 1934",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "",
   "medium": "Woodcut, impression in brown ink",
   "nationality": "American (born Russia)",
   "provenance": "J.B. Neumann, Germany and New York, until 1962; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Reclining Nude"

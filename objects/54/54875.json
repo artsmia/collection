@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.77",
-  "artist": "Patrick Hughes",
+  "artist": "Artist: Patrick Hughes",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from Emily Mason and Wolf Kahn",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark",
   "life_date": "British, born 1939",
-  "marks": "Signature; Mark in pencil: [Hughes]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Aquatint",
   "nationality": "British",
   "provenance": "Ackerman Foundation",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Hughes]",
   "style": "20th century",
   "text": "",
   "title": "Moon Room"

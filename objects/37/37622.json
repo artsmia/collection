@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.168.1",
-  "artist": "Kawanabe Kyōsai; Published by Suharaya Sasuke",
+  "artist": "Artist: Kawanabe Kyōsai; Publisher: Published by Suharaya Sasuke",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3392,
   "image_width": 4328,
+  "inscription": "",
   "life_date": "Japanese, 1831 - 1889",
-  "marks": " [河鍋洞郁画] {Kawanabe Tōiku ga}",
+  "markings": "Publisher: [金花堂梓] {Kinkadō shi}",
   "medium": "Woodblock printed book; ink on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[河鍋洞郁画] {Kawanabe Tōiku ga}",
   "style": "19th century",
   "text": "",
   "title": "An Illustrated Mirror of Falconry, vol. 1, pt. 1"

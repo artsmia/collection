@@ -1,6 +1,7 @@
 {
   "accession_number": "P.85.62",
-  "artist": "Thomas Hart Benton; Published by Associated American Artists, New York",
+  "artist": "Artist: Thomas Hart Benton; Publisher: Published by Associated American Artists, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Richard L. Hillstrom in memory of his parents, Martin and Alma Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Thomas Hart Benton %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 3556,
   "image_width": 4677,
-  "life_date": "American, 1889 - 1975",
-  "marks": "Signature; Mark Signed LR, in pencil: Benton",
+  "inscription": "Signature; Mark",
+  "life_date": "American, 1889–1975",
+  "markings": "Watermark: fragment <MADE IN F>",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Associated American Artists, Chicago, 1945; Rev. Richard Lewis Hillstrom, St. Paul, 1945-1985; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed LR, in pencil: Benton",
   "style": "20th century",
   "text": "",
   "title": "Wreck of Ol' '97"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.88",
-  "artist": "William Scott",
+  "artist": "Artist: William Scott",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from John Toal",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1972 Estate of William Scott",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Marks",
   "life_date": "British, 1913 - 1989",
-  "marks": "Signature; Marks in pencil: [W. Scott]",
+  "markings": "Printer\\'s mark: K 8023\r\nChop; stamp verso [K]",
   "medium": "Color screenprint",
   "nationality": "British",
   "provenance": "Akerman Foundation",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [W. Scott]",
   "style": "20th century",
   "text": "",
   "title": "1st Triangles"

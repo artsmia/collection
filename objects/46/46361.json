@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,915",
-  "artist": "Samuel Arlent Edwards; after Henry Mosler",
+  "artist": "Artist: Samuel Arlent Edwards; Artist: after Henry Mosler",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Artist, 1923",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature in pencil on print border",
+  "inscription": "Signature",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "On plate: Henry Mosler. Below image: Copywrited, 1896. S. Arlent Edwards, Williamsbridge, N.Y.; Reverse sheet, lower edge: Edwards, S.A. After Mosler(Gift of S.A. Edwards, 1923)6915; Front Sheet, Lowerleft: 60",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on print border",
   "style": "19th century",
   "text": "",
   "title": "Good Night"

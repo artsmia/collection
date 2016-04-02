@@ -1,6 +1,7 @@
 {
   "accession_number": "2011.3.4",
-  "artist": "George Grant Elmslie; John S. Bradstreet and Company",
+  "artist": "Designer: George Grant Elmslie; Manufacturer: John S. Bradstreet and Company",
+  "classification": "Furniture",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Walter C. and Mary C. Briggs Trust Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 7211,
   "image_width": 4949,
-  "life_date": "American (born Scotland), 1869-1952",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American (born Scotland), 1869–1952",
+  "markings": "",
   "medium": "Mahogany, glass",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G302",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Chair, from a six-piece dining room suite"

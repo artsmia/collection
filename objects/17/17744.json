@@ -1,6 +1,7 @@
 {
   "accession_number": "50.6",
-  "artist": "Marvin R. Aaron",
+  "artist": "Artist: Marvin R. Aaron",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American",
-  "marks": "Signature LC: [M Aaron \\'49]",
+  "markings": "",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "Purchased from the First Biennial Exhibition of Prints and Drawings (at the MIA) May 13, 1950 - July 25, 1950",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [M Aaron \\'49]",
   "style": "20th century",
   "text": "",
   "title": "Maidens' Chance"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,300",
-  "artist": "Eugène Delacroix",
+  "artist": "Artist: Eugène Delacroix",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "William Hood Dunwoody Fund Purchase, 1947",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1798 - 1863",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1798–1863",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Lion of the Atlas Mountains"

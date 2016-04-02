@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,783",
-  "artist": "Edward Lear",
+  "artist": "Artist: Edward Lear",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9497,
   "image_width": 6629,
+  "inscription": "",
   "life_date": "English, 1812-1888",
-  "marks": " No signatures.",
+  "markings": "",
   "medium": "Lithograph, hand-colored",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signatures.",
   "style": "19th century",
   "text": "",
   "title": "Macrocercus Ararauna.  Blue & Yellow Macaw."

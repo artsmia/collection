@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.205",
-  "artist": "William Lewin",
+  "artist": "Maker: William Lewin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4290,
   "image_width": 3356,
+  "inscription": "Title; Mark",
   "life_date": "English, died 1795",
-  "marks": "Title; Mark No signatures",
+  "markings": "[Wood-Chat], center bottom recto; [No. 32], UR",
   "medium": "Gouache and watercolor on off-white wove paper.\r\nPer cat.card:  Original drawing, h.c.",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "No signatures",
   "style": "18th century",
   "text": "",
   "title": "Wood Chat, No. 32"

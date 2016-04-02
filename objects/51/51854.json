@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.17",
-  "artist": "Adolphe Marie Timothee Beaufrère",
+  "artist": "Artist: Adolphe Marie Timothee Beaufrère",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate Adolphe Marie Beaufr%C3%A8re %2F Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title, edition and marks",
   "life_date": "French, 1876 - 1960",
-  "marks": "Signature, title, edition and marks Below image, R: [Beaufrere]; Lower right: [Avila e",
+  "markings": "Left of center, lower edge of mat [9 # 47 (P #47?)], [L.37.3006]; Left below image: [13/50]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Below image, R: [Beaufrere]; Lower right: [Avila en verso]",
   "style": "20th century",
   "text": "",
   "title": "Avila"

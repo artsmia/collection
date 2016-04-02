@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.207",
-  "artist": "Unknown; after Edward Donovan",
+  "artist": "Artist: Unknown; Artist: after Edward Donovan",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5016,
   "image_width": 3256,
-  "life_date": null,
-  "marks": "Marks ",
+  "inscription": "Marks",
+  "life_date": "English, 1767-1838",
+  "markings": "Strasburg Lily - Churchill no. 408 (1760--used for medical work published in Amsterdam), watermark; [A: 216], LL recto; [PA xx], LR recto",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th-19th century",
   "text": "",
   "title": "Zwergel windling.  (Butterfly)  Convolvulus humilis.  Papil: Phaloena Atlas. (mit durchsichtigen flugel flocken von der Citronum--(?) nach Dunevan.)"

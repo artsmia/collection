@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.167",
-  "artist": "Kakutei",
+  "artist": "Artist: Kakutei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2152,
   "image_width": 1928,
+  "inscription": "2 poems by Kakuyūkan Kisako, Shinyūtei Tomoyori",
   "life_date": "Japanese",
-  "marks": "2 poems by Kakuyūkan Kisako, Shinyūtei Tomoyori {Kakutei? ga}",
+  "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kakutei? ga}",
   "style": "19th century",
   "text": "",
   "title": "Gathering Pine Leaves"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.133",
-  "artist": "Denis Colandon; N. Roberts",
+  "artist": "Artist: Denis Colandon; Printer: N. Roberts",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription; Mark\r\n\r\nLR: N. Robert\\'s address",
   "life_date": "French, active 1674",
-  "marks": "Inscription; Mark\r\n\r\nLR: N. Robert\\'s address ",
+  "markings": "Watermark: fragment",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "La Nourrice"

@@ -1,6 +1,7 @@
 {
   "accession_number": "95.113.4",
-  "artist": "Greg Kelsey",
+  "artist": "Artist: Greg Kelsey",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Gostovich and Celeste Koeberl",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title\r\n\r\n[woman at mona lisa verbs]",
   "life_date": "American, 1951-1991",
-  "marks": "Title\r\n\r\n[woman at mona lisa verbs] ",
+  "markings": "",
   "medium": "Graphite, oil paint, and black crayon",
   "nationality": "American",
   "provenance": "John Gostovich and Celeste Koeberl\r\nSally Johnson, St. Paul\r\nestate of the artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Woman at Mona Lisa Verbs"

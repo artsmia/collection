@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.81",
-  "artist": "Utagawa Kuniyoshi; Published by Ebiya Rinnosuke",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Ebiya Rinnosuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1874,
   "image_width": 2704,
+  "inscription": "[8] (the 8th station)",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "[8] (the 8th station) {Ichiyūsai Kuniyoshi ga}",
+  "markings": "artist\\'s seal; Censor: Kinugasa, Murata; publisher\\'s seal: {Ebi-rin}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "Hiratsuka"

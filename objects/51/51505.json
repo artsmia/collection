@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.71.119",
-  "artist": "Stefano della Bella",
+  "artist": "Artist: Stefano della Bella",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian (Florence), 1610-1664",
-  "marks": "Signature #15 in plate: [SDB f.]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Florence)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "#15 in plate: [SDB f.]",
   "style": "17th century",
   "text": "",
   "title": "Tête de Femme de Profile"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2007.35.183",
-  "artist": "August Sander",
+  "artist": "Photographer: August Sander",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Frederick B. Scheel",
@@ -14,8 +15,9 @@
   "image_copyright": "©Die Photographische Sammlung %2F SK Stiftung Kultur - August Sander Archiv%2C K%C3%B6ln %2F ARS New York",
   "image_height": 3211,
   "image_width": 2122,
-  "life_date": "German, 1876 - 1964",
-  "marks": "Inscription\r\n\r\non back, in pencil: [SG / 149 / OG] ",
+  "inscription": "Inscription\r\n\r\non back, in pencil: [SG / 149 / OG] and [SP (?)]",
+  "life_date": "German, 1876–1964",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Farmer, Westerwald, Germany"

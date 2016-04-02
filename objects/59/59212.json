@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.10",
-  "artist": "Eugène Collignon",
+  "artist": "Artist: Eugène Collignon",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5114,
   "image_width": 5790,
+  "inscription": "\\\"10/18\\\", in graphite, LR",
   "life_date": "French, 1876 - 1961",
-  "marks": "\\\"10/18\\\", in graphite, LR \\\"E. Collignon\\\", in graphite, LR",
+  "markings": "",
   "medium": "Color woodcut",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"E. Collignon\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Paysage (Landscape)"

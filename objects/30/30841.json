@@ -1,6 +1,7 @@
 {
   "accession_number": "98.269.14",
-  "artist": "Reginald Marsh",
+  "artist": "Artist: Reginald Marsh",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Reginald Marsh %2F Art Students League%2C New York %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1898 - 1954",
-  "marks": "Signature; Date; Numbers; Tag; Inscriptions\r\n\r\nsee [Reginald Marsh 1945]",
+  "inscription": "Signature; Date; Numbers; Tag; Inscriptions\r\n\r\nsee Signed\r\n\r\nBottom right, recto: [44/Marsh] \r\nbottom right, verso: identification tag\r\nbottom center, verso: Estate stamp recto\r\ninscribed in graphite within estate stamp:[CAT>#45-6] \r\ninscribed in graphite, verso: [45-6]",
+  "life_date": "American, 1898–1954",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "John I. and Myrtle Coe, Bloomington, Minn., until 1998; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Reginald Marsh 1945]",
   "style": "20th century",
   "text": "",
   "title": "Girl Walking (I), recto; Girl Walking (II), verso"

@@ -1,6 +1,7 @@
 {
   "accession_number": "27.66",
-  "artist": "Spackman of London",
+  "artist": "Maker: Spackman of London",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Miss Marjorie Knowles",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp",
   "life_date": null,
-  "marks": "Stamp ",
+  "markings": "stamped: <Spackman Fenchurch St. London>",
   "medium": "Pewter",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Plate"

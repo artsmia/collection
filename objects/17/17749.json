@@ -1,6 +1,7 @@
 {
   "accession_number": "51.10",
-  "artist": "Attributed to Herculaneum Pottery",
+  "artist": "Artist: Attributed to Herculaneum Pottery",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift in memory of Abbie Eels Reed",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6913,
   "image_width": 6150,
+  "inscription": "Mark",
   "life_date": "c. 1793 - 1841",
-  "marks": "Mark ",
+  "markings": "the intials of the original owner, Henry Blanchard Eels, appear on the front",
   "medium": "Glazed earthenware (creamware) with tranfer-printed decoration",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "Liverpool gained a reputation in the 18th century for elegant creamwares with transfer-printed scenes created for the lucrative trade with America.  Among the images of American eagles and ships with American flags were apotheosis designs in honor of George Washington (1732-99), the first American icon, as seen here.  Washington's qualities of fortitude, judgment, and sense of duty made him a constant inspiration to Americans and Europeans alike.",
   "title": "Jug"

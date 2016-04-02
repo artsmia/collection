@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,859",
-  "artist": "Luís Arenal; Published by Associated American Artists, New York",
+  "artist": "Artist: Luís Arenal; Publisher: Published by Associated American Artists, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Dorothy Rood",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 6450,
   "image_width": 8736,
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Mexican, 1909 - 1985",
-  "marks": "Signature\r\n\r\nsee Signed Signed in pencil, LR: [Arenal]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "Mexican",
   "provenance": "Dorothy Rood; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [Arenal]",
   "style": "20th century",
   "text": "",
   "title": "Mujer de Taxco"

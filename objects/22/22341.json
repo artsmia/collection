@@ -1,6 +1,7 @@
 {
   "accession_number": "80.51.2",
-  "artist": "J. Culbert",
+  "artist": "Artist: J. Culbert",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3668,
   "image_width": 4674,
+  "inscription": "Signature; Date; Inscription; Title",
   "life_date": "British, active about 1800",
-  "marks": "Signature; Date; Inscription; Title [J. Culbert invü delü 1800], in black ink, on cart",
+  "markings": "[4], (changed from 3) in pencil, on verso; [Autumn], at center bottom, in border (Probably by artist)",
   "medium": "Pen and black ink, wash and watercolor on white wove paper, laid down at edges",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[J. Culbert invü delü 1800], in black ink, on cart LC",
   "style": "18th-19th century",
   "text": "",
   "title": "Autumn"

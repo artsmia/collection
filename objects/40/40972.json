@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.134",
-  "artist": "Unknown French; B Altman",
+  "artist": "Designer: Unknown French; Retailer: B Altman",
+  "classification": "Horology",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": null,
-  "marks": " ",
+  "inscription": "",
+  "life_date": "New York, New York",
+  "markings": "",
   "medium": "Marble, nickel-plate glass",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Deco",
   "text": "",
   "title": "Table clock"

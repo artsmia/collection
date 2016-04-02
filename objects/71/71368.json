@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.35",
-  "artist": "Torii Kiyomine; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Torii Kiyomine; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2851,
   "image_width": 1880,
-  "life_date": "Japanese, 1787 - 1868",
-  "marks": " {Kiyomine ga}",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "Censor: kiwame, Tiger 7\r\nPublisher: Eijudo_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kiyomine ga}",
   "style": "19th century",
   "text": "",
   "title": "Fashionable Woman Getting Dressed"

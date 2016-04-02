@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.170",
-  "artist": "Kikugawa Eizan; Published by Maruya Jinpachi",
+  "artist": "Artist: Kikugawa Eizan; Publisher: Published by Maruya Jinpachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2773,
   "image_width": 1889,
-  "life_date": "Japanese, 1787 - 1867",
-  "marks": " [菊川英山筆] {Kikugawa Eizan hitsu}",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "Publisher:Maru-jin",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[菊川英山筆] {Kikugawa Eizan hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Manner"

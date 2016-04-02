@@ -1,6 +1,7 @@
 {
   "accession_number": "91.180",
-  "artist": "Thomas Rose",
+  "artist": "Artist: Thomas Rose",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Bettina Schwimmer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3744,
   "image_width": 5511,
+  "inscription": "Signature; Title",
   "life_date": "American, born 1942",
-  "marks": "Signature; Title signature and title verso in graphite: [Thomas A. ",
+  "markings": "",
   "medium": "Mixed media",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signature and title verso in graphite: [Thomas A. Rose]",
   "style": "20th century",
   "text": "",
   "title": "The Converse is as Often True"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.58.2",
-  "artist": "Wayne Thiebaud; Published by Crown Point Press, San Francisco",
+  "artist": "Artist: Wayne Thiebaud; Publisher: Published by Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Darwin Reedy",
@@ -14,8 +15,9 @@
   "image_copyright": "© Wayne Thiebaud %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Chop mark\r\n\r\nsee Signed",
   "life_date": "American, born 1920",
-  "marks": "Signature; Edition; Chop mark\r\n\r\nsee Signed in pencil: [Thiebaud]",
+  "markings": "Watermark: <CMF> in oval with star; \r\nChop mark: <Crown Point Press, Stephen Thomas>",
   "medium": "Color etching",
   "nationality": "American",
   "provenance": "Darwin Reedy, Dellwood, Minn.; given to MIA, 1986.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Thiebaud]",
   "style": "20th century",
   "text": "",
   "title": "Down 18th"

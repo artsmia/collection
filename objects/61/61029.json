@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.30.2",
-  "artist": "George Earl Resler",
+  "artist": "Artist: George Earl Resler",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Diane Fairbrother Syme",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"To Loraine\\\", in pencil, LLC, below image",
   "life_date": "American, 1882 - 1954",
-  "marks": "\\\"To Loraine\\\", in pencil, LLC, below image \\\"George Resler imp\\\", in pencil, LRC, below image",
+  "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"George Resler imp\\\", in pencil, LRC, below image",
   "style": "20th century",
   "text": "",
   "title": "The Wager"

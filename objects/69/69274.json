@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.69",
-  "artist": "Utagawa Kuniyoshi; Published by Echizenya Hachiemon",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Echizenya Hachiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2706,
   "image_width": 1902,
+  "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": " {Ichiyūsai Kuniyoshi ga}",
+  "markings": "Censor: Hama, Magome; publisher\\'s seal: {Echizenya}; artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Ichiyūsai Kuniyoshi ga}",
   "style": "19th century",
   "text": "",
   "title": "(Yamanaya Urasato)"

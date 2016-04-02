@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.94.2",
-  "artist": "Henri de Toulouse-Lautrec",
+  "artist": "Artist: Henri de Toulouse-Lautrec",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4773,
   "image_width": 6375,
+  "inscription": "",
   "life_date": "French, 1864 - 1901",
-  "marks": " ",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Debaucher"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.4,960",
-  "artist": "Mary Cassatt",
+  "artist": "Artist: Mary Cassatt",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription in pencil at bottom: No. 9516 Enfant au Sein pointe seche",
   "life_date": "American, 1844-1926",
-  "marks": "Inscription in pencil at bottom: No. 9516 Enfant a Yes, in pencil l.r.",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Yes, in pencil l.r.",
   "style": "19th century",
   "text": "",
   "title": "Mother Louise Nursing Her Child"

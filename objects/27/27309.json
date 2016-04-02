@@ -1,6 +1,7 @@
 {
   "accession_number": "91.123.37",
-  "artist": "Thomas Höpker",
+  "artist": "Photographer: Thomas Höpker",
+  "classification": "Photographs",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Lora and Martin G. Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "© Thomas Hoepker%2FMagnum Photos",
   "image_height": 2815,
   "image_width": 2039,
+  "inscription": "stamp",
   "life_date": "German, born 1936",
-  "marks": "stamp ",
+  "markings": "Photographer\\'s stamp verso",
   "medium": "Gelatin silver print",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.6",
-  "artist": "Hanne Borchgrevink",
+  "artist": "Artist: Hanne Borchgrevink",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "Gift of the First Bank System",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Date\r\n\r\nsee Signed\r\n\r\n",
   "life_date": "Norwegian, born 1951",
-  "marks": "Signature; Edition; Date\r\n\r\nsee Signed\r\n\r\n in pencil, LL: [15 Radierung EGET TRYKK-KONFLIKT- ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Norwegian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil, LL: [15 Radierung EGET TRYKK-KONFLIKT- Hanne Borchgrevink 1979]",
   "style": "20th century",
   "text": "",
   "title": "Conflict"

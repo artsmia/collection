@@ -1,6 +1,7 @@
 {
   "accession_number": "54.8",
-  "artist": "Harold Tovish",
+  "artist": "Artist: Harold Tovish",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, 1921-2008",
-  "marks": "Signature; Date LR: [H Tovish \\'53]",
+  "markings": "",
   "medium": "Ink wash",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [H Tovish \\'53]",
   "style": "20th century",
   "text": "",
   "title": "Study for Sculpture; Wounded Soldier"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.120.3",
-  "artist": "Roman Verostko",
+  "artist": "Artist: Roman Verostko",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Charlotte Karlen",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1863,
   "image_width": 2474,
+  "inscription": "Signature; Title; Inscription\r\n\r\nin graphite, LL: [Two thousand Scarabs marking two millenia For Marko and Charlotte Karlen from Roman & Alice, December 1999]",
   "life_date": "American, born 1929",
-  "marks": "Signature; Title; Inscription\r\n\r\nin graphite, LL:  in graphite, LR: [Roman \\'99]",
+  "markings": "",
   "medium": "Algorithmic pen and ink drawing",
   "nationality": "American",
   "provenance": "The artist, Minneapolis; Charlotte Karlen, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [Roman \\'99]",
   "style": "20th century",
   "text": "",
   "title": "Two Thousand Scarabs Marking Two Millennia"

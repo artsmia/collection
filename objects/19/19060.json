@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.108",
-  "artist": "Martinet Publishing Family",
+  "artist": "Publisher: Martinet Publishing Family",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Title; Inscription; Marks",
   "life_date": "French, est. 1796",
-  "marks": "Title; Inscription; Marks ",
+  "markings": "\\'Caricatures Parisiennes\\' and \\'Les Invisibles en tete-a-tete, Le Supreme Bon Ton\\', in ink, recto; \\'Supr. bon ton No16 [underlined]\\', in pencil, UR; \\'PAxx\\', in pencil, LR; \\'PAxx\\', in pencil, verso",
   "medium": "Ink and watercolor",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "The Invisibles in Conversation"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.224.1",
-  "artist": "Alik Cavaliere; Text by Guido Ballo; Published by Galleria Schwarz, Milan; Giorgio Upiglio , Milan",
+  "artist": "Artist: Alik Cavaliere; Author: Text by Guido Ballo; Publisher: Published by Galleria Schwarz, Milan; Printer: Giorgio Upiglio , Milan",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Gordon Locksley and George Shea",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Italian, 1914 - 2010",
+  "markings": "",
   "medium": "Color aquatint",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Plate from L'Albero Poeta"

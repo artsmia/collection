@@ -1,6 +1,7 @@
 {
   "accession_number": "P.2,326",
-  "artist": "Paul Huet",
+  "artist": "Artist: Paul Huet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1529,
   "image_width": 2323,
+  "inscription": "",
   "life_date": "French, 1803 - 1869",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Les Baigneuses"

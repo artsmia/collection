@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.67",
-  "artist": "Scott Sandell",
+  "artist": "Artist: Scott Sandell",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3985,
   "image_width": 2940,
+  "inscription": "Signed, Dated, Numbered, and Chop Mark",
   "life_date": "American, born 1953",
-  "marks": "Signed, Dated, Numbered, and Chop Mark LC: [SANDELL 1979]\r\nLL: [ARTISTS PROOF 10/10]\r\nLR:",
+  "markings": "VEL Chop Mark",
   "medium": "Color lithograph, screenprint, and hand-coloring (encaustic)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LC: [SANDELL 1979]\r\nLL: [ARTISTS PROOF 10/10]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Reflex"

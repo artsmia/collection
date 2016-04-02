@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.24",
-  "artist": "Charles Laborde",
+  "artist": "Artist: Charles Laborde",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "multiple color notations in margins",
   "life_date": "French, 1886 - 1941",
-  "marks": "multiple color notations in margins \\\"Ch. L.\\\", in graphite, LL",
+  "markings": "",
   "medium": "Color engraving and aquatint; bon á tirer proof with color notes",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Ch. L.\\\", in graphite, LL",
   "style": "20th century",
   "text": "",
   "title": "Le banc public"

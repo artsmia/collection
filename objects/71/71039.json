@@ -1,6 +1,7 @@
 {
   "accession_number": "P.18,651",
-  "artist": "Unknown American; Published by J. Childs, 152 Washington St. Boston",
+  "artist": "Artist: Unknown American; Publisher: Published by J. Childs, 152 Washington St. Boston",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3881,
   "image_width": 4547,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "\r\n",
   "medium": "Hand-colored lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Flowers in a Glass, with Butterfly"

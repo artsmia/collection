@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.147",
-  "artist": "Abel Landry; Limoges",
+  "artist": "Decorator: Abel Landry; Manufacturer: Limoges",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1032,
+  "inscription": "Signature, Stamps",
   "life_date": "French, 1871-1923",
-  "marks": "Signature, Stamps On the side: [Abel Landry]",
+  "markings": "Stamped markings on the bottom",
   "medium": "Glazed stoneware with iridescent glaze",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On the side: [Abel Landry]",
   "style": "Art Nouveau",
   "text": "",
   "title": "Vase"

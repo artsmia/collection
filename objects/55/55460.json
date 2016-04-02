@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.13",
-  "artist": "Alfred Hofkunst",
+  "artist": "Artist: Alfred Hofkunst",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "Swiss, born 1942",
-  "marks": "Signature\r\n\r\nsee Signed in pencil: [Al Hofkunst]",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Swiss",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Al Hofkunst]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Radiator)"

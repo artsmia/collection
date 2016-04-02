@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.200",
-  "artist": "William Lewin",
+  "artist": "Maker: William Lewin",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Stamp; Inscriptions",
   "life_date": "English, died 1795",
-  "marks": "Stamp; Inscriptions On stamp, LL:  [W LEWIN 1789]",
+  "markings": "Identification of bird, lower center recto; [No. 14], UR",
   "medium": "Gouache and watercolor on off-white wove paper.\r\nPer cat. card:  Original drawing, h.c.\r\n",
   "nationality": null,
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On stamp, LL:  [W LEWIN 1789]",
   "style": "18th century",
   "text": "",
   "title": "Rough-legged Falcon, No. 14"

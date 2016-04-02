@@ -1,6 +1,7 @@
 {
   "accession_number": "90.25",
-  "artist": "Markus Lüpertz",
+  "artist": "Maker: Markus Lüpertz",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature",
   "life_date": "German, b. 1941",
-  "marks": "Signature Initials [ML] in pencil, lower right",
+  "markings": "",
   "medium": "Watercolor, gouache and litho crayon",
   "nationality": "German",
   "provenance": "(James Hofmaier, Germany)",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Initials [ML] in pencil, lower right",
   "style": "20th century",
   "text": "",
   "title": "Bones (Knochen)"

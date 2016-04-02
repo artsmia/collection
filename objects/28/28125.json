@@ -1,6 +1,7 @@
 {
   "accession_number": "93.4.2",
-  "artist": "Frank Gaard",
+  "artist": "Artist: Frank Gaard",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Frank Gaard",
   "image_height": 3565,
   "image_width": 4505,
+  "inscription": "Signature; Date",
   "life_date": "American, born 1944",
-  "marks": "Signature; Date Signed, dated LR: [Frank Gaard 3-31-74]",
+  "markings": "",
   "medium": "Pen and ink with additions in white",
   "nationality": "American",
   "provenance": "Acquired from the artist, 1993",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated LR: [Frank Gaard 3-31-74]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Artpolice Comics)"

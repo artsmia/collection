@@ -1,6 +1,7 @@
 {
   "accession_number": "P.71.163",
-  "artist": "Louis Marcoussis",
+  "artist": "Artist: Louis Marcoussis",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2945,
   "image_width": 5464,
+  "inscription": "Signature, watermark and inscription\r\nInscribed by artist: [H.C. 1/2 à mes chers amis Greta et Tristan affectioneusement Marcoussis]",
   "life_date": "French, 1883 - 1941",
-  "marks": "Signature, watermark and inscription\r\nInscribed by in pencil: [Marcoussis]",
+  "markings": "watermark: [BFK Rives]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Marcoussis]",
   "style": "20th century",
   "text": "",
   "title": "Sur la plage"

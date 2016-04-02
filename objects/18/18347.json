@@ -1,6 +1,7 @@
 {
   "accession_number": "60.35",
-  "artist": "Gioacchino Assereto",
+  "artist": "Artist: Gioacchino Assereto",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5143,
   "image_width": 6326,
+  "inscription": "",
   "life_date": "Italian (Genoa), 1600 - 1649",
-  "marks": " ",
+  "markings": "Nothing on verso",
   "medium": "Oil on canvas",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G330",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "Saint Augustine and Saint Monica"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.320",
-  "artist": "Anders Zorn",
+  "artist": "Artist: Anders Zorn",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "Bequest of Herschel V. Jones",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5058,
   "image_width": 3915,
+  "inscription": "Signature; Date; Mark\r\n\r\nsee Signed",
   "life_date": "Swedish, 1860 - 1920",
-  "marks": "Signature; Date; Mark\r\n\r\nsee Signed [Zorn, 1907]",
+  "markings": "Watermark: Coat-of-arms with crown (fragment)",
   "medium": "Etching",
   "nationality": "Swedish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Zorn, 1907]",
   "style": "20th century",
   "text": "",
   "title": "Bosl Anders, Clockmaker at Mora"

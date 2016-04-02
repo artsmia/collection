@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,936",
-  "artist": "Félix Buhot; after John Constable",
+  "artist": "Artist: Félix Buhot; Artist: after John Constable",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1847 - 1898",
-  "marks": "Signature and Inscription\r\nInscribed: [F.B. Londre Signature",
+  "inscription": "Signature and Inscription\r\nInscribed: [F.B. Londres 1879]; [à mon ami Henri Somm/ Felix Buhot]",
+  "life_date": "French, 1847-1898",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signature",
   "style": "19th century",
   "text": "",
   "title": "L 'Orage, after Constable"

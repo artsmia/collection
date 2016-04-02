@@ -1,6 +1,7 @@
 {
   "accession_number": "P.53",
-  "artist": "Cadwallader Washburn",
+  "artist": "Artist: Cadwallader Washburn",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1915",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1866 - 1965",
-  "marks": " On plate",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "On plate",
   "style": "19th century",
   "text": "",
   "title": "Cathedral of Orizaba"

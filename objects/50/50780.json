@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.2.4",
-  "artist": "François-Nicolas Chifflart",
+  "artist": "Artist: François-Nicolas Chifflart",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2576,
   "image_width": 1752,
+  "inscription": "Signature, Inscription, Watermark and Collector\\'s mark\r\nWritten on recto by Chifflart: [Bon a tirer]",
   "life_date": "French, 1825 - 1901",
-  "marks": "Signature, Inscription, Watermark and Collector\\'s  Singed in ink",
+  "markings": "Watermarks: ARC fragment; Collector\\'s mark: monogram",
   "medium": "Etching, plate tone",
   "nationality": "French",
   "provenance": "Alfred Morrison",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Singed in ink",
   "style": "19th century",
   "text": "",
   "title": "Death and the Artist"

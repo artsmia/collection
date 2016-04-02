@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.33.4",
-  "artist": "Antonius Kurvers; Van Leer",
+  "artist": "Artist: Antonius Kurvers; Printer: Van Leer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1547,
-  "life_date": "Dutch, 1889-1940",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Dutch, 1889–1940",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "Dutch",
   "provenance": "Norwest Bank, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G378",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Tentoonstelling van Nederlandsche Gemeentewerken (Exhibition of Dutch Municipal Works)"

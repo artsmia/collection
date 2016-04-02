@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,821",
-  "artist": "José Ortega",
+  "artist": "Artist: José Ortega",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The John R. Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Spanish, born 1921",
-  "marks": " in pencil: Ortega",
+  "markings": "water: BFK Rives; chop: l\\'oeurvre gravee",
   "medium": "Mixed intaglio, wove paper",
   "nationality": "Spanish",
   "provenance": "Galerie Sothmann, Amsterdam",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: Ortega",
   "style": "20th century",
   "text": "",
   "title": "Lutte I"

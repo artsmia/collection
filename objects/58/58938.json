@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.123",
-  "artist": "Louis Conrad Rosenberg",
+  "artist": "Artist: Louis Conrad Rosenberg",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Prints and Drawings Miscellaneous Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, 1890 - 1983",
-  "marks": "Signature\r\n\r\nsee Signed signed in pencil, LR.: [Louis C. Rosenberg]",
+  "markings": "",
   "medium": "Drypoint, brown ink with plate tone",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil, LR.: [Louis C. Rosenberg]",
   "style": "20th century",
   "text": "",
   "title": "St. Stefano, Capri"

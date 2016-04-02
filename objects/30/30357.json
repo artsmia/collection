@@ -1,6 +1,7 @@
 {
   "accession_number": "98.120.2",
-  "artist": "Wen Zhengming",
+  "artist": "Maker: Wen Zhengming",
+  "classification": "Calligraphy",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2179,
   "image_width": 4511,
+  "inscription": "Signature; Stamps",
   "life_date": "Chinese, 1470 - 1559",
-  "marks": "Signature; Stamps [Zhengming] in ink, at center left side",
+  "markings": "two artist\\'s seals in red ink, at center left side below signature",
   "medium": "Ink on gold paper; fan",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Zhengming] in ink, at center left side",
   "style": "16th century",
   "text": "",
   "title": "Running Script Calligraphy"

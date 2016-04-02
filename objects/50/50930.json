@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.41",
-  "artist": "Camillo Procaccini",
+  "artist": "Artist: Camillo Procaccini",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3731,
   "image_width": 4601,
+  "inscription": "Signature",
   "life_date": "Italian (Bologna), c. 1555-1629",
-  "marks": "Signature UR [Camillo Percaci/no Invent./Incidit]; LR [Caspa",
+  "markings": "Collectors marks on back: in diamond [E. L.]; stamped [Edward l. Sanders]",
   "medium": "Etching",
   "nationality": "Italian (Bologna)",
   "provenance": "Emmanuel Levy (Lugt 876); [Christopher Mendez, London, 1970; sold to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "UR [Camillo Percaci/no Invent./Incidit]; LR [Caspar Daloli Bol. excu.]",
   "style": "16th century",
   "text": "",
   "title": "The Rest on the Flight into Egypt"

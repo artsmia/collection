@@ -1,6 +1,7 @@
 {
   "accession_number": "65.57",
-  "artist": "Ben Kamihira",
+  "artist": "Artist: Ben Kamihira",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of David M. Daniels",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 5004,
   "image_width": 4997,
+  "inscription": "",
   "life_date": "American, b.1925",
-  "marks": " ",
+  "markings": "",
   "medium": "Oil on canvas",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Charcoal Brazier"

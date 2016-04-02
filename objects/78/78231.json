@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.1.9",
-  "artist": "Watanabe Shusen",
+  "artist": "Artist: Watanabe Shusen",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Harriet and Ed Spencer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3668,
   "image_width": 1688,
+  "inscription": "Inscription and mark\r\ninscription in black, L edge",
   "life_date": "Japanese, 1736 - 1824",
-  "marks": "Inscription and mark\r\ninscription in black, L edge ",
+  "markings": "two seals in red, L edge",
   "medium": "Hanging scroll; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sleeping Tiger in Bamboo"

@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.225a-c",
-  "artist": "Utagawa Hiroshige; Published by Okazawa Taheiji",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Okazawaya Taheiji",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1991,
   "image_width": 3933,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:kai, Snake 4\r\nPublisher:Okazawaya",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "View of the Whirlpool at Awa"

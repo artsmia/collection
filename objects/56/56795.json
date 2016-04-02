@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,064",
-  "artist": "Philip Kappel",
+  "artist": "Artist: Philip Kappel",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1962",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\nnoted in pencil at L.L. margin: 1st Prize Marblehead, 1927",
   "life_date": "American, 1901 - 1981",
-  "marks": "Signature; Mark; Inscription\r\n\r\nsee Signed\r\n\r\nnote in pencil at LR margin: [Philip Kappel]",
+  "markings": "Watermark: <F.J. Head and Co.>",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil at LR margin: [Philip Kappel]",
   "style": "20th century",
   "text": "",
   "title": "Repairs"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.15.3",
-  "artist": "Steven R. Mignone",
+  "artist": "Artist: Steven R. Mignone",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title\r\n\r\nAt lower margin artist has noted in pencil:\r\n< State I   Big Wind, Volcano, Admit. Booth >",
   "life_date": "American, born 1954",
-  "marks": "Signature, Title\r\n\r\nAt lower margin artist has not Signed in pencil at L.R. margin:  [MIGNONE]",
+  "markings": "",
   "medium": "Etching, drypoint, cold chisel (State I)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil at L.R. margin:  [MIGNONE]",
   "style": "20th century",
   "text": "",
   "title": "Big Wind.  Volcano.  Admission Booth"

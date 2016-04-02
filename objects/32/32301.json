@@ -1,6 +1,7 @@
 {
   "accession_number": "99.245.42",
-  "artist": "Micaela Diaz",
+  "artist": "Weaver: Micaela Diaz",
+  "classification": "Textiles",
   "continent": "North America",
   "country": "Mexico",
   "creditline": "Gift of Richard Simmons",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3902,
   "image_width": 3658,
-  "life_date": "",
-  "marks": " ",
+  "inscription": "",
+  "life_date": null,
+  "markings": "",
   "medium": "Cotton, silk",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Skirt"

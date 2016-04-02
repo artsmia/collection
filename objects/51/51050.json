@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,381",
-  "artist": "Odilon Redon; impression by Auguste Clot, Paris",
+  "artist": "Artist: Odilon Redon; Publisher: impression by Auguste Clot, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Date",
   "life_date": "French, 1840 - 1916",
-  "marks": "Date In plate: [1904]",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate: [1904]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Roger Marx"

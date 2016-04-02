@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.37.22",
-  "artist": "David Shapiro",
+  "artist": "Artist: David Shapiro",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title, Edition, Chop Mark\r\n\r\nsee Signed\r\n\r\ntitled in pencil, LC: [LAKESIDE MOUNTAIN SUITE: ALBUQUERQUE]\r\n\r\nNumbered in pencil, LL: [II]",
   "life_date": "American, 1944-2014",
-  "marks": "Signature, Title, Edition, Chop Mark\r\n\r\nsee Signed Signed in pencil, LR: [DAVID SHAPIRO]",
+  "markings": "Publisher\\'s blind stamp, LRC (unidentified)",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Dr. and Mrs. Frederick P. Nause; given to MIA, 1977",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LR: [DAVID SHAPIRO]",
   "style": "20th century",
   "text": "",
   "title": "Lakeside Mountain Suite: Near Albuquerque"

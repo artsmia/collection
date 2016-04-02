@@ -1,6 +1,7 @@
 {
   "accession_number": "55.29",
-  "artist": "John B. Flannagan",
+  "artist": "Artist: John B. Flannagan",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John DeLaittre Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Watermark; Inscriptions, verso",
   "life_date": "American, 1895-1942",
-  "marks": "Signature; Watermark; Inscriptions, verso Signed in pencil LR: [John B. Flannagan]",
+  "markings": "WM: [MICHALLET FRANCE]",
   "medium": "Brush and black ink on paper",
   "nationality": "American",
   "provenance": "The artist (since 1941; sold to Valentin); [Curt Valentin Gallery, New York, until 1955; sold November 1, for $50, to MIA].",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil LR: [John B. Flannagan]",
   "style": "20th century",
   "text": "",
   "title": "Torso (Female Nude)"

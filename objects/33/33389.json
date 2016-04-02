@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.25",
-  "artist": "Francesco Grigiotti",
+  "artist": "Artist: Francesco Grigiotti",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date and Inscription\r\n\r\nLRC, in black: [P.H.]",
   "life_date": "active 1604-1635",
-  "marks": "Signature, Date and Inscription\r\n\r\nLRC, in black:  LLC, in brown ink: [Franc. Grigiotte (?), fece di ",
+  "markings": "",
   "medium": "Pen and brown ink on vellum",
   "nationality": null,
   "provenance": "Sale, Sotheby's, London, December 5, 1977, no. 56, for £385, to Moir; Alfred Moir, Santa Barbara (1977-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in brown ink: [Franc. Grigiotte (?), fece di / Decemb. 1623 in Ro.a]",
   "style": "17th century",
   "text": "",
   "title": "Saint Jerome in the Wilderness"

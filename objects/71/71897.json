@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,088",
-  "artist": "Rembert Dodoens; Published by Plantin",
+  "artist": "Artist: Rembert Dodoens; Publisher: Published by Plantin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "Flemish, 1516 - 1585",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Color woodcut",
   "nationality": "Flemish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th-17th century",
   "text": "",
   "title": "Cyclamen (De Cyclamino orbiculari) Cap. XIII from Stirpium Historiae Pemptades Sex"

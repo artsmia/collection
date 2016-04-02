@@ -1,6 +1,7 @@
 {
   "accession_number": "P.96.24.2",
-  "artist": "Larry Stark",
+  "artist": "Artist: Larry Stark",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Larry Stark in memory of Kemper Kirkpatrick",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Title; Edition\r\n\r\nsee Signed",
   "life_date": "American, born 1940",
-  "marks": "Signature; Date; Title; Edition\r\n\r\nsee Signed in graphite, recto: [6/50 Six Barges L Stark 9]",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, recto: [6/50 Six Barges L Stark 9]",
   "style": "20th century",
   "text": "",
   "title": "Six Barges"

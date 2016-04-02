@@ -1,6 +1,7 @@
 {
   "accession_number": "83.171.5",
-  "artist": "Steven M. Andersen",
+  "artist": "Artist: Steven M. Andersen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Inscription\r\n\r\n",
   "life_date": "American, born 1946",
-  "marks": "Signature; Date; Inscription\r\n\r\n L: [Steve Andersen/1980]\r\nIn graphite, LR: [Sketch",
+  "markings": "\r\n",
   "medium": "Pen and ink",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "L: [Steve Andersen/1980]\r\nIn graphite, LR: [Sketch for Pancake eater shade (Texture) for Red Grooms]",
   "style": "20th century",
   "text": "",
   "title": "Sketch for shade texture for 'The Pancake Eater'"

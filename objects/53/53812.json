@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.150",
-  "artist": "Jasper Johns; Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Jasper Johns; Publisher: Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Thomas Edblom",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": 5496,
   "image_width": 4383,
+  "inscription": "Signature, Date, Edition, Inscription\r\n\r\nsee Signed\r\n\r\nDated on the stone, LR: [1962]\r\n\r\nNumbered in pencil, LL: [29/39]; inscribed in pencil, LL: [I]",
   "life_date": "American, born 1930",
-  "marks": "Signature, Date, Edition, Inscription\r\n\r\nsee Signe Signed in red pencil, LR: [J. Johns]; on stone, LR",
+  "markings": "No ULAE blind stamp noted",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "Dr. Thomas Edblom; given to MIA, 1979.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in red pencil, LR: [J. Johns]; on stone, LR: [J. Johns];",
   "style": "20th century",
   "text": "",
   "title": "Painting with Two Balls I"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.684",
-  "artist": "Pierre Louis Moreau",
+  "artist": "Artist: Pierre Louis Moreau",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, watermark and chop marks",
   "life_date": "French, 1876 - 1960",
-  "marks": "Signature, watermark and chop marks signed on mat",
+  "markings": "Watermarks on right margin: [Van Gelder Zonen]; chop marks: [Sagot Editeur Paris]",
   "medium": "Etching, drypoint",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on mat",
   "style": "20th century",
   "text": "",
   "title": "Le Bassin a Anvers"

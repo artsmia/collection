@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.230",
-  "artist": "Signed Unrei",
+  "artist": "Artist: Signed Unrei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3178,
   "image_width": 4247,
+  "inscription": "22 haiku poems about autumn",
   "life_date": "Japanese, act. mid-19th century",
-  "marks": "22 haiku poems about autumn Unrei",
+  "markings": "\\\"Mizunoe I aki(autumn of the year of Boar)\\\" \r\nUnread artis\\'s seal in red\r\n",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Unrei",
   "style": "19th century",
   "text": "",
   "title": "(Scarecrow in a rice field)"

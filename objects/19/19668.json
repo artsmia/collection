@@ -1,6 +1,7 @@
 {
   "accession_number": "70.82",
-  "artist": "William T. Wiley",
+  "artist": "Artist: William T. Wiley",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5141,
   "image_width": 3510,
+  "inscription": "Signature; Date; Title, Inscription\r\n\r\nInscribed, LL: [3/23]\r\n\r\nTitled, LC: [peace tattoo repair]",
   "life_date": "born 1937",
-  "marks": "Signature; Date; Title, Inscription\r\n\r\nInscribed,  Signed ,dated LR: [Wm.T.Wiley 1970]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "[Allan Frumkin Gallery, New York]; sold to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed ,dated LR: [Wm.T.Wiley 1970]",
   "style": "20th century",
   "text": "",
   "title": "Peace Tatoo Repair"

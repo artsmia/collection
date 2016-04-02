@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.138",
-  "artist": "Unknown",
+  "artist": "Artist: Unknown",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Austria (?)",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 1263,
+  "inscription": "Inscription\r\nin pencil, LL front: [P 557]; in pencil, LR back: [P557]; in pencil, LR front: [Ppt]",
   "life_date": null,
-  "marks": "Inscription\r\nin pencil, LL front: [P 557]; in penc ",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Study of an Iris (Iris sp.)"

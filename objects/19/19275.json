@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.90",
-  "artist": "Pierre Thomas Le Clerc",
+  "artist": "Artist: Pierre Thomas Le Clerc",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n[La Distraite, cette femme après s\\'etre habillée. entièrement se resouvient qu\\'elle ne s\\'est pas lavé les pieds et se fait apporter une cuvette par sa femme de chambre.] on mat",
   "life_date": "French, born 1740",
-  "marks": "Inscription\r\n[La Distraite, cette femme après s\\'et ",
+  "markings": "",
   "medium": "Sepia",
   "nationality": "French",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "The Distracted Woman"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2000.269.4",
-  "artist": "Unknown Korean",
+  "artist": "Artist: Unknown Korean",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of Dr. and Mrs. Mark K. Kim",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5402,
   "image_width": 3688,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "12th century",
   "text": "",
   "title": "Vase"

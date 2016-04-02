@@ -1,6 +1,7 @@
 {
   "accession_number": "P.1,544",
-  "artist": "Jean Morin; after Phillippe  de Champaigne",
+  "artist": "Artist: Jean Morin; Artist: after Phillippe  de Champaigne",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\n\r\nsee Signed",
   "life_date": "French, before 1590 - 1650",
-  "marks": "Signature and Mark\r\n\r\nsee Signed on plate",
+  "markings": "Watermark: H+P (9 &10) visible from back, center top",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on plate",
   "style": "17th century",
   "text": "",
   "title": "Pierre Maugis des Granges"

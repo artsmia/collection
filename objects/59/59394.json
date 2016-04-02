@@ -1,6 +1,7 @@
 {
   "accession_number": "P.82.15",
-  "artist": "Gabor Peterdi; I.G.A.S., New York",
+  "artist": "Artist: Gabor Peterdi; Publisher: I.G.A.S., New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Ms. Mary Arnquist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nLL: [13]",
   "life_date": "American (b. Hungary), 1915-2001",
-  "marks": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nLL: [13] on sheet, LR: [Peterdi]",
+  "markings": "",
   "medium": "Etching and engraving with stenciled colors",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet, LR: [Peterdi]",
   "style": "20th century",
   "text": "",
   "title": "Triumph of Stones"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.12",
-  "artist": "Jean Marzel",
+  "artist": "Artist: Jean Marzel",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"3/50\\\", in graphite, LR; \\\"Sur la plage\\\", in graphite, LL",
   "life_date": "French",
-  "marks": "\\\"3/50\\\", in graphite, LR; \\\"Sur la plage\\\", in graphi \\\"Marzelle\\\", in graphite, LC",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Marzelle\\\", in graphite, LC",
   "style": "20th century",
   "text": "",
   "title": "Sur la Plage (On the Beach)"

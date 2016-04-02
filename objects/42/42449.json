@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.111",
-  "artist": "Utagawa Toyokuni",
+  "artist": "Artist: Utagawa Toyokuni",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2714,
   "image_width": 1891,
+  "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
-  "marks": " Toyokuni ga",
+  "markings": "Censor:kiwame\r\nPublisher:unknown publisher\\'s seal\r\nillegible letters on the upper right of the title, probably the name of the character in which this actor is; the letters on the lower left would be the name of the play, right line reads \\\"kyo_gen\\\" meaning play, left line is illegible\r\n",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Toyokuni ga",
   "style": "18th-19th century",
   "text": "",
   "title": "The Actor Bandō Mitsugorō III"

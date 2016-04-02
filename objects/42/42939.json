@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.28.2",
-  "artist": "Thomas Whelan Benton",
+  "artist": "Artist: Thomas Whelan Benton",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Minneapolis Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date; Title; Edition",
   "life_date": "American, 1930 - 2007",
-  "marks": "Signature, Date; Title; Edition LRC, in pencil: Thomas W. Benton  1968",
+  "markings": "",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "Minneapolis Foundation, until 1990; given to MIA.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: Thomas W. Benton  1968",
   "style": "20th century",
   "text": "",
   "title": "Life Cell IV"

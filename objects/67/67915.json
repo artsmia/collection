@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.132",
-  "artist": "Kitagawa Utamaro",
+  "artist": "Artist: Kitagawa Utamaro",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2826,
   "image_width": 1884,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " Utamaro hitsu",
+  "markings": "probably publisher\\'s seal is cut in the right edge",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Utamaro hitsu",
   "style": "18th-19th century",
   "text": "",
   "title": "Woman Playing with a Child with a Tengu Mask"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.89",
-  "artist": "Jean-Émile Laboureur",
+  "artist": "Artist: Jean-Émile Laboureur",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, title, edition and mark",
   "life_date": "French, 1877 - 1943",
-  "marks": "Signature, title, edition and mark signed below image, left;  on verso: [Marchand de ",
+  "markings": "lower left on image: [L]; right below image: [27/67 ij]",
   "medium": "Engraving",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed below image, left;  on verso: [Marchand de fleurs] [9118] lower right",
   "style": "20th century",
   "text": "",
   "title": "Marchande de fleurs"

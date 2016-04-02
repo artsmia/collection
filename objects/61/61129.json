@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.65.144",
-  "artist": "Utagawa Hiroshige; Takenouchi Magohachi; Tsuruya Kiemon",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Takenouchi Magohachi; Publisher: Tsuruya Kiemon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1853,
   "image_width": 2842,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " ",
+  "markings": "Censor:Kiwame\r\nPublisher:Takemago + Tsuruki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Nakayama of Sayo in Nissaka"

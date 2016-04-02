@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,495",
-  "artist": "Giambattista Tiepolo (Giovanni Battista Tiepolo)",
+  "artist": "Artist: Giambattista Tiepolo (Giovanni Battista Tiepolo)",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of  Herschel V. Jones, 1925",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian (Venice), 1696 - 1770",
-  "marks": "Signature on image",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "Herschel V. Jones, Minneapolis (until 1925; gave to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on image",
   "style": "18th century",
   "text": "",
   "title": "Adoration of the Magi"

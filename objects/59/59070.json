@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.12.1",
-  "artist": "Nancy Randall",
+  "artist": "Artist: Nancy Randall",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2616,
   "image_width": 3699,
+  "inscription": "Signed, Dated, Titled, and Chop Mark",
   "life_date": "American, born 1928",
-  "marks": "Signed, Dated, Titled, and Chop Mark LR: [Nancy Randall \\'84\r\nVERSO: [\\\"The Book of Runes",
+  "markings": "VEL Chop Mark",
   "medium": "Color monotype",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nancy Randall \\'84\r\nVERSO: [\\\"The Book of Runes\\\" / \\\"Do Without Doing and Everything Gets DOne\\\"] \r\nLL: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "The Book of Ruins: Do Without Doing and Everything Gets Done"

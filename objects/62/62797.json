@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,908",
-  "artist": "Katsushika Taito II",
+  "artist": "Artist: Katsushika Taito II",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2602,
   "image_width": 1826,
+  "inscription": "Left column: yes (chinese poem)",
   "life_date": "Japanese, fl. 1810-1853",
-  "marks": "Left column: yes (chinese poem) {Taito}",
+  "markings": "LRC: Red artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Taito}",
   "style": "19th century",
   "text": "",
   "title": "Two Cranes and Pine Branches"

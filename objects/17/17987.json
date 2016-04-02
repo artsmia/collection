@@ -1,6 +1,7 @@
 {
   "accession_number": "51.33.1",
-  "artist": "Thomas Jones",
+  "artist": "Maker: Thomas Jones",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Ireland",
   "creditline": "The Elizabeth C. Quinlan Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark\r\n\r\nEngraved on side of each, an unidentified crest of a demi-lion holding an axe within a plain shield and rococo flower wreath.  This crest applied to many families, the Irish ones including Doolan, Emerson, Harly, and Jennings, all of Dublin.",
   "life_date": "Irish",
-  "marks": "Mark\r\n\r\nEngraved on side of each, an unidentified  ",
+  "markings": "makers mark: TJ in rectangle",
   "medium": "Silver",
   "nationality": "Irish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Sauce boat"

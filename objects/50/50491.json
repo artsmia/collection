@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.109",
-  "artist": "Beverly Pepper",
+  "artist": "Artist: Beverly Pepper",
+  "classification": "Sculpture",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Barbara S. Longfellow",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1966 Beverly Pepper. Marlborough Gallery. All rights reserved.",
   "image_height": 4444,
   "image_width": 2442,
+  "inscription": "",
   "life_date": "American, born 1924",
-  "marks": " Bottom of one long side, inscribed: B. PEPPER | R ",
+  "markings": "",
   "medium": "Stainless steel, nitric paint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Bottom of one long side, inscribed: B. PEPPER | R of signature, inscribed: LXVI (date)",
   "style": "20th century",
   "text": "",
   "title": "Gratta Cielo"

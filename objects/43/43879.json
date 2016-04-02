@@ -1,6 +1,7 @@
 {
   "accession_number": "P.97.8.2",
-  "artist": "Vincent D. Smith; Brandywine Workshop",
+  "artist": "Artist: Vincent D. Smith; Printer: Brandywine Workshop",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3572,
   "image_width": 4879,
+  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nat LLC: [7/70]",
   "life_date": "American, 1929 - 2004",
-  "marks": "Signature; Edition\r\n\r\nsee Signed\r\n\r\nat LLC: [7/70] LRC: [Vincent]",
+  "markings": "",
   "medium": "Color offset lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [Vincent]",
   "style": "20th century",
   "text": "",
   "title": "Jonkonnu Festival"

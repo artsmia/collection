@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.328",
-  "artist": "Edmond Lachenal",
+  "artist": "Artist: Edmond Lachenal",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscription\r\n\r\non base, painted: [FRANCE/LACHENAL/AL]",
   "life_date": "French, 1855-1930",
-  "marks": "Inscription\r\n\r\non base, painted: [FRANCE/LACHENAL/ ",
+  "markings": "",
   "medium": "Glazed earthenware",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G352",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "",
   "title": "Vase"

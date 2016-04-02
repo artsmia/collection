@@ -1,6 +1,7 @@
 {
   "accession_number": "83.38",
-  "artist": "Jacques Lipchitz",
+  "artist": "Artist: Jacques Lipchitz",
+  "classification": "Sculpture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Sage and John Cowles, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Jacques Lipchitz%2C courtesy Marlborough Gallery%2C New York. All rights reserved.",
   "image_height": 5616,
   "image_width": 3744,
-  "life_date": "American (born Lithuania), 1891-1973",
-  "marks": "Signature at back of base: [Lipchitz]",
+  "inscription": "Signature",
+  "life_date": "American (born Lithuania), 1891–1973",
+  "markings": "",
   "medium": "Bronze",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "at back of base: [Lipchitz]",
   "style": "20th century",
   "text": "",
   "title": "Head of Mrs. John Cowles, Sr."

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,980",
-  "artist": "John Dixey",
+  "artist": "Artist: John Dixey",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Ireland",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "Irish",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "Irish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Regency Period",
   "text": "",
   "title": "Frieze of Doves, Flowers, and Prince of Wales Feathers"

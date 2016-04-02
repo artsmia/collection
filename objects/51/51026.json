@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,496",
-  "artist": "Odilon Redon; Text by Gustave Flaubert; Published by Deman, Brussels; Printed by Becquet, Paris",
+  "artist": "Artist: Odilon Redon; Author: Text by Gustave Flaubert; Publisher: Published by Deman, Brussels; Printer: Printed by Becquet, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Collector\\'s Mark",
   "life_date": "French, 1840 - 1916",
-  "marks": "Collector\\'s Mark ",
+  "markings": "Monogram in plate, collector\\'s marks: [Peter Deitsch]",
   "medium": "Lithograph",
   "nationality": "French",
   "provenance": "(Peter Deitsch Fine Arts, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Cover (wrapper) and frontispiece for \"La tentation de Saint Antoine\""

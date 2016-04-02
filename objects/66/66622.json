@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.12a",
-  "artist": "Lucas Huygensz van Leyden",
+  "artist": "Artist: Lucas Huygensz van Leyden",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Theodore Donson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\nold inscription in ink: [Octob 1813]",
   "life_date": "Dutch, about 1494-1533",
-  "marks": "\r\nold inscription in ink: [Octob 1813] ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Adoration of the Magi"

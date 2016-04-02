@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.550",
-  "artist": "Charles Heyman; Edmond Sagot",
+  "artist": "Artist: Charles Heyman; Publisher: Edmond Sagot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, watermark, mark and stamp",
   "life_date": "French, 1881 - 1915",
-  "marks": "Signature, watermark, mark and stamp signed on image upper left, on sheet lower right",
+  "markings": "[HES] visible left on sheet; stamped: [Ed. Sagot, Editeur, Paris]; Watermark: [Arches]",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed on image upper left, on sheet lower right",
   "style": "20th century",
   "text": "",
   "title": "Les chemins de fer: voies de tirage à la chapelle"

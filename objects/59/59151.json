@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.60.12",
-  "artist": "Jon Schueler",
+  "artist": "Artist: Jon Schueler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Jon Schueler",
   "image_height": 3041,
   "image_width": 3998,
+  "inscription": "Signature, Date, Edition, Title\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [A.P. 4/6]\r\nTitled in pencil, LC: [\\\"Late Sunday Afternoon\\\"]",
   "life_date": "American, 1916 - 1992",
-  "marks": "Signature, Date, Edition, Title\r\n\r\nsee Signed\r\n\r\nN Signed and dated in pencil, LR: [Schueler \\'81]\r\n\r\n",
+  "markings": "",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "Vermillion Editions Limted, Minneapolis; sold to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [Schueler \\'81]\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Late Sunday Afternoon"

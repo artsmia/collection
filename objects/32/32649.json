@@ -1,6 +1,7 @@
 {
   "accession_number": "B.91.5.53",
-  "artist": "Henri Matisse; Text by Louis Aragon , et al.; Maeght Editeur, Paris",
+  "artist": "Artist: Henri Matisse; Author: Text by Louis Aragon , et al.; Publisher: Maeght Editeur, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1869 - 1954",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, 1869–1954",
+  "markings": "",
   "medium": "Lithograph, wood engraving, heliogravures, letterpress",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Pierre a feu"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.10",
-  "artist": "Hirshvögel",
+  "artist": "Maker: Hirshvögel",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Amos and Sue Deinard",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "German",
-  "marks": "Signature Tarn (?)",
+  "markings": "Right Edge of Paper",
   "medium": "Etching",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Tarn (?)",
   "style": "19th-20th century",
   "text": "",
   "title": "Der Jacobikirchturm"

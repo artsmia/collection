@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.42.2a,b",
-  "artist": "Jacques Sicard; Weller Pottery",
+  "artist": "Decorator: Jacques Sicard; Manufacturer: Weller Pottery",
+  "classification": "Ceramics",
   "continent": null,
   "country": null,
   "creditline": "Gift of Dorothy B. Shannon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "French, 1865-1923",
-  "marks": " \\'SICARD\\', in copper glaze, on side near foot; \\'Wel",
+  "markings": "\\'2\\', stamped into clay, on bottom",
   "medium": "Earthenware",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\'SICARD\\', in copper glaze, on side near foot; \\'Weller\\', in black, on bottom",
   "style": "20th century",
   "text": "",
   "title": "Covered box"

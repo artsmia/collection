@@ -1,6 +1,7 @@
 {
   "accession_number": "96.39.1",
-  "artist": "Anson Bailey Cutts, Jr.",
+  "artist": "Artist: Anson Bailey Cutts, Jr.",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Anson Cutts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1905 - 1985",
-  "marks": "Signature in graphite, LR: [A.B.Cutts, Jr.]",
+  "markings": "",
   "medium": "Graphite, charcoal and colored chalk",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in graphite, LR: [A.B.Cutts, Jr.]",
   "style": "20th century",
   "text": "",
   "title": "An Electrical Exhibition"

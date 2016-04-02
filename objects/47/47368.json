@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,992",
-  "artist": "Francis Seymour Haden",
+  "artist": "Artist: Francis Seymour Haden",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "British, 1818-1910",
-  "marks": "Signature in pencil",
+  "markings": "",
   "medium": "Etching",
   "nationality": "English",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil",
   "style": "19th century",
   "text": "",
   "title": "The Test at Longparish (No. 1)"

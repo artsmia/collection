@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.173.9",
-  "artist": "J. &amp; J.G. Low Patent Art Tile Works",
+  "artist": "Manufacturer: J. &amp; J.G. Low Patent Art Tile Works",
+  "classification": "Ceramics",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Nancy M. Rose",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2127,
   "image_width": 1985,
+  "inscription": "\\\"J.&J.G. LOW,/PATENT/ART TILE WORKS/CHELSEA,/MASS. U.S.A./COPYRIGHT 1833 by J.G.&J.F.LOW.\\\", stamped, on back",
   "life_date": "Chelsea, Massachussets, 1877-1907",
-  "marks": "\\\"J.&J.G. LOW,/PATENT/ART TILE WORKS/CHELSEA,/MASS. ",
+  "markings": "",
   "medium": "Glazed ceramic",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": null,
   "text": "",
   "title": "Tile with scroll design"

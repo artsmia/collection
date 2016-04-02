@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.60",
-  "artist": "Jack Youngquist",
+  "artist": "Artist: Jack Youngquist",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Patricia Johnson Memorial Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Date; Title; Edition; Inscription\r\n\r\nsee Signed\r\n\r\non mat: [Jack Youngquist, amer, Palazzo del Signoria, Firenzi, 1968. Sepia Print. Patricia Johnson Memorial Fund, P.69.60]",
   "life_date": "American",
-  "marks": "Date; Title; Edition; Inscription\r\n\r\nsee Signed\r\n\r in pencil on sheet",
+  "markings": "",
   "medium": "Sepia print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on sheet",
   "style": "20th century",
   "text": "",
   "title": "Palazzo del Signoria-Firenzi"

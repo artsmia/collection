@@ -1,6 +1,7 @@
 {
   "accession_number": "P.10,643",
-  "artist": "Lucas Huygensz van Leyden",
+  "artist": "Artist: Lucas Huygensz van Leyden",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3024,
   "image_width": 1866,
+  "inscription": "",
   "life_date": "Dutch, about 1494-1533",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": "Dutch",
   "provenance": "Pierre Mariette 1659, pen verso; (L.1789); Albertina Dupl.(L.5g)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Christ"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,722",
-  "artist": "James McNeill Whistler",
+  "artist": "Artist: James McNeill Whistler",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4530,
   "image_width": 3282,
+  "inscription": "LL recto, in pencil: [Axenfeld W61 K64]\r\nLL verso, in pencil: [Whistler - \\\"Axenfeld\\\" K.64 iii/iii can.]",
   "life_date": "American, 1834 - 1903",
-  "marks": "LL recto, in pencil: [Axenfeld W61 K64]\r\nLL verso, Printed signature LL (diagonally) in the plate: [W",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Printed signature LL (diagonally) in the plate: [Whistler.]",
   "style": "19th century",
   "text": "",
   "title": "Axenfeld"

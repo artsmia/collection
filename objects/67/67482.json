@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.34.2",
-  "artist": "Jasper Johns",
+  "artist": "Artist: Jasper Johns",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Robert H. Luck",
@@ -14,8 +15,9 @@
   "image_copyright": "©Jasper Johns %2F Copyright VAGA%2C New York%2C NY",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "American, born 1930",
-  "marks": "Mark ",
+  "markings": "Watermark: crown; Chop: ULAE",
   "medium": "Lithograph; proof of 2nd stone in gray-brown",
   "nationality": "American",
   "provenance": "Robert H. Luck, New York, N.Y.; given to MIA, 1984",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Recent Still Life"

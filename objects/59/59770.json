@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.178.1",
-  "artist": "Adja Yunkers; Impressions Workshop, Inc. American (Boston)",
+  "artist": "Artist: Adja Yunkers; Printer: Impressions Workshop, Inc. American (Boston)",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Stephen B. Andrus",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed\r\n\r\non mat:  [Adja Yunkers, Amer. XX C. Color state proof for _Plentitude in Blue_, 1975, Lithograph with Pochior  Gift of John A. Ittman, 1980.  \\\"Plentitude in Blue,\\\" Gift to MIA 1979 \\' size IVa]",
   "life_date": "American (b. Latvia), 1900-1983",
-  "marks": "Signature; Mark\r\n\r\nsee Signed\r\n\r\non mat:  [Adja Yu in litho",
+  "markings": "Watermark: <Arches France> LL \r\nChop marks: LL in litho, IW",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in litho",
   "style": "20th century",
   "text": "",
   "title": "Plentitude in Blue"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,288",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Miss Eileen Bigelow and Mrs. O. H. Ingram, in memory of their mother, Mrs. Alice F. Bigelow, 1965",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4450,
   "image_width": 3480,
-  "life_date": "German, 1471 - 1528",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1471–1528",
+  "markings": "Watermark: letter <L> in shield, similar to B8290",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Unidentified signature verso",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Erasmus of Rotterdam"

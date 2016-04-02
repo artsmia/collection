@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.425",
-  "artist": "Utagawa Hiroshige; Yamamotoya Heikichi",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Yamamotoya Heikichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1775,
   "image_width": 2760,
+  "inscription": "yes (kyōka)",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "yes (kyōka) ",
+  "markings": "Publisher: Eikudō; Collector: Kōkodō",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Returning Sails at Yabase"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.33.28",
-  "artist": "Lucien Bernhard",
+  "artist": "Artist: Lucien Bernhard",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "©2002 Artists Rights Society %28ARS%29%2C New York %2F VG BILD-KUNST%2C Bonn",
   "image_height": 897,
   "image_width": 1230,
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Adler Typewriter"

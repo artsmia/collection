@@ -1,6 +1,7 @@
 {
   "accession_number": "98.66.10",
-  "artist": "Qin Shi",
+  "artist": "Maker: Qin Shi",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "China",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1807,
   "image_width": 3056,
+  "inscription": "Inscription; Signature; Stamps",
   "life_date": "Chinese",
-  "marks": "Inscription; Signature; Stamps artist\\'s signature, seal and inscription, at URC",
+  "markings": "",
   "medium": "Ink and colors on gold-flecked paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "artist\\'s signature, seal and inscription, at URC",
   "style": "17th century",
   "text": "",
   "title": "Landscape with Fishermen on a Boat"

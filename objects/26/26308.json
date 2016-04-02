@@ -1,6 +1,7 @@
 {
   "accession_number": "89.22.57",
-  "artist": "Garry Winogrand; RFG Publishing, Inc.",
+  "artist": "Photographer: Garry Winogrand; Publisher: RFG Publishing, Inc.",
+  "classification": "Photographs",
   "continent": "North America",
   "country": "United States",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Estate of Garry Winogrand%2C courtesy Fraenkel Gallery%2C San Francisco",
   "image_height": 2835,
   "image_width": 4209,
+  "inscription": "Signature; Number; Edition",
   "life_date": "American, 1928 - 1984",
-  "marks": "Signature; Number; Edition ",
+  "markings": "verso",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Untitled [mother and child]"

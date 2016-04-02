@@ -1,6 +1,7 @@
 {
   "accession_number": "88.34",
-  "artist": "Richard Rugg",
+  "artist": "Maker: Richard Rugg",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Ruth Bovey Stevens in Memory of Charles Bovey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3514,
   "image_width": 3810,
+  "inscription": "Marks; Inscription\r\n\r\nEngraved on the upper surface are the arms of Buckingham.  On the underside is a modern applied silver plaque engraved with the following inscription: [Presented to CHARLES CRANSTON BOVEY by the DIRECTORS of GENERAL MILLS, INC.  In appreciation of his many years of valued service as a MEMBER OF THE BOARD OF DIRECTORS of WASHBURN CROSBY COMPANY & GENERAL MILLS, INC.  And as an expression of their warm affection. 1902-1949]",
   "life_date": "English, free 1746, died c. 1795-1801",
-  "marks": "Marks; Inscription\r\n\r\nEngraved on the upper surfac ",
+  "markings": "Marks; Inscription\r\n\r\nFully marked on underside.",
   "medium": "Silver",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Salver"

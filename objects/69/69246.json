@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.91",
-  "artist": "Utagawa Kuniyoshi; Published by Iseya Ichibei",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Published by Iseya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2706,
   "image_width": 1818,
+  "inscription": "the story of the woman called Kiji working at a tea house in Gion",
   "life_date": "Japanese, 1798 - 1861",
-  "marks": "the story of the woman called Kiji working at a te Cho_o_ro_ Kuniyoshi ga",
+  "markings": "Censor:Kinugasa\r\nartisr\\'s sel\r\nPublisher:Ise-ichi",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Cho_o_ro_ Kuniyoshi ga",
   "style": "19th century",
   "text": "",
   "title": "The House Woman Kaji"

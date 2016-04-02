@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.161.87",
-  "artist": "Itō Shinsui; Published by Iseya Tatsugorō",
+  "artist": "Artist: Itō Shinsui; Publisher: Published by Iseya Tatsugorō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2826,
   "image_width": 1919,
+  "inscription": "LL: 大正十四年二月作 {Taishō jūyonen nigatsu saku} | BC: 双作版画會　伊せ辰 {Sōsaku hangakai Isetatsu}",
   "life_date": "Japanese, 1898 - 1972",
-  "marks": "LL: 大正十四年二月作 {Taishō jūyonen nigatsu saku} | BC: 双 深水畫 {Shinsui ga} (picture by Shinsui)",
+  "markings": "red artist\\'s seal: 深水 {Shinsui}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "深水畫 {Shinsui ga} (picture by Shinsui)",
   "style": "20th century",
   "text": "",
   "title": "Snowy Night"

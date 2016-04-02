@@ -1,6 +1,7 @@
 {
   "accession_number": "79.54",
-  "artist": "Unknown British, 18th century",
+  "artist": "Artist: Unknown British, 18th century",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Martha B. Groetzinger",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3325,
   "image_width": 5492,
+  "inscription": "Mark",
   "life_date": null,
-  "marks": "Mark ",
+  "markings": "Watermark: [Whatman] (Partially trimmed)",
   "medium": "Pen, black ink and wash",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Plan of the Intended Botanic Garden, London"

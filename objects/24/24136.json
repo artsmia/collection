@@ -1,6 +1,7 @@
 {
   "accession_number": "83.170.2",
-  "artist": "Stuart Nielsen",
+  "artist": "Artist: Stuart Nielsen",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of The Northern Star Foundation and the Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3839,
   "image_width": 3142,
+  "inscription": "Date; Signature",
   "life_date": "American, born 1947",
-  "marks": "Date; Signature LR:  [Nielsen 1979]",
+  "markings": "",
   "medium": "Graphite, collage with color wash and black crayon",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR:  [Nielsen 1979]",
   "style": "20th century",
   "text": "",
   "title": "Quartet"

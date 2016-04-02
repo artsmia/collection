@@ -1,6 +1,7 @@
 {
   "accession_number": "B.81.4",
-  "artist": "Pablo Picasso; Poems by Luis de Góngora y Argote; Translated by Z. Millner; Published by Les Grands Peintres, Modernes et le Livre, Paris, France; Printed by Fequet et Baudier, Paris, France , (text); Printed by Atelier Roger Lacourière, Paris, France , (etchings); Binding by Pierre-Lucien Martin",
+  "artist": "Artist: Pablo Picasso; Author: Poems by Luis de Góngora y Argote; Translator: Translated by Z. Millner; Publisher: Published by Les Grands Peintres, Modernes et le Livre, Paris, France; Printer: Printed by Fequet et Baudier, Paris, France , (text); Printer: Printed by Atelier Roger Lacourière, Paris, France , (etchings); Book Binder: Binding by Pierre-Lucien Martin",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4515,
   "image_width": 3416,
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "Watermark: <Gongora>",
   "medium": "Etchings and lift-ground aquatints; letterpress",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Vingt poèmes de Góngora (Twenty Poems by Góngora)"

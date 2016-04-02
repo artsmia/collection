@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,152",
-  "artist": "Timothy Cole; after Paolo Veronese",
+  "artist": "Artist: Timothy Cole; Artist: after Paolo Veronese",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. George P. Douglas, 1929",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1852 - 1931",
-  "marks": "67 penciled in on center and bottom of paper In pencil and on sheet",
+  "inscription": "67 penciled in on center and bottom of paper",
+  "life_date": "American, 1852-1931",
+  "markings": "",
   "medium": "Wood engraving; India proof",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil and on sheet",
   "style": "19th century",
   "text": "",
   "title": "Venice Enthroned"

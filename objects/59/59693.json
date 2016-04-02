@@ -1,6 +1,7 @@
 {
   "accession_number": "P.89.21",
-  "artist": "Joel Shapiro",
+  "artist": "Artist: Joel Shapiro",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Joel Shapiro %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4186,
   "image_width": 3443,
+  "inscription": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [22/40]",
   "life_date": "American, born 1941",
-  "marks": "Signature, Date, Edition\r\n\r\nsee Signed\r\n\r\nNumbered Signed and dated in pencil, LR: [Joel Shapiro 1989",
+  "markings": "",
   "medium": "Color woodcut on Japan paper",
   "nationality": "American",
   "provenance": "(Betsy Senior Gallery, New York); sold to MIA, 1989.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and dated in pencil, LR: [Joel Shapiro 1989]",
   "style": "20th century",
   "text": "",
   "title": "Untitled #16"

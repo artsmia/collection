@@ -1,6 +1,7 @@
 {
   "accession_number": "B.97.1.2",
-  "artist": "Max Ernst; Text by Paul Eluard; Au Sans Pareil, Paris; Louis Kaldor, Paris",
+  "artist": "Artist: Max Ernst; Author: Text by Paul Eluard; Publisher: Au Sans Pareil, Paris; Printer: Louis Kaldor, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Robert C. Winton Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, 1891 - 1976",
-  "marks": " ",
+  "markings": "",
   "medium": "Binding: paper covers; sewn/glued binding",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Répétitions"

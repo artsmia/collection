@@ -1,6 +1,7 @@
 {
   "accession_number": "P.70.19",
-  "artist": "Sakamoto Kōichi",
+  "artist": "Artist: Sakamoto Kōichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2156,
   "image_width": 1701,
+  "inscription": "Signature",
   "life_date": "born 1932",
-  "marks": "Signature [Koichi Sakamoto]",
+  "markings": "",
   "medium": "Color mixed intaglio",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[Koichi Sakamoto]",
   "style": "20th century",
   "text": "",
   "title": "Grassland"

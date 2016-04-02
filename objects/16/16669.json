@@ -1,6 +1,7 @@
 {
   "accession_number": "42.25",
-  "artist": "Florence W. Parlin",
+  "artist": "Artist: Florence W. Parlin",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Local Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Mark",
   "life_date": "American",
-  "marks": "Signature; Date; Mark LR in blue pencil: [Parlin 42]",
+  "markings": "Watermark: <J. Whatman 1938>",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR in blue pencil: [Parlin 42]",
   "style": "20th century",
   "text": "",
   "title": "Miss Amelia's House"

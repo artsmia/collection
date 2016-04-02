@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,929",
-  "artist": "Samuel Arlent Edwards",
+  "artist": "Artist: Samuel Arlent Edwards",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of the Artist, 1923",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (born in England), 1861 - 1938",
-  "marks": "Signature etched in plate and signed",
+  "inscription": "Signature",
+  "life_date": "American (born in England), 1861–1938",
+  "markings": "Title on bottom in ink",
   "medium": "Mezzotint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "etched in plate and signed",
   "style": "19th century",
   "text": "",
   "title": "George Washington"

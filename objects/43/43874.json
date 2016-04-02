@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.28.3",
-  "artist": "Terry Haass",
+  "artist": "Artist: Terry Haass",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John and Myrtle Coe",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4902,
   "image_width": 3641,
+  "inscription": "Title, Edition, Signature\r\n\r\n",
   "life_date": "French, born Czechoslovakia 1923",
-  "marks": "Title, Edition, Signature\r\n\r\n Bottom edge, recto: [Sun-Wind, 39/50, T. Haass]",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Bottom edge, recto: [Sun-Wind, 39/50, T. Haass]",
   "style": "20th century",
   "text": "",
   "title": "Sun-Wind"

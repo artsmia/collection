@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,123",
-  "artist": "Anton Schutz",
+  "artist": "Artist: Anton Schutz",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Philip Little, Jr., 1963",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Edition; Date; Number; Inscription\r\n\r\nsee Signed\r\n\r\non sheet: [543 The Hub of the World]; \r\non mat:[signed artist proof, edition  limit, A.(Anton) Schutz, Amer XX C., The Hub of the World, etching, gift of Mrs. Phililp Little, 1962, 13123, L.62.598.87]",
   "life_date": "American",
-  "marks": "Signature; Title; Edition; Date; Number; Inscripti in pencil on sheet",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil on sheet",
   "style": "20th century",
   "text": "",
   "title": "The Hub of the World"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.41",
-  "artist": "Robert Moskowitz",
+  "artist": "Artist: Robert Moskowitz",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3666,
   "image_width": 3081,
+  "inscription": "Signed, dated, numbered, chop mark",
   "life_date": "American, born 1935",
-  "marks": "Signed, dated, numbered, chop mark LR: [COLOR TRIAL PROOF RM 85-86]",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [COLOR TRIAL PROOF RM 85-86]",
   "style": "20th century",
   "text": "",
   "title": "Cadillac Chopsticks"

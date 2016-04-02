@@ -1,6 +1,7 @@
 {
   "accession_number": "P.74.33",
-  "artist": "Malcolm Morley; Chiron Press, New York",
+  "artist": "Artist: Malcolm Morley; Printer: Chiron Press, New York",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American (b. England), born 1931",
-  "marks": "Signature in pencil: Malcolm Morley",
+  "markings": "Watermark: <BFK Rives> \r\nchop: Chiron Press, New York",
   "medium": "Color screenprint with stencils and varnish",
   "nationality": "British",
   "provenance": "(Plunkett and Company, Lenexa, Kans.); sold to MIA, 1974.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: Malcolm Morley",
   "style": "20th century",
   "text": "",
   "title": "Beach Scene"

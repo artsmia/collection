@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.31",
-  "artist": "John Faber the Younger; after Sir Godfrey Kneller",
+  "artist": "Artist: John Faber the Younger; Artist: after Sir Godfrey Kneller",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "British, c.1695 - 1756",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "British, 1646 - 1723",
+  "markings": "Watermark: <B. Richard Fin>\r\n(See Heawood 1229)",
   "medium": "Mezzotint",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Portrait of Jane, Countess of Claredon"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.23.6",
-  "artist": "Sol LeWitt; Published by Parasol Press Ltd., New York",
+  "artist": "Artist: Sol LeWitt; Publisher: Published by Parasol Press Ltd., New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "© The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1928 - 2007",
-  "marks": " unsigned\r\n",
+  "markings": "",
   "medium": "Rubber stamp print",
   "nationality": "American",
   "provenance": "[Parasol Press, Ltd., New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "unsigned\r\n",
   "style": "20th century",
   "text": "",
   "title": "Lines in Four Directions"

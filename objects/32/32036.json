@@ -1,6 +1,7 @@
 {
   "accession_number": "99.221.2.3",
-  "artist": "Royal Doulton Potteries; F. Hancock",
+  "artist": "Manufacturer: Royal Doulton Potteries; Decorator: F. Hancock",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Marion T. Beamish",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Marks; Signature",
   "life_date": "Burslem, Staffordshire, and Stoke-on-Trent, English, est. 1815",
-  "marks": "Marks; Signature ",
+  "markings": "on bottom: \\'Daulton Burslem\\', in brown; \\'Davis Collamore/New York\\', in green; front: \\'F. Hancock\\', in purple, near edge",
   "medium": "porcelain, pigment, gilt",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Dinner plate"

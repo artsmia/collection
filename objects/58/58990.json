@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.42.4",
-  "artist": "Philip Larson",
+  "artist": "Artist: Philip Larson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2504,
   "image_width": 3694,
+  "inscription": "Signed, Dated, Titled, Inscribed, and Chop Mark",
   "life_date": "American, born 1944",
-  "marks": "Signed, Dated, Titled, Inscribed, and Chop Mark LL: [Philip Larson 78]\r\nLL: [AP 2/3]\r\nLL: [Fourth ",
+  "markings": "VEL Chop Mark",
   "medium": "Drypoint in red-brown ink",
   "nationality": "American",
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [Philip Larson 78]\r\nLL: [AP 2/3]\r\nLL: [Fourth GATE]\r\nLR: [THE CAUSEWAY VALLEY TEMPLE / OF CHEPHREN GIZA / 30 NORTH LATITUDE / VERTICAL DIRECT SOUTH DIAL / SUN (VULTURE)]\r\nLR: VEL Chop Mark",
   "style": "20th century",
   "text": "",
   "title": "Fourth Grate (Giza)"

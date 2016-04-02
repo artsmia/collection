@@ -1,6 +1,7 @@
 {
   "accession_number": "99.195.8",
-  "artist": "Meissen Porcelain Factory",
+  "artist": "Manufacturer: Meissen Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of The Frederick and Margaret L. Weyerhaeuser Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "Meissen, Germany, est. 1710",
-  "marks": "Mark ",
+  "markings": "Blue crossed swords, impressed \\'8\\' and \\'131\\', and \\'79\\' in brown paint under base.",
   "medium": "Porcelain",
   "nationality": "",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Woman with basket of flowers figure"

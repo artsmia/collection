@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.22",
-  "artist": "Christine Kermaire",
+  "artist": "Artist: Christine Kermaire",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Belgium",
   "creditline": "Anonymous Gift",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\nsee Signed",
   "life_date": "Belgian, born 1953",
-  "marks": "Signature\r\nsee Signed in black ink: [045/300 Kermaire]",
+  "markings": "",
   "medium": "Offset lithographs, letterpress, paper, Mylar, colored sand, plastic resin, collage, wood, fabric, stainless steel hardware",
   "nationality": null,
   "provenance": "The artist",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink: [045/300 Kermaire]",
   "style": "21st century",
   "text": "",
   "title": "Ufology Keepsake"

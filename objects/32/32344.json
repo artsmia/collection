@@ -1,6 +1,7 @@
 {
   "accession_number": "B.87.4.55",
-  "artist": "Pablo Picasso; Text by Aristophanes; Translated by Gilbert Seldes; Published by The Limited Editions Club; Printed by The Limited Editions Club , (text, typography, reproductions); Printed by Atelier Lacourière et Frélaut, Paris, France (etchings)",
+  "artist": "Artist: Pablo Picasso; Author: Text by Aristophanes; Translator: Translated by Gilbert Seldes; Publisher: Published by The Limited Editions Club; Printer: Printed by The Limited Editions Club , (text, typography, reproductions); Artist: Printed by Atelier Lacourière et Frélaut, Paris, France (etchings)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of the Estate of Dorothy Millett Lindeke",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "life_date": "Spanish (active France), 1881-1973",
-  "marks": "Signature; Edition; Mark\r\nin back ",
+  "inscription": "Signature; Edition; Mark\r\nin back",
+  "life_date": "Spanish (active France), 1881–1973",
+  "markings": "Watermark: <BFK>",
   "medium": "Etchings, etching with aquatint, and lithographic reproductions of pen and ink drawings",
   "nationality": "Spanish",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Lysistrata"

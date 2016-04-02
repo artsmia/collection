@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.183",
-  "artist": "Sid Kaplan",
+  "artist": "Photographer: Sid Kaplan",
+  "classification": "Photographs",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Timothy G. Piotrowski",
@@ -14,8 +15,9 @@
   "image_copyright": "© Sid Kaplan",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"Lexington Local-1953\\\", impressed, LLC of image",
   "life_date": "American, born 1938",
-  "marks": "\\\"Lexington Local-1953\\\", impressed, LLC of image \\\"Kaplan 89\\\", impressed, LRC of image",
+  "markings": "",
   "medium": "gelatin silver print (printed 1989)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Kaplan 89\\\", impressed, LRC of image",
   "style": "20th century",
   "text": "",
   "title": "Lexington Local"

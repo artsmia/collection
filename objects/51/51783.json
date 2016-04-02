@@ -1,6 +1,7 @@
 {
   "accession_number": "P.68.49",
-  "artist": "Stefano della Bella; Published by Langlois",
+  "artist": "Artist: Stefano della Bella; Publisher: Published by Langlois",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3118,
   "image_width": 4944,
+  "inscription": "Signature",
   "life_date": "Italian (Florence), 1610-1664",
-  "marks": "Signature In plate",
+  "markings": "",
   "medium": "Etching and engraving",
   "nationality": "Italian (Florence)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "17th century",
   "text": "",
   "title": "Plate 11"

@@ -1,6 +1,7 @@
 {
   "accession_number": "83.166.17",
-  "artist": "Henry Ernest Schnakenberg",
+  "artist": "Artist: Henry Ernest Schnakenberg",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3639,
   "image_width": 5217,
+  "inscription": "Signature; Inscription; Date\r\n\r\nverso: [Englewood N.J.] in ink: [August 1935] in pencil: [River Park]",
   "life_date": "American, 1892 - 1970",
-  "marks": "Signature; Inscription; Date\r\n\r\nverso: [Englewood  LR: [Schnackenberg]",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Schnackenberg]",
   "style": "20th century",
   "text": "",
   "title": "River Park"

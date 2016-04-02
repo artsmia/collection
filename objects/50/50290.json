@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,788",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Richard H. Zinser, 1959",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1471 - 1528",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "German, 1471–1528",
+  "markings": "Collectors\\' marks verso, J.D. Bohm (L. 271) beneath Hauslab (L.1247)",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "J.D. Bohm (Lugt 271), Vienna (d. 1865); Field Marshall Franz Ritter von Hauslab (L. 1247), Vienna (d.1883)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "The southern sky was largely uncharted until the 16th and 17th centuries when Italian and Dutch explorers began sailing the southern seas. This woodcut, published on the eve of this age of exploration, records the basic state of knowledge in 1515, which was rather spare. Uncharted skies presented great challenges to navigators, since they needed accurate star maps to determine their longitude at sea. Exploration prompted a great push on the part of sailors, merchants, and publishers, particularly in Holland, to map the unknown skies.",
   "title": "The Southern Hemisphere of the Celestial Globe"

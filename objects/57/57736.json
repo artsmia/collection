@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.257.17",
-  "artist": "Malcolm H. Myers; Dr. James J. Duffey",
+  "artist": "Artist: Malcolm H. Myers; Printer: Dr. James J. Duffey",
+  "classification": "Books",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Dr. James J. Duffey and Maureen O. Sullivan Duffey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1917-2002",
-  "marks": " ",
+  "markings": "",
   "medium": "Dot matrix printing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Possum & Friends Visit Europe"

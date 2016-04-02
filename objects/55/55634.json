@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,774",
-  "artist": "Anonymous  Master M. Z.",
+  "artist": "Artist: Anonymous  Master M. Z.",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Miss Tessie Jones in memory of her parents, Mr. and Mrs. Herschel V. Jones, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Mark",
   "life_date": "German, active c. 1500",
-  "marks": "Mark ",
+  "markings": "Watermark: High Crown",
   "medium": "Engraving",
   "nationality": "German",
   "provenance": "Alfred Morrison (Lugt 151)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "The Great Ball at Munich"

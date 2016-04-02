@@ -1,6 +1,7 @@
 {
   "accession_number": "P.98.19.16",
-  "artist": "Red Grooms",
+  "artist": "Maker: Red Grooms",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3814,
   "image_width": 2997,
+  "inscription": "Signed, dated, numbered, inscription, and chop mark.",
   "life_date": "American, born 1937",
-  "marks": "Signed, dated, numbered, inscription, and chop mar LR, in red pencil:  [Red Grooms \\'79\\']\r\nLL, in red ",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR, in red pencil:  [Red Grooms \\'79\\']\r\nLL, in red pencil: [A.P. 1/7]\r\nUC, printed inscription: [SEX / in the / MIDWEST]\r\nLC: [CENSORED]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Sex in the Midwest"

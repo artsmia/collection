@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.103",
-  "artist": "Katsukawa Shunchō",
+  "artist": "Artist: Katsukawa Shunchō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2441,
   "image_width": 1820,
+  "inscription": "",
   "life_date": "Japanese, fl.c.1780 - 1795",
-  "marks": " {Shunchō ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunchō ga}",
   "style": "18th century",
   "text": "",
   "title": "Lady at Loom"

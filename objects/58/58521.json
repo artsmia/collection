@@ -1,6 +1,7 @@
 {
   "accession_number": "P.86.63.4",
-  "artist": "Nicholas Africano",
+  "artist": "Artist: Nicholas Africano",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -14,8 +15,9 @@
   "image_copyright": "© Nicolas Africano",
   "image_height": 2723,
   "image_width": 3679,
+  "inscription": "Signed, dated, numbered",
   "life_date": "American, born 1948",
-  "marks": "Signed, dated, numbered LR: [Nicolas Africano 1986]; LL: [Working Proof (A",
+  "markings": "",
   "medium": "Color screenprint, lithograph, oil paint, and collage",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Nicolas Africano 1986]; LL: [Working Proof (Archive)]",
   "style": "20th century",
   "text": "",
   "title": "Angel and Boy"

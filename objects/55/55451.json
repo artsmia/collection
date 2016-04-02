@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.67",
-  "artist": "Arthur Luiz Piza",
+  "artist": "Artist: Arthur Luiz Piza",
+  "classification": "Prints",
   "continent": "South America",
   "country": "Brazil",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Inscription; Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LLC: [34/60]\r\n\r\nInscribed in pencil, LLC: [18]",
   "life_date": "Brazilian, born 1928",
-  "marks": "Signature; Edition; Inscription; Mark\r\n\r\nsee Signe Signed in pencil, LRC: [Piza]",
+  "markings": "Watermark: <Arches>",
   "medium": "Color etching and engraving",
   "nationality": "Brazilian",
   "provenance": "[AAA, New York]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil, LRC: [Piza]",
   "style": "20th century",
   "text": "",
   "title": "Equilibre rouge"

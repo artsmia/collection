@@ -1,6 +1,7 @@
 {
   "accession_number": "78.79.80",
-  "artist": "Probably by Chelsea Porcelain Manufactory",
+  "artist": "Manufacturer: Probably by Chelsea Porcelain Manufactory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. David Williams and Mr. and Mrs. Charles Spensley from the Estate of Ida B. Williams",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "London, c.1743-1784",
-  "marks": " ",
+  "markings": "",
   "medium": "Soft-paste porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Shepherd figure"

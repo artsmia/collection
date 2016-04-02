@@ -1,6 +1,7 @@
 {
   "accession_number": "97.41.2.7a,b",
-  "artist": "Caughley (Salopian) Works",
+  "artist": "Maker: Caughley (Salopian) Works",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3117,
   "image_width": 4406,
+  "inscription": "Marks",
   "life_date": null,
-  "marks": "Marks ",
+  "markings": "\\'S\\', on bottom of all pieces except .5a,b, .7a and .8a,b; \\'6\\', on bottom of .8b",
   "medium": "Pottery",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Cup and saucer, from a child's tea set, in blue and white"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.441",
-  "artist": "Simone Cantarini",
+  "artist": "Artist: Simone Cantarini",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Italian, 1612 - 1648",
-  "marks": " ",
+  "markings": "Watermarks: Fools cap",
   "medium": "Etching",
   "nationality": "Italian",
   "provenance": "pen verso, Naudet Coll. (L. 1937).",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "L'Enlevement d'Europa"

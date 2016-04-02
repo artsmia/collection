@@ -1,6 +1,7 @@
 {
   "accession_number": "96.146.97",
-  "artist": "Yoshida Tōshi (self-published)",
+  "artist": "Artist: Yoshida Tōshi (self-published)",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Left: [一九六八年作　みみづく] {1968nen saku, Mimizuku}; bottom, printed: [Eagle Owl], in pencil: [Toshi Yoshida]",
   "life_date": "Japanese, 1911 - 1995",
-  "marks": "Left: [一九六八年作　みみづく] {1968nen saku, Mimizuku}; bott LRC: [遠志] {Tōshi}",
+  "markings": "LRC: Red artist\\'s seal [吉田] {Yoshida}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [遠志] {Tōshi}",
   "style": "20th century",
   "text": "",
   "title": "Eagle Owl"

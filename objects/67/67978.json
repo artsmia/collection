@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,963",
-  "artist": "Kitagawa Utamaro; Published by Izumiya Ichibei",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Published by Izumiya Ichibei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2821,
   "image_width": 1907,
+  "inscription": "",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": " {Utamaro hitsu}",
+  "markings": "Publisher\\'s seal: {Izumi-ichi ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Utamaro hitsu}",
   "style": "18th century",
   "text": "",
   "title": "Hour of Snake, Kept Woman"

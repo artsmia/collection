@@ -1,6 +1,7 @@
 {
   "accession_number": "P.78.10.1",
-  "artist": "Will Petersen",
+  "artist": "Artist: Will Petersen",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1928",
-  "marks": "Signature\r\n\r\nsee Signed on sheet",
+  "markings": "Chop Marks: up (on mounting sheet)",
   "medium": "Color lithograph (WP XL)",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet",
   "style": "20th century",
   "text": "",
   "title": "Stoneprint Fragment"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.14",
-  "artist": "Sol LeWitt; Published by Experiments in Art and Technology (E.A.T.), New York; Printed by Styria Studio, New York",
+  "artist": "Artist: Sol LeWitt; Publisher: Published by Experiments in Art and Technology (E.A.T.), New York; Printer: Printed by Styria Studio, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© The LeWitt Estate %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Edition, Stamp  \r\n\r\nsee Signed\r\n\r\n",
   "life_date": "American, 1928 - 2007",
-  "marks": "Signature, Edition, Stamp  \r\n\r\nsee Signed\r\n\r\n Signed and numbered, verso\r\nin pencil, verso: [TP ",
+  "markings": "stamped in ink, verso: [copyright 1973 by Sol Lewitt printed at Styria Studio]",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed and numbered, verso\r\nin pencil, verso: [TP 1/4 Lewitt]",
   "style": "20th century",
   "text": "",
   "title": "Circles"

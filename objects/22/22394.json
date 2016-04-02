@@ -1,6 +1,7 @@
 {
   "accession_number": "80.80.34",
-  "artist": "Richard Westall",
+  "artist": "Artist: Richard Westall",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Stanley and Lucile Slocum",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Inscriptions\r\n\r\nin pencil, LLC recto: [1/2 1 2 3]; in pencil, lower center verso: [37]",
   "life_date": "British, 1765 - 1836",
-  "marks": "Inscriptions\r\n\r\nin pencil, LLC recto: [1/2 1 2 3]; ",
+  "markings": "",
   "medium": "Graphite on wove paper",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Untitled [Fallen Man Guarded by Dog in Mountainscape]"

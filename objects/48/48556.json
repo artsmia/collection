@@ -1,6 +1,7 @@
 {
   "accession_number": "P.3,362",
-  "artist": "Sir Robert Strange; after Raphael Sanzio",
+  "artist": "Artist: Sir Robert Strange; Artist: after Raphael Sanzio",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "English, 1721 - 1792",
-  "marks": " ",
+  "markings": "",
   "medium": "Engraving",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Meekness"

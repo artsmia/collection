@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.184.1",
-  "artist": "Karl Russ",
+  "artist": "Artist: Karl Russ",
+  "classification": "Prints",
   "continent": null,
   "country": "Austria",
   "creditline": "Gift of the Print and Drawing Council",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1858,
   "image_width": 2517,
+  "inscription": "Signature, Date and Inscription\r\n\r\nULC, in black: [18]; also see Signed",
   "life_date": "Austrian, 1779 - 1843",
-  "marks": "Signature, Date and Inscription\r\n\r\nULC, in black:  LLC, in black: [K. Russ inv. et fecit Viennae 1809",
+  "markings": "",
   "medium": "Etching and aquatint",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in black: [K. Russ inv. et fecit Viennae 1809]",
   "style": "19th century",
   "text": "",
   "title": "The Holy Family in a Domestic Setting"

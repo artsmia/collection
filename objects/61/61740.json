@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.325",
-  "artist": "Utagawa Hiroshige; Published by Enshūya Matabei",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Published by Enshūya Matabei",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1824,
   "image_width": 2935,
+  "inscription": "[...]",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": "[...] ",
+  "markings": "Censor seal: {Hama}; Publisher: Yamato",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Kurōdo Sakon"

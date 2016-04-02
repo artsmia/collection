@@ -1,6 +1,7 @@
 {
   "accession_number": "77.1a,b",
-  "artist": "Charles Wright",
+  "artist": "Artist: Charles Wright",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. J. Peter Ritten",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6688,
   "image_width": 4171,
+  "inscription": "Marks; Inscription\r\n\r\nEngraved on front about the spigot with an unidentified coat of arms and with a crest on the upper part of the base.",
   "life_date": "English, active c. 1754-1790",
-  "marks": "Marks; Inscription\r\n\r\nEngraved on front about the  ",
+  "markings": "Marks\r\n\r\nFully marked on interior of base and on lower body bezel.  Maker\\'s mark and lion passant on bezel of cover.",
   "medium": "Silver",
   "nationality": "British",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "George III",
   "text": "",
   "title": "Tea urn"

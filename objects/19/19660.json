@@ -1,6 +1,7 @@
 {
   "accession_number": "70.74",
-  "artist": "Giuseppe Bernardino Bison; Gaspare Landi",
+  "artist": "Artist: Giuseppe Bernardino Bison; Artist: Gaspare Landi",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4756,
   "image_width": 3398,
+  "inscription": "Signature",
   "life_date": "Italian, 1762 - 1844",
-  "marks": "Signature on band around the forehead of Venus: [G.L.]",
+  "markings": "",
   "medium": "Pen and brush with brown ink, heightened in white, red chalk on laid tan paper",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on band around the forehead of Venus: [G.L.]",
   "style": "18th-19th century",
   "text": "",
   "title": "Venus and Cupid (?)"

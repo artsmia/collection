@@ -1,6 +1,7 @@
 {
   "accession_number": "44.33",
-  "artist": "Eva Peterson",
+  "artist": "Artist: Eva Peterson",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, 1888 - 1951",
-  "marks": "Signature; Date In black watercolor or ink at LR: [Eva Peterson \\'4",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In black watercolor or ink at LR: [Eva Peterson \\'44]",
   "style": "20th century",
   "text": "",
   "title": "Swimming Hole in January"

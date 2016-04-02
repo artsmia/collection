@@ -1,6 +1,7 @@
 {
   "accession_number": "P.507",
-  "artist": "Paolo Mercuri",
+  "artist": "Artist: Paolo Mercuri",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Yes",
   "life_date": "Italian, 1804 - 1884",
-  "marks": "Yes In pencil on plate lower right",
+  "markings": "P. Mercuri",
   "medium": "Engraving",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil on plate lower right",
   "style": "19th century",
   "text": "",
   "title": "St. Amelia, Queen of Hungary"

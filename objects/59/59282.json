@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.132.22",
-  "artist": "Louis Marcel Myr",
+  "artist": "Artist: Louis Marcel Myr",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\\\"68/75\\\", in graphite, LL",
   "life_date": "French, 1893 - 1964",
-  "marks": "\\\"68/75\\\", in graphite, LL \\\"M Myr\\\", in graphite, LR",
+  "markings": "",
   "medium": "Drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"M Myr\\\", in graphite, LR",
   "style": "20th century",
   "text": "",
   "title": "Le Pont des Arts"

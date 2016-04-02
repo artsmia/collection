@@ -1,6 +1,7 @@
 {
   "accession_number": "96.156.1",
-  "artist": "Byron Browne",
+  "artist": "Artist: Byron Browne",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Don and Diana Lee Lucker",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2523,
   "image_width": 1966,
+  "inscription": "Signature; Date",
   "life_date": "American, 1907 - 1961",
-  "marks": "Signature; Date in black ink, LR: [Byron Browne 1943]",
+  "markings": "",
   "medium": "Gouache\r\n",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in black ink, LR: [Byron Browne 1943]",
   "style": "20th century",
   "text": "",
   "title": "Woman on a Balcony"

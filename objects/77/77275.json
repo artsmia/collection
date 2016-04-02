@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,304",
-  "artist": "Giovanni Battista Piranesi; Giovanni Battista Piranesi",
+  "artist": "Artist: Giovanni Battista Piranesi; Etcher: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature, watermark and marks LR: signature",
+  "inscription": "Signature, watermark and marks",
+  "life_date": "Italian, 1720–1778",
+  "markings": "LR: address and price; watermark",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: signature",
   "style": "18th century",
   "text": "",
   "title": "Statue of Minerva"

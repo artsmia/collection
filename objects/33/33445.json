@@ -1,6 +1,7 @@
 {
   "accession_number": "2012.58.72",
-  "artist": "Blas de Prado",
+  "artist": "Artist: Blas de Prado",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Bequest of Professor Alfred Moir",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 6512,
   "image_width": 8633,
+  "inscription": "Stamp",
   "life_date": "Spanish, c. 1545-1599/1600",
-  "marks": "Stamp ",
+  "markings": "LRC, stamped in black: [PL] Lugt 2092",
   "medium": "Pen and black and brown ink and brown wash on laid paper",
   "nationality": "Spanish",
   "provenance": "Peter Lely, Lugt 2092 (1618-1680), London. [Alister Mathews, Bournemouth, England]. Mr. and Mrs. Lester Avnet, New York. Malcolm and Esther Bick, Springfield, Mass. (by 1968). Sale, Sotheby's, July 2, 1984, no. 15, for £1,226.50, to Moir; Alfred Moir, Santa Barbara (1984-d. 2010; bequeathed to MIA)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Death of Saint Jerome"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.81.19",
-  "artist": "Jean-Baptiste-Marie Pierre",
+  "artist": "Artist: Jean-Baptiste-Marie Pierre",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature and Mark\r\n\r\nsee Signed",
   "life_date": "French, 1713 - 1789",
-  "marks": "Signature and Mark\r\n\r\nsee Signed in etching: [Pierre]",
+  "markings": "Watermark: not seen, T. Dupuy fin Auvergne 1742\r\nChop: see Heawood",
   "medium": "Etching",
   "nationality": "French",
   "provenance": "Pronté",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in etching: [Pierre]",
   "style": "18th century",
   "text": "",
   "title": "Rest on the Flight into Egypt"

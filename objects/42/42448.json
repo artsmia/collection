@@ -1,6 +1,7 @@
 {
   "accession_number": "P.79.146.3",
-  "artist": "John Chamberlain; Styria Studio, New York; Experiments in Art and Technology (E.A.T.), New York",
+  "artist": "Artist: John Chamberlain; Printer: Styria Studio, New York; Publisher: Experiments in Art and Technology (E.A.T.), New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© John Chamberlain %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition",
   "life_date": "American, 1927-2011",
-  "marks": "Signature; Edition LL: [1/4 T.P. Chamberlain]",
+  "markings": "",
   "medium": "Color lithograph on Mylar, printed on both sides",
   "nationality": null,
   "provenance": "Steven M. Andersen, Minneapolis (former assistant printer at Styria Studio, New York)",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LL: [1/4 T.P. Chamberlain]",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

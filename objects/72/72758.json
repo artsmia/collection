@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.39.11",
-  "artist": "Hasegawa Mitsunobu",
+  "artist": "Artist: Hasegawa Mitsunobu",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3515,
   "image_width": 4566,
+  "inscription": "",
   "life_date": "Japanese, act. c.1720s-1750s",
-  "marks": " Hasegawa Mitsunobu ga",
+  "markings": "O_saka painter(Naniwa gako_) Sho_suken Hasegawa Mitsunobu\r\n1772, the year of Dragon (date of original)\r\nPublisher:Aich shorin Kajita Kansuke",
   "medium": "Woodblock printed book; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hasegawa Mitsunobu ga",
   "style": "18th century",
   "text": "",
   "title": "Toba Style Caricature"

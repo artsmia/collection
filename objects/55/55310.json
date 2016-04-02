@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.184",
-  "artist": "Attributed to Rembrandt Harmensz. van Rijn; Possibly reworked by Jan Georg van Vliet",
+  "artist": "Artist: Attributed to Rembrandt Harmensz. van Rijn; Artist: Possibly reworked by Jan Georg van Vliet",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3396,
   "image_width": 2700,
+  "inscription": "",
   "life_date": "Dutch, 1606-1669",
-  "marks": " ",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Dutch",
   "provenance": "[Colnaghi, London, until 1969; sold, November 6, for £71.25, to MIA]",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "17th century",
   "text": "",
   "title": "The Beheading of John the Baptist"

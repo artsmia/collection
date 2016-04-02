@@ -1,6 +1,7 @@
 {
   "accession_number": "82.103.3",
-  "artist": "Reginald Marsh",
+  "artist": "Artist: Reginald Marsh",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Felicia Meyer Marsh",
@@ -14,8 +15,9 @@
   "image_copyright": "© Estate of Reginald Marsh %2F Art Students League%2C New York %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 1889,
   "image_width": 2733,
-  "life_date": "American, 1898 - 1954",
-  "marks": "Stamp\r\n\r\nLR stamp, on lower right corner (bottom o ",
+  "inscription": "Stamp\r\n\r\nLR stamp, on lower right corner (bottom of stamp going off sheet): [F. Marsh Collection,Cat #____]\r\n\r\nEstate number written in pencil within stamp: [WC ND165]\r\n\r\non verso estate number and loan number in pencil, by different hands, in lower right corner.",
+  "life_date": "American, 1898–1954",
+  "markings": "",
   "medium": "Watercolor",
   "nationality": "American",
   "provenance": "The artist, New York (until d. 1955); Felicia Meyer Marsh, New York (1955-d. 1978; her estate, 1978-82; given to MIA).",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Seascape"

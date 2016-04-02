@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,021",
-  "artist": "Hanns Lautensack; Matthias Zündt",
+  "artist": "Artist: Hanns Lautensack; Artist: Matthias Zündt",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "German, c. 1520 - after 1564",
-  "marks": " ",
+  "markings": "",
   "medium": "Woodcut (Lautensack) /Etching (Zundt)",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Baumgartner Taken Prisoner"

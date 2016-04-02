@@ -1,6 +1,7 @@
 {
   "accession_number": "54.6",
-  "artist": "David Ratner",
+  "artist": "Artist: David Ratner",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date",
   "life_date": "American, born 1922",
-  "marks": "Signature; Date LR: [Ratner \\'54]",
+  "markings": "",
   "medium": "Drawing",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Ratner \\'54]",
   "style": "20th century",
   "text": "",
   "title": "Block Builders I"

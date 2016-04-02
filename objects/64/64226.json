@@ -1,6 +1,7 @@
 {
   "accession_number": "P.75.51.668",
-  "artist": "Utagawa Hiroshige; Koshimuraya Heisuke",
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2678,
   "image_width": 1792,
+  "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "marks": " Hiroshige hitsu",
+  "markings": "Censor:kai,Murata, Kinugasa, Ox 8\r\nPublisher:Koshihei\r\nHoritake(Yokokawa Takejiro_)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Hiroshige hitsu",
   "style": "19th century",
   "text": "",
   "title": "Crossing over the Valley in Sedan Chairs, Hida Province"

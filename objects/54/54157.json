@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.54",
-  "artist": "Birney MacNabb Quick; Gerald E. Martin",
+  "artist": "Artist: Birney MacNabb Quick; Printer: Gerald E. Martin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Abby Weed Grey",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Title; Number; Stamp; Mark\r\n\r\nsee Signed",
   "life_date": "American, 1912 - 1981",
-  "marks": "Signature; Title; Number; Stamp; Mark\r\n\r\nsee Signe In pencil: [Quick]",
+  "markings": "Watermark: <BFK Rives France>\r\nChop: <M>",
   "medium": "Transfer lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil: [Quick]",
   "style": "20th century",
   "text": "",
   "title": "The Ants and the Grasshoppers"

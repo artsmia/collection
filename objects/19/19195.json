@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.242",
-  "artist": "Jules David",
+  "artist": "Artist: Jules David",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date\r\nsee Signed\r\nin ink, verso: [No 655; 1861, 1er No. de Decembre]",
   "life_date": "French, 1808 - 1892",
-  "marks": "Signature; Date\r\nsee Signed\r\nin ink, verso: [No 65 in red ink LR: [Jules David]",
+  "markings": "",
   "medium": "Ink, watercolor and gouache over graphite",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in red ink LR: [Jules David]",
   "style": "19th century",
   "text": "",
   "title": "Two Women in Conversation"

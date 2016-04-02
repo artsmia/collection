@@ -1,6 +1,7 @@
 {
   "accession_number": "P.14,822",
-  "artist": "Jean-Baptiste Martin II; Gaillard",
+  "artist": "Artist: Jean-Baptiste Martin II; Engraver: Gaillard",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "\r\n\r\n",
   "life_date": "French, active 1760 – 1788",
-  "marks": "\r\n\r\n ",
+  "markings": "\r\n",
   "medium": "Engraving, contemporary color and gilding",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Thetis"

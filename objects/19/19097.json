@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.279",
-  "artist": "Jules David",
+  "artist": "Artist: Jules David",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Date; Marks",
   "life_date": "French, 1808 - 1892",
-  "marks": "Signature; Date; Marks in red ink LL: [Jules David]",
+  "markings": "in red ink (Light), LL recto: [13 October 1888]\r\nin red ink, LR recto: [No 37]\r\nin ink, verso: [13 October 1888]",
   "medium": "Ink and watercolor over graphite heightened with gouache",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in red ink LL: [Jules David]",
   "style": "19th century",
   "text": "",
   "title": "Two Women in Ball Gowns"

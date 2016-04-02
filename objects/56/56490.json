@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,748",
-  "artist": "Jules Pascin",
+  "artist": "Artist: Jules Pascin",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund, 1941",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American (born Bulgaria), 1885 - 1930",
-  "marks": "Signature\r\n\r\nsee Signed on sheet and in plate",
+  "markings": "",
   "medium": "Color etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet and in plate",
   "style": "20th century",
   "text": "",
   "title": "La Carosse"

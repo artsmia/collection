@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.140",
-  "artist": "Nakajima Raishō",
+  "artist": "Artist: Nakajima Raishō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4450,
   "image_width": 2871,
+  "inscription": "11 haiku poems",
   "life_date": "1796 - 1871",
-  "marks": "11 haiku poems Raisho_",
+  "markings": "\\\"Raisho_\\\" seal",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Raisho_",
   "style": "19th century",
   "text": "",
   "title": "(Beach landscape)"

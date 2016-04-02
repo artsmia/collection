@@ -1,6 +1,7 @@
 {
   "accession_number": "P.19,933",
-  "artist": "Text by Daniel Giraud Elliot",
+  "artist": "Author: Text by Daniel Giraud Elliot",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, 1835-1915",
-  "marks": " ",
+  "markings": "",
   "medium": "Hand-colored lithograph",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Phasianidae.  Argus giganteus, or Great Argus Pheasant"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.25",
-  "artist": "Karen Ann Klein",
+  "artist": "Artist: Karen Ann Klein",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Harold Peterson",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\nsee Signed",
   "life_date": "American, born 1942",
-  "marks": "Signature\r\n\r\nsee Signed on sheet: [K.A. Klein]",
+  "markings": "",
   "medium": "Color photolithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on sheet: [K.A. Klein]",
   "style": "20th century",
   "text": "",
   "title": "Poster"

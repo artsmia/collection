@@ -1,6 +1,7 @@
 {
   "accession_number": "P.69.199",
-  "artist": "James Tissot",
+  "artist": "Artist: James Tissot",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5209,
   "image_width": 2785,
+  "inscription": "Signature and marks",
   "life_date": "French, 1836-1902",
-  "marks": "Signature and marks signed in pencil",
+  "markings": "chop marks",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "signed in pencil",
   "style": "19th century",
   "text": "",
   "title": "The Elder Sister"

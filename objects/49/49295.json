@@ -1,6 +1,7 @@
 {
   "accession_number": "P.58.602",
-  "artist": "Alphonse Legros",
+  "artist": "Artist: Alphonse Legros",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3506,
   "image_width": 4817,
+  "inscription": "mark",
   "life_date": "French, 1837 - 1911",
-  "marks": "mark ",
+  "markings": "LRC of plate: [NA]",
   "medium": "Etching, drypoint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "La paysage à la mare"

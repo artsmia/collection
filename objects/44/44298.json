@@ -1,6 +1,7 @@
 {
   "accession_number": "P.99.9",
-  "artist": "Charles Huntington",
+  "artist": "Artist: Charles Huntington",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Terrence D. Curley",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American (Ojibwe)",
-  "marks": "Signature; Date; Title; Edition\r\n\r\nsee Signed\r\n\r\nL LR: [C. Huntington \\'73]",
+  "inscription": "Signature; Date; Title; Edition\r\n\r\nsee Signed\r\n\r\nLR: [General MIlls]; LC: [9/3]",
+  "life_date": "American (Ojibwe), born 1925",
+  "markings": "",
   "medium": "Color lithograph",
   "nationality": "American (Ojibwe)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [C. Huntington \\'73]",
   "style": "20th century",
   "text": "",
   "title": "General Mills"

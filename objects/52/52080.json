@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,349",
-  "artist": "John Tinkey; Harper Bros; after Francis C. Jones",
+  "artist": "Artist: John Tinkey; Publisher: Harper Bros; Artist: after Francis C. Jones",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American",
-  "marks": " In plate",
+  "markings": "",
   "medium": "Wood engraving",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In plate",
   "style": "19th century",
   "text": "",
   "title": "Exchanging Confidences"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.84.38",
-  "artist": "Mariano Fortuny y De Madrayo",
+  "artist": "Artist: Mariano Fortuny y De Madrayo",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Title",
   "life_date": "Italian, 1871 - 1849",
-  "marks": "Signature, Title In pencil, lower margin",
+  "markings": "d.t.s.",
   "medium": "Etching and aquatint on light weight chip board",
   "nationality": "Italian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil, lower margin",
   "style": "19th century",
   "text": "",
   "title": "Rio a Venezia"

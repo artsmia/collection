@@ -1,6 +1,7 @@
 {
   "accession_number": "P.80.24.8",
-  "artist": "Lester Johnson",
+  "artist": "Artist: Lester Johnson",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, 1919 - 2010",
-  "marks": "Signature; Mark\r\n\r\nsee Signed in pencil: [Lester Johnson]",
+  "markings": "Watermark: <Arches>",
   "medium": "Black and white lithograph",
   "nationality": "American",
   "provenance": "Kinji Akagawa, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: [Lester Johnson]",
   "style": "20th century",
   "text": "",
   "title": "Five Figures"

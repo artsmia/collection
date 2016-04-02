@@ -1,6 +1,7 @@
 {
   "accession_number": "2002.181.4",
-  "artist": "Matthew Barney",
+  "artist": "Artist: Matthew Barney",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Martin Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2658,
   "image_width": 1744,
+  "inscription": "Signature, Date, Inscription and Edition\r\n\r\nsee Marks",
   "life_date": "American, born 1967",
-  "marks": "Signature, Date, Inscription and Edition\r\n\r\nsee Ma LRC, in pencil: [Matthew Barney 1999]",
+  "markings": "LLC, in pencil: [AP 1/3]",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Matthew Barney 1999]",
   "style": "20th century",
   "text": "",
   "title": "Untitled (Mr. Peanut)"

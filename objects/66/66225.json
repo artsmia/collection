@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,866",
-  "artist": "Paul Gauguin",
+  "artist": "Artist: Paul Gauguin",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William Hood Dunwoody Fund, 1947",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2914,
   "image_width": 4833,
+  "inscription": "Signature, Title\r\n\r\ntitle inscribed in the block, UC: soyez amoureuses vous serez heureuses\r\n\r\nnumbered in ink, LL: No. / 15",
   "life_date": "French, 1848 - 1903",
-  "marks": "Signature, Title\r\n\r\ntitle inscribed in the block,  monogram on the block, CL: [PG]",
+  "markings": "",
   "medium": "Color woodcut on Japan paper",
   "nationality": "French",
   "provenance": "[Jean Goriany, New York, N.Y., until 1947; sold June 18, for $500, to MIA].",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "monogram on the block, CL: [PG]",
   "style": "19th century",
   "text": "",
   "title": "Love, And You Will Be Happy"

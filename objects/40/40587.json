@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.258",
-  "artist": "Pierre-Adrien Dalpayrat; Dalpayrat et Lesbros",
+  "artist": "Designer: Pierre-Adrien Dalpayrat; Maker: Dalpayrat et Lesbros",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "French, 1844-1901",
-  "marks": "Signature [Dalpayrat] painted on bottom",
+  "inscription": "Signature",
+  "life_date": "French, 1844–1901",
+  "markings": "",
   "medium": "Stoneware",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G352",
+  "signed": "[Dalpayrat] painted on bottom",
   "style": "Art Nouveau",
   "text": "",
   "title": "Vase"

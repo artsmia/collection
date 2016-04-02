@@ -1,6 +1,7 @@
 {
   "accession_number": "2001.282.4",
-  "artist": "Hamilton Hamilton; After Thomas Hovenden",
+  "artist": "Artist: Hamilton Hamilton; Artist: After Thomas Hovenden",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of Martin Weinstein",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "American, born England, 1847 - 1928",
-  "marks": " \\\"Tho. Hovenden N.A.\\\", in graphite LL; \\\"Hamilton Ha",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "\\\"Tho. Hovenden N.A.\\\", in graphite LL; \\\"Hamilton Hamilton N.A.\\\", in graphite, LR",
   "style": "19th century",
   "text": "",
   "title": "In the Hands of the Enemy after Gettysburg"

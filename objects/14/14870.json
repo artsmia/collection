@@ -1,6 +1,7 @@
 {
   "accession_number": "28.83.2",
-  "artist": "Sèvres Porcelain Factory",
+  "artist": "Manufacturer: Sèvres Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Paris, 1756-present",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Paris, 1756–present",
+  "markings": "",
   "medium": "Ceramic, ormolu",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Pot, one of a pair"

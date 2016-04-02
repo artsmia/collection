@@ -1,6 +1,7 @@
 {
   "accession_number": "78.79.79",
-  "artist": "Derby Porcelain Factory",
+  "artist": "Manufacturer: Derby Porcelain Factory",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. David Williams and Mr. and Mrs. Charles Spensley from the Estate of Ida B. Williams",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Derby, England, c. 1748-1848",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Derby, England, c. 1748–1848",
+  "markings": "",
   "medium": "Soft-paste porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "",
   "title": "Sherpherdess figure"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.89.12",
-  "artist": "Louis Orr",
+  "artist": "Artist: Louis Orr",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Charles H. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1879 - 1961",
-  "marks": "Signature In pencil:  [Louis Orr]",
+  "markings": "Watermark: <BFK Rives>",
   "medium": "Etching and drypoint",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil:  [Louis Orr]",
   "style": "20th century",
   "text": "",
   "title": "Portail Jeanne d'Albret"

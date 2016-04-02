@@ -1,6 +1,7 @@
 {
   "accession_number": "P.92.6.23",
-  "artist": "Red Grooms",
+  "artist": "Artist: Red Grooms",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3950,
   "image_width": 2980,
+  "inscription": "Signed, dated, chop mark",
   "life_date": "American, born 1937",
-  "marks": "Signed, dated, chop mark LR: [Red Grooms \\'82]",
+  "markings": "LR: VEL chop mark",
   "medium": "Lithograph and colored chalk",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Red Grooms \\'82]",
   "style": "20th century",
   "text": "",
   "title": "Mayor Byrne's Mile of Sculpture"

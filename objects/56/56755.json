@@ -1,6 +1,7 @@
 {
   "accession_number": "P.6,149",
-  "artist": "George Loring Brown",
+  "artist": "Artist: George Loring Brown",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, 1814 - 1889",
-  "marks": " on lower right print",
+  "inscription": "",
+  "life_date": "American, 1814–1889",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on lower right print",
   "style": "19th century",
   "text": "",
   "title": "The Falls of Tivoli"

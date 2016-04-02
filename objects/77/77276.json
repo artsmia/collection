@@ -1,6 +1,7 @@
 {
   "accession_number": "P.17,305",
-  "artist": "Giovanni Battista Piranesi; Giovanni Battista Piranesi",
+  "artist": "Artist: Giovanni Battista Piranesi; Etcher: Giovanni Battista Piranesi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Italian, 1720-1778",
-  "marks": "Signature and inscription\r\nInscription on cartouch Signed: [Cavalier Piranesi del & inc.]",
+  "inscription": "Signature and inscription\r\nInscription on cartouche: [Rovine d\\'una Galleria di Statue nella Villa Adriana a Tivoli]",
+  "life_date": "Italian, 1720–1778",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed: [Cavalier Piranesi del & inc.]",
   "style": "18th century",
   "text": "",
   "title": "Hadrian's Villa: The Central Room of the Larger Thermae"

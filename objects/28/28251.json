@@ -1,6 +1,7 @@
 {
   "accession_number": "93.82.2",
-  "artist": "Russell Cowles",
+  "artist": "Artist: Russell Cowles",
+  "classification": "Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Rev. Richard Lewis Hillstrom",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 0,
   "image_width": 0,
+  "inscription": "Signature; Mark",
   "life_date": "American, 1887 - 1979",
-  "marks": "Signature; Mark LR: [Russell Cowles]",
+  "markings": "Watermark: illegible script (partial only)",
   "medium": "Graphite on paper",
   "nationality": "American",
   "provenance": "[Kraushaar Galleries, New York, until 1972 (sold to Hillstrom)]; Rev. Richard Lewis Hillstrom, St. Paul, 1972-93; gave to MIA",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Russell Cowles]",
   "style": "20th century",
   "text": "",
   "title": "Nude Study"

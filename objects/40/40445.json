@@ -1,6 +1,7 @@
 {
   "accession_number": "98.276.145",
-  "artist": "Josef Maria Olbrich; Metallwarren-Fabrik E. Hueck",
+  "artist": "Designer: Josef Maria Olbrich; Manufacturer: Metallwarren-Fabrik E. Hueck",
+  "classification": "Metalwork",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 1920,
   "image_width": 714,
-  "life_date": "Austrian, 1867-1908",
-  "marks": "Marks, Date ",
+  "inscription": "Marks, Date",
+  "life_date": "Austrian, 1867–1908",
+  "markings": "Stamped monogram, stamped manufacturer\\'s mark, \\'1901\\' on bottom",
   "medium": "Pewter",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "Art Nouveau",
   "text": "",
   "title": "Schnapps decanter"

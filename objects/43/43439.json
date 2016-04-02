@@ -1,6 +1,7 @@
 {
   "accession_number": "P.93.1.3",
-  "artist": "Duncan Hannah",
+  "artist": "Maker: Duncan Hannah",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Art Accessions Endowment Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Duncan Hannah",
   "image_height": 2753,
   "image_width": 3861,
+  "inscription": "Signed, dated, numbered, chop mark",
   "life_date": "American, born 1952",
-  "marks": "Signed, dated, numbered, chop mark LR: [SP 4/8 Duncan Hannah 91]",
+  "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [SP 4/8 Duncan Hannah 91]",
   "style": "20th century",
   "text": "",
   "title": "Under the El II"

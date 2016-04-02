@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.84",
-  "artist": "Pierre Thomas Le Clerc",
+  "artist": "Artist: Pierre Thomas Le Clerc",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4260,
   "image_width": 3193,
+  "inscription": "Inscription\r\n[Femme en robe à la Polonaise remettant sa jarretière et laissant voir sa belle jambe.] on mat",
   "life_date": "French, born 1740",
-  "marks": "Inscription\r\n[Femme en robe à la Polonaise remetta ",
+  "markings": "",
   "medium": "Sepia",
   "nationality": "French",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Woman in a Dress in the Polish Style"

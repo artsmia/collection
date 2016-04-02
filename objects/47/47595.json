@@ -1,6 +1,7 @@
 {
   "accession_number": "P.12,435",
-  "artist": "Albrecht Dürer",
+  "artist": "Artist: Albrecht Dürer",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mr. Richard P. Gale, 1956",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "German, 1471 - 1528",
-  "marks": "Mark ",
+  "inscription": "Mark",
+  "life_date": "German, 1471–1528",
+  "markings": "Watermark: indistinguishable",
   "medium": "Woodcut",
   "nationality": "German",
   "provenance": "black stamp verso, P. Gellatly (L. 1185)",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "Adoration of the Magi"

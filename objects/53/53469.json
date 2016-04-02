@@ -1,6 +1,7 @@
 {
   "accession_number": "P.11,664",
-  "artist": "Childe Hassam",
+  "artist": "Artist: Childe Hassam",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mrs. Childe Hassam, 1940",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "In plate at U.R. is \\\"Childe Hassam New Orleans Feb 14th 1927\\\"\r\nIn plate at L. L. is artist\\'s monogram and \\\"Studio May 5 1927\\\"",
   "life_date": "American, 1859 - 1935",
-  "marks": "In plate at U.R. is \\\"Childe Hassam New Orleans Feb In pencil and twice in plate at L.L. and U.R.",
+  "markings": "",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "In pencil and twice in plate at L.L. and U.R.",
   "style": "20th century",
   "text": "",
   "title": "New Orleans"

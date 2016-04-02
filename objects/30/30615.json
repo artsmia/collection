@@ -1,6 +1,7 @@
 {
   "accession_number": "98.18.2.2",
-  "artist": "Kan Tenjū",
+  "artist": "Artist: Kan Tenjū",
+  "classification": "Books",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3706,
   "image_width": 4570,
+  "inscription": "Chinese poems on each page",
   "life_date": "1727 - 1795",
-  "marks": "Chinese poems on each page Shinsuitei Tenju utsusu",
+  "markings": "\\\"Copied by Tenju in Osaka, 1768\\\" on the page 15",
   "medium": "Woodblock printed book; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Shinsuitei Tenju utsusu",
   "style": "18th-19th century",
   "text": "",
   "title": "Landscape Sketches by Ike Taiga"

@@ -1,6 +1,7 @@
 {
   "accession_number": "66.25.194",
-  "artist": "William Hayes",
+  "artist": "Maker: William Hayes",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3421,
   "image_width": 4208,
+  "inscription": "Signature, date",
   "life_date": "British, 1729 - 1799",
-  "marks": "Signature, date LR: [WHayes 1799]",
+  "markings": "",
   "medium": "Pen and ink, watercolor",
   "nationality": "British",
   "provenance": "Dwight and Helen Minnich",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [WHayes 1799]",
   "style": "18th century",
   "text": "",
   "title": "Collared Purple Creeper, Male"

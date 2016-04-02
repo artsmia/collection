@@ -1,6 +1,7 @@
 {
   "accession_number": "56.50",
-  "artist": "Patrick R. Dinon",
+  "artist": "Artist: Patrick R. Dinon",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Special Purchase Award Fund given by Kirk Douglas",
@@ -14,8 +15,9 @@
   "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 4187,
   "image_width": 5576,
+  "inscription": "Signature and Date",
   "life_date": "American",
-  "marks": "Signature and Date LR: [Patrick R. Dinon, 7-10-56]",
+  "markings": "",
   "medium": "Tempera glazed",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Patrick R. Dinon, 7-10-56]",
   "style": "20th century",
   "text": "",
   "title": "Northern Garden"

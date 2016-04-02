@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.27.165",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of funds from Mr. and Mrs. Samuel H. Maslon",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3441,
   "image_width": 4400,
+  "inscription": "7 poems",
   "life_date": null,
-  "marks": "7 poems ",
+  "markings": "LR: {Sakuraan} (could be the artist\\'s name or poetry circle name, unconfirmed); LRC: Unread red artist\\'s seal: {Tazan} or {Kaizan}",
   "medium": "Woodblock print (surimono); ink and color on paper with embossing",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "19th century",
   "text": "Signed Sakura-an, literally \"Cherry Hermitage,\" this print depicts two white egrets resting amid water reeds. Although the identity of the artist is unknown, he demonstrates a clever approach to his subject. The egrets' long beaks echo the shape of the reeds and their plumage is rendered solely through embossing, suggesting how easily they are \"camouflaged\" in their natural setting. Though subtle, the artist captured the natural elegance of these egrets. ",
   "title": "Egrets and Reeds"

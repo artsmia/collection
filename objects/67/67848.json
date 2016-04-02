@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,950",
-  "artist": "Katsukawa Shunzan; Published by Nishimuraya Yohachi",
+  "artist": "Artist: Katsukawa Shunzan; Publisher: Published by Nishimuraya Yohachi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2798,
   "image_width": 1972,
-  "life_date": "Japanese, fl. c. 1782-1798",
-  "marks": " {Shunzan ga}",
+  "inscription": "",
+  "life_date": "Japanese",
+  "markings": "Publisher\\'s seal: {Eijudō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunzan ga}",
   "style": "18th century",
   "text": "",
   "title": "Visitors at the Gate of Asakusa Temple"

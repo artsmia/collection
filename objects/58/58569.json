@@ -1,6 +1,7 @@
 {
   "accession_number": "P.87.11.5",
-  "artist": "Tom Attridge; Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Tom Attridge; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2870,
   "image_width": 3682,
+  "inscription": "Signed, dated, numbered, titled, and chop mark.",
   "life_date": "American, born 1939",
-  "marks": "Signed, dated, numbered, titled, and chop mark. LR: [Tom Attridge 84]\r\nLL: [Artist Proof 2/4]\r\nLC:",
+  "markings": "LR: VEL chop mark",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LR: [Tom Attridge 84]\r\nLL: [Artist Proof 2/4]\r\nLC: [\\\"Court Order\\\"]\r\n",
   "style": "20th century",
   "text": "",
   "title": "Court Order"

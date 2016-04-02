@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,891",
-  "artist": "Allen Jones; Published by Editions Alecto, London",
+  "artist": "Artist: Allen Jones; Publisher: Published by Editions Alecto, London",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Winton Jones, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Mark",
   "life_date": "British, born 1937",
-  "marks": "Signature, Mark in pencil: Allen Jones",
+  "markings": "chop marks",
   "medium": "Color lithograph",
   "nationality": "British",
   "provenance": "[Associated American Artists, New York]; Winton Jones, Wayzata, Minn.",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "in pencil: Allen Jones",
   "style": "20th century",
   "text": "",
   "title": "Plate 5, from \"Concerning Marriages\""

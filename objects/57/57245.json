@@ -1,6 +1,7 @@
 {
   "accession_number": "P.76.28.20",
-  "artist": "DeWitt Hardy",
+  "artist": "Artist: DeWitt Hardy",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Christopher A. Graf",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1940",
-  "marks": "Signature; Mark\r\n\r\nsee Signed top left",
+  "markings": "chop mark",
   "medium": "Lithograph",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "top left",
   "style": "20th century",
   "text": "",
   "title": "Couple on Bed"

@@ -1,6 +1,7 @@
 {
   "accession_number": "P.5,679",
-  "artist": "Rudolf von Alt; Published by Die Graphischen Künste",
+  "artist": "Artist: Rudolf von Alt; Publisher: Published by Die Graphischen Künste",
+  "classification": "Prints",
   "continent": null,
   "country": null,
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "Austrian, 1812 - 1905",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "Austrian, 1812–1905",
+  "markings": "",
   "medium": "Etching",
   "nationality": "Austrian",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Church Facade"
