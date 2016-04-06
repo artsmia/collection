@@ -1,6 +1,7 @@
 {
   "accession_number": "2004.22.2",
-  "artist": "Augustin-Felix Fortuney",
+  "artist": "Artist: Augustin-Felix Fortuney",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Allen Brookins-Brown",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "French, 1878-1950",
-  "marks": "Signature LLC, in light blue: [Fortuney]",
+  "markings": "",
   "medium": "Pastel on paper",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC, in light blue: [Fortuney]",
   "style": "19th-20th century",
   "text": "",
   "title": "Boulevard des Capucines, Paris"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2005.28.1",
-  "artist": "Man Ray (Emmanuel Rudnitsky)",
+  "artist": "Photographer: Man Ray (Emmanuel Rudnitsky)",
+  "classification": "Photographs",
   "continent": null,
   "country": "United States",
   "creditline": "The Alfred and Ingrid Lenz Harrison Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© Man Ray Trust %2F Artists Rights Society %28ARS%29%2C NY %2F ADAGP%2C Paris",
   "image_height": 4680,
   "image_width": 3636,
+  "inscription": "Signature and Inscription\r\n\r\non back, in pencil: various notations",
   "life_date": "American, 1890 - 1976",
-  "marks": "Signature and Inscription\r\n\r\non back, in pencil: v LRC, in black ink: [Man Ray]",
+  "markings": "",
   "medium": "Gelatin silver print",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in black ink: [Man Ray]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Lee Miller"
