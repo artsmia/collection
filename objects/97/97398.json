@@ -1,6 +1,7 @@
 {
   "accession_number": "81.133.258",
-  "artist": "Signature of Torii Kiyonaga",
+  "artist": "Artist: Signature of Torii Kiyonaga",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2735,
   "image_width": 1926,
+  "inscription": "2 names along Katsuyama unread, the names of her attendants",
   "life_date": "Japanese, 1752 - 1815",
-  "marks": "2 names along Katsuyama unread, the names of her a {Kiyonaga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Kiyonaga}",
   "style": "19th century",
-  "text": "",
+  "text": "Signature is not by Kiyonaga but added later.",
   "title": "The Courtesan Katsuyama of the Echizenya House"
 }
