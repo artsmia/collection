@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,966",
-  "artist": "Isoda Koryūsai",
+  "artist": "Artist: Isoda Koryūsai",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2997,
   "image_width": 537,
+  "inscription": "",
   "life_date": "Japanese, 1735 - 1790 ?",
-  "marks": " [湖龍齋画] {Koryūsai ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "Ficke; Metzgar",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "[湖龍齋画] {Koryūsai ga}",
   "style": "18th century",
   "text": "",
   "title": "Girl Cooling on Veranda"

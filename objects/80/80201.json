@@ -1,6 +1,7 @@
 {
   "accession_number": "B.83.11.3",
-  "artist": "Alberto Giacometti; Text by René Crevel; Louis Broder; George Leblanc, Paris",
+  "artist": "Artist: Alberto Giacometti , et al.; Author: Text by René Crevel; Publisher: Louis Broder; Printer: George Leblanc, Paris",
+  "classification": "Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -14,8 +15,9 @@
   "image_copyright": "©Estate of Alberto Giacometti %2F Artists Rights Society %28ARS%29%2C New York %2F VAGA%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature; Edition; Mark\r\n",
   "life_date": "Swiss, 1901 - 1966",
-  "marks": "Signature; Mark\r\n Signed in pencil",
+  "markings": "Watermark: <BFK RIVES>",
   "medium": "Etching",
   "nationality": "Swiss",
   "provenance": "(Lucien Goldschmidt, New York); Bruce B. Dayton, Wayzata, Minn.; given to MIA, 1983.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed in pencil",
   "style": "20th century",
   "text": "",
   "title": "Feuilles Eparses"
