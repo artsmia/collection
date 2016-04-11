@@ -1,11 +1,12 @@
 {
   "accession_number": "96.146.332a-e",
-  "artist": "Hosoda Eiri; Published by Maruya Bun'emon",
+  "artist": "Artist: Hosoda Eiri; Publisher: Published by Maruya Bun'emon",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
   "culture": null,
-  "dated": "c. 1790s",
+  "dated": "late 1790s",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "15 1/16 × 49 1/2 in. (38.2 × 125.7 cm) (vertical ōban pentaptych)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2848,
   "image_width": 1914,
+  "inscription": "",
   "life_date": "Japanese, fl. 1790-1800",
-  "marks": " {Rekisentei Eiri ga}",
+  "markings": "Publisher:Marubun",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Rekisentei Eiri ga}",
   "style": "18th-19th century",
   "text": "",
-  "title": "(Young Nobleman and Courtesans in a Procession)"
+  "title": "Nobleman Visiting a Lady"
 }

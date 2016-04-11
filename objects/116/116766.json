@@ -1,11 +1,12 @@
 {
   "accession_number": "2013.29.1034",
-  "artist": "Katsukawa Shunshō",
+  "artist": "Artist: Katsukawa Shunshō",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
   "culture": null,
-  "dated": "c. 1775",
+  "dated": "c. 1770-1773",
   "department": "Japanese and Korean Art",
   "description": "two men seated in tatami room; older man, wide stance, wearing large black robe and tall headdress sits on a carpet; in front, a younger man with pink robe kneels, offering a plum branch with a bird; clouds at top and LR with inscription",
   "dimension": "8 7/8 × 6 3/16 in. (22.54 × 15.72 cm) (sheet, chūban)",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3872,
   "image_width": 2592,
+  "inscription": "poem unread",
   "life_date": "Japanese, 1726 - 1793",
-  "marks": "poem unread {Shunshō ga}",
+  "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "{Shunshō ga}",
   "style": "18th century",
-  "text": "",
-  "title": "Tales of Ise in Fashionable Brocade on 24 Sheets"
+  "text": "Number 24 in the series, which follows the iroha-system.",
+  "title": "The Syllable U: A Gift of an Artifical Plum Branch and Pheasant"
 }

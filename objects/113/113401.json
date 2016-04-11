@@ -1,6 +1,7 @@
 {
   "accession_number": "2011.94.11",
-  "artist": "Richard Serra; Published by Gemini G.E.L., Los Angeles",
+  "artist": "Artist: Richard Serra; Publisher: Published by Gemini G.E.L., Los Angeles",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift",
@@ -14,8 +15,9 @@
   "image_copyright": "© Richard Serra %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature, Date, Edition, and Chopmarks\r\n\r\nSee Signed \r\n\r\nNumbered in pencil, LLC: [7/65];",
   "life_date": "American, born 1939",
-  "marks": "Signature, Date, Edition, and Chopmarks\r\n\r\nSee Sig Signed, dated in pencil, LR: [R. Serra 95]",
+  "markings": "two chopmarks at LRC",
   "medium": "Etching",
   "nationality": "American",
   "provenance": "Private collection, Minneapolis",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Signed, dated in pencil, LR: [R. Serra 95]",
   "style": "20th century",
   "text": "",
   "title": "Jump Start"
