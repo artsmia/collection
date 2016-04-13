@@ -1,6 +1,7 @@
 {
   "accession_number": "77.30",
-  "artist": "Claude Charles Saunier",
+  "artist": "Artist: Claude Charles Saunier",
+  "classification": "Furniture",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the Groves Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 3160,
   "image_width": 4198,
-  "life_date": "French, active c. 1750-70",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "French, active c. 1750–70",
+  "markings": "",
   "medium": "Lacquered wood with gilt bronze mounts and marble top",
   "nationality": "French",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G310",
+  "signed": "",
   "style": "18th century",
-  "text": "This cabinet by Claude Charles Saunier displays the refined, rectilinear characteristics of the neoclassical style combined with Japanese-style lacquer panels and restrained gilt bronze mounts.",
+  "text": "This cabinet displays the refined, rectilinear characteristics of the neoclassical style combined with Japanese-style lacquer panels and restrained gilt-bronze mounts.",
   "title": "Cabinet"
 }
