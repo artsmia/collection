@@ -1,6 +1,7 @@
 {
   "accession_number": "2004.151.3",
-  "artist": "Ernst Ludwig Kirchner",
+  "artist": "Artist: Ernst Ludwig Kirchner",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of funds from John E. Andrus III",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 2438,
   "image_width": 1915,
+  "inscription": "Signature, Title, Inscription and Stamp\r\n\r\non back: various pencil inscriptions",
   "life_date": "German, 1880 - 1938",
-  "marks": "Signature, title, Inscription and stamp\r\n\r\non back below image, in black ink: [Probednick (illegible)",
+  "markings": "verso: two stamps",
   "medium": "Drypoint",
   "nationality": "German",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "below image, in black ink: [Probedruck (illegible) Dr Redslob.  E L Kirchner]",
   "style": "20th century",
   "text": "",
   "title": "Portrait of Dr. Redslob"
