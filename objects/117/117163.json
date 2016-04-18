@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.29.146",
-  "artist": "Fukuda Kodōjin",
+  "artist": "Artist: Fukuda Kodōjin",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7524,
   "image_width": 1854,
+  "inscription": "Signature, Inscription, and Seals\r\n\r\nURQ",
   "life_date": "Japanese, 1865 - 1944",
-  "marks": "Signature, Inscription, and Seals\r\n\r\nURQ URC",
+  "markings": "URC, rectangular relief, square intaglio, square relief; LLC, rectangular intaglio",
   "medium": "Ink and colors on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "URC",
   "style": "20th century",
   "text": "",
   "title": "Abandoning my Oars in the Pure Valley"
