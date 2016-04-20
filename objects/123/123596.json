@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.100.34",
-  "artist": "Stuart Mead; Andy Baird; Mike Brehm; Robert Corbit; Mike DeVoni; Frank Gaard; Sharyn Gaard Jacobs; Chris Karcher; Mike McCoy; Denise Monaghan; Ann Morgan; M. Louise Stanley; Chris Woodward; Published by Artpolice",
+  "artist": "Artist: Stuart Mead; Artist: Andy Baird; Artist: Mike Brehm; Artist: Robert Corbit; Artist: Mike DeVoni; Artist: Frank Gaard; Artist: Sharyn Gaard Jacobs; Artist: Chris Karcher; Artist: Mike McCoy; Artist: Denise Monaghan; Artist: Ann Morgan; Artist: M. Louise Stanley; Artist: Chris Woodward; Publisher: Published by Artpolice",
+  "classification": "Works on Paper",
   "continent": "North America",
   "country": "United States",
   "creditline": "Transfer from the Reference Collection",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1955",
-  "marks": " ",
+  "inscription": "",
+  "life_date": "American, born 1944",
+  "markings": "",
   "medium": "Printed paper",
   "nationality": "American",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": null,
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Artpolice, Vol. 17, No. 2"

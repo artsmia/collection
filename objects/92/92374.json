@@ -1,6 +1,7 @@
 {
   "accession_number": "2004.160",
-  "artist": "Francesco Clemente; Published by Anthony d'Offay, London",
+  "artist": "Artist: Francesco Clemente; Publisher: Published by Anthony d'Offay, London",
+  "classification": "Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Ann H. Nielsen",
@@ -14,8 +15,9 @@
   "image_copyright": "©Francesco Clemente",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "Italian, born 1952",
-  "marks": "Signature on colophon page, in pencil: [Francesco Clemente]",
+  "markings": "",
   "medium": "Color offset lithographs on handmade paper; letterpress",
   "nationality": "Italian",
   "provenance": "Ann H. Nielsen",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on colophon page, in pencil: [Francesco Clemente]",
   "style": "20th century",
   "text": "",
   "title": "Francesco Clemente Pastels 1980"
