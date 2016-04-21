@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.91.1",
-  "artist": "Ellsworth Kelly",
+  "artist": "Artist: Ellsworth Kelly",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "© 2015 Ellsworth Kelly",
   "image_height": "",
   "image_width": "",
-  "life_date": "American, born 1923",
-  "marks": "Signature, Inscription, Edition, Mark and Stamp\r\n\r LRC, in pencil: [Kelly]",
+  "inscription": "Signature, Inscription, Edition, Mark and Stamp\r\n\r\nLLC on back, in pencil: [EK81-3063]",
+  "life_date": "American, 1923 - 2015",
+  "markings": "LLC, in pencil: [AP VII/IX]; LRC, impressed in paper: [© II (inside a circle)]; LLC on back, stamped in grey: [Gemini G.E.L., Los Angeles]",
   "medium": "Etching and aquatint",
   "nationality": "American",
   "provenance": "(Castelli Graphics, New York). (Christie’s, New York, February 12, 2015, sold to Young); (Charles Young Fine Prints and Drawings, Portland, Conn.).",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Kelly]",
   "style": "20th century",
   "text": "Ellsworth Kelly distills the observed and experienced world into abstracted forms or fragments. He articulates these reductive geometric shapes in sculpture, paintings, and prints, by emphasizing their physical and material qualities—size, shape, color, mass, edges, and surface texture. The result, as seen in this monochromatic intaglio print, is elegant in its stark simplicity and conceptual refinement. A prolific printmaker, Kelly has produced more than 300 editioned prints during his seven-decade career.",
   "title": "Concorde I"
