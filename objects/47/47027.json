@@ -1,14 +1,14 @@
 {
   "accession_number": "2001.94.3",
-  "artist": "Artist: Henri de Toulouse-Lautrec",
+  "artist": "Artist: Henri de Toulouse-Lautrec , et al.; Publisher: La Dépêche de Toulouse (France)",
   "classification": "Books",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
   "culture": null,
-  "dated": "19th century",
+  "dated": "1894",
   "department": "Prints and Drawings",
-  "description": "Illustrated exhibition catalogue with 17 lithographs by 17 artists",
+  "description": "Illustrated exhibition catalogue with 17 lithographs by 17 artists; 36 pages",
   "dimension": "7-3/8 x 5-7/16 x 1/8 in. (18.7 x 13.8 x 0.3 cm)",
   "id": "http://api.artsmia.org/objects/47027",
   "image": "invalid",
@@ -18,7 +18,7 @@
   "inscription": "",
   "life_date": "French, 1864 - 1901",
   "markings": "",
-  "medium": "Lithographs, letterpress",
+  "medium": "Lithographs, letterpress; bound volume",
   "nationality": "French",
   "provenance": "",
   "restricted": 0,
@@ -28,5 +28,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Exposition de la Dépêche de Toulouse (The Toulouse Dispatch)"
+  "title": "Exposition de la Dépêche de Toulouse"
 }
