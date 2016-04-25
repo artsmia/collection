@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.29.172",
-  "artist": "Ike Taiga",
+  "artist": "Artist: Ike Taiga",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5145,
   "image_width": 2219,
+  "inscription": "Signature and Seals",
   "life_date": "Japanese, 1723 - 1776",
-  "marks": "Signature and Seals LLC",
+  "markings": "R edge, center, rectangular relief; LL edge, square intaglio; LL edge, square intaglio",
   "medium": "Hanging scroll; ink and light color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLC",
   "style": "18th century",
   "text": "",
-  "title": "Hannya Heart Sutra"
+  "title": "Landscape with the Heart Sutra"
 }
