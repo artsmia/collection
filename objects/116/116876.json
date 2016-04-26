@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.29.1119a,b",
-  "artist": "Suemura Shōbun",
+  "artist": "Artist: Suemura Shōbun",
+  "classification": "Bamboo work",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -10,12 +11,13 @@
   "description": "cone-shaped hanging basket with very open weave; small uneven opening near upper center; tighter weave at base; internal two-tiered cone inside",
   "dimension": "20 3/8 × 4 9/16 × 4 3/8 in. (51.75 × 11.59 × 11.11 cm)",
   "id": "http://api.artsmia.org/objects/116876",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "life_date": null,
-  "marks": "Signature carved on tab, upper center, on back: [  笙文 ] {Shō",
+  "image_height": 4088,
+  "image_width": 2720,
+  "inscription": "Signature",
+  "life_date": "Japanese, 1917 - 2000",
+  "markings": "",
   "medium": "Bamboo, rattan, lacquer",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "carved on tab, upper center, on back: [  笙文 ] {Shōbun}",
   "style": "20th century",
   "text": "",
-  "title": "(Reed-like hanging flower basket)"
+  "title": "Reed-like hanging flower basket"
 }

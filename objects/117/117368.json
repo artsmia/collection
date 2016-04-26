@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.29.306",
-  "artist": "Fukami Sueharu",
+  "artist": "Artist: Fukami Sueharu",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by the artist",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 4079,
   "image_width": 4376,
+  "inscription": "Signature and Marks",
   "life_date": "Japanese, born 1947",
-  "marks": "Signature and Marks bottom of jar, in marker, in Japanese",
+  "markings": "on bottom, in marker: [5.39.3.19]",
   "medium": "Stoneware with white and matte black glaze",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom of jar, in marker, in Japanese",
   "style": "20th century",
   "text": "",
-  "title": "Pot (tsubo)"
+  "title": "White jar"
 }

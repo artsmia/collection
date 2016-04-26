@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.31.169",
-  "artist": "Suemura Shōbun",
+  "artist": "Artist: Suemura Shōbun",
+  "classification": "Bamboo work",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
@@ -10,12 +11,13 @@
   "description": "open fan-shaped basket with open weave; basket slopes downward toward curved edge; gathered ripples at upper center of \"fan\"; raised lip at bottom with closed, decorative weave",
   "dimension": "7 1/8 × 22 1/4 × 14 1/4 in. (18.1 × 56.52 × 36.2 cm)",
   "id": "http://api.artsmia.org/objects/118369",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "life_date": null,
-  "marks": "Signature incised on side near gathers: [Shōbun]",
+  "image_height": 2487,
+  "image_width": 3234,
+  "inscription": "Signature",
+  "life_date": "Japanese, 1917 - 2000",
+  "markings": "",
   "medium": "Bamboo (madake), lacquer",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "incised on side near gathers: [Shōbun]",
   "style": "20th century",
   "text": "This skillfully made fruit basket in the shape of an opened fan was submitted to the Japan Fine Arts Exhibition (Nitten) in 1957. The intricate weave and embellished form draw from karamono (Chinese-style baskets) and make a striking contrast with some of the more overtly organic bamboo objects by Eastern Japanese artists.",
-  "title": "(Fan-shaped fruit basket)"
+  "title": "Fan-shaped fruit basket"
 }

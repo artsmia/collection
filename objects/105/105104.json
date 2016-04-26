@@ -1,6 +1,7 @@
 {
   "accession_number": "2007.106.13",
-  "artist": "Fukami Sueharu",
+  "artist": "Artist: Fukami Sueharu",
+  "classification": "Ceramics",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The Paul C. Johnson, Jr. Fund",
@@ -14,16 +15,18 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature\r\n\r\n",
   "life_date": "Japanese, born 1947",
-  "marks": "Signature\r\n\r\n on bottom, incised (in Japanese): [Sue]",
-  "medium": "Glazed porcelain (seihakuji)",
+  "markings": "",
+  "medium": "Porcelain with pale bluish glaze (seihakuji)",
   "nationality": "Japanese",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "on bottom, incised (in Japanese): [Sue]",
   "style": "20th century",
   "text": "",
-  "title": "\"Pure-pure\""
+  "title": "Pure-pure"
 }
