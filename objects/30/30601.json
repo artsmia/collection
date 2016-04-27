@@ -1,6 +1,7 @@
 {
   "accession_number": "98.142",
-  "artist": "Norman Rockwell",
+  "artist": "Artist: Norman Rockwell",
+  "classification": "Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Virginia J. Wimmer",
@@ -14,8 +15,9 @@
   "image_copyright": "© 1958 Norman Rockwell",
   "image_height": "",
   "image_width": "",
+  "inscription": "Signature",
   "life_date": "American, 1894 - 1978",
-  "marks": "Signature Lr",
+  "markings": "",
   "medium": "Oil on linen",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "Lr",
   "style": "20th century",
   "text": "",
   "title": "Boy and Dog:  For Sale"
