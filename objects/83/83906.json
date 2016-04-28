@@ -1,6 +1,7 @@
 {
   "accession_number": "2004.21.4",
-  "artist": "Jacques Villon",
+  "artist": "Artist: Jacques Villon",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Barbara Mackey Kaerwer",
@@ -14,16 +15,18 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 2877,
   "image_width": 1966,
-  "life_date": "French, 1875 - 1963",
-  "marks": "Signature and edition LRC, in pencil: [Jacques Villon]; LLQ in the plate",
-  "medium": "Etching and aquatint",
+  "inscription": "Signature, Edition\r\n\r\nLLC, in pencil: [10/30]",
+  "life_date": "French, 1875–1963",
+  "markings": "",
+  "medium": "Etching, drypoint, and aquatint",
   "nationality": "French",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [Jacques Villon]; LLQ in the plate: [Jacques Villon]",
   "style": "20th century",
   "text": "",
-  "title": "Minne aux Poupées"
+  "title": "Minne aux poupées"
 }

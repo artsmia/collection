@@ -1,6 +1,7 @@
 {
   "accession_number": "P.77.28.7",
-  "artist": "Tsuchiya Kōitsu; Published by Kawaguchi Jirō; Carved by Maeda Kentarō; Printed by Komatsu Wasankichi",
+  "artist": "Artist: Tsuchiya Kōitsu; Publisher: Published by Kawaguchi Jirō; Carver: Carved by Maeda Kentarō; Printer: Printed by Komatsu Wasankichi",
+  "classification": "Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Paul Schweitzer",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5000,
   "image_width": 3494,
+  "inscription": "right: 日光五重塔 {Nikkō gojū no tō} | LL margin: 彫前田摺小松　版権所有 {Hori Maeda suri Komatsu, Hanken shoyū}",
   "life_date": "Japanese, 1870 - 1949",
-  "marks": "right: 日光五重塔 {Nikkō gojū no tō} | LL margin: 彫前田摺小 ",
+  "markings": "LRC, red artist\\'s seal: 光逸 {Kōitsu} | LR margin, publisher\\'s seal: カワグチ {Kawaguchi}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Five-storied Pagoda at Nikkō [dark sky]"

@@ -1,6 +1,7 @@
 {
   "accession_number": "2004.21.2",
-  "artist": "Jacques Villon",
+  "artist": "Artist: Jacques Villon",
+  "classification": "Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Barbara Mackey Kaerwer",
@@ -14,8 +15,9 @@
   "image_copyright": "© Artists Rights Society %28ARS%29%2C New York %2F ADAGP%2C Paris",
   "image_height": 2601,
   "image_width": 1891,
-  "life_date": "French, 1875 - 1963",
-  "marks": "Signature, date and stamp LLQ, in plate: [Jacques Villon/ 07]; LRC, in penci",
+  "inscription": "Signature, Date, Mark",
+  "life_date": "French, 1875–1963",
+  "markings": "Publisher\\'s blindstamp, LRC: ED SAGOT/ Editeur/ PARIS",
   "medium": "Etching and aquatint",
   "nationality": "French",
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LLQ, in plate: [Jacques Villon/ 07]; LRC, in pencil: [Jacques Villon]",
   "style": "20th century",
   "text": "",
   "title": "Soldat astiquant"
