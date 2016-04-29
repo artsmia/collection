@@ -1,6 +1,7 @@
 {
   "accession_number": "31.9.11",
-  "artist": "Worcester Porcelain Works (a.k.a. Royal Worcester Porcelain Company)",
+  "artist": "Maker: Worcester Porcelain Works (a.k.a. Royal Worcester Porcelain Company)",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of James Ford and Louise H. Bell in memory of James S. and Sallie M. Bell",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": "Worcester, England, est. 1751",
-  "marks": " ",
+  "markings": "",
   "medium": "Porcelain",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G336",
+  "signed": "",
   "style": "18th century",
   "text": "",
   "title": "Tea cup, from a tea service"
