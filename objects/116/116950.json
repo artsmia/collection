@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.29.118a,b",
-  "artist": "Tanabe Chikuunsai",
+  "artist": "Artist: Tanabe Chikuunsai",
+  "classification": "Bamboo work",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 7060,
   "image_width": 4696,
+  "inscription": "",
   "life_date": "Japanese, 1877 - 1937",
-  "marks": " bottom of basket: [ 竹雲斎造之 ]",
+  "markings": "",
   "medium": "Bamboo, lacquer",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "bottom of basket: 竹雲斎造之",
   "style": "20th century",
   "text": "",
-  "title": "(Openwork octagonal flower basket)"
+  "title": "Openwork octagonal flower basket"
 }
