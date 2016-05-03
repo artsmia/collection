@@ -6,10 +6,10 @@
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
-  "dated": "1795",
+  "dated": "1794, 1st month",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "12 9/16 × 8 1/2 in. (31.9 × 21.6 cm) (image, sheet, aiban)",
+  "dimension": "12 9/16 × 8 1/2 in. (31.9 × 21.6 cm) (image, sheet, vertical aiban)",
   "id": "http://api.artsmia.org/objects/20086",
   "image": "valid",
   "image_copyright": "",
@@ -17,7 +17,7 @@
   "image_width": 3381,
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
-  "markings": "Censor: kiwame; publisher\\'s seal: {Emiya}",
+  "markings": "Censor seal: 極 {kiwame}; publisher\\'s seal: {Emiya}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "provenance": "",
@@ -25,8 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "{Shun\\'ei ga}",
+  "signed": "春英画 {Shun\\'ei ga}",
   "style": "18th century",
-  "text": "",
-  "title": "Bandō Hikosaburō III as Kudō Suketsune"
+  "text": "Related to the play \"Gohiiki no hana aikyō Soga,\" performed at the Kawarazaki Theater in the first month of 1794.",
+  "title": "Actor Bandō Hikosaburō III as Kudō Suketsune"
 }
