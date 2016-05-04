@@ -1,6 +1,7 @@
 {
   "accession_number": "77.74",
-  "artist": "Unknown Russian",
+  "artist": "Artist: Unknown Russian",
+  "classification": "Drawings",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "Gift of Mr. and Mrs. Patrick Butler",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "marks": " ",
+  "markings": "",
   "medium": "Tempera and gilding",
   "nationality": null,
   "provenance": "",
@@ -23,6 +25,7 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "",
   "style": "16th century",
   "text": "",
   "title": "St. Mark"
