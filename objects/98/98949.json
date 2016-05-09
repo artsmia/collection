@@ -1,6 +1,7 @@
 {
   "accession_number": "2006.15",
-  "artist": "Kiki Smith; Published by Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Kiki Smith; Artist: Published by Universal Limited Art Editions (ULAE)",
+  "classification": "Prints",
   "continent": null,
   "country": "United States",
   "creditline": "The Richard Lewis Hillstrom Fund",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 5779,
   "image_width": 4763,
+  "inscription": "Signature, Date, Edition, Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: 28/28\r\n\r\nNumbered in pencil, LLC: [28/28]",
   "life_date": "American, born Germany, 1954",
-  "marks": "Signature, Date and Edition\r\n\r\nsee Signed\r\n\r\nNumbe LRC, in pencil: [K.K. Smith 2002]",
+  "markings": "Publisher\\'s blindstamp, LL: ULAE",
   "medium": "Color lithograph",
   "nationality": "German-American",
   "provenance": "[Mary Ryan Gallery, New York, N.Y.]",
@@ -23,6 +25,7 @@
   "rights_type": "Need Permission",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC, in pencil: [K.K. Smith 2002]",
   "style": "21st century",
   "text": "",
   "title": "Born"
