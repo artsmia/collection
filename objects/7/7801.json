@@ -1,6 +1,7 @@
 {
   "accession_number": "P.90.28.8",
-  "artist": "Andy Warhol; Factory Additions, New York",
+  "artist": "Artist: Andy Warhol; Publisher: Factory Additions, New York",
+  "classification": "Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Minneapolis Foundation",
@@ -14,8 +15,9 @@
   "image_copyright": "© The Andy Warhol Foundation for the Visual Arts%2C Inc. %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 3583,
   "image_width": 3604,
+  "inscription": "",
   "life_date": "American, 1928 - 1987",
-  "marks": " (Verso, signed in pencil)",
+  "markings": "Verso: (Numbered with rubber stamp)",
   "medium": "Color screenprint",
   "nationality": "American",
   "provenance": "Minneapolis Foundation, Minneapolis; given to MIA, 1990.",
@@ -23,6 +25,7 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "(Verso, signed in pencil)",
   "style": "20th century",
   "text": "",
   "title": "Marilyn"

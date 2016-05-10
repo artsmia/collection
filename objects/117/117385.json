@@ -1,6 +1,7 @@
 {
   "accession_number": "2013.29.32",
-  "artist": "Sesson Shūkei",
+  "artist": "Artist: Traditionally Attributed to Sesson Shūkei",
+  "classification": "Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
@@ -14,8 +15,9 @@
   "image_copyright": "",
   "image_height": 9421,
   "image_width": 4147,
+  "inscription": "LRC: [Sesson]",
   "life_date": "Japanese, 1504 - 1589",
-  "marks": "LRC: [Sesson] LRC: [Sesson]",
+  "markings": "LRC: stamp",
   "medium": "Hanging scroll; ink on paper",
   "nationality": "Japanese",
   "provenance": "",
@@ -23,7 +25,8 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "LRC: [Sesson]",
   "style": "16th century",
   "text": "A mother bird calls to her cluster of chicks, encouraging them to fly. Sesson was a monk-painter from the late Muromachi period who developed his style by studying Chinese compositions as well as the works of Sesshū, one of Japan’s great ink painters.",
-  "title": "Five Sparrows on Bamboo"
+  "title": "Sparrows on Bamboo"
 }
