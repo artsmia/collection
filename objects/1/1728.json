@@ -1,6 +1,7 @@
 {
   "accession_number": "69.23",
-  "artist": "Jean-Frédéric Bazille",
+  "artist": "Artist: Jean-Frédéric Bazille",
+  "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Special Arts Reserve Fund",
@@ -19,6 +20,7 @@
   "markings": "MIA label: [L69.94 Lent by Wildenstein and Co.] (written in longhand)\r\nPacker and shipper\\'s label: [Bazille - New York g]",
   "medium": "Oil on canvas",
   "nationality": "French",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
