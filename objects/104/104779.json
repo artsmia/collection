@@ -1,6 +1,7 @@
 {
   "accession_number": "2007.123.1",
-  "artist": "John Skippe",
+  "artist": "Artist: John Skippe",
+  "classification": " Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Pia Gallo in honor of Richard Campbell",
@@ -19,6 +20,7 @@
   "markings": "",
   "medium": "Chiaroscuro woodcut",
   "nationality": "English",
+  "object_name": null,
   "provenance": "Pia Gallo, New York, NY",
   "restricted": 0,
   "rights_type": "Public Domain",

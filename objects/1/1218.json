@@ -1,7 +1,7 @@
 {
   "accession_number": "51.7",
   "artist": "Artist: Vincent van Gogh",
-  "classification": "Paintings",
+  "classification": " Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The William Hood Dunwoody Fund",
@@ -20,6 +20,7 @@
   "markings": "(Stencil on the reverse of the lining fabric)",
   "medium": "Oil on canvas",
   "nationality": "Dutch",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

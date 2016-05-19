@@ -1,7 +1,7 @@
 {
   "accession_number": "B.85.1",
-  "artist": "Artist: Pierre Bonnard; Author: Text by Paul Verlaine; Woodcutter: Woodcuts by Tony Beltrand; Publisher: Ambroise Vollard, Paris, France; Printer: Imprimerie Nationale, Paris; Printer: Lithography by Auguste Clot, Paris; Book Binder: Binding by Georges Cretté",
-  "classification": "Books",
+  "artist": "Artist: Pierre Bonnard; Author: Paul Verlaine; Woodcutter: Woodcuts by Tony Beltrand; Publisher: Ambroise Vollard, Paris, France; Printer: Imprimerie Nationale, Paris; Printer: Lithography by Auguste Clot, Paris; Book Binder: Georges Cretté",
+  "classification": " Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Bruce B. Dayton",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Lithographs in rose ink, wood engravings, and letterpress; bound volume",
   "nationality": "French",
+  "object_name": "Artist's book",
   "provenance": "Bruce B. Dayton, Wayzata, Minn.; given to MIA, 1985.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
