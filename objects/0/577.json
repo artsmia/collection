@@ -1,6 +1,7 @@
 {
   "accession_number": "39.53",
-  "artist": "Thomas Eakins",
+  "artist": "Artist: Thomas Eakins",
+  "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "The William Hood Dunwoody Fund",
@@ -19,6 +20,7 @@
   "markings": "No labels or markings on verso.",
   "medium": "Oil on canvas",
   "nationality": "American",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

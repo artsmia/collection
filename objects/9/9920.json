@@ -1,7 +1,7 @@
 {
   "accession_number": "2000.14",
-  "artist": "Artist: Vassily Kandinsky; Publisher: Published by R. Piper and Co. , Munich",
-  "classification": "Books",
+  "artist": "Artist: Vassily Kandinsky; Publisher: R. Piper and Co. , Munich",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "The Mary and Robyn Campbell Fund for Art Books",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Woodcuts, illustrations, letterpress",
   "nationality": "Russian",
+  "object_name": "Illustrated book",
   "provenance": "[Sims Reed, London]",
   "restricted": 0,
   "rights_type": "Public Domain",
