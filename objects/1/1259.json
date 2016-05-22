@@ -1,6 +1,7 @@
 {
   "accession_number": "55.1",
-  "artist": "Georges Rouault",
+  "artist": "Artist: Georges Rouault",
+  "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of the P. D. McMillan Land Company",
@@ -19,6 +20,7 @@
   "markings": "",
   "medium": "Mixed media on paper and canvas",
   "nationality": "French",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
