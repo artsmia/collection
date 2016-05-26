@@ -1,14 +1,14 @@
 {
   "accession_number": "2013.29.1100.11",
   "artist": "Artist: Tokuriki Tomikichirō",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Marilyn Tupper Doe",
   "culture": null,
   "dated": "20th century",
   "department": "Japanese and Korean Art",
-  "description": "November: night scene with willow tree at R, surrounded by white crisscrossing fence; wooden lantern LRC; old fashioned buildings and a mountain in background on street; a few people on street",
+  "description": "night scene with willow tree at R, surrounded by white crisscrossing fence; wooden lantern LRC; old fashioned buildings and a mountain in background on street; a few people on street",
   "dimension": "10 5/8 × 9 5/8 in. (26.99 × 24.45 cm) (sight)\r\n36 7/8 × 34 7/8 × 1 1/4 in. (93.66 × 88.58 × 3.18 cm) (outer frame, framed with others, see notes)",
   "id": "http://api.artsmia.org/objects/120405",
   "image": "invalid",
@@ -20,6 +20,7 @@
   "markings": "URC",
   "medium": "Color woodblock print: ink and colors on paper",
   "nationality": "Japanese",
+  "object_name": "Print (gendai hanga)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -28,5 +29,5 @@
   "signed": "URC",
   "style": "20th century",
   "text": "",
-  "title": "Twelve Months of Kyoto (The Willow tree at the gate of the Shimabara)"
+  "title": "November (The Willow tree at the gate of the Shimabara)"
 }
