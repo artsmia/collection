@@ -1,7 +1,7 @@
 {
   "accession_number": "B.63.2",
-  "artist": "Artist: Ernst Ludwig Kirchner; Author: Text by Will Grohmann; Publisher: Published by Kurt Wolff , Munich",
-  "classification": "Books",
+  "artist": "Artist: Ernst Ludwig Kirchner; Author: Will Grohmann; Publisher: Kurt Wolff , Munich",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Richard S. Davis",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Woodcuts in blue ink; letterpress; lithographic illustrations; boudn volume",
   "nationality": "German",
+  "object_name": "Book",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

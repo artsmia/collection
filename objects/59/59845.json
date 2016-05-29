@@ -1,7 +1,7 @@
 {
   "accession_number": "B.74.1",
-  "artist": "Artist: Pablo Picasso; Author: Text attributed to Fernando de Rojas; Publisher: Published by Editions de l'Atelier Crommelynck, Paris, France; Printer: Printed by Fequet et Baudier, Paris, France (text and typography); Printer: Printed by Atelier Crommelynck, Paris, France (etchings)",
-  "classification": "Books",
+  "artist": "Artist: Pablo Picasso; Author: Text attributed to Fernando de Rojas; Publisher: Editions de l'Atelier Crommelynck, Paris, France; Printer: Fequet et Baudier, Paris, France (text and typography); Printer: Atelier Crommelynck, Paris, France (etchings)",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Bruce B. Dayton Fund",
@@ -20,6 +20,7 @@
   "markings": "Watermark: <LA CELESTINE>",
   "medium": "Etchings, aquatints, letterpress",
   "nationality": "Spanish",
+  "object_name": "Artist's book",
   "provenance": "(M. Knoedler & Co., New York)",
   "restricted": 1,
   "rights_type": "Copyright Protected",
