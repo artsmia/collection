@@ -1,14 +1,14 @@
 {
   "accession_number": "P.78.65.37",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Takenouchi Magohachi",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "dated": "c. 1833",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
+  "description": "",
   "dimension": "8 5/8 x 13 1/2 in. (21.9 x 34.3 cm) (image)\r\n8 5/8 x 13 1/2 in. (21.9 x 34.3 cm) (sheet, ,trimmed)",
   "id": "http://api.artsmia.org/objects/61056",
   "image": "valid",
@@ -20,6 +20,7 @@
   "markings": "Publisher:Ho_eido_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
+  "object_name": "Print (ukiyo-e / fūkei-ga)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -28,5 +29,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Winter Scene, Hamamatsu"
+  "title": "Hamamatsu, Winter Scene"
 }

@@ -1,6 +1,7 @@
 {
   "accession_number": "63.2",
-  "artist": "Pablo Picasso",
+  "artist": "Artist: Pablo Picasso",
+  "classification": " Paintings",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Mr. and Mrs. John Cowles",
@@ -19,6 +20,7 @@
   "markings": "",
   "medium": "Oil on canvas",
   "nationality": "Spanish",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

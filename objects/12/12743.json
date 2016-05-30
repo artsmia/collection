@@ -1,7 +1,7 @@
 {
   "accession_number": "2000.126",
-  "artist": "Artist: Oskar Kokoschka; Author: Text by Homer; Translator: Translated by Robert Fitzgerald; Publisher: Published by Ganymeade Original Editions Ltd., London",
-  "classification": "Books",
+  "artist": "Artist: Oskar Kokoschka; Author: Homer; Translator: Robert Fitzgerald; Publisher: Ganymeade Original Editions Ltd., London",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Artist's book; lithographs, letterpress",
   "nationality": "Austrian",
+  "object_name": "Artist's book",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

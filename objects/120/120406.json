@@ -1,14 +1,14 @@
 {
   "accession_number": "2013.29.1100.12",
   "artist": "Artist: Tokuriki Tomikichirō",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Marilyn Tupper Doe",
   "culture": null,
   "dated": "20th century",
   "department": "Japanese and Korean Art",
-  "description": "December: silver-colored pavilion set behind a pond lined with trees; snow-covered ground and trees line edges of pond; framed by pine trees covered with snow",
+  "description": "silver-colored pavilion set behind a pond lined with trees; snow-covered ground and trees line edges of pond; framed by pine trees covered with snow",
   "dimension": "11 × 9 15/16 in. (27.94 × 25.24 cm) (image)\r\n11 7/16 × 10 3/8 in. (29.05 × 26.35 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/120406",
   "image": "invalid",
@@ -20,6 +20,7 @@
   "markings": "LRC",
   "medium": "Color woodblock print: ink and colors on paper",
   "nationality": "Japanese",
+  "object_name": "Print (gendai hanga)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -28,5 +29,5 @@
   "signed": "LRC",
   "style": "20th century",
   "text": "",
-  "title": "Twelve Months of Kyoto (Snow scene at the Golden Pavillion)"
+  "title": "December (Snow scene at the Golden Pavillion)"
 }
