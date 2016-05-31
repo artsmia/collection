@@ -1,14 +1,14 @@
 {
   "accession_number": "2013.29.1100.6",
   "artist": "Artist: Tokuriki Tomikichirō",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Marilyn Tupper Doe",
   "culture": null,
   "dated": "20th century",
   "department": "Japanese and Korean Art",
-  "description": "June: bands of thin vertical blue lines cut across scene of wall with large temple gate; tops of trees and roofs visible behind wall; two leafless trees in background; lone figure under umbrella near stone bridge LLC",
+  "description": "bands of thin vertical blue lines cut across scene of wall with large temple gate; tops of trees and roofs visible behind wall; two leafless trees in background; lone figure under umbrella near stone bridge LLC",
   "dimension": "10 9/16 × 9 5/8 in. (26.83 × 24.45 cm) (sight)\r\n36 7/8 × 34 3/4 × 1 1/4 in. (93.66 × 88.27 × 3.18 cm) (outer frame, framed with others: see notes)",
   "id": "http://api.artsmia.org/objects/120397",
   "image": "invalid",
@@ -20,6 +20,7 @@
   "markings": "LLC",
   "medium": "Color woodblock print: ink and colors on paper",
   "nationality": "Japanese",
+  "object_name": "Print (gendai hanga)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -28,5 +29,5 @@
   "signed": "LLC",
   "style": "20th century",
   "text": "",
-  "title": "Twelve Months of Kyoto (Rainy scene of the \"Sen-ke,\" Japanese tea ceremony founder's house)"
+  "title": "June (Rainy scene of the \"Sen-ke,\" Japanese tea ceremony founder's house)"
 }

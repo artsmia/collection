@@ -1,7 +1,7 @@
 {
   "accession_number": "P.79.58.1",
-  "artist": "Artist: Pablo Picasso; Author: Text by Pablo Picasso; Publisher: Published by Pablo Picasso",
-  "classification": "Prints",
+  "artist": "Artist: Pablo Picasso; Author: Pablo Picasso; Publisher: Pablo Picasso",
+  "classification": " Prints",
   "continent": null,
   "country": "Spain",
   "creditline": "The Herschel V. Jones Fund, by exchange",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Cover for album containing two etchings with sugar-lift aquatint and scraper; letterpress and facsimile of handwritten text printed in heliogravure",
   "nationality": "Spanish",
+  "object_name": "Cover",
   "provenance": "(David Tunick, New York)",
   "restricted": 1,
   "rights_type": "Copyright Protected",
