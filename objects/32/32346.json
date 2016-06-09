@@ -1,7 +1,7 @@
 {
   "accession_number": "B.91.5.1",
-  "artist": "Artist: Émile Bernard; Author: Text by Homer; Translator: Madame Dacier; Publisher: Published by Ambroise Vollard, Paris, France",
-  "classification": "Books",
+  "artist": "Artist: Émile Bernard; Author: Homer; Translator: Madame Dacier; Publisher: Ambroise Vollard, Paris, France",
+  "classification": " Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Artist's book; woodcuts in sepia ink; letterpress",
   "nationality": "French",
+  "object_name": "Artist's book",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

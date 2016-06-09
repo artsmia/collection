@@ -1,7 +1,7 @@
 {
   "accession_number": "P.1,234",
   "artist": "Artist: Rembrandt Harmensz. van Rijn",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Europe",
   "country": "The Netherlands",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Etching and drypoint",
   "nationality": "Dutch",
+  "object_name": null,
   "provenance": "W.D.W.E Drugulin, blue stamp verso, (L.2612); circular stamp verso, unidentified; A. Buego (L.82).",
   "restricted": 0,
   "rights_type": "Public Domain",
