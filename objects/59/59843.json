@@ -1,7 +1,7 @@
 {
   "accession_number": "B.81.4",
-  "artist": "Artist: Pablo Picasso; Author: Poems by Luis de Góngora y Argote; Translator: Translated by Z. Millner; Publisher: Published by Les Grands Peintres, Modernes et le Livre, Paris, France; Printer: Printed by Fequet et Baudier, Paris, France , (text); Printer: Printed by Atelier Roger Lacourière, Paris, France , (etchings); Book Binder: Binding by Pierre-Lucien Martin",
-  "classification": "Books",
+  "artist": "Artist: Pablo Picasso; Author: Poems by Luis de Góngora y Argote; Translator: Z. Millner; Publisher: Les Grands Peintres, Modernes et le Livre, Paris, France; Printer: Fequet et Baudier, Paris, France , (text); Printer: Atelier Roger Lacourière, Paris, France , (etchings); Book Binder: Pierre-Lucien Martin",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -20,6 +20,7 @@
   "markings": "Watermark: <Gongora>",
   "medium": "Etchings and lift-ground aquatints; letterpress",
   "nationality": "Spanish",
+  "object_name": "Artist's book",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

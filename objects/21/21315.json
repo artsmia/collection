@@ -1,7 +1,7 @@
 {
   "accession_number": "76.93",
   "artist": "Artist: John McCracken",
-  "classification": "Paintings",
+  "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Robert Elkon",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Wood, man made material",
   "nationality": null,
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
