@@ -1,7 +1,7 @@
 {
   "accession_number": "2002.161.155",
-  "artist": "Artist: Yoshikawa Kanpō; Publisher: Published by Satō Shōtarō; Carver: Carved by Maeda Kentarō; Printer: Printed by Ōiwa Tokuzō",
-  "classification": "Prints",
+  "artist": "Artist: Yoshikawa Kanpō; Publisher: Satō Shōtarō; Carver: Maeda Kentarō; Printer: Ōiwa Tokuzō",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -15,11 +15,12 @@
   "image_copyright": "",
   "image_height": 2640,
   "image_width": 1860,
-  "inscription": "{Taishō jūichinen shoka}",
+  "inscription": "大正十一年初夏 {Taishō jūichinen shoka}",
   "life_date": "Japanese, 1894 - 1979",
   "markings": "",
   "medium": "Woodblock print; ink and color on paper with mica",
   "nationality": "Japanese",
+  "object_name": "Print (shin hanga / bijin-ga)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
@@ -27,6 +28,6 @@
   "room": "Not on View",
   "signed": "{Kanpō}",
   "style": "20th century",
-  "text": "Hinazō was a maiko, an apprentice geisha, typically associated with Kyoto where Yoshikawa Kanpō was born and lived.",
-  "title": "Hinazō"
+  "text": "Hinazō was a maiko, an apprentice geisha, typically associated with Kyoto where Yoshikawa Kanpō was born and lived.\r\nThird print in a series of six.",
+  "title": "Five, Hinazō"
 }

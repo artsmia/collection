@@ -1,7 +1,7 @@
 {
   "accession_number": "B.58.1",
-  "artist": "Artist: Édouard Manet; Author: Text by Edgar Allan Poe; Translator: Translated by Stéphane Mallarmé; Publisher: Published by Richard Lesclide , Paris; Printer: Alcan Lévy , Paris",
-  "classification": "Books",
+  "artist": "Artist: Édouard Manet; Author: Edgar Allan Poe; Translator: Stéphane Mallarmé; Publisher: Richard Lesclide , Paris; Printer: Alcan Lévy , Paris",
+  "classification": " Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Trufant and Wyman Fund",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Transfer lithographs and lithograph on chine paper",
   "nationality": "French",
+  "object_name": "Illustrated book",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

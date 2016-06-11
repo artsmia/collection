@@ -1,7 +1,7 @@
 {
   "accession_number": "B.97.1.2",
-  "artist": "Artist: Max Ernst; Author: Text by Paul Eluard; Publisher: Au Sans Pareil, Paris; Printer: Louis Kaldor, Paris",
-  "classification": "Books",
+  "artist": "Artist: Max Ernst; Author: Paul Eluard; Publisher: Au Sans Pareil, Paris; Printer: Louis Kaldor, Paris",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Robert C. Winton Fund",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Binding: paper covers; sewn/glued binding",
   "nationality": "German",
+  "object_name": "Artist's book",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

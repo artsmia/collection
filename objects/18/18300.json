@@ -1,7 +1,7 @@
 {
   "accession_number": "56.2",
   "artist": "Artist: Maurice Freedman",
-  "classification": "Paintings",
+  "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. Morton D. May",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Oil on canvas",
   "nationality": null,
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

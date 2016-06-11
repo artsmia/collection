@@ -1,7 +1,7 @@
 {
   "accession_number": "B.98.7.3",
-  "artist": "Artist: Michael Wolgemut; Artist: Wilhelm Pleydenwurff; Author: Text by Hartmann Schedel; Printer: Anton Koberger",
-  "classification": "Books",
+  "artist": "Artist: Michael Wolgemut; Artist: Wilhelm Pleydenwurff; Author: Hartmann Schedel; Printer: Anton Koberger",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Olive and Benton Case",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Woodcuts and letterpress",
   "nationality": "German",
+  "object_name": null,
   "provenance": "Henry H. Humphrey Collection\r\nC. Templeton Crocker, San Francisco\r\n[John Howell Books, San Francisco]",
   "restricted": 0,
   "rights_type": "Public Domain",

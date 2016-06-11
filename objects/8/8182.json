@@ -1,7 +1,7 @@
 {
   "accession_number": "74.1.48",
   "artist": "Artist: Okumura Masanobu; Publisher: Kikuya",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
@@ -9,7 +9,7 @@
   "dated": "c. 1711 - 1716",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "20 9/16 x 14 1/8 in. (52.2 x 35.8 cm) (image, sheet)",
+  "dimension": "20 9/16 × 14 1/8 in. (52.2 × 35.8 cm) (image, sheet, kakemono-e)",
   "id": "http://api.artsmia.org/objects/8182",
   "image": "valid",
   "image_copyright": "",
@@ -17,16 +17,17 @@
   "image_width": 3200,
   "inscription": "",
   "life_date": "Japanese, 1686 - 1764",
-  "markings": "Masanobu seal\r\nPublisher:Kikuya",
+  "markings": "{Masanobu}; Publisher: Asakusa Kikuya Komagatachō",
   "medium": "Woodblock print (urushi-e); ink on paper, with hand-applied color and nikawa",
   "nationality": "Japanese",
+  "object_name": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "Okumura Masanobu zu",
+  "signed": "{Okumura Masanobu zu}",
   "style": "18th century",
   "text": "",
-  "title": "\"Parrot Komachi of the Floating World\""
+  "title": "Parrot Komachi of the Floating World"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "2002.161.17.4",
-  "artist": "Artist: Itō Shinsui; Publisher: Published by Watanabe Shōzaburō",
-  "classification": "Prints",
+  "artist": "Artist: Itō Shinsui; Publisher: Watanabe Shōzaburō",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ellen and Fred Wells",
@@ -15,11 +15,12 @@
   "image_copyright": "",
   "image_height": 6620,
   "image_width": 4637,
-  "inscription": "[近江八景の内　唐崎の松　大正七年五月] {Ōmi hakkei no uchi Karasaki no matsu, Taishō shichinen gogatsu} (The Eight Views of Lake Biwa, Pine Trees at Karasaki, May 1918)",
+  "inscription": "近江八景の内　唐崎の松　大正七年五月 {Ōmi hakkei no uchi Karasaki no matsu, Taishō shichinen gogatsu} (The Eight Views of Lake Biwa, Pine Trees at Karasaki, May 1918)",
   "life_date": "Japanese, 1898 - 1972",
   "markings": "red collector seal: 杜品 {Tobin} | on back, red seal: 伊藤深水画　近江八景唐崎　摺刷二百枚限の内　第四十六番 {Itō Shinsui ga, Ōmi hakkei Karasaki shūsatsu nihyaku mai kagiri no uchi, dai yonjūroku ban} (picture by Itō Shinsui, Eight Views of Lake Biwa, Karasaki, printed edition of 200, number 46) | red square publisher seals: 版元 {hanmoto} (publisher) | ワタナベ {Watanabe}",
   "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
+  "object_name": "Print (shin hanga / fūkei-ga)",
   "provenance": "Tobin",
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
@@ -27,6 +28,6 @@
   "room": "Not on View",
   "signed": "深水 {Shinsui}",
   "style": "20th century",
-  "text": "",
+  "text": "No. 7 in the series",
   "title": "Pine Trees at Karasaki"
 }

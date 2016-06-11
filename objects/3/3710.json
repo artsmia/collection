@@ -1,6 +1,7 @@
 {
   "accession_number": "88.2",
-  "artist": "Jacob Duck",
+  "artist": "Artist: Jacob Duck",
+  "classification": " Paintings",
   "continent": "Europe",
   "country": "Netherlands",
   "creditline": "The Walter H. and Valborg P. Ude Memorial Fund and gift of Bruce B. Dayton, by exchange",
@@ -19,6 +20,7 @@
   "markings": "Marks on verso: \r\nred wax seal (collectors signet ring?): [interlaced \\'T\\' and \\'P\\']",
   "medium": "Oil on panel",
   "nationality": "Dutch",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

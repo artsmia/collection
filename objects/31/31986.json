@@ -1,7 +1,7 @@
 {
   "accession_number": "99.225.1",
   "artist": "Artist: Joe Doyle",
-  "classification": "Paintings",
+  "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Acrylic on canvas",
   "nationality": null,
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Orphaned Work",

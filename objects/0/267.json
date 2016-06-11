@@ -1,7 +1,7 @@
 {
   "accession_number": "23.66",
   "artist": "Artist: Unknown",
-  "classification": "Books",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Washburn Fund",
@@ -20,6 +20,7 @@
   "markings": "[Das buech gehort/zum heiligen kreutz], on fly-leaf in a 15th century hand.",
   "medium": "Tempera and gold on parchment",
   "nationality": null,
+  "object_name": null,
   "provenance": "Heilig Kreuz, Regensburg, Germany ('until 1876; 'sold to Alfred Coppenrath, Regensberg); [Joseph Martini, Zurich and Lathrop C. Harper, New York, until 1923; sold to MIA]",
   "restricted": 0,
   "rights_type": "Public Domain",

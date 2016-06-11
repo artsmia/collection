@@ -1,7 +1,7 @@
 {
   "accession_number": "B.93.3",
-  "artist": "Artist: Natalia Sergeevna Goncharova; Author: Text by Sergei Bobrov; Publisher: Published by Lirika, Moscow; Printer: Printed by V.I. Voronov",
-  "classification": "Books",
+  "artist": "Artist: Natalia Sergeevna Goncharova; Author: Sergei Bobrov; Publisher: Lirika, Moscow; Printer: V.I. Voronov",
+  "classification": " Books",
   "continent": "Europe",
   "country": "Russia",
   "creditline": "The David Draper Dayton Fund",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Color lithographs and relief print in text",
   "nationality": null,
+  "object_name": "Artist's book",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

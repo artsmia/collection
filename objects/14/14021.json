@@ -1,7 +1,7 @@
 {
   "accession_number": "23.45",
   "artist": "Artist: Mary Harlan",
-  "classification": "Textiles",
+  "classification": " Textiles",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mary Harlan Taylor",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Silk, pigments; dyed",
   "nationality": null,
+  "object_name": "Globe",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

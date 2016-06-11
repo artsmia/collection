@@ -1,7 +1,7 @@
 {
   "accession_number": "40.26.4",
-  "artist": "Artist: Katsushika Hokusai; Publisher: Published by Eirakuya Tōshirō",
-  "classification": "Books",
+  "artist": "Artist: Katsushika Hokusai; Publisher: Eirakuya Tōshirō",
+  "classification": " Books",
   "continent": null,
   "country": null,
   "creditline": "Gift of the Minneapolis Athenaeum",
@@ -20,6 +20,7 @@
   "markings": "Publisher:To_hekido_\r\n\\\"Denshin-Kaishu\\\"(meaning unknown) written above the title\r\n\\\"zen\\\"(complete set) written under the title\r\nCollecter?:Nakagawa Zenkichi",
   "medium": "Woodblock printed book; ink and color on paper",
   "nationality": "Japanese",
+  "object_name": "Book (ehon)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
