@@ -1,6 +1,7 @@
 {
   "accession_number": "78.20",
-  "artist": "Unknown Japanese",
+  "artist": "Artist: Unknown Japanese",
+  "classification": " Sculpture",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The John R. Van Derlip Fund",
@@ -19,6 +20,7 @@
   "markings": "",
   "medium": "Wood with traces of lacquer and gold",
   "nationality": null,
+  "object_name": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

@@ -1,6 +1,7 @@
 {
   "accession_number": "68.18",
-  "artist": "Sir Joshua Reynolds",
+  "artist": "Artist: Sir Joshua Reynolds",
+  "classification": " Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
@@ -19,6 +20,7 @@
   "markings": "",
   "medium": "Oil on canvas",
   "nationality": "British",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

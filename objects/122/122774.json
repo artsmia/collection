@@ -1,6 +1,7 @@
 {
   "accession_number": "2015.79.595",
-  "artist": "Utagawa Hiroshige III",
+  "artist": "Artist: Utagawa Hiroshige III",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation",
@@ -14,18 +15,19 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "Inscription\r\n\r\nURC",
+  "inscription": "",
   "life_date": "Japanese, 1843-1894",
   "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
+  "object_name": "Print (ukiyo-e)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "",
+  "signed": "URC",
   "style": "19th century",
   "text": "",
-  "title": "Print (ukiyo-e)"
+  "title": "Tōkyō meisho Nihonbashi"
 }

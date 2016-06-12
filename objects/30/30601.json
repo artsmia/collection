@@ -1,7 +1,7 @@
 {
   "accession_number": "98.142",
   "artist": "Artist: Norman Rockwell",
-  "classification": "Paintings",
+  "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Virginia J. Wimmer",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Oil on linen",
   "nationality": null,
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",

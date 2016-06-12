@@ -1,6 +1,7 @@
 {
   "accession_number": "51.34",
-  "artist": "Gilbert Stuart",
+  "artist": "Artist: Gilbert Stuart",
+  "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Heirs of Mrs. Vernon A. Wright",
@@ -19,6 +20,7 @@
   "markings": "",
   "medium": "Oil on panel",
   "nationality": "American",
+  "object_name": "Painting",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

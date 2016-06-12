@@ -1,13 +1,13 @@
 {
   "accession_number": "2014.103.3",
   "artist": "Designer: Hans Schäufelein",
-  "classification": "Architecture",
+  "classification": " Architecture",
   "continent": "Europe",
   "country": "Southern Germany",
   "creditline": "The Walter C. and Mary C. Briggs Trust Fund",
   "culture": null,
   "dated": "c. 1510-1520",
-  "department": "Decorative Arts, Textiles & Sculpture",
+  "department": "Decorative Arts, Textiles and Sculpture",
   "description": "round stained glass panel depicting the Adoration of the Magi, with Mary seated at one side holding baby Jesus on her lap; three men holding gold containers at other side; central standing man gestures up to the Star of Bethlehem; angel above Mary's head; floral border",
   "dimension": "20 1/4 × 20 1/4 × 1/4 in. (51.44 × 51.44 × 0.64 cm) (approx.)",
   "id": "http://api.artsmia.org/objects/120602",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Stained glass, lead",
   "nationality": "German",
+  "object_name": "Stained glass roundel, from a set of five",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -28,5 +29,5 @@
   "signed": "",
   "style": "16th century",
   "text": "",
-  "title": "Stained glass roundel, from a set of five"
+  "title": "The Adoration of the Maji"
 }

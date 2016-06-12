@@ -1,14 +1,14 @@
 {
   "accession_number": "2013.29.1100.7",
   "artist": "Artist: Tokuriki Tomikichirō",
-  "classification": "Prints",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Marilyn Tupper Doe",
   "culture": null,
   "dated": "20th century",
   "department": "Japanese and Korean Art",
-  "description": "July: night scene: street lined with buildings and yellow glowing lanterns; towering spire with mass of yellow glowing lanterns at center; crowds of men in Western dress, and women in kimono along street, mostly silhouetted against lights",
+  "description": "night scene: street lined with buildings and yellow glowing lanterns; towering spire with mass of yellow glowing lanterns at center; crowds of men in Western dress, and women in kimono along street, mostly silhouetted against lights",
   "dimension": "11 1/16 × 9 7/8 in. (28.1 × 25.08 cm) (image)\r\n11 7/16 × 10 1/8 in. (29.05 × 25.72 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/120399",
   "image": "invalid",
@@ -20,6 +20,7 @@
   "markings": "ULC",
   "medium": "Color woodblock print: ink and colors on paper",
   "nationality": "Japanese",
+  "object_name": "Print (gendai hanga)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -28,5 +29,5 @@
   "signed": "ULC",
   "style": "20th century",
   "text": "",
-  "title": "Twelve Months of Kyoto (Gorgeous procession of \"Yama-hoko\" or the floats at the Gion festival)"
+  "title": "July (Gorgeous procession of \"Yama-hoko\" or the floats at the Gion festival)"
 }

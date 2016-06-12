@@ -1,7 +1,7 @@
 {
   "accession_number": "B.80.12",
-  "artist": "Artist: Henri de Toulouse-Lautrec; Author: Text by George Clemenceau; Publisher: Henri Floury; Printer: Chamerot et Renonard",
-  "classification": "Books",
+  "artist": "Artist: Henri de Toulouse-Lautrec; Author: George Clemenceau; Publisher: Henri Floury; Printer: Chamerot et Renonard",
+  "classification": " Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Bruce B. Dayton Fund",
@@ -20,6 +20,7 @@
   "markings": "",
   "medium": "Lithographs, letterpress; bound volume",
   "nationality": "French",
+  "object_name": "Illustrated book",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",

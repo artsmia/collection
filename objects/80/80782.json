@@ -1,6 +1,7 @@
 {
   "accession_number": "P.13,964",
-  "artist": "Kitagawa Utamaro; Published by Murataya Jirōbei",
+  "artist": "Artist: Kitagawa Utamaro; Publisher: Murataya Jirōbei",
+  "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
@@ -14,16 +15,19 @@
   "image_copyright": "",
   "image_height": 2921,
   "image_width": 1330,
+  "inscription": "おもふその　人にハきせし　月草の　花すり衣　うつろふがうき\r\n{Omou sono / Hito ni wa kiseshi / Tsukikusa no / Hana suri koromo / Utsurou ga uki}\r\n(I rub the flower of evening primerose / In the cloth of the man I love / Wishing the scent of the flower / Reminds him of me)",
   "life_date": "Japanese, 1753 - 1806",
-  "marks": "[おもふその　人にハきせし　月草の　花すり衣　うつろふがうき]\r\n{Omou sono / Hito [歌麿筆] {Utamaro hitsu}",
+  "markings": "censor seal: 極 {kiwame}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
+  "object_name": "Print (ukiyo-e / bijin-ga)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "signed": "歌麿筆 {Utamaro hitsu}",
   "style": "18th-19th century",
-  "text": "Executed in the rare, long paper format (nagaban), this print depicts a courtesan and her attendant playing with a child that could be hers from a previous love affair. The waka poem reads: \r\n\r\nI rub the flower of evening primerose\r\nIn the cloth of the man I love\r\nWishing the scent of the flower\r\nReminds him of me",
-  "title": "(Courtesan with a Child Playing Piggyback)"
+  "text": "Executed in the rare, long paper format (<i>nagaban</i>), this print depicts a courtesan and her attendant playing with a child that could be hers from a previous love affair. The <i>waka</i> poem reads: \r\n\r\nI rub the flower of evening primerose / In the cloth of the man I love / Wishing the scent of the flower / Reminds him of me",
+  "title": "Masako from Mino Province"
 }
