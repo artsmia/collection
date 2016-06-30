@@ -1,6 +1,6 @@
 {
   "accession_number": "23.66",
-  "artist": "Artist: Unknown",
+  "artist": "Artist: Artist unknown, German",
   "classification": " Books",
   "continent": "Europe",
   "country": "Germany",
@@ -9,7 +9,7 @@
   "dated": "c. 1300",
   "department": "Prints and Drawings",
   "description": "Bound missal; 373 folios; includes illuminated miniatures, historiated initials and 15th c. binding of tooled pigskin with engraved brass corners and centerpiece",
-  "dimension": "12 3/8 x 9 1/16 in. (31.43 x 23.02 cm) (image)",
+  "dimension": "12 3/8 x 9 1/16 in. (31.43 x 23.02 cm) (image)\r\n13 × 9 1/4 × 4 in. (33.02 × 23.5 × 10.16 cm) (closed)",
   "id": "http://api.artsmia.org/objects/267",
   "image": "valid",
   "image_copyright": "",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": "",
   "style": "13th-14th century",
-  "text": "A missal (mass-book) is the book used by a priest when celebrating mass at the altar.  It contains all the variable parts  (chants, prayers and readings) integral to the mass service for every Sunday and weekday throughout the year, together with ceremonial directions.\r\n\r\nThis missal once belonged to the Domenican convent of Heiligen Kreuz (Holy Cross) in Regensburg (S. Germany), founded in 1233, eleven years after Saint Domenic's death.  It is written in a Gothic script called littera textualis, the principal script used during the late medieval period.  The letters were formed with contrasting broad and thin strokes, united in angular and laterally compressed configurations that emphasize the word unit rather than the single letter.\r\n\r\nOne of the few miniatures normally found in a missal is the Crucifixion scene on the beginning page of the canon, the most solemn part of the mass.  In this example, notice the tiny Domenican monk at the base of the cross. On the opposite page the large letters C and M are pen-flourished initials, enhanced with fine linear embellishments in red and blue.",
+  "text": "A missal (mass-book) is the book used by a priest when celebrating mass at the altar.  It contains all the variable parts (chants, prayers and readings) integral to the mass service for every Sunday and weekday throughout the year, together with ceremonial directions.\r\n\r\nThis missal once belonged to the Domenican convent of Heiligen Kreuz (Holy Cross) in Regensburg (S. Germany), founded in 1233, eleven years after Saint Domenic's death.  It is written in a Gothic script called littera textualis, the principal script used during the late medieval period.  The letters were formed with contrasting broad and thin strokes, united in angular and laterally compressed configurations that emphasize the word unit rather than the single letter.\r\n\r\nOne of the few miniatures normally found in a missal is the Crucifixion scene on the beginning page of the canon, the most solemn part of the mass.  In this example, notice the tiny Domenican monk at the base of the cross. On the opposite page the large letters C and M are pen-flourished initials, enhanced with fine linear embellishments in red and blue.",
   "title": "Dominican Missal"
 }
