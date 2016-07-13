@@ -9,17 +9,17 @@
   "dated": "2013",
   "department": "Japanese and Korean Art",
   "description": "large, rippled black form resembling a wrinkled, windblown tarp",
-  "dimension": "53 1/2 × 81 1/4 × 4 1/4 in. (135.89 × 206.38 × 10.8 cm)",
+  "dimension": "81 1/4 × 53 1/2 × 4 1/4 in. (206.38 × 135.89 × 10.8 cm)",
   "id": "http://api.artsmia.org/objects/117144",
   "image": "valid",
   "image_copyright": "© Kofushiwaki Tsukasa",
   "image_height": 2280,
   "image_width": 1575,
-  "inscription": "Signature",
-  "life_date": null,
+  "inscription": "",
+  "life_date": "Japanese, born 1961",
   "markings": "",
   "medium": "Lacquer, hemp cloth",
-  "nationality": null,
+  "nationality": "Japanese",
   "object_name": "Wall sculpture",
   "provenance": "",
   "restricted": 1,
@@ -29,5 +29,5 @@
   "signed": "top center, in red: [Kofushiwaki]",
   "style": "21st century",
   "text": "",
-  "title": "Flag 01"
+  "title": "Flag-01"
 }
