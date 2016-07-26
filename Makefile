@@ -21,6 +21,7 @@ objects:
 
 git: objects check_public_access
 	git add --all departments/
+	git add --all exhibitions/
 	for dir in . private; do \
 		cd $$dir; \
 		git add --all objects/; \

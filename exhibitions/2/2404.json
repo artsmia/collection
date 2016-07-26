@@ -1,0 +1,20 @@
+{
+  "exhibition_id": 2404,
+  "exhibition_department": null,
+  "exhibition_title": "Camille Pissarro (2017)",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Thursday, February 23, 2017 - Sunday, July 02, 2017",
+  "objects": [
+    129
+  ],
+  "venues": [
+    {
+      "venue": "Musée Marmottan Monet",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Thursday, February 23, 2017 - Sunday, July 2, 2017"
+    }
+  ]
+}

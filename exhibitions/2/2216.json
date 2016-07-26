@@ -10,5 +10,12 @@
     122152,
     122153
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Japan Society",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": ", , - , , "
+    }
+  ]
 }
