@@ -1,21 +1,20 @@
 {
-  "exhibition_id": 2433,
+  "exhibition_id": 2435,
   "exhibition_department": "Japanese and Korean Art",
-  "exhibition_title": "The Exploration of Unseen Worlds",
+  "exhibition_title": "The Exploration of Unseen Worlds: Imagination as Reality in Japanese Art",
   "exhibition_description": null,
-  "begin": 2007,
-  "end": 2007,
+  "begin": 2001,
+  "end": 2001,
   "display_date": null,
   "objects": [
-    118220,
     118458,
     118482
   ],
   "venues": [
     {
       "venue": "Clark Center for Japanese Art & Culture",
-      "begin": 2007,
-      "end": 2007,
+      "begin": 2001,
+      "end": 2001,
       "display_date": ", , - , , "
     }
   ]
