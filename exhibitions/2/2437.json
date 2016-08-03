@@ -1,12 +1,13 @@
 {
   "exhibition_id": 2437,
-  "exhibition_department": null,
+  "exhibition_department": "Japanese and Korean Art",
   "exhibition_title": "Reflections of Reality: Masterworks from the Lee Institute Collection",
   "exhibition_description": null,
   "begin": 2001,
   "end": 2001,
   "display_date": null,
   "objects": [
+    117206,
     118482
   ],
   "venues": [
