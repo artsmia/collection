@@ -8,7 +8,7 @@
   "culture": null,
   "dated": "1751",
   "department": "Prints and Drawings",
-  "description": "Deck of 78 hand-colored triumph playing cards, housed in dark green 3/4 leather slipcase",
+  "description": "From a deck of 78 hand-colored triumph playing cards. Man with back to viewer in fool's cap with sack hanging from stick across his back; cane in right hand and cat in lower left; LE MAT on bottom border",
   "dimension": "4 7/16 x 2 7/16 in. (11.27 x 6.19 cm) (image, sheet)\r\n4 5/8 x 2 1/2 in. (11.75 x 6.35 cm) (sheet, each)",
   "id": "http://api.artsmia.org/objects/43506",
   "image": "invalid",
@@ -16,18 +16,25 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Designer and date printed on the lemniscate (ribbon) of the Two of Pentacles: [Claude.Burdel.Cartier.Et Graveur.1751]",
-  "life_date": "Swiss, 1727 - 1799",
+  "life_date": "Swiss, 1727–1799",
   "markings": "",
   "medium": "Hand-colored woodcut",
   "nationality": "Swiss",
-  "object_name": null,
-  "provenance": "Note with deck states: [Swiss Tarot. / Complete 78 Cards / from Schreiber Collection]. (possible reference to Lady Charlotte Elizabeth Schrieber, English, 1812-1895)",
+  "object_name": "Playing card",
+  "provenance": "'Lady Charlotte Elizabeth Schrieber, 1812-1895, London [1]. Carl A. Weyerhaeuser, Minneapolis (by 1937-1996; given to MIA)\r\n\r\n1. Note with deck states: \"Swiss Tarot. / Complete 78 Cards / from Schreiber Collection\"",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Tarot of Marseilles (Deck of Triumph Cards)"
+  "title": "Le Mat"
 }

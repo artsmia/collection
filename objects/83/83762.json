@@ -8,7 +8,7 @@
   "culture": null,
   "dated": "1751",
   "department": "Prints and Drawings",
-  "description": "housed in dark green 3/4 leather slipcase",
+  "description": "From a deck of 78 hand-colored triumph playing cards.",
   "dimension": "4 7/16 x 2 7/16 in. (11.27 x 6.19 cm) (image, sheet)\r\n4 5/8 x 2 1/2 in. (11.75 x 6.35 cm) (sheet, each)",
   "id": "http://api.artsmia.org/objects/83762",
   "image": "invalid",
@@ -16,18 +16,25 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "Swiss, 1727 - 1799",
+  "life_date": "Swiss, 1727–1799",
   "markings": "",
-  "medium": "Hand-colored woodcuts",
+  "medium": "Hand-colored woodcut",
   "nationality": "Swiss",
-  "object_name": "Tarot Card, from a deck of 78",
+  "object_name": "Playing card",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Tarot Card, from a deck of 78"
+  "title": "Playing card"
 }
