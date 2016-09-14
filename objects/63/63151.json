@@ -8,7 +8,7 @@
   "culture": null,
   "dated": "1898",
   "department": "Prints and Drawings",
-  "description": "65 color plates depicting interior and exterior designs and furnishings for a Parisian aprtment building.  Fiberboard cover.",
+  "description": "65 color plates depicting interior and exterior designs and furnishings for a Parisian apartment building.  Fiberboard cover.",
   "dimension": "12 3/8 x 17 in. (31.43 x 43.18 cm) (sheet, each, approximate)",
   "id": "http://api.artsmia.org/objects/63151",
   "image": "valid",
@@ -26,6 +26,13 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
