@@ -16,7 +16,7 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "French, 1821 - 1868",
+  "life_date": "French, 1821-1868",
   "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
@@ -26,8 +26,15 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Le Vaisseau fantome"
+  "title": "The Phantom Ship"
 }

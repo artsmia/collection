@@ -16,9 +16,9 @@
   "image_height": 2490,
   "image_width": 1789,
   "inscription": "",
-  "life_date": "French, 1821 - 1868",
+  "life_date": "French, 1821-1868",
   "markings": "",
-  "medium": "Etching",
+  "medium": "Color etching from two plates",
   "nationality": "French",
   "object_name": null,
   "provenance": "",
@@ -26,8 +26,15 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Le pilote de Tonga"
+  "title": "The Tonga Pilot (page from proposed New Zealand etchings)"
 }

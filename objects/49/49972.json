@@ -1,6 +1,6 @@
 {
   "accession_number": "P.12,194",
-  "artist": "Artist: Jacques Beltrand; Artist: After drawing by Edgar Degas",
+  "artist": "Artist: Jacques Beltrand; Artist: after drawing by Edgar Degas",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -26,8 +26,15 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Danseuse"
+  "title": "Dancer"
 }

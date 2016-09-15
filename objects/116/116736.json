@@ -17,7 +17,7 @@
   "image_width": 2138,
   "inscription": "Signature and Seal",
   "life_date": "Japanese, 1779 - 1843",
-  "markings": "R edge, rectangular intaglio",
+  "markings": "R edge, rectangular intaglio:林谷",
   "medium": "Ink and colors on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -26,7 +26,14 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "R edge",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
+  "signed": "R edge: 林道人",
   "style": "19th century",
   "text": "",
   "title": "Michiyuki"

@@ -1,6 +1,6 @@
 {
   "accession_number": "P.3,024",
-  "artist": "Artist: Charles Meryon; Artist: after Ducerceau",
+  "artist": "Artist: Charles Meryon; Artist: after Jacques Androuet Ducerceau",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -16,7 +16,7 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Inscription and watermark\r\nInscription: [à Monsieur Geoffroy son tiere devone (?), C. Meryon]",
-  "life_date": "French, 1821 - 1868",
+  "life_date": "French, 1821-1868",
   "markings": "Watermark",
   "medium": "Etching",
   "nationality": "French",
@@ -26,8 +26,15 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Hall of the Lost Footsteps"
+  "title": "Hall of the Lost Footsteps, Palace of Justice"
 }

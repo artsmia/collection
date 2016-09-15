@@ -1,6 +1,6 @@
 {
   "accession_number": "P.3,005",
-  "artist": "Artist: Charles Meryon; Artist: after Zeeman",
+  "artist": "Artist: Charles Meryon; Artist: after Reinier Zeeman",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -16,7 +16,7 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Signature and collector\\'s marks",
-  "life_date": "French, 1821 - 1868",
+  "life_date": "French, 1821-1868",
   "markings": "Collector\\'s marks: [C W Dondeswell (L 690)]",
   "medium": "Etching",
   "nationality": "French",
@@ -26,8 +26,15 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "On plate, lower left: [CM]",
   "style": "19th century",
   "text": "",
-  "title": "Passagers de Calais a Flessingue"
+  "title": "Passengers from Calais to Flushing"
 }
