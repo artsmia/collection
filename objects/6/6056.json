@@ -1,6 +1,6 @@
 {
   "accession_number": "B.80.11",
-  "artist": "Artist: Pablo Picasso; Author: Honoré de Balzac; Publisher: Ambroise Vollard, Paris, France; Woodcutter: Wood engraving by Georges Aubert, Paris, France; Printer: Louis Fort, Paris, France (etchings); Printer: Georges Aubert, Paris, France (wood engravings); Printer: Aimé Jourde, Paris, France , (text and typography)",
+  "artist": "Artist: Pablo Picasso; Author: Honoré de Balzac; Publisher: Ambroise Vollard, Paris; Woodcutter: Wood engraving by Georges Aubert, Paris, France; Printer: Louis Fort, Paris, France (etchings); Printer: Georges Aubert, Paris, France (wood engravings); Printer: Aimé Jourde, Paris, France , (text and typography)",
   "classification": " Books",
   "continent": "Europe",
   "country": "Spain",
@@ -26,6 +26,13 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "Signed in pencil on the colophon page",
   "style": "20th century",
   "text": "Interspersed within the text are 13 original etchings created specifically by Picasso for this book. All deal directly or indirectly with the subject of an artist and his model. In this etching the bull, like the artist, is male and the horse, his female model, both engaged in a stand-off in which the bull clearly dominates. Picasso often used the bull as a symbol of the artistic prowess of the artist in the studio.",

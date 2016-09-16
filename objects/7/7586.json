@@ -1,6 +1,6 @@
 {
   "accession_number": "P.80.57.1",
-  "artist": "Artist: Pierre Bonnard; Publisher: Ambroise Vollard, Paris, France",
+  "artist": "Artist: Pierre Bonnard; Publisher: Ambroise Vollard, Paris",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -26,6 +26,13 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",

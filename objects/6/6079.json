@@ -1,6 +1,6 @@
 {
   "accession_number": "B.85.1",
-  "artist": "Artist: Pierre Bonnard; Author: Paul Verlaine; Woodcutter: Woodcuts by Tony Beltrand; Publisher: Ambroise Vollard, Paris, France; Printer: Imprimerie Nationale, Paris; Printer: Lithography by Auguste Clot, Paris; Book Binder: Georges Cretté",
+  "artist": "Artist: Pierre Bonnard; Author: Paul Verlaine; Woodcutter: Woodcuts by Tony Beltrand; Publisher: Ambroise Vollard, Paris; Printer: Imprimerie Nationale, Paris; Printer: Lithography by Auguste Clot, Paris; Book Binder: Georges Cretté",
   "classification": " Books",
   "continent": "Europe",
   "country": "France",
@@ -26,6 +26,13 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "20th century",
   "text": "",

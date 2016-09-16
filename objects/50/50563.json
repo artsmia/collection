@@ -16,7 +16,7 @@
   "image_height": 2814,
   "image_width": 1656,
   "inscription": "Watermark",
-  "life_date": "French, 1821 - 1868",
+  "life_date": "French, 1821-1868",
   "markings": "Watermark: (unidentified)",
   "medium": "Etching",
   "nationality": "French",
@@ -26,8 +26,15 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Rue des Toiles a Bourges"
+  "title": "View along Rue des Toiles, Bourges"
 }

@@ -1,6 +1,6 @@
 {
   "accession_number": "2012.60a-c",
-  "artist": "Artist: Illustrations by Pablo Picasso; Author: Honoré de Balzac; Artist: Hand-painted chemise, slipcase, and endleaves by John Graham; Publisher: Ambroise Vollard, Paris, France; Engraver: Wood engravings by Georges Aubert, Paris, France; Printer: Louis Fort, Paris, France (etchings); Printer: Georges Aubert, Paris, France (wood engravings); Printer: Aimé Jourde, Paris, France (text, typography)",
+  "artist": "Artist: Illustrations by Pablo Picasso; Author: Honoré de Balzac; Artist: Hand-painted chemise, slipcase, and endleaves by John Graham; Publisher: Ambroise Vollard, Paris; Engraver: Wood engravings by Georges Aubert, Paris, France; Printer: Louis Fort, Paris, France (etchings); Printer: Georges Aubert, Paris, France (wood engravings); Printer: Aimé Jourde, Paris, France (text, typography)",
   "classification": " Books",
   "continent": "Europe",
   "country": "France",
@@ -26,6 +26,13 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "Signed by John Graham in black ink, LC of right-hand front endpaper: [GRAHAM]",
   "style": "20th century",
   "text": "",

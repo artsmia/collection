@@ -1,6 +1,6 @@
 {
   "accession_number": "B.82.9",
-  "artist": "Artist: Pierre Bonnard; Author: Longus (Sophista); Translator: Jacques Amyot; Publisher: Ambroise Vollard, Paris, France; Printer: Imprimerie Nationale, Paris; Lithographer: Auguste Clot, Paris",
+  "artist": "Artist: Pierre Bonnard; Author: Longus (Sophista); Translator: Jacques Amyot; Publisher: Ambroise Vollard, Paris; Printer: Imprimerie Nationale, Paris; Lithographer: Auguste Clot, Paris",
   "classification": " Books",
   "continent": "Europe",
   "country": "France",
@@ -26,6 +26,13 @@
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "1689",
+    "43419",
+    "50487",
+    "50514",
+    "8851"
+  ],
   "signed": "",
   "style": "20th century",
   "text": "",
