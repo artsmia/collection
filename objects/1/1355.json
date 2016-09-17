@@ -1,11 +1,13 @@
 {
   "accession_number": "58.35",
   "artist": "Artist: Francis Bacon",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1953",
   "department": "Paintings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Oil on canvas",
   "nationality": "British (born Ireland)",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

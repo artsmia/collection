@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.33.5",
   "artist": "Artist: Pablo Picasso",
+  "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Bruce B. Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1950",
   "department": "Decorative Arts, Textiles and Sculpture",
   "description": "white plate with slightly squared-off shape; top surface decorated with incised and low-relief design of black silhouettes of matador on horseback at left spearing a bull at right in the head; black silhouettes of spectators at top; yellow, green and blue touches",
@@ -21,17 +23,14 @@
   "medium": "Glazed ceramic",
   "nationality": "Spanish",
   "object_name": "Plate",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G103",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

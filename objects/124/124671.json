@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.33.22",
   "artist": "Artist: Luigi Loir",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Bruce B. Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1874",
   "department": "Paintings",
   "description": "winter day with grey sky; view of the back of a black coach, with coachman's head and upper body visible, driving down a snow-covered street with wheel and horse's tracks in the snow; buildings at left and right side of street",
@@ -21,17 +23,14 @@
   "medium": "Oil on canvas",
   "nationality": "French",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G103",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LRC, in brown: LOIR LUIGI 1974",
   "style": "19th century",

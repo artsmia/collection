@@ -1,11 +1,13 @@
 {
   "accession_number": "P.83.59.54.15",
   "artist": "Artist: Lee Bjorklund",
+  "catalogue_raissonne": "VEL 59",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1978",
   "department": "Prints and Drawings",
   "description": "Number 15 from a portfolio of 15 prints by 15 artists commissioned by Northwestsern National Bank, Minneapolis, as part of an exhibition \"Portfolio 15: An exhibition by Minnesota Artists,\" held in November 1978 at Northwestern National Bank.",
@@ -21,17 +23,14 @@
   "medium": "Color lithograph and hand-colored stencils",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From Portfolio 15",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LR: [Bjorklund 1978]\r\nLL: [A.P. 2/8]",
   "style": "20th century",
