@@ -1,11 +1,13 @@
 {
   "accession_number": "76.72.115",
   "artist": "Artist: Unknown Korean",
+  "catalogue_raissonne": null,
   "classification": " Sculpture",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
+  "curator_approved": 0,
   "dated": "8th century",
   "department": "Japanese and Korean Art",
   "description": "gilt-bronze Buddha; one hands holds holy water bottle, other is damaged; meant to be seen from front, back has three open rectangles (gilt chipped at lower half)",
@@ -21,17 +23,14 @@
   "medium": "Gilt bronze",
   "nationality": null,
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G206",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "8th century",

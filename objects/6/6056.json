@@ -1,11 +1,13 @@
 {
   "accession_number": "B.80.11",
   "artist": "Artist: Pablo Picasso; Author: Honoré de Balzac; Publisher: Ambroise Vollard, Paris; Woodcutter: Wood engraving by Georges Aubert, Paris, France; Printer: Louis Fort, Paris, France (etchings); Printer: Georges Aubert, Paris, France (wood engravings); Printer: Aimé Jourde, Paris, France , (text and typography)",
+  "catalogue_raissonne": "Cramer 20; Boston 225; MoMA 163; Skira 293; Rauch 53; Vollard 191; Horodisch 38-39; V&A 92; B. 82-94 and bk. no. 19; Goeppert 20; Artist and the Book 225; Century of Artists Books 28; Stern 86; Johnson 54",
   "classification": " Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The Bruce B. Dayton Fund",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1931",
   "department": "Prints and Drawings",
   "description": "12 etchings by Picasso and 67 wood engravings after drawings by Picasso\r\n",
@@ -21,17 +23,14 @@
   "medium": "Etchings, wood engravings, letterpress",
   "nationality": "Spanish",
   "object_name": "Artist's book",
+  "portfolio": "From ",
   "provenance": "[Goldschmidt Galleries, New York]; sold to MIA, 1980.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "Signed in pencil on the colophon page",
   "style": "20th century",

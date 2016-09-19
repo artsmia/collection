@@ -2,6 +2,7 @@
   "exhibition_id": 179,
   "exhibition_department": "Minnesota Artists Exhibition Program",
   "exhibition_title": "Reginald Sanders, March 6 - April 20, 1997",
+  "exhibition_description": "An exhibition of kinesthetic abstraction and miniature collage work by 75 year old artist, writer, and musician, Reginald Sanders, explored the relationship between jazz and contemporary abstraction.",
   "begin": 1997,
   "end": 1997,
   "display_date": "Thursday, March 06, 1997 - Sunday, April 20, 1997",
@@ -26,5 +27,12 @@
     39410,
     39411
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1997,
+      "end": 1997,
+      "display_date": "Thursday, March 6, 1997 - Sunday, April 20, 1997"
+    }
+  ]
 }

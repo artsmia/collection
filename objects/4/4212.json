@@ -1,11 +1,13 @@
 {
   "accession_number": "91.172.2",
   "artist": "Artist: Sheila Hicks; Artist: Toshio Sekiji; Artist: Kim Schuefftan",
+  "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Sheila Hicks",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1989",
   "department": "Textiles",
   "description": "Piece of linen fabric, collaged with bast fibers, fabric, paper and folded to form pages of a book. Jacket/dustcover created from linen fabric with added tabs to secure book.",
@@ -21,17 +23,14 @@
   "medium": "Bast, linen, silk; collage, embroidery",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

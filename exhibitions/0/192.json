@@ -2,6 +2,7 @@
   "exhibition_id": 192,
   "exhibition_department": "Minnesota Artists Exhibition Program",
   "exhibition_title": "From Where My Parents Came: Portraits from the Ukraine",
+  "exhibition_description": "An exhibition of portraits by photographer Katherine Turczan explored the contemporary lives of women in the Ukraine, and examined the extraordinary changes of the post-Communist era.",
   "begin": 1997,
   "end": 1998,
   "display_date": "Thursday, December 18, 1997 - Thursday, March 05, 1998",
@@ -32,5 +33,12 @@
     39432,
     39433
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Friday, December 19, 1997 - Sunday, February 8, 1998"
+    }
+  ]
 }

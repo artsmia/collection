@@ -1,11 +1,13 @@
 {
   "accession_number": "68.41.6",
   "artist": "Artist: Unknown Italian (Italo-Byzantine)",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Bequest of Miss Tessie Jones in memory of Herschel V. Jones",
   "culture": null,
+  "curator_approved": 0,
   "dated": "15th century",
   "department": "Paintings",
   "description": "Italo-Byzantine style",
@@ -21,17 +23,14 @@
   "medium": "Tempera on panel",
   "nationality": null,
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "15th century",

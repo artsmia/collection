@@ -1,11 +1,13 @@
 {
   "accession_number": "P.90.1",
   "artist": "Artist: Edgar Degas",
+  "catalogue_raissonne": "Delteil 39; Adhemar 49; Reed & Shapiro 42-undescribed state between xv and xvi/xxii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The John R. Van Derlip Fund",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1879-1880",
   "department": "Prints and Drawings",
   "description": "Female nude seen from behind as she leaves her bath, with her attendant waiting nearby holding a towel. Not signed. No marks.",
@@ -21,13 +23,17 @@
   "medium": "Drypoint and aquatint",
   "nationality": "French",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "Passed down through unidentied family members to Ami Ladd Vitko, Long Lake, Minn.; acquired by MIA, 1990. Previous owner stated that the print had belonged to her great-grandmother, who was thought to have been one of Degas's studio models.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "La Sortie du Bain"
+  "title": "Leaving the Bath"
 }

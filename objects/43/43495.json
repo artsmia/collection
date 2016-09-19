@@ -1,11 +1,13 @@
 {
   "accession_number": "P.94.15",
   "artist": "Maker: Martin Lewis",
+  "catalogue_raissonne": "McCarron 91",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Richard Lewis Hillstrom Fund",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1931",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,12 +23,16 @@
   "medium": "Drypoint",
   "nationality": "American",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "(James and Mary Laurie Booksellers, Minneapolis); sold to MIA, 1994.\r\n",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G316",
-  "signed": "signed in pencil LR: {Martin Lewis]",
+  "room": "Not on View",
+  "see_also": [
+    ""
+  ],
+  "signed": "signed in pencil LR: Martin Lewis",
   "style": "20th century",
   "text": "As a printmaker, Martin Lewis valued nuance, finish, and a wide range of tones. He worked directly on his copper plates, using them much like sheets of paper. The ensuing prints achieve their power from the sharp, incisive quality of the lines and the delicate tones that lie between. Lewis believed that color was inappropriate to etchings, saying: \"I like a print to be black and white. This is its essential quality.\" The moody drypoint Little Penthouse is a masterful evocation of New York City at night.",
   "title": "Little Penthouse"

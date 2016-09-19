@@ -1,11 +1,13 @@
 {
   "accession_number": "98.108.1",
   "artist": "Artist: Unknown Korean",
+  "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "The Ellen and Fred Wells Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "2nd century BCE",
   "department": "Japanese and Korean Art",
   "description": "round-bottomed jar with neck opening into flaring lip; two small v-shaped handles below neck on body; has own stand",
@@ -21,17 +23,14 @@
   "medium": "Earthenware",
   "nationality": null,
   "object_name": "Vessel",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G206",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "2nd century BCE",

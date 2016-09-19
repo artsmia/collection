@@ -1,11 +1,13 @@
 {
   "accession_number": "P.3,564",
   "artist": "Artist: Thomas Gainsborough R.A.",
+  "catalogue_raissonne": "Hayes 17 (only known impression)",
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1785",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Aquatint printed in brown",
   "nationality": "British",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "WE 20 Dr. Munro's sale, by Gainsborough; William Esdaile, 1833 (L.2617); William M. Ladd, Portland, Oreg.; Herschel V Jones, Minneapolis (until 1916; gave to MIA)",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "18th century",

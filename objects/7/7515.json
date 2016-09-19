@@ -1,11 +1,13 @@
 {
   "accession_number": "P.70.51",
   "artist": "Artist: Robert Stanley",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Francisca S. Winston Fund, by exchange",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1969",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Lithograph",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From From Six New York Artists",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in pencil: [Bob Stanley]",
   "style": "20th century",

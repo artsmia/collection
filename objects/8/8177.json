@@ -1,14 +1,16 @@
 {
   "accession_number": "74.1.150a,b",
   "artist": "Artist: Kitagawa Utamaro; Publisher: Uemura Yohei",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1794-1795",
   "department": "Japanese and Korean Art",
-  "description": "vertical ōban diptych",
+  "description": "",
   "dimension": "14 5/16 × 19 5/8 in. (36.3 × 49.9 cm) (image, sheet, vertical ōban diptych)",
   "id": "http://api.artsmia.org/objects/8177",
   "image": "valid",
@@ -21,13 +23,17 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "provenance": "",
+  "portfolio": "From ",
+  "provenance": "Schraubstadter (-1948); Gale (1948'-74)",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "{Utamaro hitsu}",
   "style": "18th century",
-  "text": "In addition to picturing the great beauty and perfection of the \"Floating World's\" greatest courtesans, Utamaro also rendered women of various classes, sometimes engaged in mundane tasks. In this print he shows women stoking a stove, peeling potatoes and washing dishes.",
+  "text": "",
   "title": "Kitchen Scene"
 }

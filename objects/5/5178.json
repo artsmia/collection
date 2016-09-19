@@ -1,11 +1,13 @@
 {
   "accession_number": "97.122.2",
   "artist": "Artist: Unknown Korean",
+  "catalogue_raissonne": null,
   "classification": " Sculpture",
   "continent": "Asia",
   "country": "Korea",
   "creditline": "Gift of funds from Fred and Ellen Wells",
   "culture": null,
+  "curator_approved": 0,
   "dated": "19th century",
   "department": "Japanese and Korean Art",
   "description": "polychrome wood statue of a Confucian scholar standing, holding a book (?) downward at waist toward the viewer, wearing a long flowing blue robe, red waisted skirt with black belt and a black hat",
@@ -21,17 +23,14 @@
   "medium": "Painted wood",
   "nationality": null,
   "object_name": "Figure",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G206",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

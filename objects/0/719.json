@@ -1,11 +1,13 @@
 {
   "accession_number": "45.22",
   "artist": "Artist: attributed to Pierre Antoine de Machy",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Russell A. Plimpton in memory of Lt. (jg) William Gardner White, U.S.N.R.",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1783",
   "department": "Paintings",
   "description": "Place de la Concorde, seen from the left bank of the Seine. To commemorate one of the first balloon ascensions in Paris. Shows the beginning of the first manned hydrogen balloon flight from the Tuileries Garden, Paris to Nesle, a distance of twenty seven miles.",
@@ -21,17 +23,14 @@
   "medium": "Oil on panel",
   "nationality": "French",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "18th century",

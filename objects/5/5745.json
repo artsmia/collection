@@ -1,11 +1,13 @@
 {
   "accession_number": "98.31",
   "artist": "Artist: May Stevens",
+  "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous Gift of Funds",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1995",
   "department": "Prints and Drawings",
   "description": "",
@@ -18,16 +20,20 @@
   "inscription": "Signature; Inscription \r\n\r\nin graphite at LL: [CTP #1\r\nin graphite verso: [Boat Series #2 Untitled 1994 / 94-340/MSTE-2B]",
   "life_date": "American, born 1924",
   "markings": "",
-  "medium": "Acrylic and graphite over color lithograph",
+  "medium": "Acrylic and graphite over color lithograph on black paper",
   "nationality": "American",
   "object_name": "Drawing",
-  "provenance": "(Mary Ryan Gallery, New York); sold to MIA, 1998.",
+  "portfolio": "From Boat Series 2",
+  "provenance": "The artist, Santa Fe, N.M.; (Mary Ryan Gallery, New York); sold to MIA, 1998.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "in graphite LR: [May Stevens]; in graphite verso: [May Stevens]",
   "style": "20th century",
   "text": "Artist, feminist and political activist May Stevens is best known for her notorious satires. But in recent years, she has focused on evocative landscapes and seascapes featuring text fragments from the writings of women authors she admires, such as Virginia Woolf and feminist theorist Julia Kristeva. These words and phrases are generally indecipherable, intended to evoke feelings and meanings through universal associations.\r\n\r\nThis untitled drawing is related to a series of the artist's paintings known as \"Sea of Words\" (1990-91). They reveal the mysterious but active presence of women in small boats gliding across spacious \"verbal\" oceans. Stevens described the elements of these paintings as \"Language into visual form, poetry in the ambiguity of shapes, women as signifiers of human agency moving across space and time, propelled by the whisper and cry of lost voices.\"\r\n",
-  "title": "Untitled, from Boat Series #2"
+  "title": "Untitled"
 }

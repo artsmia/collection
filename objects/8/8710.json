@@ -1,11 +1,13 @@
 {
   "accession_number": "98.18.31",
   "artist": "Painter: Suzuki Hyakunen",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth and Bruce Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "19th century",
   "department": "Japanese and Korean Art",
   "description": "dark ink wash landscape of a scholar in a hut on a mountainside overlooking a waterfall; tall spiky peaks dominate the distance; four line poem in Chinese running script at ULC",
@@ -21,17 +23,14 @@
   "medium": "Hanging scroll; ink on satin",
   "nationality": "Japanese",
   "object_name": "hanging scroll",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

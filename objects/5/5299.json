@@ -1,11 +1,13 @@
 {
   "accession_number": "97.169.1",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Woodwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of George Rickey",
   "culture": "Haida",
+  "curator_approved": 0,
   "dated": "after 1850",
   "department": "Art of Africa and the Americas",
   "description": "carved in half of hollowed-out log and painted; animals are based on a whale, then bear, fish (flat) in foreground, with whale in background; bird, bear with frog in mouth; remains of pigment in blue/green (malacite), black and red",
@@ -21,17 +23,14 @@
   "medium": "Wood, malachite, pigments\r\n",
   "nationality": null,
   "object_name": "Totem Pole",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",
