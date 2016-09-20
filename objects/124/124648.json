@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.33.10",
   "artist": "Artist: Gustave Caillebotte",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Bruce B. Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "19th century",
   "department": "Paintings",
   "description": "deserted village street with tan buildings; pointed grey turret with cross on left side of street in middle ground; bright blue sky with two clouds",
@@ -21,17 +23,14 @@
   "medium": "Oil on canvas",
   "nationality": "French",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G103",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LRC, in royal blue: G Cailleboitte",
   "style": "19th century",

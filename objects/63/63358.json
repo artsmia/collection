@@ -1,11 +1,13 @@
 {
   "accession_number": "2002.181.6",
-  "artist": "Artist: Pierre Bonnard",
+  "artist": "Artist: Pierre Bonnard; Publisher: Edmond Frapier, Galerie des Peintres-Graveurs, Paris",
+  "catalogue_raissonne": "Floury 53 iii/iii; Roger-Marx 82 iv/iv; Bouvet 95 iv/iv; Ives (1989) 111 iv/iv",
   "classification": " Prints",
   "continent": null,
   "country": "France",
   "creditline": "Gift of Martin Weinstein",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1925",
   "department": "Prints and Drawings",
   "description": "landscape with trees at edges, mountains and water in background",
@@ -21,12 +23,16 @@
   "medium": "Lithograph",
   "nationality": "French",
   "object_name": "Print",
+  "portfolio": "From Maîtres et petits maîtres d'aujourd'hui",
   "provenance": "Lora and Martin Weinstein, Minneapolis; given to MIA, 2002.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "LLC, in the print, in black: [PB]; LRC, in pencil: [P Bonnard]",
+  "see_also": [
+    ""
+  ],
+  "signed": "LLC, on the stone, in black: [PB]; LRC, in graphite pencil: [P Bonnard]",
   "style": "20th century",
   "text": "",
   "title": "Landscape in the South of France"

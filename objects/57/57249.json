@@ -1,11 +1,13 @@
 {
   "accession_number": "P.76.28.25",
   "artist": "Artist: Jim McCormick",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Christopher A. Graf",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1975",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Lithograph",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "on sheet",
   "style": "20th century",

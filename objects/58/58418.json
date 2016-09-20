@@ -1,11 +1,13 @@
 {
   "accession_number": "P.83.1",
   "artist": "Artist: Palle Nielsen",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Denmark",
   "creditline": "Gift of the First Bank System",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1976",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Linocut",
   "nationality": "Danish",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in pencil, lower right",
   "style": "20th century",

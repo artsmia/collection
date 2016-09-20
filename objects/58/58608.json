@@ -1,11 +1,13 @@
 {
   "accession_number": "P.86.62.26",
   "artist": "Artist: Lee Bjorklund",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1978",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Color lithograph",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From Portfolio 15",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

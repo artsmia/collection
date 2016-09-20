@@ -1,11 +1,13 @@
 {
   "accession_number": "98.274.4",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Asia",
   "country": "Uzbekistan",
   "creditline": "Gift of Gail Martin",
   "culture": null,
+  "curator_approved": 0,
   "dated": "18th century",
   "department": "Textiles",
   "description": "Strips of silk ikat warp, red silk weft, sewn together; repeating pattern of yellow circle with purple and blue patches inside of pink circle with 4 S-shaped swirls and purple patches with yellow S-shaped swirls and red and blue patches; backed with floral print in pinks and white; tassels at corners",
@@ -21,17 +23,14 @@
   "medium": "Silk, cotton; ikat",
   "nationality": null,
   "object_name": "Panel",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "18th century",

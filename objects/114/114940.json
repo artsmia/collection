@@ -1,11 +1,13 @@
 {
   "accession_number": "2013.79.15",
   "artist": "Artist: Sakamoto Kōichi",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Harry Drake",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1984",
   "department": "Japanese and Korean Art",
   "description": "three large brown houses with their roofs covered in snow; bare trees in front of houses; tall pines behind houses",
@@ -21,17 +23,14 @@
   "medium": "Mezzotint print; ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (gendai hanga)",
+  "portfolio": "From ",
   "provenance": "(Asian Fine Arts, Frederick Wells, Prop. ~1984).\r\n",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LRC, in pencil: [Koichi Sakamoto]",
   "style": "20th century",

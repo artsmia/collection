@@ -1,11 +1,13 @@
 {
   "accession_number": "P.88.125",
   "artist": "Artist: Clement Haupers",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin, Jr.",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1930",
   "department": "Prints and Drawings",
   "description": "",
@@ -18,16 +20,20 @@
   "inscription": "\r\n\r\nsee Signed",
   "life_date": "American, 1900–1982",
   "markings": "",
-  "medium": "Etching and soft-ground",
+  "medium": "Etching and soft-ground etching",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Agnes, Mabel and Becky, 'Merry Widows'"
+  "title": "Agnes, Mabel and Becky, \"Merry Widows\""
 }

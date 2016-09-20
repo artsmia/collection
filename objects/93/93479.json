@@ -1,11 +1,13 @@
 {
   "accession_number": "P.78.64.37.2",
   "artist": "Artist: Katsukawa Shunshō",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1770-1773",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e)",
+  "portfolio": "From Tales of Ise in Fashionable Brocade Prints (Fūryū nishiki-e Ise monogatari 風流錦絵伊勢物語)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "{Shunshō ga}",
   "style": "18th century",

@@ -1,12 +1,14 @@
 {
   "accession_number": "P.58.100",
   "artist": "Artist: Félix Bracquemond",
+  "catalogue_raissonne": "Beraldi App 113(?)",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
   "culture": null,
-  "dated": "c. 1850-1914",
+  "curator_approved": 0,
+  "dated": "c. 1894",
   "department": "Prints and Drawings",
   "description": "",
   "dimension": "7 x 4 13/16 in. (17.78 x 12.22 cm) (plate)\r\n12 11/16 x 9 13/16 in. (32.23 x 24.92 cm) (sheet)",
@@ -21,13 +23,17 @@
   "medium": "Color-printed etching",
   "nationality": "French",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "La Poule aux oeufs d'or, or The Goose That Lays the Golden Eggs"
+  "title": "The Hen That Lays the Golden Eggs"
 }

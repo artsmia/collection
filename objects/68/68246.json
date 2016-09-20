@@ -1,11 +1,13 @@
 {
   "accession_number": "P.79.79",
   "artist": "Artist: K. R. H. Sonderborg; Publisher: Galerie Ernst Beyeler, Basel",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Samuel Sachs II",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1977",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Lithograph",
   "nationality": "German (born Denmark)",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "Galerie Ernst Beyeler, Basel, Switzerland, given to Sachs; Samuel Sachs II, Minneapolis, given to MIA, 1979.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

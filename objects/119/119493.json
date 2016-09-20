@@ -1,11 +1,13 @@
 {
   "accession_number": "2014.55",
   "artist": "Designer: Harri Koskinen; Manufacturer: Artek",
+  "catalogue_raissonne": null,
   "classification": " Furniture",
   "continent": "Europe",
   "country": "Finland",
   "creditline": "Gift of Artek USA Inc.",
   "culture": null,
+  "curator_approved": 0,
   "dated": "2011",
   "department": "Decorative Arts, Textiles and Sculpture",
   "description": "slipper chair, no arms; black wood with slightly padded black leather seat and back",
@@ -21,13 +23,17 @@
   "medium": "Pressed birch plywood, pressed birch veneer, leather",
   "nationality": null,
   "object_name": "Lounge chair",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "21st century",
   "text": "",
-  "title": "HK 002"
+  "title": "HK 002 lounge chair"
 }

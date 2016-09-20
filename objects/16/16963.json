@@ -1,11 +1,13 @@
 {
   "accession_number": "42.8.280",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Asia",
   "country": "China",
   "creditline": "The John R. Van Derlip Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "19th century",
   "department": "Chinese, South and Southeast Asian Art",
   "description": "Valance of faded brick-red satin embroidered, in the lower area, with the Eight Imortals in colored silks.  In upper section a row of crane medallions in blues, green and rust.  Chiefly satin stitch, with couched gold thread details.  Lining of ecru cotton.",
@@ -21,17 +23,14 @@
   "medium": "silk,cotton, gold thread, embroidery",
   "nationality": null,
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

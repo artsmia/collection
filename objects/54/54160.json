@@ -1,11 +1,13 @@
 {
   "accession_number": "P.88.83",
   "artist": "Artist: Clement Haupers",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. John E. Larkin",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1928",
   "department": "Prints and Drawings",
   "description": "",
@@ -20,14 +22,18 @@
   "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
-  "object_name": "",
+  "object_name": "Print",
+  "portfolio": "From From Paris after 10 p.m.",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Fine Feathers, Folies Bergere, Paris"
+  "title": "Fine Feathers, Folies Bergère, Paris"
 }

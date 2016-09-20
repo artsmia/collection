@@ -1,11 +1,13 @@
 {
   "accession_number": "82.40",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Asia",
   "country": "India",
   "creditline": "Gift of Francis J. Puig",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1870",
   "department": "Chinese, South and Southeast Asian Art",
   "description": "twill tapestry weave, embroidered and fringed ends",
@@ -21,17 +23,14 @@
   "medium": "Wool; twill-tapestry weave, embroidery",
   "nationality": null,
   "object_name": "Shawl",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.62.12",
   "artist": "Artist: Stefano della Bella; Publisher: Pierre Mariette I",
+  "catalogue_raissonne": "De Vesme 375, i/ii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of James A. Bergquist in loving memory of Richard L. Hillstrom",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1641",
   "department": "Prints and Drawings",
   "description": "study of head of a youth with shoulder-length curly hair in profile from PR",
@@ -21,17 +23,14 @@
   "medium": "Etching",
   "nationality": "Italian (Florence)",
   "object_name": "Print",
+  "portfolio": "From I principii del disegno (The Principles of Design)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "17th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "P.11,469",
   "artist": "Artist: Clement Haupers",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Artist, 1933",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1929",
   "department": "Prints and Drawings",
   "description": "",
@@ -20,14 +22,18 @@
   "markings": "",
   "medium": "Etching",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "in pencil on margin",
   "style": "20th century",
   "text": "",
-  "title": "Near Cagnes-sur-mer"
+  "title": "Near Cagnes-sur-Mer"
 }

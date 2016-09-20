@@ -1,11 +1,13 @@
 {
   "accession_number": "P.77.11.2",
   "artist": "Artist: William Nelson",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of James E. Gillihan",
   "culture": null,
+  "curator_approved": 0,
   "dated": "20th century",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Lithograph",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in pencil: [William Nelson]",
   "style": "20th century",

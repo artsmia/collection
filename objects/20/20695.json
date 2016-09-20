@@ -1,11 +1,13 @@
 {
   "accession_number": "75.21",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Basketry",
   "continent": "Africa",
   "country": "Ethiopia",
   "creditline": "The Miscellaneous Works of Art Purchase Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "20th century",
   "department": "Art of Africa and the Americas",
   "description": "Large platter made of straw and leather; browns and red straw woven into geometric pattern; 4 leather handles evenly spaced around the rim.",
@@ -21,17 +23,14 @@
   "medium": "Straw, leather",
   "nationality": null,
   "object_name": "Harrar Platter",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G236",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

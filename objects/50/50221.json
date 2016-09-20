@@ -1,11 +1,13 @@
 {
   "accession_number": "P.88.2",
   "artist": "Artist: T.W.  Huffman; Artist: After John Frederick Herring, Sr.; Publisher: Baily Brothers, London",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Mr. and Mrs. Austin J. Baillon",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1846",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Hand-colored etching and aquatint",
   "nationality": "British",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

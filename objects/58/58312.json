@@ -1,11 +1,13 @@
 {
   "accession_number": "P.78.6.14",
   "artist": "Artist: Pablo Picasso; Publisher: Ambroise Vollard, Paris; Printer: Louis Fort, Paris, France",
+  "catalogue_raissonne": "Baer 6",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Miss Perrie Jones, by exchange",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1905 (published 1913)",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Drypoint",
   "nationality": "Spanish",
   "object_name": "Print",
+  "portfolio": "From from Saltembanques suite (15 prints)",
   "provenance": "(R.G. Michel, Paris); sold to MIA, 1978",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in plate, UL: [Picasso]",
   "style": "20th century",

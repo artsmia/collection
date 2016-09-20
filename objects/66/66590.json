@@ -1,11 +1,13 @@
 {
   "accession_number": "P.69.224.10",
   "artist": "Artist: Gio Pomodoro; Author: Guido Ballo; Publisher: Galleria Schwarz, Milan; Printer: Giorgio Upiglio , MIlan",
+  "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Gordon Locksley and George Shea",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1966",
   "department": "Prints and Drawings",
   "description": "unbound in portfolio cover- green cloth; slip case: green cloth (broken)",
@@ -21,17 +23,14 @@
   "medium": "Color metal relief print",
   "nationality": "Italian",
   "object_name": "Print",
+  "portfolio": "From L'Alberio Poeta",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "65.40",
   "artist": "Artist: Charles LeBrun",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Anonymous gift of funds",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1660",
   "department": "Paintings",
   "description": "The scene depicted is the Holy Family in Egypt during a moment of temporary refuge from the pursuing soldiers of King Herod. The artist has represented the Christ Child reading to the Virgin while Saint Joseph reclines inconspicuously in the background.",
@@ -21,17 +23,14 @@
   "medium": "Oil on canvas",
   "nationality": null,
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LR (on step): [CLBF]",
   "style": "17th century",

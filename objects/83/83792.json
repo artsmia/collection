@@ -1,11 +1,13 @@
 {
   "accession_number": "P.96.30.42",
   "artist": "Artist: Claude Burdel",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Carl A. Weyerhaeuser",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1751",
   "department": "Prints and Drawings",
   "description": "From a deck of 78 hand-colored triumph playing cards.",
@@ -21,17 +23,14 @@
   "medium": "Hand-colored woodcut",
   "nationality": "Swiss",
   "object_name": "Playing card",
+  "portfolio": "From Tarot of Marseilles Playing Cards",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "18th century",

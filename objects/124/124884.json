@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.33.1",
   "artist": "Artist: Ernest-Ange Duez",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Bruce B. Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1883",
   "department": "Paintings",
   "description": "table with white cloth; silver dish with piece of salmon at center; lobster and pink flowers in front; fowl with white feathers ant left; two-handled bulbous brownish vase in back at left with orange flowers; purple flowers around salmon",
@@ -21,17 +23,14 @@
   "medium": "Oil on panel",
   "nationality": "French",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G103",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LRC, in light brown: á mon ami F. Heilbuth [?] / E. Duez / 1883",
   "style": "19th century",

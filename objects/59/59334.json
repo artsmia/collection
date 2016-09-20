@@ -1,11 +1,13 @@
 {
   "accession_number": "P.83.4",
   "artist": "Artist: Hans Wigert",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Sweden",
   "creditline": "Gift of the First Bank System",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1947-1983",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Drypoint",
   "nationality": "Swedish",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "In pencil, LR: [Hans Wigert 132/135]",
   "style": "20th century",

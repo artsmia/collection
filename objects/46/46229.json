@@ -1,11 +1,13 @@
 {
   "accession_number": "P.75.11",
   "artist": "Artist: Daniel F. Fuchs",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of the artist",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1975",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Color etching and aquatint",
   "nationality": "Austrian",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in pencil with date",
   "style": "20th century",

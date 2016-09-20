@@ -1,11 +1,13 @@
 {
   "accession_number": "P.83.64",
   "artist": "Artist: Don Nice",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John W. Ittman",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1972",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Color lithograph",
   "nationality": "American",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "Parisol Press, New York; John Ittmann, Minneapolis; given to MIA, 1983.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "In pencil: [Nice]",
   "style": "20th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "98.276.1",
   "artist": "Designer: George Grant Elmslie",
+  "catalogue_raissonne": null,
   "classification": " Metalwork",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1907-1908",
   "department": "Decorative Arts, Textiles and Sculpture",
   "description": "rectangular window with five small rectangles in a horizontal row at top, overall linear decoration",
@@ -21,17 +23,14 @@
   "medium": "Glass, lead caming",
   "nationality": "American",
   "object_name": "Window",
+  "portfolio": "From From the Henry B. Babson House, Riverside, Illinois (demolished 1960); Louis Sullivan, architect",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "Arts and Crafts",

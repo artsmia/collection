@@ -1,11 +1,13 @@
 {
   "accession_number": "P.84.33",
   "artist": "Artist: John Stockton de Martelly",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1927-1933",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Etching, off white laid paper",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "PROV/EXHIB:  (Alden Galleries, Kansas City, MO)",
   "restricted": 0,
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

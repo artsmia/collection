@@ -1,11 +1,13 @@
 {
   "accession_number": "P.77.37.15.2",
   "artist": "Artist: Ray Kerciu",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Frederick P. Nause",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1977",
   "department": "Prints and Drawings",
   "description": "Diptych",
@@ -21,17 +23,14 @@
   "medium": "Lithograph",
   "nationality": "American",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

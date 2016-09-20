@@ -1,11 +1,13 @@
 {
   "accession_number": "06.2",
   "artist": "Artist: Douglas Volk; Depicted: John S. Bradstreet",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John Scott Bradstreet",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1890",
   "department": "Paintings",
   "description": "Portrait. Interior.",
@@ -21,17 +23,14 @@
   "medium": "Oil on canvas",
   "nationality": "American",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G319",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LR in red: Douglas Volk",
   "style": "19th century",

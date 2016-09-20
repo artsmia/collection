@@ -1,12 +1,14 @@
 {
   "accession_number": "P.85.54.43",
   "artist": "Artist: Étienne Delaune",
+  "catalogue_raissonne": "Robert-Dumesnil 281 i/iv p. 87 vol. ix\r\nsee also Brown 36",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Anonymous Gift",
   "culture": null,
-  "dated": "16th century",
+  "curator_approved": 0,
+  "dated": "1558-1572",
   "department": "Prints and Drawings",
   "description": "from a suite of 12",
   "dimension": "2 5/8 x 8 3/4 in. (6.67 x 22.23 cm) (image, sheet)",
@@ -21,13 +23,17 @@
   "medium": "Engraving",
   "nationality": "French",
   "object_name": "Print",
+  "portfolio": "From Combats and Triumphs",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "16th century",
-  "text": "The signature on this and the other Étienne Delaune prints in this exhibition states, \"Étienne made it, with the king's privilege.\" The artist's first royal patron was Henri II (1519-1559), whose military exploits could have inspired this metaphorical melee. A shield that Delaune designed for Henri, now in the collection of the Metropolitan Museum of Art in New York, has many of the same motifs, including the cuirass, bound captives, banners, and shields. Following a common practice, Delaune copied motifs from Italian prints; the shield with a gorgon's head near the feet of the war goddess Bellona, for example, was taken directly from Enea Vico.",
+  "text": "The signature on this Étienne Delaune print states, \"Étienne made it, with the king's privilege.\" The artist's first royal patron was Henri II (1519-1559), whose military exploits could have inspired this metaphorical melee. A shield that Delaune designed for Henri, now in the collection of the Metropolitan Museum of Art in New York, has many of the same motifs, including the cuirass, bound captives, banners, and shields. Following a common practice, Delaune copied motifs from Italian prints; the shield with a gorgon's head near the feet of the war goddess Bellona, for example, was taken directly from Enea Vico.",
   "title": "Bellona"
 }

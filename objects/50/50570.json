@@ -1,11 +1,13 @@
 {
   "accession_number": "P.3,013",
   "artist": "Artist: Charles Meryon",
+  "catalogue_raissonne": "W 15; \r\nD 31 vi/ix",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1852",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Etching",
   "nationality": "French",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "P.68.57",
   "artist": "Artist: Omar Rayo",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "South America",
   "country": "Colombia",
   "creditline": "The John R. Van Derlip Fund",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1965",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Inkless intaglio",
   "nationality": "Colombian",
   "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "[Associated American Artists, New York]; sold to MIA, 1968.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in pencil: [Omar Rayo]",
   "style": "20th century",

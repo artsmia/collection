@@ -1,11 +1,13 @@
 {
   "accession_number": "B.84.2",
   "artist": "Artist: Georges Rouault; Author: André Suarès; Publisher: Ambroise Vollard, Paris , Paris",
+  "catalogue_raissonne": "Chapon, p.162; Garvey #272\r\nWofsy # 336\r\nR & R 257-273",
   "classification": " Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Mr. and Mrs. John E. Andrus III",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1939",
   "department": "Prints and Drawings",
   "description": "17 color aquatints (See: B.84.2.1-17) and 82 wood engravings; binding: wove paper on firm support as cover, pages unbound; endpapers: wove",
@@ -21,17 +23,14 @@
   "medium": "Color aquatints and wood engravings",
   "nationality": "French",
   "object_name": "Artist's book",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.60.2",
   "artist": "Artist: Mike Bidlo; Publisher: World House Editions, Middlebury, Conn.",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Proceeds from the 2015 Minneapolis Print and Drawing Fair",
   "culture": null,
+  "curator_approved": 1,
   "dated": "2015",
   "department": "Prints and Drawings",
   "description": "one large fingerprint with loop patterning in lower left corner",
@@ -21,17 +23,14 @@
   "medium": "Lithograph",
   "nationality": "American",
   "object_name": "Print",
+  "portfolio": "From Not Manzoni",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "G180",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "LRC in pencil: M Bidlo 15",
   "style": "21st century",

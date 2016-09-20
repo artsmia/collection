@@ -1,11 +1,13 @@
 {
   "accession_number": "P.79.130.5",
   "artist": "Artist: Frances Myers",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Prints and Drawings Miscellaneous Purchase Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1978",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Color aquatint",
   "nationality": "American",
   "object_name": "Print",
+  "portfolio": "From Great Sands series",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in pencil: [Frances Myers]",
   "style": "20th century",

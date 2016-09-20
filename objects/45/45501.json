@@ -1,11 +1,13 @@
 {
   "accession_number": "2016.33.26",
   "artist": "Artist: Armand Séguin",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Bequest of Bruce B. Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "c. 1890",
   "department": "Paintings",
   "description": "landscape with green sky and orange trees at right; purple, white, orange and blue buildings; three large boats, figure standing in small boat in foreground; bright blue water",
@@ -21,17 +23,14 @@
   "medium": "Oil on canvas",
   "nationality": "French",
   "object_name": "Painting",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G103",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

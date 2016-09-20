@@ -1,11 +1,13 @@
 {
   "accession_number": "P.79.165.1",
   "artist": "Artist: Arnulf Rainer; Author: J.W.M. Willett; Publisher: Edition Hansjorg Mayer, Stuttgart, London, and Reykjavik; Publisher: Eaton House Publishers, Ltd., London",
+  "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of funds from R. Nelson Jones",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1978",
   "department": "Prints and Drawings",
   "description": "binding: pearl gray full linen; endpapers: cream laid; slip case: missing; dust jacket gray and cream glossy with reproduction",
@@ -21,17 +23,14 @@
   "medium": "Book",
   "nationality": "Austrian",
   "object_name": "Artist's book",
+  "portfolio": "From ",
   "provenance": "Ackerman Foundation",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

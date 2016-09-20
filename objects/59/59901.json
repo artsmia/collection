@@ -1,11 +1,13 @@
 {
   "accession_number": "P.86.20.7",
   "artist": "Artist: Robert Israel",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Julius E. Davis",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1970",
   "department": "Prints and Drawings",
   "description": "Plate 6",
@@ -21,17 +23,14 @@
   "medium": "Hand-colored lithograph",
   "nationality": "American",
   "object_name": null,
+  "portfolio": "From Punch and Judy",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "on sheet",
   "style": "20th century",

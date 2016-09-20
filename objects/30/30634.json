@@ -1,11 +1,13 @@
 {
   "accession_number": "98.156.3",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Judaica",
   "continent": null,
   "country": "Iran",
   "creditline": "The Paul C. Johnson, Jr. Fund",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1879",
   "department": "Decorative Arts, Textiles and Sculpture",
   "description": "block of text at lower center with trees and birds in borders on sides and bottom; pair of female lions with radiating faces behind their backs and a tree between them; pair of green and orange birds at top; all surrounded by text border",
@@ -21,17 +23,14 @@
   "medium": "Paper, ink, pigment\r\n",
   "nationality": null,
   "object_name": "Ketubah (marriage contract)",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

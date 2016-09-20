@@ -1,11 +1,13 @@
 {
   "accession_number": "2013.31.90",
   "artist": "Artist: Hashimoto Dokuzan",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
   "culture": null,
+  "curator_approved": 0,
   "dated": "early 20th century",
   "department": "Japanese and Korean Art",
   "description": "rocky shoreline with lightly colored trees; small pavilion near lower center; two fishing boats, one with a single figure, and the other with two figures at lower center; small buildings above to R of stone bridge; castle or temple complex at UL",
@@ -21,12 +23,16 @@
   "medium": "Ink and light colors on paper",
   "nationality": null,
   "object_name": "Hanging scroll",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "URC",
+  "see_also": [
+    ""
+  ],
+  "signed": "URC：",
   "style": "20th century",
   "text": "",
   "title": "Autumn Landscape"

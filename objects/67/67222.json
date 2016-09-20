@@ -1,11 +1,13 @@
 {
   "accession_number": "P.82.44.1",
   "artist": "Artist: Robert Lee Evermon",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of N. Walter Graff",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1963",
   "department": "Prints and Drawings",
   "description": "first plate of two",
@@ -21,17 +23,14 @@
   "medium": "Etching and aquatint",
   "nationality": "American",
   "object_name": "Print; diptych",
+  "portfolio": "From First plate, etching and aquatint on two plates (on two sheets)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

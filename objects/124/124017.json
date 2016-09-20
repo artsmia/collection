@@ -1,11 +1,13 @@
 {
   "accession_number": "2015.130.2",
   "artist": "Artist: Attributed to Amedeo Modigliani",
+  "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Peter Pflaum and Stephen R. Pflaum",
   "culture": null,
+  "curator_approved": 0,
   "dated": "20th century",
   "department": "Prints and Drawings",
   "description": "recto: line drawing of seated figure with short curlly hair; legs crossed; ring on PL hand; verso: line drawing of a seated figure; simplified",
@@ -21,17 +23,14 @@
   "medium": "Pencil on paper",
   "nationality": "Italian",
   "object_name": "Two-sided Drawing",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "recto, LRC in pencil: [Modigliani]",
   "style": "20th century",

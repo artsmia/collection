@@ -1,11 +1,13 @@
 {
   "accession_number": "B.91.5.77",
   "artist": "Artist: Pierre Vidal, French, 1849-1929; Author: Pierre Louÿs; Publisher: A. Blaizot , Paris; Book Binder: Charles Septier",
+  "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1906",
   "department": "Prints and Drawings",
   "description": "Text by Pierre Louys",
@@ -21,17 +23,14 @@
   "medium": "Hand-colored lithographs; letterpress",
   "nationality": "French",
   "object_name": "Artist's book",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

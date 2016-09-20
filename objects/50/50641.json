@@ -1,11 +1,13 @@
 {
   "accession_number": "P.3,035",
   "artist": "Artist: Charles Meryon",
+  "catalogue_raissonne": "W 88; \r\nD 79 viii/viii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1861",
   "department": "Prints and Drawings",
   "description": "black ink",
@@ -16,18 +18,22 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Date, inscription and watermark\r\nInscription in handwritting of Mèryon",
-  "life_date": "French, 1821 - 1868",
+  "life_date": "French, 1821-1868",
   "markings": "Watermark: \\\"gothic\\\" W?",
   "medium": "Etching",
   "nationality": "French",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "dated 21 Nov.",
   "style": "19th century",
   "text": "",
-  "title": "François Viète"
+  "title": "Portrait of François Viète"
 }

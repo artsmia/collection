@@ -1,11 +1,13 @@
 {
   "accession_number": "P.96.30.1",
   "artist": "Artist: Claude Burdel",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Switzerland",
   "creditline": "Gift of Carl A. Weyerhaeuser",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1751",
   "department": "Prints and Drawings",
   "description": "From a deck of 78 hand-colored triumph playing cards. Bearded man with back to viewer in what looks to be a jester's cap; holds stick in one hand with cloth bundle hanging from the end and slung across his back; walking stick in other hand and cat at lower left; LE MAT printed on bottom border",
@@ -21,17 +23,14 @@
   "medium": "Hand-colored woodcut",
   "nationality": "Swiss",
   "object_name": "Playing card",
+  "portfolio": "From Tarot of Marseilles Playing Cards",
   "provenance": "'Lady Charlotte Elizabeth Schrieber, 1812-1895, London [1]. Carl A. Weyerhaeuser, Minneapolis (by 1937-1996; given to MIA)\r\n\r\n1. Note with deck states: \"Swiss Tarot. / Complete 78 Cards / from Schreiber Collection\"",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "18th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "P.80.61",
   "artist": "Artist: Kim Lim",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from Anne W. Blodgett",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1972",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Color aquatint",
   "nationality": "British",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "Ackerman Foundation",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

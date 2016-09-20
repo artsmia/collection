@@ -1,11 +1,13 @@
 {
   "accession_number": "30.23.73",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Asia",
   "country": "India",
   "creditline": "Bequest of Miss Lily Place",
   "culture": null,
+  "curator_approved": 0,
   "dated": "19th century",
   "department": "Chinese, South and Southeast Asian Art",
   "description": "Envelope-shaped pouch of purple silk embroidered all over, and encrusted with mirrors.  Ornamented at bottom and both sides with bunches of tassels.",
@@ -21,17 +23,14 @@
   "medium": "Silk, mirrors; embroidery",
   "nationality": null,
   "object_name": "Pouch",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

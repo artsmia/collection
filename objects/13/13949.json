@@ -1,11 +1,13 @@
 {
   "accession_number": "21.442a,b",
   "artist": "",
+  "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Gift of Countess Phelps Resse",
   "culture": null,
+  "curator_approved": 0,
   "dated": "16th century",
   "department": "Textiles",
   "description": "Lace, Buratto, border of fine silk with design of conventionalized grape vine embroidered in darning stitch. See 21.59.",
@@ -21,17 +23,14 @@
   "medium": "silk; buratto; lace",
   "nationality": null,
   "object_name": "Border",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "16th century",

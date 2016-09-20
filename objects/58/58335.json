@@ -1,11 +1,13 @@
 {
   "accession_number": "P.79.170.4",
   "artist": "Artist: Juan Genoves",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Joel M. Pearlberg",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1970-1971",
   "department": "Prints and Drawings",
   "description": "from a portfolio of ten etchings",
@@ -21,17 +23,14 @@
   "medium": "Etching",
   "nationality": "Spanish",
   "object_name": "Print",
+  "portfolio": "From El Lugar y El Tiempo",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

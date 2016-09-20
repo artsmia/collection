@@ -1,11 +1,13 @@
 {
   "accession_number": "99.240",
   "artist": "Artist: Frank Sander",
+  "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Frank Sander",
   "culture": null,
+  "curator_approved": 1,
   "dated": "1999",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,17 +23,14 @@
   "medium": "Graphite and pastel on squared tracing paper",
   "nationality": "German (active United States)",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "in graphite, LR: [FS 99]",
   "style": "20th century",

@@ -1,12 +1,14 @@
 {
   "accession_number": "P.3,261",
-  "artist": "Artist: Paul Adolphe Rajon; Artist: after John Baptist Jackson",
+  "artist": "Artist: Paul-Adolphe Rajon; Artist: after John Baptist Jackson",
+  "catalogue_raissonne": "Beraldi 131",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
   "culture": null,
-  "dated": "19th century",
+  "curator_approved": 0,
+  "dated": "c. 1872",
   "department": "Prints and Drawings",
   "description": "",
   "dimension": "5 7/8 x 4 1/4 in. (14.92 x 10.8 cm) (plate)\r\n17 1/8 x 11 3/8 in. (43.5 x 28.89 cm) (sheet)",
@@ -21,13 +23,17 @@
   "medium": "Etching",
   "nationality": "British",
   "object_name": null,
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Portrait of Canova"
+  "title": "Portrait of Antonio Canova"
 }

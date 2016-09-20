@@ -1,11 +1,13 @@
 {
   "accession_number": "P.82.40.301",
   "artist": "Artist: Winslow Homer; Author: William Cullen Bryant; Publisher: D. Appleton and Co.",
+  "catalogue_raissonne": "K  b23",
   "classification": " Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Dr. and Mrs. Robert D. Semsch",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1872",
   "department": "Prints and Drawings",
   "description": "Book with 3 illustrations.",
@@ -21,17 +23,14 @@
   "medium": "Wood engravings, letterpress",
   "nationality": "American",
   "object_name": "Illustrated book",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "19th century",

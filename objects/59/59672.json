@@ -1,11 +1,13 @@
 {
   "accession_number": "P.76.6",
   "artist": "Artist: William Weege",
+  "catalogue_raissonne": null,
   "classification": " Multiples",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John W. Ittmann",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1976",
   "department": "Prints and Drawings",
   "description": "Artist's multiple",
@@ -21,17 +23,14 @@
   "medium": "Colored paper pulp",
   "nationality": "American",
   "object_name": "Multiple",
+  "portfolio": "From ",
   "provenance": "John W. Ittmann, Minneapolis; given to MIA, 1976.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "Signed, dated in pencil, LC: [Weege 76]",
   "style": "20th century",

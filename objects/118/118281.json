@@ -1,11 +1,13 @@
 {
   "accession_number": "2013.31.1",
   "artist": "Artist: Hidaka Tetsuō",
+  "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "The John R. Van Derlip Fund; purchase from the collection of Elizabeth and Willard Clark",
   "culture": null,
+  "curator_approved": 0,
   "dated": "mid 19th century",
   "department": "Japanese and Korean Art",
   "description": "stylized foliage and orchids growing from three irregular rock formations at LL, R, and URQ",
@@ -21,12 +23,16 @@
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "signed": "URC: [Tetsuo]",
+  "see_also": [
+    ""
+  ],
+  "signed": "URC: 鉄翁{Tetsuo}",
   "style": "19th century",
   "text": "",
   "title": "Orchids and Stones"

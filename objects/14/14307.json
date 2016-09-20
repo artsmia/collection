@@ -1,11 +1,13 @@
 {
   "accession_number": "25.444",
   "artist": "Artist: Arnold Ronnebeck",
+  "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "North America",
   "country": "United States",
   "creditline": "John DeLaittre Memorial Collection\r\nGift of funds from Mrs. Horace Ropes",
   "culture": null,
+  "curator_approved": 1,
   "dated": "c. 1925",
   "department": "Prints and Drawings",
   "description": "",
@@ -21,13 +23,18 @@
   "medium": "Graphite on paper",
   "nationality": "American (born Germany)",
   "object_name": "Drawing",
+  "portfolio": "From ",
   "provenance": "The artist, New York; (Weyhe Gallery, New York); sold to MIA, 1925.",
   "restricted": 0,
   "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    "14307",
+    "58529"
+  ],
   "signed": "",
   "style": "20th century",
-  "text": "",
+  "text": "In his graphite drawing Wall Street, Arnold Ronnebeck’s captures the dramatic visual effect of a skyscraper-lined streetscape in the heart of the financial district in Lower Manhattan. From deep shadows to brilliant light, the scene emphasizes the unrelenting geometry of modern urban architecture.  In the far distance is the spire of the historic Trinity Church, a Gothic-revival Episcopal parish church completed in 1846.",
   "title": "Wall Street, New York"
 }

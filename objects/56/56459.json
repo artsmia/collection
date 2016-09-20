@@ -1,11 +1,13 @@
 {
   "accession_number": "P.71.119",
   "artist": "Artist: Juan Genoves",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1970",
   "department": "Prints and Drawings",
   "description": "Plate 10",
@@ -21,17 +23,14 @@
   "medium": "Aquatint",
   "nationality": "Spanish",
   "object_name": null,
+  "portfolio": "From Silencio, Silencio",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

@@ -1,11 +1,13 @@
 {
   "accession_number": "P.80.67.2",
   "artist": "Artist: Richard Wilson",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of funds from William A. Graham IV",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1980",
   "department": "Prints and Drawings",
   "description": "multi-edition of constructions (wind instruments) on paper trays, wood strips, metal, accompanied with photos of constructions assembled; with a portfolio of illustrations(P.80.67.8) in wooden (chestnut) box (P.80.67.9)",
@@ -21,17 +23,14 @@
   "medium": "Paper, wood, photography, metal",
   "nationality": "British",
   "object_name": "Object",
+  "portfolio": "From Wind Instruments",
   "provenance": "Ackermann'",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "1689",
-    "43419",
-    "50487",
-    "50514",
-    "8851"
+    ""
   ],
   "signed": "",
   "style": "20th century",

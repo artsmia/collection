@@ -1,10 +1,13 @@
 {
   "accession_number": "2015.105",
   "artist": "",
+  "catalogue_raissonne": null,
+  "classification": " Textiles",
   "continent": "North America",
   "country": "Guatemala",
   "creditline": "Gift of Kenneth and Gertrude Ferguson",
   "culture": null,
+  "curator_approved": 0,
   "dated": "1950s-1970s",
   "department": "Art of Africa and the Americas",
   "description": "brightly colored textile with striped background; bands of embroidered designs overlapping the striped background; bands of triangular motifs; two wider bands each featuring stylized image of a human figure, an alpaca, and birds; fringe",
@@ -19,13 +22,18 @@
   "markings": "",
   "medium": "Wool",
   "nationality": null,
+  "object_name": "Cloth (tzute)",
+  "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
+  "see_also": [
+    ""
+  ],
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Tzute"
+  "title": "Cloth (tzute)"
 }
