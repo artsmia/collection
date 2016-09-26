@@ -1,6 +1,6 @@
 {
   "accession_number": "P.68.238",
-  "artist": "Artist: Nicolleto Rosex Modena",
+  "artist": "Artist: Nicoletto da Modena",
   "catalogue_raissonne": "Pass 80; Hind V 125.49",
   "classification": " Prints",
   "continent": "Europe",
@@ -8,7 +8,7 @@
   "creditline": "Bequest of Herschel V. Jones",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1510",
+  "dated": "1500-1510",
   "department": "Prints and Drawings",
   "description": "",
   "dimension": "5 13/16 x 4 1/8 in. (14.76 x 10.48 cm) (image)",
@@ -17,14 +17,14 @@
   "image_copyright": "",
   "image_height": 4811,
   "image_width": 3334,
-  "inscription": "Signature",
-  "life_date": "Italian, active 1490- 1512",
-  "markings": "",
+  "inscription": "Signature, Marks",
+  "life_date": "Italian, active c. 1500-c. 1520",
+  "markings": "Watermark: Anchor; \r\nCollector\\'s Marks: A F D- stamp on verso (Lugt 119)",
   "medium": "Engraving",
-  "nationality": "Italian",
+  "nationality": "Italian (Modena)",
   "object_name": null,
   "portfolio": "From ",
-  "provenance": "Ambroise Firmin-Didot, L. 119; Colnaghi; Knoedler & Co., 1926.",
+  "provenance": "[Ambroise Firmin-Didot, Lugt 119, (1790-1876), Paris]. [Colnaghi]; [Knoedler & Co., before 1926; sold to Jones]",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -35,5 +35,5 @@
   "signed": "In image - on plate",
   "style": "16th century",
   "text": "",
-  "title": "St. George"
+  "title": "Saint George"
 }
