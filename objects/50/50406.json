@@ -1,7 +1,7 @@
 {
   "accession_number": "P.12,632",
   "artist": "Artist: Albert Besnard",
-  "catalogue_raissonne": "Godefroy 98\r\nC. 84",
+  "catalogue_raissonne": "Godefroy 98, Coppier 84\r\nC. 84",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -17,7 +17,7 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature",
+  "inscription": "Inscription and Signature\r\n\r\nLettered in plate, at upper left: \\\"Robert / [7 corrected to] 9 ans 1/2 / 1891 / AB]\r\n\r\nBeneath platemark, in graphite: \\\"Tiré a 75, N.o 25\\\"\r\n\r\n",
   "life_date": "French, 1849 - 1934",
   "markings": "",
   "medium": "Etching",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "initials AB",
+  "signed": "monogram, letter in plate: \\\"AB\\\"\r\nat lower right, in graphite: \\\"Besnard\\\"",
   "style": "19th century",
   "text": "",
-  "title": "Robert (Janey) Besnard, enfant"
+  "title": "Robert Besnard"
 }
