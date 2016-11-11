@@ -1,7 +1,7 @@
 {
   "accession_number": "P.12,625",
   "artist": "Artist: Albert Besnard",
-  "catalogue_raissonne": "Godefroy 90 vi/vi\r\nCouppier 75\r\nD. 90 vi/vi",
+  "catalogue_raissonne": "Delteil/Godefroy 90 vi/vi; Coppier 75",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -19,8 +19,8 @@
   "image_width": "",
   "inscription": "Signature, Mark",
   "life_date": "French, 1849 - 1934",
-  "markings": "collector\\'s marks: violet stamp, l.l. verso (Douane Centrale, Paris)",
-  "medium": "Etching, drypoint",
+  "markings": "On verso, purple customs stamp (Douane Centrale, Paris)",
+  "medium": "Etching and drypoint",
   "nationality": "French",
   "object_name": null,
   "portfolio": "From ",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "twice l.rt.",
+  "signed": "Signed in graphite, twice, at lower right: ABesnard",
   "style": "19th century",
   "text": "",
-  "title": "La Mère Malade"
+  "title": "The Sick Mother"
 }

@@ -1,6 +1,6 @@
 {
   "accession_number": "P.44",
-  "artist": "Artist: Félix Buhot",
+  "artist": "Artist: Joseph Pennell",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -8,20 +8,20 @@
   "creditline": "Gift of Miss Perrie Jones",
   "culture": null,
   "curator_approved": 0,
-  "dated": "19th century",
+  "dated": "1912",
   "department": "Prints and Drawings",
   "description": "",
-  "dimension": "3 9/16 x 2 1/4 in. (9.0 x 5.7 cm)",
+  "dimension": "22 x 16 5/8 in. (55.88 x 42.23 cm) (image)24 3/8 x 18 1/2 in. (61.91 x 46.99 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/50614",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2585,
   "image_width": 2032,
   "inscription": "",
-  "life_date": "French, 1847-1898",
+  "life_date": "American, 1860 - 1926",
   "markings": "",
-  "medium": "Etching",
-  "nationality": "French",
+  "medium": "Transfer lithograph",
+  "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "in plate",
+  "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "La Promenade"
+  "title": "The Woolworth Building"
 }

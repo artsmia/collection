@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1884",
   "department": "Prints and Drawings",
-  "description": "mounted on green board",
+  "description": "",
   "dimension": "3 13/16 x 2 3/8 in. (9.68 x 6.03 cm) (plate)\r\n6 11/16 x 4 7/16 in. (16.99 x 11.27 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/50403",
   "image": "invalid",
@@ -19,12 +19,12 @@
   "image_width": "",
   "inscription": "Signature, Mark",
   "life_date": "French, 1849 - 1934",
-  "markings": "Black stamp verso",
-  "medium": "Etching, drypoint",
+  "markings": "black stamp, at lower right [YB], Lugt 421 (Beurdeley)",
+  "medium": "Etching and drypoint",
   "nationality": "French",
   "object_name": null,
   "portfolio": "From ",
-  "provenance": "A. Beurdeley Lugt 421",
+  "provenance": "Emmanuel Alfred (Alfred II) Beurdeley (1847-1919), Lugt 421, Paris (until '1920 or 1921, his sale, July 2-3, 1920 or June 21-22, 1921, Delteil, Paris). Mrs. Charles Stinson Pillsbury (née Nelle Pendleton Winston), Minneapolis (until d. 1957; bequeathed to Mia)",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "initials and signature",
+  "signed": "Signed with initials and dated in plate: AB / 1886; signed with graphite below: ABesnard",
   "style": "19th century",
   "text": "",
-  "title": "Madame Besnard dans un Médaillon"
+  "title": "Madame Besnard in a Medallion (Charlotte Dubray Besnard, 1855-1931)"
 }

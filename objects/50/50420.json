@@ -1,7 +1,7 @@
 {
   "accession_number": "P.58.241",
   "artist": "Artist: Albert Besnard",
-  "catalogue_raissonne": "Couppier 91\r\nGodefroy 72 iii/iii",
+  "catalogue_raissonne": "Coppier 91; Delteil/Godefroy 72 iii/v",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1888",
   "department": "Prints and Drawings",
-  "description": "brown ink; plate unusually lare for size of image",
+  "description": "brown ink; plate unusually large for size of image",
   "dimension": "8 7/16 x 5 7/16 in. (21.43 x 13.81 cm) (plate)\r\n12 5/16 x 9 1/4 in. (31.27 x 23.5 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/50420",
   "image": "invalid",
@@ -20,7 +20,7 @@
   "inscription": "Signature",
   "life_date": "French, 1849 - 1934",
   "markings": "",
-  "medium": "Etching, drypoint",
+  "medium": "Etching",
   "nationality": "French",
   "object_name": null,
   "portfolio": "From ",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "initials",
+  "signed": "signed with initials in plate on bed, in reverse: AB",
   "style": "19th century",
   "text": "",
   "title": "The Doll"

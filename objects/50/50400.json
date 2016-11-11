@@ -1,7 +1,7 @@
 {
   "accession_number": "P.12,628",
   "artist": "Artist: Albert Besnard",
-  "catalogue_raissonne": "Coppier 15\r\nGodefroy 20 i/ii",
+  "catalogue_raissonne": "Coppier 15; Delteil/Godefroy 20 i/ii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -10,14 +10,14 @@
   "curator_approved": 0,
   "dated": "1884",
   "department": "Prints and Drawings",
-  "description": "possibly proof, rare\r\nRobert Besnard",
+  "description": "rare proof",
   "dimension": "6 11/16 x 5 1/2 in. (16.99 x 13.97 cm) (plate)\r\n12 1/4 x 9 1/2 in. (31.12 x 24.13 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/50400",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
+  "inscription": "Signature and inscription\r\n\r\nLettered in the plate: \\\"Le Bi a Villerville. 1884\\\"",
   "life_date": "French, 1849 - 1934",
   "markings": "",
   "medium": "Etching",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "initials AB",
+  "signed": "Signed with initials in plate:  AB",
   "style": "19th century",
   "text": "",
-  "title": "Le Bi a Villerville, Enfant partant a l'Ecole"
+  "title": "Robert Besnard (1881-1914), Little B of Villerville"
 }
