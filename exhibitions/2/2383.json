@@ -1,11 +1,11 @@
 {
   "exhibition_id": 2383,
-  "exhibition_department": null,
-  "exhibition_title": "Otto Dix. Der böse Blick",
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Otto Dix: The Evil Eye",
   "exhibition_description": null,
   "begin": 2017,
   "end": 2017,
-  "display_date": "Saturday, February 11, 2017 - Sunday, May 28, 2017",
+  "display_date": "Saturday, February 11, 2017 - Sunday, October 15, 2017",
   "objects": [
     2242
   ],
@@ -15,6 +15,12 @@
       "begin": 2017,
       "end": 2017,
       "display_date": "Saturday, February 11, 2017 - Sunday, May 28, 2017"
+    },
+    {
+      "venue": "Tate Liverpool",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Friday, June 23, 2017 - Sunday, October 15, 2017"
     }
   ]
 }
