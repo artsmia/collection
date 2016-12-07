@@ -1,13 +1,13 @@
 {
   "accession_number": "2013.35.727",
-  "artist": "Artist: Josef Albers; Printer: Sirocco Screenprints, New Haven, Conn.; Publisher: Ives-Sillman, Inc. , for Galerie Brusberg, Hanover, Germany",
+  "artist": "Artist: Josef Albers; Publisher: Ives-Sillman, Inc. , for Galerie Brusberg, Hanover, Germany; Printer: Sirocco Screenprints, New Haven, Conn.",
   "catalogue_raissonne": "Danilowitz 187",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Bequest of Harry Drake",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1969",
   "department": "Prints and Drawings",
   "description": "four squares on top of each other, in shades of yellow",
@@ -17,9 +17,9 @@
   "image_copyright": "©Estate Josef Albers %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 6144,
   "image_width": 6125,
-  "inscription": "Signature, Title, Date and Edition\r\n\r\nsee Signed\r\n\r\nTitled in pencil, LLC: [GB1]; numered in pencil, LLC: [114/125]",
+  "inscription": "Signature, Title, Date and Edition\r\n\r\nsee Signed\r\n\r\n",
   "life_date": "American (born Germany), 1888–1976",
-  "markings": "",
+  "markings": "Titled in pencil, LLC: [GB 1]; numered in pencil, LLC: [114/125]",
   "medium": "Color screenprint",
   "nationality": "American",
   "object_name": "Print",
@@ -35,5 +35,5 @@
   "signed": "Signed and dated, LRC, in pencil: [A \\'69]",
   "style": "20th century",
   "text": "",
-  "title": "GB1"
+  "title": "GB 1"
 }
