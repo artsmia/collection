@@ -1,5 +1,5 @@
 {
-  "accession_number": "P.98.33.64a-zz",
+  "accession_number": "P.98.33.64.1a-g",
   "artist": "Artist: Victor Champier",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -8,11 +8,11 @@
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1899",
+  "dated": "1898",
   "department": "Prints and Drawings",
-  "description": "portfolio cover with title page and 52 colored plates of various designs and scenes; incomplete set",
+  "description": "seven loose plates from Documents d'atelier : art décoratif moderne 1ème série",
   "dimension": "12 1/2 x 8 7/8 in. (31.75 x 22.54 cm) (sheet, each, approximate)",
-  "id": "http://api.artsmia.org/objects/63136",
+  "id": "http://api.artsmia.org/objects/126156",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
@@ -23,18 +23,17 @@
   "medium": "Lithographs",
   "nationality": "French",
   "object_name": "Portfolio",
-  "portfolio": "From Documents d'atelier : art décoratif moderne. 2ème série",
+  "portfolio": "From Documents d'atelier : art décoratif moderne. 1ème série",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    "48840",
-    "63136"
+    ""
   ],
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Documents d'atelier : art décoratif moderne [2ème série]"
+  "title": "Documents d'atelier : art décoratif moderne [1ère série]"
 }
