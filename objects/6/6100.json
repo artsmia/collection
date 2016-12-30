@@ -1,6 +1,6 @@
 {
   "accession_number": "B.89.11",
-  "artist": "Artist: Judy Rifka; Author: René Ricard; Publisher: John Fawbush Editions and Solo Press Inc., NY; Printer: Carol Bundy , (typeset); Lithographer: Judith Solodkin",
+  "artist": "Artist: Judy Rifka; Author: René Ricard; Publisher: Joe Fawbush Editions and Solo Press Inc., NY; Printer: Carol Bundy , (typeset); Lithographer: Judith Solodkin",
   "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "North America",
@@ -14,7 +14,7 @@
   "dimension": "12 1/2 x 9 1/2 in. (31.75 x 24.13 cm)",
   "id": "http://api.artsmia.org/objects/6100",
   "image": "invalid",
-  "image_copyright": "© Judy Rifka",
+  "image_copyright": "© Judy Rifka and Ren%C3%A9 Ricard %2F Published by Joe Fawbush Editions and Solo Press Inc.%2C NY",
   "image_height": "",
   "image_width": "",
   "inscription": "Signed. Numbered.",
@@ -25,8 +25,8 @@
   "object_name": "Artist's book",
   "portfolio": "From ",
   "provenance": "(Elizabeth Phillips, New York); sold to MIA, 1989.",
-  "restricted": 1,
-  "rights_type": "Copyright Protected",
+  "restricted": 0,
+  "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
