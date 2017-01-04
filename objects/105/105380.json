@@ -13,10 +13,10 @@
   "description": "line of trees and field on hillside overlooking village building at left",
   "dimension": "18 × 21 1/2 in. (45.72 × 54.61 cm) (sight)\r\n28 1/4 × 31 7/8 in. (71.76 × 80.96 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/105380",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8075,
+  "image_width": 9037,
   "inscription": "",
   "life_date": "French, 1830 - 1903",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G103",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

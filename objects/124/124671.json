@@ -13,10 +13,10 @@
   "description": "winter day with grey sky; view of the back of a black coach, with coachman's head and upper body visible, driving down a snow-covered street with wheel and horse's tracks in the snow; buildings at left and right side of street",
   "dimension": "24 7/16 × 37 1/2 in. (62.07 × 95.25 cm) (sight)\r\n32 15/16 × 45 13/16 × 2 1/4 in. (83.66 × 116.36 × 5.72 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/124671",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6961,
+  "image_width": 10624,
   "inscription": "",
   "life_date": "French, 1845 - 1916",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G103",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
