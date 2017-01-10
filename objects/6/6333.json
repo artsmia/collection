@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "7 × 10 in. (17.78 × 25.4 cm) (image)\r\n10 × 13 3/16 in. (25.4 × 33.5 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/6333",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6040,
-  "image_width": 7908,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Title and Inscription\r\n\r\nURC, in pencil: [Pl. 26]; Lower center, below image, in black ink: [DACOTAH ENCAMPMENT]",
   "life_date": "American, 1808–1875",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G353",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

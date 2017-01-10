@@ -13,10 +13,10 @@
   "description": "seated figure with legs crossed, hands clasped on lap; shroud over head draping over shoulders; clothing drapes over front knees; remnants of gold pigment; inlaid eyes",
   "dimension": "23 × 14 1/2 × 10 1/4 in. (58.42 × 36.83 × 26.04 cm)",
   "id": "http://api.artsmia.org/objects/122385",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3240,
-  "image_width": 2400,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "14th century",
   "text": "",
-  "title": "Seated Daruma"
+  "title": "Daruma"
 }

@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "6 3/4 × 8 3/4 in. (17.15 × 22.23 cm) (image)\r\n9 3/4 × 12 15/16 in. (24.77 × 32.86 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/36118",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5761,
-  "image_width": 7151,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Title and Inscription\r\n\r\nLower center (slightly off center), below image, in brown ink: [INDIAN DOCTOR CONCOCTING A POT OF MEDICINE]",
   "life_date": "American, 1808–1875",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G353",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

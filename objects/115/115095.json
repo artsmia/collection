@@ -13,10 +13,10 @@
   "description": "trees at left and right; buildings in background at center",
   "dimension": "5 9/16 x 8 5/16 in. (14.13 x 21.11 cm) (plate)\r\n7 3/4 x 11 3/4 in. (19.69 x 29.85 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/115095",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5931,
-  "image_width": 8935,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Signature and Inscription\r\n\r\nLLC, in pencil: [R2285]; on back, in pencil: [748]",
   "life_date": "French, 1827–1886",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "LRC, in pencil: [Maxime Lalanne]",
   "style": "19th century",
   "text": "",
-  "title": "Bords de la Tamise"
+  "title": "Bank of the Thames"
 }

@@ -1,23 +1,23 @@
 {
   "accession_number": "P.47.60",
-  "artist": "Engraver: Wenceslaus Hollar",
-  "catalogue_raissonne": null,
+  "artist": "Engraver: Wenceslaus Hollar; Artist: after Nicolaes van Helt",
+  "catalogue_raissonne": "New Hollstein 1054; Pennington 1356",
   "classification": " Prints",
   "continent": "Europe",
   "country": null,
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "17th century",
+  "dated": "c. 1648-1650",
   "department": "Prints and Drawings",
-  "description": "3/4 view of left side head, chest and left hand of male subject;",
+  "description": "3/4 view of left side head, chest and left hand of male subject",
   "dimension": "7 1/8 x 5 1/8 in. (18.1 x 13.02 cm) (sheet)\r\n5 3/16 x 4 1/4 in. (13.18 x 10.8 cm) (image)\r\n12 x 9 3/8 in. (30.48 x 23.81 cm) (mount)",
   "id": "http://api.artsmia.org/objects/116398",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature and Inscription\r\n\r\nin plate below image in black: [119 Steffano de la Belle, natif de Florence en Italie, en l\\'an 1614/Tres bon painctre en petit, ausi faict merueilies, en l\\'eau/fort d\\'vn grand esprit, tres abondant, en inuentions, a faict/ son comencement aupres Jaecques Callot on voit quantite de ses/ estampes , par tout;/ Stocade pincit, WHoller fecit, Joannes Meyssons excudit]",
+  "inscription": "Signature and Inscription\r\n\r\nin plate below image in black: [119 Steffano de la Belle, natif de Florence en Italie, en l\\'an 1614 / Tres bon painctre en petit, ausi faict merueilies, en l\\'eau / fort d\\'un grand esprit, tres abondant, en inventions, a faict / son comencement aupres Jaecques Callot on voit quantite de ses / estampes, par tout; / Stocade pinxit, WHollar fecit, Ioannes Meyssens excudit]",
   "life_date": "Bohemian (active in London and Antwerp) 1607-1677",
   "markings": "",
   "medium": "Engraving",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "See Inscription",
+  "signed": "",
   "style": "17th century",
   "text": "",
-  "title": "Portrait of Steffano dela Bella"
+  "title": "Steffano de la Belle"
 }

@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "7 3/4 × 6 in. (19.69 × 15.24 cm) (image)\r\n12 3/4 × 9 5/8 in. (32.39 × 24.45 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/6335",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6861,
-  "image_width": 5118,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Title and Inscription\r\n\r\nLower center, below image, in black ink: [THE LAUGHING WATERS / Three miles below the Falls of St. Anthony]",
   "life_date": "American, 1808–1875",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G353",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

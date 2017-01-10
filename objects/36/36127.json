@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "6 3/4 × 10 3/4 in. (17.15 × 27.31 cm) (image)\r\n9 7/8 × 13 in. (25.08 × 33.02 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/36127",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5986,
-  "image_width": 8481,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Title and Inscription\r\n\r\nLower center, below image, in black ink: [SPEARING FISH]",
   "life_date": "American, 1808–1875",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G353",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

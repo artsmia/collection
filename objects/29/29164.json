@@ -13,10 +13,10 @@
   "description": "carved ivory figure of Kannon with eight arms on lotus base",
   "dimension": "11 3/4 x 3 11/16 x 3 3/16in. (29.8 x 9.4 x 8.1cm)",
   "id": "http://api.artsmia.org/objects/29164",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5412,
-  "image_width": 3476,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": null,
   "markings": "inscription which reads \\'Toshiyuki\\' on red inset stone under base at center",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Figure of Kannon"
+  "title": "Kannon"
 }
