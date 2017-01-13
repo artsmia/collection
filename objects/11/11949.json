@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "5 1/4 x 2 1/4 in. (13.34 x 5.72 cm)",
   "id": "http://api.artsmia.org/objects/11949",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 1920,
-  "image_width": 964,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

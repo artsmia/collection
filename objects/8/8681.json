@@ -13,10 +13,10 @@
   "description": "kneeling male figure bearded with yellow dress, red belt and green robe holding a palm leaf with large white flowers in one hand and the other to his chest",
   "dimension": "8 1/8 x 3 1/2 x 3 1/2 in. (20.6 x 8.9 x 8.9 cm)",
   "id": "http://api.artsmia.org/objects/8681",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Josefina Aguilar",
-  "image_height": 4197,
-  "image_width": 6754,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Signature",
   "life_date": "Mexican, born 1945",
   "markings": "\\'Josefina Aguilar\\', inscriped into clay inside of base",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G260",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

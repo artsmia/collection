@@ -13,16 +13,16 @@
   "description": "printed cotton, also known as 'Prickstone'  Produced by Marimekko, woven in Helsinki\t \r\n",
   "dimension": "160 1/2 x 55 in. (407.67 x 139.7 cm)",
   "id": "http://api.artsmia.org/objects/3358",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Marimekko %2F Tiiliskivi%2C Armi Rattia%2C 1952",
-  "image_height": 1815,
-  "image_width": 4588,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Finnish; Helsinki, 1912 - 1979",
   "markings": "",
   "medium": "Screenprinted cotton",
   "nationality": "Finnish",
-  "object_name": null,
+  "object_name": "Printed fabric",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "In 1951 Armi Rattia founded Marimekko, which has since grown into a household name as one of the leading international design firms. Rattia founded this company in hopes of introducing Finnish design to the world through fresh and modern textiles that stressed the concepts of simplicity and functionality. In the late 1950s Marimekko began providing American consumers with lively designs first at Design Research in Boston, followed by Crate and Barrel in the early 1960s where they are still sold today. The first designs, including <I>Tiiliskivi,</I> consisted mostly of striking abstract patterns. These textiles were multi-purpose, suitable for interiors, furnishings, and clothing. <I>Tiiliskivi,</I> a Finnish word for brick, shows how Marimekko's designers drew inspiration even from simple forms. This universal building material is popular in Finnish architecture, and especially notable in the work of renowned architect Alvar Aalto. Aalto transformed this humble construction material into buildings of simple texture and beauty. Rattia's similar inspiration was to create boldly designed, mass-produced textiles. <I>Tiiliskivi</I> also shows the relative simplicity of Marimekko's early designs, as the process of screen-printing and production was still being refined.",
-  "title": "Prickstone (Tiiliskivi)"
+  "title": "Tiiliskivi"
 }

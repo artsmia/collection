@@ -13,10 +13,10 @@
   "description": "may represent the nature goddess or \"Great Mother\" of early man.; simple, schematic standing figure with crossed arms",
   "dimension": "16 1/4 x 4 1/4 x 1 9/16 in. (41.28 x 10.8 x 3.97 cm)",
   "id": "http://api.artsmia.org/objects/1490",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5008,
-  "image_width": 3985,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

@@ -13,10 +13,10 @@
   "description": "standing donkey with tail wrapped to proper right side; grey with black mane and features",
   "dimension": "4 7/8 x 3 x 7 3/4 in. (12.4 x 7.6 x 19.7 cm)",
   "id": "http://api.artsmia.org/objects/8688",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Josefina Aguilar",
-  "image_height": 4197,
-  "image_width": 6754,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Mexican, born 1945",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G260",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
