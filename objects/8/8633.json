@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 13/16 x 28 15/16 in. (32.5 x 73.5 cm) (image)",
   "id": "http://api.artsmia.org/objects/8633",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3478,
-  "image_width": 5616,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1735 - 1814",
   "markings": "Seal: Toyoharu",
@@ -35,5 +35,5 @@
   "signed": "Utagawa Toyoharu ga",
   "style": "Nikuhitsu ukiyo-e",
   "text": "On the right in front of an opened sliding door that provides a view into the garden sits the kabuki actor Segawa Kikunojō III (1751-1810), identified by the butterfly crest on his robe. Kikunojō III was a popular performer of female roles. The older man on the left is the host of the party and could be a kabuki lover who commissioned this painting and is portrayed here.",
-  "title": "The Actor Segawa Kikunojō III at a Party"
+  "title": "Actor Segawa Kikunojō III at a Party"
 }

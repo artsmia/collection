@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 9/16 × 5 11/16 in. (31.9 × 14.4 cm) (image, hosoban)",
   "id": "http://api.artsmia.org/objects/8575",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5320,
-  "image_width": 2454,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
   "markings": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "{Shun\\'ei ga}",
   "style": "18th century",
-  "text": "A pupil of Katsukawa Shunshō, Shun’ei started designing prints around 1778. Although his work is dominated by Kabuki subjects, both as single-sheet prints and as illus- trations for playbills (<I>banzuke</I>), he is also admired  for a series of women performing Kabuki dances and for his <I>sumō-e</I>, or pictures of wrestlers.\r\nIchikawa Danjūrō V (1741–1806), perhaps the most celebrated Kabuki actor of all time, appears here in an unusual costume complete with dark, bumpy skin, and claws for toes and fingers. This costume has raised specu- lation that the image represents Danjūrō performing one of his favorite roles, that of the wizard Tenjiku Tokubei, whose powers permitted him not only to disappear, but also to turn into a giant toad.",
-  "title": "Ichikawa Danjūrō V"
+  "text": "A pupil of Katsukawa Shunshō, Shun’ei started designing prints around 1778. Although his work is dominated by Kabuki subjects, both as single-sheet prints and as illustrations for playbills (<I>banzuke</I>), he is also admired  for a series of women performing Kabuki dances and for his <I>sumō-e</I>, or pictures of wrestlers.\r\nIchikawa Danjūrō V (1741–1806), perhaps the most celebrated Kabuki actor of all time, appears here in an unusual costume complete with dark, bumpy skin, and claws for toes and fingers. This costume has raised speculation that the image represents Danjūrō performing one of his favorite roles, that of the wizard Tenjiku Tokubei, whose powers permitted him not only to disappear, but also to turn into a giant toad.",
+  "title": "Actor Ichikawa Danjūrō V"
 }

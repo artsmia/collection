@@ -13,10 +13,10 @@
   "description": "the actor lights his pipe in a brazier; his tobacco pouch, pipe case, ojime and netsuke set lie on the floor in front of him",
   "dimension": "14 1/8 × 9 5/8 in. (35.8 × 24.5 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/42449",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2714,
-  "image_width": 1891,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
   "markings": "Censor:kiwame\r\nPublisher:unknown publisher\\'s seal\r\nillegible letters on the upper right of the title, probably the name of the character in which this actor is; the letters on the lower left would be the name of the play, right line reads \\\"kyo_gen\\\" meaning play, left line is illegible\r\n",
@@ -35,5 +35,5 @@
   "signed": "Toyokuni ga",
   "style": "18th-19th century",
   "text": "",
-  "title": "The Actor Bandō Mitsugorō III"
+  "title": "Actor Bandō Mitsugorō III"
 }

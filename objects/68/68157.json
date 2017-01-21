@@ -13,10 +13,10 @@
   "description": "page from a illustrated book",
   "dimension": "9 1/2 x 5 7/8 in. (24.1 x 14.9 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/68157",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2840,
-  "image_width": 1777,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, fl. c.1765-1792",
   "markings": "artist\\'s seal",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Nakamuta Matsue as Rikō"
+  "title": "Actor Nakamuta Matsue as Rikō"
 }

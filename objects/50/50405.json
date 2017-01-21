@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "6 1/4 x 4 11/16 in. (15.88 x 11.91 cm) (plate)\r\n12 13/16 x 8 7/8 in. (32.54 x 22.54 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/50405",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6597,
-  "image_width": 4705,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "French, 1849 - 1934",
   "markings": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "",
   "style": "19th century",
-  "text": "",
+  "text": "Charlotte Besnard (lower left) is shown with her children Germaine, age six, Robert, age nine, and Philippe, age four. Baby Jean, born exactly a year before this print was published, is not included. The right side of the printing plate was damaged by “foul biting,” a common accident. Unintended areas get eaten away while the plate is being etched in an acid bath. This accounts for the dark shadows on Philippe’s face. To compensate, Besnard altered the composition, distancing Philippe slightly from the group and enclosing him in a space in the background.",
   "title": "The Besnard Family"
 }

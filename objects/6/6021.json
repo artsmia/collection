@@ -2,7 +2,7 @@
   "accession_number": "99.79.2",
   "artist": "Artist: George Morrison",
   "catalogue_raissonne": null,
-  "classification": " Drawings",
+  "classification": " Drawings; Works on Paper",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "10 1/8 x 12 3/16 in. (25.72 x 30.96 cm) (image, sheet)\r\n15 x 19 x 1 1/2 in. (38.1 x 48.26 x 3.81 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/6021",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "Estate of George Morrison",
-  "image_height": 3574,
-  "image_width": 4322,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Signature; Date",
   "life_date": "American, Grand Portage Ojibwe (Anishinaabe), 1919 - 2000",
   "markings": "",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LL: [GEORGE MORRISON 1949];   verso: [G. Morrison]",
+  "signed": "LL: GEORGE MORRISON 1949;  verso: G. Morrison",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

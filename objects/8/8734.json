@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 13/16 × 5 15/16 in. (32.6 × 15.1 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/8734",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2887,
-  "image_width": 1379,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese",
   "markings": "Censor:kiwame\r\nPublisher:Tsutaya Ju_zaburo_",
@@ -35,5 +35,5 @@
   "signed": "{Sharaku ga}",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Arashi Ryūzō as Ōtomo Yamanushi"
+  "title": "Actor Arashi Ryūzō as Ōtomo Yamanushi"
 }

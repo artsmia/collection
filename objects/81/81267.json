@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "8 9/16 × 10 13/16 in. (21.8 × 27.5 cm) (image, sheet, uchiwa-e)",
   "id": "http://api.artsmia.org/objects/81267",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3780,
-  "image_width": 4527,
+  "image_height": "",
+  "image_width": "",
   "inscription": "LLC, written: {Bunka jūsan nen} (1816)",
   "life_date": "Japanese, 1769 - 1825",
   "markings": "Censor: Rat+kai; publisher\\'s seal: {Ibasen}",
@@ -35,5 +35,5 @@
   "signed": "{Toyokuni ga}",
   "style": "19th century",
   "text": "Fans with depictions of actors were popular among devotees of the Kabuki theater. People expressed their enthusiasm for particular actors by purchasing fans bearing their images. This fan bears an image of the actor Iwai Hanshirø V (1776-1847). Hanshirø was a very popular onnagata (female impersonator), but occasionally played the roles of young handsome men. Here he plays Sukeroku, a well known gallant.  By depicting the umbrella's rib radiating outward behind the actor's head, Toyokuni effectively accentuated Hanshiro's handsome face.",
-  "title": "The Actor Iwai Hanshirō V as Sukeroku"
+  "title": "Actor Iwai Hanshirō V as Sukeroku"
 }

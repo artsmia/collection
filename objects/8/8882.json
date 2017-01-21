@@ -13,10 +13,10 @@
   "description": "unsigned",
   "dimension": "18 × 22 1/16 in. (45.7 × 56 cm) (mat, vertical chūban diptych)",
   "id": "http://api.artsmia.org/objects/8882",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3280,
-  "image_width": 4648,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1725 - 1770",
   "markings": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "",
   "style": "18th century",
-  "text": "Calender print of the year Meiwa 2 (1765) with the numbers for the long months on the woman's sleeves and the ones for the short months and the man's undergarment.",
+  "text": "Calender print of the year Meiwa 2 (1765) with the numbers for the long months on the woman's sleeves and the ones for the short months on the man's undergarment.",
   "title": "Visual Parody of the Noh Play \"Takasago\""
 }

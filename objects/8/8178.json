@@ -13,10 +13,10 @@
   "description": "Pattern in black kimono.",
   "dimension": "11 7/8 × 6 3/16 in. (30.2 × 15.7 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/8178",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 1920,
-  "image_width": 968,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1706 - 1763",
   "markings": "Publisher: Izutsuya",
@@ -35,5 +35,5 @@
   "signed": "{Torii Kiyomasu hitsu}",
   "style": "18th century",
   "text": "",
-  "title": "The Actors Tsugawa Kamon and Arashi Sangorō"
+  "title": "Actors Tsugawa Kamon and Arashi Sangorō"
 }

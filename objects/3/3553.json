@@ -13,10 +13,10 @@
   "description": "Molded fiberglas body, steel legs",
   "dimension": "31 1/16 x 24 1/2 x 22 1/2 in. (78.9 x 62.23 x 57.15 cm)",
   "id": "http://api.artsmia.org/objects/3553",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Eames Office",
-  "image_height": 4486,
-  "image_width": 4097,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "American, 1907-1978",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G378",
   "see_also": [
     ""
   ],

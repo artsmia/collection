@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 5/8 × 5 1/2 in. (29.5 × 14 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/79123",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2797,
-  "image_width": 1342,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1726 - 1793",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "{Shunshō ga}",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Nakamura Jūzō in a Samurai Role"
+  "title": "Actor Nakamura Jūzō in a Samurai Role"
 }

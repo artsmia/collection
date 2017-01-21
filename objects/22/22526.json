@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 3/8 × 5 9/16 in. (31.5 × 14.1 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/22526",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3028,
-  "image_width": 1430,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "{Shun\\'ei ga}",
   "style": "18th century",
   "text": "In the 1770s, Ichikawa Monnosuke II (1743-94) was counted among the most promising actors of the Kabuki stage. Shunkø depicted him as a samurai standing under a maple tree in an unidentified play (right). The image captures the graceful and stately appearance of the good-looking actor as a young man.\r\nA print by Shun'ei (left) also shows the actor Ichikawa Monnosuke II as indicated by the ideogram \"mon\" emblazoned on his armor and partially revealed beneath his plaid kimono. His red-lined makeup suggests that Monnosuke is in the role of a hero with extreme physical strength. Shun'ei's image of Monnosuke was probably produced about ten years later than that by Shunkø. \r\n \r\n",
-  "title": "The Actor Ichikawa Monnosuke"
+  "title": "Actor Ichikawa Monnosuke"
 }

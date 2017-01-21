@@ -13,10 +13,10 @@
   "description": "second sheet from the left from a hexaptych titled Ryogoku yūkeshiki 両国夕景色",
   "dimension": "13 7/8 × 10 in. (35.2 × 25.4 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/68558",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2694,
-  "image_width": 1854,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Senryū poem by Itoe: {Uchi nurete / Ase wo nuguu ya / Mizu ???}",
   "life_date": "Japanese, 1786 - 1865",
   "markings": "combined date and censor seal: 戌四改 {inu yon aratame} (Dog 4 inspected) | [unknown carver\\'s seal] | publisher\\'s seal:",
@@ -35,5 +35,5 @@
   "signed": "in toshidama cartouche: 喜翁豊國画 {kiō Toyokuni ga}",
   "style": "19th century",
   "text": "",
-  "title": "The Actor Bandō Mitsugorō VI as Yamato no Omitsu"
+  "title": "Actor Bandō Mitsugorō VI as Yamato no Omitsu"
 }

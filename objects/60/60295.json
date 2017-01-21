@@ -13,10 +13,10 @@
   "description": "left panel of vertical hosoban triptych",
   "dimension": "12 3/8 × 5 1/2 in. (31.4 × 14 cm) (image, vertical hosoban)",
   "id": "http://api.artsmia.org/objects/60295",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2954,
-  "image_width": 1348,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
   "markings": "Censor: kiwame; publisher\\'s seal: {Nishimuraya Yohachi}",
@@ -37,5 +37,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Nakayama Tatezō as Motoyosho Shirō"
+  "title": "Actor Nakayama Tatezō as Motoyosho Shirō"
 }

@@ -13,10 +13,10 @@
   "description": "yakusha-e, gofu background; cartoon-like image of standing figure wearing black, blue and green plaid and orange floral garments; yellow ground",
   "dimension": "image, sheet: 15 7/16 x 9 7/16 in. (39.21 x 23.97 cm)",
   "id": "http://api.artsmia.org/objects/62330",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Tsuruya K%C5%8Dkei",
-  "image_height": 2968,
-  "image_width": 1841,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, b. 1946",
   "markings": "33/?",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Ichikawa Danjūrō XII as Umeōmaru"
+  "title": "Actor Ichikawa Danjūrō XII as Umeōmaru"
 }

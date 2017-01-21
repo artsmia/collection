@@ -13,10 +13,10 @@
   "description": "unsigned; man with painted face; curly hair; multicolored costume; lifting straw hat off his head",
   "dimension": "14 7/8 × 10 1/8 in. (37.78 × 25.72 cm) (image)",
   "id": "http://api.artsmia.org/objects/62472",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 8849,
-  "image_width": 6225,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1886 - 1960",
   "markings": "red artist\\'s seal: 春仙 {Shunsen}; LLC, artist\\'s hand-applied red approval seal: 名取 {Natori}",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "Seventeenth design of a set of 36. Based on Ichikawa Chūsha VII as Akechi Jūbei Mitsuhide in the scene Amagasaki kankyo of the play Ehon Taikōki 絵本太功記　尼ヶ崎閑居 (The picture book of the Taikō), performed at the Kabuki Theater, May 1919.",
-  "title": "The Actor Ichikawa Chūsha VII as Takechi Mitsuhide"
+  "title": "Actor Ichikawa Chūsha VII as Takechi Mitsuhide"
 }

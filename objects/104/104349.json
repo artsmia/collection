@@ -13,10 +13,10 @@
   "description": "portrait of a serious-looking young samurai with crossed arms; black kimono; green ground",
   "dimension": "15 × 10 3/16 in. (38.1 × 25.88 cm) (image, ōban)",
   "id": "http://api.artsmia.org/objects/104349",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5051,
-  "image_width": 3456,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1886 - 1960",
   "markings": "red artist\\'s seal: 春仙 {Shunsen} | publisher seal: 版元東京銀座渡辺木版画舗 {hanmoto Tōkyō Ginza Watanabe mokuhan gaho}  (publisher Tokyo Ginza Watanabe woodblock print store)",
@@ -35,5 +35,5 @@
   "signed": "春仙 {Shunsen}",
   "style": "20th century",
   "text": "Tenth design of a set of 36. Based on Ichikawa Sumizō VI as Shirai Gonpachi In the scene Suzugamori of the play Ukiyozuka hiyoku no inazuma 浮世柄比翼稲妻　鈴ヶ森 (The floating world's pattern and matching lightning bolts), performed at the Asakusa Shōchiku Theater, January 1925.",
-  "title": "The Actor Ichikawa Sumizō VI as Shirai Gonpachi"
+  "title": "Actor Ichikawa Sumizō VI as Shirai Gonpachi"
 }

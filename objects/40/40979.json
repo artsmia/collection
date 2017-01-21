@@ -13,10 +13,10 @@
   "description": "Blue-grey",
   "dimension": "24 x 7 in. (60.96 x 17.78 cm) (at base)",
   "id": "http://api.artsmia.org/objects/40979",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6558,
-  "image_width": 4623,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "1898-2012",
   "markings": "",
@@ -28,12 +28,12 @@
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G378",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "20th century",
-  "text": "",
+  "text": "Henry Karlsson, the master glassblower at Orrefors, described the remarkably thin-stemmed Tulip vases as “the most difficult...and most exciting thing I ever did.” Sizes and shapes varied, but the tendency was toward ever more exaggerated stem length. Production of the series continued until 1981.",
   "title": "Tulip glass (Tulpanglas)"
 }

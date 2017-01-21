@@ -13,10 +13,10 @@
   "description": "Part of a diptych.",
   "dimension": "10 7/8 × 6 7/8 in. (27.7 × 17.4 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/67494",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5054,
-  "image_width": 2468,
+  "image_height": "",
+  "image_width": "",
   "inscription": "虚無僧乃\r\n顔を見せたる\r\n暑さかな\r\n\r\nKomuso_ no \r\nKao wo mise taru\r\nAtsusa kana\r\n\r\nEven an itinerant monk \r\nreveals his face\r\nthanks to the heat.",
   "life_date": "Japanese, fl. 1737-1776",
   "markings": "Kiyohiro seal\r\nPublisher: Maru-ko\r\nTsu_sen seal (probably the publsiher\\'s seal)\r\n",
@@ -35,5 +35,5 @@
   "signed": "{Torii Kiyohiro ga}",
   "style": "18th century",
   "text": "The actor Sanogawa Ichimatsu as Karigane Bunshichi in the play Gonin otoko kariba no kado ide 五人男狩場首途, performed at the Ichimura Theater in the third month of 1756.\r\nThe other sheet of this diptych is illustrated in Mutō, Shoki ukiyoe to kabuki (2005), no. 1473, fig. 107.",
-  "title": "The Actor Sanogawa Ichimatsu as Karigane Bunshichi"
+  "title": "Actor Sanogawa Ichimatsu as Karigane Bunshichi"
 }

@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 3/4 × 5 13/16 in. (32.4 × 14.7 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/8205",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5300,
-  "image_width": 2458,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
   "markings": "Publisher\\'s seal: {Ezakiya}",
@@ -35,5 +35,5 @@
   "signed": "{Shun\\'ei ga}",
   "style": "19th century",
   "text": "",
-  "title": "The Actor Ichikawa Yaozō III as Chōemon"
+  "title": "Actor Ichikawa Yaozō III as Chōemon"
 }

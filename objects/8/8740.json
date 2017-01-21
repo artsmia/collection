@@ -8,15 +8,15 @@
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1784",
+  "dated": "1779, 2nd month",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "12 7/16 × 5 11/16 in. (31.6 × 14.4 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/8740",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 1920,
-  "image_width": 869,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1726 - 1793",
   "markings": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "{Shunshō ga}",
   "style": "18th century",
-  "text": "The play, \"Jūni hitoe komaschi zakura\" was performed at the Kiri Theater in the eleventh month of 1784.",
-  "title": "The Actor Nakamura Nakazō II as a Boatman"
+  "text": "Actor Nakamura Nakazō II as Dainichibō in the play Edo meisho midori Soga, performed at the Morita Theater in the second month, 1779.",
+  "title": "Actor Nakamura Nakazō II as Dainichibō"
 }

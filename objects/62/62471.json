@@ -13,10 +13,10 @@
   "description": "head and shoulders of scowling old man with white hair, wearing yellow, orange, white, black and blue garments; black ground",
   "dimension": "14 15/16 × 10 1/8 in. (37.94 × 25.72 cm) (image)",
   "id": "http://api.artsmia.org/objects/62471",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2755,
-  "image_width": 1944,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1886 - 1960",
   "markings": "red artist\\'s seal: 春仙 {Shun Sen}; publisher seal: 渡辺工 {Watanabe kō} (work of Watanabe); LRC, artist\\'s hand-applied red approval seal: 名取 {Natori}",
@@ -35,5 +35,5 @@
   "signed": "春仙 {Shunsen}",
   "style": "20th century",
   "text": "Fifth design of a set of 36. Based on Onoe Matsusuke IV (1843-1928) as Nozarashi Kohei in the scene Yatsuyamashita nami uchigiwa of the play <i>Imashimegusa susuki no nozarashi</i> 誡種芒野晒　八ツ山下浪打際, performed at the Ichimura Theater, November 1915.",
-  "title": "The Actor Onoe Matsusuke IV as Kohei"
+  "title": "Actor Onoe Matsusuke IV as Kohei"
 }

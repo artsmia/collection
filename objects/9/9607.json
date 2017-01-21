@@ -13,10 +13,10 @@
   "description": "unsigned",
   "dimension": "43 1/2 x 16 in. (110.49 x 40.64 cm)",
   "id": "http://api.artsmia.org/objects/9607",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5433,
-  "image_width": 3683,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
-  "title": "The Actor Nakayama Tomisaburō in a Female Role"
+  "title": "Actor Nakayama Tomisaburō in a Female Role"
 }

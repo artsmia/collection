@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 5/16 × 5 9/16 in. (31.2 × 14.2 cm) (image, hosoban)",
   "id": "http://api.artsmia.org/objects/60307",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 4385,
-  "image_width": 2039,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese",
   "markings": "Censor: kiwame | Publisher:Tsutaya Jūzaburō",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Ichikawa Yaozō III as Fuwa Banzaemon"
+  "title": "Actor Ichikawa Yaozō III as Fuwa Banzaemon"
 }

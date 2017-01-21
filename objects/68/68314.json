@@ -13,16 +13,16 @@
   "description": "",
   "dimension": "14 3/16 × 10 1/8 in. (36 × 25.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/68314",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2599,
-  "image_width": 1883,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "fl. c. 1808-1832",
   "markings": "artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
-  "object_name": "Print (ukiyo-e / kamigata-e)",
+  "object_name": "Print (ukiyo-e / kamigata-e / yakusha-e)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "{Shunko_tei Hokushu_}",
   "style": "19th century",
   "text": "",
-  "title": "The Actor Nakamura Shikan"
+  "title": "Actor Nakamura Shikan"
 }

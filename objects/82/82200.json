@@ -13,10 +13,10 @@
   "description": "center sheet of a triptych",
   "dimension": "8 1/4 × 7 5/16 in. (21 × 18.5 cm) (image, sheet, shikishiban)",
   "id": "http://api.artsmia.org/objects/82200",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 4067,
-  "image_width": 3597,
+  "image_height": "",
+  "image_width": "",
   "inscription": "はちまきに　江戸むらさきの　横霞　いまぞなにわも　春に成田や {Hachimaki ni / Edomurasaki no / Yokogasumi / Ima zo naniwa mo / Haru ni Naritaya} (Wearing / A head-band / In the Edo Purple mist: / Now the people of Osaka / Can also enjoy the Spring; transl. from Bowie 1979)",
   "life_date": "Japanese, 1786 - 1865",
   "markings": "red artist\\'s double toshidama seal",
@@ -35,5 +35,5 @@
   "signed": "香蝶楼國貞画 {Kōchōrō Kunisada ga}",
   "style": "19th century",
   "text": "Center sheet of a triptych.",
-  "title": "The Actor Ichikawa Danjūrō VII as Sukeroku"
+  "title": "Actor Ichikawa Danjūrō VII as Sukeroku"
 }

@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 × 8 1/8 in. (27.9 × 20.7 cm) (image, sheet, vertical chūban)",
   "id": "http://api.artsmia.org/objects/8739",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 1920,
-  "image_width": 1416,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1725 - 1770",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "{Suzuki Harunobu ga}",
   "style": "18th century",
   "text": "",
-  "title": "Lovers Drugging a Cockerel"
+  "title": "Lovers Plying a Rooster with Sake"
 }

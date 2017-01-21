@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "10 1/4 x 7 1/2 in. (26.04 x 19.05 cm)\r\n19 x 15 x 1 1/2 in. (48.26 x 38.1 x 3.81 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/4988",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "Estate of George Morrison",
-  "image_height": 2615,
-  "image_width": 1894,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Signature; Date; Title",
   "life_date": "American, Grand Portage Ojibwe (Anishinaabe), 1919 - 2000",
   "markings": "",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed, dated, titled in black ink, LL: [NEW YORK / MORRISON 54]",
+  "signed": "Signed, dated, titled in black ink, LL: NEW YORK / MORRISON 54",
   "style": "20th century",
   "text": "",
   "title": "New York"

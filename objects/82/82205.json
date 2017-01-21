@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "8 5/16 × 7 1/4 in. (21.1 × 18.4 cm) (image, sheet, shikishiban)",
   "id": "http://api.artsmia.org/objects/82205",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 4530,
-  "image_width": 3997,
+  "image_height": "",
+  "image_width": "",
   "inscription": "poem by Shunchōsha Awayuki: {Ori-somete hana mezurashiki Naniwazu no ume-ga-ka okuru kaze no tenugui} (Folded and dyed, hand towels carry the fragrance of plum from flowery Naniwa wafted by the wind; transl. by Sebastian Izzard) | poem by Hakuroen Asobi: {Naniwazu ni ima o harube to sake ume wa waga ō-Edo no hana no ani nari} (In Naniwazu spring has now come—with plums in blossom as our own flower of Edo is the elder brother of flowers; transl. by John Carpenter)",
   "life_date": "Japanese, 1786 - 1865",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "桃樹園國貞画 {Tōjuen Kunisada ga}",
   "style": "19th century",
   "text": "",
-  "title": "The Actor Ichikawa Danjūrō VII Preparing New Year's Gifts"
+  "title": "Actor Ichikawa Danjūrō VII Preparing New Year's Gifts"
 }

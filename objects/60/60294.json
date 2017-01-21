@@ -13,10 +13,10 @@
   "description": "center panel of hosoban triptych",
   "dimension": "12 1/2 × 5 9/16 in. (31.8 × 14.2 cm) (image, hosoban)",
   "id": "http://api.artsmia.org/objects/60294",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 4427,
-  "image_width": 2131,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
   "markings": "Censor: kiwame; publisher\\'s seal: {Nishimuraya Yohachi}",
@@ -37,5 +37,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Segawa Kikunojō III as Itohagi"
+  "title": "Actor Segawa Kikunojō III as Itohagi"
 }

@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 5/8 × 5 3/8 in. (29.5 × 13.6 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/79201",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2744,
-  "image_width": 1313,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1743 - 1817",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "{Shunkō ga}",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Onoe Matsusuke in a Female Role"
+  "title": "Actor Onoe Matsusuke in a Female Role"
 }

@@ -13,10 +13,10 @@
   "description": "Chromium plated metal with frosted glass panels and lid",
   "dimension": "5 7/8 x 10 1/4 x 8 3/4in. (14.9 x 26 x 22.2cm)",
   "id": "http://api.artsmia.org/objects/40260",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3335,
-  "image_width": 4037,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Norwich, Connecticut, est. 1907",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G281",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

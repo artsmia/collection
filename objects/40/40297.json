@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "14 1/4 x 7in. (36.2 x 17.8cm)",
   "id": "http://api.artsmia.org/objects/40297",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6816,
-  "image_width": 4069,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "American (born Germany), 1896-1962",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
-  "room": "G281",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

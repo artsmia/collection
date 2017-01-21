@@ -13,16 +13,16 @@
   "description": "",
   "dimension": "15 × 10 3/8 in. (38.1 × 26.3 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/22588",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2781,
-  "image_width": 1927,
+  "image_height": "",
+  "image_width": "",
   "inscription": "poem dedicated to the deceased actor\r\nThe Fame of the Moon\r\nRemains at Komagaike pond\r\nAfter moon has gone\r\n(???? ya\r\nTuski no nagori wa\r\nKomagaike)",
   "life_date": "Japanese, fl. c.1820s-1830s",
   "markings": "Publisher:Ten-ki",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
-  "object_name": "Print (ukiyo-e / kamigata-e)",
+  "object_name": "Print (ukiyo-e / kamigata-e / yakusha-e)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "{Kunihiro ga}",
   "style": "19th century",
   "text": "",
-  "title": "The Actor Arashi Kitsusaburō l as Nagai Genzaburō"
+  "title": "Actor Arashi Kitsusaburō l as Nagai Genzaburō"
 }

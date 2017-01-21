@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 3/4 × 5 13/16 in. (32.4 × 14.7 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/66456",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3027,
-  "image_width": 1407,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1762 - 1819",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "{Shun\\'ei ga}",
   "style": "18th-19th century",
   "text": "",
-  "title": "The Actor Segawa Kikunojō in a Female Role"
+  "title": "Actor Segawa Kikunojō in a Female Role"
 }

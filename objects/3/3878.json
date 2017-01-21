@@ -1,6 +1,6 @@
 {
   "accession_number": "89.71",
-  "artist": "Maker: Della Robbia Factory, Birkenhead, England, 1894-1906",
+  "artist": "Maker: Della Robbia Factory, Birkenhead, England, 1894–1906",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Europe",
@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "2 3/4 x 18 3/4 x 18 3/4 in. (6.99 x 47.63 x 47.63 cm)",
   "id": "http://api.artsmia.org/objects/3878",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 4230,
-  "image_width": 3537,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "",
   "style": "19th-20th century",
-  "text": "",
+  "text": "A ship at sea, sandwiched between the letters D and R, for Della Robbia Pottery, serves as this charger’s focal point. Birds above the boat and in the plate’s green center band recall the natural source of the peacock feathers around the edge. The swirling shapes introduce the theme of movement inherent in nature. The vivid colors on earthenware, as well as the use of initials, are reminiscent of early Italian ceramics made by the Della Robbia family, after whom Della Robbia Pottery took its name.",
   "title": "Charger"
 }

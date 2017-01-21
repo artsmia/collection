@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 5/16 × 5 1/8 in. (28.8 × 13 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/79203",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2618,
-  "image_width": 1230,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1735 - 1785",
   "markings": "Publisher: Okumura",
@@ -35,5 +35,5 @@
   "signed": "{Torii Kiyomitsu ga}",
   "style": "18th century",
   "text": "The actor Ichikawa Benzō as the page Kichisaburō in the play Yaoya Oshichi koi no edozome 八百屋お七恋江戸染, performed at the Nakamura Theater, in the fifth month of 1766",
-  "title": "The Actor Ichikawa Benzō as the Page Kichisaburō"
+  "title": "Actor Ichikawa Benzō as the Page Kichisaburō"
 }

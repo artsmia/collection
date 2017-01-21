@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "7 1/4 × 10 3/8 in. (18.4 × 26.4 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/63390",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3028,
-  "image_width": 1514,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1735 - 1785",
   "markings": "Publisher: Yamashiroya",
@@ -35,5 +35,5 @@
   "signed": "{Torii Kiyomitsu hitsu}",
   "style": "18th century",
   "text": "not listed in Mutō, Shoki ukiyoe to kabuki (2005)",
-  "title": "The Actor Ichimura Kamezō as Aoto Saemon"
+  "title": "Actor Ichimura Kamezō as Aoto Saemon"
 }

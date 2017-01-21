@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 9/16 × 5 3/8 in. (29.3 × 13.6 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/66245",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2887,
-  "image_width": 1327,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1726 - 1793",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "{Shunshō ga}",
   "style": "18th century",
   "text": "",
-  "title": "The Actor Nakamura Noshio in a Female Role"
+  "title": "Actor Nakamura Noshio in a Female Role"
 }

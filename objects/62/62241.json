@@ -13,10 +13,10 @@
   "description": "2 women walking up stairs, one woman walking downstairs, one woman seated at top of stairs; each woman wears a kimono and carries cloth bags",
   "dimension": "14 7/16 x 10 1/8 in. (36.67 x 25.72 cm) (image)\r\n15 3/4 x 11 13/16 in. (40.01 x 30 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/62241",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Werner Bischof Estate All Rights Reserved",
-  "image_height": 2761,
-  "image_width": 1952,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Inscription\r\n\r\nat lower edge on back, in black: [(c) WERNER BISCHOF ESTATE 300502 MARCO BISCHOF]",
   "life_date": "Swiss, 1916–1954",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Three Women in the Yasukumi Temple, Tokyo, Japan"
+  "title": "Three Women in the Yasukuni Temple, Tokyo, Japan"
 }

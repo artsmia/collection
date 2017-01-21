@@ -13,10 +13,10 @@
   "description": "nishiki-e",
   "dimension": "14 1/16 x 9 5/8 in. (35.7 x 24.5 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/69723",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2711,
-  "image_width": 1878,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1769 - 1825",
   "markings": "Censor:kiwame\r\nPublisher:unknown seal\r\nsomething is written on the lantern",
@@ -35,5 +35,5 @@
   "signed": "Toyokuni ga",
   "style": "18th-19th century",
   "text": "",
-  "title": "The Actor Nakamura Shikan as Magohachi of Takenozuka"
+  "title": "Actor Nakamura Shikan as Magohachi of Takenozuka"
 }
