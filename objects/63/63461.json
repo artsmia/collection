@@ -1,7 +1,7 @@
 {
   "accession_number": "P.13,931",
   "artist": "Artist: Bunchō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Bunchō list, unlisted",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,10 +13,10 @@
   "description": "orange probably added later",
   "dimension": "12 3/8 × 5 11/16 in. (31.4 × 14.4 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/63461",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 1920,
-  "image_width": 853,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, fl. c.1765-1792",
   "markings": "artist\\'s seal",
@@ -34,6 +34,6 @@
   ],
   "signed": "{Ippitsusai Bunchō ga}",
   "style": "18th century",
-  "text": "",
+  "text": "Rare and unrecorded design.",
   "title": "Arashi Koroku in a Female Role"
 }

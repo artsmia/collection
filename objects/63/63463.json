@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.177",
   "artist": "Artist: Bunchō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Bunchō list, #318-1",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,17 +13,17 @@
   "description": "",
   "dimension": "10 x 7 5/16 in. (25.4 x 18.6 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/63463",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 2589,
-  "image_width": 1904,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, fl. c.1765-1792",
   "markings": "artist\\'s seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": null,
-  "portfolio": "From Eight Views of the Eastern Capital (Azuma hakkei)",
+  "portfolio": "From Eight Views of the Eastern Capital (Azuma hakkei 東八景)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "{Ippitsusai Bunchō ga}",
   "style": "18th century",
   "text": "",
-  "title": "Vesper at Ueno"
+  "title": "Evening Bell at Ueno"
 }
