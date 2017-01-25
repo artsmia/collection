@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "14 1/16 x 9 11/16 in. (35.88 x 24.61 cm) (plate)\r\n15 3/4 x 10 13/16 in. (40.01 x 27.46 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/7373",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5232,
-  "image_width": 3564,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "French, 1876 - 1958",
   "markings": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "LR, in pencil: Francis Jourdain",
   "style": "19th-20th century",
-  "text": "<i>The White Cat</i> by Francis Jourdain is a masterpiece of grace and simplicity. The son of important Art Nouveau architect Frantz Jourdain, Francis was determined to infuse all of his work with the same economical lines and purity of form that he gave this cat. Well connected to the Parisian art world, he studied printmaking with the finest teachers but in the end opted for furniture design. He championed well-designed pieces that the working classes could afford, disdaining embellishment in favor of functionality.",
+  "text": "The White Cat by Francis Jourdain is a masterpiece of grace and simplicity. The son of important Art Nouveau architect Frantz Jourdain, Francis was determined to infuse all of his work with the same economical lines and purity of form that he gave this cat. Well connected to the Parisian art world, he studied printmaking with the finest teachers but in the end opted for furniture design. He championed well-designed pieces that the working classes could afford, disdaining embellishment in favor of functionality.",
   "title": "The White Cat"
 }
