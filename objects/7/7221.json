@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "10 1/4 x 7 5/8 in. (26.04 x 19.37 cm) (image, trimmed within platemark)",
   "id": "http://api.artsmia.org/objects/7221",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 7542,
-  "image_width": 5789,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Dutch, about 1494-1533",
   "markings": "Watermark: Shield with sun (H.4)",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G266-G274",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

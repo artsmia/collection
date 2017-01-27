@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "12 3/16 x 17 3/4 in. (30.96 x 45.09 cm) (plate)",
   "id": "http://api.artsmia.org/objects/50292",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6560,
-  "image_width": 9451,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "German, c. 1470-1536",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G266-G274",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

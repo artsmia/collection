@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 9/16 x 16 1/2 in. (29.37 x 41.91 cm) (image)",
   "id": "http://api.artsmia.org/objects/49868",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6230,
-  "image_width": 8774,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "German (Saxony), 1472–1553",
   "markings": "Watermark: Coat-of-arms with crown",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G266-G274",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

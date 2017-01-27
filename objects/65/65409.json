@@ -1,16 +1,16 @@
 {
   "accession_number": "P.58.167",
   "artist": "Artist: Winifred Austen",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Not in Sturges (covers 1906-1922)",
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
   "creditline": "Bequest of Mrs. Charles S. Pillsbury",
   "culture": null,
   "curator_approved": 0,
-  "dated": "20th century",
+  "dated": "1925",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Red (Irish) setter dog standing on three legs in grassy landscape",
   "dimension": "8 13/16 x 11 3/8 in. (22.38 x 28.89 cm) (image)",
   "id": "http://api.artsmia.org/objects/65409",
   "image": "invalid",
@@ -18,11 +18,11 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "British",
-  "markings": "",
-  "medium": "Etching",
+  "life_date": "British, 1876 - 1964",
+  "markings": "WM: ATMAN 1922 ENGLAND (partial)",
+  "medium": "Drypoint with plate tone",
   "nationality": "British",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed in pencil, LR: Winifred Austen",
   "style": "20th century",
   "text": "",
-  "title": "Rex Setter"
+  "title": "Red Setter"
 }

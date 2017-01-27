@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "9 5/16 x 8 3/16 in. (23.65 x 20.8 cm) (image)",
   "id": "http://api.artsmia.org/objects/56409",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6752,
-  "image_width": 6035,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "German, about 1495-after 1522",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G266-G274",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
