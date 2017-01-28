@@ -1,6 +1,6 @@
 {
   "accession_number": "P.17,682",
-  "artist": "Engraver: Attributed to Antony Jakob Goedkint; Artist: after Pietro Foglia, Italian, c. 1617-1691; Author: Hendrik Adriaan van Rheede tot Drakenstein; Publisher: Joannis van Someren and Joannis van Dyck",
+  "artist": "Engraver: Attributed to Antony Jakob Goedkint; Artist: after Pietro Foglia, Italian, c. 1617–1691; Author: Hendrik Adriaan van Rheede tot Drakenstein; Publisher: Joannis van Someren and Joannis van Dyck",
   "catalogue_raissonne": "Nissen 1625\r\n",
   "classification": " Prints",
   "continent": "Europe",
@@ -8,17 +8,17 @@
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 1,
-  "dated": "1686",
+  "dated": "1678-1703",
   "department": "Prints and Drawings",
   "description": "",
   "dimension": "13 3/8 x 17 1/4 in. (33.97 x 43.82 cm) (image)",
   "id": "http://api.artsmia.org/objects/73265",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6512,
-  "image_width": 8041,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
-  "life_date": "Dutch, 1636 - 1691",
+  "life_date": "Dutch, 1636–1691",
   "markings": "\r\n",
   "medium": "Hand-colored engraving",
   "nationality": "Dutch",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "17th-18th century",
   "text": "",
-  "title": "Kaida, from Hortus Indicus Malabaricus (Vol. 2)"
+  "title": "Kaida from Hortus Indicus Malabaricus (Vol. 2)"
 }

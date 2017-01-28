@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,599",
-  "artist": "Artist: Elizabeth Olds",
-  "catalogue_raissonne": "RKG Fig. 11",
+  "artist": "Artist: Elizabeth Olds; Printer: George C. Miller",
+  "catalogue_raissonne": "RKG Foundation,  Fig. 11",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -13,16 +13,16 @@
   "description": "",
   "dimension": "11 1/16 x 14 13/16 in. (28.1 x 37.62 cm) (image)\r\n14 5/16 x 18 7/16 in. (36.35 x 46.83 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59411",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Elizabeth Olds",
-  "image_height": 2652,
-  "image_width": 3222,
-  "inscription": "Signature",
+  "image_height": "",
+  "image_width": "",
+  "inscription": "Titled in pencil, LC: White-Collar Boys.",
   "life_date": "American, 1896 - 1991",
-  "markings": "",
+  "markings": "Numbered in pencil, LL: 15 prints.",
   "medium": "Lithograph",
   "nationality": null,
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "On sheet",
+  "signed": "Signed and dated in pencil, LR: Elizabeth Olds. 1936.",
   "style": "20th century",
-  "text": "Minnesota artist Elizabeth Olds presents a lighter interpretation of working life in this delightful caricature of businessmen scurrying along a New York subway platform. Her gentle satire lampoons their uniformity of dress and action as they hurriedly make their way to work.",
+  "text": "Minnesota artist Elizabeth Olds presents a lighter interpretation of working life in this delightful caricature of businessmen scurrying along a New York subway platform. Her gentle satire lampoons their uniformity of dress and action as they hurriedly make their way to the office. Between 1935 and 1943, Olds participated in the Works Progress Administration-Federal Art Project (WPA-FAP) in New York City, a \"New Deal\" program established by President Franklin D. Roosevelt to create employment for artists during the Great Depression.",
   "title": "White Collar Boys"
 }

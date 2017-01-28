@@ -13,12 +13,12 @@
   "description": "",
   "dimension": "18 1/8 x 12 1/2 in. (46.04 x 31.75 cm) (plate)",
   "id": "http://api.artsmia.org/objects/72654",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6085,
-  "image_width": 4377,
+  "image_height": "",
+  "image_width": "",
   "inscription": "\r\n\r\n",
-  "life_date": "Austrian, 1738 - 1807",
+  "life_date": "Austrian, 1738–1807",
   "markings": "\r\n",
   "medium": "Hand-colored etching",
   "nationality": "Austrian",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Frontispiece and TItle Page. Centuria I. Icones/ Plantarum Medicinalium/..., from Icones Plantarum Medicinalium"
+  "title": "Frontispiece and TItle Page. Centuria I. Icones/ Plantarum Medicinalium from Icones Plantarum Medicinalium"
 }

@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1583",
   "department": "Prints and Drawings",
-  "description": "double-sided-- 1 print\r\n",
+  "description": "\r\n",
   "dimension": "11 x 6 1/8 in. (27.94 x 15.56 cm) (image)",
   "id": "http://api.artsmia.org/objects/71892",
   "image": "invalid",
@@ -18,12 +18,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "\r\n\r\n",
-  "life_date": "Flemish, 1516 - 1585",
+  "life_date": "Flemish, 1516–1585",
   "markings": "\r\n",
   "medium": "Text",
   "nationality": "Flemish",
   "object_name": null,
-  "portfolio": "From Stirpium Historiae Pemptades Sex, Antwerp, 1583",
+  "portfolio": "From Stirpium historiae pemptades sex (Antwerp 1583)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "16th century",
   "text": "",
-  "title": "Preface from Stirpium Historiae Pemptades Sex"
+  "title": "Preface from Stirpium historiae pemptades sex"
 }
