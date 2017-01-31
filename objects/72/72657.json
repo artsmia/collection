@@ -1,7 +1,7 @@
 {
   "accession_number": "P.18,101",
   "artist": "Author: Joseph Jakob Plenck",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "(Vienna, 1788-1812)",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Austria",
@@ -11,7 +11,7 @@
   "dated": "1788-1812",
   "department": "Prints and Drawings",
   "description": "Tab. 123",
-  "dimension": "17 x 11 1/2 in. (43.18 x 29.21 cm) (plate)",
+  "dimension": "17 x 11 1/2 in. (43.18 x 29.21 cm) (plate)\r\n18 11/16 × 12 3/4 in. (47.47 × 32.39 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/72657",
   "image": "invalid",
   "image_copyright": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Solanum Melongena from Icones Plantarum Medicinalium"
+  "title": "Solanum Melongena from Icones Plantarum Medicinalium (Vienna, 1788-1812)"
 }

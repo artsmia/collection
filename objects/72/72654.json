@@ -1,7 +1,7 @@
 {
   "accession_number": "P.18,098",
   "artist": "Author: Joseph Jakob Plenck; Etcher: Jo. Ign. Albrecht",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Dunthorne 225; Nissen 1536",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Austria",
@@ -11,7 +11,7 @@
   "dated": "1788",
   "department": "Prints and Drawings",
   "description": "",
-  "dimension": "18 1/8 x 12 1/2 in. (46.04 x 31.75 cm) (plate)",
+  "dimension": "18 9/16 × 12 7/8 in. (47.15 × 32.7 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/72654",
   "image": "invalid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Hand-colored etching",
   "nationality": "Austrian",
   "object_name": null,
-  "portfolio": "From Icones Plantarum Medicinalium, (Vienna, 1788-1812)",
+  "portfolio": "From Icones Plantarum Medicinalium (Vienna, 1788-1812)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Frontispiece and TItle Page. Centuria I. Icones/ Plantarum Medicinalium from Icones Plantarum Medicinalium"
+  "title": "Title Page from Icones Plantarum Medicinalium (Vienna, 1788-1812)"
 }

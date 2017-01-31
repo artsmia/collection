@@ -1,7 +1,7 @@
 {
   "accession_number": "P.18,099",
   "artist": "Artist: Joseph Jakob Plenck; Artist: Text by Joseph Jakob Plenck",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Dunthorne 225; Nissen 1536",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Austria",
@@ -11,7 +11,7 @@
   "dated": "1788-1812",
   "department": "Prints and Drawings",
   "description": "Tab. 34",
-  "dimension": "16 3/4 x 12 in. (42.55 x 30.48 cm) (plate)",
+  "dimension": "16 3/4 x 12 in. (42.55 x 30.48 cm) (plate)\r\n18 11/16 × 13 in. (47.47 × 33.02 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/72655",
   "image": "invalid",
   "image_copyright": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th-19th century",
   "text": "",
-  "title": "Iris Germanica from Icones Plantarum Medicinalium"
+  "title": "Iris Germanica from Icones Plantarum Medicinalium (Vienna, 1788-1812)"
 }
