@@ -13,13 +13,13 @@
   "description": "several irregular lines of cursive characters; two larger, bold characters at R",
   "dimension": "22 5/8 × 25 5/16 in. (57.47 × 64.29 cm) (image)\r\n48 7/16 × 30 13/16 in. (123.03 × 78.26 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/117383",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3688,
-  "image_width": 4121,
-  "inscription": "Signature, Marks, and Seals\r\n\r\nSee notes for translation",
+  "image_height": "",
+  "image_width": "",
+  "inscription": "",
   "life_date": "Japanese, 1752 - 1826",
-  "markings": "top L, when rolled, Japanese inscription; URC; rectangular intaglio,  [ 關東第一風顛生 ] [Kantō daiichi fūtensai } (the biggest fool in Kantō); LLC, square relief: [ 鵬斎 ] {Bōsai}; LLC, square intaglio:[ 麴部尚書 ] {Kikubu shōsho}",
+  "markings": "top L, when rolled, Japanese inscription; URC; rectangular intaglio,  關東第一風顛生{Kantō daiichi fūtensai} (the biggest fool in Kantō); LLC, square relief: 鵬斎 {Bōsai}; LLC, square intaglio:麴部尚書{Kikubu shōsho}",
   "medium": "Ink on silk",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LLC: [  鵬斎老人書 ] {Bōsai rōjin sho}",
+  "signed": "LLC: 鵬斎老人書 {Bōsai rōjin sho}",
   "style": "19th century",
   "text": "",
   "title": "Long Life"

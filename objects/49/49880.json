@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 13/16 x 16 7/16 in. (30 x 41.75 cm) (image)",
   "id": "http://api.artsmia.org/objects/49880",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3412,
-  "image_width": 4720,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "German, c. 1440/53–1491",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G201",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

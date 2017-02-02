@@ -13,13 +13,13 @@
   "description": "man on horse at L with falcon perched on PR wrist; horse is trudging through snow with head held down; man at R holding red leash attached to white dog; snow-covered tree at L; bird in flight at UR; a few snowflakes near center and L",
   "dimension": "12 7/16 × 16 13/16 in. (31.59 × 42.7 cm) (image)\r\n47 13/16 × 22 7/16 in. (121.44 × 56.99 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/118466",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 3906,
-  "image_width": 5298,
-  "inscription": "Signature and Seal",
+  "image_height": "",
+  "image_width": "",
+  "inscription": "",
   "life_date": null,
-  "markings": "LLC: [Shuitsu]",
+  "markings": "LLC: 守一{Shuitsu}",
   "medium": "Ink and color on silk",
   "nationality": null,
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LLC: [Shuitsu hitsu]",
+  "signed": "LLC: 守一筆｛Shuitsu Hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Hawker in Snow"
