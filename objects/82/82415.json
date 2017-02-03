@@ -13,10 +13,10 @@
   "description": "abstract",
   "dimension": "17 3/8 x 17 5/16 in. (44.1 x 43.9 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/82415",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 6943,
-  "image_width": 6941,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1891 - 1955",
   "markings": "\\\"onzi\\\" sealed in black \r\nMemorial Edition \r\nPrinted by Kōichi Hirai\r\nwritten on the attached paper on the back\r\n\\\"gift\\\" written on the back",
@@ -34,6 +34,6 @@
   ],
   "signed": "",
   "style": "20th century",
-  "text": "",
+  "text": "From the later memorial edition.",
   "title": "Poem No. 2: Of the Field"
 }

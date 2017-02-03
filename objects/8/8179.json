@@ -13,10 +13,10 @@
   "description": "Right panel of a triptych/series depicting Segawa Kikunojō. Pattern in black kimono.",
   "dimension": "12 1/2 × 5 15/16 in. (31.7 × 15.1 cm) (image, sheet, hosoban)",
   "id": "http://api.artsmia.org/objects/8179",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 4301,
-  "image_width": 2101,
+  "image_height": "",
+  "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1706 - 1763",
   "markings": "Publisher: Urokogataya hanmoto",
@@ -34,6 +34,6 @@
   ],
   "signed": "{Eshi Torii Kiyomasu hitsu}",
   "style": "18th century",
-  "text": "",
+  "text": "This is the right sheet of a triptych that depicts the actor Segawa Kikunojō I (1693-1749) in three different roles that are not identified. The title cartouche says that this would be the left sheet, however, the characters for 'left' and 'right' were erroneously swapped on the two outside sheets.",
   "title": "Three Notable Scenes of Segawa, Left"
 }
