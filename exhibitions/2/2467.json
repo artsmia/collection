@@ -3,8 +3,8 @@
   "exhibition_department": "Contemporary Art",
   "exhibition_title": "Guillermo del Toro: At Home with Monsters",
   "exhibition_description": null,
-  "begin": 0,
-  "end": 0,
+  "begin": 2017,
+  "end": 2017,
   "display_date": null,
   "objects": [
     125749,
@@ -26,14 +26,14 @@
   "venues": [
     {
       "venue": "Art Gallery of Ontario",
-      "begin": 0,
-      "end": 0,
+      "begin": 2017,
+      "end": 2017,
       "display_date": "Saturday, September 30, 2017 - Sunday, January 7, 2018"
     },
     {
       "venue": "Minneapolis Institute of Art",
-      "begin": 0,
-      "end": 0,
+      "begin": 2017,
+      "end": 2017,
       "display_date": "Sunday, March 5, 2017 - Sunday, May 28, 2017"
     }
   ]

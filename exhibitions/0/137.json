@@ -32,5 +32,12 @@
     10211,
     10213
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Bard Graduate Center for Studies in the Decorative Arts",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Wednesday, October 8, 1997 - Wednesday, February 4, 1998"
+    }
+  ]
 }

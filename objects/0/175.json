@@ -2,7 +2,7 @@
   "accession_number": "2000.22",
   "artist": "Maker: Construct Studios (David Swanson); Architect: Frank Lloyd Wright",
   "catalogue_raissonne": null,
-  "classification": " Architecture",
+  "classification": " Architecture; Models",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Kenneth and Judy Dayton",
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "G300",
   "see_also": [
-    ""
+    "175",
+    "19689"
   ],
   "signed": "",
   "style": "20th century",
