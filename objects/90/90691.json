@@ -1,6 +1,6 @@
 {
   "accession_number": "2004.52.12.10",
-  "artist": "Artist: Ōta Masamitsu",
+  "artist": "Artist: Ōta Masamitsu; Carver: Itō Susumu; Printer: Itō Harutarō",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": null,
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1953",
   "department": "Japanese and Korean Art",
-  "description": "kabuki-e",
+  "description": "",
   "dimension": "14 5/16 x 9 5/16 in. (36.3 x 23.7 cm) (image)\r\n16 11/16 x 10 5/8 in. (42.4 x 27 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/90691",
   "image": "invalid",
@@ -20,10 +20,10 @@
   "inscription": "",
   "life_date": "Japanese, 1892 - 1975",
   "markings": "Artist\\'s seal in red\r\n\\\"Bancho_ro_ zo_ban\\\"(block belongs to the artist)\r\n\\\"Miyake Ko_shodo_ shu_satsu\\\"(caving and printing were produced by Ko_shodo_)\r\n\r\non the attached paper:\r\nReview of the print by Wakiya Mitsunobu\r\nCarver:Nagai Otokichi\r\nPrinter:Iwata Yasuji\r\nProducer:Miyake Yo_zo_\r\n",
-  "medium": "color woodblock print",
+  "medium": "Woodblock print; ink and color on paper",
   "nationality": "Japanese",
-  "object_name": null,
-  "portfolio": "From ",
+  "object_name": "Print (gendai hanga / yakusha-e)",
+  "portfolio": "From Figures on the Stage in the Shōwa Period (Shōwa butai sugata 昭和舞台姿)",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -35,5 +35,5 @@
   "signed": "Masamitsu",
   "style": "20th century",
   "text": "",
-  "title": "No. 11 Nakamura Ganjiro_ as Kmiya Jihe_"
+  "title": "No. 11, Actor Nakamura Ganjirō as Kamiya Jihei"
 }
