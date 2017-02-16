@@ -1,6 +1,6 @@
 {
   "accession_number": "P.35.6",
-  "artist": "Artist: Millard Sheets",
+  "artist": "Artist: Millard Sheets; Printer: Will A. Kistler Co., Los Angeles; Publisher: Public Works Art Project, State of California",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -10,19 +10,19 @@
   "curator_approved": 0,
   "dated": "1934",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Seaside rural landscape with houses, barns, and horses in pasture",
   "dimension": "21 x 31 1/4 in. (53.34 x 79.38 cm) (image)\r\n25 1/2 x 39 5/8 in. (64.77 x 100.65 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/67830",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
+  "inscription": "Printed inscription, LL margin: PRINTED BY WILL A. KISTLER COMPANY - LOS ANGELES; LR margin: CONTRIBUTED BY MILLARD SHEETS TO PUBLIC WORKS OF ART PROJECT 14TH REGION",
   "life_date": "American, 1907 - 1989",
-  "markings": "",
+  "markings": "Stamped in black ink, LLC of sheet: 95",
   "medium": "Color lithograph",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed in pencil, LR margin: Millard Sheets; initialed on the stone, LRC: M.S.",
   "style": "20th century",
   "text": "",
-  "title": "California Landscape"
+  "title": "A California Landscape"
 }
