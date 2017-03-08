@@ -13,10 +13,10 @@
   "description": "round glass vase with white, pink and maroon roses; maroon and pink roses lying outside of vase in lower left; grey ground",
   "dimension": "31 7/16 × 24 15/16 in. (79.85 × 63.34 cm) (sight)\r\n40 7/16 × 34 × 2 in. (102.71 × 86.36 × 5.08 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/124669",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9309,
+  "image_width": 7371,
   "inscription": "",
   "life_date": "French, 1847 - 1883",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G351",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

@@ -13,10 +13,10 @@
   "description": "the wall from the Connecticut room with the fireplace; appears partially submerged into a lake",
   "dimension": "40 × 50 in. (101.6 × 127 cm)",
   "id": "http://api.artsmia.org/objects/124472",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Anthony Marchetti",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1936,
+  "image_width": 2592,
   "inscription": "",
   "life_date": "American, born 1979",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G333",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
