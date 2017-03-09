@@ -1,14 +1,14 @@
 {
   "accession_number": "P.79.59",
-  "artist": "Artist: Edvard Munch",
-  "catalogue_raissonne": "Scheifler 102 D/D; Woll 204 III",
+  "artist": "Artist: Edvard Munch; Printer: M. W. Lassally, Berlin",
+  "catalogue_raissonne": "Scheifler 102 D/D; MM G 580; Woll 204 a III 1",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Norway",
   "creditline": "The Herschel V. Jones Fund, by exchange",
   "culture": null,
   "curator_approved": 1,
-  "dated": "1902",
+  "dated": "1902 (printed c. 1913)",
   "department": "Prints and Drawings",
   "description": "",
   "dimension": "18 3/8 x 18 1/4 in. (46.67 x 46.36 cm) (image)\r\n22 3/4 x 27 15/16 in. (57.79 x 70.96 cm) (sheet)",
@@ -17,14 +17,14 @@
   "image_copyright": "",
   "image_height": 3679,
   "image_width": 3655,
-  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\non verso: [AP]",
+  "inscription": "on verso:AP",
   "life_date": "Norwegian, 1863 - 1944",
-  "markings": "",
-  "medium": "Color woodcut in gray and black ink",
+  "markings": "Large unidentified stamp in black ink, verso.",
+  "medium": "Woodcut in gray and black ink",
   "nationality": "Norwegian",
   "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "[David Tunick, Inc., New York, agent for MIA, at Parke Bernet, New York 5/16/79]; acquired by MIA, 1979",
+  "provenance": "(David Tunick, Inc., New York, agent for MIA, at Parke Bernet, New York, 5/16/79); sold to MIA, 1979.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed in pencil: [Edv. Munch]",
+  "signed": "Signed LL in pencil: [Edv Munch]",
   "style": "20th century",
   "text": "The Kiss is a subject that Munch returned to several times from 1895 to 1902. He first explored the motif in a painting and an etching before embarking on this woodcut version, which stresses a more simplified, abstract composition. In this print, Munch cut the figures out of one block of wood, roughly gouging away the faces and hands. Over this he printed a piece of wood with a strong vertical grain in a light shade of grey, making it seem as if the kiss is as elemental as nature itself. The result is an image with a profound resonance, a timeless symbol of intimacy and unity.",
-  "title": "The Kiss"
+  "title": "The Kiss IV"
 }
