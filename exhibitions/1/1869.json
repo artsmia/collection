@@ -51,6 +51,12 @@
   ],
   "venues": [
     {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1975,
+      "end": 1977,
+      "display_date": "Friday, November 7, 1975 - Sunday, January 4, 1976"
+    },
+    {
       "venue": "Minneapolis Institute of Art",
       "begin": 1975,
       "end": 1977,
@@ -61,12 +67,6 @@
       "begin": 1975,
       "end": 1977,
       "display_date": "Thursday, March 10, 1977 - Sunday, May 1, 1977"
-    },
-    {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 1975,
-      "end": 1977,
-      "display_date": "Friday, November 7, 1975 - Sunday, January 4, 1976"
     }
   ]
 }

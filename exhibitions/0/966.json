@@ -17,16 +17,16 @@
       "display_date": "Monday, October 3, 2011 - Sunday, January 22, 2012"
     },
     {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Tuesday, February 21, 2012 - Sunday, June 3, 2012"
+    },
+    {
       "venue": "San Francisco Museum of Modern Art",
       "begin": 2011,
       "end": 2012,
       "display_date": "Saturday, May 21, 2011 - Tuesday, September 6, 2011"
-    },
-    {
-      "venue": "The Metropolitan Museum of Art",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Tuesday, February 21, 2012 - Sunday, June 3, 2012"
     }
   ]
 }

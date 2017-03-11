@@ -73,5 +73,12 @@
     118848,
     118849
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Arts",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": ", , - , , "
+    }
+  ]
 }

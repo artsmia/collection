@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 1800,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Daubigny, Monet, Van Gogh: Impressions of Landscape",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2017,
+  "display_date": "Friday, February 19, 2016 - Sunday, January 29, 2017",
+  "objects": [
+    1234,
+    2624,
+    3531,
+    4191
+  ],
+  "venues": [
+    {
+      "venue": "National Galleries of Scotland",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, June 25, 2016 - Sunday, October 2, 2016"
+    },
+    {
+      "venue": "Taft Museum of Art",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Friday, February 19, 2016 - Sunday, May 29, 2016"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Friday, October 21, 2016 - Sunday, January 29, 2017"
+    }
+  ]
+}
