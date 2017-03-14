@@ -1,13 +1,13 @@
 {
   "accession_number": "P.12,487",
   "artist": "Artist: Giorgio Morandi",
-  "catalogue_raissonne": "Vitali 83 ii/iii",
+  "catalogue_raissonne": "Vitali 83 ii/iii; Cordaro 1931.4",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1956",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1931",
   "department": "Prints and Drawings",
   "description": "",
@@ -19,10 +19,10 @@
   "image_width": "",
   "inscription": "",
   "life_date": "Italian, 1890 - 1964",
-  "markings": "",
-  "medium": "Etching on zinc",
+  "markings": "Numbered LL in pencil: 6/50",
+  "medium": "Etching",
   "nationality": "Italian",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed and dated LR in pencil: Morandi 1931",
   "style": "20th century",
   "text": "",
-  "title": "Natura Morta a Grandi Segni"
+  "title": "Natura morta a grandi segni"
 }

@@ -1,13 +1,13 @@
 {
   "accession_number": "P.12,485",
   "artist": "Artist: Giorgio Morandi",
-  "catalogue_raissonne": "Vitali 74 i/ii",
+  "catalogue_raissonne": "Vitali 74 i/ii; Cordaro 1930 7",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1956",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1930",
   "department": "Prints and Drawings",
   "description": "",
@@ -17,12 +17,12 @@
   "image_copyright": "©2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature",
+  "inscription": "Inscribed LL in pencil: prova di stampa",
   "life_date": "Italian, 1890 - 1964",
   "markings": "",
-  "medium": "Etching",
+  "medium": "Etching with plate tone",
   "nationality": "Italian",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "on plate & on sheet",
+  "signed": "Signed LR in pencil: Morandi",
   "style": "20th century",
   "text": "",
-  "title": "Still Life"
+  "title": "Natura morta"
 }

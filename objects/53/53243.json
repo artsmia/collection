@@ -1,13 +1,13 @@
 {
   "accession_number": "P.12,580",
   "artist": "Artist: Giorgio Morandi",
-  "catalogue_raissonne": "Vitali 34 vii/viii",
+  "catalogue_raissonne": "Vitali 34 vii/viii; Cordaro 1927.5",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Miscellaneous Works of Art Purchase Fund, 1957",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1927",
   "department": "Prints and Drawings",
   "description": "",
@@ -17,12 +17,12 @@
   "image_copyright": "©2002 Artists Rights Society %28ARS%29%2C New York%2FSIAE%2C Rome",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature",
+  "inscription": "",
   "life_date": "Italian, 1890 - 1964",
-  "markings": "Watermarks: <Umbria Italia (Fabriani)>",
+  "markings": "Numbered LL in pencil: 14/50\r\nWatermark: <Umbria Italia (Fabriani)>",
   "medium": "Etching",
   "nationality": "Italian",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "outside image in pencil",
+  "signed": "Signed and dated LR in pencil: Morandi 1927",
   "style": "20th century",
   "text": "",
-  "title": "Landscape"
+  "title": "Paesaggio con il grande pioppo"
 }
