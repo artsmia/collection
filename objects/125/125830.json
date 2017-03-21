@@ -13,10 +13,10 @@
   "description": "red background with large tan and navy diamond pattern across C (over shoulder area); stepped pyramid pattern in tan and navy along lower edges; navy and lime colored stripes along borders",
   "dimension": "72 × 52 in. (182.88 × 132.08 cm) (overall, with fringe)",
   "id": "http://api.artsmia.org/objects/125830",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6958,
+  "image_width": 9861,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],
