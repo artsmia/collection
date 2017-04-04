@@ -13,10 +13,10 @@
   "description": "standing stylized figure with pointed beard; triangular-shaped ears; pair of very tall horns with spirals at top; face has deeply-incised geometric patterns--without facial features; deeply carved oval element with horizontal band on chest; figure wears short skirt-like garment; figure stands on round platform with four curving legs and one vertical central leg; some possible scattered bits of red and white pigments",
   "dimension": "41 3/8 × 7 7/8 × 7 7/8 in. (105.09 × 20 × 20 cm)",
   "id": "http://api.artsmia.org/objects/125326",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9026,
+  "image_width": 4356,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G250",
   "see_also": [
     ""
   ],
