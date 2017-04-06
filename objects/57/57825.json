@@ -1,17 +1,17 @@
 {
   "accession_number": "P.70.145",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 241, large tanzaku #1.1",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1832",
+  "dated": "1840s",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "15 1/16 x 6 7/8 in. (38.2 x 17.5 cm) (image)\r\n11 1/4 x 7 in. (28.5 x 17.8 cm) (sheet)",
+  "dimension": "15 1/16 × 6 7/8 in. (38.2 × 17.5 cm) (image, ōtanzaku)",
   "id": "http://api.artsmia.org/objects/57825",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Twenty-eight Scenes of the Moon",
+  "portfolio": "From The Twenty-eight Views of the Moon (Tsuki nijūhakkei no uchi 月二拾八景之内)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,6 +34,6 @@
   ],
   "signed": "Hiroshige hitsu",
   "style": "19th century",
-  "text": "Judging from the series title for this print, Hiroshige intended to design twenty-eight images inspired by the moon. Today, only two designs are known, suggesting that he abandoned the idea shortly after beginning. For this image, Hiroshige was inspired by a poem originally published in the <I>Wakan Rōeishū</I> (Anthology of Chinese and Japanese Poems for Recitation), compiled in the 11th century by the courtier Fujiwara Kintō:\r\n\r\n\t\t<P><I>It is not unbearable to see maple leaves fall,\r\n\t\t<P>Scattering on the mass-covered ground.\r\n\t\t<P>It is unbearable to feel the wind grow chilly\r\n\t\t<P>And see the whole sky darkening.\r\n\t\t\t\t<P>(trans. by Yoko Woodson)</I>\r\n",
-  "title": "Moon through Leaves"
+  "text": "Judging from the series title for this print, the intention was to design twenty-eight images inspired by the moon. Today, only two designs are known, suggesting that the publisher abandoned the idea shortly after beginning. For this image, Hiroshige was inspired by a poem originally published in the <I>Wakan Rōeishū</I> (Anthology of Chinese and Japanese Poems for Recitation), compiled in the 11th century by the courtier Fujiwara Kintō:\r\n\r\n\t\t<P><I>It is not unbearable to see maple leaves fall,\r\n\t\t<P>Scattering on the mass-covered ground.\r\n\t\t<P>It is unbearable to feel the wind grow chilly\r\n\t\t<P>And see the whole sky darkening.\r\n\t\t\t\t<P>(trans. by Yoko Woodson)</I>",
+  "title": "Moon Seen through Leaves"
 }

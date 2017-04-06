@@ -1,17 +1,17 @@
 {
   "accession_number": "81.133.208",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Kawaguchiya Shōzō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 241, chūtanzaku #03.04",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1833-1834",
+  "dated": "c. 1832-1834",
   "department": "Japanese and Korean Art",
   "description": "nishiki-e",
-  "dimension": "14 13/16 x 4 13/16 in. (37.7 x 12.3 cm) (image)\r\n15 11/16 x 6 1/2 in. (39.8 x 16.5 cm) (sheet)",
+  "dimension": "14 13/16 × 4 13/16 in. (37.7 × 12.3 cm) (image, chūtanzaku)",
   "id": "http://api.artsmia.org/objects/22536",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From From the series Famous Places of Edo in the Four Seasons (Shiki ko_to meisho)",
+  "portfolio": "From Famous Views of Edo in the Four Seasons (Shiki Kōto meisho 四季江都名所)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Snow Over The Sumida River, Winter"
+  "title": "Winter: Snow on the Sumida River"
 }

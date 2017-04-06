@@ -1,7 +1,7 @@
 {
   "accession_number": "P.71.102",
-  "artist": "Artist: Benjamin West; Publisher: Philippe Andre",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Benjamin West; Publisher: Philipp André, London",
+  "catalogue_raissonne": "Felix Man 1962, no. 157",
   "classification": " Prints",
   "continent": null,
   "country": null,
@@ -10,20 +10,20 @@
   "curator_approved": 0,
   "dated": "1801 (published 1803)",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Plate 1, Vol. 1 of Specimens of Polyautography, Philipp André and James Heath, London, 1803, 2 vols.",
   "dimension": "12 5/16 x 8 15/16 in. (31.27 x 22.7 cm) (plate)\r\n12 3/4 x 9 1/16 in. (32.39 x 23.02 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/52893",
   "image": "valid",
   "image_copyright": "",
   "image_height": 4698,
   "image_width": 3354,
-  "inscription": "Signature",
+  "inscription": "Inscription printed from the stone, beneath image: He is not here : for he has risen",
   "life_date": "American, 1738 - 1820",
   "markings": "",
-  "medium": "Polyautography (pen lithograph)",
+  "medium": "Pen lithograph",
   "nationality": "American",
-  "object_name": null,
-  "portfolio": "From Specimens of Polyautography",
+  "object_name": "Print",
+  "portfolio": "From Specimens of Polyautography, London, 1803",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "In lower rt. print",
+  "signed": "Signed and dated LRC on the stone: B. West 1801",
   "style": "19th century",
   "text": "",
-  "title": "The Angel of the Resurrection , from \"Specimens of Polyautography\""
+  "title": "The Angel of the Resurrection"
 }

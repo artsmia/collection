@@ -1,17 +1,17 @@
 {
   "accession_number": "P.13,712",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 246, horizontal ōban #31.1",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1835-1836",
+  "dated": "c. 1835-1839",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "8 3/4 x 13 7/8 in. (22.3 x 35.2 cm) (image)\r\n9 3/4 x 14 1/2 in. (24.8 x 36.8 cm) (sheet)\r\n14 x 17 15/16 in. (35.5 x 45.5 cm) (mat)",
+  "dimension": "8 3/4 × 13 7/8 in. (22.3 × 35.2 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/61737",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From From the series \"Eight Views of Kanazawa\"",
+  "portfolio": "From Eight Views of Kanazawa (Kanazawa hakkei 金沢八景)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "The Eight Views of Kanazawa were designated by the Chinese monk Tøkø Shin'estu (1639-95), who visited Japan in the late seventeenth century. Kanazawa is a seaside town near the modern city of Yokohama. Thus, this series features eight different costal landscapes near Kanazawa. For the theme of \"evening snow,\" Hiroshige pictured the nearby hamlet of Uchikawa across the bay, because this vantage point also afforded a view of the hills in the distance that resemble Mount Hira in Ømi Province-a reference to the earlier Eight Views of Ømi. While including the traditional \"evening snow\" motifs, Hiroshige also added the local color of Mutsuura, the village depicted in the foreground. The village had a long history of salt production and the small huts that dot the lowlands near the bay were used for boiling seawater to extract salt.",
-  "title": "\"Evening Snow at Uchikawa\""
+  "title": "Twilight Snow at Uchikawa"
 }

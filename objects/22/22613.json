@@ -1,17 +1,17 @@
 {
   "accession_number": "81.133.142",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Fujiokaya Hikotarō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 240, chūtanzaku #9.3",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "19th century",
+  "dated": "1830s",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "14 7/8 x 5 in. (37.8 x 12.7 cm) (image, sheet)",
+  "dimension": "14 7/8 × 5 in. (37.8 × 12.7 cm) (image, sheet, chūtanzaku)",
   "id": "http://api.artsmia.org/objects/22613",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūzoku-e)",
-  "portfolio": "From Six Immortal Poets",
+  "portfolio": "From Untitled series of Six Poetic Immortals",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Ono-no Komachi"
+  "title": "Ono no Komachi"
 }
