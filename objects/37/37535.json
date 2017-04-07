@@ -1,17 +1,17 @@
 {
   "accession_number": "96.146.155.18",
   "artist": "Artist: Utagawa Hiroshige II; Publisher: Sakanaya Eikichi",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Strange 1925, p. 193, list #66",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "January 1861",
+  "dated": "1861, 1st month",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
-  "dimension": "13 3/16 x 8 3/4 in. (33.5 x 22.2 cm) (image)\r\n13 3/4 x 9 7/16 in. (35 x 24 cm) (sheet)",
+  "description": "",
+  "dimension": "13 3/16 × 8 3/4 in. (33.5 × 22.2 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/37535",
   "image": "invalid",
   "image_copyright": "",
@@ -19,7 +19,7 @@
   "image_width": "",
   "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "markings": "Censor:kai+Cock sho_\r\nPublisher:Uoei",
+  "markings": "Censor:kai+Cock sho_ 酉正改\r\nPublisher:Uoei",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -35,5 +35,5 @@
   "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
-  "title": "Catching Wild Geese in Iyo Province"
+  "title": "Catching Wild Ducks with Nets in Iyo Province"
 }

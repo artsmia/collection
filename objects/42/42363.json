@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.370",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Fujiokaya Hikotarō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 243, horizontal ōban #94.03",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1839",
+  "dated": "c. 1835-1839",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
-  "dimension": "9 5/8 x 14 1/16 in. (24.5 x 35.7 cm) (image)",
+  "description": "",
+  "dimension": "9 5/8 × 14 1/16 in. (24.5 × 35.7 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/42363",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / musha-e)",
-  "portfolio": "From [Untitled series about legends]",
+  "portfolio": "From Untitled series of Chinese and Japanese heroes",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
-  "title": "Satō Tadanobu Defeating Yokogawa Kakuhan in Yoshino"
+  "title": "The Warrior Satō Tadanobu Defeats Priest Kakuhan in the Mountains of Yoshino"
 }

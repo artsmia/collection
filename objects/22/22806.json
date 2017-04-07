@@ -8,10 +8,10 @@
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "January 1861",
+  "dated": "1861, 1st month",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "8 13/16 x 6 1/2 in. (22.4 x 16.5 cm) (image)\r\n9 3/4 x 7 1/4 in. (24.7 x 18.4 cm) (sheet)",
+  "dimension": "8 13/16 × 6 1/2 in. (22.4 × 16.5 cm) (image, vertical chūban)",
   "id": "http://api.artsmia.org/objects/22806",
   "image": "valid",
   "image_copyright": "",
@@ -19,11 +19,11 @@
   "image_width": 1774,
   "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "markings": "Censor:kai+January 1861\r\nPublisher:Tsutakichi-ban",
+  "markings": "Censor:kai+January 1861 酉正改\r\nPublisher:Tsutakichi-ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Forty-eight famous Views of Edo",
+  "portfolio": "From Fourty-eight Famous Views of Edo (Edo meisho yonjūhakkei 江戸名所四十八景)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "No.44 Twelve Shirines of Kumano at Tsunohazu"
+  "title": "45, the Twelve Kumano Shrines at Tsunohazu"
 }

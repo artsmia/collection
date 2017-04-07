@@ -1,17 +1,17 @@
 {
   "accession_number": "96.146.208",
   "artist": "Artist: Utagawa Hiroshige II; Publisher: Sakanaya Eikichi",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Strange 1925, p. 193, list #56",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "November 1859",
+  "dated": "1859, 10th month",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "13 3/16 x 8 3/4 in. (33.5 x 22.2 cm) (image)\r\n13 13/16 x 9 7/16 in. (35.1 x 24 cm) (sheet)\r\n17 15/16 x 14 in. (45.5 x 35.5 cm) (mat)",
+  "dimension": "13 3/16 × 8 3/4 in. (33.5 × 22.2 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/64424",
   "image": "valid",
   "image_copyright": "",
@@ -19,7 +19,7 @@
   "image_width": 1852,
   "inscription": "",
   "life_date": "Japanese, 1826 - 1869",
-  "markings": "Censor:kai+Sheep 10\r\nPublisher:Uoei-ban",
+  "markings": "Censor:kai+Sheep 10 未十改\r\nPublisher:Uoei-ban",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -35,5 +35,5 @@
   "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
-  "title": "Actual View of Murotsu Port, Banshū Province"
+  "title": "Actual View of Muro Harbor in Harima Province"
 }

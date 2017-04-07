@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.293",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Izumiya Ichibei",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 245, horizontal ōban #50.15",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1838",
+  "dated": "c. 1835-1839",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "9 15/16 x 15 3/16 in. (25.2 x 38.5 cm) (sheet)",
+  "dimension": "9 1/8 × 13 15/16 in. (23.1 × 35.4 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/63532",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / musha-e)",
-  "portfolio": "From The Treasury of Loyal Retainers (Chūshingura)",
+  "portfolio": "From The Treasury of Loyal Retainers (Chūshingura 忠臣蔵)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Act 11, Scene 5: Being Arrested on the Ryōgoku Bridge"
+  "title": "The Night Attack, Part 4 [sic; actually 5]: The Retreat across Ryōgoku Bridge"
 }

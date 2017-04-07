@@ -1,17 +1,17 @@
 {
   "accession_number": "P.78.65.81",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Aritaya Seiemon",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 245, horizontal ōban #49.05",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1843-1847",
+  "dated": "c. 1843-1847",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "8 15/16 x 13 11/16 in. (22.7 x 34.8 cm) (image)",
+  "dimension": "8 15/16 × 13 11/16 in. (22.7 × 34.8 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/62284",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / musha-e)",
-  "portfolio": "From Forty-seven Ronin (Chūshingura)",
+  "portfolio": "From The Treasury of Loyal Retainers (Chūshingura 忠臣蔵)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Act 5"
+  "title": "Act V"
 }

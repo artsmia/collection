@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.364",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Izumiya Ichibei",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 245, horizontal ōban #50.08",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1838",
+  "dated": "c. 1835-1839",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "9 x 14 in. (22.9 x 35.6 cm) (image, sheet)",
+  "dimension": "9 × 14 in. (22.9 × 35.6 cm) (image, sheet, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/62128",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / musha-e)",
-  "portfolio": "From The Treasury of Loyal Retainers (Chūshingura)",
+  "portfolio": "From The Treasury of Loyal Retainers (Chūshingura 忠臣蔵)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Act 8"
+  "title": "Act VIII"
 }
