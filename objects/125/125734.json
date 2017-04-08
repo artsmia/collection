@@ -13,10 +13,10 @@
   "description": "slightly tilted, blurry image of street at night with figure in silhouette in front of building at center; other figures behind a railing at right",
   "dimension": "11 7/8 × 8 11/16 in. (30.16 × 22.07 cm) (image)\r\n12 × 10 in. (30.48 × 25.4 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/125734",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Daido Moriyama",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 10008,
+  "image_width": 7430,
   "inscription": "URC in margin, in black marker: [arrow] / TOP | on back at bottom center, in pencil: 7247",
   "life_date": "Japanese, born 1938",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G365",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
