@@ -1,6 +1,6 @@
 {
   "accession_number": "P.76.2",
-  "artist": "Artist: Robert Rauschenberg; Publisher: Racolin Press, Briarcliff Manor, New York",
+  "artist": "Artist: Robert Rauschenberg; Publisher: Racolin Press, Briarcliff Manor, New York; Producer: Styria Studio, New York",
   "catalogue_raissonne": null,
   "classification": " Multiples",
   "continent": "North America",
@@ -10,14 +10,14 @@
   "curator_approved": 1,
   "dated": "1971-1972",
   "department": "Prints and Drawings",
-  "description": "Ten screenprinted acrylic panels mounted in a slotted Plexiglas base, so that one looks through all ten panels at once and the viewer can rearrange the individual panels. Has a stainless steel cover for storage.",
+  "description": "Ten screenprinted acrylic panels mounted in a slotted Plexiglas base, enclosed within a stainless steel cover.. Conceived as a three-dimensional \"book\" whose photomontaged pages (panels) can be moved and rearranged as desired.",
   "dimension": "18 x 10 in. (45.72 x 25.4 cm) (sheet, each)\r\n21 1/2 x 22 7/8 x 7 in. (54.61 x 58.1 x 17.78 cm) (overall)",
   "id": "http://api.artsmia.org/objects/7555",
   "image": "valid",
   "image_copyright": "Robert Rauschenberg%2C Opal Gospel%2C 1971-1972 © Robert Rauschenberg Foundation",
   "image_height": 5154,
   "image_width": 5764,
-  "inscription": "Signature; Date; Edition; Title",
+  "inscription": "",
   "life_date": "American, 1925 - 2008",
   "markings": "",
   "medium": "Color screenprints on ten acrylic sheets in Lucite base, stainless steel cover",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signature and date incised LLC of each panel: Rauschenberg 71. Stainless steel cover incised with artist\\'s signature and edition number.",
   "style": "20th century",
   "text": "Opal Gospel is among Rauschenberg's best known multiples, a three-dimensional \"book\" consisting of Native American stories, songs, poems and found imagery printed on a series of transparent acrylic pages which rest in a Lucite base. Rauschenberg's design encouraged the viewer to remove and read the various pages and re-arrange them in novel combinations, thus altering the object's appearance and meaning. For him, the work's evocative power was magnified by incorporating the idea of chance, which in this case is provided by the viewer's active participation.\r\n\r\nReflecting on the work's content and meaning, Rauschenberg noted that \"Spiritually and factually, [Native American] drawings improved the hunt and chronicled their history both generally and personally so that it could be understood by other tribes and other generations. It could be read or felt at one instant. [Art] should be a form of therapy.\"\r\n",
-  "title": "Opal Gospel"
+  "title": "Opal Gospel:"
 }
