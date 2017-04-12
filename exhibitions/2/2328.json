@@ -2,9 +2,12 @@
   "exhibition_id": 2328,
   "exhibition_department": null,
   "exhibition_title": "State of the Art: Discovering American Art Now",
+  "exhibition_description": null,
   "begin": 2016,
   "end": 2016,
-  "display_date": null,
-  "objects": [],
+  "display_date": "Thursday, February 18, 2016 - Sunday, May 22, 2016",
+  "objects": [
+    124497
+  ],
   "venues": []
 }
