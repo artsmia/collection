@@ -93,6 +93,11 @@ exhibitions:
 		fi; \
 	done;
 
-test:
-
-.PHONY: objects git count departments exhibitions
+buckets=*
+redisPrefix=mia-collection:
+buildRedisFromJSONFiles:
+	find objects/$(buckets) -name '*.json' | while read file; do \
+			id=$$(basename $$file .json | cut -d'/' -f3); \
+			bucket=$$(($$id/1000)); \
+			jq -c '.' $$file | redis-cli -x -n 9 hset $(redisPrefix)objects:$$bucket $$id >/dev/null; \
+		done
