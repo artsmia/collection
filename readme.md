@@ -123,7 +123,11 @@ Are organized in "buckets" just like objects.
 }
 ```
 
-[`exhibitions/0/734.json`][./exhibitions/0/734.json]
+[`exhibitions/0/734.json`](exhibitions/0/734.json)
+
+## Updates
+
+Our records are constantly updated and added to. Changes are committed to this dataset [approximately once per day](https://github.com/artsmia/collection/commits).
 
 ## **[CC0][] [(+BY)][]**
 
@@ -147,11 +151,12 @@ However, this repo is largely generated[º](./Makefile) from our upstream "colle
 
 [TMS]: http://jfkutech.wikispaces.com/The+Museum+System+(TMS)
 
-## Updates
-
-Hundreds of records can change on any given day. Updates are committed to this dataset [approximately once per day](https://github.com/artsmia/collection/commits).
-
 ## See also
+
+* [collections.artsmia.org](https://github.com/artsmia/art) and [`collection-elasticsearch`](https://github.com/artsmia/collection-elasticsearch) make this data searchable
+* [`mia-tools`](https://github.com/artsmia/collection-tools) puts the collection search on your command line
+
+---
 
 * [What's on view at Mia dot `csv`](https://github.com/miabot/galleries.csv)
 * [Europeana](http://www.europeana.eu/)
