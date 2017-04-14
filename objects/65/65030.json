@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.202",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Yamadaya Shōjirō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 246, horizontal ōban #38.13",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -10,8 +10,8 @@
   "curator_approved": 0,
   "dated": "August 1857",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
-  "dimension": "8 11/16 x 13 1/2 in. (22 x 34.3 cm) (image)\r\n9 5/8 x 14 5/16 in. (24.5 x 36.3 cm) (sheet)\r\n14 x 17 15/16 in. (35.5 x 45.5 cm) (mat)",
+  "description": "",
+  "dimension": "8 11/16 × 13 1/2 in. (22 × 34.3 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/65030",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Wrestling Matches between Mountain and Sea",
+  "portfolio": "From Wrestling Matches between Mountains and Seas (Sankai mitate zumō 山海見立相撲)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
-  "title": "\"Zōzu Mountain in Sanuki Provinces\""
+  "title": "Elephant-head Mountain in Sanuki Province"
 }

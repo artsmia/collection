@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.341",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Kyūshirō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 252, ōban #29.4",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1857",
+  "dated": "1857, 11th month",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "13 x 8 3/4 in. (33 x 22.2 cm) (image, sheet)",
+  "dimension": "13 × 8 3/4 in. (33 × 22.2 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/62158",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Six Jewel Rivers in Various Provinces",
+  "portfolio": "From Six Jewel Rivers in Various Provinces (Shokoku Mu Tamagawa 諸国六玉川)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Chōfu in Musashi Province"
+  "title": "Chōfu [Jewel River] in Musashi Province"
 }

@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.350",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Tsutaya Jūzaburō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 246, horizontal ōban #39.5",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1835-1837",
+  "dated": "c. 1835-1836",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "8 3/4 x 13 1/2 in. (22.3 x 34.3 cm) (image)\r\n9 15/16 x 14 1/2 in. (25.2 x 36.8 cm) (sheet)",
+  "dimension": "8 3/4 × 13 1/2 in. (22.3 × 34.3 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/62159",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Six Jewel Rivers in Various Provinces",
+  "portfolio": "From Six Jewel Rivers in Various Provinces (Shokoku Mu Tamagawa 諸国六玉川)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Jewel River of Noda in Mutsu Province"
+  "title": "Noda Jewel River in Mutsu Province"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.633",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Sanoya Kihei",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 241, horizontal aiban #11.2",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -11,7 +11,7 @@
   "dated": "c. 1840-1842",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "7 15/16 x 12 1/2 in. (20.2 x 31.8 cm) (image)\r\n9 x 13 3/4 in. (22.8 x 35 cm) (sheet)",
+  "dimension": "7 15/16 × 12 1/2 in. (20.2 × 31.8 cm) (image, horizontal aiban)",
   "id": "http://api.artsmia.org/objects/63186",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Famous Places of the Eastern Capital:Eight Views of the Sumida River",
+  "portfolio": "From The Famous Places in Edo (Tōto meisho no uchi 東都名所之内)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
-  "title": "Evening Glow at Imado"
+  "title": "Eight Views of the Sumida River: Sunset Glow at Imado"
 }

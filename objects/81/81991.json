@@ -10,7 +10,7 @@
   "curator_approved": 1,
   "dated": "1965",
   "department": "Prints and Drawings",
-  "description": "This gift appears on a separate page, attached to the end of the 1966 Gifts to the MIA: July 1 - December 31, 1966,  along with two other gifts.  None of these gifts are mentioned in the 1966 or 1967 accession meeting minutes.  As well, they do not appear in the accession forms file for 1966. B. Kraft 9-19-2003",
+  "description": "",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/81991",
   "image": "invalid",
@@ -20,11 +20,11 @@
   "inscription": "",
   "life_date": "American, 1912 - 1981",
   "markings": "",
-  "medium": "Watercolor",
+  "medium": "Watercolor on paper",
   "nationality": "American",
   "object_name": "Watercolor",
   "portfolio": "From ",
-  "provenance": "The artist",
+  "provenance": "The artist, Minneapolis; given to MIA, 1966.",
   "restricted": 0,
   "rights_type": "Orphaned Work",
   "role": "Artist",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Landscape [north woods scene]"
+  "title": "Landscape"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "P.78.64.34",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Kyūshirō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 252, ōban #29.3",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -11,7 +11,7 @@
   "dated": "November 1857",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "14 1/8 x 10 1/8 in. (35.8 x 25.7 cm) (sheet)",
+  "dimension": "13 7/16 × 9 1/16 in. (34.2 × 23 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/62164",
   "image": "valid",
   "image_copyright": "",
@@ -19,11 +19,11 @@
   "image_width": 3504,
   "inscription": "[...]",
   "life_date": "Japanese, 1797 - 1858",
-  "markings": "Censor: Kai, November 1857",
+  "markings": "Censor: Kai, November 1857 巳十一",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Six Jewel Rivers in Various Provinces",
+  "portfolio": "From Six Jewel Rivers in Various Provinces (Shokoku Mu Tamagawa 諸国六玉川)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "\"Fulling Cloth in Settsu Province\""
+  "title": "Kinuta [Jewel River] in Settsu Province"
 }
