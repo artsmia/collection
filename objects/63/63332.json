@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.297",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Daikokuya Heikichi",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 238, chūban #07.3",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1843-1847",
+  "dated": "1850s",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "9 15/16 x 7 5/16 in. (25.2 x 18.5 cm) (image)",
+  "dimension": "9 15/16 × 7 5/16 in. (25.2 × 18.5 cm) (image, vertical chūban)",
   "id": "http://api.artsmia.org/objects/63332",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "portfolio": "From Six Jewel Rivers in Old Poems (Koka mutamagawa)",
+  "portfolio": "From Six Jewel Rivers in Old Poems (Koka Mu Tamagawa 古歌六玉川)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
-  "title": "Pounding Silk in Settsu Province"
+  "title": "Kinuta [Jewel River] in Settsu Province"
 }

@@ -1,17 +1,17 @@
 {
   "accession_number": "96.146.199",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Ezakiya Tatsuzō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 235, horizontal chūban #27.12",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1841",
+  "dated": "c. 1840-1842",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
-  "dimension": "5 15/16 x 8 7/16 in. (15.1 x 21.5 cm) (image)",
+  "description": "",
+  "dimension": "5 15/16 × 8 7/16 in. (15.1 × 21.5 cm) (image, horizontal chūban)",
   "id": "http://api.artsmia.org/objects/65022",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Famous Places of the Eastern Capital (Tōto meisho)",
+  "portfolio": "From Famous Places of the Eastern Capital (Tōto meisho 東都名所)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "Hiroshige ga",
   "style": "19th century",
   "text": "",
-  "title": "Incoming Ships at Tsukuda Island"
+  "title": "View of Incoming Ships at Tsukuda Island"
 }

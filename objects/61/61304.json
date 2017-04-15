@@ -1,17 +1,17 @@
 {
   "accession_number": "P.75.51.298",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Murataya Ichigorō",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 238, chūban #07.1",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1843-1847",
+  "dated": "c. 1844-1846",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "10 x 7 1/8 in. (25.4 x 18.1 cm) (image)\r\n10 x 7 1/8 in. (25.4 x 18.1 cm) (sheet, trimmed)",
+  "dimension": "10 × 7 1/8 in. (25.4 × 18.1 cm) (image, vertical chūban)",
   "id": "http://api.artsmia.org/objects/61304",
   "image": "valid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "portfolio": "From Six Jewel Rivers in Old Poems (Koka mutamagawa)",
+  "portfolio": "From Six Jewel Rivers in Old Poems (Koka Mu Tamagawa 古歌六玉川)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Noji in O_mi Province"
+  "title": "Noji [Jewel River] in Ōmi Province"
 }
