@@ -1,17 +1,17 @@
 {
   "accession_number": "81.133.97",
-  "artist": "Artist: Utagawa Hiroshige",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Seijirō",
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 244, horizontal ōban #70.06",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1843-1847",
+  "dated": "c. 1844-1845",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "8 13/16 x 13 3/4 in. (22.4 x 34.9 cm) (image)\r\n9 7/8 x 14 1/2 in. (25.1 x 36.8 cm) (sheet)",
+  "dimension": "8 13/16 × 13 3/4 in. (22.4 × 34.9 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/22721",
   "image": "valid",
   "image_copyright": "",
@@ -34,6 +34,6 @@
   ],
   "signed": "",
   "style": "19th century",
-  "text": "",
-  "title": "View of the Bridge Over Benkei Moat Out of Sakurada Gate"
+  "text": "Later edition with Tanaka censor seal.",
+  "title": "Cherry-tree Well at Benkei Moat outside Sakurada"
 }

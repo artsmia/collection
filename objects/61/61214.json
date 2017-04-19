@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.438",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Yamadaya Shōjirō",
-  "catalogue_raissonne": "Ukiyo-e shûka 14 (1981), Hiroshige list, p. 247, horizontal ôban #19.",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -11,7 +11,7 @@
   "dated": "March 1858",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "8 7/16 x 13 7/16 in. (21.5 x 34.1 cm) (image)",
+  "dimension": "8 7/16 × 13 7/16 in. (21.5 × 34.1 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/61214",
   "image": "valid",
   "image_copyright": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Village by the Tamagawa River"
+  "title": "Village by the Tama River"
 }
