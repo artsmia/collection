@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 1988,
   "end": 1988,
-  "display_date": null,
+  "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988",
   "objects": [
     116865,
     116866,
@@ -21,19 +21,19 @@
       "venue": "Osaka Municipal Museum of Art",
       "begin": 1988,
       "end": 1988,
-      "display_date": "Tuesday, September 6, 1988 - Sunday, October 9, 1988"
+      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
     },
     {
       "venue": "Sendai City Museum",
       "begin": 1988,
       "end": 1988,
-      "display_date": "Saturday, June 11, 1988 - Sunday, July 17, 1988"
+      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
     },
     {
       "venue": "Sogo Museum",
       "begin": 1988,
       "end": 1988,
-      "display_date": "Thursday, October 20, 1988 - Sunday, November 13, 1988"
+      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
     }
   ]
 }

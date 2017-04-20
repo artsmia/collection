@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2000,
   "end": 2000,
-  "display_date": null,
+  "display_date": "Monday, June 12, 2000 - Saturday, July 01, 2000",
   "objects": [
     117143
   ],
@@ -14,7 +14,7 @@
       "venue": "Gallery Natsuka",
       "begin": 2000,
       "end": 2000,
-      "display_date": ", , - , , "
+      "display_date": "Monday, June 12, 2000 - Saturday, July 01, 2000"
     }
   ]
 }

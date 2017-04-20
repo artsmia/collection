@@ -1,13 +1,20 @@
 {
   "exhibition_id": 1020,
   "exhibition_department": null,
-  "exhibition_title": "2001 El Greco exhibition",
+  "exhibition_title": "El Greco (1541-1614)",
   "exhibition_description": null,
-  "begin": 0,
-  "end": 0,
-  "display_date": null,
+  "begin": 2001,
+  "end": 2001,
+  "display_date": "Friday, May 04, 2001 - Sunday, September 16, 2001",
   "objects": [
     278
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunsthistorisches Museum Wien",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Friday, May 04, 2001 - Sunday, September 16, 2001"
+    }
+  ]
 }

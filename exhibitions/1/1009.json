@@ -9,5 +9,12 @@
   "objects": [
     278
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1947,
+      "end": 1947,
+      "display_date": "Sunday, March 09, 1947 - Sunday, April 13, 1947"
+    }
+  ]
 }

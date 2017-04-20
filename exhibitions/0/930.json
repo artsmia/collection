@@ -9,5 +9,18 @@
   "objects": [
     50
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Ohio State University Art Gallery",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "1969"
+    },
+    {
+      "venue": "Rochester Memorial Art Gallery",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "1969"
+    }
+  ]
 }

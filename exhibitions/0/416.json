@@ -9,5 +9,12 @@
   "objects": [
     278
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Frick Collection",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Tuesday, May 15, 2001 - Sunday, July 29, 2001"
+    }
+  ]
 }

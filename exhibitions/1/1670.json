@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 1910,
   "end": 1910,
-  "display_date": null,
+  "display_date": "1910",
   "objects": [
     8180
   ],
@@ -14,7 +14,7 @@
       "venue": "Musée des Arts",
       "begin": 1910,
       "end": 1910,
-      "display_date": "Saturday, January 1, 1910 - Saturday, January 1, 1910"
+      "display_date": "1910"
     }
   ]
 }

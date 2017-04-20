@@ -9,5 +9,12 @@
   "objects": [
     1385
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Maier Museum of Art",
+      "begin": 1921,
+      "end": 1921,
+      "display_date": "1921"
+    }
+  ]
 }

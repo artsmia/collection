@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 1987,
   "end": 2015,
-  "display_date": null,
+  "display_date": "Tuesday, March 03, 1987 - Sunday, June 07, 2015",
   "objects": [
     40037,
     122107,
@@ -16,7 +16,7 @@
       "venue": "Asia Society Museum",
       "begin": 1987,
       "end": 2015,
-      "display_date": "Tuesday, March 3, 1987 - Sunday, June 7, 1987"
+      "display_date": "Tuesday, March 03, 1987 - Sunday, June 07, 2015"
     }
   ]
 }

@@ -9,5 +9,12 @@
   "objects": [
     1385
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "H. V. Allison & Company",
+      "begin": 1945,
+      "end": 1945,
+      "display_date": "Wednesday, November 07, 1945 - Saturday, December 15, 1945"
+    }
+  ]
 }

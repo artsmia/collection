@@ -9,5 +9,12 @@
   "objects": [
     18075
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Orchestra Hall",
+      "begin": 1980,
+      "end": 1985,
+      "display_date": "Monday, July 21, 1980 - Tuesday, July 09, 1985"
+    }
+  ]
 }

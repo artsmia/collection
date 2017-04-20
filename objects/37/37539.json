@@ -1,17 +1,17 @@
 {
   "accession_number": "96.146.155.21",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Jinpachi",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 243, horizontal ōban #84.1",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1843-1847",
+  "dated": "1843",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "9 13/16 x 14 1/2 in. (25 x 36.8 cm) (sheet)",
+  "dimension": "8 11/16 × 13 5/8 in. (22.1 × 34.6 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/37539",
   "image": "invalid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From Famous Places for Snow, Moon and Flowers (Meisho setsu-getsu-ka)",
+  "portfolio": "From Snow, Moon, and Flowers at Famous Places (Meisho setsugekka 名所雪月花)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "{Hiroshige ga}",
   "style": "19th century",
   "text": "",
-  "title": "Snow at Benzaiten Shrine in the Pond of Inokashira"
+  "title": "Snow Scene at the Shrine of Benzaiten in the Pond at Inokashira"
 }

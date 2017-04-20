@@ -1,17 +1,17 @@
 {
   "accession_number": "96.146.155.14",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Maruya Jinpachi",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 243, horizontal ōban #84.2",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1843-1847",
+  "dated": "1843",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "9 13/16 x 14 9/16 in. (24.9 x 37 cm) (sheet)",
+  "dimension": "8 11/16 × 13 9/16 in. (22 × 34.5 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/37531",
   "image": "invalid",
   "image_copyright": "",
@@ -23,7 +23,7 @@
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
-  "portfolio": "From ",
+  "portfolio": "From Snow, Moon, and Flowers at Famous Places (Meisho setsugekka 名所雪月花)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Cherry Blossoms at the River bank of Koganei"
+  "title": "Cherry Trees in Bloom on the Embankment at Koganei"
 }

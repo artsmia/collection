@@ -9,5 +9,12 @@
   "objects": [
     50
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "F. Kleinberger & Company, Inc.",
+      "begin": 1927,
+      "end": 1927,
+      "display_date": "October 1927"
+    }
+  ]
 }

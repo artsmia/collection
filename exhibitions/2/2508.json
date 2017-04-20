@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2017,
   "end": 2017,
-  "display_date": null,
+  "display_date": "Friday, June 09, 2017 - Sunday, September 10, 2017",
   "objects": [
     528,
     568,
@@ -112,13 +112,13 @@
       "venue": "China Institute",
       "begin": 2017,
       "end": 2017,
-      "display_date": "Monday, February 4, 2019 - Sunday, May 26, 2019"
+      "display_date": "Friday, June 09, 2017 - Sunday, September 10, 2017"
     },
     {
       "venue": "John and Mable Ringling Museum of Art",
       "begin": 2017,
       "end": 2017,
-      "display_date": "Friday, June 9, 2017 - Sunday, September 10, 2017"
+      "display_date": "Friday, June 09, 2017 - Sunday, September 10, 2017"
     }
   ]
 }

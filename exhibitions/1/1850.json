@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2015,
   "end": 2016,
-  "display_date": null,
+  "display_date": "Thursday, November 05, 2015 - Sunday, February 07, 2016",
   "objects": [
     120579
   ],
@@ -14,13 +14,13 @@
       "venue": "Denver Art Museum",
       "begin": 2015,
       "end": 2016,
-      "display_date": "Thursday, November 5, 2015 - Sunday, February 7, 2016"
+      "display_date": "Thursday, November 05, 2015 - Sunday, February 07, 2016"
     },
     {
       "venue": "Museo Thyssen-Bornemisza",
       "begin": 2015,
       "end": 2016,
-      "display_date": "Monday, February 29, 2016 - Sunday, June 5, 2016"
+      "display_date": "Thursday, November 05, 2015 - Sunday, February 07, 2016"
     }
   ]
 }

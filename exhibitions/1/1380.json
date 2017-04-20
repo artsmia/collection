@@ -9,5 +9,12 @@
   "objects": [
     1332
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Marlborough Gallery, New York",
+      "begin": 1971,
+      "end": 1971,
+      "display_date": "Thursday, February 11, 1971 - Saturday, March 06, 1971"
+    }
+  ]
 }

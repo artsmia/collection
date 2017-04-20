@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2002,
   "end": 2002,
-  "display_date": null,
+  "display_date": "Wednesday, January 02, 2002 - Thursday, February 28, 2002",
   "objects": [
     116732,
     116733,
@@ -22,13 +22,13 @@
       "venue": "Clark Center for Japanese Art & Culture",
       "begin": 2002,
       "end": 2002,
-      "display_date": "Wednesday, January 2, 2002 - Thursday, February 28, 2002"
+      "display_date": "Wednesday, January 02, 2002 - Thursday, February 28, 2002"
     },
     {
       "venue": "Los Angeles County Museum of Art",
       "begin": 2002,
       "end": 2002,
-      "display_date": "Monday, April 22, 2002 - Thursday, August 1, 2002"
+      "display_date": "Wednesday, January 02, 2002 - Thursday, February 28, 2002"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 1975,
   "end": 1977,
-  "display_date": null,
+  "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977",
   "objects": [
     6613,
     6621,
@@ -54,19 +54,19 @@
       "venue": "Metropolitan Museum of Art",
       "begin": 1975,
       "end": 1977,
-      "display_date": "Friday, November 7, 1975 - Sunday, January 4, 1976"
+      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
     },
     {
       "venue": "Minneapolis Institute of Art",
       "begin": 1975,
       "end": 1977,
-      "display_date": "Wednesday, June 1, 1977 - Sunday, July 17, 1977"
+      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
     },
     {
       "venue": "Seattle Art Museum",
       "begin": 1975,
       "end": 1977,
-      "display_date": "Thursday, March 10, 1977 - Sunday, May 1, 1977"
+      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
     }
   ]
 }

@@ -9,5 +9,12 @@
   "objects": [
     1385
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Herron Museum of Art",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Saturday, February 18, 1967 - Sunday, March 26, 1967"
+    }
+  ]
 }

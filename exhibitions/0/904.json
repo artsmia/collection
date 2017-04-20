@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 0,
   "end": 0,
-  "display_date": null,
+  "display_date": "",
   "objects": [
     105013,
     105014,
@@ -39,7 +39,7 @@
       "venue": "Opening Night Framing Services & Gallery",
       "begin": 0,
       "end": 0,
-      "display_date": "Monday, April 28, 2008 - Friday, May 16, 2008"
+      "display_date": ""
     }
   ]
 }

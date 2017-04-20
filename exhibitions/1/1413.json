@@ -9,5 +9,12 @@
   "objects": [
     1385
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 1923,
+      "end": 1923,
+      "display_date": "Sunday, July 01, 1923 - Monday, December 31, 1923"
+    }
+  ]
 }

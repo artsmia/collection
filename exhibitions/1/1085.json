@@ -9,5 +9,12 @@
   "objects": [
     1858
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Galerie Sanct Lucas",
+      "begin": 1971,
+      "end": 1971,
+      "display_date": "Thursday, April 01, 1971 - Monday, May 17, 1971"
+    }
+  ]
 }

@@ -9,5 +9,18 @@
   "objects": [
     15729
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Tweed Museum of Art",
+      "begin": 1976,
+      "end": 1979,
+      "display_date": "Wednesday, April 28, 1976 - Tuesday, July 31, 1979"
+    },
+    {
+      "venue": "University of Minnesota Gallery, Minneapolis",
+      "begin": 1976,
+      "end": 1979,
+      "display_date": "Wednesday, April 28, 1976 - Tuesday, July 31, 1979"
+    }
+  ]
 }

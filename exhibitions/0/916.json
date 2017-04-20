@@ -9,5 +9,12 @@
   "objects": [
     4035
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum Boymans",
+      "begin": 1938,
+      "end": 1938,
+      "display_date": "Saturday, June 25, 1938 - Saturday, October 15, 1938"
+    }
+  ]
 }

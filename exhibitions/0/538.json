@@ -19,5 +19,24 @@
     65390,
     82103
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004"
+    }
+  ]
 }

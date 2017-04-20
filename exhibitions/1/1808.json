@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 1962,
   "end": 1962,
-  "display_date": null,
+  "display_date": "1962",
   "objects": [
     1214
   ],
@@ -14,13 +14,13 @@
       "venue": "Asia House",
       "begin": 1962,
       "end": 1962,
-      "display_date": ", , - Sunday, February 3, 1963"
+      "display_date": "1962"
     },
     {
       "venue": "Cini Foundation",
       "begin": 1962,
       "end": 1962,
-      "display_date": "Saturday, September 1, 1962 - Wednesday, October 31, 1962"
+      "display_date": "1962"
     }
   ]
 }
