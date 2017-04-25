@@ -2,7 +2,7 @@
   "accession_number": "2016.102.3",
   "artist": "Photographer: Martha Rosler",
   "catalogue_raissonne": null,
-  "classification": " Photographs",
+  "classification": " Photographs; Artist Installations",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Alfred and Ingrid Lenz Harrison Purchase Fund",
@@ -25,12 +25,13 @@
   "object_name": "Photograph",
   "portfolio": "From In the Place of the Public:  Observations of a Frequent Flier",
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "Copyright Protected",
+  "restricted": 0,
+  "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "125776",
+    "126985"
   ],
   "signed": "signed on back label",
   "style": "20th century",
