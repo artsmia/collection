@@ -34,5 +34,12 @@
     66613,
     66615
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Friday, April 04, 2003 - Sunday, October 19, 2003"
+    }
+  ]
 }

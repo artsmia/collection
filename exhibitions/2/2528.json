@@ -1,0 +1,40 @@
+{
+  "exhibition_id": 2528,
+  "exhibition_department": "Photography & New Media",
+  "exhibition_title": "Minnesota Govoner's Residence 2017-2018",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Tuesday, August 01, 2017 - Friday, August 31, 2018",
+  "objects": [
+    2908,
+    3557,
+    5948,
+    5954,
+    10767,
+    10872,
+    10875,
+    10876,
+    10877,
+    10881,
+    10885,
+    11918,
+    20430,
+    20475,
+    25416,
+    60326,
+    60342,
+    60373,
+    60401,
+    60415,
+    98614
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Tuesday, August 01, 2017 - Friday, August 31, 2018"
+    }
+  ]
+}

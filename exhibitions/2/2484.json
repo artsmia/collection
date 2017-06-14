@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2017,
   "end": 2018,
-  "display_date": "Saturday, October 07, 2017 - Monday, February 12, 2018",
+  "display_date": "Saturday, October 07, 2017 - Sunday, June 24, 2018",
   "objects": [
     125922,
     125923,
@@ -59,8 +59,14 @@
     126067,
     126069,
     126070,
-    126071,
-    126080
+    126071
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, October 07, 2017 - Sunday, June 24, 2018"
+    }
+  ]
 }
