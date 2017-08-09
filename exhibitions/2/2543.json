@@ -1,14 +1,26 @@
 {
   "exhibition_id": 2543,
-  "exhibition_department": null,
+  "exhibition_department": "Photography & New Media",
   "exhibition_title": "Excavating the Future City: Photographs by Naoya Hatakeyama",
   "exhibition_description": null,
   "begin": 2018,
   "end": 2018,
   "display_date": "Sunday, March 04, 2018 - Wednesday, July 04, 2018",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
-    127365
+    127365,
+    127366,
+    127367,
+    127368,
+    127370,
+    127371,
+    127372,
+    127375,
+    127376,
+    127377,
+    127378,
+    127379,
+    127380
   ],
   "venues": []
 }
