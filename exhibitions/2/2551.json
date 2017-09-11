@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 2551,
+  "exhibition_department": "Paintings",
+  "exhibition_title": "John Singer Sargent Nationalmuseum",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    106557,
+    120552,
+    120553
+  ],
+  "venues": [
+    {
+      "venue": "Nationalmuseum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": null
+    }
+  ]
+}
