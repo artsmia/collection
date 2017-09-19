@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2557,
+  "exhibition_department": null,
+  "exhibition_title": "Cubism",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Wednesday, October 17, 2018 - Monday, February 25, 2019",
+  "public_info": null,
+  "objects": [
+    773
+  ],
+  "venues": [
+    {
+      "venue": "Centre Pompidou",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Wednesday, October 17, 2018 - Monday, February 25, 2019"
+    }
+  ]
+}
