@@ -1,16 +1,22 @@
 {
   "exhibition_id": 2382,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Derain, Balthus, Giacometti",
   "exhibition_description": null,
   "begin": 2017,
   "end": 2017,
   "display_date": "Thursday, June 01, 2017 - Sunday, October 29, 2017",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
     1407
   ],
   "venues": [
+    {
+      "venue": "Fundación MAPFRE",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Thursday, June 01, 2017 - Sunday, October 29, 2017"
+    },
     {
       "venue": "Musée d'Art Moderne de la Ville de Paris",
       "begin": 2017,
