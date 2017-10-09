@@ -1,11 +1,11 @@
 {
-  "exhibition_id": 2549,
-  "exhibition_department": "Photography & New Media",
-  "exhibition_title": "200 Nights of Freedom",
+  "exhibition_id": 2566,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Framing photographs for Haggerty Museum of Art loan",
   "exhibition_description": null,
-  "begin": 2018,
-  "end": 2018,
-  "display_date": "Friday, February 02, 2018 - Sunday, May 20, 2018",
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Friday, October 13, 2017 - Monday, November 13, 2017",
   "public_info": 0,
   "objects": [
     3499,
@@ -56,10 +56,10 @@
   ],
   "venues": [
     {
-      "venue": "Haggerty Museum of Art",
-      "begin": 2018,
-      "end": 2018,
-      "display_date": "Friday, February 02, 2018 - Sunday, May 20, 2018"
+      "venue": "Opening Night Framing Services & Gallery",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Friday, October 13, 2017 - Monday, November 13, 2017"
     }
   ]
 }
