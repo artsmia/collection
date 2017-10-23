@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 125,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Walker Evans and Dan Graham",
+  "exhibition_description": null,
+  "begin": 1992,
+  "end": 1993,
+  "display_date": "Monday, August 24, 1992 - Sunday, March 21, 1993",
+  "public_info": 0,
+  "objects": [
+    11359,
+    11360,
+    11714,
+    11717
+  ],
+  "venues": [
+    {
+      "venue": "Witte de With Center for Contemporary Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Monday, August 24, 1992 - Sunday, March 21, 1993"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 723,
+  "exhibition_department": null,
+  "exhibition_title": "Pierre Bonnard",
+  "exhibition_description": null,
+  "begin": 2006,
+  "end": 2006,
+  "display_date": "Thursday, February 02, 2006 - Sunday, May 07, 2006",
+  "public_info": null,
+  "objects": [
+    1240
+  ],
+  "venues": [
+    {
+      "venue": "Musée d'Art Moderne de la Ville de Paris",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Thursday, February 02, 2006 - Sunday, May 07, 2006"
+    }
+  ]
+}

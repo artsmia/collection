@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1012,
+  "exhibition_department": null,
+  "exhibition_title": "Venetian Tradition",
+  "exhibition_description": null,
+  "begin": 1956,
+  "end": 1957,
+  "display_date": "Friday, November 09, 1956 - Tuesday, January 01, 1957",
+  "public_info": null,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 1956,
+      "end": 1957,
+      "display_date": "Friday, November 09, 1956 - Tuesday, January 01, 1957"
+    }
+  ]
+}

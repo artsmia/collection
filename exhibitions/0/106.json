@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 106,
+  "exhibition_department": null,
+  "exhibition_title": "Retrospective James Ensor",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 2000,
+  "display_date": "Friday, September 24, 1999 - Friday, January 21, 2000",
+  "public_info": null,
+  "objects": [
+    1800
+  ],
+  "venues": [
+    {
+      "venue": "Royal Museums of Belgium",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Friday, September 24, 1999 - Friday, January 21, 2000"
+    }
+  ]
+}

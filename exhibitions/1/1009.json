@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1009,
+  "exhibition_department": null,
+  "exhibition_title": "El Greco",
+  "exhibition_description": null,
+  "begin": 1947,
+  "end": 1947,
+  "display_date": "Sunday, March 09, 1947 - Sunday, April 13, 1947",
+  "public_info": null,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1947,
+      "end": 1947,
+      "display_date": "Sunday, March 09, 1947 - Sunday, April 13, 1947"
+    }
+  ]
+}
