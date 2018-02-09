@@ -8,9 +8,9 @@
   "creditline": "Bequest of Herschel V. Jones",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1496-1498",
+  "dated": "1498",
   "department": "Prints and Drawings",
-  "description": "Plate 2",
+  "description": "",
   "dimension": "15 1/8 x 11 in. (38.42 x 27.94 cm) (image)",
   "id": "http://api.artsmia.org/objects/49919",
   "image": "valid",
@@ -22,18 +22,19 @@
   "markings": "Watermark: Imperial Orb",
   "medium": "Woodcut",
   "nationality": "German",
-  "object_name": null,
-  "portfolio": "From Apocalypse of St. John",
+  "object_name": "Print",
+  "portfolio": "From Apocalypse of Saint John, Plate 1",
   "provenance": "Vincent Mayer (L. 2525); Knoedler & Co.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "49892",
+    "49919"
   ],
   "signed": "",
   "style": "15th century",
   "text": "In this masterful woodcut from The Apocalypse of Saint John, Albrecht Dürer portrays the torture and martyrdom of Saint John the Evangelist, who by Christian tradition is equated with the historical figure of the Apostle John. Though not part of the Book of Revelation, Dürer included the scene to identify Saint John as its author, an assertion that remains in dispute.\r\n\r\nThe subject of Saint John's martyrdom was common in medieval art and despite Dürer's highly advanced woodcut technique, the print presents a traditional interpretation of the story. Condemned by Roman Emperor Domitian (51-96 A.D.) after refusing to renounce his Christian faith, Saint John is shown sitting naked in the bath, as an executioner fans the flames with a bellows while another pours boiling oil over the saint's body. Domitian is seated to the left of the saint dressed as a Turkish sultan to indicate his hostility to Christianity. Though early Christian writings tell of John's miraculous survival from the cauldron of oil, apocryphal versions of the story contradict this and record his murder.",
-  "title": "The Martyrdom of St. John the Evangelist"
+  "title": "The Martyrdom of Saint John"
 }

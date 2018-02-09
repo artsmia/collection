@@ -13,10 +13,10 @@
   "description": "four large characters, one in each quadrant",
   "dimension": "8 1/2 × 8 1/16 in. (21.59 × 20.48 cm)",
   "id": "http://api.artsmia.org/objects/118911",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2394,
+  "image_width": 6951,
   "inscription": "\r\n\r\n",
   "life_date": "Japanese, 1817 - 1881",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Set of Three Shikishi, one of three"
+  "title": "Set of Three Poem Cards (shikishi), one of three"
 }

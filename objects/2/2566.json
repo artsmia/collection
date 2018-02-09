@@ -13,10 +13,10 @@
   "description": "Six-panel half-height screen (chu-byobu) depicting a group of elegantly dressed women enjoying a maple leaf viewing party. Gold clouds in gold leaf cover the upper 1/5 of the top of the composition, while the lower portion is dominated by a white curtain that creates the space of the party. In the right two panels, a group of male figures, one on horseback, has arrived and seems to be communicating with some of the female figures who emerge from behind the curtain.",
   "dimension": "43 3/4 x 113 in. (111.13 x 287.02 cm) (image)\r\n49 x 118 in. (124.46 x 299.72 cm)",
   "id": "http://api.artsmia.org/objects/2566",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 4563,
+  "image_width": 10823,
   "inscription": "",
   "life_date": "Japanese, 1682 - 1752",
   "markings": "Artist seal (square, red) (LL): 長春 {Choshun}",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G219",
   "see_also": [
     ""
   ],
   "signed": "Artist signature (LL): 日本絵皆川長春図 {Nihon-e Miyagawa Choshun zu}",
   "style": "Nikuhitsu ukiyo-e",
-  "text": "This colorful screen illustrates a favorite Japanese seasonal pastime, the viewing of crimson maple leaves in the autumn. Within a curtained enclosure two sumptuously attired women, surrounded by their attendants, are enjoying music and refreshments. They sit before an elegant folding screen, thus demonstrating how these objects were used by the Japanese out-of-doors for privacy and protection against the wind. On the far left, a group of women heat sake (rice wine) over a small fire fueled by maple leaves. A foot soldier announces the arrival of his master, shown in a blue patterned kimono and plaid jacket on the far right. \r\n<p>This work is signed by Miyagawa Choshun, an ukiyo-e artist who specialized in painting rather than woodblock prints. Choshun was renowned for his delicate style and for his ability to depict figures that seem to interact in a natural and convincing manner.",
+  "text": "This colorful screen illustrates a favorite Japanese seasonal pastime, viewing crimson maple leaves in autumn. Within a curtained enclosure, two luxuriously clothed women, surrounded by their attendants, are enjoying music and refreshments laid out on elegant black and red lacquer serving dishes. On the far left, a group of women heat rice wine (sake) over a small fire fueled by dried maple leaves. A foot soldier announces the arrival of his superior, shown in a blue patterned kimono and plaid jacket on the far right. An elegant folding screen in the background—much like the one on which this scene is painted—illustrates how these objects were used both indoors and out for privacy and protection against the wind.",
   "title": "Maple Viewing Party"
 }

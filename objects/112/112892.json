@@ -13,10 +13,10 @@
   "description": "underside of bridge at top and URC; New York skyline; boats on water in foreground",
   "dimension": "13 11/16 x 19 5/8 in. (34.77 x 49.85 cm) (sight)\r\n23 x 29 1/16 in. (58.42 x 73.82 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/112892",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Estate of Reginald Marsh %2F Art Students League%2C New York %2F Artists Rights Society %28ARS%29%2C New York",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2562,
+  "image_width": 3585,
   "inscription": "Signature and Date",
   "life_date": "American, 1898–1954",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G280",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

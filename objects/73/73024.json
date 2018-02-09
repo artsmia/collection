@@ -1,7 +1,7 @@
 {
   "accession_number": "P.18,257",
-  "artist": "Artist: after Pierre-Joseph Redouté; Engraver: François Langlois (called Ciartres)",
-  "catalogue_raissonne": "Dunthorne 231\r\nNissen 1597\r\nHunt 10, 45\r\n",
+  "artist": "Artist: after Pierre-Joseph Redouté; Engraver: Langlois",
+  "catalogue_raissonne": "Nissen 1597; Great Flower Books (1990), p. 128; Dunthorne p. 231; Stafleu & Cowan TL2 8747; MacPhaeil, Redouteana, 10; Hunt 10, 45\r\n",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1809",
   "department": "Prints and Drawings",
-  "description": "Plate 262",
+  "description": "Plate 262 from Les Liliacées, Paris: Imprimerie de Didot jeune, 1802-16. Folio edition.",
   "dimension": "20 1/2 x 13 1/2 in. (52.07 x 34.29 cm) (plate)",
   "id": "http://api.artsmia.org/objects/73024",
   "image": "invalid",
@@ -20,9 +20,9 @@
   "inscription": "\r\n\r\n",
   "life_date": "Flemish (active France), 1759–1840",
   "markings": "\r\n",
-  "medium": "Stipple engraving, color-printed, finished by hand",
+  "medium": "Color stipple engraving, with additional hand-coloring",
   "nationality": "French",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From Les Liliacées, vol. 5, (Paris, 1802-1816)",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Iris Naine a fleurs bleues, from Les Liliacées, vol. 5"
+  "title": "Iris Naine a fleurs bleues (Iris pumila / Dwarf Bearded Iris)"
 }

@@ -15,8 +15,8 @@
   "id": "http://api.artsmia.org/objects/122346",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 1744,
-  "image_width": 2216,
+  "image_height": 4228,
+  "image_width": 5181,
   "inscription": "Label and Stamp",
   "life_date": null,
   "markings": "label ULC inside back cover: [203]; stamp on back cover with Japanese characters",
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "122346",
+    "122347"
   ],
   "signed": "",
   "style": "19th century",

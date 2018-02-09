@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.20",
   "artist": "Artist: Utagawa Kunisada; Publisher: Iseya Kanekichi; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0320-020",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,13 +13,13 @@
   "description": "portrait of an old man with white hair and beard, with end of beard tied with yellow cord; man has grimacing expression; yellow eyes; man wears garment with dark and light linear patterning and fabric with green ground and yellow and orange dragons; landscape behind figure with mountain in ULQ, trees and market stall with flowers and white and purple checkerboard roof in ULQ",
   "dimension": "14 × 9 3/4 in. (35.56 × 24.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/89943",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "in the red rectangle: {Kiichihōgen} | (Ōnakatomi\\'s poem)",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "一ふしに　千代をこめたる　杖なれば　つくともつきじ　君がよはひは {Hitofushi ni / chiyo o kometaru / tsue nareba / tsuku to mo tsukiji / kimi ga yowai wa}",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Isekane} | carver\\'s seal: {Yokogawa hori Take}",
+  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Isekane} | carver\\'s seal: 横川彫竹 {Yokogawa hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -34,6 +34,6 @@
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Ōnakatomi's Poem and Kiichihōgen"
+  "text": "Poem from Shūi wakashū.",
+  "title": "Poem by Ōnakatomi Yorimoto: (Actor Ichikawa Ebizō V as) Kiichi Hōgen"
 }

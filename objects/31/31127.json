@@ -1,8 +1,8 @@
 {
   "accession_number": "99.158.5",
-  "artist": "Architect: Charles Follen McKim; Architect: William Rutherford Mead; Architect: Stanford White",
+  "artist": "Architect: McKim, Mead, and White; Architect: Charles Follen McKim; Architect: William Rutherford Mead; Architect: Stanford White",
   "catalogue_raissonne": null,
-  "classification": " Prints",
+  "classification": " Prints; Photographs; Architecture",
   "continent": "North America",
   "country": "United States",
   "creditline": "Transfer from the Archives",
@@ -15,14 +15,14 @@
   "id": "http://api.artsmia.org/objects/31127",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 3677,
-  "image_width": 5587,
+  "image_height": 7864,
+  "image_width": 7561,
   "inscription": "",
   "life_date": "American, 1853-1906",
   "markings": "",
-  "medium": "Cyanotype positive process",
+  "medium": "Cyanotype positive process print on paper",
   "nationality": null,
-  "object_name": null,
+  "object_name": "Photographic print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Ground Floor Plan, Minneapolis Museum of Fine Arts (The Minneapolis Institute of Arts)"
+  "title": "Ground Floor Plan, Minneapolis Museum of Fine Arts (Minneapolis Institute of Arts)"
 }

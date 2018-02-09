@@ -2,7 +2,7 @@
   "accession_number": "31.117.1",
   "artist": "",
   "catalogue_raissonne": null,
-  "classification": " Sculpture",
+  "classification": " Sculpture; Funerary Goods",
   "continent": "Asia",
   "country": "China",
   "creditline": "The William Hood Dunwoody Fund",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Grey earthenware with traces of pigment",
   "nationality": null,
-  "object_name": "Tomb Guardian Figures",
+  "object_name": "Figure",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "G208",
   "see_also": [
-    ""
+    "15402",
+    "397"
   ],
   "signed": "",
   "style": "6th century",

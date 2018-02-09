@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "13th-12th century BCE",
   "department": "Chinese, South and Southeast Asian Art",
-  "description": "",
+  "description": "tall thin vessel with a flaring top; round base with four blade shape designs up the sides",
   "dimension": "7 5/16 × 4 1/2 in., 1.1 lb. (18.57 × 11.5 cm, 0.5 kg)\r\n2 11/16 in. (6.9 cm) (object part, foot)",
   "id": "http://api.artsmia.org/objects/11970",
   "image": "valid",
@@ -22,7 +22,7 @@
   "markings": "3 stickers underside of base",
   "medium": "Bronze",
   "nationality": null,
-  "object_name": "Vessel, one of a pair",
+  "object_name": "Vessel",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,10 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "11970",
+    "5145"
   ],
   "signed": "",
   "style": "13th-12th century BCE",
   "text": "",
-  "title": "<I>Gu<I> wine vessel"
+  "title": "<i>Gu</i> wine vessel"
 }

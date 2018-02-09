@@ -1,14 +1,14 @@
 {
   "accession_number": "P.70.89",
   "artist": "Artist: Utagawa Kunisada; Publisher: Sanoya Kihei",
-  "catalogue_raissonne": "S0220-020",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Mrs. Elaine C. Norden  in memory of her sister, Miss Esther M. Cleveland",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1844",
+  "dated": "c. 1844, 5th month",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "13 3/8 × 9 7/8 in. (34 × 25.1 cm) (image, sheet, vertical ōban)",
@@ -19,11 +19,11 @@
   "image_width": 1929,
   "inscription": "Motoyoshi\\'s poem and the background explanation of the poem: {Wabi nu reba / Ima hata onaji / Naniwa naru / Mi wo tsukushi te mo / Awan to zo omou} (Now, in dire distress / It is all the same to me / So then, let us meet / even though it costs my life / In Naniwa bay)",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "red artist\\'s toshidama seal | censor seal: {Tanaka} | publisher\\'s seal: {Sanoki}",
+  "markings": "red artist\\'s toshidama seal | censor seal: 田中 {Tanaka} | publisher\\'s seal: {Sanoki}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "portfolio": "From Selection of One Hundred oems by One Hundred Poets",
+  "portfolio": "From Pictorial Selection of One Hundred Poets, One Poem Each (Hyakunin isshu e-shō 百人一首繪抄)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "{Kunisada aratame nidai Toyokuni ga}",
+  "signed": "國貞改二代豊國画 {Kunisada aratame nidai Toyokuni ga}",
   "style": "19th century",
   "text": "",
-  "title": "No. 20 Prince Motoyoshi"
+  "title": "20, Poem by Motoyoshi Shinnō"
 }

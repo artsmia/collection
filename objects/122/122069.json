@@ -13,10 +13,10 @@
   "description": "sutra written in gold on dark blue paper; cover decorated with floral motif, painted in gold on oxidized silver; frontispiece with painting of preaching Buddha, with Bodhisattvas looking on, mountains in background",
   "dimension": "10 3/16 × 341 1/2 in. (25.88 × 867.41 cm) (without roller)\r\n10 3/16 × 8 3/4 in. (25.88 × 22.23 cm) (image, frontispiece alone)",
   "id": "http://api.artsmia.org/objects/122069",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2557,
+  "image_width": 3056,
   "inscription": "Seals",
   "life_date": null,
   "markings": "many faded seals on back",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G220",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

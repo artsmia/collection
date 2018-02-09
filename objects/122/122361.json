@@ -1,7 +1,7 @@
 {
   "accession_number": "2015.79.245.2",
   "artist": "Artist: Gaoquan Xingdun",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Murase, Art through a Lifetime, no. 529",
   "classification": " Calligraphy",
   "continent": "Asia",
   "country": "Japan",
@@ -13,16 +13,16 @@
   "description": "five-character poem; bold, angular characters; smaller inscriptions at L and R edges",
   "dimension": "52 1/4 × 12 1/2 in. (132.72 × 31.75 cm) (image)\r\n87 1/2 × 16 3/4 in. (222.25 × 42.55 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/122361",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7010,
+  "image_width": 1712,
   "inscription": "Signature, Inscription, and Seals\r\n\r\ncenter: [Eternal blessing on the sagacious ruler] (Ei shuku seimei kun / Nagaku seimei no kii o shukusu)\r\n",
   "life_date": "Chinese, 1633 - 1696",
   "markings": "Seals URC and LL: [Rinzai Seishu]; [Bukkoku Shujin]; [Seidon]",
   "medium": "Ink on paper",
   "nationality": "Chinese",
-  "object_name": "Hanging scroll, one of a triptych (center)",
+  "object_name": "Hanging scroll, one of a triptych",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "Signature: [Written in 1690 by Bukkoku Kosen]",
   "style": "17th century",
   "text": "",
-  "title": "Single-Line Calligraphy (from a triptych of single-line calligraphies)"
+  "title": "Single-Line Calligraphy [center of a triptych of single-line calligraphies]"
 }

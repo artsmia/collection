@@ -2,7 +2,7 @@
   "accession_number": "2000.100.1.1",
   "artist": "",
   "catalogue_raissonne": null,
-  "classification": " Judaica",
+  "classification": " Judaica; Metalwork; Ceremonial Objects",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Frances M. Norbeck Fund",
@@ -22,7 +22,7 @@
   "markings": "\\'[illigible][zigzag][illegible stamp][zigzag] N [inside a circle]\\', stamped below crown; \\'N[inside a circle][zigzag][illegible stamp][zigzag][illegible stamp]\\', stamped, at bottom",
   "medium": "Silver, other metals",
   "nationality": null,
-  "object_name": "Rimmonim (Torah finial) (one of a pair)",
+  "object_name": "Torah finial (Rimon)",
   "portfolio": "From ",
   "provenance": "(William Gross, Tel Aviv, Israel); Purchased by the MIA in 2000.",
   "restricted": 0,
@@ -30,10 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "12899",
+    "12900"
   ],
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Rimmonim, one of a pair"
+  "title": "Rimmonim (Torah finial) (one of a pair)"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,335",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 11 ii/iii, F.34",
+  "catalogue_raissonne": "Hind prisons 11 ii/iii, F.34, Robison 37 vi/vii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 11",
+  "description": "Plate 11 from Carceri d'Invenzione",
   "dimension": "16 x 21 5/8 in. (40.64 x 54.93 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52609",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "In plate",
   "style": "18th century",
-  "text": "",
-  "title": "A Series of Galleries, with Round Arches and a Crane-like Erection of Beams in the Right Foreground"
+  "text": "Amid the darkness of this image, Piranesi left the sides of the stairs bright. The flight of rectangles both floats before the image and punctures it to produce playful spatial ambiguity.",
+  "title": "The Arch with the Shell Ornament"
 }

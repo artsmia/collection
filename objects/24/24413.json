@@ -2,7 +2,7 @@
   "accession_number": "84.37.6a",
   "artist": "Artist: Alfred Stieglitz",
   "catalogue_raissonne": null,
-  "classification": " Photographs",
+  "classification": " Photographs; Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Myron Kunin",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Photogravure",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Photograph",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,6 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
+    "10950",
+    "1718",
     "24413",
     "3283"
   ],

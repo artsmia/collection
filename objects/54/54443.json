@@ -13,10 +13,10 @@
   "description": "",
   "dimension": "11 1/16 x 14 9/16 in. (28.1 x 36.99 cm) (image)",
   "id": "http://api.artsmia.org/objects/54443",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6874,
+  "image_width": 8760,
   "inscription": "Engraved inscriptions: LL: J. Gericult del.; LC: THE ENGLISH FARRIER. / London. published by Rodwell & Martin, New Bond St. May 1821; LL: C. Hullmandel Lithography",
   "life_date": "French, 1791 - 1824",
   "markings": "",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "19th century",
-  "text": "",
+  "text": "Théodore Géricault made countless drawings, paintings, watercolors, and prints of horses. This image of a farrier at work shoeing horses belongs to a series of lithographs of everyday life. They illustrate the intimate relationship between man and beast—in which human dominance is not a given.\r\n",
   "title": "The English Farrier"
 }

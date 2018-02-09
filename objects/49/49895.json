@@ -8,7 +8,7 @@
   "creditline": "Bequest of Herschel V. Jones",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1496-1498",
+  "dated": "1498",
   "department": "Prints and Drawings",
   "description": "Plate 15",
   "dimension": "15 5/16 x 11 1/16 in. (38.89 x 28.1 cm) (image)",
@@ -22,7 +22,7 @@
   "markings": "Watermark: The Imperial Orb",
   "medium": "Woodcut",
   "nationality": "German",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From The Apocalypse",
   "provenance": "Frederich Keppel, 1918",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "49895",
+    "49902"
   ],
   "signed": "",
   "style": "15th century",

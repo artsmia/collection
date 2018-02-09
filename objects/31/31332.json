@@ -1,6 +1,6 @@
 {
   "accession_number": "99.183a,b",
-  "artist": "Artist: Utagawa Kuniyoshi",
+  "artist": "Artist: Utagawa Kuniyoshi; Publisher: Horimasa",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -8,9 +8,9 @@
   "creditline": "Gift of Rosalie Heffelfinger Hall",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1847-1852",
+  "dated": "1846-1848",
   "department": "Japanese and Korean Art",
-  "description": "vertical ōban diptych",
+  "description": "",
   "dimension": "14 1/2 × 20 1/8 in. (36.9 × 51.1 cm) (image, sheet, vertical ōban diptych)",
   "id": "http://api.artsmia.org/objects/31332",
   "image": "valid",
@@ -19,7 +19,7 @@
   "image_width": 2607,
   "inscription": "",
   "life_date": "Japanese, 1798 - 1861",
-  "markings": "artist\\'s seal\r\nCensor:Yshimura, Muramatsu\r\nCarver:Horimasa(unknown)",
+  "markings": "artist\\'s seal\r\nCensor:Yoshimura, Muramatsu\r\nCarver:Horimasa(unknown)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G226",
   "see_also": [
     ""
   ],
   "signed": "Ichiyu_sai Kuniyoshi",
   "style": "19th century",
   "text": "",
-  "title": "Iwafuji attacking the kneeling Onoe"
+  "title": "Unidentified actors as the kneeling Onoe attacked by Iwafuji"
 }

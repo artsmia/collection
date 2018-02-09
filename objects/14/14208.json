@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "19th century",
   "department": "Chinese, South and Southeast Asian Art",
-  "description": "Banner one of two; red satin ground embroidered with three rows of figures, terminating at top in green satin scroll, set with mirror discs, and at bottom with scroll and four purple streamers reversible.",
+  "description": "Banner, one of two; red satin ground embroidered with three rows of figures, terminating at top in green satin scroll, set with mirror discs, and at bottom with scroll and four purple streamers reversible.",
   "dimension": "10 1/2 x 14 3/4in. (26.7 x 37.5cm)",
   "id": "http://api.artsmia.org/objects/14208",
   "image": "valid",
@@ -28,9 +28,10 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G210",
   "see_also": [
-    ""
+    "14202",
+    "14208"
   ],
   "signed": "",
   "style": "19th century",

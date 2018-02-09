@@ -18,11 +18,11 @@
   "image_height": 1822,
   "image_width": 2560,
   "inscription": "",
-  "life_date": "French, Maitre 1769-1803",
+  "life_date": "French, Maitre 1769–1803",
   "markings": "",
   "medium": "Gilding, wood, silk upholstery",
   "nationality": null,
-  "object_name": "Fauteuil, one of a set of four",
+  "object_name": "Fauteuil",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +30,10 @@
   "role": "Artist",
   "room": "G318",
   "see_also": [
-    ""
+    "10200",
+    "24027",
+    "24029",
+    "8409"
   ],
   "signed": "",
   "style": "18th century",

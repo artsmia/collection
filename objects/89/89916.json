@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.16",
   "artist": "Artist: Utagawa Kunisada; Publisher: Iseya Kanekichi; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0320-007",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,13 +13,13 @@
   "description": "portrait of man with blueish skin, seen from PL with head turned toward picture plane; wrists crossed; man wears grey kimono and is bent forward; rainy landscape at top with white blossoming trees; pink square cartouche and red rectangular cartouche, both with text, in URC",
   "dimension": "14 × 9 3/4 in. (35.56 × 24.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/89916",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "in red rectangle: {Seigen} (character\\'s name) | Narihira\\'s poem: {Yononaka ni / Taete sakura no / Nakari se ba / Haru no kokoro wa / Nodoke kara ma shi} (If there is no cherry blossoms / In the world / We would have spent springtime / With much more pieceful state of mind)\r\n",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "{Yo no naka ni / taete sakura no / nakariseba / haru no kokoro wa / nodokekaramashi} (If there is no cherry blossoms / in the world / we would have spent springtime / with much more pieceful state of mind)\r\n",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Isekane} | carver\\'s seal: {Yokogawa hori Take}",
+  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Isekane} | carver\\'s seal: 横川彫竹 {Yokogawa hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -35,5 +35,5 @@
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "",
-  "title": "Narihira's Poem and the Ghost of Monk Seigen"
+  "title": "Poem by Ariwara no Narihira Ason: (Actor Ichikawa Danjūrō VIII as) Seigen"
 }

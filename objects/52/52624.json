@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,328",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 04 ii/iii, F.27",
+  "catalogue_raissonne": "Hind prisons 04 ii/iii, F.27, Robison 31 v/vi",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "18th century",
   "department": "Prints and Drawings",
-  "description": "Plate 4",
+  "description": "Plate 4 from Carceri d'Invenzione",
   "dimension": "21 9/16 x 16 1/4 in. (54.77 x 41.28 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52624",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "In plate: [Piranesi]",
   "style": "18th century",
-  "text": "",
-  "title": "A Lofty Arch, With Vista onto an Arcade Surmounted by a Frieze"
+  "text": "Traces of Piranesi’s abandoned first draft—faint, intermittent straight lines that crisscross the background— reveal his improvisational working method. Using printing plates as sketch pads, torturing them with corrosive acids, and radically reworking them, Piranesi fully exploited the liberties afforded by etching. He ranks among the select company of artists—Rembrandt is another—who have done the same.",
+  "title": "The Grand Piazza"
 }

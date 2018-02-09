@@ -13,10 +13,10 @@
   "description": "one large fingerprint with loop patterning in lower left corner",
   "dimension": "20 × 14 in. (50.8 × 35.56 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/124895",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Mike Bidlo",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7278,
+  "image_width": 5168,
   "inscription": "",
   "life_date": "American, born 1953",
   "markings": "LLC in pencil: 30/60",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G180",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

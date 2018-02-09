@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.9",
   "artist": "Artist: Utagawa Kunisada; Publisher: Sumiyoshiya Masagorō; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0273-014",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,13 +13,13 @@
   "description": "portrait of a frowning man wearing a blue headscarf and kimono with blue ground and diamonds with birds, with brown foliage design over top; river landscape in background with thatch-roofed buildings in URQ and mountain in ULQ; square cartouche with red background with text, with vessel with ladle and tree leaves around edges of cartouche",
   "dimension": "14 × 9 3/4 in. (35.5 × 24.77 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/89854",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature and Seal",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "date seal: 子十一 {ne jūichi} (Rat 11) | censor seals:  渡邊 {Watanabe} | 米良 {Mera} | publisher\\'s seal: {Sumimasa} | carver\\'s seal: {hori Take}",
+  "markings": "date seal: 子十一 {ne jūichi} (Rat 11) | censor seals:  渡邊 {Watanabe} | 米良 {Mera} | publisher\\'s seal: {Sumimasa} | carver\\'s seal: 彫竹 {hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -34,6 +34,6 @@
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Kaji River at Takasaki and Tabakoyo Genshichi"
+  "text": "No. 14 in the series.",
+  "title": "The Karasu River at Takasaki Station: (Actor Mimasu Daigorō IV as) Tabakoya Genshichi"
 }

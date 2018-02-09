@@ -14,7 +14,7 @@
   "dimension": "22 15/16 x 18 1/16 in. (58.26 x 45.88 cm) (image)\r\n36 5/8 x 30 11/16 in. (93.03 x 77.95 cm) (mount)",
   "id": "http://api.artsmia.org/objects/3451",
   "image": "valid",
-  "image_copyright": "©Berenice Abbott %2F Commerce Graphics Ltd.",
+  "image_copyright": "© Berenice Abbott %2F Commerce Graphics Ltd. Inc.",
   "image_height": 4052,
   "image_width": 3171,
   "inscription": "",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Gelatin silver print (printed 1982)",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Photograph",
   "portfolio": "From From \"Retrospective\" portfolio",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "3451",
+    "99463"
   ],
   "signed": "",
   "style": "20th century",

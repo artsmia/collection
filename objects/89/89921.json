@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.18",
   "artist": "Artist: Utagawa Kunisada; Publisher: Iseya Kanekichi; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0320-014",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "written in the yellow rectangle: {Urazato}; Asatada\\'s poem: {Au koto no / Taete shi naku wa / Nakanaka ni / Hito wo mo mi wo mo / Urami zara ma shi} (If I know / I could never see you again / It would be even better / Beacuse I no longer wait for the next meeting / I don\\'t have to suffer from the frustration.)",
+  "inscription": "{Au koto no / Taete shi naku wa / Nakanaka ni / Hito wo mo mi wo mo / Urami zara ma shi} (If I know / I could never see you again / It would be even better / Beacuse I no longer wait for the next meeting / I don\\'t have to suffer from the frustration.)",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "censor seals: {Hama} | {Magome} | (Rat 9) | publisher\\'s seal: {Isekane} | carver\\'s seal: {hori Take}",
+  "markings": "censor seals: {Hama} | {Magome} | (Rat 9) | publisher\\'s seal: {Isekane} | carver\\'s seal: 彫竹 {hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -35,5 +35,5 @@
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "",
-  "title": "Chūnagon Asatada's Poem and The Prostitute Urazato"
+  "title": "Poem by Chūnagon Asatada: (Actor Bandō Shūka I as) Urazato"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.427",
   "artist": "Artist: Utagawa Kunisada; Artist: Utagawa Hiroshige; Artist: Utagawa Kuniyoshi; Publisher: Iseya Kanekichi",
-  "catalogue_raissonne": "S0745-002",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1858, 9th month",
   "department": "Japanese and Korean Art",
-  "description": "harimaze(3 pieces)",
+  "description": "",
   "dimension": "13 1/4 × 9 1/8 in. (33.7 × 23.2 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/61744",
   "image": "valid",
@@ -33,7 +33,7 @@
     "22452",
     "61744"
   ],
-  "signed": "",
+  "signed": "香蝶楼筆; 一勇斎國芳; 廣重",
   "style": "19th century",
   "text": "",
   "title": "Mt. Fuji Seen Over the Lake in Hakone & 2 Other Images"

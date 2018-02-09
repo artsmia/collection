@@ -1,7 +1,7 @@
 {
   "accession_number": "2015.79.292",
   "artist": "",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Murase, Art through a Lifetime, no. 607",
   "classification": " Ceramics",
   "continent": "Asia",
   "country": "Japan",
@@ -13,10 +13,10 @@
   "description": "Iga storage jar; with narrow base, wide shoulder, short neck and rolled lip; mostly dark brown in color with some light orange tinting; thick, dark over glaze with drip trails and pooling on upper body; two shallow incised lines around shoulder",
   "dimension": "14 11/16 × 11 3/8 × 11 3/8 in. (37.31 × 28.89 × 28.89 cm)",
   "id": "http://api.artsmia.org/objects/122406",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3240,
+  "image_width": 2721,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "16th-17th century",
   "text": "",
-  "title": "Iga Storage Jar"
+  "title": "Storage Jar"
 }

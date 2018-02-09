@@ -13,14 +13,14 @@
   "description": "different images of Kannon, images of Buddha figures within large halos, with attendants, on lotus pedestals; text, some in Sanskrit",
   "dimension": "9 7/8 × 459 7/16 in. (25.08 × 1166.97 cm) (image)\r\n9 7/8 × 473 1/4 in. (25.08 × 1202.06 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/123992",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2265,
+  "image_width": 6945,
   "inscription": "at end: [Completed checking against the Tsuchiin version, in the fifth month of 1230, at Jizoin of Saienji. However. . .]",
   "life_date": "Japanese, act. 13th century",
   "markings": "",
-  "medium": "Ink on paper",
+  "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "object_name": null,
   "portfolio": "From ",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G220",
   "see_also": [
     ""
   ],
   "signed": "at end: [Shinken]",
   "style": "13th-14th century",
-  "text": "",
-  "title": "Iconographic Drawings"
+  "text": "An array of Buddhist deities was introduced to Japan from China and Korea in the 700s. The complexity of their identities, attributes, and symbols required the compilation of drawings that systematically illustrated their appropriate postures, implements, and hand gestures. Painters, sculptors, and other artists used the drawings as guides when they created new icons. This handscroll, made by a Buddhist priest in the 1200s, shows many variations of the compassionate deity Kannon. The bronze statue of Kannon displayed here is identical to one of the sketches on the handscroll—evidence that the artist referred to a drawing similar to this one.",
+  "title": "Iconographic drawings of the forms of Kannon, the Bodhisattva of Compassion, 5th month of 1230"
 }

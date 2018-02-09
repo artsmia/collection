@@ -1,6 +1,6 @@
 {
   "accession_number": "P.80.100",
-  "artist": "Artist: Birgit Skiöld; Author: James Kirkup; Publisher: Circle Press",
+  "artist": "Artist: Birgit Skiöld; Author: James Kirkup; Publisher: Circle Press, London",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": null,
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1979",
   "department": "Prints and Drawings",
-  "description": "B.80.18-book",
+  "description": "",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/48082",
   "image": "invalid",
@@ -18,12 +18,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "Swedish, 1923-1982",
+  "life_date": "Swedish (active England), 1923 - 1982",
   "markings": "",
   "medium": "Color lithograph",
-  "nationality": null,
-  "object_name": null,
-  "portfolio": "From ",
+  "nationality": "Swedish (active England)",
+  "object_name": "Print",
+  "portfolio": "From The Tao of Water",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Water is Water from The Tao of Water"
+  "title": "Water is Water"
 }

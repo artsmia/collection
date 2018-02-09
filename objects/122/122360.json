@@ -1,7 +1,7 @@
 {
   "accession_number": "2015.79.245.1",
   "artist": "Artist: Gaoquan Xingdun",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Murase, Art through a Lifetime, no. 529",
   "classification": " Calligraphy",
   "continent": "Asia",
   "country": "Japan",
@@ -15,14 +15,14 @@
   "id": "http://api.artsmia.org/objects/122360",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 3052,
-  "image_width": 1000,
+  "image_height": 7004,
+  "image_width": 1689,
   "inscription": "Signature, Inscription, and Seals\r\n\r\ncenter: [Beneficent graces permeate the world] (Tokutaku o shoho ni shiku)\r\n\r\n",
   "life_date": "Chinese, 1633 - 1696",
   "markings": "Seals URC and LL: [Rinzai Seishu]; [Bukkoku Shujin]; [Seidon]",
   "medium": "Ink on paper",
   "nationality": "Chinese",
-  "object_name": "Hanging scroll, one of a triptych (left)",
+  "object_name": "Hanging scroll, one of a triptych",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "at L: [Donge Dojin]",
   "style": "17th century",
   "text": "",
-  "title": "Single-Line Calligraphy (from a triptych of single-line calligraphies)"
+  "title": "Single-Line Calligraphy [left of a triptych of single-line calligraphies]"
 }

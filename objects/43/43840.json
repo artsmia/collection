@@ -1,7 +1,7 @@
 {
   "accession_number": "P.98.18.3",
   "artist": "Artist: Red Grooms; Publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 114\r\nKnestrick 121",
+  "catalogue_raissonne": "VEL 114; Knestrick 121",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -17,12 +17,12 @@
   "image_copyright": "©Red Grooms %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4806,
   "image_width": 3480,
-  "inscription": "Signed, numbered, printed inscription, and chop mark.",
+  "inscription": ".UR, printed inscription:\r\nVERMILLION ED. 15th BIRTHDAY SHOW",
   "life_date": "American, born 1937",
-  "markings": "LL: VEL chop mark",
+  "markings": "LL: VEL chop mark; LL, in blue pencil: 1/1 Archive Proof",
   "medium": "Color lithograph",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LR, in blue pencil: [Red Grooms]\r\nLL, in blue pencil: [1/1 Archive Proof]\r\nUR, printed inscription:\r\n[VERMILLION ED. 15th BIRTHDAY SHOW]",
+  "signed": "LR, in blue pencil: [Red Grooms]\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Sno Show I"

@@ -1,6 +1,6 @@
 {
   "accession_number": "96.146.26.3",
-  "artist": "",
+  "artist": "Artist: Attributed to Kano Naonobu",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "19th century",
   "department": "Japanese and Korean Art",
-  "description": "triptych; left hanging scroll; Hill # R-19",
+  "description": "triptych; right hanging scroll; Hill # R-19",
   "dimension": "42 3/4 x 12 in. (108.59 x 30.48 cm) (image)\r\n72 3/4 x 16 1/2 in. (184.79 x 41.91 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/37656",
   "image": "valid",
@@ -18,11 +18,11 @@
   "image_height": 3852,
   "image_width": 1128,
   "inscription": "",
-  "life_date": null,
+  "life_date": "Japanese, 1607 - 1650",
   "markings": "LLC",
   "medium": "Ink on paper",
-  "nationality": null,
-  "object_name": "hanging scroll",
+  "nationality": "Japanese",
+  "object_name": "Hanging scroll, one of a triptych",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Lotus flower, one of three"
+  "title": "Wagtail on a Lotus [right of a triptych of Zheng Huangniu, Kingfisher, and Wagtail]"
 }

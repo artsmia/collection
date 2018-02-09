@@ -2,7 +2,7 @@
   "accession_number": "2001.177.1.1",
   "artist": "",
   "catalogue_raissonne": null,
-  "classification": " Judaica",
+  "classification": " Judaica; Metalwork",
   "continent": "Europe",
   "country": "Austria",
   "creditline": "Gift of Harold and Mickey Smith",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Silver",
   "nationality": null,
-  "object_name": "Tefillin (prayer container) box (one of a pair)",
+  "object_name": "Prayer container (Tefillin) box",
   "portfolio": "From ",
   "provenance": "(Moriah Galleries, New York); Collection of Harold & Mickey Smith, St. Paul, Minnesota purchased 1976; Gift to the MIA in 2001.",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "G362",
   "see_also": [
-    ""
+    "39820",
+    "39821"
   ],
   "signed": "",
   "style": "19th century",

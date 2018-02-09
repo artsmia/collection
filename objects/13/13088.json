@@ -2,7 +2,7 @@
   "accession_number": "2000.234.1",
   "artist": "Artist: George Jack; Manufacturer: Longden and Co.",
   "catalogue_raissonne": null,
-  "classification": " Metalwork",
+  "classification": " Metalwork; Tools, Equipment and Utilitarian Objects",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Ulrich Acquisition Fund for Modern Design",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Steel",
   "nationality": "American",
-  "object_name": "Firedog, one of a pair",
+  "object_name": "Firedog",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "G334",
   "see_also": [
-    ""
+    "13088",
+    "13089"
   ],
   "signed": "",
   "style": "19th century",

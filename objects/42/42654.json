@@ -1,6 +1,6 @@
 {
   "accession_number": "P.90.27.129",
-  "artist": "Publisher: Abraham Munting",
+  "artist": "Artist: after Abraham Munting; Artist: Unknown engraver; Publisher: Pieter van der Aa &amp; Francois Halma, Leyden &amp; Utrecht, Netherlands",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -8,9 +8,9 @@
   "creditline": "Gift of Harlan D. Boss",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1713",
+  "dated": "1696",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Species of Indigo plant. Plate 58, folio 229 from Naauwkeurige Beschryving Der Aardgewassen (Accurate Description of Terrestrial Plants)",
   "dimension": "12 5/8 x 8 1/8 in. (32.07 x 20.64 cm) (plate)",
   "id": "http://api.artsmia.org/objects/42654",
   "image": "invalid",
@@ -19,11 +19,11 @@
   "image_width": "",
   "inscription": "",
   "life_date": "Dutch, 1626 - 1683",
-  "markings": "",
-  "medium": "Hand-colored engraving and etching",
+  "markings": "Dealer label affixed verso.",
+  "medium": "Hand-colored engraving",
   "nationality": "Dutch",
-  "object_name": null,
-  "portfolio": "From from Phytographia Curiosa",
+  "object_name": "Print",
+  "portfolio": "From Naauwkeurige Beschryving Der Aardgewassen (Accurate Description of Terrestrial Plants), Leyden & Utrecht, Netherlands, 1696",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Indigofera spp., plate 229 from Phytographia Curiosa"
+  "title": "Indigofera rotundifolia, Indigofera longifolia, Indigofera coluteoides"
 }

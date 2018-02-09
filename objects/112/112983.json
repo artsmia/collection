@@ -2,7 +2,7 @@
   "accession_number": "2012.63.8",
   "artist": "Artist: Richard Holzschuh",
   "catalogue_raissonne": null,
-  "classification": " Tools, Equipment and Utilitarian Objects",
+  "classification": " Tools, Equipment and Utilitarian Objects; Printing Matrices",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Robert G. Hogan",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Zinc, wood, other metals",
   "nationality": "American",
-  "object_name": "Printing plate for image of couple on night street surrounded by ghouls",
+  "object_name": "Printing plate",
   "portfolio": "From ",
   "provenance": "The artist; his stepson, Bob Hogan, Albuquerque, NM",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "112983",
+    "113054"
   ],
   "signed": "at left edge, near LLC, in reverse, in relief: [R / H]",
   "style": "20th century",

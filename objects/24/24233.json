@@ -13,10 +13,10 @@
   "description": "tea bowl, earthenware, grey glaze; and separate wood stand",
   "dimension": "3 1/2 x 5 1/2 x 5 1/2 in. (8.9 x 13.97 x 13.97 cm)",
   "id": "http://api.artsmia.org/objects/24233",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3443,
+  "image_width": 4645,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Tea bowl (chawan) and stand"
+  "title": "Tea bowl"
 }

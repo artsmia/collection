@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1830",
   "department": "Prints and Drawings",
-  "description": "See: P.17,086, b. & w. edition.",
+  "description": "",
   "dimension": "13 1/8 x 9 1/4 in. (33.34 x 23.5 cm) (image)",
   "id": "http://api.artsmia.org/objects/75362",
   "image": "valid",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Hand-colored lithograph",
   "nationality": "French",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From Les Dix-huit Heures d'une Parisienne, (hand-colored edition), (Paris, c. 1830)",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "75340",
+    "75362"
   ],
   "signed": "",
   "style": "19th century",

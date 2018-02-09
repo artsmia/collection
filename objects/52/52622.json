@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,338",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 14 ii/iii, F.37",
+  "catalogue_raissonne": "Hind prisons 14 ii/iii, F.37, Robison 40 v/vi",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 14",
+  "description": "Plate 14 from Carceri d'Invenzione",
   "dimension": "16 7/16 x 21 11/16 in. (41.75 x 55.09 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52622",
   "image": "valid",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From Carceri d'Invenzione",
   "provenance": "",
   "restricted": 0,
@@ -30,10 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "52622",
+    "55213"
   ],
   "signed": "",
   "style": "18th century",
-  "text": "",
-  "title": "A Perspective of Colonnades with Zig-Zag Staircase, and Two Figures on Arch Overlooking the Central Flight"
+  "text": "In his training as a young architect, Piranesi learned techniques of Baroque stage design, which he used to impart grandeur to his drawings. He was especially fond of oblique projections—slanting forms that create a strong sensation of space—and their manipulation through subtle shifts of perspective. He often included tiny human figures to provide a sense of scale.",
+  "title": "The Gothic Arch"
 }

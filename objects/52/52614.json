@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,331",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 07 ii/iii, F.30",
+  "catalogue_raissonne": "Hind prisons 07 ii/iii, F.30, Robison 33 v/vi",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 7",
+  "description": "Plate 7 from Carceri d'Invenzione",
   "dimension": "21 1/2 x 16 in. (54.61 x 40.64 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52614",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "LLC, Front",
   "style": "18th century",
-  "text": "",
-  "title": "An Immense Interior, with Numerous Wooden Galleries, and a Drawbridge in the Centre"
+  "text": "The Prisons resonate with familiar modern experiences such as Minnesota road construction and the children’s board game Chutes and Ladders. If they recall The Phantom of the Opera, it is due to the sublime wonder that overwhelmed Piranesi as he explored the enormous sewers of ancient Rome and to the wonder that later stage designers experienced when exploring and mining Piranesi’s works. They found inspiration in the emotional content of his architecture, its three-dimensional effect, and its complex lighting arrangements.",
+  "title": "The Drawbridge"
 }

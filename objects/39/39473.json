@@ -1,6 +1,6 @@
 {
   "accession_number": "P.97.34.2",
-  "artist": "Artist: Frank William Brangwyn; Artist: Urushibara Mokuchū",
+  "artist": "Artist: Frank William Brangwyn; Artist: Urushibara Mokuchū; Publisher: Artur Wolf Verlag",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -8,9 +8,9 @@
   "creditline": "Gift of John and Colles Larkin",
   "culture": null,
   "curator_approved": 0,
-  "dated": "20th century",
+  "dated": "1920",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Robed human figures pass beneath a group of trees. A large Mosque can be seen behind them in the background.",
   "dimension": "7 x 8 1/2 in. (17.78 x 21.59 cm) (image)",
   "id": "http://api.artsmia.org/objects/39473",
   "image": "invalid",
@@ -23,7 +23,7 @@
   "medium": "Color woodcut",
   "nationality": "British",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": "From Frank Brangwyn, Zwanzig graphische Arbeiten( Vienna, Artur Wolf Verlag, [1921]), plate 3.",
   "provenance": "Converse Memorial Library, Amherst College, Amherst, Mass.; John and Colles Larkin, St. Paul, Minn.; given to MIA, 1997.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Print"
+  "title": "Garden of the Mosque of Soliman, Constantinople"
 }

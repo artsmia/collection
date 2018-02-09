@@ -7,7 +7,7 @@
   "country": "Germany",
   "creditline": "Gift of Peter R. Spokes in memory of C.C. and Beecher Hogan",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "late 15th century",
   "department": "Prints and Drawings",
   "description": "standing young woman with long curly hair, wiping her PR eye with her hand; woman holds a cone-shaped lamp in her PL hand; wreath of flowers at woman's feet in LLC",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Engraving",
   "nationality": "German",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "The Albertina, Vienna (Lugt 5g), sold after 1922. Peter Spokes, Minneapolis.",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "116072",
+    "48001"
   ],
   "signed": "bottom edge, center, in the print: [M + S]",
   "style": "15th century",

@@ -13,10 +13,10 @@
   "description": "abstract image; black and white; painterly grey ground; straight black and white lines forming triangles and rectangles; black X near bottom slightly left of center",
   "dimension": "19 5/8 × 29 3/4 in. (49.85 × 75.57 cm) (plate)\r\n26 5/16 × 39 15/16 in. (66.83 × 101.44 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/125431",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Richard Diebenkorn Foundation",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6191,
+  "image_width": 9297,
   "inscription": "",
   "life_date": "American, 1922-1993",
   "markings": "LLC in pencil: 2/35 | LRC, publisher\\'s blindstamp: Crown Point Press / Marcia Bartholme (symbol with three circles)",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G180",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

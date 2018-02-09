@@ -7,7 +7,7 @@
   "country": "Germany",
   "creditline": "Gift of funds from Nivin MacMillan",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1496-1497",
   "department": "Prints and Drawings",
   "description": "bearded man on horseback, with a long straight sword at his waist; horse wears bunch of feathers at the top of its harness between its ears; man carrying halberd running behind; running man has cluster of feathers on his headdress; trees in landscape with castle at center background; small dog in center foreground",
@@ -28,9 +28,10 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
-    ""
+    "125659",
+    "7659"
   ],
   "signed": "bottom center, in the print: AD",
   "style": "15th century",

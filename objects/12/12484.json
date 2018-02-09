@@ -8,15 +8,15 @@
   "creditline": "Gift of Charles L. Freer",
   "culture": null,
   "curator_approved": 0,
-  "dated": "18th century",
+  "dated": "18th - 19th century",
   "department": "Japanese and Korean Art",
   "description": "Tea Bowl rough indentations in sides; dark brown and greenish glaze",
   "dimension": "3 x 4 1/8 in. (7.6 x 10.48 cm)",
   "id": "http://api.artsmia.org/objects/12484",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3538,
+  "image_width": 4535,
   "inscription": "",
   "life_date": null,
   "markings": "Bottom, incised: 志戸呂 {Shitoro}",
@@ -33,7 +33,7 @@
     ""
   ],
   "signed": "",
-  "style": "18th century",
+  "style": "18th - 19th century",
   "text": "",
   "title": "Tea bowl with indentations"
 }

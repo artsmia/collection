@@ -11,7 +11,7 @@
   "dated": "November 1929",
   "department": "Japanese and Korean Art",
   "description": "so-called brown version; head and torso of woman wearing black and white patterned kimono and obi with red, pink, green and white floral design; same image as L2001.372.155 with different colors",
-  "dimension": "16 3/16 × 10 5/16 in. (41.12 × 26.19 cm) (image)",
+  "dimension": "16 3/16 × 10 5/16 in. (41.12 × 26.19 cm) (image)\r\n23 × 19 × 1 1/2 in. (58.42 × 48.26 × 3.81 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/62505",
   "image": "valid",
   "image_copyright": "© Torii Kotondo",
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "62434",
+    "62505"
   ],
   "signed": "言人画 {Kotondo ga} (picture by Kotondo)",
   "style": "20th century",

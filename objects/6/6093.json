@@ -13,10 +13,10 @@
   "description": "",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/6093",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5912,
+  "image_width": 4484,
   "inscription": "",
   "life_date": "Spanish (active France), 1881–1973",
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "The Frog, from Histoire Naturelle (Natural History)"
+  "title": "The Donkey, from Histoire Naturelle (Natural History)"
 }

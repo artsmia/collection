@@ -8,7 +8,7 @@
   "creditline": "Bequest of Herschel V. Jones",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1496-1498",
+  "dated": "1498",
   "department": "Prints and Drawings",
   "description": "Plate 13",
   "dimension": "15 1/8 x 11 1/16 in. (38.42 x 28.1 cm) (image)",
@@ -22,18 +22,19 @@
   "markings": "",
   "medium": "Woodcut",
   "nationality": "German",
-  "object_name": null,
-  "portfolio": "From The Apocalypse",
+  "object_name": "Print",
+  "portfolio": "From The Apocalypse, plate 12",
   "provenance": "Vincent Mayer (L. 2525); Knoedler & Co., 1925",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "49903",
+    "49918"
   ],
   "signed": "",
   "style": "15th century",
   "text": "",
-  "title": "Beast with Horns Like a Lamb"
+  "title": "Beast with Two Horns Like a Lamb"
 }

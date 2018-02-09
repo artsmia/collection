@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,339",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 15 ii/iii, F.38",
+  "catalogue_raissonne": "Hind prisons 15 ii/iii, F.38, Robison 41 vi/vii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 15",
+  "description": "Plate 15 from Carceri d'Invenzione",
   "dimension": "16 1/4 x 21 5/8 in. (41.28 x 54.93 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52628",
   "image": "valid",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Etching",
   "nationality": "Italian (Rome)",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From Carceri d'Invenzione",
   "provenance": "",
   "restricted": 0,
@@ -30,10 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "45287",
+    "52628"
   ],
   "signed": "In plate",
   "style": "18th century",
-  "text": "",
-  "title": "Round Arches Springing from a Square Column, Ornamented with the Heads of Giants with Rings in Their Mouths"
+  "text": "The 1700s taste for the sublime—the sensation of power beyond comprehension—created an audience for dark and mysterious pictures. In our own time, it is this pleasure in terror that fuels the popularity of horror films.",
+  "title": "The Pier with the Lamp"
 }

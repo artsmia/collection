@@ -13,16 +13,16 @@
   "description": "small sheets of paper (shishiki) decorated with calligraphy or illustrated scenes from Genji dispersed over panels of gold foil; 108 total; calligraphy is written by various courtiers whose names are inscribed on small slips of paper next to the shishiki\r\n\r\n\r\n\r\n",
   "dimension": "43 3/4 × 143 3/4 in. (111.13 × 365.13 cm) (image)",
   "id": "http://api.artsmia.org/objects/122088",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1994,
+  "image_width": 6500,
   "inscription": "Poems",
   "life_date": "Japanese, 1617 - 1691",
   "markings": "",
   "medium": "Twenty-seven shikishi of painting (ink and color on paper) and twenty-seven shikishi of text (ink on paper), pasted on gilded paper",
   "nationality": "Japanese",
-  "object_name": "Six-panel folding screen, one of a pair (right)",
+  "object_name": "Six-panel folding screen, one of a pair",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "17th century",
   "text": "",
-  "title": "Fifty-four Scenes from the Tale of Genji"
+  "title": "Fifty-four Scenes from the Tale of Genji [right of a pair]"
 }

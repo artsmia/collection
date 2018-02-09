@@ -1,6 +1,6 @@
 {
   "accession_number": "81.133.286",
-  "artist": "Artist: Yamada Hōgyoku",
+  "artist": "Artist: Yamada Hōgyoku; Publisher: Sasaya Matabei",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -19,10 +19,10 @@
   "image_width": 2462,
   "inscription": "",
   "life_date": "Japanese, fl. c.1804-1844",
-  "markings": "\\\"Hōgyoku\\\" seal; Censor: Kiwame, Tiger; unknown publisher\\'s seal: {Yama-mata}",
+  "markings": "Red artist\\'s seal: {Hōgyoku}; censor seals: 寅 {tora} (tiger), 極 {kiwame}; publisher\\'s seal: 又 {Mata}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
-  "object_name": null,
+  "object_name": "Print (ukiyo-e / fūzoku-e)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "{Hōgyoku hitsu}",
   "style": "19th century",
   "text": "",
-  "title": "(Tile-maker)"
+  "title": "Tile-maker"
 }

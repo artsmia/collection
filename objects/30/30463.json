@@ -1,6 +1,6 @@
 {
   "accession_number": "98.105.46",
-  "artist": "Maker: Kunimitsu",
+  "artist": "Artist: Kunimitsu",
   "catalogue_raissonne": null,
   "classification": " Accessories",
   "continent": "Asia",
@@ -10,16 +10,16 @@
   "curator_approved": 0,
   "dated": "mid 19th century",
   "department": "Japanese and Korean Art",
-  "description": "bald standing man with toad on proper right shoulder and jar shaped basket slung over proper left shoulder; may be an allusion to Gama Sennin",
+  "description": "bald standing man with toad on proper right shoulder and jar shaped basket slung over proper left shoulder",
   "dimension": "2 11/16 x 1 1/16 x 15/16 in. (6.8 x 2.7 x 2.4 cm)",
   "id": "http://api.artsmia.org/objects/30463",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature; Tag",
+  "inscription": "",
   "life_date": "Japanese, active mid-19th century",
-  "markings": "lender\\'s tag, on proper right sleeve",
+  "markings": "",
   "medium": "Ivory",
   "nationality": "Japanese",
   "object_name": "Netsuke (katabori)",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "on underside of skirt",
+  "signed": "國光 {Kunimitsu}",
   "style": "19th century",
   "text": "",
-  "title": "Jiraiya and the Magic Toad"
+  "title": "Gama Sennin carrying the three-legged toad"
 }

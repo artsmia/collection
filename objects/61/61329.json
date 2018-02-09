@@ -1,16 +1,16 @@
 {
   "accession_number": "P.75.51.320",
   "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 249, ōban #64.52",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "December 1853",
+  "dated": "1853, 12th month",
   "department": "Japanese and Korean Art",
-  "description": "nishiki-e",
+  "description": "",
   "dimension": "13 7/16 × 8 3/4 in. (34.2 × 22.2 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/61329",
   "image": "valid",
@@ -19,7 +19,7 @@
   "image_width": 1771,
   "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "markings": "Censor:Kai, December 1853\r\nPublisher:Koshimuraya Heisuke",
+  "markings": "改、丑十二",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "広重筆 {Hiroshige hitsu}",
   "style": "19th century",
-  "text": "",
-  "title": "Rapids Between Two Crags in Bitchū Provinces"
+  "text": "No. 48 (Sanyōdō group) on the content page for the series.",
+  "title": "Bitchū Province: Gōkei"
 }

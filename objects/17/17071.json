@@ -15,8 +15,8 @@
   "id": "http://api.artsmia.org/objects/17071",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 4831,
-  "image_width": 6616,
+  "image_height": 4800,
+  "image_width": 6569,
   "inscription": "Inscription",
   "life_date": null,
   "markings": "see description field",
@@ -25,10 +25,11 @@
   "object_name": "Robe",
   "portfolio": "From ",
   "provenance": "",
+  "public_access": "1",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G218",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

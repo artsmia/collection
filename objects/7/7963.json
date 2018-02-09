@@ -1,6 +1,6 @@
 {
   "accession_number": "P.99.31.3",
-  "artist": "Artist: Richard Estes; Publisher: Parasol Press Ltd., New York",
+  "artist": "Artist: Richard Estes; Printer: Editions Domberger, Stuttgart; Publisher: Parasol Press Ltd., New York",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -17,14 +17,14 @@
   "image_copyright": "© Richard Estes",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signture, Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LC: [46/100]",
+  "inscription": "\r\n\r\n",
   "life_date": "American, born 1932",
-  "markings": "",
+  "markings": "Numbered in pencil, LC: 46/100",
   "medium": "Color screenprint",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From Urban Landscapes I (1974)",
-  "provenance": "Richard Sweet and Fay Gallus, Minneapolis; given to MIA, 1999.",
+  "portfolio": "From ",
+  "provenance": "Richard M. Sweet and Fay Gallus, Minneapolis; given to MIA, 1999.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed in pencil, LC:  [Richard Estes]",
+  "signed": "Signed in pencil, LC:  Richard Estes",
   "style": "20th century",
   "text": "",
   "title": "Qualicraft Shoes"

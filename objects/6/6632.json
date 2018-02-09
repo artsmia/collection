@@ -15,14 +15,14 @@
   "id": "http://api.artsmia.org/objects/6632",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 2364,
-  "image_width": 3240,
+  "image_height": 3228,
+  "image_width": 4424,
   "inscription": "",
   "life_date": null,
   "markings": "",
   "medium": "Negoro ware; wood, black lacquer with red lacquer decoration",
   "nationality": null,
-  "object_name": "Drum-shaped sake cask (taikodaru)",
+  "object_name": "Sake cask (taikodaru)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "122963",
+    "6632"
   ],
   "signed": "",
   "style": "17th century",

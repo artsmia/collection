@@ -13,10 +13,10 @@
   "description": "drum shaped box on birch bark body; flat top decorated with floral rondel and basket weave-like border in white quills; central element in flower made of small bits of red quills; one band around edge of cover and one band around body of box with alternating X-motifs and basket weave diamonds with white quills",
   "dimension": "3 3/16 × 6 1/8 × 6 1/8 in. (8.1 × 15.56 × 15.56 cm)",
   "id": "http://api.artsmia.org/objects/124447",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Amelia Kimewon-Trudeau",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3910,
+  "image_width": 5057,
   "inscription": "",
   "life_date": "Canadian (Wikwemikong First Nation), 1930 - 2009",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

@@ -5,29 +5,23 @@
   "exhibition_description": null,
   "begin": 2018,
   "end": 2019,
-  "display_date": "Sunday, October 21, 2018 - Thursday, October 31, 2019",
+  "display_date": "Sunday, October 21, 2018 - Monday, September 02, 2019",
   "public_info": 0,
   "objects": [
     120518
   ],
   "venues": [
     {
-      "venue": "Hunter Museum of American Art",
+      "venue": "Chrysler Museum of Art",
       "begin": 2018,
       "end": 2019,
-      "display_date": "Sunday, October 21, 2018 - Thursday, October 31, 2019"
-    },
-    {
-      "venue": "Musée de Montmartre",
-      "begin": 2018,
-      "end": 2019,
-      "display_date": "Sunday, October 21, 2018 - Thursday, October 31, 2019"
+      "display_date": "Sunday, October 21, 2018 - Monday, September 02, 2019"
     },
     {
       "venue": "NSU Art Museum Fort Lauderdale",
       "begin": 2018,
       "end": 2019,
-      "display_date": "Sunday, October 21, 2018 - Thursday, October 31, 2019"
+      "display_date": "Sunday, October 21, 2018 - Monday, September 02, 2019"
     }
   ]
 }

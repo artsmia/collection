@@ -8,10 +8,10 @@
   "creditline": "The William M. Ladd Collection\r\nGift of Herschel V. Jones, 1916",
   "culture": null,
   "curator_approved": 0,
-  "dated": "19th century",
+  "dated": "c. 1897",
   "department": "Prints and Drawings",
-  "description": "circular",
-  "dimension": "5 7/16 x 5 7/16 in. (13.81 x 13.81 cm) (image)",
+  "description": "circular design",
+  "dimension": "5 7/16 x 5 7/16 in. (13.81 x 13.81 cm) (image, diameter)",
   "id": "http://api.artsmia.org/objects/47483",
   "image": "invalid",
   "image_copyright": "",
@@ -24,7 +24,7 @@
   "nationality": "British",
   "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "William M. Ladd, Portland, Ore.; Herschel V. Jones, Minneapolis, his gift to MIA, 1916",
+  "provenance": "William M. Ladd, Portland, Ore.; Herschel V. Jones, Minneapolis; given to MIA, 1916.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Capture Pegasus"
+  "title": "The Captive Pegasus"
 }

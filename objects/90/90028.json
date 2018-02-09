@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.24",
   "artist": "Artist: Utagawa Kunisada; Publisher: Shimizuya Naojirō",
-  "catalogue_raissonne": "S0273-019",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,11 +13,11 @@
   "description": "portrait of a woman wearing six long gold hair ornaments and garments with many patterns including pale grey with gold and red flowers and blue with wave-like designs and red and black flowers; night landscape in background with tree-covered mountain in ULQ; red cartouche with text in URC, with flaming square brazier and long scroll surrounding cartouche",
   "dimension": "14 × 9 13/16 in. (35.56 × 24.92 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/90028",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature and Seal",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
   "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Shimizuya(yama kiyo)}\r\n",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -34,6 +34,6 @@
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Mount Asama Near Karuizawa and the Prostitute Ōshū"
+  "text": "No. 19 in the series.",
+  "title": "Mount Asama at Karuizawa Station: (Actor Ichimura Takenojō V as) Ōshū"
 }

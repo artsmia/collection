@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,340",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 16 ii/iii, F.39",
+  "catalogue_raissonne": "Hind prisons 16 ii/iii, F.39, Robison 42 v/vi",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 16",
+  "description": "Plate 16 from Carceri d'Invenzione",
   "dimension": "16 1/8 x 21 3/4 in. (40.96 x 55.25 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52625",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "In plate",
   "style": "18th century",
-  "text": "",
-  "title": "A Wide Hall with Low Timbered Roof in the Foreground from Which Hangs a Lantern"
+  "text": "The inscriptions on the tablets are based on the ancient writer Livy’s History of Rome (27-9 BCE). In part, the ominous phrases read “to terrify . . .,”  “infamous wickedness . . .,” and “thus to treason and evil conduct.”  Whether or not these allusions to classical texts are meant to locate the Prisons in antiquity, they address the darkest recesses of the viewer’s consciousness.",
+  "title": "The Pier with Chains"
 }

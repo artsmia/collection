@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.15",
   "artist": "Artist: Utagawa Kunisada; Publisher: Iseya Kanekichi; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0320-036",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,13 +13,13 @@
   "description": "portrait of man with blueish face, wearing a blue kimono with wavy brown and black stripes, with red rivulets of blood running down his shoulders; man looks down toward LRC; man holds five multicolored striped sticks in his PR hand; night landscape behind figure with trees and grass blowing in wind; mountain in ULQ; pink square cartouche and red rectangular cartouche with text in URC",
   "dimension": "14 × 9 3/4 in. (35.56 × 24.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/89912",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "{Yasukata no bōrei} (character\\'s name) | Nakatsukasa\\'s poem: {Akikaze no / Fuku ni tsukete mo / Towanu kana / Hagi no ha nara ba / Otwashi te ma shi}\r\n(The autumnal wind / Blows but brings me no message- / Yet that listless breeze, / Where I a beckoning reed, would whisper / In the rusting of my leaves.) (Translated by Edwin A. Cranston)",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "穐風の　吹につれても　とわぬかな　萩の葉ならは　音はしてまし Akikaze no / fuku ni tsurete mo / towanu ka na / hagi no ha nara ba / oto wa shite maji (The autumnal wind / Blows but brings me no message- / Yet that listless breeze, / Where I a beckoning reed, would whisper / In the rusting of my leaves.) [Translated by Edwin A. Cranston]",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "date seal: ne jūichi 子十一 (Rat 11); censor seals: Watanabe 渡邊, Mera 米良; publisher\\'s seal: {Isekane}; carver\\'s seal: Yokogawa hori Take",
+  "markings": "date seal: ne jūichi 子十一 (Rat 11); censor seals: Watanabe 渡邊, Mera 米良; publisher\\'s seal: {Isekane}; carver\\'s seal: 横川彫竹 {Yokogawa hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -35,5 +35,5 @@
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "",
-  "title": "Nakatsukasa's Poem and the Ghost of Yasukata"
+  "title": "Poem by Nakatsukasa: (Actor Onoe Kikugorō III as) the Ghost of Yasukata"
 }

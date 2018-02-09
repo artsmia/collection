@@ -13,17 +13,17 @@
   "description": "",
   "dimension": "4 15/16 x 9 5/16 in. (12.54 x 23.65 cm) (plate, each)\r\n5 1/8 x 9 1/2 in. (13.02 x 24.13 cm) (sheet, each, approximate)",
   "id": "http://api.artsmia.org/objects/60243",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2842,
+  "image_width": 5084,
   "inscription": "",
   "life_date": "French, 1592-1635",
   "markings": "",
   "medium": "Etching",
   "nationality": "French",
   "object_name": null,
-  "portfolio": "From ",
+  "portfolio": "From Les Bohémiens",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "17th century",
   "text": "",
-  "title": "Les Bohémiens, from a set of four etchings"
+  "title": "Les Bohémiens en marche: l'arrière-garde"
 }

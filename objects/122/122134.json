@@ -13,16 +13,16 @@
   "description": "six panel screen; dense flock of white cranes, and a few cranes with darker feathers against gold background",
   "dimension": "62 × 157 11/16 in. (157.48 × 400.53 cm) (image)\r\n68 1/4 × 164 1/16 × 3/4 in. (173.36 × 416.72 × 1.91 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/122134",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 4556,
+  "image_width": 10389,
   "inscription": "",
   "life_date": null,
   "markings": "",
-  "medium": "Ink and colors on gold",
+  "medium": "Ink and color on gold",
   "nationality": null,
-  "object_name": "Six-panel folding screen, one of a pair (right)",
+  "object_name": "Six-panel folding screen, one of a pair",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Cranes (from a pair)"
+  "title": "Cranes [right of a pair]"
 }

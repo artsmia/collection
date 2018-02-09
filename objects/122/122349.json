@@ -15,8 +15,8 @@
   "id": "http://api.artsmia.org/objects/122349",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 1191,
-  "image_width": 2360,
+  "image_height": 2340,
+  "image_width": 4644,
   "inscription": "Signature and Seals",
   "life_date": "Japanese, 1773 - 1828",
   "markings": "publisher seal on each sheet: 山田 {Yamada}",
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "122349",
+    "69788"
   ],
   "signed": "on each sheet: 豊広画 {Toyohiro ga} (Painted by Toyohiro)",
   "style": "19th century",

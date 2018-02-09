@@ -1,6 +1,6 @@
 {
   "accession_number": "79.2.3",
-  "artist": "",
+  "artist": "Artist: Unknown Japanese",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -15,12 +15,12 @@
   "id": "http://api.artsmia.org/objects/10332",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 5616,
-  "image_width": 3744,
+  "image_height": 5413,
+  "image_width": 3149,
   "inscription": "",
   "life_date": null,
   "markings": "",
-  "medium": "Ink and color on silk",
+  "medium": "Ink, color, gold, and cut gold leaf (kirikane) on silk",
   "nationality": null,
   "object_name": "Hanging scroll",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
     ""
   ],
   "signed": "",
-  "style": "15th century",
+  "style": "14th-15th century",
   "text": "",
-  "title": "Fire deity"
+  "title": "Katen [one of a set of Twelve Devas]"
 }

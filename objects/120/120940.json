@@ -13,10 +13,10 @@
   "description": "rounded sides with flat bottom with rounded bottom edge; inverted rim; light brown with medium and dark brown geometric designs of X's and diamonds of various sizes",
   "dimension": "4 3/8 × 8 5/8 × 8 5/8 in. (11.11 × 21.91 × 21.91 cm)",
   "id": "http://api.artsmia.org/objects/120940",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5135,
+  "image_width": 7189,
   "inscription": "Sticker",
   "life_date": null,
   "markings": "on underside, on sticker: [202]",
@@ -28,7 +28,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G259",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

@@ -13,10 +13,10 @@
   "description": "standing figure with arms and legs spread wide apart, holding a cloud-like form; image made up of round elements of various sizes and heaviness of pigmentation",
   "dimension": "23 3/16 × 29 9/16 in. (58.9 × 75.09 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/123990",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Do-ho Suh %2F Highpoint Editions%2C Minneapolis",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7632,
+  "image_width": 9753,
   "inscription": "Signature, Title, Date, Edition and Stamp",
   "life_date": "South Korean, born 1962",
   "markings": "on back at bottom edge, in pencil: [37/45]; on back at bottom edge, stamped in grey: [HP (inside a square)]",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G180",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

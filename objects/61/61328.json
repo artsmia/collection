@@ -1,14 +1,14 @@
 {
   "accession_number": "P.13,918",
-  "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Utagawa Hiroshige; Publisher: Koshimuraya Heisuke; Carver: Yokogawa Takejirō",
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 249, ōban #64.37",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
   "culture": null,
   "curator_approved": 0,
-  "dated": "July 1853",
+  "dated": "1853, 7th month",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "13 9/16 × 9 1/16 in. (34.4 × 23 cm) (image, vertical ōban)",
@@ -19,7 +19,7 @@
   "image_width": 1810,
   "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "markings": "Censor:Mera, Watanabe, July 1853\r\nPublisher:Koshimuraya Heisuke\r\nCarver:Horitake(Yokokawa Takejirō)",
+  "markings": "Censor seals: 米良 {Mera}, 渡辺 {Watanabe}, 丑七 {Ushi nana} (Ox 7); Carver\\'s seal: 彫竹 {Hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "広重筆 {Hiroshige hitsu}",
   "style": "19th century",
-  "text": "",
-  "title": "Pine Field of Miho in Suruga Province"
+  "text": "No. 12 (Tōkaidō group) on the content page for the series.",
+  "title": "Suruga Province: Miho Pine Grove"
 }

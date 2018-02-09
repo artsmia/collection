@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 7590,
   "image_width": 3400,
-  "inscription": "Signature, Inscription, and Seals\r\n\r\nURQ: [. . . san yuki. . .Yuzan ]",
+  "inscription": "URQ: {. . . san yuki. . .Yuzan}",
   "life_date": null,
-  "markings": "URC: (unread); b: [Genshyu]; c: [Yuzan]",
+  "markings": "URC: (unread); {Genshyu}; {Yuzan}",
   "medium": "Ink on paper",
   "nationality": null,
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "URC: [Yuzan]",
+  "signed": "URC: {Yuzan}",
   "style": "19th century",
   "text": "",
   "title": "Landscape in the Snow"

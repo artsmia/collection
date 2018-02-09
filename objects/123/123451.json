@@ -13,14 +13,14 @@
   "description": "landscape in greens and browns; rugged mountain peaks; scattered trees; some small buildings; water at center with two boats with figures, including one boat with a canopy",
   "dimension": "21 1/4 × 39 in. (53.98 × 99.06 cm) (image)\r\n62 3/4 × 46 5/16 in. (159.39 × 117.63 cm) (without roller)",
   "id": "http://api.artsmia.org/objects/123451",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7839,
+  "image_width": 10995,
   "inscription": "",
   "life_date": "Japanese, 1727 - 1784",
   "markings": "",
-  "medium": "Ink and color on silk",
+  "medium": "Ink, color, and gold on silk",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
   "portfolio": "From ",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "West Lake"
+  "title": "West Lake in Spring"
 }

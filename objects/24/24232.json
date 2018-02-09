@@ -13,10 +13,10 @@
   "description": "tea bowl, earthenware, raku; separate wood stand",
   "dimension": "3 1/2 x 4 1/2 x 4 1/2 in. (8.9 x 11.43 x 11.43 cm)",
   "id": "http://api.artsmia.org/objects/24232",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3411,
+  "image_width": 4397,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Tea bowl (chawan) and stand"
+  "title": "Tea bowl"
 }

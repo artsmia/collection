@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,333",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 09 ii/iii, F.32",
+  "catalogue_raissonne": "Hind prisons 09 ii/iii, F.32, Robison 35 vi or vii/viii",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 9",
+  "description": "Plate 9 from Carceri d'Invenzione",
   "dimension": "21 15/16 x 16 in. (55.72 x 40.64 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52610",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "",
   "style": "18th century",
-  "text": "",
-  "title": "A Prison Door, Surmounted by a Colossal Wheel-Shaped Opening, Crossed by Beams"
+  "text": "Though commonly called a giant wheel, the round object in this etching is a huge circular window opening into another space.",
+  "title": "The Giant Wheel"
 }

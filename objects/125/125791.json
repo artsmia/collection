@@ -13,10 +13,10 @@
   "description": "rectangular board with protruding carved arrow at top; text from Qur'an written in ink on either side of board, surrounded by delicate border; one side has decorations of square spirals across C; the other side has geometric zigzag pattern",
   "dimension": "18 × 8 1/2 × 3/4 in. (45.72 × 21.59 × 1.91 cm)",
   "id": "http://api.artsmia.org/objects/125791",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9849,
+  "image_width": 6525,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G254",
   "see_also": [
     ""
   ],

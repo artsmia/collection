@@ -1,13 +1,13 @@
 {
   "accession_number": "P.69.66",
-  "artist": "Artist: Warrington Colescott",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Warrington Colescott; Printer: Curwen Press, London; Publisher: London Graphic Arts, Detroit",
+  "catalogue_raissonne": "Elvehjem 134; Chapin 135",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1968",
   "department": "Prints and Drawings",
   "description": "",
@@ -17,13 +17,13 @@
   "image_copyright": "© Warrington Colescott",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
+  "inscription": "Titled in pencil LC: A Wild West: \\\"Dodge City\\\"",
   "life_date": "American, born 1921",
-  "markings": "Watermark: <G>; chop marks: J. Green",
-  "medium": "Color lithograph",
+  "markings": "In pencil LL:  Artist Proof\r\nWatermark: <G>\r\nChop mark: J. Green",
+  "medium": "Color lithograph on cream paper",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": "From A Wild West series",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "In pencil: Warrington Colescott",
+  "signed": "Signed and dated in pencil LR: Warrington Colescott 1968",
   "style": "20th century",
   "text": "",
-  "title": "A Wild West: \"Dodge City\""
+  "title": "A Wild West: Dodge City"
 }

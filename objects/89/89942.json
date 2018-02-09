@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.19",
   "artist": "Artist: Utagawa Kunisada; Publisher: Iseya Kanekichi; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0320-032",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,13 +13,13 @@
   "description": "portrait of a man with his arms crossed, head turned slightly toward PR; man wears garments of various patterns including brown, blue, grey and white plaid, brown with interlocking white rings and blue and white batik-like patterns of flowers; landscape behind man with grey sky, pair of deer in ULQ, trees with rust-colored leaves and yellow flowers",
   "dimension": "14 × 9 3/4 in. (35.56 × 24.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/89942",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "written in the red rectangular: {Ryōshi} (hunter) | {Shibaroku} | (Motosuke\\'s poem)",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "秋の野の　萩のにしきを　故郷に　しかのねがら　うつしてしかな {Aki no no no / hagi no nishiki o / furusato ni / shika no ne gara / utsushite na}",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Isekane} | carver\\'s seal: {Yokogawa hori Take}",
+  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Isekane} | carver\\'s seal: 横川彫竹 {Yokogawa hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -35,5 +35,5 @@
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
   "text": "",
-  "title": "Motosuke's Poem and the Hunter Shibaroku"
+  "title": "Poem by Kiyowara Motosuke: (Actor Ichikawa Danzō VI as) the Hunter Shibaroku"
 }

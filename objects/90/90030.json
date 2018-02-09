@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.26",
   "artist": "Artist: Utagawa Kunisada; Publisher: Hayashiya Shōgorō; Carver: Yokogawa Takejirō",
-  "catalogue_raissonne": "S0273-012",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,11 +13,11 @@
   "description": "portrait of a frowning man with mouth slightly open; bare arms visible at edges of sheet; man wears a kimono with white stripes with brown brushstroke-like marks and purple stripes with blue checks; sword handle visible at man's stomach; landscape at top with mountain at left and trees; red cartouche with text in URC, surrounded by blossoming trees, lantern with text, bench and other objects",
   "dimension": "14 × 9 3/4 in. (35.56 × 24.7 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/90030",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature and Seal",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
   "markings": "date seal: 子十一 {ne jūichi} (Rat 11) | censor seals: 渡邊 {Watanabe} | 米良 {Mera} | publisher\\'s seal: {Rinshō ban} | carver\\'s seal: {hori Take}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -34,6 +34,6 @@
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Kanno River at Niekawa and Denbē"
+  "text": "No. 12 in the series.",
+  "title": "Kanno River at Shingawa Station [sic; Kanna River at Shinmachi Station]: (Actor Nakamura Gizaemon as) Ohyariko Denbei"
 }

@@ -15,8 +15,8 @@
   "id": "http://api.artsmia.org/objects/63404",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 2491,
-  "image_width": 1925,
+  "image_height": 5436,
+  "image_width": 4195,
   "inscription": "Bottom, printed: A Junk | H. Yoshida",
   "life_date": "Japanese, 1876 - 1950",
   "markings": "LLC, red artist\\'s seal I: 博 {Hiroshi}",
@@ -30,7 +30,14 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "117540",
+    "117541",
+    "117542",
+    "62462",
+    "63402",
+    "63403",
+    "63404",
+    "63405"
   ],
   "signed": "LLC: よし田 {Yoshida}",
   "style": "20th century",

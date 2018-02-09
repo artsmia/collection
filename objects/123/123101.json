@@ -13,16 +13,16 @@
   "description": "white fluted flowers amid clusters of dense foliage with blue irises, pink thistles, and dropping white reeds; ivory roller ends",
   "dimension": "51 5/16 × 19 1/2 in. (130.33 × 49.53 cm) (image)\r\n83 7/8 × 21 1/16 in. (213.04 × 53.5 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/123101",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1800,
+  "image_width": 684,
   "inscription": "",
   "life_date": "Japanese, act. 17th cent.",
   "markings": "LRC: {I\\'nen}",
   "medium": "Ink, color, and gold on paper",
   "nationality": "Japanese",
-  "object_name": "Hanging scroll, one of a pair (right)",
+  "object_name": "Hanging scroll, one of a pair",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "17th century",
   "text": "Colorful wildflowers of summer and autumn abound in this pair of hanging scrolls by an early painter of the Rinpa school, a lineage of painters of the Edo period (1603–1868) that engaged with classical Japanese themes and designs to create a distinctively decorative style of painting. The right scroll is dominated by large white cockscomb, blue gentians and irises, and red azaleas. At left orange lilies, red magnolia, and white clematis bloom beneath the branch of a chestnut tree.\r\n<P>Sōsetsu was a follower of Sōtatsu, the leader of the Tawaraya studio now seen as the progenitor of Rinpa-style painting. Sōsetsu also used his master’s large, round seal (read “I’nen”) that can be seen on the lower outside corners of each of the present scrolls.\r\n",
-  "title": "Flowers of Summer"
+  "title": "Flowers of Summer [right of a pair of Flowers of Summer and Autumn]"
 }

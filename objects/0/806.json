@@ -2,7 +2,7 @@
   "accession_number": "50.3.1",
   "artist": "",
   "catalogue_raissonne": null,
-  "classification": " Ceramics",
+  "classification": " Ceramics; Funerary Goods",
   "continent": "Asia",
   "country": "China",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -22,7 +22,7 @@
   "markings": "",
   "medium": "Earthenware with traces of pigments",
   "nationality": null,
-  "object_name": "Tomb Figurine, one of pair",
+  "object_name": "Figurine",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "G208",
   "see_also": [
-    ""
+    "11976",
+    "806"
   ],
   "signed": "",
   "style": "6th century",

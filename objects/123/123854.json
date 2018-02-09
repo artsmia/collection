@@ -13,10 +13,10 @@
   "description": "three figures set against a silver background in various poses; from L to R, a smiling man in a tall blue hat and red kimono dances with a fan; a kneeling figure in black and another in green gesture toward him with right arms extended up and back and left arms extended down, their hands grasping fans; a lone pine frond decorates the second panel from the L",
   "dimension": "63 1/8 × 136 1/2 in. (160.34 × 346.71 cm) (image)\r\n64 1/2 × 138 × 3/4 in. (163.83 × 350.52 × 1.91 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/123854",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5051,
+  "image_width": 10704,
   "inscription": "Signature and Seal",
   "life_date": "Japanese, 1811 - 1882",
   "markings": "Red, square seal below signature in bottom middle section of first panel",
@@ -35,5 +35,5 @@
   "signed": "Japanese characters in black ink in bottom middle section of first panel",
   "style": "19th century",
   "text": "",
-  "title": "Scenes from Kyōgen Theater"
+  "title": "Scenes from Kyōgen Theater [right of a pair]"
 }

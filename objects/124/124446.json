@@ -13,10 +13,10 @@
   "description": "round drum shaped box with birch bark body; flat cover decorated with daisy-type floral motif in white and white with brown-tipped quills; body of box decorated with vertical white quills",
   "dimension": "2 3/16 × 3 × 3 in. (5.56 × 7.62 × 7.62 cm)",
   "id": "http://api.artsmia.org/objects/124446",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Lorraine Beseto",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3090,
+  "image_width": 3375,
   "inscription": "",
   "life_date": "Canadian (Anishinaabe)",
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

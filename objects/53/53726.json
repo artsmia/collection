@@ -1,13 +1,13 @@
 {
   "accession_number": "P.13,890",
   "artist": "Artist: Warrington Colescott",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Elvehjem 118; Chapin 112",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Winton Jones, 1967",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1966",
   "department": "Prints and Drawings",
   "description": "",
@@ -17,13 +17,13 @@
   "image_copyright": "© Warrington Colescott",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature",
+  "inscription": "Titled in pencil LC: Stock Exchange",
   "life_date": "American, born 1921",
-  "markings": "",
-  "medium": "Color etching, drypoint, and screenprint",
+  "markings": "Numbered in pencil LL: 20/50",
+  "medium": "Color soft-ground etching, drypoint, and aquatint, with vibrograver, relief rolls through stencils, and  à la poupée inking",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From The Great Society",
+  "portfolio": "From The Great Society series",
   "provenance": "",
   "restricted": 1,
   "rights_type": "Copyright Protected",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "In pencil: [Warrington Colescott]",
+  "signed": "Signed and dated in pencil LR: Warrington Colescott 1966",
   "style": "20th century",
   "text": "",
-  "title": "The Great Society: \"Stock Exchange\""
+  "title": "The Great Society: Stock Exchange, State I"
 }

@@ -7,7 +7,7 @@
   "country": "Germany",
   "creditline": "Gift of Peter R. Spokes in memory of C.C. and Beecher Hogan",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1519",
   "department": "Prints and Drawings",
   "description": "standing man wearing tunic and cloth boots, with PR arm outstretched; woman carrying a bundle of sticks (or arrows?) on her back, holding a chicken by the feet in her PL hand, places her PR hand in man's outstretched hand; jug and basket with eggs, LLC",
@@ -30,7 +30,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "116074",
+    "47514"
   ],
   "signed": "bottom edge, right, in the print: [A D]; top center, in the print: [1519]",
   "style": "16th century",

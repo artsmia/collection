@@ -1,6 +1,6 @@
 {
   "accession_number": "2011.53.3",
-  "artist": "Artist: Jaune Quick-to-See Smith; Publisher: Brodsky Center for Innovative Editions, New Brunswick, N.J.",
+  "artist": "Artist: Jaune Quick-to-See Smith; Publisher: Brodsky Center, New Brunswick, N.J.",
   "catalogue_raissonne": null,
   "classification": " Prints; Collages / Assemblages",
   "continent": "North America",
@@ -14,7 +14,7 @@
   "dimension": "68 x 39 3/4 in. (172.72 x 100.97 cm)",
   "id": "http://api.artsmia.org/objects/112159",
   "image": "valid",
-  "image_copyright": "© 2003 Jaune Quick-to-See Smith",
+  "image_copyright": "© Jaune Quick-to-See Smith%2C Courtesy the artist and Garth Greenan Gallery%2C New York",
   "image_height": 6780,
   "image_width": 3996,
   "inscription": "Signature and Edition",
@@ -25,8 +25,8 @@
   "object_name": "Print and collage",
   "portfolio": "From ",
   "provenance": "The artist, 2003-11; (Joe Zanatta Contemporary Art, Shawnee, Kansas, 2011); sold to MIA, 2011.",
-  "restricted": 1,
-  "rights_type": "Copyright Protected",
+  "restricted": 0,
+  "rights_type": "Non-Commercial Use",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

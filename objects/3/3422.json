@@ -14,7 +14,7 @@
   "dimension": "18 1/4 x 23 3/16 in. (46.36 x 58.9 cm) (image)\r\n30 5/8 x 36 7/16 in. (77.79 x 92.55 cm) (mount)",
   "id": "http://api.artsmia.org/objects/3422",
   "image": "valid",
-  "image_copyright": "©Berenice Abbott %2F Commerce Graphics Ltd.",
+  "image_copyright": "© Berenice Abbott %2F Commerce Graphics Ltd. Inc.",
   "image_height": 3209,
   "image_width": 4083,
   "inscription": "",
@@ -28,9 +28,10 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "G280",
+  "room": "Not on View",
   "see_also": [
-    ""
+    "100852",
+    "3422"
   ],
   "signed": "",
   "style": "20th century",

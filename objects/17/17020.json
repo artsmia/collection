@@ -10,8 +10,8 @@
   "curator_approved": 0,
   "dated": "19th century",
   "department": "Chinese, South and Southeast Asian Art",
-  "description": "Coat of deep blue silk with a design of eight large k'ossu medallions containing large hydrangeas and butterflies in shades of pink, green, blue, yellow, and mauve.  Conventional border of slightly wavy stripes in body colors and olive green; narrow row of tight clouds; rolling waves in which appear bats, coral, and symbols of the Eight Precious Things.  Wide sleeves with border design at wrists and three small medallions of body design above.  Cf. 42.8.88,91.  Coat slit in back, open in front, and lined with thin blue silk.",
-  "dimension": "L.56-1/4 in.",
+  "description": "Coat of deep blue silk with a design of eight large kesi medallions containing large hydrangeas and butterflies in shades of pink, green, blue, yellow, and mauve.  Conventional border of slightly wavy stripes in body colors and olive green; narrow row of tight clouds; rolling waves in which appear bats, coral, and symbols of the Eight Precious Things.  Wide sleeves with border design at wrists and three small medallions of body design above.  Cf. 42.8.88,91.  Coat slit in back, open in front, and lined with thin blue silk.",
+  "dimension": "L .56 1/4 in.",
   "id": "http://api.artsmia.org/objects/17020",
   "image": "valid",
   "image_copyright": "",
@@ -20,11 +20,12 @@
   "inscription": "",
   "life_date": null,
   "markings": "",
-  "medium": "k'ossu, silk",
+  "medium": "Silk tapestry (kesi)",
   "nationality": null,
   "object_name": "Robe",
   "portfolio": "From ",
   "provenance": "",
+  "public_access": "1",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "MEDALLION ROBE"
+  "title": "Manchu Woman's Informal Court Surcoat"
 }

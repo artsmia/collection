@@ -1,7 +1,7 @@
 {
   "accession_number": "2015.79.245.3",
   "artist": "Artist: Gaoquan Xingdun",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Murase, Art through a Lifetime, no. 529",
   "classification": " Calligraphy",
   "continent": "Asia",
   "country": "Japan",
@@ -13,16 +13,16 @@
   "description": "five-character poem; loopy, bold characters; small inscription at R",
   "dimension": "52 3/8 × 12 1/2 in. (133.03 × 31.75 cm) (image)\r\n87 1/2 × 16 3/4 in. (222.25 × 42.55 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/122362",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7016,
+  "image_width": 1711,
   "inscription": "Signature, Inscription, and Seals\r\n\r\ncenter: [Religious spirit spreads across the four seas] (Dofu yo shikai) (Dofu o shikai ni agaru)\r\n\r\n",
   "life_date": "Chinese, 1633 - 1696",
   "markings": "Seals ULC and lower R: [Rinzai Seishu]; [Bukkoku Shujin]; [Seidon]",
   "medium": "Ink on paper",
   "nationality": "Chinese",
-  "object_name": "Hanging scroll, one of a triptych (right)",
+  "object_name": "Hanging scroll, one of a triptych",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "Signed at R: [Donge Dojin]",
   "style": "17th century",
   "text": "",
-  "title": "Single-Line Calligraphy (from a triptych of single-line calligraphies)"
+  "title": "Single-Line Calligraphy [right of a triptych of single-line calligraphies]"
 }

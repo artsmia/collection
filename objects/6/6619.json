@@ -13,11 +13,11 @@
   "description": "five crows perched near top of tree; two are darting down at LL; minimal, curled leaves with light color",
   "dimension": "42 5/8 × 16 1/4 in. (108.27 × 41.28 cm) (image)\r\n74 3/16 × 21 5/8 in. (188.44 × 54.93 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/6619",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature and Seals",
+  "image_height": 7050,
+  "image_width": 2706,
+  "inscription": "Signature and Seals\r\n\r\nBox inscription: A small inscription on the bottom back of the lid reads \\\"大佐藤家”, identifying a previous owner: \\\"The Sato Family\\\".",
   "life_date": "Japanese, 1716 - 1783",
   "markings": "LRC: [Tosei]; [Sanka Shujin]",
   "medium": "Ink on paper",
@@ -34,6 +34,6 @@
   ],
   "signed": "LRC: [Sha Shunsei]",
   "style": "18th century",
-  "text": "",
-  "title": "Crows"
+  "text": "Yosa Buson was one of the two greatest painters of the Nanga school (the other being his contemporary, Ike Taiga). Buson was also one of the most important poets of the Edo period, and the lyrical quality that permeates many of his paintings is often attributed to his poetic sensibilities. Here, in painting a raucous flock of mynah birds alighting a tree, Buson's loose, impressionistic brushwork enlives his composition.",
+  "title": "Mynah Birds in an Old Tree"
 }

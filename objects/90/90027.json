@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.23",
   "artist": "Artist: Utagawa Kunisada; Publisher: Kagaya Yasubei",
-  "catalogue_raissonne": "S0273-002",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,13 +13,13 @@
   "description": "portrait of a man holding a toothpick, wearing a black kimono with subtle floral patterning, open at the chest, and a light blue cloth with white text over his PL shoulder; landscape in background with mountain in ULQ and river with three figures in a long boat; red text cartouche in URC with sword, net and basket at edges of cartouche",
   "dimension": "14 × 9 13/16 in. (35.56 × 24.92 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/90027",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature and Seal",
+  "image_height": 7703,
+  "image_width": 5608,
+  "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Kagayasu} | carver\\'s seal: {Hori Takichi}",
+  "markings": "date seal: 子十 {ne jū} (Rat 10) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | publisher\\'s seal: {Kagayasu} | carver\\'s seal: 彫夛吉 {Hori Takichi}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -34,6 +34,6 @@
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Toda River Near Itabashi and Amiboshi Samojirō"
+  "text": "No. 2 in the series.",
+  "title": "The Toda River at Itabashi Station: (Actor Arashi Kichisaburō III as) Aboshi Samojirō"
 }

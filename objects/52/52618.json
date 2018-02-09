@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,337",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 13 ii/iii, F.36",
+  "catalogue_raissonne": "Hind prisons 13 ii/iii, F.36, Robison 39 v/vi",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 13",
+  "description": "Plate 13 from Carceri d'Invenzione",
   "dimension": "16 x 21 11/16 in. (40.64 x 55.09 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52618",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "In plate",
   "style": "18th century",
-  "text": "",
-  "title": "Colonnaded Interior with a Broad Staircase, Divided in Two by a Stone Projection with Barred Windows"
+  "text": "The 1700s are known as the Age of Enlightenment, but a strong undercurrent of irrationality persisted. These conflicting impulses caused a collision between the international humanitarian call for prison reform and those architects who drew from Piranesi their inspiration for ever more intimidating institutional buildings.",
+  "title": "The Well"
 }

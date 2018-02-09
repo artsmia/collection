@@ -13,10 +13,10 @@
   "description": "six figures set against a silver ground; from L to R: standing man with parasol; standing man with gold hand fan; two seated musicians facing two seated figures, one of whom is an elder",
   "dimension": "63 1/2 × 137 1/2 in. (161.29 × 349.25 cm) (image)\r\n65 × 139 × 3/4 in. (165.1 × 353.06 × 1.91 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/123853",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5112,
+  "image_width": 10722,
   "inscription": "Signature and Seal",
   "life_date": "Japanese, 1811 - 1882",
   "markings": "Red, square seal beneath signature",
@@ -35,5 +35,5 @@
   "signed": "Japanese characters in black at bottom center of first panel",
   "style": "19th century",
   "text": "",
-  "title": "Scenes from Kyōgen Theater"
+  "title": "Scenes from Kyōgen Theater [left of a pair]"
 }

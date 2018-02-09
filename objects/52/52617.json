@@ -1,7 +1,7 @@
 {
   "accession_number": "P.11,332",
   "artist": "Artist: Giovanni Battista Piranesi",
-  "catalogue_raissonne": "Hind prisons 08 ii/iii, F.31",
+  "catalogue_raissonne": "Hind prisons 08 ii/iii, F.31, Robison 34 v/vi",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Italy",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1761",
   "department": "Prints and Drawings",
-  "description": "Plate 8",
+  "description": "Plate 8 from Carceri d'Invenzione",
   "dimension": "21 9/16 x 15 13/16 in. (54.77 x 40.16 cm) (plate)",
   "id": "http://api.artsmia.org/objects/52617",
   "image": "valid",
@@ -34,6 +34,6 @@
   ],
   "signed": "In plate: [Pirenes p.]",
   "style": "18th century",
-  "text": "",
-  "title": "A Vast Interior, with Trophies at the Foot of a Broad Staircase and Two Large Flags on the Lef"
+  "text": "Piranesi’s detailed studies of ancient Roman architecture sharpened his attention to building materials, such as the rivets in the huge center doors and the long, thin bricks of the arches on the second level.",
+  "title": "The Staircase with Trophies"
 }

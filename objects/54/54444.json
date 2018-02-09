@@ -13,10 +13,10 @@
   "description": "Blacksmiths working",
   "dimension": "9 3/4 x 14 in. (24.77 x 35.56 cm) (plate)",
   "id": "http://api.artsmia.org/objects/54444",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6387,
+  "image_width": 8338,
   "inscription": "Engraved inscriptions, lower margin: LL: J, Gericault invt.; LC: A FRENCH FARRIER; LR: C. hullmandel Lithography.\r\n\r\nInscribed in pencil, LC margin: Le Marechal ferrant francois",
   "life_date": "French, 1791 - 1824",
   "markings": "Two unknown collectors stamps in violet ink, verso",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "19th century",
-  "text": "",
+  "text": "Théodore Géricault made countless drawings, paintings, watercolors, and prints of horses. This image of a farrier at work shoeing horses belongs to a series of lithographs of everyday life. They illustrate the intimate relationship between man and beast—in which human dominance is not a given.",
   "title": "A French Farrier"
 }

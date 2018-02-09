@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.104.27",
   "artist": "Artist: Utagawa Kunisada; Publisher: Tsujiokaya Bunsuke; Carver: Yokogawa Takejirō; Printer: Ōumiya Hisatarō",
-  "catalogue_raissonne": "S0525-002",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -13,10 +13,10 @@
   "description": "portrait of man with long frowning face and large nose, wearing bolding patterned garments including blue with bold white floral outlines and brown with white checks; man wears a with cloth tied around his neck; water scene behind man with cluster of docked sailboats, trees in ULQ and bridge with figures along right edge in URQ",
   "dimension": "14 × 9 13/16 in. (35.56 × 24.92 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/90031",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7703,
+  "image_width": 5608,
   "inscription": "",
   "life_date": "Japanese, 1786 - 1865",
   "markings": "date seal: 子閏 {ne urū} (Rat intercalary) | censor seals: 福 {Fuku} | 村松 {Muramatsu} | carver\\'s seal: 彫竹 {hori Take} | printer\\'s seal:  摺大久 {suri Ōhisa} | publisher\\'s seal: 文　辻岡屋 {Bun, Tsujiokaya}",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G226",
   "see_also": [
     ""
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "The actor Matsumoto Kōshirō V (1764-1838) is captured as the chivalrous townsman Banzui Chōbei after arriving in his palanquin at Suzugamori, the execution ground of Edo near Shinagawa, where the handsome murderer Shirai Gonpachi is being attacked by a band of robbers. After Gonpachi defeats them with his elegant swordsmanship, Chōbei approaches Gonpachi. This is the right sheet of a pseudo-diptych; the left shows the actor Iwai Tojaku (1776-1847) as Shirai Gonpachi, juxtaposed to the station Kawasaki.",
-  "title": "Shinagawa Station; Actor Matsumoto Kōshirō V as Banzui Chōbei"
+  "text": "No. 2 in the series.\r\nThe actor Matsumoto Kōshirō V (1764–1838) is presented as the chivalrous townsman Banzui Chōbei. We see him after arriving in his palanquin (a small boxlike carriage carried by attendants) at the execution ground near Shinagawa, where the handsome murderer Shirai Gonpachi is being attacked by a band of robbers. After Gonpachi defeats the robbers with his elegant swordsmanship, Chōbei approaches Gonpachi and the two men become friends. \r\n",
+  "title": "Shinagawa Station: (Actor Matsumoto Kōshirō V as) Banzui Chōbei"
 }

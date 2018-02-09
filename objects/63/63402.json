@@ -15,8 +15,8 @@
   "id": "http://api.artsmia.org/objects/63402",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 2491,
-  "image_width": 1956,
+  "image_height": 5385,
+  "image_width": 4229,
   "inscription": "",
   "life_date": "Japanese, 1876 - 1950",
   "markings": "",
@@ -30,7 +30,14 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "117540",
+    "117541",
+    "117542",
+    "62462",
+    "63402",
+    "63403",
+    "63404",
+    "63405"
   ],
   "signed": "",
   "style": "20th century",

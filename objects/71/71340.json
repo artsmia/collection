@@ -1,14 +1,14 @@
 {
   "accession_number": "P.75.51.138",
   "artist": "Artist: Utagawa Kunisada; Publisher: Yamamotoya Heikichi",
-  "catalogue_raissonne": "S0807-001",
+  "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1851",
+  "dated": "c. 1851, 4th month",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "8 7/8 × 13 7/16 in. (22.5 × 34.1 cm) (image, horizontal ōban)",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 1975,
   "image_width": 2776,
-  "inscription": "names of the characters in the scen written in the boxes from right to left: {ryo_shi Do_hachi} (The Fisherman Do_hachi) | {ryo_shi Namishichi} (The Fisherman Namishichi) | {Untenbo_} (Monk Unten) | {Terute hime} (Princess Terute)",
+  "inscription": "漁師銅八 {ryōshi Dōhachi} (fisherman Dōhachi) | 漁師浪七 {ryōshi Namishichi} (fisherman Namishichi) | 運天坊 {Untenbō} (monk Unten) | てる手姫 {Terute hime} (Princess Terute)",
   "life_date": "Japanese, 1786 - 1865",
-  "markings": "censor seals: {Watanabe} | {Mera} | publisher\\'s seal: {Yamamotoya} | [unknown, unidentified seal]",
+  "markings": "censor seals: 渡邊 {Watanabe} | 米良 {Mera} | publisher\\'s seal: {Yamamotoya} | シタ賣",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -28,12 +28,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G226",
   "see_also": [
     ""
   ],
   "signed": "in toshidama cartouche: 豊國画 {Toyokuni ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Scene of Namishichi Committing Suicide from the Story \"Oguri gaiden\""
+  "text": "Actors Nakayama Ichizō as the fisherman Dōhachi, Ichikawa Kodanji IV as the fisherman Namishichi, Arashi Otohachi III as the monk Unten, and Onoe Kikujirō II as Princess Terute in the play Worldly Flowers, an Oguri Anecdote (Sekai no hana Oguri gaiden 世界花小栗外伝), performed at the Nakamura Theater in the 4th month of 1851.",
+  "title": "Scene of the Devoted Namishichi Committing Suicide from the Play \"Oguri Anecdote\""
 }

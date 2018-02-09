@@ -13,10 +13,10 @@
   "description": "three fishing boats on a shore with scattered shells and seaweed and a frothy, low tide; two small birds are perched atop middle boat",
   "dimension": "67 × 143 1/4 in. (170.18 × 363.86 cm) (image)\r\n68 1/2 × 144 3/4 × 5/8 in. (173.99 × 367.67 × 1.59 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/123855",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5153,
+  "image_width": 10819,
   "inscription": "Seal",
   "life_date": "Japanese",
   "markings": "Red, circular seal in LLC of panel 1",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Fishermen"
+  "title": "Fishermen [left of a pair]"
 }

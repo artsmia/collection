@@ -13,10 +13,10 @@
   "description": "oval board with horizontal lines of script on each side; grid on each side with characters in boxes; mounted to black base",
   "dimension": "26 1/4 × 8 1/4 × 1/4 in. (66.68 × 20.96 × 0.64 cm) (without base)\r\n26 1/2 × 8 1/4 × 3 1/2 in. (67.31 × 20.96 × 8.89 cm) (with base)",
   "id": "http://api.artsmia.org/objects/125909",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 10014,
+  "image_width": 5372,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -28,7 +28,7 @@
   "restricted": 1,
   "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G254",
   "see_also": [
     ""
   ],
