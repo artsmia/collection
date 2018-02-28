@@ -5,24 +5,11 @@
   "exhibition_description": null,
   "begin": 2018,
   "end": 2019,
-  "display_date": "Friday, October 19, 2018 - Sunday, June 30, 2019",
+  "display_date": "Sunday, October 21, 2018 - Sunday, May 05, 2019",
   "public_info": 0,
   "objects": [
     1390,
     99122
   ],
-  "venues": [
-    {
-      "venue": "Musée de Montmartre",
-      "begin": 2018,
-      "end": 2019,
-      "display_date": "Friday, October 19, 2018 - Sunday, June 30, 2019"
-    },
-    {
-      "venue": "Nova Southeastern University Art Museum",
-      "begin": 2018,
-      "end": 2019,
-      "display_date": "Friday, October 19, 2018 - Sunday, June 30, 2019"
-    }
-  ]
+  "venues": []
 }
