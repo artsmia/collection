@@ -10,5 +10,12 @@
   "objects": [
     1627
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum Ludwig",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Tuesday, September 18, 2007 - Sunday, November 04, 2007"
+    }
+  ]
 }
