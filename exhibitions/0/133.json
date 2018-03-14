@@ -10,5 +10,12 @@
   "objects": [
     2607
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Monday, August 24, 1992 - Friday, October 15, 1993"
+    }
+  ]
 }

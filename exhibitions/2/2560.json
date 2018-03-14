@@ -16,5 +16,12 @@
     10024,
     22510
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Whitney Museum of American Art",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Friday, March 02, 2018 - Sunday, June 10, 2018"
+    }
+  ]
 }

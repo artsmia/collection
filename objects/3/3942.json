@@ -7,10 +7,10 @@
   "country": "United States",
   "creditline": "Gift of the Minneapolis Foundation",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1984",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Three nighttime aerial views of downtown Minneapolis.",
   "dimension": "20 x 20 in. (50.8 x 50.8 cm) (left panel)\r\n20 x 24 in. (50.8 x 60.96 cm) (center panel)\r\n20 x 20 in. (50.8 x 50.8 cm) (right panel)\r\n20 x 64 in. (50.8 x 162.56 cm) (triptych)",
   "id": "http://api.artsmia.org/objects/3942",
   "image": "valid",
@@ -22,9 +22,9 @@
   "markings": "",
   "medium": "Pastel on paper, triptych",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Drawing",
   "portfolio": "From ",
-  "provenance": "Minneapolis \r\nMinneapolis Foundation",
+  "provenance": "Minneapolis Foundation; given to MIA, 1990.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -35,5 +35,5 @@
   "signed": "LR left panel: [Y.J.] LR center panel: [Jacquette] LR right panel: [Y.J.]",
   "style": "20th century",
   "text": "",
-  "title": "Three Views of Minneapolis"
+  "title": "Three Night Views of Minneapolis"
 }
