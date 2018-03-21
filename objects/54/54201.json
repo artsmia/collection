@@ -1,13 +1,13 @@
 {
   "accession_number": "P.71.180",
-  "artist": "Artist: Robert Ryman",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Robert Ryman; Publisher: Nova Scotia College of Art and Design, Halifax, Canada",
+  "catalogue_raissonne": "Lithography Workshop, NSCAD 158",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1971",
   "department": "Prints and Drawings",
   "description": "",
@@ -19,10 +19,10 @@
   "image_width": "",
   "inscription": "Signature; Mark\r\n\r\nsee Signed",
   "life_date": "American, born 1930",
-  "markings": "chop: 2 R\\'s back to back",
+  "markings": "Inscribed, in pencil, lower right: 2/50\r\nPrinter\\'s drystamp, lower right\r\nChopmark: 2 R\\'s back to back\r\n",
   "medium": "Color lithograph",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: [Ryman]",
+  "signed": "Signed and dated, in pencil, lower left: Ryman 71",
   "style": "20th century",
   "text": "",
   "title": "Circle Lithograph"
