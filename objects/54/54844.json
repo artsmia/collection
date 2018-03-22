@@ -1,7 +1,7 @@
 {
   "accession_number": "P.13,976",
   "artist": "Artist: Allen Jones; Publisher: Editions Alecto, London",
-  "catalogue_raissonne": "Lloyd 24b",
+  "catalogue_raissonne": "Lloyd 24b; Sidey 501",
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
@@ -22,9 +22,9 @@
   "markings": "chop mark",
   "medium": "Color lithograph",
   "nationality": "British",
-  "object_name": null,
-  "portfolio": "From From the series Concerning Marriages",
-  "provenance": "[AAA, New York]",
+  "object_name": "Print",
+  "portfolio": "From Concerning Marriages: A Portfolio of Eight Lithographs",
+  "provenance": "(Associated American Artists, New York); sold to MIA, 1967.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: Allen Jones",
+  "signed": "in pencil, LR: Allen Jones",
   "style": "20th century",
   "text": "",
-  "title": "Plate 2, from \"Concerning Marriages\""
+  "title": "Plate 2 (Headless Couple), from \"Concerning Marriages\""
 }

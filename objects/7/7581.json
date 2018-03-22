@@ -1,7 +1,7 @@
 {
   "accession_number": "P.80.24.4",
-  "artist": "Artist: Allen Jones",
-  "catalogue_raissonne": "Lloyd 37c",
+  "artist": "Artist: Allen Jones; Printer: Tamarind Lithography Workshop, Los Angeles (now Albuquerque, N.M.); Printer: Kinji Akagawa; Publisher: Editions Alecto, London",
+  "catalogue_raissonne": "Lloyd 37c; Sidey 516",
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
@@ -19,12 +19,12 @@
   "image_width": 3234,
   "inscription": "Signature; Mark",
   "life_date": "British, born 1937",
-  "markings": "Watermark: <Arches> \r\nchop marks: 2 seen\r\nW/P: Tamarind, Akagawa\r\nP/E: Akagawa Printers Proof, recto : Bon á tirer\r\nACJ- 1st colour\r\n         2nd colour\r\n         3rd colour\r\n         4th colour",
+  "markings": "Watermark: <Arches> \r\nTamarind Workshop and  Akagawa chops\r\nP/E: Akagawa Printers Proof, recto : Bon á tirer\r\nACJ- 1st colour\r\n         2nd colour\r\n         3rd colour\r\n         4th colour",
   "medium": "Color lithograph",
   "nationality": "British",
   "object_name": "Print",
-  "portfolio": "From London Bus Suite",
-  "provenance": "Kinji Akagawa, Minneapolis",
+  "portfolio": "From A Fleet of Buses",
+  "provenance": "Kinji Akagawa, Minneapolis; sold to MIA, 1980.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: [Allen Jones]",
+  "signed": "in pencil: Allen Jones 66",
   "style": "20th century",
   "text": "",
-  "title": "Plate C"
+  "title": "Plate 3 from \"A Fleet of Buses\""
 }
