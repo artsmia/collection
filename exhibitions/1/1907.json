@@ -1,0 +1,36 @@
+{
+  "exhibition_id": 1907,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Asobi: Play in the Arts of Japan",
+  "exhibition_description": null,
+  "begin": 1992,
+  "end": 1993,
+  "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993",
+  "public_info": 0,
+  "objects": [
+    37185,
+    122492,
+    122496,
+    123100
+  ],
+  "venues": [
+    {
+      "venue": "Katonah Museum of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993"
+    },
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993"
+    },
+    {
+      "venue": "San Antonio Museum of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993"
+    }
+  ]
+}
