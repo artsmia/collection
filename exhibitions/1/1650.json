@@ -10,5 +10,24 @@
   "objects": [
     6239
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée du Luxembourg",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015"
+    },
+    {
+      "venue": "National Gallery",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015"
+    }
+  ]
 }
