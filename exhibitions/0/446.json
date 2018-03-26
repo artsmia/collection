@@ -13,18 +13,5 @@
     26900,
     27081
   ],
-  "venues": [
-    {
-      "venue": "Arizona Historical Society",
-      "begin": 2002,
-      "end": 2002,
-      "display_date": "Friday, February 08, 2002 - Sunday, September 01, 2002"
-    },
-    {
-      "venue": "Museum of Indian Arts and Culture",
-      "begin": 2002,
-      "end": 2002,
-      "display_date": "Friday, February 08, 2002 - Sunday, September 01, 2002"
-    }
-  ]
+  "venues": []
 }
