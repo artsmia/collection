@@ -1,0 +1,31 @@
+{
+  "exhibition_id": 1978,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Art of Japan: Selections from the Burke Collection",
+  "exhibition_description": null,
+  "begin": 1986,
+  "end": 1986,
+  "display_date": "Thursday, October 02, 1986 - Sunday, December 07, 1986",
+  "public_info": 0,
+  "objects": [
+    6654,
+    99427,
+    122070,
+    122099,
+    122103,
+    122159,
+    122160,
+    122182,
+    122352,
+    122423,
+    122427
+  ],
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 1986,
+      "end": 1986,
+      "display_date": "Thursday, October 02, 1986 - Sunday, December 07, 1986"
+    }
+  ]
+}
