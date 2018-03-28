@@ -10,5 +10,12 @@
   "objects": [
     22510
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Davenport Art Museum",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Tuesday, November 07, 1995 - Friday, January 31, 1997"
+    }
+  ]
 }
