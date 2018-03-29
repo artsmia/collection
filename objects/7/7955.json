@@ -1,6 +1,6 @@
 {
   "accession_number": "P.98.8",
-  "artist": "Artist: Carrie Mae Weems",
+  "artist": "Artist: Carrie Mae Weems; Printer: Renaissance Press, Ashuelot, New Hampshire; Publisher: Beta Press, Seattle",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -17,14 +17,14 @@
   "image_copyright": "© Carrie Mae Weems",
   "image_height": 5725,
   "image_width": 10148,
-  "inscription": "Signature; Date; Edition\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL margin: [7/35]",
+  "inscription": "\r\n\r\n",
   "life_date": "American, born 1953",
-  "markings": "",
-  "medium": "Photogravure",
+  "markings": "Numbered in pencil, LR: 7/35\r\n\r\nPublisher\\'s blindstamp, LRC: B / BETA / PRESS",
+  "medium": "Photogravure on paper",
   "nationality": "American",
-  "object_name": "Print, triptych",
-  "portfolio": "From Africa Series",
-  "provenance": "Crown Point Press, San Francisco (publisher); sold to MIA, 1998.",
+  "object_name": "Print",
+  "portfolio": "From ",
+  "provenance": "Crown Point Press, San Francisco; sold to MIA, 1998.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "in graphite, LR: [Carrie M Weems - 1996]",
+  "signed": "Signed and dated in pencil, LR: Carrie M Weems - 1996",
   "style": "20th century",
   "text": "",
-  "title": "The Shape of Things, from the Africa Series"
+  "title": "Untitled (The Shape of Things)"
 }
