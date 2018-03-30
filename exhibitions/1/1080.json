@@ -10,5 +10,12 @@
   "objects": [
     3710
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1989,
+      "end": 1989,
+      "display_date": "Wednesday, September 06, 1989 - Sunday, December 31, 1989"
+    }
+  ]
 }
