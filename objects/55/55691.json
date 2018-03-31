@@ -1,7 +1,7 @@
 {
   "accession_number": "P.2,223",
   "artist": "Artist: Henri-Charles Guérard",
-  "catalogue_raissonne": "Beraldi 212;\r\nBertin 45",
+  "catalogue_raissonne": "Beraldi 212; Bertin 45",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -20,9 +20,9 @@
   "inscription": "",
   "life_date": "French, 1846 - 1897",
   "markings": "",
-  "medium": "Etching, drypoint",
+  "medium": "Etching and drypoint",
   "nationality": "French",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "Beraldi collection; Barrion collection",
   "restricted": 0,
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Self Portrait"
+  "title": "Self-portrait"
 }
