@@ -10,5 +10,12 @@
   "objects": [
     1830
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée d'Orsay",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Monday, April 11, 2005 - Sunday, July 03, 2005"
+    }
+  ]
 }
