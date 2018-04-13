@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2610,
+  "exhibition_department": "Japanese and Korean Art",
+  "exhibition_title": "Itō Jakuchū",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2019,
+  "display_date": "Tuesday, March 26, 2019 - Monday, May 06, 2019",
+  "public_info": 0,
+  "objects": [
+    8620,
+    117375,
+    117376,
+    118095,
+    122253,
+    122254,
+    123814
+  ],
+  "venues": [
+    {
+      "venue": "Fukushima Museum",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Tuesday, March 26, 2019 - Monday, May 06, 2019"
+    }
+  ]
+}

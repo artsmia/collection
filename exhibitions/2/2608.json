@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2608,
+  "exhibition_department": "Paintings",
+  "exhibition_title": "Bouguereau and America",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2019,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    2135
+  ],
+  "venues": [
+    {
+      "venue": "Memphis Brooks Museum of Art",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": null
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": null
+    }
+  ]
+}
