@@ -1,7 +1,7 @@
 {
   "accession_number": "P.90.35.10",
-  "artist": "Artist: Marc Chagall; Author: Nikolai Gogol; Publisher: Tériade, Paris, France",
-  "catalogue_raissonne": "\"Artist and the Book\" 50",
+  "artist": "Artist: Marc Chagall; Author: Nikolai Gogol; Printer: Louis Fort, Paris, France; Publisher: Tériade, Paris, France",
+  "catalogue_raissonne": "\"Artist and the Book\" 50; Cramer (books) 17",
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
@@ -10,7 +10,7 @@
   "curator_approved": 1,
   "dated": "1927 (published 1948)",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Plate from \"Les Âmes mortes\"",
   "dimension": "11 1/4 x 8 7/8 in. (28.58 x 22.54 cm) (plate)\r\n14 5/8 x 10 7/8 in. (37.15 x 27.62 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/42988",
   "image": "invalid",
@@ -18,13 +18,13 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "Belarusian, 1887 - 1985",
+  "life_date": "Russian (born Belarus, active France), 1887 - 1985",
   "markings": "",
   "medium": "Etching",
-  "nationality": "Belarusian",
+  "nationality": "Russian (born Belarus, active France)",
   "object_name": "Print",
-  "portfolio": "From ",
-  "provenance": "Allen Brookins-Brown, Minneapolis",
+  "portfolio": "From Les Âmes mortes (Dead Souls), Paris, Tériade, 1948",
+  "provenance": "Allen Brookins-Brown, Minneapolis; given to MIA, 1990.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Manilov, plate from \"Les ames mortes\""
+  "title": "Manilov"
 }
