@@ -10,18 +10,5 @@
   "objects": [
     2135
   ],
-  "venues": [
-    {
-      "venue": "Memphis Brooks Museum of Art",
-      "begin": 2019,
-      "end": 2019,
-      "display_date": null
-    },
-    {
-      "venue": "Milwaukee Art Museum",
-      "begin": 2019,
-      "end": 2019,
-      "display_date": null
-    }
-  ]
+  "venues": []
 }
