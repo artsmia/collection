@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1975,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "A Feast for the Senses: Art and Experience in Medieval Europe",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2017,
+  "display_date": "Saturday, October 15, 2016 - Sunday, April 30, 2017",
+  "public_info": 0,
+  "objects": [
+    109
+  ],
+  "venues": [
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, October 15, 2016 - Sunday, April 30, 2017"
+    },
+    {
+      "venue": "Walters Art Museum",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, October 15, 2016 - Sunday, April 30, 2017"
+    }
+  ]
+}
