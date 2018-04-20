@@ -10,5 +10,12 @@
   "objects": [
     2242
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunstmuseum Stuttgart",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, December 01, 2007 - Sunday, April 06, 2008"
+    }
+  ]
 }
