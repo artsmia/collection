@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1405,
+  "exhibition_department": "Paintings",
+  "exhibition_title": "German Expressionism and France: From Van Gogh and Gauguin to the Blue Rider",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2014,
+  "display_date": "Friday, February 07, 2014 - Sunday, September 14, 2014",
+  "public_info": 0,
+  "objects": [
+    772
+  ],
+  "venues": [
+    {
+      "venue": "Kunsthaus Zürich",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Friday, February 07, 2014 - Sunday, September 14, 2014"
+    },
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Friday, February 07, 2014 - Sunday, September 14, 2014"
+    }
+  ]
+}
