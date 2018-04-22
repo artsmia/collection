@@ -26,5 +26,12 @@
     61279,
     61280
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Friday, March 08, 2002 - Sunday, May 19, 2002"
+    }
+  ]
 }
