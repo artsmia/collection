@@ -59,5 +59,12 @@
     83588,
     83589
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, December 13, 2003 - Sunday, April 11, 2004"
+    }
+  ]
 }

@@ -18,5 +18,12 @@
     62789,
     62790
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Rochester Art Center",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, May 19, 2007 - Sunday, August 26, 2007"
+    }
+  ]
 }
