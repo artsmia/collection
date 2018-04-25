@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1401,
+  "exhibition_department": null,
+  "exhibition_title": "Le Grand Atelier du Midi",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2013,
+  "display_date": "Thursday, June 13, 2013 - Sunday, October 13, 2013",
+  "public_info": null,
+  "objects": [
+    3058
+  ],
+  "venues": [
+    {
+      "venue": "Musée Granet",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Thursday, June 13, 2013 - Sunday, October 13, 2013"
+    }
+  ]
+}
