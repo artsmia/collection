@@ -10,5 +10,12 @@
   "objects": [
     1234
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Legion of Honor",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Saturday, June 01, 2013 - Sunday, October 13, 2013"
+    }
+  ]
 }

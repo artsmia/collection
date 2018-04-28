@@ -187,5 +187,12 @@
     114376,
     114377
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2012,
+      "end": 2012,
+      "display_date": "Sunday, February 19, 2012 - Sunday, May 13, 2012"
+    }
+  ]
 }
