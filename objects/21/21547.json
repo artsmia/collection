@@ -1,8 +1,8 @@
 {
   "accession_number": "77.53",
-  "artist": "Maker: Nishimura Goun",
+  "artist": "Artist: Nishimura Goun [obverse]; Artist: In the style of Mori Sosen [reverse]",
   "catalogue_raissonne": null,
-  "classification": " Paintings",
+  "classification": " Paintings; Textiles",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Given in memory of Henry Dutton Thrall",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "c. 1910",
   "department": "Japanese and Korean Art",
-  "description": "embroidery on silk; obverse: roosters in the fall rice harvest; reverse: monkeys in the cherry blossoms and the young monkeys beside the stream with crab and rushes; all heavily and beautifully embroidered lifelike; the title of old favorite fable Saru Kani Gakksen; in the style of Sosen",
+  "description": "obverse: roosters in the fall rice harvest; reverse: monkeys in the cherry blossoms and the young monkeys beside the stream with crab and rushes; all heavily and beautifully embroidered lifelike",
   "dimension": "70 1/4 x 110in. (178.4 x 279.4cm)",
   "id": "http://api.artsmia.org/objects/21547",
   "image": "invalid",
@@ -18,9 +18,9 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "Japanese, 1877 - 1938",
+  "life_date": "Japanese, 1747 - 1821",
   "markings": "",
-  "medium": "Ink and color on silk",
+  "medium": "Ink and color on silk [obverse]; embroidery on silk [reverse]",
   "nationality": "Japanese",
   "object_name": "Four-panel folding screen",
   "portfolio": "From ",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Four-panel folding screen"
+  "title": "Rooster and Hen in the Fall Rice Harvest [obverse]; Monkeys amidst Cherry Blossoms [reverse]"
 }
