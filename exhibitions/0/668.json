@@ -10,5 +10,12 @@
   "objects": [
     4035
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Monday, May 24, 2004 - Thursday, September 09, 2004"
+    }
+  ]
 }
