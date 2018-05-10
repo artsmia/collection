@@ -11,18 +11,5 @@
     28533,
     28536
   ],
-  "venues": [
-    {
-      "venue": "Denver Art Museum",
-      "begin": 2018,
-      "end": 2019,
-      "display_date": "Friday, September 14, 2018 - Sunday, August 25, 2019"
-    },
-    {
-      "venue": "Milwaukee Art Museum",
-      "begin": 2018,
-      "end": 2019,
-      "display_date": "Friday, September 14, 2018 - Sunday, August 25, 2019"
-    }
-  ]
+  "venues": []
 }
