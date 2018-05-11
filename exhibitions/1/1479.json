@@ -10,5 +10,12 @@
   "objects": [
     17274
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "New Ulm High School Library",
+      "begin": 1950,
+      "end": 1950,
+      "display_date": "Wednesday, March 01, 1950 - Tuesday, March 14, 1950"
+    }
+  ]
 }
