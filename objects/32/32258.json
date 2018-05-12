@@ -2,7 +2,7 @@
   "accession_number": "99.241.3",
   "artist": "Maker: Lester Johnson",
   "catalogue_raissonne": null,
-  "classification": " Drawings",
+  "classification": " Drawings; Works on Paper",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Fay Gallus and Richard Sweet, M.D.",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "20th century",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "figural group",
   "dimension": "H.29-1/2 x W.20-5/8 in.",
   "id": "http://api.artsmia.org/objects/32258",
   "image": "invalid",
@@ -35,5 +35,5 @@
   "signed": "Signed, LR: Lester Johnson",
   "style": "20th century",
   "text": "",
-  "title": "Untitled [figural group]"
+  "title": "Untitled"
 }

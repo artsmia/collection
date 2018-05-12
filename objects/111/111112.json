@@ -1,6 +1,6 @@
 {
   "accession_number": "2010.94.1",
-  "artist": "Artist: David Hockney; Publisher: Gemini G.E.L., Los Angeles",
+  "artist": "Artist: David Hockney; Printer: Gemini G.E.L., Los Angeles; Publisher: Gemini G.E.L., Los Angeles",
   "catalogue_raissonne": "Gemini 918; Tokyo 239",
   "classification": " Prints",
   "continent": "Europe",
@@ -17,9 +17,9 @@
   "image_copyright": "© David Hockney %2F Gemini G.E..L.",
   "image_height": 4188,
   "image_width": 4997,
-  "inscription": "Signature; Date; Edition; Mark\r\n\r\nNumbered in pencil, LR: [23/74]",
+  "inscription": "\r\n\r\n",
   "life_date": "British, born 1937",
-  "markings": "GEL chop",
+  "markings": "Numbered in pencil, LR: 23/74\r\nPublisher\\'s blindstamp: (Gemini G.E.L.)",
   "medium": "Color lithograph",
   "nationality": "British",
   "object_name": "Print",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil, LL: [David Hockney 80]",
+  "signed": "Signed and dated in pencil, LL: David Hockney 80",
   "style": "20th century",
   "text": "",
   "title": "Celia in an Armchair"
