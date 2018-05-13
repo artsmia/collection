@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 915,
+  "exhibition_department": null,
+  "exhibition_title": "Exposition des Primitifs flamands et d'Art Ancien",
+  "exhibition_description": null,
+  "begin": 1902,
+  "end": 1902,
+  "display_date": "Sunday, June 15, 1902 - Monday, September 15, 1902",
+  "public_info": null,
+  "objects": [
+    4035
+  ],
+  "venues": [
+    {
+      "venue": "Hotel Gruuthuuse",
+      "begin": 1902,
+      "end": 1902,
+      "display_date": "Sunday, June 15, 1902 - Monday, September 15, 1902"
+    }
+  ]
+}
