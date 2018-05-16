@@ -1,0 +1,38 @@
+{
+  "exhibition_id": 2565,
+  "exhibition_department": "Japanese and Korean Art",
+  "exhibition_title": "Kabuki",
+  "exhibition_description": null,
+  "begin": 0,
+  "end": 0,
+  "display_date": null,
+  "public_info": 1,
+  "objects": [
+    2001,
+    8169,
+    8179,
+    8253,
+    8554,
+    8597,
+    8602,
+    8636,
+    8638,
+    8699,
+    8740,
+    22562,
+    60301,
+    63392,
+    63462,
+    66234,
+    67494,
+    118395
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 0,
+      "end": 0,
+      "display_date": null
+    }
+  ]
+}
