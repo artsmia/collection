@@ -18,5 +18,30 @@
     10212,
     10213
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Montreal Museum of Fine Arts",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "January 23, 2018 through June 30, 2019"
+    },
+    {
+      "venue": "Musee national du Chateau de Fontainebleau",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "January 23, 2018 through June 30, 2019"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "January 23, 2018 through June 30, 2019"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "January 23, 2018 through June 30, 2019"
+    }
+  ]
 }
