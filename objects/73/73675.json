@@ -1,6 +1,6 @@
 {
   "accession_number": "P.17,320",
-  "artist": "Artist: after James Ramsey; Engraver: F. Bacon",
+  "artist": "Artist: after James Ramsey; Engraver: Frederick Bacon; Publisher: Robert Turner, Newcastle upon Tyne",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -8,9 +8,9 @@
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 0,
-  "dated": "19th century",
+  "dated": "early 19th century",
   "department": "Prints and Drawings",
-  "description": "black and white",
+  "description": "Portrait of British artist and naturalist Thomas Bewick (1753-1828).",
   "dimension": "8 7/8 x 6 in. (22.54 x 15.24 cm) (plate)",
   "id": "http://api.artsmia.org/objects/73675",
   "image": "invalid",
@@ -18,10 +18,10 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "English, 1803 - 1887",
+  "life_date": "British, 1803 - 1887",
   "markings": "",
   "medium": "Engraving",
-  "nationality": null,
+  "nationality": "British",
   "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Portrait. Thomas Bewick"
+  "title": "Thomas Bewick"
 }
