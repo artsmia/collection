@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1006,
+  "exhibition_department": null,
+  "exhibition_title": "Masterpieces of Art",
+  "exhibition_description": null,
+  "begin": 1939,
+  "end": 1940,
+  "display_date": "Sunday, April 30, 1939 - Sunday, October 27, 1940",
+  "public_info": null,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "New York World's Fair",
+      "begin": 1939,
+      "end": 1940,
+      "display_date": "Sunday, April 30, 1939 - Sunday, October 27, 1940"
+    }
+  ]
+}
