@@ -10,5 +10,12 @@
   "objects": [
     517
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Portland Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": "Thursday, June 29, 1995 - Sunday, October 15, 1995"
+    }
+  ]
 }
