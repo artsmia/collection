@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1436,
+  "exhibition_department": null,
+  "exhibition_title": "Saint John's University 1966",
+  "exhibition_description": null,
+  "begin": 1966,
+  "end": 1966,
+  "display_date": "Thursday, April 28, 1966 - Thursday, June 30, 1966",
+  "public_info": null,
+  "objects": [
+    18345
+  ],
+  "venues": [
+    {
+      "venue": "Saint John's University",
+      "begin": 1966,
+      "end": 1966,
+      "display_date": "Thursday, April 28, 1966 - Thursday, June 30, 1966"
+    }
+  ]
+}
