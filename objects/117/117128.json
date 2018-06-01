@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 1024,
   "image_width": 213,
-  "inscription": "Inscription:(Three generations past, Now my boat is traveling the mist)",
+  "inscription": "{?} (Three generations past, Now my boat is traveling the mist)",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "center",
+  "markings": "center {?}",
   "medium": "Ink on silk",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "center: はりつ",
+  "signed": "center: はりつ {Haritsu}",
   "style": "20th century",
   "text": "",
   "title": "Fishing on Bamboo Rod"

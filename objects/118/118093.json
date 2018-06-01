@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 9068,
   "image_width": 2022,
-  "inscription": "夏に入りてまたるるものは苺可な",
+  "inscription": "夏に入りてまたるるものは苺可な {?}",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "onion shaped relief below inscription",
+  "markings": "onion shaped relief below inscription {?}",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "object_name": "Poem-slip (tanzaku)",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "lower center: [Haritsu]",
+  "signed": "lower center: {Haritsu}",
   "style": "20th century",
   "text": "",
   "title": "Poem-slip (tanzaku)"
