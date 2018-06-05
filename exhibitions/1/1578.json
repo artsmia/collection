@@ -10,5 +10,24 @@
   "objects": [
     6359
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015"
+    },
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015"
+    }
+  ]
 }
