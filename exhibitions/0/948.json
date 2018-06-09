@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 948,
+  "exhibition_department": null,
+  "exhibition_title": "Dutch Masterpieces",
+  "exhibition_description": null,
+  "begin": 1945,
+  "end": 1945,
+  "display_date": "Monday, January 01, 1945 - Monday, December 31, 1945",
+  "public_info": null,
+  "objects": [
+    731
+  ],
+  "venues": [
+    {
+      "venue": "Wadsworth Atheneum Museum of Art",
+      "begin": 1945,
+      "end": 1945,
+      "display_date": "Monday, January 01, 1945 - Monday, December 31, 1945"
+    }
+  ]
+}
