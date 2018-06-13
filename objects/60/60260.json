@@ -1,7 +1,7 @@
 {
   "accession_number": "2001.254.9.9",
   "artist": "Artist: Jacques Callot",
-  "catalogue_raissonne": "Lieure 1339-1356 iii/iii",
+  "catalogue_raissonne": "Lieure 1339-1356 iii/iii\r\nL.1347",
   "classification": " Prints",
   "continent": null,
   "country": "France",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1633",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "From a set of 18 etchings",
   "dimension": "3 9/16 x 7 5/8 in. (9.05 x 19.37 cm) (sheet, trimmed within platemark, each, approximate)",
   "id": "http://api.artsmia.org/objects/60260",
   "image": "valid",
@@ -23,7 +23,7 @@
   "medium": "Etching",
   "nationality": "French",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": "From Les Grandes Misères de la Guerre",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "17th century",
   "text": "",
-  "title": "Les Grandes Misères de la Guerre, from a set of 18 etchings"
+  "title": "Découverte des malfaiteurs"
 }

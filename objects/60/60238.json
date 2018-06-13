@@ -1,7 +1,7 @@
 {
   "accession_number": "2001.254.2.3",
   "artist": "Artist: Jacques Callot",
-  "catalogue_raissonne": "Lieure 281-287",
+  "catalogue_raissonne": "Lieure 283 i/ii",
   "classification": " Prints",
   "continent": null,
   "country": "France",
@@ -10,7 +10,7 @@
   "curator_approved": 0,
   "dated": "1618",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Set of seven etchings",
   "dimension": "4 1/2 x 8 1/2 in. (11.43 x 21.59 cm) (plate, each, approximate)\r\n5 1/4 x 9 in. (13.34 x 22.86 cm) (sheet, each, approximate)",
   "id": "http://api.artsmia.org/objects/60238",
   "image": "invalid",
@@ -23,7 +23,7 @@
   "medium": "Etching",
   "nationality": "French",
   "object_name": null,
-  "portfolio": "From ",
+  "portfolio": "From La Grand Passion",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "17th century",
   "text": "",
-  "title": "La Grande Passion, from a set of seven etchings"
+  "title": "La condamnation à mort"
 }
