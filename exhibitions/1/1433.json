@@ -11,5 +11,12 @@
     18158,
     18345
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1958,
+      "end": 1958,
+      "display_date": "Wednesday, October 29, 1958 - Tuesday, December 02, 1958"
+    }
+  ]
 }
