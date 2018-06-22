@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1403,
+  "exhibition_department": null,
+  "exhibition_title": "Second Annual Exhibition of Painting",
+  "exhibition_description": null,
+  "begin": 1947,
+  "end": 1948,
+  "display_date": "Wednesday, November 19, 1947 - Sunday, January 04, 1948",
+  "public_info": null,
+  "objects": [
+    10513
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco",
+      "begin": 1947,
+      "end": 1948,
+      "display_date": "Wednesday, November 19, 1947 - Sunday, January 04, 1948"
+    }
+  ]
+}
