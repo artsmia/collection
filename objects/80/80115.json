@@ -1,8 +1,8 @@
 {
   "accession_number": "B.67.1dup",
-  "artist": "Artist: Edward Coley Burne-Jones; Artist: William Morris; Publisher: Kelmscott Press; Printer: William Morris at Kelmscott Press",
-  "catalogue_raissonne": "Garvey #45; Ray #258; V & A 9",
-  "classification": " Books",
+  "artist": "Author: Geoffrey Chaucer; Designer: William Morris; Designer: Edward Coley Burne-Jones; Engraver: Wood engravings by William Harcourt Harcourt Hooper; Editor: Frederick S. Ellis; Printer: William Morris at Kelmscott Press, Hammersmith, England; Publisher: Kelmscott Press, Hammersmith, England",
+  "catalogue_raissonne": "Franklin, p.192; Sparling 40; Tomkinson 40; PMM 367; Huntington Library (Great Books in Great Editions) 24; Needham 101A; Peterson A40; Ransom (Private Presses) 40; Garvey 45; Ray 258; Walsdorf 40;  V & A 9",
+  "classification": " Prints; Books",
   "continent": "Europe",
   "country": "England",
   "creditline": "The Frank P. Leslie Collection, Gift of Mr. and Mrs. Frank P. Leslie in memory of Mr. and Mrs. John Leslie",
@@ -10,8 +10,8 @@
   "curator_approved": 1,
   "dated": "1896",
   "department": "Prints and Drawings",
-  "description": "wood-engraved ornamental borders and initial letters by William Morris; binding: blue laid paper on hard support, with beige cloth spine; endpapers: laid paper; slip case: dark green cloth on firm support",
-  "dimension": "17 x 12 x 2 5/8 in. (43.18 x 30.48 x 6.67 cm)",
+  "description": "Royal folio. Perch paper. Leaf size: 425 x 292 mm. 87 woodcut illustrations after Sir Edward Burne-Jones, redrawn by Robert Catterson-Smith and cut by W. H. Hooper, woodcut title-page, 14 variously repeated full-page woodcut borders on 117 pages, 18 variously repeated woodcut frames around illustrations, 26 19-line woodcut initial words, numerous three-, six-, and ten-line and smaller woodcut initial letters, and woodcut printer’s device, all designed by William Morris and cut by C. E. Keates, W. H. Hooper, and W. Spielmeyer. Printed in black and red in Chaucer type, the titles of longer poems printed in Troy type. Double columns. Edited by F. S. Ellis. Printing completed: 8 May 1896. Published: 20 June 1896. Collation: 2°: a4 b-c4 d8 (±d.4.5) e-l8 [m]8 n-2m8 2n6. 282 leaves, pp. [4] [i] ii [2] [=8] [1] 2-554 [2] [=556]. Covers: blue paper and half Holland, with beige linen spine with paper label affixed; endpapers: laid paper; slip case: dark green buckram over boards with felt interior, red leather labels with gold-tooled lettering.",
+  "dimension": "17 x 12 x 2 5/8 in. (43.18 x 30.48 x 6.67 cm) (closed)",
   "id": "http://api.artsmia.org/objects/80115",
   "image": "valid",
   "image_copyright": "",
@@ -24,7 +24,7 @@
   "nationality": "British",
   "object_name": "Illustrated book",
   "portfolio": "From ",
-  "provenance": "Frank P. Leslie, Wayzata, Minn.; given to MIA, 1967.\r\n\r\nMr. Leslie bought this book in London for $500 in response to a request by Princeton University Library. In the meantime, they were given a copy so they did not need Mr. Leslie's copy. He therefore gave $1000 to Princeton to go toward a student center. . .\"a project Jim '52 was promoting.\"\r\n\r\n[This information was taken from a statement by Mr. Leslie in a document entitled \"Exhibit A\". A copy of this document is in the Leslie family file in the Prints and Drawings department, as well in the MIA library.]\r\n\r\n",
+  "provenance": "(Sold to Leslie by unknown vendor, London, England, c. 1952); Frank P. Leslie, Wayzata, Minn.. c. 1952-67; given to MIA, 1967.\r\n\r\n\r\n\r\n",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -35,5 +35,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "The Works of Geoffrey Chaucer"
+  "title": "The Works of Geoffrey Chaucer, now newly imprinted"
 }
