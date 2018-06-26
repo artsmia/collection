@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 2590,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "William J. Glackens and Pierre-Auguste Renoir: Affinities and Distinctions",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Sunday, October 21, 2018 - Saturday, September 21, 2019",
+  "public_info": 0,
+  "objects": [
+    1390,
+    99122,
+    120518
+  ],
+  "venues": [
+    {
+      "venue": "Hunter Museum of American Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, October 21, 2018 - Saturday, September 21, 2019"
+    },
+    {
+      "venue": "Nova Southeastern University Art Museum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, October 21, 2018 - Saturday, September 21, 2019"
+    }
+  ]
+}

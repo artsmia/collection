@@ -1,13 +1,13 @@
 {
   "accession_number": "2003.213.12",
-  "artist": "Artist: David True",
+  "artist": "Artist: David True; Publisher: Crown Point Press, San Francisco",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": null,
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Curatorial Council",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1985",
   "department": "Prints and Drawings",
   "description": "torso, PL leg and portions of PR leg and arms, running; black torso with white speckles on greyish ground with black speckles",
@@ -19,10 +19,10 @@
   "image_width": "",
   "inscription": "Signature, date and edition",
   "life_date": "American, born 1942",
-  "markings": "LLC, below image, in pencil: [8/10]",
-  "medium": "Etching and aquatint",
+  "markings": "LLC, below image, in pencil: 8/10",
+  "medium": "Aquatint",
   "nationality": null,
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LRC, below image, in pencil: [David True \\'85]",
+  "signed": "LRC, below image, in pencil: David True \\'85",
   "style": "20th century",
   "text": "",
   "title": "Roaming Swiftly, Knowing Quickly"
