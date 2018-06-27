@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "first half 20th century",
   "department": "Japanese and Korean Art",
   "description": "one long line of writing, with a couple of connecting characters and long lines; two bands of gold flecks, one at top and one near bottom; signature at LRC",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 5685,
   "image_width": 933,
-  "inscription": "{Omoshiroki / hito nite arishi / tama matsuri} (Fascinating - / a person known for a long time / Spirit Festival) [Stephen Addiss]",
+  "inscription": "おもしろき人にてありし球祭 {Omoshiroki / hito nite arishi / tama matsuri} (Fascinating - / a person known for a long time / Spirit Festival) [Stephen Addiss]",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "on back, LL edge, in Japanese {?}; and on cardboard insert, Japanese inscriptions on front and back {?}",
+  "markings": "",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "object_name": "Poem-slip (tanzaku)",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "LRC {?}",
+  "signed": "LRC: はりつ {Haritsu}",
   "style": "20th century",
   "text": "",
-  "title": "Spirit Festival Haiku"
+  "title": "Spirit Festival"
 }

@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "first half 20th century",
   "department": "Japanese and Korean Art",
   "description": "thin, wispy stems explode into dense, voluminous sprays of pointed bamboo leaves; three stalks at bottom extend towards center; two other stalks begin near center and blossom at upper edge; inscription along LL; four total seals",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "我笔一揮戞然玉鳴非蘆非麻紙上有聲 {?}",
+  "inscription": "我筆一揮戞然玉鳴非蘆非麻紙上有聲 {?}",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "ULQ, square intaglio {?}; center, L edge, oval relief {?}; LLQ, square intaglio {?}; LLC, square relief {?}",
+  "markings": "UL red seal: 我君〇〇〇〇 [unread #1]; poem ULC red seal: 无心 {mushin} [mushin #2]; LL red seals: 福田世耕 {Fukuda Seikō} [Fukuda Seikō #1], 静處 {seisho} [seisho #1]",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "bottom left: 古道人{Kodōjin}",
+  "signed": "LLC: 古道人{Kodōjin}",
   "style": "20th century",
   "text": "",
-  "title": "Leafy Bamboo"
+  "title": "Ink Bamboo"
 }

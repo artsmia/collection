@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "first half 20th century",
   "department": "Japanese and Korean Art",
   "description": "one-line inscription center; cucumber, persimmon, and two red chilies at bottom",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "center {?}",
+  "inscription": "〇〇〇〇〇味",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "L edge {?}",
+  "markings": "LL red seals: 静 {sei} [sei #2], 處 {sho} [sho #2]",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "L edge: 古人｛Kojin｝",
+  "signed": "LL: 古人｛Kojin｝",
   "style": "20th century",
   "text": "",
-  "title": "Uri, Eggplant and Red Chili Peppers (Haiga)"
+  "title": "Uri, Eggplant and Red Chili Peppers"
 }

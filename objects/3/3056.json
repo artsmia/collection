@@ -1,16 +1,16 @@
 {
   "accession_number": "82.19",
-  "artist": "",
+  "artist": "Artist: Unknown , Italian, 18th century",
   "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Putnam Dana McMillan Fund",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1780–1790",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Neoclassical designs for interior walls and furniture",
   "dimension": "24 x 23 1/8 in. (61 x 58.7 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/3056",
   "image": "invalid",
@@ -19,12 +19,12 @@
   "image_width": "",
   "inscription": "",
   "life_date": null,
-  "markings": "",
-  "medium": "Graphite, pen, ink, and watercolor",
+  "markings": "WM: J HONIG & ZOONEN (Churchill 3344)\r\nWM: Beehive design (not recorded)",
+  "medium": "Graphite, pen and black ink, and watercolor on laid paper",
   "nationality": null,
-  "object_name": "Watercolor",
+  "object_name": "Drawing",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "(Sotheby's, London, Architectural and Ornamental Drawings, Part I, June 19, 1980, no. 31); (Hazlitt, Gooden & Fox, London); sold to MIA, 1982.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "None seen",
   "style": "18th century",
   "text": "",
-  "title": "Alternative Design for a Neoclassical Interior"
+  "title": "Alternative Designs for a Neoclassical Interior"
 }

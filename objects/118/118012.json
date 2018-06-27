@@ -2,12 +2,12 @@
   "accession_number": "2013.29.837",
   "artist": "Artist: Fukuda Kodōjin",
   "catalogue_raissonne": null,
-  "classification": " Paintings; Calligraphy",
+  "classification": " Paintings",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Elizabeth and Willard Clark",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "first half 20th century",
   "department": "Japanese and Korean Art",
   "description": "one long line of delicate, looping calligraphy at upper center; stalk with delicate foliage growing from bottom edge LRC; cluster of little red berries growing from branch",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
+  "inscription": "南天の〇〇〇〇〇",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "center, below signature, square intaglio {?}; tag attached to hanging ribbon: [No. 17]",
+  "markings": "LLC: 福田世耕 {Fukuda Seikō} [Fukuda Seikō #1]",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Center: 古人{Kojin}",
+  "signed": "LL: 古道人{Kodōjin}",
   "style": "20th century",
   "text": "",
-  "title": "Nanten Tree (Haiga)"
+  "title": "Nanten Tree"
 }

@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture; formerly given to the Center by Audrey Seo and Stephen Addiss",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "first half 20th century",
   "department": "Japanese and Korean Art",
   "description": "abstracted pine tree extending diagonally up the scroll from LL with bristly, pointed, downturned branches and bristles along trunk; red sun in upper center; hints of pale pink clouds in background",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 7617,
   "image_width": 1740,
-  "inscription": "R edge URQ: 天半朱霞気雲中白鶴飛 {?} (The vermilion mist breathes through half the sky; / The white crane flies amid the clouds.) [Stephen Addiss]",
+  "inscription": "URQ: 天半朱霞気雲中白鶴飛 {?} (The vermilion mist breathes through half the sky; / The white crane flies amid the clouds.) [Stephen Addiss]",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "LRC, rectangular intaglio {?}",
+  "markings": "LRC red seal: 古道 {Kodō} [Kodō 2]",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "LRC: 古道人 {Kodōjin}",
   "style": "20th century",
   "text": "",
-  "title": "Sun and Pine Tree"
+  "title": "Pine and Sun"
 }
