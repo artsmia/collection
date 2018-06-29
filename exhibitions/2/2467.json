@@ -460,5 +460,18 @@
     127061,
     127136
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, March 05, 2017 - Sunday, May 28, 2017"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, March 05, 2017 - Sunday, May 28, 2017"
+    }
+  ]
 }

@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "first half 20th century",
   "department": "Japanese and Korean Art",
   "description": "pot of glowing coals with billow of smoke; fan resting against side of pot; clusters of black dots within and slightly outside of smoke cloud; inscription at R",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 7134,
   "image_width": 1929,
-  "inscription": "R edge: {Kayari shite tsuma ko to kataru ukiyo kana} (Smoking out insects / chatting with wife and children - / this floating world.) [Stephen Addiss]",
+  "inscription": "蚊遣して妻子とかたるうきよかな {Kayari shite tsuma ko to kataru ukiyo kana} (Smoking out insects / chatting with wife and children - / this floating world.) [Stephen Addiss]",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "LRQ, round intaglio",
+  "markings": "LRC red seal: 今日樂 {konnichi raku}",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LRQ: 古人",
+  "signed": "LRC: 古人 {Kojin}",
   "style": "20th century",
   "text": "",
   "title": "Smoking Out Insects"

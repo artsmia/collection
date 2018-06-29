@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1920",
   "department": "Japanese and Korean Art",
   "description": "irregular grouping of rocks at bottom center with red tree trunks and two figures seated facing each other on a flat clearing; small fleet of sailboats and a fishing boat in water at center; island with rocky shore, a few huts, and red tree trunks at R; mountains in distance",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 5129,
   "image_width": 1269,
-  "inscription": "URQ: {?} (Wind and moon - who is their master? / By riverside alone I\\'ve built my hut. / So what if my plan for life is clumsy? / Even Shun made pottery and fished) [Jonathan Chaves]",
+  "inscription": "風月〇〇〇〇〇〇 {?} (Wind and moon - who is their master? / By riverside alone I\\'ve built my hut. / So what if my plan for life is clumsy? / Even Shun made pottery and fished) [Jonathan Chaves]",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "URQ: 无心; 福田世耕;静処; LLC: 拙居",
+  "markings": "poem UR red seal: 无心 {mushin} [mushin #2]; LL red seals: 福田世耕 {Fukuda Seikō} [Fukuda Seikō #1], 静處 {seisho} [seisho #1]; LLC red seal: 拙居 {sekkyo}",
   "medium": "Ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "URQ: 古道人詩画",
+  "signed": "URC: 古道人詩画 {Kodōjin shiga}",
   "style": "20th century",
   "text": "",
   "title": "Riverside, Wind, and Moon"
