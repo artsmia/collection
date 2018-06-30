@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1080,
+  "exhibition_department": null,
+  "exhibition_title": "Recent Acquisitions - September 1989 - December 1989",
+  "exhibition_description": null,
+  "begin": 1989,
+  "end": 1989,
+  "display_date": "Wednesday, September 06, 1989 - Sunday, December 31, 1989",
+  "public_info": null,
+  "objects": [
+    3710
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1989,
+      "end": 1989,
+      "display_date": "Wednesday, September 06, 1989 - Sunday, December 31, 1989"
+    }
+  ]
+}

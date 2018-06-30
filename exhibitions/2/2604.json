@@ -10,5 +10,24 @@
   "objects": [
     82368
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Amon Carter Museum of American Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, November 04, 2018 - Sunday, December 29, 2019"
+    },
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, November 04, 2018 - Sunday, December 29, 2019"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, November 04, 2018 - Sunday, December 29, 2019"
+    }
+  ]
 }
