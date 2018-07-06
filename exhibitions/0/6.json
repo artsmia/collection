@@ -10,5 +10,12 @@
   "objects": [
     78
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Haggerty Museum of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Monday, January 17, 2000 - Wednesday, June 20, 2001"
+    }
+  ]
 }
