@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1578,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Working Among Flowers: Floral Still Life Painting in Nineteenth-Century France",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2015,
+  "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015",
+  "public_info": 0,
+  "objects": [
+    6359
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015"
+    },
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 26, 2014 - Sunday, October 11, 2015"
+    }
+  ]
+}

@@ -10,5 +10,12 @@
   "objects": [
     1619
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Di Castelvecchio",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Monday, September 13, 1999 - Tuesday, December 21, 1999"
+    }
+  ]
 }
