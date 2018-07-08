@@ -10,5 +10,12 @@
   "objects": [
     122156
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Nagoya City Museum",
+      "begin": 1994,
+      "end": 1994,
+      "display_date": "Monday, April 25, 1994 - Sunday, May 22, 1994"
+    }
+  ]
 }
