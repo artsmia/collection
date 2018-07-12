@@ -10,5 +10,12 @@
   "objects": [
     1850
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Thursday, October 25, 2018 - Sunday, January 27, 2019"
+    }
+  ]
 }
