@@ -7,7 +7,7 @@
   "country": "Japan",
   "creditline": "Gift of the Clark Center for Japanese Art & Culture",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1941",
   "department": "Japanese and Korean Art",
   "description": "man in grey robes seated, facing outward toward viewer; minimal detail; hands and knees seem to vanish into background; inscription UR edge and LL edge",
@@ -17,9 +17,9 @@
   "image_copyright": "",
   "image_height": 448,
   "image_width": 183,
-  "inscription": "?\r\n\r\n",
+  "inscription": "㐂寿 {kiju} (77. birthday)\r\n",
   "life_date": "Japanese, 1865 - 1944",
-  "markings": "R side, when rolled, blue pen, Japanese inscription; LL edge, round intaglio:??",
+  "markings": "LLC red seal: 今日樂 {konnichi raku}",
   "medium": "Ink on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LL edge: 古道人寫",
+  "signed": "LLC: 古道人寫 {Kodōjin sha}",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait at Seventy-Seven"

@@ -1,0 +1,39 @@
+{
+  "exhibition_id": 1667,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Governor's Residence 2014-2016 (B)",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2015,
+  "display_date": "Thursday, August 28, 2014 - Friday, August 28, 2015",
+  "public_info": 0,
+  "objects": [
+    1970,
+    2844,
+    3567,
+    3571,
+    3581,
+    4806,
+    11286,
+    25289,
+    25293,
+    25294,
+    25295,
+    25297,
+    25305,
+    25351,
+    83081,
+    108266,
+    112663,
+    114175,
+    120108
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Thursday, August 28, 2014 - Friday, August 28, 2015"
+    }
+  ]
+}
