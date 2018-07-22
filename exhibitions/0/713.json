@@ -13,5 +13,24 @@
     97684,
     97733
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Saturday, June 11, 2005 - Sunday, April 02, 2006"
+    },
+    {
+      "venue": "National Museum of Women in the Arts",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Saturday, June 11, 2005 - Sunday, April 02, 2006"
+    },
+    {
+      "venue": "Springfield Art Museum",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Saturday, June 11, 2005 - Sunday, April 02, 2006"
+    }
+  ]
 }
