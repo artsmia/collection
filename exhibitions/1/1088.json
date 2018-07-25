@@ -10,5 +10,12 @@
   "objects": [
     1341
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1944,
+      "end": 1945,
+      "display_date": "1944 to 1945"
+    }
+  ]
 }
