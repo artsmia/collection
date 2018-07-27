@@ -14,7 +14,7 @@
   "dimension": "41 3/4 x 34 1/8 in. (106.05 x 86.68 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59033",
   "image": "valid",
-  "image_copyright": "© Robert Moskowitz %2F Licensed by VAGA%2C New York",
+  "image_copyright": "© Robert Moskowitz %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
   "image_height": 3807,
   "image_width": 3172,
   "inscription": "Numbered, chop mark, annotated on verso",
@@ -30,7 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "58647",
+    "58648",
+    "59033",
+    "59035",
+    "7703"
   ],
   "signed": "LR: [STATE PROOF IN BLACK RM 85]\r\nVerso: [CADILLAC CHOPSTICKS STATE PROOF]\r\n",
   "style": "20th century",

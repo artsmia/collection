@@ -14,7 +14,7 @@
   "dimension": "36 x 30 in. (91.44 x 76.2 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/58648",
   "image": "valid",
-  "image_copyright": "© Robert Moskowitz %2F Licensed by VAGA%2C New York",
+  "image_copyright": "© Robert Moskowitz %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
   "image_height": 3661,
   "image_width": 3106,
   "inscription": "Annotations on recto and verso, chop mark",
@@ -30,7 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "58647",
+    "58648",
+    "59033",
+    "59035",
+    "7703"
   ],
   "signed": "LR: [EARLY COLOR PROOF RM 85]\r\nVerso: [CADILLAC CHOPSTICKS (EARLY COLOR PROOF)]",
   "style": "20th century",

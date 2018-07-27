@@ -14,7 +14,7 @@
   "dimension": "36 x 30 in. (91.44 x 76.2 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59035",
   "image": "valid",
-  "image_copyright": "© Robert Moskowitz %2F Licensed by VAGA%2C New York",
+  "image_copyright": "© Robert Moskowitz %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
   "image_height": 3809,
   "image_width": 3254,
   "inscription": "Signed, dated, numbered, chop mark",
@@ -30,7 +30,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "58647",
+    "58648",
+    "59033",
+    "59035",
+    "7703"
   ],
   "signed": "LR: [WORKING PROOF RM 85-86]",
   "style": "20th century",
