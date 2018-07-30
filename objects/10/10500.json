@@ -1,8 +1,8 @@
 {
   "accession_number": "69.43",
-  "artist": "Painter: John Piper",
+  "artist": "Artist: John Piper",
   "catalogue_raissonne": null,
-  "classification": " Drawings",
+  "classification": " Drawings; Works on Paper",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of The Henfield Foundation",
@@ -17,14 +17,14 @@
   "image_copyright": "© John Piper %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4558,
   "image_width": 3145,
-  "inscription": "Signature; Mark",
+  "inscription": "",
   "life_date": "British, 1903-1992",
-  "markings": "[JOYNSON], on watermark",
+  "markings": "Watermark: JOYNSON",
   "medium": "Tempera and chalk on paper",
   "nationality": "British",
   "object_name": "Drawing",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "Wright Hepburn Webster Gallery, New York. The Henfield Foundation, London; given to MIA, 1969.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,8 +32,8 @@
   "see_also": [
     ""
   ],
-  "signed": "[John Piper], LR",
+  "signed": "Signed, LR: John Piper",
   "style": "20th century",
   "text": "",
-  "title": "Dansker--Costume Drawing for Britten's 'Billy Budd'"
+  "title": "Dansker; Costume Design for Benjamin Britten's Opera 'Billy Budd'"
 }
