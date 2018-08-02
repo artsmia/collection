@@ -17,5 +17,12 @@
     116581,
     116641
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Friday, September 20, 2013 - Sunday, June 01, 2014"
+    }
+  ]
 }
