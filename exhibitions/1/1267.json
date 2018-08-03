@@ -10,5 +10,12 @@
   "objects": [
     1850
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Galleria degli Uffizi",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Wednesday, June 15, 2011 - Sunday, January 08, 2012"
+    }
+  ]
 }
