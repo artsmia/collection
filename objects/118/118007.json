@@ -13,11 +13,11 @@
   "description": "angled broom at LR; one lined inscription at L, starting with one loopy character at UL extending into long, vertical line",
   "dimension": "30 9/16 × 7 11/16 in. (77.63 × 19.53 cm) (image)\r\n60 3/8 × 8 11/16 in. (153.35 × 22.07 cm) (mount, without roller)",
   "id": "http://api.artsmia.org/objects/118007",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "(...)",
+  "image_height": 10372,
+  "image_width": 3088,
+  "inscription": "[unread]",
   "life_date": "Japanese, 1865 - 1944",
   "markings": "LLC red seals: 静 {sei} [sei #2], 処 {sho} [sho #2]",
   "medium": "Ink on paper",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LLC: 古人{Kojin}",
+  "signed": "古人 {Kojin}",
   "style": "20th century",
   "text": "",
   "title": "Broom"
