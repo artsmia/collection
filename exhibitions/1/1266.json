@@ -10,5 +10,18 @@
   "objects": [
     1268
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Montreal Museum of Fine Arts",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Thursday, June 30, 2011 - Sunday, May 13, 2012"
+    },
+    {
+      "venue": "Whitney Museum of American Art, New York",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Thursday, June 30, 2011 - Sunday, May 13, 2012"
+    }
+  ]
 }

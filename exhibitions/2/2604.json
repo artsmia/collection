@@ -1,0 +1,39 @@
+{
+  "exhibition_id": 2604,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Gordon Parks: The New Tide, 1940-1950",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2020,
+  "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020",
+  "public_info": 0,
+  "objects": [
+    82368
+  ],
+  "venues": [
+    {
+      "venue": "Addison Gallery of American Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    },
+    {
+      "venue": "Amon Carter Museum of American Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    },
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    }
+  ]
+}

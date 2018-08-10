@@ -13,10 +13,10 @@
   "description": "three separate sheets; demon-faced figure at right, with green skin and yellow horns, wearing a bold patterned garment in red, yellow, green and purple with large yellow tie at waist, and wearing white tabi socks; seated couple at center with woman, wearing white kimono with dark and light blue fan-like pattern with brown foliage, leaning into man wearing purple and white checked kimono; frowning man wearing brown and blue peering around a screen depicting demons around a large cauldron; moon in ULC",
   "dimension": "14 1/2 × 10 in. (36.83 × 25.4 cm) (sheet, each, approx., vertical ōban triptych)",
   "id": "http://api.artsmia.org/objects/127889",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 4907,
+  "image_width": 9824,
   "inscription": "",
   "life_date": "Japanese, 1839 - 1892",
   "markings": "Artist’s seal: 芳年 {Yoshitoshi} | Carver’s seal: 彫工野口円治 {horikō Noguchi Enkatsu}",
@@ -32,7 +32,7 @@
   "see_also": [
     ""
   ],
-  "signed": "R: ?芳年写 {? Yoshitoshi sha}",
+  "signed": "R: 〇芳年写 {? Yoshitoshi sha}",
   "style": "19th century",
   "text": "Text by Tentendō Shujin after Ryūtei Tanehiko.",
   "title": "A Rustic Genji by a Fraudulent Murasaki"
