@@ -1,5 +1,6 @@
 {
   "accession_number": "2015.79.40.1",
+  "art_champions_text": null,
   "artist": "Artist: Tosa Mitsunari",
   "catalogue_raissonne": "Murase, Art through a Lifetime, no. 73",
   "classification": " Paintings",
@@ -15,12 +16,12 @@
   "id": "http://api.artsmia.org/objects/122089",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 970,
-  "image_width": 2748,
+  "image_height": 590,
+  "image_width": 1800,
   "inscription": "",
   "life_date": null,
   "markings": "Seals on each leaf: [Tosa]",
-  "medium": "Ink, color, and gold on paper",
+  "medium": "ink, color, gold, and silver on paper",
   "nationality": null,
   "object_name": "Six-panel folding screen, one of a pair",
   "portfolio": "From ",
@@ -35,5 +36,5 @@
   "signed": "L panel: [Tosa Mitsunari hitsu]",
   "style": "17th century",
   "text": "",
-  "title": "Fifty-four Scenes from the Tale of Genji [left of a pair]"
+  "title": "Scenes from The Tale of Genji"
 }
