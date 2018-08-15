@@ -10,5 +10,12 @@
   "objects": [
     30633
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Pulitzer Foundation for the Arts",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, September 09, 2011 - Saturday, March 10, 2012"
+    }
+  ]
 }
