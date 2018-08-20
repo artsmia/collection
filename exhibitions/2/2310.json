@@ -11,5 +11,12 @@
     6127,
     6128
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Center for Book Arts",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Friday, January 22, 2016 - Saturday, April 02, 2016"
+    }
+  ]
 }
