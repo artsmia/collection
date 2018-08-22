@@ -10,5 +10,12 @@
   "objects": [
     4040
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "South Dakota Art Museum",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Thursday, February 01, 2001 - Saturday, December 01, 2001"
+    }
+  ]
 }
