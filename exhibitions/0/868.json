@@ -10,5 +10,24 @@
   "objects": [
     1513
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Contemporary Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010"
+    },
+    {
+      "venue": "Tate Modern",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010"
+    }
+  ]
 }
