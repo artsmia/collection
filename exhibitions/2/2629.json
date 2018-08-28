@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2629,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Festival, Spectacle, and Celebration in the Early Modern World",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Monday, September 24, 2018 - Thursday, January 31, 2019",
+  "public_info": 0,
+  "objects": [
+    52485,
+    52977,
+    77457,
+    119019,
+    120320
+  ],
+  "venues": [
+    {
+      "venue": "James Ford Bell Library",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Monday, September 24, 2018 - Thursday, January 31, 2019"
+    }
+  ]
+}
