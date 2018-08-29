@@ -1,5 +1,6 @@
 {
   "accession_number": "P.92.6.39.8",
+  "art_champions_text": null,
   "artist": "Artist: Nicolas Africano",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "LL: VEL chop mark",
   "medium": "Lithograph on handmade paper",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From Suite of 12 Prints, Working Proofs",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "68200",
+    "68211",
+    "68222",
+    "68233"
   ],
   "signed": "LM: [W.P. NA 1990]",
   "style": "20th century",
