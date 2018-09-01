@@ -10,5 +10,12 @@
   "objects": [
     1627
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Monday, September 23, 2013 - Monday, January 13, 2014"
+    }
+  ]
 }
