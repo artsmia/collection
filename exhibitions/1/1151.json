@@ -10,5 +10,12 @@
   "objects": [
     1264
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunsthalle Bremen",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, October 15, 2011 - Sunday, February 26, 2012"
+    }
+  ]
 }

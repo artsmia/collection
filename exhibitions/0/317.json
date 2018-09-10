@@ -92,5 +92,12 @@
     38846,
     38847
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1997,
+      "end": 1997,
+      "display_date": "Saturday, May 31, 1997 - Sunday, August 24, 1997"
+    }
+  ]
 }
