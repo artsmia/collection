@@ -10,5 +10,12 @@
   "objects": [
     3366
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Wednesday, August 16, 1995 - Wednesday, June 26, 1996"
+    }
+  ]
 }
