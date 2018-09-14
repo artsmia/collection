@@ -14,10 +14,10 @@
   "description": "lengths of natural linen thread, randomly bound and wrapped with silk, cotton, wool and synthetic threads in orange, yellow, red",
   "dimension": "186 1/2 in. (473.71 cm)",
   "id": "http://api.artsmia.org/objects/90052",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Sheila Hicks",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9495,
+  "image_width": 8131,
   "inscription": "",
   "life_date": "American, born 1934",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G375",
   "see_also": [
     ""
   ],

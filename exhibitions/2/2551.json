@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 2551,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "John Singer Sargent (working title)",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Thursday, October 04, 2018 - Sunday, January 13, 2019",
+  "public_info": 0,
+  "objects": [
+    77,
+    106557,
+    120552,
+    120553
+  ],
+  "venues": [
+    {
+      "venue": "Nationalmuseum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Thursday, October 04, 2018 - Sunday, January 13, 2019"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "accession_number": "P.70.151",
+  "art_champions_text": null,
   "artist": "Artist: Katsushika Hokusai; Publisher: Nishimuraya Yohachi",
   "catalogue_raissonne": "Ukiyo-e shūka 16 (1981), p. 229, horizontal ōban #18.08",
   "classification": " Prints",
@@ -7,7 +8,7 @@
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1830-1831",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -33,7 +34,7 @@
     "22690",
     "65702"
   ],
-  "signed": "Hokusai Iitsu hitsu",
+  "signed": "北斎改為一筆 {Hokusai aratame Iitsu hitsu}",
   "style": "19th century",
   "text": "",
   "title": "The Cushion Pine at Aoyama"

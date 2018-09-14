@@ -1,5 +1,6 @@
 {
   "accession_number": "51.40.30",
+  "art_champions_text": null,
   "artist": "Artist: Katsushika Hokusai; Publisher: Nishimuraya Yohachi",
   "catalogue_raissonne": "Ukiyo-e shūka 16 (1981), p. 229, horizontal ōban #18.29",
   "classification": " Prints",
@@ -7,7 +8,7 @@
   "country": "Japan",
   "creditline": "The Margaret McMillan Webber Estate",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1830-1831",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -19,7 +20,7 @@
   "image_width": 2927,
   "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "markings": "censor seal: kiwame 極; publisher\\'s seal: Eijudō",
+  "markings": "censor seal: 極 {kiwame}; publisher seal: 永寿堂 {Eijudō}",
   "medium": "Woodblock print (aizuri-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -37,7 +38,7 @@
     "66443",
     "9152"
   ],
-  "signed": "Saki no Hokusai Iitsu hitsu 前北斎為一筆",
+  "signed": "前北斎為一筆 {Saki no Hokusai Iitsu hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Mishima Pass in Kai Province"

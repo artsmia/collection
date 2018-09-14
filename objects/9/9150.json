@@ -1,5 +1,6 @@
 {
   "accession_number": "74.1.225",
+  "art_champions_text": null,
   "artist": "Artist: Katsushika Hokusai; Publisher: Nishimuraya Yohachi",
   "catalogue_raissonne": "Ukiyo-e shūka 16 (1981), p. 229, horizontal ōban #18.46",
   "classification": " Prints",
@@ -7,7 +8,7 @@
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1830-1831",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -19,7 +20,7 @@
   "image_width": 5015,
   "inscription": "",
   "life_date": "Japanese, 1760 - 1849",
-  "markings": "(red collector\\'s seal)",
+  "markings": "ULC red collector\\'s seal: でういす {Deuisu} (Davis)",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -33,7 +34,7 @@
     "62740",
     "9150"
   ],
-  "signed": "Saki no Hokusai Iitsu hitsu 前北斎為一筆",
+  "signed": "前北斎為一筆 {Saki no Hokusai Iitsu hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Back View of Fuji from the Minobu River"

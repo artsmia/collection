@@ -1,5 +1,6 @@
 {
   "accession_number": "74.1.224",
+  "art_champions_text": null,
   "artist": "Artist: Katsushika Hokusai; Publisher: Nishimuraya Yohachi",
   "catalogue_raissonne": "Ukiyo-e shūka 16 (1981), p. 229, horizontal ōban #18.40",
   "classification": " Prints",
@@ -7,7 +8,7 @@
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1830-1831",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -34,7 +35,7 @@
     "62751",
     "9611"
   ],
-  "signed": "Hokusai aratame Iitsu hitsu 北斎改為一筆",
+  "signed": "北斎改為一筆 {Hokusai aratame Iitsu hitsu}",
   "style": "19th century",
   "text": "",
   "title": "Fuji View Plain in Owari Province"
