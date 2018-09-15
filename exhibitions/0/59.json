@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 59,
+  "exhibition_department": null,
+  "exhibition_title": "Paul Klee im Rheinland",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Thursday, March 06, 2003 - Sunday, June 29, 2003",
+  "public_info": null,
+  "objects": [
+    1318
+  ],
+  "venues": [
+    {
+      "venue": "Kunst-und Ausstellungshalle der Bundesrepublik Deutschland",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Thursday, March 06, 2003 - Sunday, June 29, 2003"
+    }
+  ]
+}
