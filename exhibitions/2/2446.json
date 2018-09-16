@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 2446,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Echoes of the Heart: An Exhibition of Japanese Literati Paintings and Poetry",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2002,
+  "display_date": "Wednesday, January 02, 2002 - Thursday, February 28, 2002",
+  "public_info": 0,
+  "objects": [
+    116732,
+    116733,
+    116756,
+    116757,
+    117409,
+    117414,
+    118141,
+    118170,
+    118171
+  ],
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Wednesday, January 02, 2002 - Thursday, February 28, 2002"
+    },
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Wednesday, January 02, 2002 - Thursday, February 28, 2002"
+    }
+  ]
+}
