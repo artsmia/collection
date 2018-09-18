@@ -1,5 +1,6 @@
 {
   "accession_number": "2018.6.1",
+  "art_champions_text": null,
   "artist": "Artist: Les Namingha",
   "catalogue_raissonne": null,
   "classification": " Sculpture; Ceramics",
@@ -14,7 +15,7 @@
   "dimension": "9 3/8 × 9 5/8 × 8 7/8 in. (23.81 × 24.45 × 22.54 cm)",
   "id": "http://api.artsmia.org/objects/128423",
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "© Les Namingha",
   "image_height": 6098,
   "image_width": 6098,
   "inscription": "",
@@ -26,7 +27,7 @@
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
-  "rights_type": "Need Permission",
+  "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

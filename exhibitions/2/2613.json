@@ -10,5 +10,12 @@
   "objects": [
     82368
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Paul Messier LLC",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Monday, May 07, 2018 - Friday, September 07, 2018"
+    }
+  ]
 }
