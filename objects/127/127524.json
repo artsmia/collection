@@ -1,5 +1,6 @@
 {
   "accession_number": "2017.151.1",
+  "art_champions_text": null,
   "artist": "Artist: Frederick Hammersley",
   "catalogue_raissonne": null,
   "classification": " Drawings; Works on Paper",
@@ -7,7 +8,7 @@
   "country": "United States",
   "creditline": "Gift of the Frederick Hammersley Foundation",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1969",
   "department": "Prints and Drawings",
   "description": "computer printout on pinfed paper with vertical rows of holes on left and right edges; upside down squared-off U shaped motifs with rows of letters, with symbols and numbers at center bottom",
@@ -24,7 +25,7 @@
   "nationality": "American",
   "object_name": "Drawing",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "The artist; New Mexico; Frederick Hammersley Foundation, Albuquerque, N.M.; given to MIA, 2017.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -34,6 +35,6 @@
   ],
   "signed": "bottom center, printed on paper: THOUGHT HOLDERS | LRC in pencil: F. Hammersley",
   "style": "20th century",
-  "text": "",
+  "text": "In 1969, while teaching at the University of New Mexico, Frederick Hammersley began a year-long experiment making abstract drawings with the aid of a mainframe computer and line printers. At the time, computer-generated art was still in its infancy, and his efforts were groundbreaking and favorably received by critics and peers. Members of the University’s computing department assisted Hammersley in producing his drawings by programing the department’s computer to compose images from modified text and numerical elements. Simple and disarmingly playful, Hammersley’s computer drawings were part of a wave of postwar creative experimentation with emergent technology.",
   "title": "Thought Holders"
 }
