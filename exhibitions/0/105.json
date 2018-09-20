@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 105,
+  "exhibition_department": null,
+  "exhibition_title": "Pierre Matisse and His Artists",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2002,
+  "display_date": "Thursday, February 14, 2002 - Sunday, May 19, 2002",
+  "public_info": null,
+  "objects": [
+    1627
+  ],
+  "venues": [
+    {
+      "venue": "Pierpont Morgan Library",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Thursday, February 14, 2002 - Sunday, May 19, 2002"
+    }
+  ]
+}
