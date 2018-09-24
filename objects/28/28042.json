@@ -1,5 +1,6 @@
 {
   "accession_number": "92.56.8",
+  "art_champions_text": null,
   "artist": "Maker: Sam Gilliam",
   "catalogue_raissonne": null,
   "classification": " Drawings",
@@ -7,7 +8,7 @@
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1981",
   "department": "Prints and Drawings",
   "description": "Original layout without the addition of color",
@@ -17,14 +18,14 @@
   "image_copyright": "© Sam Gilliam",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signed, dated",
+  "inscription": "",
   "life_date": "American, born 1933",
   "markings": "",
   "medium": "Graphite on paper",
   "nationality": "American",
   "object_name": "Drawing",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1983.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "lower margin: [Gillian \\'81]",
+  "signed": "lower margin: Gillian \\'81",
   "style": "20th century",
   "text": "",
   "title": "Study for \"Lattice\""
