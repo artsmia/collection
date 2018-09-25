@@ -1,7 +1,7 @@
 {
   "accession_number": "2013.29.145.2",
   "art_champions_text": null,
-  "artist": "Artist: Suzuki Kason; Artist: Terasaki Kōgyō",
+  "artist": "Artist: Terasaki Kōgyō",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": null,
@@ -14,12 +14,12 @@
   "description": "woman wearing white/grey with eyes closed and holding fabric up to her PR eye; bottom part of body is yellow and flame-like; blue at bottom",
   "dimension": "47 1/2 × 13 in. (120.65 × 33.02 cm) (image)\r\n85 1/2 × 19 1/8 in. (217.17 × 48.58 cm) (mount)",
   "id": "http://api.artsmia.org/objects/117161",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 5582,
-  "image_width": 1509,
+  "image_height": "",
+  "image_width": "",
   "inscription": "LR: 明治庚子七月北越客中廣業",
-  "life_date": "Japanese, 1860 - 1919",
+  "life_date": "Japanese, 1866 - 1919",
   "markings": "LRC: 廣業",
   "medium": "Ink and light color on silk",
   "nationality": "Japanese",
@@ -36,5 +36,5 @@
   "signed": "LRC: 廣業",
   "style": "20th century",
   "text": "There are many Japanese ghost stories about the spirits of mothers who have died in childbirth or while her child was still a baby. In the left scroll, Kason depicts the ghost of a mother watching her baby sleep under a mosquito net. Her gentle but sorrowful gaze shows her anxiety and lingering affection for the baby. The right scroll by Kōgyō represents a sobbing female ghost emanating from a flame. The orange and blue flame might depict the smoking incense (Hangonkō) from the legend in which the Chinese Emperor Wudi longed to see his mistress Lady Li Furen, who died young. He ordered his chemist to create the special incense, which summoned the soul of a deceased lover in its smoke. (2013.29.145.1-.2)",
-  "title": "Ghosts, one of a pair"
+  "title": "Ghost [right of a pair]"
 }
