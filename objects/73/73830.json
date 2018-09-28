@@ -1,8 +1,9 @@
 {
   "accession_number": "66.25.3",
+  "art_champions_text": null,
   "artist": "Artist: Pierandrea Mattioli",
-  "catalogue_raissonne": "Nissen 1305\r\nArber 93 ff\r\nBlunt 58 ff",
-  "classification": " Woodwork",
+  "catalogue_raissonne": "see Nissen 1305; see Arber 93 ff; see Blunt 58 ff",
+  "classification": " Printing Matrices",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund",
@@ -20,11 +21,11 @@
   "inscription": "",
   "life_date": "Italian, 1500 - 1577",
   "markings": "",
-  "medium": "Woodblock",
+  "medium": "Carved woodblock with plaster overlay",
   "nationality": "Italian",
-  "object_name": null,
+  "object_name": "Printing matrix",
   "portfolio": "From Commentarii in Sex Libros Pedacii Dioscoridis, (Venice, 1565)",
-  "provenance": "",
+  "provenance": "Dwight and Helen Minnich, MInneapolis; sold to MIA, 1966.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "16th century",
   "text": "",
-  "title": "Original woodblock from Commentarii in Sex Libros Pedacii"
+  "title": "Original woodblock for Commentarii in Sex Libros Pedacii"
 }

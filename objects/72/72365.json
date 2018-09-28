@@ -1,5 +1,6 @@
 {
   "accession_number": "P.14,085",
+  "art_champions_text": null,
   "artist": "Artist: Pierandrea Mattioli",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -10,7 +11,7 @@
   "curator_approved": 0,
   "dated": "1544-1585",
   "department": "Prints and Drawings",
-  "description": "8 prints--double-sided",
+  "description": "Double-sided sheet with 8 illustrations",
   "dimension": "12 7/8 x 6 7/8 in. (32.7 x 17.46 cm) (image)",
   "id": "http://api.artsmia.org/objects/72365",
   "image": "valid",
@@ -20,10 +21,10 @@
   "inscription": "\r\n\r\n",
   "life_date": "Italian, 1500 - 1577",
   "markings": "\r\n",
-  "medium": "Woodcut illustration, original color?",
+  "medium": "Hand-colored woodcut",
   "nationality": "Italian",
-  "object_name": null,
-  "portfolio": "From Commentarii in Sex Libros Pedacii Dioscoridis, First Edition, Italian text, (Venice, 1544)Second Edition, Latin text, 1554; Many editions in many languages, 1554-1598",
+  "object_name": "Print",
+  "portfolio": "From Commentarii in Sex Libros Pedacii Dioscoridis",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "16th century",
   "text": "",
-  "title": "Narcissus, from Commentarii in Sex Libros Pedacii Dioscoridis"
+  "title": "Narcissus"
 }

@@ -1,5 +1,6 @@
 {
   "accession_number": "P.18,430",
+  "art_champions_text": null,
   "artist": "Artist: Henry C. Andrews",
   "catalogue_raissonne": "",
   "classification": " Prints",
@@ -7,8 +8,8 @@
   "country": "England",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
-  "curator_approved": 0,
-  "dated": "1805-1828",
+  "curator_approved": 1,
+  "dated": "1806 (1805-1828)",
   "department": "Prints and Drawings",
   "description": "",
   "dimension": "11 1/4 x 8 7/8 in. (28.58 x 22.54 cm) (sheet, margins cut)",
@@ -18,13 +19,13 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "British, active 1794 - 1830",
+  "life_date": "British, 1750 - 1828",
   "markings": "\r\n",
   "medium": "Hand-colored etching",
   "nationality": "British",
   "object_name": "Print",
-  "portfolio": "From ",
-  "provenance": "",
+  "portfolio": "From Roses, a monograph of the genus Rosa",
+  "provenance": "Dwight and Helen Minnich, Minneapolis; sold to MIA, 1966.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Rosa Gallica, officinalis from Roses"
+  "title": "Rosa Gallica officinalis"
 }
