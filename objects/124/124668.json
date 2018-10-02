@@ -1,5 +1,6 @@
 {
   "accession_number": "2016.33.42",
+  "art_champions_text": null,
   "artist": "Artist: Henry Moret",
   "catalogue_raissonne": null,
   "classification": " Paintings",
@@ -13,10 +14,10 @@
   "description": "landscape with brilliant blue body of water; pink and green foliage on hills beyond water; tall tree with white blossoms at front left; green trees and foliage, and blue, purple, white and pink foliage, in foreground; pale blue sky",
   "dimension": "20 7/16 × 25 1/16 in. (51.91 × 63.66 cm) (sight)\r\n30 3/16 × 34 5/8 × 2 3/4 in. (76.68 × 87.95 × 6.99 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/124668",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8118,
+  "image_width": 9753,
   "inscription": "",
   "life_date": "French, 1856-1913",
   "markings": "",
@@ -28,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G351",
+  "room": "TAS6",
   "see_also": [
     ""
   ],

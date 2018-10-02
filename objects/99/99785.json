@@ -1,5 +1,6 @@
 {
   "accession_number": "2006.37",
+  "art_champions_text": null,
   "artist": "Artist: William Hunt Diederich",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
@@ -14,7 +15,7 @@
   "dimension": "25 5/8 x 20 x 7 1/4 in. (65.09 x 50.8 x 18.42 cm)",
   "id": "http://api.artsmia.org/objects/99785",
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
   "image_height": 5436,
   "image_width": 4080,
   "inscription": "Signature",
@@ -26,7 +27,7 @@
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
-  "rights_type": "Public Domain",
+  "rights_type": "Orphaned Work",
   "role": "Artist",
   "room": "G304",
   "see_also": [

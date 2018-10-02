@@ -10,5 +10,12 @@
   "objects": [
     3267
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Wildenstein & Company",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Wednesday, April 25, 2007 - Friday, June 15, 2007"
+    }
+  ]
 }
