@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2642,
+  "exhibition_department": null,
+  "exhibition_title": "The Inaugural Exhibition",
+  "exhibition_description": null,
+  "begin": 1915,
+  "end": 2015,
+  "display_date": null,
+  "public_info": null,
+  "objects": [
+    46
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1915,
+      "end": 2015,
+      "display_date": null
+    }
+  ]
+}
