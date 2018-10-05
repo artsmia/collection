@@ -1,5 +1,6 @@
 {
   "accession_number": "2003.209.3",
+  "art_champions_text": null,
   "artist": "Photographer: Paul Kagan",
   "catalogue_raissonne": null,
   "classification": " Photographs",
@@ -22,7 +23,7 @@
   "markings": "On back, stamped in black: [© Paul Kagan]",
   "medium": "Gelatin silver print",
   "nationality": null,
-  "object_name": null,
+  "object_name": "Photograph",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "81014",
+    "81015",
+    "81016"
   ],
   "signed": "",
   "style": "20th century",

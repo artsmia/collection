@@ -1,5 +1,6 @@
 {
   "accession_number": "90.111.15.2",
+  "art_champions_text": null,
   "artist": "Photographer: Edward Steichen",
   "catalogue_raissonne": null,
   "classification": " Photographs",
@@ -22,7 +23,7 @@
   "markings": "",
   "medium": "Photogravure",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Photograph",
   "portfolio": "From From \"Camera Notes,\" January 1901 (vol. 4, no. 3)",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "82773",
+    "82832",
+    "82868"
   ],
   "signed": "",
   "style": "19th century",
