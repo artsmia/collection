@@ -21,5 +21,12 @@
     80787,
     80794
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, December 01, 2007 - Sunday, May 18, 2008"
+    }
+  ]
 }
