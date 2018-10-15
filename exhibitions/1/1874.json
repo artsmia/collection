@@ -48,30 +48,5 @@
     122441,
     122509
   ],
-  "venues": [
-    {
-      "venue": "Hiroshima Prefectural Museum of Art",
-      "begin": 2005,
-      "end": 2006,
-      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
-    },
-    {
-      "venue": "Miho Museum",
-      "begin": 2005,
-      "end": 2006,
-      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
-    },
-    {
-      "venue": "Museum of Fine Arts, Gifu",
-      "begin": 2005,
-      "end": 2006,
-      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
-    },
-    {
-      "venue": "Tokyo Metropolitan Art Museum",
-      "begin": 2005,
-      "end": 2006,
-      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
-    }
-  ]
+  "venues": []
 }
