@@ -10,5 +10,30 @@
   "objects": [
     82368
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Addison Gallery of American Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    },
+    {
+      "venue": "Amon Carter Museum of American Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    },
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Sunday, November 04, 2018 - Sunday, April 26, 2020"
+    }
+  ]
 }

@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1817,
+  "exhibition_department": null,
+  "exhibition_title": "Art of India",
+  "exhibition_description": null,
+  "begin": 1969,
+  "end": 1969,
+  "display_date": "Monday, June 23, 1969 - Saturday, August 23, 1969",
+  "public_info": null,
+  "objects": [
+    1374
+  ],
+  "venues": [
+    {
+      "venue": "University of Minnesota Gallery, Minneapolis",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "Monday, June 23, 1969 - Saturday, August 23, 1969"
+    }
+  ]
+}
