@@ -10,5 +10,12 @@
   "objects": [
     17274
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Red Wing Public Library",
+      "begin": 1949,
+      "end": 1949,
+      "display_date": "Wednesday, February 02, 1949 - Monday, February 14, 1949"
+    }
+  ]
 }
