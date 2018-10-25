@@ -1,5 +1,6 @@
 {
   "accession_number": "P.22,100",
+  "art_champions_text": null,
   "artist": "",
   "catalogue_raissonne": "\r\n",
   "classification": " Prints",
@@ -8,10 +9,10 @@
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 0,
-  "dated": "late 18th-early 19th century",
+  "dated": "1843",
   "department": "Prints and Drawings",
   "description": "",
-  "dimension": null,
+  "dimension": "13 1/2 × 9 5/8 in. (34.29 × 24.45 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/78703",
   "image": "invalid",
   "image_copyright": "",
@@ -20,10 +21,10 @@
   "inscription": "",
   "life_date": null,
   "markings": "",
-  "medium": "",
+  "medium": "Hand-colored lithograph",
   "nationality": null,
-  "object_name": null,
-  "portfolio": "From ",
+  "object_name": "Print",
+  "portfolio": "From Les Modes Parisiennes, Paris (1843–1875)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "18th-19th century",
   "text": "",
-  "title": "Fashion Plate"
+  "title": "Les Modes Parisiennes, No. 6, Dimanche, 9 Avril, 1843"
 }

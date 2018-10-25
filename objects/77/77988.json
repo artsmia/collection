@@ -1,5 +1,6 @@
 {
   "accession_number": "P.21,167",
+  "art_champions_text": null,
   "artist": "Artist: Numa",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -8,10 +9,10 @@
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 0,
-  "dated": "(1843) 1844",
+  "dated": "1843",
   "department": "Prints and Drawings",
   "description": "",
-  "dimension": null,
+  "dimension": "13 9/16 × 9 15/16 in. (34.45 × 25.24 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/77988",
   "image": "invalid",
   "image_copyright": "",
@@ -22,8 +23,8 @@
   "markings": "",
   "medium": "Hand-colored lithograph",
   "nationality": null,
-  "object_name": null,
-  "portfolio": "From From the Transition La Grande Modes, (Paris, 1844)",
+  "object_name": "Print",
+  "portfolio": "From Les Modes Parisiennes, Paris (1843–1875)",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Fashion Plate from Le Grande Modes"
+  "title": "Les Modes Parisiennes, No. 15, Dimanche, 11 Juin, 1843"
 }
