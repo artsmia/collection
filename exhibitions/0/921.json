@@ -10,5 +10,12 @@
   "objects": [
     4035
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Groenigemuseum",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "Saturday, June 14, 1969 - Sunday, September 21, 1969"
+    }
+  ]
 }
