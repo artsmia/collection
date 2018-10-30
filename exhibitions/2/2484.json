@@ -8,6 +8,11 @@
   "display_date": "Saturday, October 07, 2017 - Sunday, June 24, 2018",
   "public_info": 0,
   "objects": [
+    115837,
+    116790,
+    116791,
+    117950,
+    123060,
     125922,
     125923,
     125925,
@@ -68,12 +73,5 @@
     127672,
     127673
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2017,
-      "end": 2018,
-      "display_date": "Saturday, October 07, 2017 - Sunday, June 24, 2018"
-    }
-  ]
+  "venues": []
 }
