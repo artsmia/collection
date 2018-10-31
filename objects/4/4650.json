@@ -1,5 +1,6 @@
 {
   "accession_number": "93.89.3",
+  "art_champions_text": null,
   "artist": "Designer: William Gray Purcell; Designer: George Grant Elmslie",
   "catalogue_raissonne": null,
   "classification": " Furniture",
@@ -14,7 +15,7 @@
   "dimension": "50 x 19 1/4 x 20 in. (127 x 48.9 x 50.8 cm)",
   "id": "http://api.artsmia.org/objects/4650",
   "image": "valid",
-  "image_copyright": "Copyright of the artist%2C artist%27s estate%2C or assignees",
+  "image_copyright": "",
   "image_height": 1400,
   "image_width": 672,
   "inscription": "",
@@ -26,7 +27,7 @@
   "portfolio": "From From the Edward W. Decker House, Wayzata, Minnesota (demolished 1948, service building still standing); Purcell and Elmslie architects",
   "provenance": "",
   "restricted": 0,
-  "rights_type": "Orphaned Work",
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

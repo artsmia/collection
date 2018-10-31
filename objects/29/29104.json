@@ -1,5 +1,6 @@
 {
   "accession_number": "96.130.2.1",
+  "art_champions_text": null,
   "artist": "Maker: Grimwades",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
@@ -15,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/29104",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 2469,
-  "image_width": 5345,
+  "image_height": 1781,
+  "image_width": 3000,
   "inscription": "Mark",
   "life_date": null,
   "markings": "Grimwades mark under base",
@@ -25,8 +26,8 @@
   "object_name": "Large Bowl, for 'Swallows' Berry Set",
   "portfolio": "From ",
   "provenance": "",
-  "restricted": 0,
-  "rights_type": "Public Domain",
+  "restricted": 1,
+  "rights_type": "No Known Copyright Restrictions",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

@@ -1,5 +1,6 @@
 {
   "accession_number": "87.26",
+  "art_champions_text": null,
   "artist": "Artist: Ōmura Minosuke",
   "catalogue_raissonne": null,
   "classification": " Accessories",
@@ -15,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/25217",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 5539,
-  "image_width": 3629,
+  "image_height": 3375,
+  "image_width": 3375,
   "inscription": "",
   "life_date": "Japanese, 1912 - 1987",
   "markings": "",
@@ -25,8 +26,8 @@
   "object_name": "Netsuke (katabori)",
   "portfolio": "From ",
   "provenance": "",
-  "restricted": 0,
-  "rights_type": "Public Domain",
+  "restricted": 1,
+  "rights_type": "Copyright Protected",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

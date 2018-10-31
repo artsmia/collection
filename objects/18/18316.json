@@ -1,5 +1,6 @@
 {
-  "accession_number": "56.24.10.13a",
+  "accession_number": "56.24.10.13a,b",
+  "art_champions_text": null,
   "artist": "Maker: Francis Gardner",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
@@ -13,16 +14,16 @@
   "description": "Cup, ceramic, Russian, XIX c. 56.24.10.13a; no dims on cat. card; no card in numeric card file",
   "dimension": "2-5/8 x 5 x 4-1/8",
   "id": "http://api.artsmia.org/objects/18316",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2211,
+  "image_width": 3000,
   "inscription": "",
   "life_date": null,
   "markings": "",
   "medium": "Porcelain",
   "nationality": null,
-  "object_name": "Cup",
+  "object_name": "Cup and Saucer",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -35,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Cup"
+  "title": "Cup and Saucer"
 }

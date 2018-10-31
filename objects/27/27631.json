@@ -1,5 +1,6 @@
 {
   "accession_number": "91.169.2",
+  "art_champions_text": null,
   "artist": "Artist: Mort Künstler",
   "catalogue_raissonne": null,
   "classification": " Drawings",
@@ -7,22 +8,22 @@
   "country": "United States",
   "creditline": "Gift of Ronald M. Koch",
   "culture": null,
-  "curator_approved": 0,
-  "dated": "1970",
+  "curator_approved": 1,
+  "dated": "c. 1969-1970",
   "department": "Prints and Drawings",
-  "description": "Drawer 182",
+  "description": "Cover illustration for the paperback edition of the novel \"Secret Mission: Cairo\" (Award Books, New York, 1970), no. seven in the Secret Mission series, by Canadian author Donald Taylor Smith (1909-?).",
   "dimension": "19 1/4 x 19 7/8in. (48.9 x 50.5cm)",
   "id": "http://api.artsmia.org/objects/27631",
   "image": "valid",
   "image_copyright": "© Mort K%C3%BCnstler",
   "image_height": 3668,
   "image_width": 4218,
-  "inscription": "Signature; Inscription; Stamp\r\n\r\nLR on masking tape in graphite: [HALL/#686400-A]",
-  "life_date": "American, born 1931",
-  "markings": "stamp on backing board: [ALBERT SIRIANNI/ROOM1104 75 WEST 45 ST., N.Y. 36]",
-  "medium": "Gouache",
+  "inscription": "Inscribed LR (outside image) on masking tape in graphite: HALL/#686400-A",
+  "life_date": "American, born 1927",
+  "markings": "stamp on backing board: ALBERT SIRIANNI/ROOM1104 75 WEST 45 ST., N.Y. 36",
+  "medium": "Gouache on paper, mounted on board",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Drawing",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -32,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "LR [MKünstler]",
+  "signed": "Signed in black, LR: MKünstler\r\n\r\n",
   "style": "20th century",
   "text": "",
-  "title": "Cover Illustration for 'Cairo,' a novel by Don Smith"
+  "title": "Secret Mission: Cairo"
 }
