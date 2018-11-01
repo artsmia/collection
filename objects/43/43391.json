@@ -1,5 +1,6 @@
 {
   "accession_number": "P.92.6.7",
+  "art_champions_text": null,
   "artist": "Artist: T.L. Solien",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -17,7 +18,7 @@
   "image_copyright": "© T. L. Solien",
   "image_height": 3670,
   "image_width": 3337,
-  "inscription": "Signature, date, number, chop mark",
+  "inscription": "Signature, date, number, chop mark\r\nLL: C.T.P. 10/11",
   "life_date": "American, born 1949",
   "markings": "LM: VEL chop mark",
   "medium": "Etching, aquatint, and color lithograph",
@@ -30,9 +31,12 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "43390",
+    "43391",
+    "43392",
+    "43393"
   ],
-  "signed": "LL: [C.T.P. 10/11]\r\nLR: [T.L. Solien 1985 - 90]",
+  "signed": "LR: T.L. Solien 1985 - 90",
   "style": "20th century",
   "text": "",
   "title": "Untitled"

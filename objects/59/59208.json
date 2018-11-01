@@ -1,5 +1,6 @@
 {
   "accession_number": "P.83.59.74",
+  "art_champions_text": null,
   "artist": "Artist: Steven Sorman",
   "catalogue_raissonne": "VEL 264",
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "VEL Chop Mark, Artist Stamp",
   "medium": "Lithograph in blue ink, bronze leaf, collage, stencil, red pencil, and hand-painting",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "59208",
+    "59210",
+    "59211"
   ],
   "signed": "LR: [Steven Sorman / on 1.4.79]\r\nLR: [ap 6/6]\r\nLR: [the explanation / of this]\r\nLR: Artist\\'s Stamp in red ink\r\nLR: VEL Chop Mark",
   "style": "20th century",

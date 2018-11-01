@@ -1,5 +1,6 @@
 {
   "accession_number": "69.133.6.9",
+  "art_champions_text": null,
   "artist": "Photographer: William B. Post",
   "catalogue_raissonne": null,
   "classification": " Photographs",
@@ -22,7 +23,7 @@
   "markings": "",
   "medium": "Photogravure",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Photograph",
   "portfolio": "From From \"Camera Work\" No. 6 (April 1904",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "62059",
+    "82518",
+    "82519"
   ],
   "signed": "",
   "style": "19th century",

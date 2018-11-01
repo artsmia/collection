@@ -1,5 +1,6 @@
 {
   "accession_number": "P.86.63.50",
+  "art_champions_text": null,
   "artist": "Artist: John Newman",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -10,7 +11,7 @@
   "curator_approved": 0,
   "dated": "1985",
   "department": "Prints and Drawings",
-  "description": "Sculptural abstraction featuring an elliptical red object that fills most of the picture plane; its center consists of a grey circle with interweaving yellow lines; heavy black lines around the object's center spiral outwards towards its border; a chain-like, turquoise design adorns background",
+  "description": "Sculptural abstraction featuring an elliptical red object that fills most of the picture plane; its center consists of a grey circle with interweaving yellow lines; heavy black lines around the object's center spiral outwards towards its border; a chain-like, turquoise design adorns background. Print with hand-drawn additions",
   "dimension": "40 x 30 in. (101.6 x 76.2 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59037",
   "image": "valid",
@@ -22,7 +23,7 @@
   "markings": "LR: V.E.L. chop mark",
   "medium": "Lithograph, graphite, black and red pastel and rubberstamp",
   "nationality": "American",
-  "object_name": "Print with hand-drawn additions",
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "59037",
+    "59039",
+    "91601",
+    "91602"
   ],
   "signed": "On verso: [FOLD OUT (WORKING PROOF - JN 4)]",
   "style": "20th century",

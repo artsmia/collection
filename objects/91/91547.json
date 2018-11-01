@@ -1,5 +1,6 @@
 {
   "accession_number": "P.86.63.17",
+  "art_champions_text": null,
   "artist": "Artist: Tom Attridge",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "LRC: VEL chop mark",
   "medium": "Color lithograph",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "58568",
+    "58569",
+    "91547"
   ],
   "signed": "LL: [Progressive Proof - State 5 of 5]\r\nLower center: [\\\"Court Order\\\"]\r\nLR: [Tom Attridge 84]",
   "style": "20th century",

@@ -1,5 +1,6 @@
 {
   "accession_number": "P.141",
+  "art_champions_text": null,
   "artist": "Artist: Albrecht Dürer",
   "catalogue_raissonne": "M.16 (?); D.10; B.28, 49; M.28\r\n",
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "",
   "medium": "Engraving",
   "nationality": "German",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "47044",
+    "47053",
+    "60297"
   ],
   "signed": "",
   "style": "15th-16th century",

@@ -1,5 +1,6 @@
 {
   "accession_number": "2003.156.21",
+  "art_champions_text": null,
   "artist": "Artist: Louis Marcoussis; Publisher: Editions Fourcade, Paris",
   "catalogue_raissonne": "Lafranchis 57; Milet 62",
   "classification": " Prints",
@@ -7,7 +8,7 @@
   "country": "France",
   "creditline": "Gift of Mary and Robyn Campbell",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1931",
   "department": "Prints and Drawings",
   "description": "abstracted image; four glowing circles at R, connected with a black line; geometric shapes at L; receding, fence-like element at center",
@@ -17,13 +18,13 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, edition and inscription\r\nbottom of sheet, in pencil: [Marcoussis Ill. for Aurelia 110-171-8 Arn 15.-]",
-  "life_date": "French, 1883 - 1941",
-  "markings": "LLC below image, in pencil: [62/154]",
+  "inscription": "bottom of sheet, in pencil: [Marcoussis Ill. for Aurelia 110-171-8 Arn 15.-]",
+  "life_date": "French (born Poland), 1883 - 1941",
+  "markings": "LLC below image, in pencil: 62/154",
   "medium": "Etching",
-  "nationality": "French",
+  "nationality": "French (born Poland)",
   "object_name": "Print",
-  "portfolio": "From 10 Eaux-Fortes pour 'Aurelia' by Gerard de Nerval\"",
+  "portfolio": "From Plate 8 from Ten Etchings for Aurélia (10 Eaux-fortes pour Aurélia) by Gérard de Nerval",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,5 +36,5 @@
   "signed": "LRQ, bottom edge, in the plate: [M]",
   "style": "20th century",
   "text": "",
-  "title": "Pluriers lunes (Several Moons)"
+  "title": "Several Moons"
 }

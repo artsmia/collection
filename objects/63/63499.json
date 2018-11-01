@@ -1,5 +1,6 @@
 {
   "accession_number": "2002.200.7",
+  "art_champions_text": null,
   "artist": "",
   "catalogue_raissonne": null,
   "classification": " Adornment",
@@ -13,10 +14,10 @@
   "description": "pendant on silver chain; pendant has compartment; smooth, geometric motif pendant",
   "dimension": "2 1/2 x 3 5/16 x 1 5/16 in. (6.35 x 8.41 x 3.33 cm) (single element, pendant)\r\n27 3/16 in. (69.06 cm) (single element, chain)",
   "id": "http://api.artsmia.org/objects/63499",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2592,
+  "image_width": 1936,
   "inscription": "Mark and Sticker",
   "life_date": null,
   "markings": "on one short side, stamped: 3 illegible marks; on bottom, on sticker: [prayer box / India / $450-]",
@@ -28,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G211",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

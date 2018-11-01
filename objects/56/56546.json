@@ -1,5 +1,6 @@
 {
   "accession_number": "P.74.51",
+  "art_champions_text": null,
   "artist": "Artist: Mike Lynch",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -17,14 +18,14 @@
   "image_copyright": "© Mike Lynch",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature; Edition\r\n\r\nNumbered in pencil, LL: [15/24]",
+  "inscription": "\r\n\r\n",
   "life_date": "American, born 1938",
-  "markings": "Chop mark: M",
-  "medium": "Lithograph",
+  "markings": "Numbered in pencil, LL: 15/24\r\nChop mark: M",
+  "medium": "Lithograph on cream paper",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "Acquired from the artist, 1974.",
+  "provenance": "Tthe artist, Minneapolis; sold to MIA, 1974.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed in pencil, LR: [Mike Lynch]",
+  "signed": "Signed in pencil, LR: Mike Lynch",
   "style": "20th century",
   "text": "",
   "title": "Street Lamp"

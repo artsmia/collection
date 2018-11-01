@@ -1,5 +1,6 @@
 {
   "accession_number": "P.83.60.14",
+  "art_champions_text": null,
   "artist": "Artist: Gary L. Johnson; Artist: Timothy P. Greer",
   "catalogue_raissonne": "VEL 131",
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "VEL studio stamp in silver ink (verso): PRINTED AT VERMILLION EDITIONS LTD.",
   "medium": "Lithograph in white ink",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "58973",
+    "58975"
   ],
   "signed": "LR: [Gary L. Johnson]\r\nLL: [A.P. 1/10]\r\nLC: [\\\"The Neo-Cookie-Cutter Style\\\"]",
   "style": "20th century",

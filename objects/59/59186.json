@@ -1,5 +1,6 @@
 {
   "accession_number": "P.83.59.98",
+  "art_champions_text": null,
   "artist": "Artist: Steven Sorman",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "",
   "medium": "Color etching",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "59172",
+    "59174",
+    "59181",
+    "59186"
   ],
   "signed": "",
   "style": "20th century",

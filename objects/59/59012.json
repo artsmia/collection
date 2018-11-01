@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.54.1",
-  "artist": "Artist: Mike Lynch; Publisher: Northwestern National Bank, Minneapolis",
+  "art_champions_text": null,
+  "artist": "Artist: Mike Lynch; Printer: Vermillion Editions Limited, Minneapolis; Publisher: Northwestern National Bank, Minneapolis",
   "catalogue_raissonne": "VEL 154",
   "classification": " Prints",
   "continent": "North America",
@@ -17,14 +18,14 @@
   "image_copyright": "© Mike Lynch",
   "image_height": 3332,
   "image_width": 3875,
-  "inscription": "Signature; Date, Edition, Mark\r\n\r\nNumbered in pencil, LL: [A.P. 2/8]",
+  "inscription": "\r\n\r\n",
   "life_date": "American, born 1938",
-  "markings": "VEL Chop Mark, LL",
-  "medium": "Lithograph",
+  "markings": "Numbered in pencil, LL: A.P. 2/8\r\nVEL blindstamp, LL",
+  "medium": "Lithograph on pale gray paper",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From from Portfolio 15",
-  "provenance": "Vermillion Editions Limited, Minnepolis; acquired by MIA, 1983.",
+  "portfolio": "From Portfolio 15",
+  "provenance": "Vermillion Editions Limited, Minnepolis (printer); sold to MIA, 1983.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil, LR: [MIKE LYNCH \\'78]\r\n\r\n",
+  "signed": "Signed and dated in pencil, LR: MIKE LYNCH \\'78\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Houses by the Tracks"

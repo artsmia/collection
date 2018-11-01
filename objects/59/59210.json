@@ -1,5 +1,6 @@
 {
   "accession_number": "P.83.59.136",
+  "art_champions_text": null,
   "artist": "Artist: Steven Sorman",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "VEL chop mark",
   "medium": "Color lithograph on tan Japan paper",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "59208",
+    "59210",
+    "59211"
   ],
   "signed": "LL: [ctp 1978]\r\nLR: [Steven Sorman]",
   "style": "20th century",

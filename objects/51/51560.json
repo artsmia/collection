@@ -1,5 +1,6 @@
 {
   "accession_number": "P.13,830",
+  "art_champions_text": null,
   "artist": "Artist: Joseph Pennell",
   "catalogue_raissonne": "Wuerth.247  Stein & Karshan 50",
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "Collector\\'s \\\"D\\\" stamp printed on verso; no apparent watermark\r\n",
   "medium": "Etching and aquatint on Japan paper",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From From \"L'Estampe originale, Paris,\" vol. VIII, 1894, f.",
   "provenance": "Edward A. Foster, Minneapolis; his gift to MIA, 1965",
   "restricted": 0,
@@ -30,7 +31,9 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "43985",
+    "51560",
+    "51607"
   ],
   "signed": "In pencil",
   "style": "19th century",

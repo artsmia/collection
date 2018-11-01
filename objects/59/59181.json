@@ -1,5 +1,6 @@
 {
   "accession_number": "P.83.59.95",
+  "art_champions_text": null,
   "artist": "Artist: Steven Sorman",
   "catalogue_raissonne": null,
   "classification": " Prints",
@@ -22,7 +23,7 @@
   "markings": "LL: VEL chop mark",
   "medium": "Color etching and oil pastel",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -30,7 +31,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "59172",
+    "59174",
+    "59181",
+    "59184",
+    "59186"
   ],
   "signed": "LL: [working proof]\r\nLR: [Steven Sorman]\r\nLower center (within arrow): [THE/FIRST/BUILDING/PROJECT/ACCORDING/TO WHAT PLAN/IN 1977 (LATE)]",
   "style": "20th century",

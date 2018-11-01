@@ -1,16 +1,17 @@
 {
   "accession_number": "P.78.24",
+  "art_champions_text": null,
   "artist": "Artist: Jim Dine; Publisher: Petersburg Press Ltd., London",
-  "catalogue_raissonne": "K. 135",
+  "catalogue_raissonne": "Williams College 135",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1972",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Row of five paintbrushes of varying size",
   "dimension": "23 1/2 x 35 1/2 in. (59.69 x 90.17 cm) (plate)",
   "id": "http://api.artsmia.org/objects/42471",
   "image": "valid",
@@ -19,8 +20,8 @@
   "image_width": 6206,
   "inscription": "",
   "life_date": "American, born 1935",
-  "markings": "",
-  "medium": "Etching and drypoint",
+  "markings": "Numbered in pencil, LL: 40/75",
+  "medium": "Etching with plate tone",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -32,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed and dated in pencil, LL: Jim Dine 1973",
   "style": "20th century",
   "text": "",
-  "title": "Five Paint Brushes, State I"
+  "title": "Five Paintbrushes (first state)"
 }

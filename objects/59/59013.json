@@ -1,6 +1,7 @@
 {
   "accession_number": "P.83.59.45",
-  "artist": "Artist: Mike Lynch",
+  "art_champions_text": null,
+  "artist": "Artist: Mike Lynch; Publisher: Vermillion Editions Limited, Minneapolis",
   "catalogue_raissonne": "VEL 155",
   "classification": " Prints",
   "continent": "North America",
@@ -17,14 +18,14 @@
   "image_copyright": "© Mike Lynch",
   "image_height": 2487,
   "image_width": 3761,
-  "inscription": "Signature; Edition\r\n\r\nNumbered in pencil, LL:: [Artist\\'s proof 4/5]",
+  "inscription": "\r\n\r\n",
   "life_date": "American, born 1938",
-  "markings": "VEL Chop Mark, LL",
-  "medium": "Lithograph",
+  "markings": "Numbered in pencil, LL:: Artist\\'s proof 4/5\r\nVEL Chop mark, LL",
+  "medium": "Lithograph on cream paper",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "Vermillion Editions Limited, Minnepolis; acquired by MIA, 1983.",
+  "provenance": "Vermillion Editions Limited, Minnepolis (publisher); sold to MIA, 1983.",
   "restricted": 1,
   "rights_type": "Copyright Protected",
   "role": "Artist",
@@ -32,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed in pencil, LR: [Mike Lynch]\r\n\r\n",
+  "signed": "Signed in pencil, LR: Mike Lynch\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Prairie House"

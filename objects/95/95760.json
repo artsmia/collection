@@ -1,5 +1,6 @@
 {
   "accession_number": "2005.160.44",
+  "art_champions_text": null,
   "artist": "Artist: Robert Mapplethorpe",
   "catalogue_raissonne": "VEL 157; Robert Mapplethorpe Foundation 1900",
   "classification": " Prints",
@@ -10,7 +11,7 @@
   "curator_approved": 1,
   "dated": "1988",
   "department": "Prints and Drawings",
-  "description": "close-up of the artist's eyes on gold background",
+  "description": "close-up of the artist's eyes on gold background. Unsigned",
   "dimension": "23 3/8 x 48 7/8 in. (59.37 x 124.14 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/95760",
   "image": "valid",
@@ -33,7 +34,7 @@
     "93267",
     "95760"
   ],
-  "signed": "unsigned",
+  "signed": "",
   "style": "20th century",
   "text": "",
   "title": "Self-Portrait"
