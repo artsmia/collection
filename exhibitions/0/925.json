@@ -10,12 +10,5 @@
   "objects": [
     50
   ],
-  "venues": [
-    {
-      "venue": "Art Institute of Chicago",
-      "begin": 1933,
-      "end": 1933,
-      "display_date": "Thursday, June 01, 1933 - Wednesday, November 01, 1933"
-    }
-  ]
+  "venues": []
 }
