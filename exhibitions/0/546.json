@@ -10,5 +10,12 @@
   "objects": [
     2606
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Montreal Museum of Fine Arts",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Thursday, October 02, 2003 - Sunday, March 07, 2004"
+    }
+  ]
 }
