@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2428,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Stuart Davis: In Full Swing",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Saturday, April 08, 2017 - Monday, January 08, 2018",
+  "public_info": 0,
+  "objects": [
+    98689,
+    121786
+  ],
+  "venues": [
+    {
+      "venue": "Crystal Bridges Museum of American Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, April 08, 2017 - Monday, January 08, 2018"
+    },
+    {
+      "venue": "Fine Arts Museums of San Francisco, de Young Memorial Musuem",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, April 08, 2017 - Monday, January 08, 2018"
+    }
+  ]
+}
