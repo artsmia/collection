@@ -10,24 +10,5 @@
   "objects": [
     2241
   ],
-  "venues": [
-    {
-      "venue": "Davis Museum and Cultural Center",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Sunday, June 05, 2011 - Sunday, May 13, 2012"
-    },
-    {
-      "venue": "Katonah Museum of Art",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Sunday, June 05, 2011 - Sunday, May 13, 2012"
-    },
-    {
-      "venue": "Mint Museum of Art",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Sunday, June 05, 2011 - Sunday, May 13, 2012"
-    }
-  ]
+  "venues": []
 }
