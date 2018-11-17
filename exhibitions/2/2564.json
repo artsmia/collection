@@ -43,5 +43,12 @@
     116534,
     116535
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": null
+    }
+  ]
 }
