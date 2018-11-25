@@ -10,5 +10,24 @@
   "objects": [
     40331
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, July 07, 2007 - Sunday, September 14, 2008"
+    },
+    {
+      "venue": "Williams College Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, July 07, 2007 - Sunday, September 14, 2008"
+    },
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, July 07, 2007 - Sunday, September 14, 2008"
+    }
+  ]
 }
