@@ -10,5 +10,12 @@
   "objects": [
     1374
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "University of Minnesota Gallery, Minneapolis",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "Monday, June 23, 1969 - Saturday, August 23, 1969"
+    }
+  ]
 }
