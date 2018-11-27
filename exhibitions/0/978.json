@@ -10,5 +10,12 @@
   "objects": [
     10662
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Sunday, May 03, 2009 - Sunday, August 09, 2009"
+    }
+  ]
 }
