@@ -13,5 +13,24 @@
     114648,
     114658
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, October 30, 2011 - Sunday, September 16, 2012"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, October 30, 2011 - Sunday, September 16, 2012"
+    },
+    {
+      "venue": "North Carolina Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, October 30, 2011 - Sunday, September 16, 2012"
+    }
+  ]
 }
