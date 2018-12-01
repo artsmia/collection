@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.214",
   "art_champions_text": null,
-  "artist": "Artist: Utagawa Kuniteru II",
+  "artist": "Artist: Utagawa Kuniteru II; Publisher: Daikokuya Heikichi",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -11,14 +11,14 @@
   "curator_approved": 0,
   "dated": "1866, 2nd month",
   "department": "Japanese and Korean Art",
-  "description": "",
-  "dimension": "14 1/8 x 9 5/16 in. (35.8 x 23.7 cm) (sheet)",
+  "description": "left sheet of a triptych",
+  "dimension": "13 7/8 × 9 5/16 in. (35.2 × 23.7 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/68503",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2552,
   "image_width": 1730,
-  "inscription": "Titles for panels (clockwise): {Yumitori no zu} (Scene of The Conferment of the Championship Bow); {Shitaku beya no zu} (Scene of Dressing Room); {Kido uchi no zu} (Scene of Ringside Room); {Kido O-fuda ?? no zu} (Scene of Accounting Room); {Gyōji beya no zu} (Scene of Referees Room); {Senjō sai te-uchi ni zu} (Scene of Rice Offering Ceremony)",
+  "inscription": "Scenes from top to bottom, left to right: 千秋楽手打之図 {Senshūraku teuchi no zu} (Picture of the concluding program); 弓取之図 {Yumitori no zu} (Picture of the bow-twirling ceremony); 行司部屋之図 {Gyōji beya no zu} (Picture of the referee room); 仕度部屋図 {Shitaku beya no zu} (Picture of the dressing room); 木戸大札場之図 {Kido daifudaba no zu} (Picture of the sumo arena\\'s accounting space); 木戸内之図 {Kido uchi no zu} (Picture of the sumo arena)",
   "life_date": "Japanese, 1829 - 1874",
   "markings": "Censor: Kai+Tiger 2",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "ōju Ichiyu_sai Kuniteru ga zu",
+  "signed": "応需一雄斎国輝画図 {ōju Ichiyūsai Kuniteru ga zu}",
   "style": "19th century",
-  "text": "",
-  "title": "(Six Scenes of Sumō Wrestling)"
+  "text": "This is the left sheet of a triptych that illustrates on-stage and back-stage scenes during a sumo tournament organized for fundraising. From top to bottom, left to right, these are: Picture of the concluding program; Picture of the bow-twirling ceremony; Picture of the referee room; Picture of the dressing room; Picture of the sumo arena's accounting space; Picture of the sumo arena.",
+  "title": "Picture of a Thriving Grand Fundraising Sumo Tournament"
 }

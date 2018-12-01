@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.99",
   "art_champions_text": null,
-  "artist": "Artist: Ryūryūkyo Shinsai; Publisher: Maruya Bun'emon",
+  "artist": "Artist: Ryūryūkyo Shinsai; Publisher: Maruya Bun'emon; Inscriber: Dondontei Wataru",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -9,18 +9,18 @@
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "early 19th century",
+  "dated": "1814",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "14 13/16 x 9 13/16 in. (37.6 x 25 cm) (image, sheet)",
+  "dimension": "14 13/16 × 9 13/16 in. (37.6 × 25 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/77980",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2885,
   "image_width": 1937,
-  "inscription": "short description of the wrestler and the kyo_ka poem admiring him by Dondontei Kazutaru(Sumo_ drummer)\r\ndescription:\r\nDespite his young age\r\nHe is great on ring\r\nAs tall as box seats\r\nRaising a battle cry louder and loude\r\n(Toshi wa dohyo_ no kazu futatsu ?? shite\r\nShi-hon mushiro no ????? yoku\r\nTake wa sajiki no ue ni miagete\r\nHoyuru koe iyoiyo takashi\r\nsomo_ daiko no Dondontei Kazutaru san)\r\n\r\npoem:illegible",
+  "inscription": "right: ... {Nakasendō Fukaya no umare shōnen jūyon sai Shirataki Saijirō mitake go shaku hachi sun omosa nijūsan kanme}\r\ncenter: ... {Toshi wa dohyō no kazu ni tarasu shite yon hon hashira no hone kumi yoku take wa sanpo no ue ni miagete homuru koe iyoiyo takashi}\r\nleft: ... {Sumō taiko Dondontei Wataru; Isamashi ya chikara kofu aru sune matsu mo o shita fu su ka to mi ne no shirataki}",
   "life_date": "Japanese, 1764? - 1820",
-  "markings": "Censor:kiwame\r\nPublisher:Marubun\r\nprofile of the wrester written aroun his name\r\nborn in Fukaya on the Nakasendo_ road\r\n14 years old\r\nhight: 5 shaku 8 sun(about 175 cm)\r\nweight:23 kanme(about 87 kg)",
+  "markings": "Censor: {kiwame}; Publisher: Marubun",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / sumō-e)",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Ryu_kyo_te Shinsai ga",
-  "style": "18th-19th century",
-  "text": "",
-  "title": "The Sumō Wrestler Shirataki Saijirō"
+  "signed": "柳々居辰斎画 {Ryūryūkyo Shinsai ga}",
+  "style": "19th century",
+  "text": "Portrait of the strong boy Shirataki Saijirō from Fukaya along the Nakasendō highway. He is captured at age 14, 5 shaku 8 sun tall (ca. 69 in. / 176 cm) and 23 kanme (ca. 190 lb / 86 kg) weight. His career as a sumo wrestler in Edo was very brief and he only appeared in one tournament in the 11th lunar month 1813 where he lost all bouts. This near-pristine print must have been produced shortly thereafter.",
+  "title": "The Sumo Wrestler Shirataki Saijirō"
 }

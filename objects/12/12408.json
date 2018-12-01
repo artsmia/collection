@@ -1,7 +1,7 @@
 {
   "accession_number": "14.80",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: Echigo-no-Kami",
   "catalogue_raissonne": null,
   "classification": " Metalwork",
   "continent": "Asia",
@@ -9,9 +9,9 @@
   "creditline": "Bequest of John Scott Bradstreet",
   "culture": null,
   "curator_approved": 0,
-  "dated": "19th century",
+  "dated": "late 19th century",
   "department": "Japanese and Korean Art",
-  "description": "Vase, large, gourd handles.",
+  "description": "Vase, large, gourd handles",
   "dimension": "12 x 11 x 11 in. (30.5 x 27.94 x 27.94 cm)",
   "id": "http://api.artsmia.org/objects/12408",
   "image": "invalid",
@@ -19,10 +19,10 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": null,
+  "life_date": "Japanese",
   "markings": "",
   "medium": "Bronze",
-  "nationality": null,
+  "nationality": "Japanese",
   "object_name": "Vase",
   "portfolio": "From ",
   "provenance": "",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "天下一越後守作 {Tenka-ichi Echigo-no-Kami saku}",
   "style": "19th century",
   "text": "",
-  "title": "Vase"
+  "title": "Large vase with gourd handles"
 }

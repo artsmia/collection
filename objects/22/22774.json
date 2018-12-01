@@ -12,15 +12,15 @@
   "dated": "1866, 3rd month",
   "department": "Japanese and Korean Art",
   "description": "",
-  "dimension": "9 3/16 x 6 1/4 in. (23.3 x 15.9 cm) (image, sheet)",
+  "dimension": "9 3/16 × 6 1/4 in. (23.3 × 15.9 cm) (image, sheet, vertical chūban)",
   "id": "http://api.artsmia.org/objects/22774",
   "image": "valid",
   "image_copyright": "",
   "image_height": 2295,
   "image_width": 1708,
-  "inscription": "This wrestler was born in Yanagawa of Chikugo Province, belongs to Oitekaze Tamatsutsumi stable, .....(last half illegible)",
+  "inscription": "柳川　筑後柳川の産追手風玉堤。。。 {Yanagawa, Chikugo Yanagawa no umare, Oitekaze Tamatsutsumi...}",
   "life_date": "Japanese, 1823 - 1880",
-  "markings": "artist\\'s seal\r\nCensor:kai+Tiger 3\r\nPublisher:Kobayashi Testujiro_\r\nCaever:Horicho_(unknown)",
+  "markings": "artist\\'s toshidama seal; Censor:kai+Tiger 3; Publisher: Kobayashi Tetsujiro; Carver seal: 彫長",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / sumō-e)",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Kunisada ga",
+  "signed": "{Kunisada ga}",
   "style": "19th century",
-  "text": "",
-  "title": "Wrestler Tagonoura Tsurukichi"
+  "text": "Portrait of the wrestler Tagonoura Tsurukichi (1829-1900) at age 37 for the tournament in the third month 1866. Tsurukichi had come to Edo from the southern island of Kyushu and been a wrestler for six years. For the last time in this tournament he fought under the name Tsurukichi and then changed it to Kazō which he used until his retirement five years later.",
+  "title": "Sumo Wrestler Tagonoura Tsurukichi"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "96.147.55",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: Kyōsai",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
   "continent": "Asia",
@@ -12,17 +12,17 @@
   "dated": "c. 1880",
   "department": "Japanese and Korean Art",
   "description": "carved ivory figure of a man holding a long tailed cockerel with a hen pecking at the long tail feathers",
-  "dimension": "7 1/2 x 3 x 2 3/8in. (19 x 7.6 x 6cm)",
+  "dimension": "7 1/2 x 3 x 2 3/8 in. (19 x 7.6 x 6 cm)",
   "id": "http://api.artsmia.org/objects/29175",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": null,
-  "markings": "underbase at center",
+  "life_date": "Japanese",
+  "markings": "",
   "medium": "Ivory",
-  "nationality": null,
+  "nationality": "Japanese",
   "object_name": "Okimono",
   "portfolio": "From ",
   "provenance": "",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "京斎 {Kyōsai}",
   "style": "19th century",
   "text": "",
-  "title": "Figure of a Man Holding a Long Tailed Cockerel"
+  "title": "Man holding a long tailed cockerel"
 }
