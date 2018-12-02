@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2220,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Urban Beauties and Rural Charms",
+  "exhibition_description": null,
+  "begin": 1980,
+  "end": 1980,
+  "display_date": "Tuesday, January 08, 1980 - Sunday, February 10, 1980",
+  "public_info": 0,
+  "objects": [
+    122166,
+    122168,
+    122182,
+    122185,
+    122187
+  ],
+  "venues": [
+    {
+      "venue": "Loch Haven Art Center",
+      "begin": 1980,
+      "end": 1980,
+      "display_date": "Tuesday, January 08, 1980 - Sunday, February 10, 1980"
+    }
+  ]
+}
