@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1000,
+  "exhibition_department": null,
+  "exhibition_title": "Art Treasures of the United Kingdom",
+  "exhibition_description": null,
+  "begin": 1857,
+  "end": 1857,
+  "display_date": "Tuesday, May 05, 1857 - Saturday, October 17, 1857",
+  "public_info": null,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Ornamental Arts",
+      "begin": 1857,
+      "end": 1857,
+      "display_date": "Tuesday, May 05, 1857 - Saturday, October 17, 1857"
+    }
+  ]
+}
