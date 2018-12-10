@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 1777,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "The Seven Deadly Sins: Pride",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2015,
+  "display_date": "Saturday, June 27, 2015 - Sunday, October 18, 2015",
+  "public_info": 0,
+  "objects": [
+    42193,
+    53034
+  ],
+  "venues": [
+    {
+      "venue": "Bruce Museum",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Saturday, June 27, 2015 - Sunday, October 18, 2015"
+    }
+  ]
+}
