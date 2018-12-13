@@ -11,16 +11,16 @@
   "curator_approved": 0,
   "dated": "1912",
   "department": "Japanese and Korean Art",
-  "description": "image of a stylized monkey hugging a gourd; text at top",
+  "description": "image of a stylized monkey hugging a gourd on top of a catfish; text at top",
   "dimension": "14 1/4 × 2 3/8 in. (36.2 × 6.03 cm)",
   "id": "http://api.artsmia.org/objects/122231",
   "image": "valid",
   "image_copyright": "",
   "image_height": 5779,
   "image_width": 1097,
-  "inscription": "top half: [Lately there are many more men who have a monkey\\'s guile to stick a catfish into a gourd.]",
+  "inscription": "瓢〇〇で鯰〇〇さる〇〇〇 [Lately there are many more men who have a monkey\\'s guile to stick a catfish into a gourd]",
   "life_date": "Japanese, 1836 - 1924",
-  "markings": "marks on back, in pencil; seal bottom edge: {Tessai}",
+  "markings": "red artist\\'s seal: 鉄斎 {Tessai}",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "object_name": "Tanzaku",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "at top: {Tessai}",
+  "signed": "at top: 鉄斎 {Tessai}",
   "style": "20th century",
-  "text": "",
-  "title": "Monkey and Gourd"
+  "text": "The poem reads: Lately there are many more men who have a monkey's guile to stick a catfish into a gourd.",
+  "title": "Monkey trying to catch a catfish with a gourd"
 }

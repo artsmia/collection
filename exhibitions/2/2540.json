@@ -14,5 +14,12 @@
     117206,
     117645
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "ArtScience Museum",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Saturday, August 19, 2017 - Sunday, October 15, 2017"
+    }
+  ]
 }
