@@ -10,18 +10,5 @@
   "objects": [
     3077
   ],
-  "venues": [
-    {
-      "venue": "Fitzwilliam Museum",
-      "begin": 2009,
-      "end": 2009,
-      "display_date": "Thursday, February 12, 2009 - Sunday, October 04, 2009"
-    },
-    {
-      "venue": "Yale Center for British Art",
-      "begin": 2009,
-      "end": 2009,
-      "display_date": "Thursday, February 12, 2009 - Sunday, October 04, 2009"
-    }
-  ]
+  "venues": []
 }
