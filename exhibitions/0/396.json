@@ -10,18 +10,5 @@
   "objects": [
     42263
   ],
-  "venues": [
-    {
-      "venue": "Davis Museum and Cultural Center",
-      "begin": 2002,
-      "end": 2002,
-      "display_date": "Sunday, February 17, 2002 - Sunday, December 08, 2002"
-    },
-    {
-      "venue": "University of Michigan Museum of Art",
-      "begin": 2002,
-      "end": 2002,
-      "display_date": "Sunday, February 17, 2002 - Sunday, December 08, 2002"
-    }
-  ]
+  "venues": []
 }

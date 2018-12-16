@@ -10,18 +10,5 @@
   "objects": [
     3135
   ],
-  "venues": [
-    {
-      "venue": "Sterling and Francine Clark Art Institute",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Sunday, October 28, 2007 - Sunday, May 04, 2008"
-    },
-    {
-      "venue": "The J. Paul Getty Museum",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Sunday, October 28, 2007 - Sunday, May 04, 2008"
-    }
-  ]
+  "venues": []
 }
