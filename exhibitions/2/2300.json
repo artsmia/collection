@@ -11,5 +11,12 @@
     99498,
     116580
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Farnsworth Art Museum",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, June 17, 2017 - Sunday, January 07, 2018"
+    }
+  ]
 }
