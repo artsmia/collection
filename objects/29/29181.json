@@ -1,7 +1,7 @@
 {
   "accession_number": "96.147.60",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: Yasuhide",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
   "continent": "Asia",
@@ -9,9 +9,9 @@
   "creditline": "Gift of Leo A. and Doris Hodroff",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1890",
+  "dated": "late 19th century",
   "department": "Japanese and Korean Art",
-  "description": "carved ivory group of a man holding a cray fish up in the air with his right hand; mounted on a circular carved wood base",
+  "description": "carved group of a man holding a cray fish up in the air with his right hand; front part of ivory stick in his left hand is broken off; mounted on a circular carved wood base",
   "dimension": "7 9/16 x 3 3/4 in. (19.2 x 9.53 cm)",
   "id": "http://api.artsmia.org/objects/29181",
   "image": "invalid",
@@ -19,10 +19,10 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": null,
+  "life_date": "Japanese",
   "markings": "",
-  "medium": "Ivory",
-  "nationality": null,
+  "medium": "Ivory; wood",
+  "nationality": "Japanese",
   "object_name": "Okimono",
   "portfolio": "From ",
   "provenance": "",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "undecifered at underside of robe at back",
+  "signed": "安秀 {Yasuhide}",
   "style": "19th century",
   "text": "",
   "title": "Old Man with Crayfish"
