@@ -11,5 +11,12 @@
     42193,
     53034
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Bruce Museum",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Saturday, June 27, 2015 - Sunday, October 18, 2015"
+    }
+  ]
 }
