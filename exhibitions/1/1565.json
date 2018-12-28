@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1565,
+  "exhibition_department": null,
+  "exhibition_title": "Impressionsists on the Water",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2013,
+  "display_date": "Saturday, June 01, 2013 - Sunday, October 13, 2013",
+  "public_info": null,
+  "objects": [
+    1234
+  ],
+  "venues": [
+    {
+      "venue": "Legion of Honor",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Saturday, June 01, 2013 - Sunday, October 13, 2013"
+    }
+  ]
+}
