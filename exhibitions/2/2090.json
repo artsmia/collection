@@ -11,5 +11,12 @@
     40037,
     123101
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Tuesday, February 27, 2007 - Sunday, August 26, 2007"
+    }
+  ]
 }
