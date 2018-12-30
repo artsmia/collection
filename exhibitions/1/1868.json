@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 1868,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Nikuhitsu ukiyo-e meisaku ten",
+  "exhibition_description": null,
+  "begin": 1967,
+  "end": 1967,
+  "display_date": "Wednesday, May 10, 1967 - Tuesday, June 13, 1967",
+  "public_info": 0,
+  "objects": [
+    116865,
+    116866
+  ],
+  "venues": [
+    {
+      "venue": "Ichimura Department Store",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Wednesday, May 10, 1967 - Tuesday, June 13, 1967"
+    },
+    {
+      "venue": "Kobayashi Department Store",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Wednesday, May 10, 1967 - Tuesday, June 13, 1967"
+    }
+  ]
+}
