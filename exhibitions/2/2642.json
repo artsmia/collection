@@ -10,12 +10,5 @@
   "objects": [
     46
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 1915,
-      "end": 2015,
-      "display_date": null
-    }
-  ]
+  "venues": []
 }
