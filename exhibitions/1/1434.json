@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1434,
+  "exhibition_department": null,
+  "exhibition_title": "The Minneapolis School of Art 1964",
+  "exhibition_description": null,
+  "begin": 1964,
+  "end": 1964,
+  "display_date": "Friday, March 06, 1964 - Tuesday, March 31, 1964",
+  "public_info": null,
+  "objects": [
+    18158
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis School of Art",
+      "begin": 1964,
+      "end": 1964,
+      "display_date": "Friday, March 06, 1964 - Tuesday, March 31, 1964"
+    }
+  ]
+}
