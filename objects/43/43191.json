@@ -1,14 +1,14 @@
 {
   "accession_number": "P.92.6.18",
   "art_champions_text": null,
-  "artist": "Maker: Robert Mapplethorpe",
+  "artist": "Photographer: Robert Mapplethorpe; Printer: Steven M. Andersen",
   "catalogue_raissonne": "VEL 160; Robert Mapplethorpe Foundation L.2012",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1988",
   "department": "Prints and Drawings",
   "description": "",
@@ -19,13 +19,13 @@
   "image_height": 3698,
   "image_width": 3133,
   "inscription": "",
-  "life_date": "American, 1946 - 1989",
-  "markings": "",
+  "life_date": "American, born 1946",
+  "markings": "In pencil, LL margin: C.T.P #3/3 \r\nIn pencil, LR margin: COLOR TRIAL PROOF",
   "medium": "Color photolithograph",
   "nationality": "American",
-  "object_name": "Print",
-  "portfolio": "From From the America suite",
-  "provenance": "Vermillion Editions Limited, Minneapolis",
+  "object_name": "Print (part of a triptych)",
+  "portfolio": "From America",
+  "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1992.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Initialed in pencil by the printer, LL margin: sma",
   "style": "20th century",
   "text": "",
-  "title": "Sonia Resika, from the suite America"
+  "title": "America: Sonia Resika"
 }
