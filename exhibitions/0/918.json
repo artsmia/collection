@@ -44,5 +44,12 @@
     15638,
     57591
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1955,
+      "end": 1955,
+      "display_date": "Wednesday, January 12, 1955 - Sunday, February 27, 1955"
+    }
+  ]
 }
