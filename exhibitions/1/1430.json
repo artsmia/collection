@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1430,
+  "exhibition_department": null,
+  "exhibition_title": "Luthern Brotherhood Gallery 1982 to 1983",
+  "exhibition_description": null,
+  "begin": 1982,
+  "end": 1983,
+  "display_date": "Wednesday, December 15, 1982 - Thursday, February 10, 1983",
+  "public_info": null,
+  "objects": [
+    16367
+  ],
+  "venues": [
+    {
+      "venue": "Lutheran Brotherhood",
+      "begin": 1982,
+      "end": 1983,
+      "display_date": "Wednesday, December 15, 1982 - Thursday, February 10, 1983"
+    }
+  ]
+}

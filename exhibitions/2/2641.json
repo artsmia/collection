@@ -1,7 +1,7 @@
 {
   "exhibition_id": 2641,
   "exhibition_department": "(not assigned)",
-  "exhibition_title": "Paul Revere: Artisan and Entrepreneur",
+  "exhibition_title": "Beyond Midnight: Paul Revere",
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
@@ -29,6 +29,12 @@
   ],
   "venues": [
     {
+      "venue": "Concord Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, September 06, 2019 - Sunday, October 11, 2020"
+    },
+    {
       "venue": "Crystal Bridges Museum of American Art",
       "begin": 2019,
       "end": 2020,
@@ -36,12 +42,6 @@
     },
     {
       "venue": "New York Historical Society",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Friday, September 06, 2019 - Sunday, October 11, 2020"
-    },
-    {
-      "venue": "Worcester Art Museum",
       "begin": 2019,
       "end": 2020,
       "display_date": "Friday, September 06, 2019 - Sunday, October 11, 2020"
