@@ -14,10 +14,10 @@
   "description": "vertical ōban diptych with 2002.161.175.1; man with wrists crossed, wearing blue and white garment; bright blue ground; L2001.372.194-249 received bound into a book",
   "dimension": "14 3/16 × 9 11/16 in. (36.04 × 24.61 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/63406",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6491,
+  "image_width": 4649,
   "inscription": "",
   "life_date": "Japanese, 1835 - 1900",
   "markings": "Censor: Kai + December 1868",
@@ -36,5 +36,5 @@
   "signed": "{Kunichika hitsu}",
   "style": "19th century",
   "text": "",
-  "title": "Reputable Spring Sumo Turrets"
+  "title": "Popular Pillars of the Spring Sumo Tournament"
 }

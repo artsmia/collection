@@ -10,5 +10,12 @@
   "objects": [
     16367
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "New York World's Fair",
+      "begin": 1939,
+      "end": 1939,
+      "display_date": "1939"
+    }
+  ]
 }
