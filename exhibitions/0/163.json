@@ -10,5 +10,12 @@
   "objects": [
     3885
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Whitney Museum of American Art, New York",
+      "begin": 1998,
+      "end": 1999,
+      "display_date": "Thursday, October 01, 1998 - Thursday, January 07, 1999"
+    }
+  ]
 }
