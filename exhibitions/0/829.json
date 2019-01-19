@@ -10,5 +10,24 @@
   "objects": [
     3885
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009"
+    },
+    {
+      "venue": "Museo di Arte Moderna e Contemporanea di Trento e Rovereto",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009"
+    },
+    {
+      "venue": "Musée du Quai Branly",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009"
+    }
+  ]
 }

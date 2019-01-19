@@ -21,5 +21,12 @@
     67805,
     91029
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Wells Fargo Bank Minneapolis",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Monday, October 09, 2006 - Friday, September 28, 2007"
+    }
+  ]
 }
