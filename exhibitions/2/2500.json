@@ -11,5 +11,12 @@
     800,
     1397
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Palais des Beaux-Arts de Lille",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Thursday, October 12, 2017 - Sunday, January 21, 2018"
+    }
+  ]
 }
