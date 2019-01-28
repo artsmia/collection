@@ -10,5 +10,12 @@
   "objects": [
     589
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "I.B.M. Gallery",
+      "begin": 1962,
+      "end": 1962,
+      "display_date": "Tuesday, November 13, 1962 - Friday, November 30, 1962"
+    }
+  ]
 }

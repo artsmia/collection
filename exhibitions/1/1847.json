@@ -17,24 +17,5 @@
     117194,
     122169
   ],
-  "venues": [
-    {
-      "venue": "Osaka Municipal Museum of Art",
-      "begin": 1988,
-      "end": 1988,
-      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
-    },
-    {
-      "venue": "Sendai City Museum",
-      "begin": 1988,
-      "end": 1988,
-      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
-    },
-    {
-      "venue": "Sogo Museum",
-      "begin": 1988,
-      "end": 1988,
-      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
-    }
-  ]
+  "venues": []
 }
