@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 752,
+  "exhibition_department": null,
+  "exhibition_title": "Balthus",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2007,
+  "display_date": "Tuesday, September 18, 2007 - Sunday, November 04, 2007",
+  "public_info": null,
+  "objects": [
+    1627
+  ],
+  "venues": [
+    {
+      "venue": "Museum Ludwig",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Tuesday, September 18, 2007 - Sunday, November 04, 2007"
+    }
+  ]
+}
