@@ -18,5 +18,12 @@
     118015,
     118336
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Thursday, September 01, 2005 - Saturday, December 31, 2005"
+    }
+  ]
 }
