@@ -10,5 +10,12 @@
   "objects": [
     4035
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Singer Museum",
+      "begin": 1961,
+      "end": 1961,
+      "display_date": "Saturday, July 01, 1961 - Sunday, September 10, 1961"
+    }
+  ]
 }
