@@ -10,5 +10,18 @@
   "objects": [
     4029
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Brooklyn Museum",
+      "begin": 2011,
+      "end": 2011,
+      "display_date": "Sunday, February 20, 2011 - Sunday, October 02, 2011"
+    },
+    {
+      "venue": "Frist Center for Visual Arts",
+      "begin": 2011,
+      "end": 2011,
+      "display_date": "Sunday, February 20, 2011 - Sunday, October 02, 2011"
+    }
+  ]
 }

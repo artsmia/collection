@@ -11,5 +11,12 @@
     773,
     1277
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum Folkwang",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, September 18, 2004 - Sunday, January 16, 2005"
+    }
+  ]
 }
