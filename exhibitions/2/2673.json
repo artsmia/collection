@@ -34,5 +34,12 @@
     127915,
     127967
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of New South Wales",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Tuesday, October 29, 2019 - Sunday, March 08, 2020"
+    }
+  ]
 }
