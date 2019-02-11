@@ -11,5 +11,24 @@
     1378,
     1886
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Friday, June 22, 2012 - Sunday, June 16, 2013"
+    },
+    {
+      "venue": "Musée des Augustins",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Friday, June 22, 2012 - Sunday, June 16, 2013"
+    },
+    {
+      "venue": "Wadsworth Atheneum Museum of Art",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Friday, June 22, 2012 - Sunday, June 16, 2013"
+    }
+  ]
 }

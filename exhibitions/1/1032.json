@@ -10,5 +10,18 @@
   "objects": [
     1574
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Albertina Museum",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, September 24, 2010 - Sunday, May 15, 2011"
+    },
+    {
+      "venue": "Morgan Library and Museum",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, September 24, 2010 - Sunday, May 15, 2011"
+    }
+  ]
 }
