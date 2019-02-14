@@ -10,5 +10,12 @@
   "objects": [
     18158
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Blake School",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "October 3, 1969"
+    }
+  ]
 }
