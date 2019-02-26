@@ -10,18 +10,5 @@
   "objects": [
     1689
   ],
-  "venues": [
-    {
-      "venue": "Royal Academy of Arts",
-      "begin": 2012,
-      "end": 2013,
-      "display_date": "Thursday, October 04, 2012 - Sunday, April 14, 2013"
-    },
-    {
-      "venue": "Toledo Museum of Art",
-      "begin": 2012,
-      "end": 2013,
-      "display_date": "Thursday, October 04, 2012 - Sunday, April 14, 2013"
-    }
-  ]
+  "venues": []
 }

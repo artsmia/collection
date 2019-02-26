@@ -10,5 +10,12 @@
   "objects": [
     1226
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Fondation Beyeler",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Friday, May 01, 2020 - Saturday, August 01, 2020"
+    }
+  ]
 }
