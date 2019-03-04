@@ -29,5 +29,12 @@
     122422,
     122727
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Morikami Museum and Japanese Gardens",
+      "begin": 1993,
+      "end": 1993,
+      "display_date": "Saturday, January 30, 1993 - Sunday, March 28, 1993"
+    }
+  ]
 }
