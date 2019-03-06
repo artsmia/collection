@@ -10,5 +10,12 @@
   "objects": [
     4067
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Allianz",
+      "begin": 1998,
+      "end": 1999,
+      "display_date": "Wednesday, July 01, 1998 - Tuesday, July 13, 1999"
+    }
+  ]
 }
