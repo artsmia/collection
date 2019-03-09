@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2704,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "David Park Retrospective",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, May 31, 2019 - Monday, September 07, 2020",
+  "public_info": 0,
+  "objects": [
+    121685
+  ],
+  "venues": [
+    {
+      "venue": "Modern Art Museum of Fort Worth",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, May 31, 2019 - Monday, September 07, 2020"
+    },
+    {
+      "venue": "San Francisco Museum of Modern Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, May 31, 2019 - Monday, September 07, 2020"
+    }
+  ]
+}
