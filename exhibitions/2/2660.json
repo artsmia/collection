@@ -1,0 +1,41 @@
+{
+  "exhibition_id": 2660,
+  "exhibition_department": "Contemporary Art",
+  "exhibition_title": "Contemporary Rotation 2019",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, February 23, 2019 - Sunday, March 15, 2020",
+  "public_info": 0,
+  "objects": [
+    95241,
+    111576,
+    118797,
+    118799,
+    118801,
+    118823,
+    125825,
+    126991,
+    127298,
+    128487,
+    129362,
+    129461,
+    129704,
+    130053,
+    131150,
+    131151,
+    131362,
+    131363,
+    131413,
+    131414,
+    131415
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, February 23, 2019 - Sunday, March 15, 2020"
+    }
+  ]
+}
