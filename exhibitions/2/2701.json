@@ -10,5 +10,18 @@
   "objects": [
     121826
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Chrysler Museum of Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, October 16, 2020 - Monday, May 31, 2021"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, October 16, 2020 - Monday, May 31, 2021"
+    }
+  ]
 }

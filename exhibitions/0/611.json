@@ -10,5 +10,12 @@
   "objects": [
     766
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Museum of Western Art",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Friday, September 10, 2004 - Sunday, December 12, 2004"
+    }
+  ]
 }

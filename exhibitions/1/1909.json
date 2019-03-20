@@ -1,0 +1,36 @@
+{
+  "exhibition_id": 1909,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Modern Japanese Ceramics in American Collections",
+  "exhibition_description": null,
+  "begin": 1993,
+  "end": 1994,
+  "display_date": "Wednesday, December 08, 1993 - Tuesday, August 23, 1994",
+  "public_info": 0,
+  "objects": [
+    6907,
+    6918,
+    6920,
+    99425
+  ],
+  "venues": [
+    {
+      "venue": "Honolulu Academy of Arts",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Wednesday, December 08, 1993 - Tuesday, August 23, 1994"
+    },
+    {
+      "venue": "Japan Society",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Wednesday, December 08, 1993 - Tuesday, August 23, 1994"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Wednesday, December 08, 1993 - Tuesday, August 23, 1994"
+    }
+  ]
+}
