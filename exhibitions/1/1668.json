@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1668,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Munch and Van Gogh in Paris",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2016,
+  "display_date": "Thursday, May 07, 2015 - Sunday, January 17, 2016",
+  "public_info": 0,
+  "objects": [
+    1689
+  ],
+  "venues": [
+    {
+      "venue": "Munch Museum",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Thursday, May 07, 2015 - Sunday, January 17, 2016"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Thursday, May 07, 2015 - Sunday, January 17, 2016"
+    }
+  ]
+}
