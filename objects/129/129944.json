@@ -14,10 +14,10 @@
   "description": "irregular rectangular panel; cream colored; decorated with thin black lines in curving forms with X and star forms, circles with stars and rings on dots, dots parallel to lines, and zigzag in one corner",
   "dimension": "28 1/8 × 17 3/4 in. (71.44 × 45.09 cm)",
   "id": "http://api.artsmia.org/objects/129944",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3593,
+  "image_width": 2585,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "No Known Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G255",
   "see_also": [
     ""
   ],
