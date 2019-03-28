@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2708,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "El Greco Grand Palais and Art Institute of Chicago",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Monday, October 14, 2019 - Monday, February 10, 2020",
+  "public_info": 0,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Monday, October 14, 2019 - Monday, February 10, 2020"
+    },
+    {
+      "venue": "Établissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Élysées",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Monday, October 14, 2019 - Monday, February 10, 2020"
+    }
+  ]
+}
