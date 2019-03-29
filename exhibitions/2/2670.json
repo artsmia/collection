@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
-  "display_date": "Saturday, June 22, 2019 - Sunday, January 12, 2020",
+  "display_date": "Saturday, June 22, 2019 - Sunday, May 10, 2020",
   "public_info": 0,
   "objects": [
     1819
@@ -15,13 +15,19 @@
       "venue": "Brandywine River Museum of Art",
       "begin": 2019,
       "end": 2020,
-      "display_date": "Saturday, June 22, 2019 - Sunday, January 12, 2020"
+      "display_date": "Saturday, June 22, 2019 - Sunday, May 10, 2020"
     },
     {
       "venue": "Portland Museum of Art",
       "begin": 2019,
       "end": 2020,
-      "display_date": "Saturday, June 22, 2019 - Sunday, January 12, 2020"
+      "display_date": "Saturday, June 22, 2019 - Sunday, May 10, 2020"
+    },
+    {
+      "venue": "Taft Museum of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, June 22, 2019 - Sunday, May 10, 2020"
     }
   ]
 }
