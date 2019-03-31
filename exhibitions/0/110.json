@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 110,
+  "exhibition_department": null,
+  "exhibition_title": "James Tissot",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 2000,
+  "display_date": "Monday, September 13, 1999 - Wednesday, July 12, 2000",
+  "public_info": null,
+  "objects": [
+    1785
+  ],
+  "venues": [
+    {
+      "venue": "American Federation of Arts, New York",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Monday, September 13, 1999 - Wednesday, July 12, 2000"
+    }
+  ]
+}
