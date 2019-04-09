@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 2600,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Audubon",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2018,
+  "display_date": "Tuesday, October 02, 2018 - Sunday, November 11, 2018",
+  "public_info": 0,
+  "objects": [
+    8871,
+    9824,
+    66953,
+    76432
+  ],
+  "venues": [
+    {
+      "venue": "Martin Museum of Art, Baylor University",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Tuesday, October 02, 2018 - Sunday, November 11, 2018"
+    }
+  ]
+}
