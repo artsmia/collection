@@ -1,14 +1,15 @@
 {
   "exhibition_id": 2692,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Mapping Black Identities",
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
   "display_date": "Thursday, February 21, 2019 - Sunday, March 15, 2020",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
-    131530
+    131530,
+    131802
   ],
   "venues": []
 }
