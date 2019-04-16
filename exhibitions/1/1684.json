@@ -10,5 +10,12 @@
   "objects": [
     1886
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Galleria degli Uffizi",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Tuesday, February 10, 2015 - Sunday, May 24, 2015"
+    }
+  ]
 }
