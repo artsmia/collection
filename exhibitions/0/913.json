@@ -10,5 +10,12 @@
   "objects": [
     1671
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Rijksmuseum",
+      "begin": 1958,
+      "end": 1958,
+      "display_date": "Saturday, June 28, 1958 - Sunday, September 28, 1958"
+    }
+  ]
 }

@@ -10,5 +10,18 @@
   "objects": [
     57
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Tuesday, August 09, 2016 - Sunday, June 04, 2017"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Tuesday, August 09, 2016 - Sunday, June 04, 2017"
+    }
+  ]
 }
