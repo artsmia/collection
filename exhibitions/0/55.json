@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 55,
+  "exhibition_department": null,
+  "exhibition_title": "Max Beckmann",
+  "exhibition_description": null,
+  "begin": 1996,
+  "end": 1997,
+  "display_date": "Thursday, October 03, 1996 - Friday, January 17, 1997",
+  "public_info": null,
+  "objects": [
+    1270
+  ],
+  "venues": [
+    {
+      "venue": "Solomon R. Guggenheim Museum, New York",
+      "begin": 1996,
+      "end": 1997,
+      "display_date": "Thursday, October 03, 1996 - Friday, January 17, 1997"
+    }
+  ]
+}
