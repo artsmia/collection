@@ -10,5 +10,12 @@
   "objects": [
     99498
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Katonah Museum of Art",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Sunday, March 17, 2019 - Sunday, June 16, 2019"
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
-  "display_date": "Friday, October 18, 2019 - Monday, February 03, 2020",
+  "display_date": "Friday, October 18, 2019 - Wednesday, July 15, 2020",
   "public_info": 0,
   "objects": [
     3423,
@@ -17,10 +17,16 @@
   ],
   "venues": [
     {
+      "venue": "Louvre Abu Dhabi",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 18, 2019 - Wednesday, July 15, 2020"
+    },
+    {
       "venue": "Musée d'artes de Nantes",
       "begin": 2019,
       "end": 2020,
-      "display_date": "Friday, October 18, 2019 - Monday, February 03, 2020"
+      "display_date": "Friday, October 18, 2019 - Wednesday, July 15, 2020"
     }
   ]
 }

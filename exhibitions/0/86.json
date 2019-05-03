@@ -10,5 +10,12 @@
   "objects": [
     1554
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "McMichael Canadian Art Collection",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Tuesday, November 30, 1993 - Saturday, April 01, 1995"
+    }
+  ]
 }

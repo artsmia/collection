@@ -10,5 +10,12 @@
   "objects": [
     4035
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum voor Schone Kunsten",
+      "begin": 1960,
+      "end": 1960,
+      "display_date": "Sunday, April 10, 1960 - Sunday, June 26, 1960"
+    }
+  ]
 }
