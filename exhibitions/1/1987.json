@@ -10,5 +10,12 @@
   "objects": [
     122102
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Princeton University Art Museum",
+      "begin": 1976,
+      "end": 1976,
+      "display_date": "Sunday, April 25, 1976 - Sunday, June 13, 1976"
+    }
+  ]
 }
