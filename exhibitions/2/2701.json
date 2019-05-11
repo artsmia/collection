@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2701,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Americans in Spain",
+  "exhibition_description": null,
+  "begin": 2020,
+  "end": 2021,
+  "display_date": "Friday, October 16, 2020 - Monday, May 31, 2021",
+  "public_info": 0,
+  "objects": [
+    121826
+  ],
+  "venues": [
+    {
+      "venue": "Chrysler Museum of Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, October 16, 2020 - Monday, May 31, 2021"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, October 16, 2020 - Monday, May 31, 2021"
+    }
+  ]
+}
