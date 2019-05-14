@@ -72,5 +72,12 @@
     125734,
     125737
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, November 05, 2016 - Sunday, April 02, 2017"
+    }
+  ]
 }
