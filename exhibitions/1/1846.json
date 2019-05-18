@@ -1,0 +1,31 @@
+{
+  "exhibition_id": 1846,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Paintings from the Nanga School",
+  "exhibition_description": null,
+  "begin": 1990,
+  "end": 1990,
+  "display_date": "Saturday, January 27, 1990 - Sunday, May 13, 1990",
+  "public_info": 0,
+  "objects": [
+    6619,
+    99384,
+    122212,
+    122215,
+    122216,
+    122218,
+    122721,
+    122722,
+    122723,
+    122724,
+    122725
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1990,
+      "end": 1990,
+      "display_date": "Saturday, January 27, 1990 - Sunday, May 13, 1990"
+    }
+  ]
+}
