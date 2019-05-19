@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2671,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "James Tissot, 1836-1902",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, October 12, 2019 - Sunday, July 19, 2020",
+  "public_info": 0,
+  "objects": [
+    1785
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco Legion of Honor",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, October 12, 2019 - Sunday, July 19, 2020"
+    },
+    {
+      "venue": "Musée d'Orsay",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, October 12, 2019 - Sunday, July 19, 2020"
+    }
+  ]
+}
