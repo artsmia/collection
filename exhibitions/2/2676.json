@@ -16,5 +16,12 @@
     123451,
     124238
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Berkeley Art Museum and Pacific Film Archive",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Wednesday, October 02, 2019 - Sunday, February 02, 2020"
+    }
+  ]
 }
