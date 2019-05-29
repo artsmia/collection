@@ -10,5 +10,24 @@
   "objects": [
     1380
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Arthur M. Sackler Gallery",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014"
+    },
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014"
+    },
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014"
+    }
+  ]
 }
