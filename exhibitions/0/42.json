@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 42,
+  "exhibition_department": null,
+  "exhibition_title": "Daumier",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 2000,
+  "display_date": "Monday, May 03, 1999 - Wednesday, May 17, 2000",
+  "public_info": null,
+  "objects": [
+    1241
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery of Canada",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Monday, May 03, 1999 - Wednesday, May 17, 2000"
+    }
+  ]
+}
