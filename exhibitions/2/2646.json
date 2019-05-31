@@ -153,30 +153,5 @@
     132118,
     132182
   ],
-  "venues": [
-    {
-      "venue": "Frist Center for Visual Arts",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Sunday, June 02, 2019 - Sunday, September 20, 2020"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Sunday, June 02, 2019 - Sunday, September 20, 2020"
-    },
-    {
-      "venue": "Philbrook Museum of Art",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Sunday, June 02, 2019 - Sunday, September 20, 2020"
-    },
-    {
-      "venue": "Renwick Gallery of the Smithsonian American Art Museum",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Sunday, June 02, 2019 - Sunday, September 20, 2020"
-    }
-  ]
+  "venues": []
 }
