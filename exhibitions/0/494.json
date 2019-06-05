@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 494,
+  "exhibition_department": null,
+  "exhibition_title": "Vincent's Choice: the Musée Imaginaire of Van Gogh",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Friday, February 14, 2003 - Sunday, June 15, 2003",
+  "public_info": null,
+  "objects": [
+    1414
+  ],
+  "venues": [
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Friday, February 14, 2003 - Sunday, June 15, 2003"
+    }
+  ]
+}
