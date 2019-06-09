@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1084,
+  "exhibition_department": null,
+  "exhibition_title": "Galerie de Feu S.E. le Cardinal Fesch",
+  "exhibition_description": null,
+  "begin": 1844,
+  "end": 1845,
+  "display_date": "1844 to March 1845",
+  "public_info": null,
+  "objects": [
+    1858
+  ],
+  "venues": [
+    {
+      "venue": "Palais Falconieri",
+      "begin": 1844,
+      "end": 1845,
+      "display_date": "1844 to March 1845"
+    }
+  ]
+}
