@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2384,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Women Artists in Paris, 1850-1900",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Saturday, October 21, 2017 - Monday, September 03, 2018",
+  "public_info": 0,
+  "objects": [
+    10444
+  ],
+  "venues": [
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, October 21, 2017 - Monday, September 03, 2018"
+    },
+    {
+      "venue": "Speed Art Museum",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, October 21, 2017 - Monday, September 03, 2018"
+    },
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, October 21, 2017 - Monday, September 03, 2018"
+    }
+  ]
+}
