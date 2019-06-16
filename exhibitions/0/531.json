@@ -24,5 +24,12 @@
     59314,
     63752
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minnesota Museum of American Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Saturday, January 25, 2003 - Sunday, June 22, 2003"
+    }
+  ]
 }
