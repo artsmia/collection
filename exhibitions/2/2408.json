@@ -10,5 +10,12 @@
   "objects": [
     2420
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Thursday, February 16, 2017 - Sunday, May 21, 2017"
+    }
+  ]
 }
