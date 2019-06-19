@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 1921,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Nihon sankei",
+  "exhibition_description": null,
+  "begin": 2005,
+  "end": 2005,
+  "display_date": "Tuesday, August 02, 2005 - Sunday, November 27, 2005",
+  "public_info": 0,
+  "objects": [
+    121366,
+    121376
+  ],
+  "venues": [
+    {
+      "venue": "Hiroshima Prefectural Museum of Art",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Tuesday, August 02, 2005 - Sunday, November 27, 2005"
+    },
+    {
+      "venue": "Kyoto National Museum",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Tuesday, August 02, 2005 - Sunday, November 27, 2005"
+    },
+    {
+      "venue": "Tohoku History Museum",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Tuesday, August 02, 2005 - Sunday, November 27, 2005"
+    }
+  ]
+}
