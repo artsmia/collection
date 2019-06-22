@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 923,
+  "exhibition_department": null,
+  "exhibition_title": "Kunsthistorische Ausstellung",
+  "exhibition_description": null,
+  "begin": 1876,
+  "end": 1876,
+  "display_date": "1876",
+  "public_info": null,
+  "objects": [
+    4035
+  ],
+  "venues": [
+    {
+      "venue": "Civil-Casino",
+      "begin": 1876,
+      "end": 1876,
+      "display_date": "1876"
+    }
+  ]
+}
