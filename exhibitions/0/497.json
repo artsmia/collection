@@ -10,5 +10,24 @@
   "objects": [
     18284
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Cincinnati Art Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004"
+    },
+    {
+      "venue": "Hood Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004"
+    },
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004"
+    }
+  ]
 }
