@@ -12,5 +12,12 @@
     4179,
     8897
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Jewish Museum",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Sunday, September 24, 2000 - Sunday, February 11, 2001"
+    }
+  ]
 }
