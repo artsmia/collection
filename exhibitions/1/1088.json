@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1088,
+  "exhibition_department": null,
+  "exhibition_title": "Masterpieces from the Cook Collection of Richmond, England",
+  "exhibition_description": null,
+  "begin": 1944,
+  "end": 1945,
+  "display_date": "1944 to 1945",
+  "public_info": null,
+  "objects": [
+    1341
+  ],
+  "venues": [
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1944,
+      "end": 1945,
+      "display_date": "1944 to 1945"
+    }
+  ]
+}
