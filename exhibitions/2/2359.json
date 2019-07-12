@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 2359,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Bill Clark Memorial Service",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2016,
+  "display_date": "Saturday, April 23, 2016 - Saturday, April 23, 2016",
+  "public_info": 0,
+  "objects": [
+    117190,
+    117191,
+    117192,
+    117193,
+    117194,
+    117359,
+    118224,
+    118417,
+    118457
+  ],
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Saturday, April 23, 2016 - Saturday, April 23, 2016"
+    }
+  ]
+}
