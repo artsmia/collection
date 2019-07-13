@@ -16,5 +16,12 @@
     122184,
     122210
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Monday, January 08, 1996 - Monday, April 29, 1996"
+    }
+  ]
 }

@@ -10,18 +10,5 @@
   "objects": [
     1673
   ],
-  "venues": [
-    {
-      "venue": "Cleveland Museum of Art",
-      "begin": 2017,
-      "end": 2017,
-      "display_date": "Sunday, September 10, 2017 - Sunday, December 31, 2017"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2017,
-      "end": 2017,
-      "display_date": "Sunday, September 10, 2017 - Sunday, December 31, 2017"
-    }
-  ]
+  "venues": []
 }
