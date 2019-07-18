@@ -10,5 +10,12 @@
   "objects": [
     731
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Winnipeg Art Gallery",
+      "begin": 1952,
+      "end": 1952,
+      "display_date": "Sunday, October 05, 1952 - Sunday, November 02, 1952"
+    }
+  ]
 }
