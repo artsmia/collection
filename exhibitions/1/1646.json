@@ -10,5 +10,12 @@
   "objects": [
     1240
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée d'Orsay",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Monday, March 16, 2015 - Sunday, July 19, 2015"
+    }
+  ]
 }

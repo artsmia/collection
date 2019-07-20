@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1414,
+  "exhibition_department": null,
+  "exhibition_title": "Exhibition of Paintings by George Bellows",
+  "exhibition_description": null,
+  "begin": 1925,
+  "end": 1925,
+  "display_date": "Sunday, February 22, 1925 - Sunday, March 08, 1925",
+  "public_info": null,
+  "objects": [
+    1385
+  ],
+  "venues": [
+    {
+      "venue": "Worcester Art Museum",
+      "begin": 1925,
+      "end": 1925,
+      "display_date": "Sunday, February 22, 1925 - Sunday, March 08, 1925"
+    }
+  ]
+}

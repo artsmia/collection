@@ -39,5 +39,12 @@
     19596,
     19597
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Hamilton",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Saturday, January 15, 2000 - Tuesday, October 24, 2000"
+    }
+  ]
 }
