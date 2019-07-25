@@ -10,5 +10,12 @@
   "objects": [
     122103
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1993,
+      "end": 1993,
+      "display_date": "Monday, February 01, 1993 - Monday, June 07, 1993"
+    }
+  ]
 }
