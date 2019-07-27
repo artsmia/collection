@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2316,
+  "exhibition_department": null,
+  "exhibition_title": "Cleveland Museum of Art Centennial Celebration",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2016,
+  "display_date": "Saturday, October 01, 2016 - Saturday, December 31, 2016",
+  "public_info": null,
+  "objects": [
+    1355
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Saturday, October 01, 2016 - Saturday, December 31, 2016"
+    }
+  ]
+}
