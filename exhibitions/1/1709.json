@@ -506,5 +506,12 @@
     124525,
     131148
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2015,
+      "end": 2019,
+      "display_date": "Thursday, January 01, 2015 - Sunday, February 24, 2019"
+    }
+  ]
 }
