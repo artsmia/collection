@@ -10,5 +10,12 @@
   "objects": [
     3221
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Frances Lehman Loeb Art Center",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Friday, April 08, 2005 - Sunday, June 19, 2005"
+    }
+  ]
 }
