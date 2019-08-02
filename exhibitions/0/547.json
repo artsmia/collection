@@ -10,5 +10,12 @@
   "objects": [
     1480
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée Marmottan Monet",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, October 01, 2003 - Sunday, January 18, 2004"
+    }
+  ]
 }

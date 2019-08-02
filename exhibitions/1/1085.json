@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1085,
+  "exhibition_department": null,
+  "exhibition_title": "Gemälde Alter Meister",
+  "exhibition_description": null,
+  "begin": 1971,
+  "end": 1971,
+  "display_date": "Thursday, April 01, 1971 - Monday, May 17, 1971",
+  "public_info": null,
+  "objects": [
+    1858
+  ],
+  "venues": [
+    {
+      "venue": "Galerie Sanct Lucas",
+      "begin": 1971,
+      "end": 1971,
+      "display_date": "Thursday, April 01, 1971 - Monday, May 17, 1971"
+    }
+  ]
+}
