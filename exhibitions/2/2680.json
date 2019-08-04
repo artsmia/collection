@@ -12,18 +12,5 @@
     55371,
     104894
   ],
-  "venues": [
-    {
-      "venue": "Columbus Museum of Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Sunday, October 11, 2020 - Sunday, May 02, 2021"
-    },
-    {
-      "venue": "Santa Barbara Museum of Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Sunday, October 11, 2020 - Sunday, May 02, 2021"
-    }
-  ]
+  "venues": []
 }
