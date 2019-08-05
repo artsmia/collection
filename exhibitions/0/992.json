@@ -10,5 +10,12 @@
   "objects": [
     2805
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Des Moines Art Center",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Friday, January 09, 2009 - Thursday, September 09, 2010"
+    }
+  ]
 }

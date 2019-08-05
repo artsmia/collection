@@ -11,5 +11,24 @@
     1488,
     1772
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Chazen Museum of Art",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, September 17, 2016 - Sunday, July 02, 2017"
+    },
+    {
+      "venue": "Cornell Fine Arts Museum, Rollins College",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, September 17, 2016 - Sunday, July 02, 2017"
+    },
+    {
+      "venue": "Frances Lehman Loeb Art Center",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Saturday, September 17, 2016 - Sunday, July 02, 2017"
+    }
+  ]
 }
