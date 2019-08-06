@@ -1,0 +1,38 @@
+{
+  "exhibition_id": 2626,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Minneosta Governor's Residence 2018-2019",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Saturday, September 01, 2018 - Sunday, March 31, 2019",
+  "public_info": 0,
+  "objects": [
+    22992,
+    23065,
+    23167,
+    23183,
+    25308,
+    25309,
+    25355,
+    25358,
+    25393,
+    27634,
+    27635,
+    27636,
+    29076,
+    29077,
+    108266,
+    114963,
+    114964,
+    115529
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, September 01, 2018 - Sunday, March 31, 2019"
+    }
+  ]
+}
