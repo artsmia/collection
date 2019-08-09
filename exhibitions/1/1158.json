@@ -10,18 +10,5 @@
   "objects": [
     4866
   ],
-  "venues": [
-    {
-      "venue": "Metropolitan Museum of Art",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Monday, September 19, 2011 - Sunday, January 29, 2012"
-    },
-    {
-      "venue": "Museum Rietberg Zürich",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Monday, September 19, 2011 - Sunday, January 29, 2012"
-    }
-  ]
+  "venues": []
 }
