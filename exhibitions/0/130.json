@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 130,
+  "exhibition_department": null,
+  "exhibition_title": "Made in California 1900-2000",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Friday, September 22, 2000 - Sunday, March 25, 2001",
+  "public_info": null,
+  "objects": [
+    2274
+  ],
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Friday, September 22, 2000 - Sunday, March 25, 2001"
+    }
+  ]
+}
