@@ -1,12 +1,17 @@
 {
   "exhibition_id": 2758,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Artists Reflect: Contemporary Views on the American War",
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
   "display_date": "Sunday, September 29, 2019 - Sunday, January 05, 2020",
-  "public_info": null,
-  "objects": [],
+  "public_info": 0,
+  "objects": [
+    135665,
+    135666,
+    135667,
+    135668
+  ],
   "venues": []
 }
