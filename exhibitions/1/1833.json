@@ -34,18 +34,5 @@
     123059,
     124940
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Saturday, May 09, 2015 - Sunday, February 21, 2016"
-    },
-    {
-      "venue": "Plains Art Museum",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Saturday, May 09, 2015 - Sunday, February 21, 2016"
-    }
-  ]
+  "venues": []
 }
