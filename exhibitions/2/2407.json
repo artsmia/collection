@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2407,
+  "exhibition_department": null,
+  "exhibition_title": "Classicisms",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Thursday, February 16, 2017 - Sunday, June 11, 2017",
+  "public_info": null,
+  "objects": [
+    12092
+  ],
+  "venues": [
+    {
+      "venue": "Smart Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Thursday, February 16, 2017 - Sunday, June 11, 2017"
+    }
+  ]
+}
