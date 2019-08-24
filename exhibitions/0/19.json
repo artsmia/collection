@@ -13,5 +13,24 @@
     63288,
     63290
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Wednesday, February 20, 2002 - Sunday, November 17, 2002"
+    },
+    {
+      "venue": "Pennsylvania Academy of the Fine Arts",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Wednesday, February 20, 2002 - Sunday, November 17, 2002"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Wednesday, February 20, 2002 - Sunday, November 17, 2002"
+    }
+  ]
 }

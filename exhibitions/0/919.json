@@ -10,5 +10,12 @@
   "objects": [
     547
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Detroit Institute of Arts",
+      "begin": 1960,
+      "end": 1960,
+      "display_date": "Tuesday, October 18, 1960 - Saturday, December 31, 1960"
+    }
+  ]
 }
