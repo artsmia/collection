@@ -10,5 +10,12 @@
   "objects": [
     3058
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée Granet",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Thursday, June 13, 2013 - Sunday, October 13, 2013"
+    }
+  ]
 }
