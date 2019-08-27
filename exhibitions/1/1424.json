@@ -10,5 +10,12 @@
   "objects": [
     16367
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1941,
+      "end": 1941,
+      "display_date": "Saturday, November 01, 1941 - Monday, December 01, 1941"
+    }
+  ]
 }
