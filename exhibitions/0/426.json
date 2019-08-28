@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 426,
+  "exhibition_department": "Paintings",
+  "exhibition_title": "Picturing French Style: Three Hundred Years of Art and Fashion",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2003,
+  "display_date": "Friday, September 06, 2002 - Sunday, April 27, 2003",
+  "public_info": 0,
+  "objects": [
+    1353
+  ],
+  "venues": [
+    {
+      "venue": "Mobile Museum of Art",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Friday, September 06, 2002 - Sunday, April 27, 2003"
+    },
+    {
+      "venue": "Norton Museum of Art",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Friday, September 06, 2002 - Sunday, April 27, 2003"
+    }
+  ]
+}
