@@ -10,5 +10,12 @@
   "objects": [
     766
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Artificio Mostre",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Monday, September 08, 1997 - Thursday, February 05, 1998"
+    }
+  ]
 }

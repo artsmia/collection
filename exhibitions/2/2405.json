@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2405,
+  "exhibition_department": "Paintings",
+  "exhibition_title": "Degas, Impressionism and the Paris Millinery Trade",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Sunday, February 12, 2017 - Sunday, September 24, 2017",
+  "public_info": 0,
+  "objects": [
+    103327
+  ],
+  "venues": [
+    {
+      "venue": "Legion of Honor",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, February 12, 2017 - Sunday, September 24, 2017"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, February 12, 2017 - Sunday, September 24, 2017"
+    }
+  ]
+}
