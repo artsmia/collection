@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 120,
+  "exhibition_department": null,
+  "exhibition_title": "Eastman Johnson: Painting America",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 2000,
+  "display_date": "Wednesday, September 29, 1999 - Wednesday, September 20, 2000",
+  "public_info": null,
+  "objects": [
+    2029
+  ],
+  "venues": [
+    {
+      "venue": "Brooklyn Museum",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Wednesday, September 29, 1999 - Wednesday, September 20, 2000"
+    }
+  ]
+}
