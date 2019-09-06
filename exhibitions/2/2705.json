@@ -14,5 +14,12 @@
     121646,
     121759
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Montclair Art Museum",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, September 11, 2020 - Sunday, January 03, 2021"
+    }
+  ]
 }
