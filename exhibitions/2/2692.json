@@ -5,12 +5,28 @@
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
-  "display_date": "Thursday, February 21, 2019 - Sunday, March 15, 2020",
+  "display_date": "Thursday, February 21, 2019 - Monday, July 20, 2020",
   "public_info": 0,
   "objects": [
+    130053,
+    131150,
+    131151,
+    131152,
+    131362,
+    131363,
+    131413,
+    131414,
+    131415,
     131530,
     131802,
     131806
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Thursday, February 21, 2019 - Monday, July 20, 2020"
+    }
+  ]
 }
