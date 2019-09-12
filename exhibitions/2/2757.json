@@ -10,24 +10,5 @@
   "objects": [
     6176
   ],
-  "venues": [
-    {
-      "venue": "Brandywine River Museum of Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, June 12, 2020 - Sunday, April 11, 2021"
-    },
-    {
-      "venue": "Dixon Gallery and Gardens",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, June 12, 2020 - Sunday, April 11, 2021"
-    },
-    {
-      "venue": "San Antonio Museum of Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, June 12, 2020 - Sunday, April 11, 2021"
-    }
-  ]
+  "venues": []
 }
