@@ -29,5 +29,12 @@
     99620,
     108266
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Tuesday, August 28, 2012 - Saturday, August 31, 2013"
+    }
+  ]
 }
