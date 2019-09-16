@@ -10,18 +10,5 @@
   "objects": [
     1427
   ],
-  "venues": [
-    {
-      "venue": "Kunsthaus Zürich",
-      "begin": 2013,
-      "end": 2013,
-      "display_date": "Friday, February 08, 2013 - Sunday, October 06, 2013"
-    },
-    {
-      "venue": "Tate Liverpool",
-      "begin": 2013,
-      "end": 2013,
-      "display_date": "Friday, February 08, 2013 - Sunday, October 06, 2013"
-    }
-  ]
+  "venues": []
 }
