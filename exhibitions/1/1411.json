@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1411,
+  "exhibition_department": null,
+  "exhibition_title": "Southeastern Fair 1922",
+  "exhibition_description": null,
+  "begin": 1922,
+  "end": 1922,
+  "display_date": "1922",
+  "public_info": null,
+  "objects": [
+    1385
+  ],
+  "venues": [
+    {
+      "venue": "Southeastern Fair",
+      "begin": 1922,
+      "end": 1922,
+      "display_date": "1922"
+    }
+  ]
+}
