@@ -10,18 +10,5 @@
   "objects": [
     1689
   ],
-  "venues": [
-    {
-      "venue": "Munch Museum",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Thursday, May 07, 2015 - Sunday, January 17, 2016"
-    },
-    {
-      "venue": "Van Gogh Museum",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Thursday, May 07, 2015 - Sunday, January 17, 2016"
-    }
-  ]
+  "venues": []
 }

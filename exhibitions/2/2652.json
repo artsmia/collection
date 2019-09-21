@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2652,
+  "exhibition_department": null,
+  "exhibition_title": "Monument Valley",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, October 05, 2019 - Sunday, January 12, 2020",
+  "public_info": null,
+  "objects": [
+    107115
+  ],
+  "venues": [
+    {
+      "venue": "Des Moines Art Center",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, October 05, 2019 - Sunday, January 12, 2020"
+    }
+  ]
+}
