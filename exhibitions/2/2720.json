@@ -10,5 +10,12 @@
   "objects": [
     10433
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée Fabre",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, November 20, 2020 - Sunday, March 07, 2021"
+    }
+  ]
 }
