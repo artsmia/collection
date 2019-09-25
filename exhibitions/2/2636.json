@@ -10,18 +10,5 @@
   "objects": [
     1272
   ],
-  "venues": [
-    {
-      "venue": "Museum of Modern Art, New York",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Tuesday, October 15, 2019 - Sunday, July 12, 2020"
-    },
-    {
-      "venue": "Musée de l'Orangerie",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Tuesday, October 15, 2019 - Sunday, July 12, 2020"
-    }
-  ]
+  "venues": []
 }
