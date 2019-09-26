@@ -11,5 +11,12 @@
     1465,
     1520
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Bard Graduate Center for Studies in the Decorative Arts",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Wednesday, March 03, 1999 - Friday, October 08, 1999"
+    }
+  ]
 }

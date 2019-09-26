@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2594,
+  "exhibition_department": null,
+  "exhibition_title": "Monet: The Truth of Nature",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Sunday, October 20, 2019 - Sunday, February 02, 2020",
+  "public_info": null,
+  "objects": [
+    1234
+  ],
+  "venues": [
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Sunday, October 20, 2019 - Sunday, February 02, 2020"
+    }
+  ]
+}
