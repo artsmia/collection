@@ -13,5 +13,12 @@
     5738,
     31098
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Fundació CatalunyaCaixa",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Monday, November 12, 2012 - Tuesday, February 26, 2013"
+    }
+  ]
 }
