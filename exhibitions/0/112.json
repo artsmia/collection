@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 112,
+  "exhibition_department": null,
+  "exhibition_title": "Edward Ruscha",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Thursday, June 22, 2000 - Sunday, September 30, 2001",
+  "public_info": null,
+  "objects": [
+    1929
+  ],
+  "venues": [
+    {
+      "venue": "Hirshhorn Museum and Sculpture Garden",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Thursday, June 22, 2000 - Sunday, September 30, 2001"
+    }
+  ]
+}
