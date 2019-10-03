@@ -10,5 +10,12 @@
   "objects": [
     1588
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Del Palazzo Di Venezia",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Wednesday, October 01, 1997 - Thursday, February 19, 1998"
+    }
+  ]
 }
