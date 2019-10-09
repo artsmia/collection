@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2540,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "SerpentiForm",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Saturday, August 19, 2017 - Sunday, October 15, 2017",
+  "public_info": 0,
+  "objects": [
+    21840,
+    65738,
+    66485,
+    117206,
+    117645
+  ],
+  "venues": [
+    {
+      "venue": "ArtScience Museum",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Saturday, August 19, 2017 - Sunday, October 15, 2017"
+    }
+  ]
+}
