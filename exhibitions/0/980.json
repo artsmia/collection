@@ -2,7 +2,7 @@
   "exhibition_id": 980,
   "exhibition_department": "Paintings",
   "exhibition_title": "Noble Dreams and Simple Pleasures: American Masterworks from Minnesota Collections",
-  "exhibition_description": "Art collections around the Twin Cities offer a rich selection of American art spanning from the 18th century to contemporary art. This is the first exhibition drawing purely on American works in local collections (roughly covering the years from 1800 to 1920).\r\nThe exhibition will include approximately 140 works, composed primarily of paintings and supplemented with some sculptures and works on paper.  Objects will be presented fairly chronologically along the following themes; Folk Art, Early Minnesota, Hudson River School, The Transatlantics, Tonalism, Minnesota Painters, On the Cusp.",
+  "exhibition_description": "Art collections around the Twin Cities offer a rich selection of American art spanning from the 18th century to contemporary art. This is the first exhibition drawing purely on American works in local collections (roughly covering the years from 1800 to 1920).\r\nThe exhibition will include approximately 140 works, composed primarily of paintings and supplemented with some sculptures and works on paper. Objects will be presented fairly chronologically along the following themes; Folk Art, Early Minnesota, Hudson River School, The Transatlantics, Tonalism, Minnesota Painters, On the Cusp.",
   "begin": 2009,
   "end": 2009,
   "display_date": "Sunday, February 22, 2009 - Sunday, May 03, 2009",
@@ -147,5 +147,6 @@
     107036,
     107037,
     107038
-  ]
+  ],
+  "venues": []
 }
