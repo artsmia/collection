@@ -11,5 +11,12 @@
     121716,
     121912
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Jewish Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 18, 2019 - Sunday, February 09, 2020"
+    }
+  ]
 }
