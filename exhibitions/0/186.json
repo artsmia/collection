@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 186,
+  "exhibition_department": "Minnesota Artists Exhibition Program",
+  "exhibition_title": "Sylvia Plachy's Unguided Tour",
+  "exhibition_description": null,
+  "begin": 1990,
+  "end": 1991,
+  "display_date": "Saturday, October 20, 1990 - Sunday, January 13, 1991",
+  "public_info": 0,
+  "objects": [
+    30564,
+    30565,
+    30566,
+    30567,
+    30568,
+    30569,
+    30570,
+    30571,
+    30572,
+    30573
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Saturday, October 20, 1990 - Sunday, January 13, 1991"
+    }
+  ]
+}

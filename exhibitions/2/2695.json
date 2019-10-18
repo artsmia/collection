@@ -1,0 +1,38 @@
+{
+  "exhibition_id": 2695,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Japanese Paintings: Figures in Japanese Style",
+  "exhibition_description": null,
+  "begin": 1996,
+  "end": 0,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    116851,
+    116972,
+    117195,
+    117206,
+    117968,
+    117969,
+    117970,
+    118209,
+    118210,
+    118211,
+    118222,
+    118223,
+    118228,
+    118280,
+    118429,
+    118430,
+    118433,
+    118467
+  ],
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1996,
+      "end": 0,
+      "display_date": null
+    }
+  ]
+}
