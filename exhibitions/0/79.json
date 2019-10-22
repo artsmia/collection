@@ -10,5 +10,25 @@
   "objects": [
     1414,
     1477
+  ],
+  "venues": [
+    {
+      "venue": "Galeries nationales du Grand Palais",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Tuesday, February 27, 2001 - Sunday, December 30, 2001"
+    },
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Tuesday, February 27, 2001 - Sunday, December 30, 2001"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Tuesday, February 27, 2001 - Sunday, December 30, 2001"
+    }
   ]
 }

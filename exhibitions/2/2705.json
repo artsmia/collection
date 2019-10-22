@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2705,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Morton Livingston Schamberg: Pioneer of the Machine Age",
+  "exhibition_description": null,
+  "begin": 2020,
+  "end": 2021,
+  "display_date": "Friday, September 11, 2020 - Sunday, January 03, 2021",
+  "public_info": 0,
+  "objects": [
+    99499,
+    108026,
+    121634,
+    121646,
+    121759
+  ],
+  "venues": [
+    {
+      "venue": "Montclair Art Museum",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Friday, September 11, 2020 - Sunday, January 03, 2021"
+    }
+  ]
+}
