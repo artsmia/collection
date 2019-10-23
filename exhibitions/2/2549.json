@@ -1,7 +1,7 @@
 {
   "exhibition_id": 2549,
   "exhibition_department": "Photography & New Media",
-  "exhibition_title": "Resistance, Protest, Resilience. ",
+  "exhibition_title": "Resistance, Protest, Resilience.  ",
   "exhibition_description": null,
   "begin": 2018,
   "end": 2018,
@@ -53,13 +53,5 @@
     82402,
     82411,
     106258
-  ],
-  "venues": [
-    {
-      "venue": "Haggerty Museum of Art",
-      "begin": 2018,
-      "end": 2018,
-      "display_date": "Friday, February 02, 2018 - Sunday, May 20, 2018"
-    }
   ]
 }

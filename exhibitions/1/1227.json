@@ -1,0 +1,44 @@
+{
+  "exhibition_id": 1227,
+  "exhibition_department": "Prints and Drawings",
+  "exhibition_title": "Old Master Drawings: Steps in Artistic Creation",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2009,
+  "display_date": "Saturday, May 09, 2009 - Sunday, August 02, 2009",
+  "public_info": 0,
+  "objects": [
+    1623,
+    3955,
+    9086,
+    9223,
+    9265,
+    9276,
+    9371,
+    9458,
+    9494,
+    9558,
+    12317,
+    12344,
+    12347,
+    12358,
+    13292,
+    14007,
+    19569,
+    19941,
+    25427,
+    29696,
+    33433,
+    104091,
+    104092,
+    106835
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Saturday, May 09, 2009 - Sunday, August 02, 2009"
+    }
+  ]
+}

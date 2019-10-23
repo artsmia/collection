@@ -66,5 +66,13 @@
     43879,
     43904,
     44261
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, April 28, 2001 - Sunday, March 31, 2002"
+    }
   ]
 }
