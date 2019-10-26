@@ -10,5 +10,12 @@
   "objects": [
     108860
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Edo-Tokyo Museum",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Friday, July 31, 2020 - Wednesday, September 30, 2020"
+    }
+  ]
 }
