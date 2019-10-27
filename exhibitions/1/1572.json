@@ -11,5 +11,18 @@
     3148,
     3710
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Sunday, October 11, 2015 - Sunday, May 22, 2016"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Sunday, October 11, 2015 - Sunday, May 22, 2016"
+    }
+  ]
 }
