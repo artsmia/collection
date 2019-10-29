@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 64,
+  "exhibition_department": null,
+  "exhibition_title": "Rufino Tamayo",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1996,
+  "display_date": "Friday, September 22, 1995 - Thursday, February 15, 1996",
+  "public_info": null,
+  "objects": [
+    1387
+  ],
+  "venues": [
+    {
+      "venue": "Centro Cultural/Arte Contemporaneo",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Friday, September 22, 1995 - Thursday, February 15, 1996"
+    }
+  ]
+}
