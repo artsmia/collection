@@ -58,5 +58,13 @@
     89602,
     89603,
     89604
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "May 21, 2004 to July 11, 2004"
+    }
   ]
 }
