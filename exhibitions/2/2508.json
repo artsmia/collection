@@ -107,5 +107,19 @@
     98381,
     113283,
     114828
+  ],
+  "venues": [
+    {
+      "venue": "China Institute",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Friday, June 09, 2017 - Sunday, September 10, 2017"
+    },
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Friday, June 09, 2017 - Sunday, September 10, 2017"
+    }
   ]
 }
