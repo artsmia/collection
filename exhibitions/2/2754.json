@@ -11,30 +11,5 @@
     12806,
     106359
   ],
-  "venues": [
-    {
-      "venue": "Los Angeles County Museum of Art",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Friday, May 15, 2020 - Monday, January 31, 2022"
-    },
-    {
-      "venue": "Milwaukee Art Museum",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Friday, May 15, 2020 - Monday, January 31, 2022"
-    },
-    {
-      "venue": "Nasjonalmuseet",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Friday, May 15, 2020 - Monday, January 31, 2022"
-    },
-    {
-      "venue": "Nationalmuseum",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Friday, May 15, 2020 - Monday, January 31, 2022"
-    }
-  ]
+  "venues": []
 }
