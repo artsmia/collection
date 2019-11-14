@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 98,
+  "exhibition_department": null,
+  "exhibition_title": "Kunstwelten im Dialog",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 2000,
+  "display_date": "Tuesday, October 05, 1999 - Wednesday, April 19, 2000",
+  "public_info": null,
+  "objects": [
+    1633
+  ],
+  "venues": [
+    {
+      "venue": "Museum Ludwig",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Tuesday, October 05, 1999 - Wednesday, April 19, 2000"
+    }
+  ]
+}

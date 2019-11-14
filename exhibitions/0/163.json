@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 163,
+  "exhibition_department": null,
+  "exhibition_title": "Bob Thompson Retrospective",
+  "exhibition_description": null,
+  "begin": 1998,
+  "end": 1999,
+  "display_date": "Thursday, October 01, 1998 - Thursday, January 07, 1999",
+  "public_info": null,
+  "objects": [
+    3885
+  ],
+  "venues": [
+    {
+      "venue": "Whitney Museum of American Art",
+      "begin": 1998,
+      "end": 1999,
+      "display_date": "Thursday, October 01, 1998 - Thursday, January 07, 1999"
+    }
+  ]
+}
