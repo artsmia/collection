@@ -10,5 +10,18 @@
   "objects": [
     2276
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dahesh Museum of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, June 10, 2004 - Thursday, January 13, 2005"
+    },
+    {
+      "venue": "Musée national des beaux-arts du Québec",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, June 10, 2004 - Thursday, January 13, 2005"
+    }
+  ]
 }
