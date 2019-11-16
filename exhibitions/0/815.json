@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 815,
+  "exhibition_department": "Art of Africa and the Americas",
+  "exhibition_title": "Myth and Reality: The Art of the Great Plains",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2007,
+  "display_date": "Sunday, April 01, 2007 - Monday, December 31, 2007",
+  "public_info": 0,
+  "objects": [
+    4711,
+    5603,
+    13605
+  ],
+  "venues": [
+    {
+      "venue": "Fenimore Art Museum",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Sunday, April 01, 2007 - Monday, December 31, 2007"
+    }
+  ]
+}
