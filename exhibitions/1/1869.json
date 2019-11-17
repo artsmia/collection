@@ -49,25 +49,5 @@
     122544,
     123100,
     123101
-  ],
-  "venues": [
-    {
-      "venue": "Metropolitan Museum of Art",
-      "begin": 1975,
-      "end": 1977,
-      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 1975,
-      "end": 1977,
-      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
-    },
-    {
-      "venue": "Seattle Art Museum",
-      "begin": 1975,
-      "end": 1977,
-      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
-    }
   ]
 }
