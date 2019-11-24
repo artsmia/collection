@@ -10,5 +10,18 @@
   "objects": [
     106558
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Colby College Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Tuesday, March 14, 2017 - Sunday, November 12, 2017"
+    },
+    {
+      "venue": "The Met Breuer",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Tuesday, March 14, 2017 - Sunday, November 12, 2017"
+    }
+  ]
 }

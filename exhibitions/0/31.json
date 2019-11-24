@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 31,
+  "exhibition_department": null,
+  "exhibition_title": "Henri Matisse: La revelation m'est venue de l'Orient",
+  "exhibition_description": null,
+  "begin": 1997,
+  "end": 1998,
+  "display_date": "Monday, September 08, 1997 - Thursday, February 05, 1998",
+  "public_info": null,
+  "objects": [
+    766
+  ],
+  "venues": [
+    {
+      "venue": "Artificio Mostre",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Monday, September 08, 1997 - Thursday, February 05, 1998"
+    }
+  ]
+}
