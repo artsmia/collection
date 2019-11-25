@@ -10,5 +10,12 @@
   "objects": [
     40324
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The Bard Graduate Center for Studies in Decorative Arts",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Friday, October 13, 2000 - Sunday, March 25, 2001"
+    }
+  ]
 }
