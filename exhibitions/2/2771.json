@@ -11,24 +11,5 @@
     578,
     121826
   ],
-  "venues": [
-    {
-      "venue": "Chrysler Museum of Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021"
-    },
-    {
-      "venue": "Milwaukee Art Museum",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021"
-    },
-    {
-      "venue": "Reynolda House Museum of American Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021"
-    }
-  ]
+  "venues": []
 }
