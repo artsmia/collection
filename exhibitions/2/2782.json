@@ -83,25 +83,5 @@
     119392,
     119512,
     119645
-  ],
-  "venues": [
-    {
-      "venue": "Museum of the Rockies",
-      "begin": 2020,
-      "end": 2020,
-      "display_date": null
-    },
-    {
-      "venue": "The Frick Pittsburgh",
-      "begin": 2020,
-      "end": 2020,
-      "display_date": null
-    },
-    {
-      "venue": "Utah Museum of Fine Arts",
-      "begin": 2020,
-      "end": 2020,
-      "display_date": null
-    }
   ]
 }
