@@ -99,5 +99,25 @@
     123279,
     123280,
     123281
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Sunday, June 21, 2015 - Sunday, August 30, 2015"
+    },
+    {
+      "venue": "North Carolina Museum of Art",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Sunday, June 21, 2015 - Sunday, August 30, 2015"
+    },
+    {
+      "venue": "Phoenix Art Museum",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Sunday, June 21, 2015 - Sunday, August 30, 2015"
+    }
   ]
 }
