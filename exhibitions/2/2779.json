@@ -21,5 +21,31 @@
     40324,
     40965,
     41612
+  ],
+  "venues": [
+    {
+      "venue": "Frist Art Museum",
+      "begin": 2020,
+      "end": 2022,
+      "display_date": "Friday, October 30, 2020 - Monday, May 30, 2022"
+    },
+    {
+      "venue": "Joslyn Art Museum",
+      "begin": 2020,
+      "end": 2022,
+      "display_date": "Friday, October 30, 2020 - Monday, May 30, 2022"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2020,
+      "end": 2022,
+      "display_date": "Friday, October 30, 2020 - Monday, May 30, 2022"
+    },
+    {
+      "venue": "Wichita Art Museum",
+      "begin": 2020,
+      "end": 2022,
+      "display_date": "Friday, October 30, 2020 - Monday, May 30, 2022"
+    }
   ]
 }
