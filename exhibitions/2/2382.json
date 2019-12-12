@@ -10,5 +10,18 @@
   "objects": [
     1407
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Fundación MAPFRE",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Thursday, June 01, 2017 - Saturday, May 05, 2018"
+    },
+    {
+      "venue": "Musée d'Art Moderne de la Ville de Paris",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Thursday, June 01, 2017 - Saturday, May 05, 2018"
+    }
+  ]
 }
