@@ -37,5 +37,12 @@
     120908,
     122186
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Perlman Teaching Museum",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Friday, January 22, 2016 - Wednesday, March 09, 2016"
+    }
+  ]
 }
