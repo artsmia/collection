@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2786,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Sargent, Whistler, and Venetian Glass: American Artists and the Magic of Murano",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Friday, March 19, 2021 - Sunday, July 24, 2022",
+  "public_info": 0,
+  "objects": [
+    2607
+  ],
+  "venues": [
+    {
+      "venue": "Amon Carter Museum of American Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, March 19, 2021 - Sunday, July 24, 2022"
+    },
+    {
+      "venue": "Ca' Pesaro Galleria Internazionale d'Arte Moderna",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, March 19, 2021 - Sunday, July 24, 2022"
+    },
+    {
+      "venue": "Smithsonian American Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, March 19, 2021 - Sunday, July 24, 2022"
+    }
+  ]
+}
