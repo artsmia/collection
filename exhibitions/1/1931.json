@@ -12,5 +12,12 @@
     122353,
     122485
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 1989,
+      "end": 1989,
+      "display_date": "Friday, September 22, 1989 - Sunday, November 12, 1989"
+    }
+  ]
 }
