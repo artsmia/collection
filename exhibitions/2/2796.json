@@ -12,5 +12,18 @@
     128487,
     129468
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Georgia Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, January 30, 2021 - Sunday, April 25, 2021"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, January 30, 2021 - Sunday, April 25, 2021"
+    }
+  ]
 }
