@@ -11,5 +11,12 @@
     1520,
     1530
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "La Venaria Reale",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Friday, March 13, 2020 - Sunday, June 14, 2020"
+    }
+  ]
 }

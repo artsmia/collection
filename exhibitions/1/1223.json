@@ -41,5 +41,13 @@
     42120,
     44716,
     77927
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Friday, June 09, 2000 - Sunday, January 14, 2001"
+    }
   ]
 }
