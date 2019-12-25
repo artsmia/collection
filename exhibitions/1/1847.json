@@ -1,0 +1,40 @@
+{
+  "exhibition_id": 1847,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Nikuhitsu ukiyo-e meihin ten: Azabu bijutsukan shozo/Ukiyo-e Painting Masterpieces in the Collection of the Azabu Museum of Art",
+  "exhibition_description": null,
+  "begin": 1988,
+  "end": 1988,
+  "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988",
+  "public_info": 0,
+  "objects": [
+    116865,
+    116866,
+    117190,
+    117191,
+    117192,
+    117193,
+    117194,
+    122169
+  ],
+  "venues": [
+    {
+      "venue": "Osaka Municipal Museum of Art",
+      "begin": 1988,
+      "end": 1988,
+      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
+    },
+    {
+      "venue": "Sendai City Museum",
+      "begin": 1988,
+      "end": 1988,
+      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
+    },
+    {
+      "venue": "Sogo Museum",
+      "begin": 1988,
+      "end": 1988,
+      "display_date": "Saturday, June 11, 1988 - Sunday, November 13, 1988"
+    }
+  ]
+}

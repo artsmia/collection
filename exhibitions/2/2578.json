@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2578,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Dread and Delight: Fairy Tales in an Anxious World",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Saturday, August 25, 2018 - Sunday, September 22, 2019",
+  "public_info": 0,
+  "objects": [
+    109234
+  ],
+  "venues": [
+    {
+      "venue": "Akron Art Museum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, August 25, 2018 - Sunday, September 22, 2019"
+    },
+    {
+      "venue": "Faulconer Gallery, Grinnell College",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, August 25, 2018 - Sunday, September 22, 2019"
+    },
+    {
+      "venue": "Weatherspoon Art Museum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, August 25, 2018 - Sunday, September 22, 2019"
+    }
+  ]
+}
