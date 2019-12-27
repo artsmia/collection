@@ -10,5 +10,13 @@
   "objects": [
     50,
     1843
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1971,
+      "end": 1972,
+      "display_date": "Saturday, December 11, 1971 - Sunday, January 16, 1972"
+    }
   ]
 }
