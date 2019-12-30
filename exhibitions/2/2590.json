@@ -12,5 +12,18 @@
     99122,
     120518
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Hunter Museum of American Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, October 21, 2018 - Saturday, September 21, 2019"
+    },
+    {
+      "venue": "Nova Southeastern University Art Museum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, October 21, 2018 - Saturday, September 21, 2019"
+    }
+  ]
 }
