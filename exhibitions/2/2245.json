@@ -109,5 +109,12 @@
     81065,
     82910
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Saturday, June 13, 1998 - Sunday, August 23, 1998"
+    }
+  ]
 }
