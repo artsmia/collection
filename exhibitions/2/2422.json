@@ -22,5 +22,12 @@
     100937,
     106323
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Wednesday, August 31, 2016 - Thursday, August 31, 2017"
+    }
+  ]
 }

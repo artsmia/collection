@@ -10,5 +10,12 @@
   "objects": [
     1184
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Schirn Kunsthalle Frankfurt",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Friday, March 03, 2006 - Sunday, May 28, 2006"
+    }
+  ]
 }
