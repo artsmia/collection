@@ -10,25 +10,5 @@
   "objects": [
     1480,
     1728
-  ],
-  "venues": [
-    {
-      "venue": "Musée Fabre",
-      "begin": 2016,
-      "end": 2017,
-      "display_date": "Saturday, June 25, 2016 - Sunday, July 09, 2017"
-    },
-    {
-      "venue": "Musée d'Orsay",
-      "begin": 2016,
-      "end": 2017,
-      "display_date": "Saturday, June 25, 2016 - Sunday, July 09, 2017"
-    },
-    {
-      "venue": "National Gallery of Art",
-      "begin": 2016,
-      "end": 2017,
-      "display_date": "Saturday, June 25, 2016 - Sunday, July 09, 2017"
-    }
   ]
 }
