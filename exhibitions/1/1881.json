@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1881,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Japanese Fan Paintings from Western Collections",
+  "exhibition_description": null,
+  "begin": 1985,
+  "end": 1986,
+  "display_date": "Sunday, June 16, 1985 - Sunday, January 05, 1986",
+  "public_info": 0,
+  "objects": [
+    39608
+  ],
+  "venues": [
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 1985,
+      "end": 1986,
+      "display_date": "Sunday, June 16, 1985 - Sunday, January 05, 1986"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 1985,
+      "end": 1986,
+      "display_date": "Sunday, June 16, 1985 - Sunday, January 05, 1986"
+    }
+  ]
+}

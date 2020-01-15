@@ -17,5 +17,24 @@
     41184,
     41185
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Cleveland Center for Contemporary Art",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Sunday, December 05, 1999 - Sunday, February 13, 2000"
+    },
+    {
+      "venue": "Maier Museum of Art",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Sunday, December 05, 1999 - Sunday, February 13, 2000"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Sunday, December 05, 1999 - Sunday, February 13, 2000"
+    }
+  ]
 }
