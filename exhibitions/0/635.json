@@ -10,5 +10,12 @@
   "objects": [
     1353
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Nacional Centro de Arte Reina Sofia",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Wednesday, June 22, 2005 - Monday, September 19, 2005"
+    }
+  ]
 }
