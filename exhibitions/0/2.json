@@ -10,5 +10,12 @@
   "objects": [
     44
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 1999,
+      "end": 2000,
+      "display_date": "Wednesday, May 19, 1999 - Wednesday, May 31, 2000"
+    }
+  ]
 }
