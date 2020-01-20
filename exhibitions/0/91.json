@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 91,
+  "exhibition_department": null,
+  "exhibition_title": "Kenneth Callahan",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Thursday, June 14, 2001 - Wednesday, August 14, 2002",
+  "public_info": null,
+  "objects": [
+    18795
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Northwest Art",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Thursday, June 14, 2001 - Wednesday, August 14, 2002"
+    }
+  ]
+}
