@@ -10,5 +10,18 @@
   "objects": [
     800
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 04, 2019 - Sunday, May 17, 2020"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 04, 2019 - Sunday, May 17, 2020"
+    }
+  ]
 }
