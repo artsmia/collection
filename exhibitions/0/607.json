@@ -20,5 +20,19 @@
     10035,
     10036,
     40859
+  ],
+  "venues": [
+    {
+      "venue": "Indianapolis Museum of Art",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Thursday, March 17, 2005 - Sunday, January 22, 2006"
+    },
+    {
+      "venue": "Victoria and Albert Museum",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Thursday, March 17, 2005 - Sunday, January 22, 2006"
+    }
   ]
 }

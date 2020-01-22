@@ -10,5 +10,12 @@
   "objects": [
     1226
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Sunday, October 12, 2014 - Monday, January 19, 2015"
+    }
+  ]
 }
