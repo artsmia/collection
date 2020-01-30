@@ -10,5 +10,12 @@
   "objects": [
     1341
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Nacional del Prado",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Tuesday, November 20, 2012 - Sunday, March 31, 2013"
+    }
+  ]
 }
