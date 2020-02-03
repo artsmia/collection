@@ -14,5 +14,12 @@
     116017,
     116018
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Crystal Bridges Museum of American Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Saturday, October 10, 2020 - Monday, February 01, 2021"
+    }
+  ]
 }
