@@ -2,7 +2,7 @@
   "exhibition_id": 647,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Just One Word: PLASTICS",
-  "exhibition_description": "\"I just want to say one word to you.  Just one word....Plastics....  There's a great future in plastics.\" This brief pronouncement appearing in the 1968 film, \"The Graduate,\" convulsed audiences then, but since has taken on an entirely new meaning. In the span of some 35 years, the entire spectrum of plastics — that \"miracle material\" — has risen from ridicule to respect (occasionally reverence) and, yet again, a scourge-like contempt when it comes to matters of biodegradable disposal.\r\nIn a two-part examination and celebration of innovative plastic design, a first installment will appear in Wells Fargo Gallery of The Minneapolis Institute of Arts followed by a second, overlapping presentation at Wells Fargo Center in downtown Minneapolis. It is the first such arrangement utilizing the city-center facility to expand on a given theme originating at the Institute.\r\nToday, nothing underscores the technological revolution more than plastics. Not since the early 20-century popularity of Bakelite (which will be featured in a simultaneous Institute installation as part of the on-going \"Case Studies\" Series) has plastic been so admired. Tutti-frutti colors, sensuous, tactile surfaces, transparent forms, groovy fusions of art and chemistry, and phenomenal tensile strength are but a few of the qualities fulfilling design needs beyond mere function. In the 21st century, functionality has become multi-dimensional and plastics appear to promise ever-expanding purpose and pleasure.",
+  "exhibition_description": "\"I just want to say one word to you. Just one word....Plastics.... There's a great future in plastics.\" This brief pronouncement appearing in the 1968 film, \"The Graduate,\" convulsed audiences then, but since has taken on an entirely new meaning. In the span of some 35 years, the entire spectrum of plastics — that \"miracle material\" — has risen from ridicule to respect (occasionally reverence) and, yet again, a scourge-like contempt when it comes to matters of biodegradable disposal.\r\nIn a two-part examination and celebration of innovative plastic design, a first installment will appear in Wells Fargo Gallery of The Minneapolis Institute of Arts followed by a second, overlapping presentation at Wells Fargo Center in downtown Minneapolis. It is the first such arrangement utilizing the city-center facility to expand on a given theme originating at the Institute.\r\nToday, nothing underscores the technological revolution more than plastics. Not since the early 20-century popularity of Bakelite (which will be featured in a simultaneous Institute installation as part of the on-going \"Case Studies\" Series) has plastic been so admired. Tutti-frutti colors, sensuous, tactile surfaces, transparent forms, groovy fusions of art and chemistry, and phenomenal tensile strength are but a few of the qualities fulfilling design needs beyond mere function. In the 21st century, functionality has become multi-dimensional and plastics appear to promise ever-expanding purpose and pleasure.",
   "begin": 2004,
   "end": 2005,
   "display_date": "Saturday, March 06, 2004 - Sunday, February 27, 2005",
@@ -111,5 +111,13 @@
     89397,
     89398,
     89495
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, March 06, 2004 - Sunday, February 27, 2005"
+    }
   ]
 }
