@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 2796,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Emma Amos: Color Odyssey",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2021,
+  "display_date": "Saturday, January 30, 2021 - Sunday, April 25, 2021",
+  "public_info": 0,
+  "objects": [
+    127299,
+    128487,
+    129468
+  ],
+  "venues": [
+    {
+      "venue": "Georgia Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, January 30, 2021 - Sunday, April 25, 2021"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, January 30, 2021 - Sunday, April 25, 2021"
+    }
+  ]
+}
