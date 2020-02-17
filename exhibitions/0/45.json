@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 45,
+  "exhibition_department": null,
+  "exhibition_title": "Pierre Bonnard: Early and Late",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Saturday, March 01, 2003 - Sunday, May 25, 2003",
+  "public_info": null,
+  "objects": [
+    1240
+  ],
+  "venues": [
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Saturday, March 01, 2003 - Sunday, May 25, 2003"
+    }
+  ]
+}
