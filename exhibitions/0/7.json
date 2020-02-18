@@ -10,5 +10,12 @@
   "objects": [
     129
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Ordrupgaardsamlingen",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Thursday, August 15, 1996 - Tuesday, December 31, 1996"
+    }
+  ]
 }
