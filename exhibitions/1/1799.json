@@ -43,5 +43,19 @@
     120727,
     121111,
     125640
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, October 07, 2017 - Sunday, June 24, 2018"
+    },
+    {
+      "venue": "Morikami Museum and Japanese Gardens",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, October 07, 2017 - Sunday, June 24, 2018"
+    }
   ]
 }
