@@ -10,5 +10,12 @@
   "objects": [
     2135
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Philbrook Museum of Art",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Sunday, September 17, 2006 - Sunday, December 31, 2006"
+    }
+  ]
 }
