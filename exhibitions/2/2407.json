@@ -10,5 +10,12 @@
   "objects": [
     12092
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Smart Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Thursday, February 16, 2017 - Sunday, June 11, 2017"
+    }
+  ]
 }
