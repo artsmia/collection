@@ -11,5 +11,24 @@
     1785,
     4578
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Centre de la Vieille-Charité",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011"
+    },
+    {
+      "venue": "Kunsthalle der Hypo-Kulturstiftung",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011"
+    },
+    {
+      "venue": "Royal Museums of Fine Arts of Belgium",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011"
+    }
+  ]
 }
