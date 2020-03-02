@@ -10,5 +10,12 @@
   "objects": [
     517
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Red River Art Center",
+      "begin": 1966,
+      "end": 1966,
+      "display_date": "Sunday, October 09, 1966 - Sunday, November 20, 1966"
+    }
+  ]
 }
