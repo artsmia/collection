@@ -1,14 +1,15 @@
 {
   "exhibition_id": 2807,
-  "exhibition_department": null,
+  "exhibition_department": "Minnesota Artists Exhibition Program",
   "exhibition_title": "The Labor We Wear",
   "exhibition_description": null,
   "begin": 2020,
   "end": 2020,
   "display_date": "Thursday, March 19, 2020 - Sunday, June 28, 2020",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
-    137671
+    137671,
+    137718
   ],
   "venues": []
 }
