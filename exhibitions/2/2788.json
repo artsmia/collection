@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2021,
   "end": 2022,
-  "display_date": "Monday, November 01, 2021 - Wednesday, June 01, 2022",
+  "display_date": "Monday, November 1, 2021 - Thursday, June 30, 2022",
   "public_info": 0,
   "objects": [
     1509
@@ -15,13 +15,13 @@
       "venue": "Denver Art Museum",
       "begin": 2021,
       "end": 2022,
-      "display_date": "Monday, November 01, 2021 - Wednesday, June 01, 2022"
+      "display_date": "Monday, November 1, 2021 - Thursday, June 30, 2022"
     },
     {
       "venue": "Virginia Museum of Fine Arts",
       "begin": 2021,
       "end": 2022,
-      "display_date": "Monday, November 01, 2021 - Wednesday, June 01, 2022"
+      "display_date": "Monday, November 1, 2021 - Thursday, June 30, 2022"
     }
   ]
 }
