@@ -16,5 +16,18 @@
     48747,
     50223
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Wednesday, February 28, 2001 - Sunday, September 09, 2001"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Wednesday, February 28, 2001 - Sunday, September 09, 2001"
+    }
+  ]
 }
