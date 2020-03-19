@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 509,
+  "exhibition_department": null,
+  "exhibition_title": "Alfred Sisley",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2003,
+  "display_date": "Wednesday, October 09, 2002 - Monday, January 06, 2003",
+  "public_info": null,
+  "objects": [
+    61319
+  ],
+  "venues": [
+    {
+      "venue": "Musée des Beaux-Arts de Lyon",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, October 09, 2002 - Monday, January 06, 2003"
+    }
+  ]
+}
