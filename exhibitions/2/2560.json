@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2560,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Grant Wood",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2018,
+  "display_date": "Friday, March 02, 2018 - Sunday, June 10, 2018",
+  "public_info": 0,
+  "objects": [
+    2805,
+    8353,
+    8354,
+    8355,
+    10023,
+    10024,
+    22510
+  ],
+  "venues": [
+    {
+      "venue": "Whitney Museum of American Art",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Friday, March 02, 2018 - Sunday, June 10, 2018"
+    }
+  ]
+}
