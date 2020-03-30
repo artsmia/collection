@@ -10,5 +10,12 @@
   "objects": [
     109121
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Saturday, April 18, 2020 - Sunday, July 26, 2020"
+    }
+  ]
 }

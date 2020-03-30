@@ -10,18 +10,5 @@
   "objects": [
     1317
   ],
-  "venues": [
-    {
-      "venue": "John and Mable Ringling Museum of Art",
-      "begin": 2009,
-      "end": 2010,
-      "display_date": "Thursday, October 08, 2009 - Sunday, May 09, 2010"
-    },
-    {
-      "venue": "Memphis Brooks Museum of Art",
-      "begin": 2009,
-      "end": 2010,
-      "display_date": "Thursday, October 08, 2009 - Sunday, May 09, 2010"
-    }
-  ]
+  "venues": []
 }
