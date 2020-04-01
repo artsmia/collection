@@ -1,0 +1,62 @@
+{
+  "exhibition_id": 2638,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Five Ukiyo-e Favorites: Utamaro, Sharaku, Hokusai, Hiroshige, and Kuniyoshi",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Tuesday, November 19, 2019 - Sunday, May 31, 2020",
+  "public_info": 0,
+  "objects": [
+    1998,
+    1999,
+    8177,
+    8208,
+    8209,
+    8210,
+    8211,
+    8578,
+    8668,
+    8689,
+    8692,
+    8693,
+    8695,
+    8696,
+    8746,
+    8747,
+    9057,
+    9162,
+    9604,
+    9609,
+    22525,
+    42095,
+    57825,
+    61504,
+    62991,
+    62992,
+    62994,
+    63415,
+    63534,
+    67915
+  ],
+  "venues": [
+    {
+      "venue": "Aichi Prefectural Museum of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Tuesday, November 19, 2019 - Sunday, May 31, 2020"
+    },
+    {
+      "venue": "Edo-Tokyo Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Tuesday, November 19, 2019 - Sunday, May 31, 2020"
+    },
+    {
+      "venue": "Fukuoka Art Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Tuesday, November 19, 2019 - Sunday, May 31, 2020"
+    }
+  ]
+}
