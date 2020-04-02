@@ -8,6 +8,10 @@
   "display_date": "Saturday, February 15, 2020 - Sunday, October 18, 2020",
   "public_info": 0,
   "objects": [
+    106355,
+    106362,
+    106377,
+    106378,
     137158,
     137159,
     137160,
@@ -27,5 +31,12 @@
     137286,
     137287
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Saturday, February 15, 2020 - Sunday, October 18, 2020"
+    }
+  ]
 }

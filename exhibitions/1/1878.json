@@ -58,5 +58,13 @@
     39607,
     122727,
     122963
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1998,
+      "end": 1999,
+      "display_date": "Monday, August 10, 1998 - Friday, March 05, 1999"
+    }
   ]
 }
