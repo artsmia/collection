@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1441,
+  "exhibition_department": null,
+  "exhibition_title": "First National Bank September 1973",
+  "exhibition_description": null,
+  "begin": 1973,
+  "end": 0,
+  "display_date": "September 1973",
+  "public_info": null,
+  "objects": [
+    18345
+  ],
+  "venues": [
+    {
+      "venue": "First National Bank of Saint Paul",
+      "begin": 1973,
+      "end": 0,
+      "display_date": "September 1973"
+    }
+  ]
+}
