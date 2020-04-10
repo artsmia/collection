@@ -1,11 +1,11 @@
 {
   "exhibition_id": 2161,
   "exhibition_department": "Paintings",
-  "exhibition_title": "Eugène Delacroix and the Rise of Modern Art",
+  "exhibition_title": "Delacroix’s Influence: The Rise of Modern Art from Cézanne to van Gogh ",
   "exhibition_description": null,
-  "begin": 2016,
+  "begin": 2015,
   "end": 2016,
-  "display_date": "Wednesday, February 17, 2016 - Sunday, May 22, 2016",
+  "display_date": "Sunday, October 18, 2015 - Sunday, May 22, 2016",
   "public_info": 0,
   "objects": [
     575,
@@ -28,15 +28,15 @@
   "venues": [
     {
       "venue": "Minneapolis Institute of Art",
-      "begin": 2016,
+      "begin": 2015,
       "end": 2016,
-      "display_date": "Wednesday, February 17, 2016 - Sunday, May 22, 2016"
+      "display_date": "Sunday, October 18, 2015 - Sunday, May 22, 2016"
     },
     {
       "venue": "National Gallery",
-      "begin": 2016,
+      "begin": 2015,
       "end": 2016,
-      "display_date": "Wednesday, February 17, 2016 - Sunday, May 22, 2016"
+      "display_date": "Sunday, October 18, 2015 - Sunday, May 22, 2016"
     }
   ]
 }
