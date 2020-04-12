@@ -2,7 +2,7 @@
   "exhibition_id": 804,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Holiday Traditions 2006-2007",
-  "exhibition_description": "The finest ceramics, glass, and silver can transform a meal into a celebration, particularly during the holidays.  Four centuries of objects designed for dining take center stage in this year’s Holiday Traditions exhibition. Costumed docents offer tours from Thanksgiving through New Year’s. ",
+  "exhibition_description": "The finest ceramics, glass, and silver can transform a meal into a celebration, particularly during the holidays. Four centuries of objects designed for dining take center stage in this year’s Holiday Traditions exhibition. Costumed docents offer tours from Thanksgiving through New Year’s. ",
   "begin": 2006,
   "end": 2007,
   "display_date": "Friday, November 24, 2006 - Thursday, January 18, 2007",
@@ -42,5 +42,13 @@
     101349,
     101357,
     101462
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Friday, November 24, 2006 - Thursday, January 18, 2007"
+    }
   ]
 }
