@@ -1,10 +1,10 @@
 {
   "accession_number": "2003.114.2",
   "art_champions_text": null,
-  "artist": "Artist: Stuart Nielsen",
+  "artist": "Artist: Stuart Nielsen; Printer: Highpoint Editions, Minneapolis; Publisher: Stuart Nielsen",
   "catalogue_raissonne": null,
   "classification": " Prints",
-  "continent": null,
+  "continent": "North America",
   "country": "United States",
   "creditline": "Gift of John E. Andrus III",
   "culture": null,
@@ -20,12 +20,12 @@
   "image_width": 1832,
   "inscription": "Signature, title, date, edition and chop",
   "life_date": "American, born 1947",
-  "markings": "chop on back, bottom center in black: [HP (inside a square)]",
-  "medium": "Etching",
+  "markings": "chop on back, bottom center in black: HP (inside a square)",
+  "medium": "Color etching",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From From \"Cardinal Suite\" portfolio",
-  "provenance": "",
+  "provenance": "The artist, Minneapolis; (Bockley Gallery, Minneapolis); sold to MIA, 2003.",
   "restricted": 0,
   "rights_type": "In Copyright–Educational Use",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "below image, in pencil: [7/18 East Nielsen 02]",
+  "signed": "below image, in pencil: 7/18 East Nielsen 02",
   "style": "21st century",
   "text": "",
-  "title": "East, from \"Cardinal Suite\""
+  "title": "East"
 }

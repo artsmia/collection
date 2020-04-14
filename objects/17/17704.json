@@ -14,10 +14,10 @@
   "description": "Decanter with stopper, glass cat. card dims H 10-1/2'",
   "dimension": "10 3/4 x 4 3/8 x 4 3/8in. (27.3 x 11.1 x 11.1cm)",
   "id": "http://api.artsmia.org/objects/17704",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1913,
+  "image_width": 2075,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G333",
   "see_also": [
     ""
   ],

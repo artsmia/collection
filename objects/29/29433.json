@@ -14,10 +14,10 @@
   "description": "Christie's NY Lot 147",
   "dimension": "45 x 24 3/8 in. (114.3 x 61.91 cm) (image)",
   "id": "http://api.artsmia.org/objects/29433",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 10226,
+  "image_width": 5661,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G203",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

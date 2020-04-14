@@ -1,7 +1,7 @@
 {
   "accession_number": "P.15,246",
   "art_champions_text": null,
-  "artist": "Artist: Unknown",
+  "artist": "Artist: Unknown; Author: Jean-Antoine Lebrun-Tossa",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -9,10 +9,10 @@
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1786-1787",
+  "dated": "December 30, 1786",
   "department": "Prints and Drawings",
-  "description": "Belgian Edition of P.15,158; 5e Cahier; 2e Annee of Cabinet des Modes",
-  "dimension": "6 7/8 x 4 in. (17.46 x 10.16 cm) (plate)",
+  "description": "Belgian edition; woman in an olive green gown with purple lapels, a walking stick, and a light green hat with purple ribbon; this plate is similar to the plate found in the French edition of this periodical (P.15,158-P.15,160)",
+  "dimension": "7 3/4 × 14 13/16 in. (19.69 × 37.62 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/78576",
   "image": "invalid",
   "image_copyright": "",
@@ -23,8 +23,8 @@
   "markings": "",
   "medium": "Hand-colored engraving",
   "nationality": null,
-  "object_name": null,
-  "portfolio": "From Magasin Des Modes Nouvelles, (Paris, 1786-1787)",
+  "object_name": "Print",
+  "portfolio": "From Magasin des Modes nouvelles, françaises et anglaises, Paris, 1786-89",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Plate 1, from Magasin Des Modes Nouvelles"
+  "title": "Plate I from Magasin des Modes Nouvelles, Seconde Année, Cinquième Cahier, 30 Décembre 1786"
 }

@@ -14,13 +14,13 @@
   "description": "very large sheet of white fabric with oversized kanji for \"love\" painted and splattered in black ink mixed with gold dust; signature at L with red relief stamp; splatters throughout and shadowy footprints along bottom, and a sweeping footprint at LR",
   "dimension": "117 × 115 in. (297.18 × 292.1 cm)",
   "id": "http://api.artsmia.org/objects/116885",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Hirano Isa",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature and Seal\r\n\r\nSee notes for translation",
+  "image_height": 8369,
+  "image_width": 8311,
+  "inscription": "愛",
   "life_date": "Japanese",
-  "markings": "R edge, square relief: [ 武 ]",
+  "markings": "R edge, square relief: 武",
   "medium": "Ink and gold dust on cotton",
   "nationality": "Japanese",
   "object_name": "Banner",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "R edge: [ 平野武 ]",
+  "signed": "R edge: 平野武",
   "style": "21st century",
-  "text": "",
+  "text": "Hirano Isa’s work blends traditional calligraphic painting with performance. This piece, which is the Chinese character for “love” 愛, was created at a reception for the southern California museum community hosted by the Consul General of Japan in Los Angeles, Junichi Ihara, on December 8, 2009. Wearing a brightly colored kimono, Hirano performed a semi-traditional dance to anonymous pop music before plunging a mop-sized brush into a bucket of ink and rapidly writing the character on a sheet of cotton spread on the floor, splattering ink over the surface of her canvas and herself in the process. There is an unsettling incongruity between the sentiment that the work conveys as a text, and the violence that it conveys as an image. Hirano has written that calligraphy is a way of channeling the subconscious akin to the experiments of European surrealist painters.",
   "title": "Love"
 }

@@ -14,10 +14,10 @@
   "description": "Three square wires; set with large shield-shaped turquoise; teardrop and stamped decoration.; Triple sq. wire with large shield-shaped turquoise, has hole with silver fill cat. 56,J#8",
   "dimension": "2 15/16 x 3 in. (7.46 x 7.62 cm)",
   "id": "http://api.artsmia.org/objects/4018",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2301,
+  "image_width": 3000,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

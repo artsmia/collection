@@ -14,10 +14,10 @@
   "description": "image of a woman wearing a long, draping garment; rests with hands behind her head, gazing downward; bare feet",
   "dimension": "24 5/16 × 19 1/16 in. (61.75 × 48.42 cm) (sheet)\r\n31 5/8 × 25 15/16 × 1 5/16 in. (80.33 × 65.88 × 3.33 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/128772",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Estate of Francisco Z%C3%BA%C3%B1iga",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5820,
+  "image_width": 4605,
   "inscription": "",
   "life_date": "Mexican, 1912–1998",
   "markings": "on back of frame, lower center: gallery label from Galeria Tasende, Acapulco, Mexico",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "G315",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

@@ -14,10 +14,10 @@
   "description": "Red lacquer panel, carved and inlaid with gold; compartmentalized top with organic repeating designs around edges; central section with vessel at center sprouting long, curling stems with four cushionlike flowers which support various unindentified objects",
   "dimension": "1 1/4 x 28 11/16 x 10 1/2in. (3.2 x 72.9 x 26.7cm)",
   "id": "http://api.artsmia.org/objects/32432",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 4460,
+  "image_width": 11136,
   "inscription": "Inscriptions",
   "life_date": null,
   "markings": "Untranslated inscriptions, on back, inside an organic design element",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G212",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

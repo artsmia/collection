@@ -14,10 +14,10 @@
   "description": "triple band with 30 rectangular cut turquoise and a central chrysacola",
   "dimension": "2 3/8 x 2 15/16 x 2 15/16 in. (6.03 x 7.46 x 7.46 cm)",
   "id": "http://api.artsmia.org/objects/91728",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2662,
+  "image_width": 3000,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

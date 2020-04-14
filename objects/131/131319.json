@@ -4,7 +4,7 @@
   "artist": "Artist: Shirley Russell",
   "catalogue_raissonne": null,
   "classification": " Prints",
-  "continent": null,
+  "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marla J. Kinney",
   "culture": null,
@@ -15,7 +15,7 @@
   "dimension": "13 7/8 × 10 5/8 in. (35.24 × 26.99 cm) (image)\r\n15 × 11 3/16 in. (38.1 × 28.42 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/131319",
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "© Shirley Russell",
   "image_height": 5601,
   "image_width": 4245,
   "inscription": "LLC, in margin, in pencil: White Ginger",
@@ -27,7 +27,7 @@
   "portfolio": "From ",
   "provenance": "(Steven Thomas, Woodstock Vt., until 2017, sold to Kinney); Marla J. Kinney, Minneapolis (2017-19)",
   "restricted": 1,
-  "rights_type": "Copyright Not Evaluated",
+  "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
@@ -35,6 +35,6 @@
   ],
   "signed": "bottom right edge, in margin, in pencil: Shirley Russell",
   "style": "20th century",
-  "text": "",
+  "text": "White Ginger is one of several tropical flower prints Shirley Russell created in collaboration with Japanese publisher Watanabe Shōzaburō. The fragrant white ginger grew like a weed in Honolulu, Hawaii, where Russell lived for 60 years, supporting herself as a high school art teacher. According to Japanese printmaking tradition, a separate carver and printer executed this woodcut after Russell’s design.",
   "title": "White Ginger"
 }

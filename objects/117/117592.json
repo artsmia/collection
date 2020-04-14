@@ -2,7 +2,7 @@
   "accession_number": "2013.29.487",
   "art_champions_text": null,
   "artist": "Artist: Yoshida Tōshi (self-published)",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ronin Gallery 1986, #016301",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
@@ -11,19 +11,19 @@
   "curator_approved": 0,
   "dated": "1963",
   "department": "Japanese and Korean Art",
-  "description": "planes of color; embossed lines (rock garden) in foreground with grass and bushes beyond; dark blue calm water in middle ground; rocks and foliage at far bank at top of image; shin hanga (fūkei-ga)",
+  "description": "planes of color; embossed lines (rock garden) in foreground with grass and bushes beyond; dark blue calm water in middle ground; rocks and foliage at far bank at top of image",
   "dimension": "8 7/16 × 12 5/16 in. (21.43 × 31.27 cm) (image)\r\n9 3/4 × 13 9/16 in. (24.77 × 34.45 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/117592",
   "image": "valid",
   "image_copyright": "© Yoshida T%C5%8Dshi",
   "image_height": 3541,
   "image_width": 5114,
-  "inscription": "Left, embossed: [?????　?????] {1963nen saku, Tenryu-ji no niwa}; bottom, in pencil: [Tenryuji Garden] [Toshi Yoshida]",
+  "inscription": "Left, embossed: 一九六三年作天龍寺の庭 {1963nen saku, Tenryū-ji no niwa}; bottom, in pencil: Tenryuji Garden",
   "life_date": "Japanese, 1911 - 1995",
-  "markings": "LRC: Red artist\\'s seal [吉田] {Yoshida}",
+  "markings": "LRC red artist\\'s seal: 吉田 {Yoshida}",
   "medium": "Woodblock print; ink and color on paper with embossing",
   "nationality": "Japanese",
-  "object_name": "Print (gendai hanga / fūkei-ga)",
+  "object_name": "Print (shin hanga / fūkei-ga)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "LRC: Toshi Yoshida",
   "style": "20th century",
   "text": "",
-  "title": "Tenryuji Garden"
+  "title": "Tenryūji Garden"
 }

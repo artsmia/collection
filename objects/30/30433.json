@@ -14,10 +14,10 @@
   "description": "decorated overall with landscape of pines, maples and waterfall; dark blue cord and reddish-orange bead",
   "dimension": "3 11/16 x 2 x 1 3/16 in. (9.4 x 5.1 x 3 cm) (without cord)",
   "id": "http://api.artsmia.org/objects/30433",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5221,
+  "image_width": 3379,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "[Kajikawa-style inrō with decor of waterfall in the mountains]"
+  "title": "Kajikawa-style five-case inro with decor of waterfall in the mountains"
 }

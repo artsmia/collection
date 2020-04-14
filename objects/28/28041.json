@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "1 13/16 x 4 in. (4.6 x 10.16 cm)",
   "id": "http://api.artsmia.org/objects/28041",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3144,
+  "image_width": 4401,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G213",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

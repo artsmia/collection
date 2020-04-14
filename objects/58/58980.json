@@ -1,8 +1,8 @@
 {
   "accession_number": "P.78.19.2",
   "art_champions_text": null,
-  "artist": "Artist: Robert Ryman; Publisher: Crown Point Press, San Francisco",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Robert Ryman; Printer: Crown Point Press, San Francisco; Publisher: Robert Ryman",
+  "catalogue_raissonne": "Sandback RRG6/2",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "1972",
   "department": "Prints and Drawings",
-  "description": "from series of four etchings",
+  "description": "from series of four abstract etchings",
   "dimension": "10 3/4 x 11 in. (27.31 x 27.94 cm) (plate)",
   "id": "http://api.artsmia.org/objects/58980",
   "image": "invalid",
@@ -19,8 +19,8 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "American, born 1930",
-  "markings": "Chopmark:  <K> (Patrick Foy)\r\n",
+  "life_date": "American, 1930 - 2019",
+  "markings": "Numbered in pencil: 30/30\r\nPrinter\\'s mark:  <K> (Patrick Foy)\r\n",
   "medium": "Color etching",
   "nationality": "American",
   "object_name": "Print",
@@ -36,5 +36,5 @@
   "signed": "Signed and dated, LR: Ryman 72",
   "style": "20th century",
   "text": "",
-  "title": "Etching in Four Parts, Part 2"
+  "title": "Etching in Four Parts (II)"
 }

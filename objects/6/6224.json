@@ -4,7 +4,7 @@
   "artist": "",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
-  "continent": null,
+  "continent": "Asia",
   "country": "India",
   "creditline": "The John R. Van Derlip Fund",
   "culture": null,
@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/6224",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 3848,
-  "image_width": 4386,
+  "image_height": 7812,
+  "image_width": 9764,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G211",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

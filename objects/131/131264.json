@@ -14,10 +14,10 @@
   "description": "seated figure wearing a black robe with small white flowers on sleeves and chest area; cream-colored under robe and blue inner sleeves; skirted bottoms that are puce in color with thin black stripes; figure holds brush in PR hand; characters/ text in upper right edge and in ULQ, as well as in lower left edge; red stamps in lower left edge of sheet, lower right edge of sheet and in center left; pale green shading in lower left edge",
   "dimension": "14 5/8 × 9 13/16 in. (37.15 × 24.92 cm) (sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/131264",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6311,
+  "image_width": 4311,
   "inscription": "",
   "life_date": "Japanese, active c. 1868 - 1892",
   "markings": "{Toshikage}",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

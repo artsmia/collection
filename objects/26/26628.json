@@ -14,10 +14,10 @@
   "description": "Three carinated wires; set with flat triangular turquoises surrounded by twenty-three round turquoises and flanked by vertical rows of five stones each; finely serrated bezels; teardrop decoration; 3 Bands; shield-shaped central turquoise shurrounded by small stones cat. 146, J#22",
   "dimension": "2 7/8 x 15/16 in. (7.3 x 2.38 cm)",
   "id": "http://api.artsmia.org/objects/26628",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2662,
+  "image_width": 3000,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

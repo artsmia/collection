@@ -3,7 +3,7 @@
   "art_champions_text": null,
   "artist": "Artist: Frederick Hammersley",
   "catalogue_raissonne": null,
-  "classification": " Drawings",
+  "classification": " Drawings; Works on Paper",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of the Frederick Hammersley Foundation",
@@ -15,7 +15,7 @@
   "dimension": "9 15/16 × 8 in. (25.24 × 20.32 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/127529",
   "image": "valid",
-  "image_copyright": "© Frederick Hammersley Foundation",
+  "image_copyright": "© Frederick Hammersley Foundation %2F Artists Rights Society %28ARS%29%2C New York %2F licensed by Minneapolis Institute of Art",
   "image_height": 4280,
   "image_width": 3498,
   "inscription": "LRC in pencil: 11 74 | on back in pencil: dr0065",
@@ -25,16 +25,16 @@
   "nationality": "American",
   "object_name": "Drawing",
   "portfolio": "From ",
-  "provenance": "The artist; New Mexico; Frederick Hammersley Foundation, Albuquerque, N.M.; given to MIA, 2017",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "provenance": "The artist; New Mexico; Frederick Hammersley Foundation, Albuquerque, N.M.; given to MIA, 2017.",
+  "restricted": 0,
+  "rights_type": "In Copyright–Educational Use",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
     ""
   ],
-  "signed": "LLC in pencil: \\\"Old Guy\\\" | LRC in pencil: F. Hammersley 74",
+  "signed": "LLC in pencil: \\\"old guy\\\" | LRC in pencil: F. Hammersley 74",
   "style": "20th century",
   "text": "Hammersley trained in traditional painting and drawing, first at Idaho State University beginning in 1936, and later at the Chouinard Art Institute and Jepson Art Institute in Los Angeles. He also served as a U.S. Army Signal Corps graphic designer during World War II. Stationed in Paris when the war ended in 1945, he remained in the city to study at the École des Beaux-Arts. During this time, he visited the studios of several prominent modern artists, including Picasso, Braque, and Brancusi. The experience strongly influenced his desire to pursue modern and experimental art. Hammersley’s wide-ranging practice includes sculpture, painting, drawing, collage, printmaking, computer-generated art, mosaic design, and photography. In addition to his long-standing interest in hard-edge geometric abstraction, Hammersley painted and drew from the figure and composed representational subjects throughout his career.",
-  "title": "Old Guy"
+  "title": "Old guy"
 }

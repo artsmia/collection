@@ -14,10 +14,10 @@
   "description": "Single strand of very large silver beads; 6 sq. blossom, 4-pronged, triple band ox bow naja with filed designs, 4 Cerrillos turquoise. J.#473, Cat.#391.",
   "dimension": "14 3/8 in. (36.51 cm)",
   "id": "http://api.artsmia.org/objects/3996",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3000,
+  "image_width": 1538,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

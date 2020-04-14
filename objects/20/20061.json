@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "8 7/8 × 13 7/8 in. (22.5 × 35.3 cm) (image, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/20061",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3190,
+  "image_width": 4838,
   "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
   "markings": "Censor:Kiwame\r\nPublisher:Takenouchi",
@@ -39,6 +39,6 @@
   ],
   "signed": "",
   "style": "19th century",
-  "text": "The second state is defined by missing lines in knees of the figure at right. Variation B has the sky dark at the horizon.",
-  "title": "Kanbara: Night Snow [second state, variation B]"
+  "text": "This is the second state, defined by missing lines in knees of the figure at right.",
+  "title": "Kanbara: Night Snow [second state]"
 }

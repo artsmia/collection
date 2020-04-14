@@ -1,14 +1,14 @@
 {
   "accession_number": "2009.28",
   "art_champions_text": null,
-  "artist": "Artist: After Caterine Sperling Heckel; Publisher: Bernard Picart",
+  "artist": "Artist: after Caterine Sperling Heckel; Engraver: Bernard Picart",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Thomas and Marsha French in honor of Rev. Richard Hillstrom",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1732",
   "department": "Prints and Drawings",
   "description": "interior view of a church looking down on congregation with men standing at sides and women seated at center--some figures processing; very large sculpted altarpiece at front with angels; painting above altar appears to be Last Supper scene",
@@ -18,14 +18,14 @@
   "image_copyright": "",
   "image_height": 3641,
   "image_width": 4463,
-  "inscription": "Title and Inscription\r\n\r\nbottom center, in pencil: [74]",
-  "life_date": "French, 1673–1733",
+  "inscription": "below image, printed inscription: Caterine Sperling del.  La COMMUNION des LUTHERIENS dans L\\'EGLISE des MINORITES à AUGSBOURG.  B. Picart sculp. dir. 1732\r\nbottom center, in pencil: 74",
+  "life_date": "French, 1673 - 1733",
   "markings": "",
   "medium": "Etching and engraving",
   "nationality": "French",
   "object_name": "Print",
-  "portfolio": "From From Bernard Picart, Cérémonies et coutumes religieuses de tous les peuples du monde (Ceremonies and Religious Costumes of all the Peoples of the World), 10 vols., Paris, 1723-43",
-  "provenance": "Thomas French Fine Art (Fairlawn, OH)",
+  "portfolio": "From From Cérémonies et coutumes religieuses de tous les peuples du monde (Ceremonies and Religious Costumes of all the Peoples of the World), 10 vols., Paris, 1723-43",
+  "provenance": "(Thomas French Fine Art, Fairlawn, Ohio); given to MIA, 2009.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "below image, printed: [Caterine Sperling del.  La COMMUNION des LUTHERIENS dans L\\'EGLISE des MINORITES à AUGSBOURG.  B. Picart sculp. dir. 1732]",
+  "signed": "Signed, dated in the plate: B. Picard sculp. dir. 1732",
   "style": "18th century",
   "text": "Catharina Heckel Sperling learned drawing from her father, Augsburg goldsmith Michael Heckel. A prodigy, she etched a booklet of fashion plates at age 11. She was self-taught as a painter of easel paintings and miniatures. In 1725, she married engraver Hieronymus Sperling, and together they spent the next few years making etched and engraved illustrations for a Bible published from 1731 to 1735, the same period in which the present church view appeared. Working at the dawn of the Age of Enlightenment, she made images intended to convey vast quantities of information with the greatest clarity and objectivity possible. In The Communion of the Lutherans she carefully depicted the church, the clothing, and the ceremony. This is not to say that she insisted on archeological accuracy; comparison to modern photographs of the church reveals that she made the sanctuary appear loftier than it is in reality.",
-  "title": "La communion des Lutheriens dans l'Eglise des Minorites à Augsbourg (The Communion of the Lutherans in the Minorite Church in Augsburg)"
+  "title": "La communion des Lutheriens dans l'Eglise des Minorites à Augsbourg"
 }

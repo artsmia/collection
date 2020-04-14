@@ -1,7 +1,7 @@
 {
   "accession_number": "P.12,388",
   "art_champions_text": null,
-  "artist": "Artist: Bror Julius Olsson Nordfeldt",
+  "artist": "Artist: Bror Julius Olsson (B.J.O.)  Nordfeldt",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -12,20 +12,20 @@
   "dated": "1912",
   "department": "Prints and Drawings",
   "description": "",
-  "dimension": "9 3/8 x 11 13/16 in. (23.81 x 30 cm) (plate)",
+  "dimension": "9 3/8 × 11 13/16 in. (23.81 × 30 cm) (plate)\r\n15 × 19 × 1 1/2 in. (38.1 × 48.26 × 3.81 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/58344",
   "image": "valid",
   "image_copyright": "",
   "image_height": 3960,
   "image_width": 5463,
-  "inscription": "Signature",
-  "life_date": "American (born Sweden), 1878–1955",
+  "inscription": "",
+  "life_date": "American (born Sweden), 1878 - 1955",
   "markings": "",
   "medium": "Etching",
-  "nationality": "American",
+  "nationality": "American (born Sweden)",
   "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "The artist; Mrs. B.J.O. Nordfeldt, until 1955; given to MIA.",
   "restricted": 0,
   "rights_type": "No Copyright–United States",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "On sheet",
+  "signed": "Signed in pencil, LR margin: BJO Nordfeldt",
   "style": "20th century",
   "text": "",
-  "title": "Barge in the North Branch, Chicago"
+  "title": "Barges on the North Branch, Chicago"
 }

@@ -4,7 +4,7 @@
   "artist": "",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
-  "continent": null,
+  "continent": "Asia",
   "country": "Cambodia",
   "creditline": "The Alan and Dena Naylor Southeast Asian Art Fund",
   "culture": null,
@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/45818",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 1936,
-  "image_width": 2592,
+  "image_height": 5281,
+  "image_width": 5281,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "G213",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

@@ -14,10 +14,10 @@
   "description": "water in foreground; village buildings on shore behind walls; foliage at left",
   "dimension": "5 11/16 x 9 15/16 in. (14.45 x 25.24 cm) (sight)\r\n12 5/16 x 16 5/8 x 7/8 in. (31.27 x 42.23 x 2.22 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/114873",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2518,
+  "image_width": 4081,
   "inscription": "Signature, Title and Stamp",
   "life_date": "French, 1849–1918",
   "markings": "LLC, stamped in red: estate stamp",
@@ -35,6 +35,6 @@
   ],
   "signed": "LLC, in pencil: [A. Lepère]; LRC, in pencil: [Andresy.]",
   "style": "19th-20th century",
-  "text": "",
+  "text": "The waterfront town of Andrésy lies about 15 miles northwest of Paris. Small and picturesque, it grew up where the River Oise and the River Seine come together. It has long been a destination for Parisians seeking a bit of fresh air. In dashing off this watercolor sketch, Auguste Lepère may have stationed himself on the long, narrow island in the Seine that runs parallel to the town’s shoreline.",
   "title": "Andrésy"
 }

@@ -4,7 +4,7 @@
   "artist": "Artist: Art Green",
   "catalogue_raissonne": null,
   "classification": " Paintings",
-  "continent": null,
+  "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Garth Greenan, New York",
   "culture": null,
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G280",
   "see_also": [
     ""
   ],

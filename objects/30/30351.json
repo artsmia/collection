@@ -1,7 +1,7 @@
 {
   "accession_number": "98.118.2",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: Unknown Japanese",
   "catalogue_raissonne": null,
   "classification": " Clothing",
   "continent": "Asia",
@@ -14,10 +14,10 @@
   "description": "silk padded kimono; brown and white alternating bands, feathered appearance between bands; printed falcon designs with black pole and purple tie repeated throughout",
   "dimension": "31 x 33 in. (78.74 x 83.8 cm)",
   "id": "http://api.artsmia.org/objects/30351",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6768,
+  "image_width": 6867,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "19th-20th century",
-  "text": "The training of predatory birds for hunting and sport has a long tradition in Japan. In the Edo period (1600-1868), master falconers (takajo_) were accorded special rank withinthe samurai hierarchy. This boy's costume is decorated with falcons as a fitting emblem of male strength and focused determination.",
-  "title": "(Boy's Kimono)"
+  "text": "The birds of prey depicted on this boy’s garment have braided silk cords attached to their feet, indicating that they are captive birds trained for hunting and sport. Falconry has a long tradition in elite Japanese society. Well established in Japan by the 700s and practiced primarily among the aristocracy, falconry eventually came to be associated with military prowess and was widely practiced by elite members of the rising warrior class after the 1200s. During and after the 1600s, master falconers were even accorded special rank within the warrior class hierarchy. Although this costume for a boy was created decades after the Japanese government eliminated the class system and, along with it, military privileges for the warrior class, it is decorated with falcons as enduring emblems of strength and focused determination.",
+  "title": "Boy's robe with tethered hawks"
 }

@@ -1,14 +1,14 @@
 {
   "accession_number": "P.79.11.1",
   "art_champions_text": null,
-  "artist": "Artist: Alan Turner",
+  "artist": "Artist: Alan Turner; Printer: Aeropress, New York; Publisher: Parasol Press Ltd., New York",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1978",
   "department": "Prints and Drawings",
   "description": "",
@@ -18,14 +18,14 @@
   "image_copyright": "© Alan Turner",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature; Mark\r\n\r\nsee Signed",
+  "inscription": "\r\n\r\nsee Signed",
   "life_date": "American, born 1943",
-  "markings": "Watermark: <Arches>\r\nChop mark: <Arrow Press>",
-  "medium": "Etching",
+  "markings": "\r\nNumbered in pencil, LR margin: 13/20\r\nBlindstamp, LLC: Aeropress\r\nWatermark: Arches",
+  "medium": "Etching and aquatint; diptych",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print; diptych",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "Parasol Press, New York (publisher); sold to MIA, 1979.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: [Alan Turner]",
+  "signed": "Signed, dated in pencil, LR margin: Alan Turner 1978",
   "style": "20th century",
   "text": "",
-  "title": "Landscape I"
+  "title": "Black Landscape"
 }

@@ -14,10 +14,10 @@
   "description": "biomorphic form; abstracted standing female figure",
   "dimension": "2 5/16 × 1 1/2 × 9/16 in. (5.87 × 3.81 × 1.43 cm)",
   "id": "http://api.artsmia.org/objects/128968",
-  "image": "invalid",
-  "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image": "valid",
+  "image_copyright": "© Estate of Harry Bertoia %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_height": 4382,
+  "image_width": 3506,
   "inscription": "",
   "life_date": "American, 1915-1978",
   "markings": "",
@@ -27,7 +27,7 @@
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
-  "rights_type": "Copyright Not Evaluated",
+  "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "20th century",
-  "text": "",
+  "text": "While teaching in the metalwork department at the Cranbrook Academy of Art in Bloomfield Hills, Michigan, Bertoia began making jewelry, essentially biomorphic sculptures in miniature. His lively explorations of abstraction influenced craft artists in the succeeding decades.",
   "title": "Brooch"
 }

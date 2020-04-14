@@ -14,10 +14,10 @@
   "description": "4 square wires, set with single large elliptical chalcedony turquoise, bead wire and twisted wire decoration cat. 60, J#196",
   "dimension": "1 1/2 x 2 1/2 in. (3.81 x 6.35 cm)",
   "id": "http://api.artsmia.org/objects/27029",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2811,
+  "image_width": 3000,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

@@ -14,16 +14,16 @@
   "description": "tall grasses in foreground; trees at L and R in background with mountain near center in distance; small figure in middle ground, R of center; printed in black",
   "dimension": "15 3/16 x 19 11/16 in. (38.5 x 50 cm) (image)\r\n16 7/16 x 20 7/8 in. (41.7 x 53 cm) (sheet)\r\n20 11/16 x 24 3/4 in. (52.5 x 62.8 cm) (mat)",
   "id": "http://api.artsmia.org/objects/31342",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Sasajima Kihei",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2448,
+  "image_width": 3264,
   "inscription": "",
   "life_date": "Japanese, 1906 - 1993",
   "markings": "Artst\\' seal in red\r\n\\\"No. 32\\\" LRC",
-  "medium": "woodblock print",
+  "medium": "Woodblock print; ink on paper",
   "nationality": "Japanese",
-  "object_name": "Print (gendai hanga)",
+  "object_name": "Print (sōsaku hanga)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -36,5 +36,5 @@
   "signed": "K. Sasajima",
   "style": "20th century",
   "text": "",
-  "title": "(Mountain)"
+  "title": "Title unknown [Mountain]"
 }

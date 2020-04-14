@@ -4,7 +4,7 @@
   "artist": "Artist: Elizabeth Norton",
   "catalogue_raissonne": null,
   "classification": " Prints",
-  "continent": null,
+  "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Marla J. Kinney",
   "culture": null,
@@ -15,7 +15,7 @@
   "dimension": "8 1/4 × 5 3/4 in. (20.96 × 14.61 cm) (image)\r\n10 7/16 × 7 11/16 in. (26.51 × 19.53 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/131318",
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": "© Elizabeth Norton",
   "image_height": 3975,
   "image_width": 2976,
   "inscription": "LLC, in margin, in pencil: Goldfish No. I del., sc. et.imp- | LRC, in margin, in pencil: 34/100",
@@ -27,14 +27,14 @@
   "portfolio": "From ",
   "provenance": "(Paramour Fine Arts, Franklin, Mich., until 2018; sold to Kinney); Marla J. Kinney, Minneapolis (2018-19)",
   "restricted": 1,
-  "rights_type": "Copyright Not Evaluated",
+  "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],
   "signed": "bottom right edge, in margin, in pencil: Elizabeth Norton 1924",
   "style": "20th century",
-  "text": "",
+  "text": "Elizabeth Norton’s love of animals dates to her childhood in Chicago, where she spent hours drawing at the Lincoln Park Zoo. The inscription “del., sc. et imp.” stands for delineavit, sculpsit, and impressit—Latin for drawn, carved, and printed. In an era of growing mass production, Norton may have wanted to specify that her woodcuts were original art personally made by her.",
   "title": "Goldfish #1"
 }

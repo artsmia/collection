@@ -1,14 +1,14 @@
 {
   "accession_number": "2011.74.13.9",
   "art_champions_text": null,
-  "artist": "Artist: Kiki Smith; Publisher: Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Kiki Smith; Printer: Universal Limited Art Editions (ULAE); Publisher: Universal Limited Art Editions (ULAE)",
   "catalogue_raissonne": "Krakow 15; Weitman 60",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Anonymous gift",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1991",
   "department": "Prints and Drawings",
   "description": "from a suite of 12 lithographs--.3-5,.8,.10,.11 and .1,.2,.6,.7,.9,.12 each framed together in two frames; pair of distorted faces joined at noses, center right; two other distorted, elongated faces above and below; two silver knot shapes at left",
@@ -18,14 +18,14 @@
   "image_copyright": "© 1991 Kiki Smith",
   "image_height": 7139,
   "image_width": 9447,
-  "inscription": "Signature, Edition, Chop Mark",
+  "inscription": "",
   "life_date": "American, born Germany, 1954",
-  "markings": "LLC, blind stamp: [ULAE (intertwined)]",
-  "medium": "Lithograph",
+  "markings": "Numbered in pencil, LL: 16/51\r\nLLC, publisher\\'s blindstamp: ULAE (intertwined)",
+  "medium": "Lithograph printed in black, with alumnium leaf appliqué on cream Japan paper",
   "nationality": "German-American",
   "object_name": "Print",
   "portfolio": "From Banshee Pearls suite",
-  "provenance": "Private collection, Minneapolis",
+  "provenance": "Private collection, Minneapolis; given to MIA, 2011.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed with initials and numbered, verso: [KS 33/51]",
+  "signed": "Signed and dated in pencil, LL: Kiki Smith 1991",
   "style": "20th century",
   "text": "",
-  "title": "Banshee Pearls"
+  "title": "Banshee Pearls (9)"
 }

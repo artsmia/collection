@@ -14,10 +14,10 @@
   "description": "Necklace; 10 strands very fine hand-drilled turquoise beads; silver cone and clasp. Joe and Mary Ann Calabaza; Santo Domongo NM. J# 1078, no Cat#",
   "dimension": "17 in. (43.18 cm)",
   "id": "http://api.artsmia.org/objects/26873",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3000,
+  "image_width": 1572,
   "inscription": "",
   "life_date": "Santo Domingo Pueblo",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "No Known Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

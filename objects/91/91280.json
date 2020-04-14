@@ -1,7 +1,7 @@
 {
   "accession_number": "P.74.90.4",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Designer: Unknown; Printer: Staatliches Bauhaus; Publisher: Staatliches Bauhaus",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "1923",
   "department": "Prints and Drawings",
-  "description": "with case",
+  "description": "double-sided title page and colophon",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/91280",
   "image": "invalid",
@@ -20,12 +20,12 @@
   "image_width": "",
   "inscription": "",
   "life_date": null,
-  "markings": "",
-  "medium": "",
+  "markings": "Numbered in letterpress on colophon page: 98",
+  "medium": "Letterpress on cream paper",
   "nationality": null,
-  "object_name": "Frontispiece from Bauhaus Meistermappe",
-  "portfolio": "From ",
-  "provenance": "",
+  "object_name": "Title page",
+  "portfolio": "From Masters' Portfolio of the Staatliches Bauhaus (Meistermappe des Staatlichen Bauhauses)",
+  "provenance": "Dr. and Mrs. M. Michael Eisenberg, Minneapolis; sold to MIA, 1974.",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Frontispiece from Bauhaus Meistermappe"
+  "title": "Title page and colophon for Masters' Portfolio of the Staatliches Bauhaus (Meistermappe des Staatlichen Bauhauses)"
 }

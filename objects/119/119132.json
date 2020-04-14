@@ -14,16 +14,16 @@
   "description": "very large image of Shoki in black robes and black boots holding very tall straight sword in PR hand; very full, windblown beard and hair, fierce face, bushy eyebrows",
   "dimension": "188 1/4 × 42 in. (478.16 × 106.68 cm) (with tabs)",
   "id": "http://api.artsmia.org/objects/119132",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 10834,
+  "image_width": 5682,
   "inscription": "",
   "life_date": "Japanese",
   "markings": "URQ red artist\\'s seal: 松霞 {Shōka}",
-  "medium": "Hemp (?) fiber, pigment",
+  "medium": "Cloth: hemp; hand-painted pigments",
   "nationality": "Japanese",
-  "object_name": "Banner (nobori bata)",
+  "object_name": "Banner (nobori)",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 0,
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "Originally, banners were used on battlefields for troop identification but in the Edo period they developed into ornamental use. Banners became a central element of the display for Boy's Day on the fifth day of the fifth month and were meant to inspire boys to be disciplined, brave and honorable. Artists painted motifs that held symbolic meaning (e.g., carp for determined effort; helmets and armor for martial skill). This banner illustrates Shōki, the powerful demon queller.",
-  "title": "Shōki Boy's Day Banner"
+  "title": "Festival banner of Shōki, the Demon Queller"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "2013.35.721",
   "art_champions_text": null,
-  "artist": "Artist: James McNeill Whistler",
+  "artist": "Artist: James Abbot McNeill Whistler",
   "catalogue_raissonne": "Kennedy 55 ii/ii",
   "classification": " Prints",
   "continent": "North America",
@@ -19,7 +19,7 @@
   "image_height": 5402,
   "image_width": 4356,
   "inscription": "Signature, Title, Date and Inscription\r\n\r\nLRC, in pencil: [P1986.25]",
-  "life_date": "American, 1834–1903",
+  "life_date": "American, 1834 - 1903",
   "markings": "",
   "medium": "Drypoint",
   "nationality": "American",
@@ -31,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "115217",
+    "115221",
+    "115222",
+    "7389"
   ],
   "signed": "LRC, in the print: [Whistler 1859.]; bottom center, in the print: [Drouet Sculpteur]",
   "style": "19th century",

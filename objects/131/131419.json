@@ -14,10 +14,10 @@
   "description": "back wheel of old tricycle",
   "dimension": "8 1/8 × 11 7/8 in. (20.64 × 30.16 cm) (image)\r\n11 3/4 × 15 1/8 in. (29.85 × 38.42 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/131419",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Mario Fonseca",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3959,
+  "image_width": 5848,
   "inscription": "",
   "life_date": "Chilean, born 1948",
   "markings": "see Signed",
@@ -35,6 +35,6 @@
   ],
   "signed": "on back in pencil: Calle Suecia - Tricycle triptych b 1972/2018 ed 2/9 / Mario Fonseca",
   "style": "20th century",
-  "text": "",
+  "text": "Mario Fonseca is an artist who survived one of the cruelest dictatorships of the 20th century by creating and exhibiting art, and did so at his peril. Discouraged by the presence of the secret police and other informants on the street, he took his camera to the roof of his home on Calle Suecia in Santiago and photographed the detritus he found there. This disjointed and disorienting set of views of a tricycle presents a powerful metaphor of life under an oppressive regime: fragmenting under the pressures of the surveillance state, broken by the threat of torture, the individual is reduced to parts and not a whole.",
   "title": "Tricycle II"
 }
