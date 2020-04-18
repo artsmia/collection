@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2791,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Crafting America",
+  "exhibition_description": null,
+  "begin": 2020,
+  "end": 2021,
+  "display_date": "Saturday, October 17, 2020 - Monday, February 1, 2021",
+  "public_info": 0,
+  "objects": [
+    111923,
+    114186,
+    116016,
+    116017,
+    116018
+  ],
+  "venues": [
+    {
+      "venue": "Crystal Bridges Museum of American Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Saturday, October 17, 2020 - Monday, February 1, 2021"
+    }
+  ]
+}

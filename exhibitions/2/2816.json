@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2816,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Paul Cezanne",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Wednesday, November 17, 2021 - Monday, September 05, 2022",
+  "public_info": 0,
+  "objects": [
+    802
+  ],
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Wednesday, November 17, 2021 - Monday, September 05, 2022"
+    },
+    {
+      "venue": "Tate Modern",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Wednesday, November 17, 2021 - Monday, September 05, 2022"
+    }
+  ]
+}

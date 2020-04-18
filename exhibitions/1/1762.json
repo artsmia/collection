@@ -10,18 +10,5 @@
   "objects": [
     1413
   ],
-  "venues": [
-    {
-      "venue": "Cleveland Museum of Art",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Sunday, October 11, 2015 - Sunday, April 17, 2016"
-    },
-    {
-      "venue": "Royal Academy of Arts",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Sunday, October 11, 2015 - Sunday, April 17, 2016"
-    }
-  ]
+  "venues": []
 }
