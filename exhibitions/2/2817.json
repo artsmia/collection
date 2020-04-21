@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2817,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Electrifying Design: A Century of Lighting",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2021,
+  "display_date": "Sunday, February 14, 2021 - Thursday, September 30, 2021",
+  "public_info": 0,
+  "objects": [
+    6945,
+    40401
+  ],
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Sunday, February 14, 2021 - Thursday, September 30, 2021"
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Sunday, February 14, 2021 - Thursday, September 30, 2021"
+    }
+  ]
+}

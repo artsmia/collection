@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2669,
+  "exhibition_department": null,
+  "exhibition_title": "Goya",
+  "exhibition_description": null,
+  "begin": 2020,
+  "end": 2020,
+  "display_date": "Friday, May 15, 2020 - Sunday, August 16, 2020",
+  "public_info": null,
+  "objects": [
+    1226
+  ],
+  "venues": [
+    {
+      "venue": "Fondation Beyeler",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Friday, May 15, 2020 - Sunday, August 16, 2020"
+    }
+  ]
+}
