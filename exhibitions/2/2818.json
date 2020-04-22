@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2818,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Calder-Picasso",
+  "exhibition_description": null,
+  "begin": 2020,
+  "end": 2021,
+  "display_date": "Sunday, October 11, 2020 - Sunday, October 10, 2021",
+  "public_info": 0,
+  "objects": [
+    3215
+  ],
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Sunday, October 11, 2020 - Sunday, October 10, 2021"
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Sunday, October 11, 2020 - Sunday, October 10, 2021"
+    },
+    {
+      "venue": "Seattle Art Museum",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Sunday, October 11, 2020 - Sunday, October 10, 2021"
+    }
+  ]
+}
