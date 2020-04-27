@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 680,
+  "exhibition_department": null,
+  "exhibition_title": "Le théâtre de l'Oeuvre",
+  "exhibition_description": null,
+  "begin": 2005,
+  "end": 2005,
+  "display_date": "Monday, April 11, 2005 - Sunday, July 03, 2005",
+  "public_info": null,
+  "objects": [
+    1830
+  ],
+  "venues": [
+    {
+      "venue": "Musée d'Orsay",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Monday, April 11, 2005 - Sunday, July 03, 2005"
+    }
+  ]
+}
