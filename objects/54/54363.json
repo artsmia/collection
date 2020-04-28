@@ -14,13 +14,13 @@
   "description": "",
   "dimension": "17 11/16 x 22 13/16 in. (44.93 x 57.94 cm) (plate)\r\n22 5/8 x 29 5/8 in. (57.47 x 75.25 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/54363",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Wayne Thiebaud %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature; Edition; Chop mark\r\n\r\nsee Signed",
+  "image_height": 6812,
+  "image_width": 8862,
+  "inscription": "",
   "life_date": "American, born 1920",
-  "markings": "Watermark: <Somerset>\r\nChop mark: <Crown Point Press, Stephen Thomas>",
+  "markings": "Numbered in pencil, LL: 15/50\r\nPublisher\\'s blindstamp: Crown Point Press \r\nPrinter\\'s mark: Stephen Thomas\r\nWatermark: Somerset",
   "medium": "Color softground and aquatint",
   "nationality": "American",
   "object_name": "Print",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: [Thiebaud]",
+  "signed": "Signed and dated in pencil, LR: Thiebaud 1979",
   "style": "20th century",
   "text": "",
   "title": "Clown"

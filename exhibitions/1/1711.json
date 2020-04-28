@@ -36,5 +36,25 @@
     122503,
     122508,
     123076
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995"
+    }
   ]
 }

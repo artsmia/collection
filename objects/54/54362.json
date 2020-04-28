@@ -14,13 +14,13 @@
   "description": "",
   "dimension": "16 1/4 x 23 13/16 in. (41.28 x 60.48 cm) (plate)\r\n23 x 29 5/8 in. (58.42 x 75.25 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/54362",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Wayne Thiebaud %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature; Edition; Chop mark\r\n\r\nsee Signed",
+  "image_height": 6883,
+  "image_width": 8852,
+  "inscription": "",
   "life_date": "American, born 1920",
-  "markings": "Watermark: <Somerset>\r\nChop mark: <Crown Point Press , Stephen Thomas>",
+  "markings": "Numbered in pencil, LL: 15/50\r\nPublisher\\'s blindstamp: Crown Point Press \r\nPrinter\\'s mark: Stephen Thomas\r\nWatermark: Somerset\r\n",
   "medium": "Color etching and aquatint",
   "nationality": "American",
   "object_name": "Print",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: [Thiebaud]",
+  "signed": "Signed and dated in pencil, LR: Thiebaud 1979",
   "style": "20th century",
   "text": "",
   "title": "Shoe Rows"

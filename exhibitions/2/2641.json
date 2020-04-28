@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
-  "display_date": "Friday, September 6, 2019 - Sunday, June 7, 2020",
+  "display_date": "Friday, September 06, 2019 - Monday, October 12, 2020",
   "public_info": 0,
   "objects": [
     1381,
@@ -32,13 +32,13 @@
       "venue": "Concord Museum",
       "begin": 2019,
       "end": 2020,
-      "display_date": "Friday, September 6, 2019 - Sunday, June 7, 2020"
+      "display_date": "Friday, September 06, 2019 - Monday, October 12, 2020"
     },
     {
       "venue": "New York Historical Society",
       "begin": 2019,
       "end": 2020,
-      "display_date": "Friday, September 6, 2019 - Sunday, June 7, 2020"
+      "display_date": "Friday, September 06, 2019 - Monday, October 12, 2020"
     }
   ]
 }
