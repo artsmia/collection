@@ -10,5 +10,12 @@
   "objects": [
     7160
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Russian Art",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Saturday, June 15, 2013 - Sunday, November 10, 2013"
+    }
+  ]
 }
