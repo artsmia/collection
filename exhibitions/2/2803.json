@@ -30,5 +30,13 @@
     137173,
     137286,
     137287
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Saturday, February 15, 2020 - Sunday, October 18, 2020"
+    }
   ]
 }
