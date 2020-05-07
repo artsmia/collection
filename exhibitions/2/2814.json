@@ -1,33 +1,21 @@
 {
   "exhibition_id": 2814,
-  "exhibition_department": "(not assigned)",
+  "exhibition_department": null,
   "exhibition_title": "O'Keeffe and Moore: From Bones and Stones to the Studio",
   "exhibition_description": null,
-  "begin": 2021,
-  "end": 2022,
-  "display_date": "Saturday, June 05, 2021 - Sunday, October 09, 2022",
-  "public_info": 0,
+  "begin": 2023,
+  "end": 2023,
+  "display_date": "Monday, May 01, 2023 - Saturday, September 30, 2023",
+  "public_info": null,
   "objects": [
     1554
   ],
   "venues": [
     {
-      "venue": "Montreal Museum of Fine Arts",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Saturday, June 05, 2021 - Sunday, October 09, 2022"
-    },
-    {
       "venue": "San Diego Museum of Art",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Saturday, June 05, 2021 - Sunday, October 09, 2022"
-    },
-    {
-      "venue": "The Phillips Collection",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Saturday, June 05, 2021 - Sunday, October 09, 2022"
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Monday, May 01, 2023 - Saturday, September 30, 2023"
     }
   ]
 }

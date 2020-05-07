@@ -1,0 +1,50 @@
+{
+  "exhibition_id": 2526,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "A History of Photography: Selections from Mia's Collection",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Saturday, April 22, 2017 - Sunday, September 10, 2017",
+  "public_info": 0,
+  "objects": [
+    1847,
+    1898,
+    1987,
+    2027,
+    2844,
+    3163,
+    3231,
+    3297,
+    3390,
+    4137,
+    4383,
+    4831,
+    10671,
+    10720,
+    11225,
+    11841,
+    11914,
+    25921,
+    26199,
+    61399,
+    63523,
+    83539,
+    99168,
+    99373,
+    99694,
+    100854,
+    101030,
+    115654,
+    115819,
+    125786
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Saturday, April 22, 2017 - Sunday, September 10, 2017"
+    }
+  ]
+}
