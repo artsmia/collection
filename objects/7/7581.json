@@ -14,13 +14,13 @@
   "description": "",
   "dimension": "25 1/16 x 22 3/8 in. (63.7 x 56.8 cm) (sheet, irregular)",
   "id": "http://api.artsmia.org/objects/7581",
-  "image": "valid",
+  "image": "invalid",
   "image_copyright": "© Allen Jones",
-  "image_height": 3204,
-  "image_width": 3234,
+  "image_height": "",
+  "image_width": "",
   "inscription": "Inscribed in pencil with color approval notations by Allen Jones, verso: ACJ- 1st colour / 2nd colour / 3rd colour / 4th colour",
   "life_date": "British, born 1937",
-  "markings": "Inscribed in pencil: Bon á tirer\r\nTamarind Workshop and  Akagawa blindstamps\r\nWatermark: Arches \r\n\r\n",
+  "markings": "Inscribed in pencil, LL: Bon á tirer\r\nTamarind Workshop and  Akagawa blindstamps\r\nWatermark: Arches \r\n\r\n",
   "medium": "Color lithograph",
   "nationality": "British",
   "object_name": "Print",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "in pencil: Allen Jones 66",
+  "signed": "in pencil, LR: Allen Jones 66",
   "style": "20th century",
   "text": "",
-  "title": "A Fleet of Buses 3"
+  "title": "Untitled (A Fleet of Buses 3)"
 }
