@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1367,
+  "exhibition_department": null,
+  "exhibition_title": "Second Annual Paintings Exhibition",
+  "exhibition_description": null,
+  "begin": 1947,
+  "end": 1947,
+  "display_date": "1947",
+  "public_info": null,
+  "objects": [
+    10513
+  ],
+  "venues": [
+    {
+      "venue": "Legion of Honor",
+      "begin": 1947,
+      "end": 1947,
+      "display_date": "1947"
+    }
+  ]
+}
