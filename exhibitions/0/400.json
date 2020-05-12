@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 400,
+  "exhibition_department": null,
+  "exhibition_title": "Duchamps Leg",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1996,
+  "display_date": "Tuesday, October 24, 1995 - Friday, March 15, 1996",
+  "public_info": null,
+  "objects": [
+    42709
+  ],
+  "venues": [
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Tuesday, October 24, 1995 - Friday, March 15, 1996"
+    }
+  ]
+}
