@@ -10,5 +10,12 @@
   "objects": [
     11448
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "American Federation of Arts, New York",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Monday, June 21, 1999 - Saturday, November 06, 1999"
+    }
+  ]
 }
