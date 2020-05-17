@@ -11,5 +11,18 @@
     6945,
     40401
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "High Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Sunday, February 14, 2021 - Thursday, September 30, 2021"
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Sunday, February 14, 2021 - Thursday, September 30, 2021"
+    }
+  ]
 }
