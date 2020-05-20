@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2631,
+  "exhibition_department": null,
+  "exhibition_title": "Nordic Impressions",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Saturday, October 13, 2018 - Sunday, January 13, 2019",
+  "public_info": null,
+  "objects": [
+    1242
+  ],
+  "venues": [
+    {
+      "venue": "The Phillips Collection",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, October 13, 2018 - Sunday, January 13, 2019"
+    }
+  ]
+}
