@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2558,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Caravaggio and Europe",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Friday, December 14, 2018 - Sunday, July 21, 2019",
+  "public_info": 0,
+  "objects": [
+    1378
+  ],
+  "venues": [
+    {
+      "venue": "Bayerische Staatsgemäldesammlungen",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Friday, December 14, 2018 - Sunday, July 21, 2019"
+    },
+    {
+      "venue": "Centraal Museum",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Friday, December 14, 2018 - Sunday, July 21, 2019"
+    }
+  ]
+}

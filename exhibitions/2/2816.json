@@ -10,18 +10,5 @@
   "objects": [
     802
   ],
-  "venues": [
-    {
-      "venue": "Art Institute of Chicago",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Wednesday, November 17, 2021 - Monday, September 05, 2022"
-    },
-    {
-      "venue": "Tate Modern",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Wednesday, November 17, 2021 - Monday, September 05, 2022"
-    }
-  ]
+  "venues": []
 }
