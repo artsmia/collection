@@ -52,5 +52,13 @@
     122963,
     123100,
     123101
+  ],
+  "venues": [
+    {
+      "venue": "Schirn Kunsthalle Frankfurt",
+      "begin": 1990,
+      "end": 1990,
+      "display_date": "Sunday, September 16, 1990 - Sunday, November 18, 1990"
+    }
   ]
 }

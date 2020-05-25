@@ -11,5 +11,12 @@
     799,
     4578
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Réunion des Musées Nationaux",
+      "begin": 1998,
+      "end": 1999,
+      "display_date": "Saturday, March 07, 1998 - Thursday, January 07, 1999"
+    }
+  ]
 }
