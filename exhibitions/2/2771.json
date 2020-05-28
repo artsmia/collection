@@ -1,11 +1,11 @@
 {
   "exhibition_id": 2771,
   "exhibition_department": "(not assigned)",
-  "exhibition_title": "Americans in Spain",
+  "exhibition_title": "Americans in Spain: Painting and Travel, 1820-1920",
   "exhibition_description": null,
-  "begin": 2020,
+  "begin": 2021,
   "end": 2021,
-  "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021",
+  "display_date": "Friday, February 12, 2021 - Sunday, October 03, 2021",
   "public_info": 0,
   "objects": [
     578,
@@ -14,21 +14,15 @@
   "venues": [
     {
       "venue": "Chrysler Museum of Art",
-      "begin": 2020,
+      "begin": 2021,
       "end": 2021,
-      "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021"
+      "display_date": "Friday, February 12, 2021 - Sunday, October 03, 2021"
     },
     {
       "venue": "Milwaukee Art Museum",
-      "begin": 2020,
+      "begin": 2021,
       "end": 2021,
-      "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021"
-    },
-    {
-      "venue": "Reynolda House Museum of American Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Friday, October 16, 2020 - Sunday, October 31, 2021"
+      "display_date": "Friday, February 12, 2021 - Sunday, October 03, 2021"
     }
   ]
 }
