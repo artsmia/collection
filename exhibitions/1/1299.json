@@ -146,5 +146,18 @@
     113044,
     113045
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Japan Society",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, October 30, 2011 - Sunday, January 8, 2012"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, October 30, 2011 - Sunday, January 8, 2012"
+    }
+  ]
 }
