@@ -1,0 +1,73 @@
+{
+  "exhibition_id": 1869,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Japanese Art: Selections from the Mary and Jackson Burke Collection New York",
+  "exhibition_description": null,
+  "begin": 1975,
+  "end": 1977,
+  "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977",
+  "public_info": 0,
+  "objects": [
+    6613,
+    6621,
+    6914,
+    37185,
+    39608,
+    40037,
+    99427,
+    99430,
+    121302,
+    121366,
+    121376,
+    122058,
+    122069,
+    122070,
+    122073,
+    122102,
+    122103,
+    122105,
+    122106,
+    122109,
+    122110,
+    122144,
+    122145,
+    122147,
+    122148,
+    122203,
+    122209,
+    122374,
+    122377,
+    122378,
+    122379,
+    122380,
+    122481,
+    122502,
+    122507,
+    122510,
+    122523,
+    122524,
+    122544,
+    123100,
+    123101
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1975,
+      "end": 1977,
+      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1975,
+      "end": 1977,
+      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
+    },
+    {
+      "venue": "Seattle Art Museum",
+      "begin": 1975,
+      "end": 1977,
+      "display_date": "Friday, November 07, 1975 - Sunday, July 17, 1977"
+    }
+  ]
+}

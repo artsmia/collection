@@ -39,5 +39,12 @@
     118919,
     118930
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Tuesday, September 02, 2014 - Saturday, December 06, 2014"
+    }
+  ]
 }
