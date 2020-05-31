@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 2489,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Sesson",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Tuesday, March 28, 2017 - Sunday, September 03, 2017",
+  "public_info": 0,
+  "objects": [
+    1602,
+    10603,
+    122103
+  ],
+  "venues": [
+    {
+      "venue": "Miho Museum",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Tuesday, March 28, 2017 - Sunday, September 03, 2017"
+    },
+    {
+      "venue": "University Art Museum, Tokyo University of the Arts",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Tuesday, March 28, 2017 - Sunday, September 03, 2017"
+    }
+  ]
+}

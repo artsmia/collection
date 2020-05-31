@@ -2,7 +2,7 @@
   "exhibition_id": 321,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "New England Hearth and Home: A Passion for the Past; Inherited and Collected: The Arts of New England in Minnesota",
-  "exhibition_description": "These complementary exhibitions explored Minnesota’s New England roots.  “A Passion for the Past” showcased a remarkable collection of folk and fine art, including paintings, drawings, furniture, textiles, and ceramics.  “Inherited and Collected” featured objects brought to Minnesota by early settlers and items collected today by Twin Citians.",
+  "exhibition_description": "These complementary exhibitions explored Minnesota’s New England roots. “A Passion for the Past” showcased a remarkable collection of folk and fine art, including paintings, drawings, furniture, textiles, and ceramics. “Inherited and Collected” featured objects brought to Minnesota by early settlers and items collected today by Twin Citians.",
   "begin": 1997,
   "end": 1998,
   "display_date": "Sunday, November 16, 1997 - Sunday, January 25, 1998",
@@ -92,5 +92,13 @@
     39125,
     39131,
     39169
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Sunday, November 16, 1997 - Sunday, January 25, 1998"
+    }
   ]
 }
