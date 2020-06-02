@@ -57,5 +57,13 @@
     122507,
     122544,
     123076
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Tuesday, March 28, 2000 - Sunday, June 25, 2000"
+    }
   ]
 }
