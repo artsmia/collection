@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 2680,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Through Vincent's Eyes: Van Gogh's Literary and Artistic Sources",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Friday, November 12, 2021 - Sunday, May 22, 2022",
+  "public_info": 0,
+  "objects": [
+    7301,
+    55371,
+    104894,
+    124357
+  ],
+  "venues": [
+    {
+      "venue": "Columbus Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, November 12, 2021 - Sunday, May 22, 2022"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, November 12, 2021 - Sunday, May 22, 2022"
+    }
+  ]
+}
