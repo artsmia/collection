@@ -10,5 +10,12 @@
   "objects": [
     1825
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Tuesday, October 20, 2020 - Sunday, February 21, 2021"
+    }
+  ]
 }

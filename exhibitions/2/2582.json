@@ -10,5 +10,18 @@
   "objects": [
     1627
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Fondation Beyeler",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, September 02, 2018 - Friday, May 31, 2019"
+    },
+    {
+      "venue": "Museo Thyssen-Bornemisza",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, September 02, 2018 - Friday, May 31, 2019"
+    }
+  ]
 }
