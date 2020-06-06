@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1029,
+  "exhibition_department": null,
+  "exhibition_title": "Tissot's London",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2010,
+  "display_date": "Friday, October 02, 2009 - Sunday, January 03, 2010",
+  "public_info": null,
+  "objects": [
+    2239
+  ],
+  "venues": [
+    {
+      "venue": "Grand Rapids Art Museum",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Friday, October 02, 2009 - Sunday, January 03, 2010"
+    }
+  ]
+}
