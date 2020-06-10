@@ -40,5 +40,13 @@
     67072,
     67073,
     80188
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Modern Art, New York",
+      "begin": 2012,
+      "end": 2012,
+      "display_date": "Sunday, July 29, 2012 - Monday, November 05, 2012"
+    }
   ]
 }
