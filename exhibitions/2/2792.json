@@ -11,24 +11,5 @@
     12787,
     131298
   ],
-  "venues": [
-    {
-      "venue": "Cranbrook Art Museum",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Thursday, November 19, 2020 - Monday, February 28, 2022"
-    },
-    {
-      "venue": "Museum of Arts and Design",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Thursday, November 19, 2020 - Monday, February 28, 2022"
-    },
-    {
-      "venue": "Museum of Fine Arts, Houston",
-      "begin": 2020,
-      "end": 2022,
-      "display_date": "Thursday, November 19, 2020 - Monday, February 28, 2022"
-    }
-  ]
+  "venues": []
 }
