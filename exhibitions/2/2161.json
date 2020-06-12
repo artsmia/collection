@@ -25,18 +25,5 @@
     104894,
     115814
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Sunday, October 18, 2015 - Sunday, May 22, 2016"
-    },
-    {
-      "venue": "National Gallery",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Sunday, October 18, 2015 - Sunday, May 22, 2016"
-    }
-  ]
+  "venues": []
 }
