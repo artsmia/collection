@@ -85,5 +85,18 @@
     119633,
     119634
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Musuem of South Texas",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Friday, May 17, 2013 - Sunday, September 07, 2014"
+    },
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Friday, May 17, 2013 - Sunday, September 07, 2014"
+    }
+  ]
 }
