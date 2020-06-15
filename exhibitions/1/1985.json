@@ -10,5 +10,12 @@
   "objects": [
     40036
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Tuesday, March 03, 2009 - Sunday, April 26, 2009"
+    }
+  ]
 }
