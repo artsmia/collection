@@ -32,5 +32,13 @@
     63924,
     63925,
     63926
+  ],
+  "venues": [
+    {
+      "venue": "Wells Fargo",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Monday, October 14, 2002 - Friday, October 03, 2003"
+    }
   ]
 }
