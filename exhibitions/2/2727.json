@@ -1,27 +1,21 @@
 {
   "exhibition_id": 2727,
-  "exhibition_department": "(not assigned)",
+  "exhibition_department": null,
   "exhibition_title": "With Pleasure: Pattern and Decoration in American Art 1972-1985",
   "exhibition_description": null,
   "begin": 2019,
   "end": 2020,
-  "display_date": "Sunday, October 27, 2019 - Thursday, December 31, 2020",
-  "public_info": 0,
+  "display_date": "Sunday, October 27, 2019 - Monday, May 18, 2020",
+  "public_info": null,
   "objects": [
     127299
   ],
   "venues": [
     {
-      "venue": "CCS Bard Hessel Museum of Art",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Sunday, October 27, 2019 - Thursday, December 31, 2020"
-    },
-    {
       "venue": "The Museum of Contemporary Art, Los Angeles",
       "begin": 2019,
       "end": 2020,
-      "display_date": "Sunday, October 27, 2019 - Thursday, December 31, 2020"
+      "display_date": "Sunday, October 27, 2019 - Monday, May 18, 2020"
     }
   ]
 }

@@ -62,5 +62,30 @@
     115626,
     115627
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "DeWitt Wallace Decorative Arts Museum, The Colonial Williamsburg Foundation",
+      "begin": 2012,
+      "end": 2015,
+      "display_date": "Saturday, December 01, 2012 - Monday, May 25, 2015"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2012,
+      "end": 2015,
+      "display_date": "Saturday, December 01, 2012 - Monday, May 25, 2015"
+    },
+    {
+      "venue": "Missouri History Museum",
+      "begin": 2012,
+      "end": 2015,
+      "display_date": "Saturday, December 01, 2012 - Monday, May 25, 2015"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2012,
+      "end": 2015,
+      "display_date": "Saturday, December 01, 2012 - Monday, May 25, 2015"
+    }
+  ]
 }
