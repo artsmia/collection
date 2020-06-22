@@ -10,18 +10,5 @@
   "objects": [
     1214
   ],
-  "venues": [
-    {
-      "venue": "Asia House",
-      "begin": 1962,
-      "end": 1962,
-      "display_date": "1962"
-    },
-    {
-      "venue": "Cini Foundation",
-      "begin": 1962,
-      "end": 1962,
-      "display_date": "1962"
-    }
-  ]
+  "venues": []
 }
