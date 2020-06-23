@@ -27,5 +27,12 @@
     114964,
     115529
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, September 01, 2018 - Sunday, March 31, 2019"
+    }
+  ]
 }
