@@ -8,10 +8,10 @@
   "country": "Japan",
   "creditline": "Gift of Ruth Lathrop Sikes in memory of her brother Bruce Sikes, 1967",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1785",
   "department": "Japanese and Korean Art",
-  "description": "Center panel of a triptych",
+  "description": "center sheet of a triptych",
   "dimension": "15 3/8 × 10 1/4 in. (39.1 × 26 cm) (image, sheet, vertical ōban)",
   "id": "http://api.artsmia.org/objects/67658",
   "image": "valid",
@@ -20,7 +20,7 @@
   "image_width": 1935,
   "inscription": "",
   "life_date": "Japanese, 1752 - 1815",
-  "markings": "Publisher: Eijudo_",
+  "markings": "publisher seal: 永寿堂 {Eijudō}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
@@ -36,5 +36,5 @@
   "signed": "清長画 {Kiyonaga ga}",
   "style": "18th century",
   "text": "",
-  "title": "[Four women in mitate as Ushiwaka serenading Jōruri-hime]"
+  "title": "A modern version of the story of Ushiwakamaru serenading Jōruri-hime"
 }

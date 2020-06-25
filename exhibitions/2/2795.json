@@ -10,5 +10,12 @@
   "objects": [
     32575
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Peggy Guggenheim Collection",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, October 02, 2021 - Monday, January 10, 2022"
+    }
+  ]
 }
