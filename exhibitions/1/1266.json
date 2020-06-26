@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1266,
+  "exhibition_department": "Paintings",
+  "exhibition_title": "Lyonel Feininger: At the Edge of the World",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Thursday, June 30, 2011 - Sunday, May 13, 2012",
+  "public_info": 0,
+  "objects": [
+    1268
+  ],
+  "venues": [
+    {
+      "venue": "Montreal Museum of Fine Arts",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Thursday, June 30, 2011 - Sunday, May 13, 2012"
+    },
+    {
+      "venue": "Whitney Museum of American Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Thursday, June 30, 2011 - Sunday, May 13, 2012"
+    }
+  ]
+}
