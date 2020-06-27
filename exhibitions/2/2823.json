@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2823,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Dance in the Arts of South Asia, Southeast Asia, and the Himalayan Region",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Friday, February 25, 2022 - Sunday, January 08, 2023",
+  "public_info": 0,
+  "objects": [
+    119522
+  ],
+  "venues": [
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Friday, February 25, 2022 - Sunday, January 08, 2023"
+    },
+    {
+      "venue": "Cincinnati Art Museum",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Friday, February 25, 2022 - Sunday, January 08, 2023"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Friday, February 25, 2022 - Sunday, January 08, 2023"
+    }
+  ]
+}
