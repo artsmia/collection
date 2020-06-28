@@ -10,5 +10,12 @@
   "objects": [
     116580
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Pinacoteca de São Paulo",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, March 06, 2021 - Monday, August 16, 2021"
+    }
+  ]
 }
