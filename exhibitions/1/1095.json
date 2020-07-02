@@ -10,5 +10,12 @@
   "objects": [
     1819
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Williams College Museum of Art",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Saturday, February 20, 2010 - Thursday, February 25, 2010"
+    }
+  ]
 }

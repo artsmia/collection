@@ -4,8 +4,8 @@
   "exhibition_title": "Spiro and the Art of the Mississippian World",
   "exhibition_description": null,
   "begin": 2021,
-  "end": 2021,
-  "display_date": "Friday, February 19, 2021 - Friday, May 14, 2021",
+  "end": 2022,
+  "display_date": "Friday, February 19, 2021 - Tuesday, August 30, 2022",
   "public_info": 0,
   "objects": [
     4242,
@@ -14,10 +14,22 @@
   ],
   "venues": [
     {
+      "venue": "Birmingham Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, February 19, 2021 - Tuesday, August 30, 2022"
+    },
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, February 19, 2021 - Tuesday, August 30, 2022"
+    },
+    {
       "venue": "National Cowboy and Western Heritage Museum",
       "begin": 2021,
-      "end": 2021,
-      "display_date": "Friday, February 19, 2021 - Friday, May 14, 2021"
+      "end": 2022,
+      "display_date": "Friday, February 19, 2021 - Tuesday, August 30, 2022"
     }
   ]
 }
