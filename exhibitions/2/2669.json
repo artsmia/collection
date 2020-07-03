@@ -3,9 +3,9 @@
   "exhibition_department": null,
   "exhibition_title": "Goya",
   "exhibition_description": null,
-  "begin": 2020,
-  "end": 2020,
-  "display_date": "Friday, May 15, 2020 - Sunday, August 16, 2020",
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Sunday, October 10, 2021 - Sunday, January 23, 2022",
   "public_info": null,
   "objects": [
     1226
@@ -13,9 +13,9 @@
   "venues": [
     {
       "venue": "Fondation Beyeler",
-      "begin": 2020,
-      "end": 2020,
-      "display_date": "Friday, May 15, 2020 - Sunday, August 16, 2020"
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 10, 2021 - Sunday, January 23, 2022"
     }
   ]
 }
