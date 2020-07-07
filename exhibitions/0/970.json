@@ -10,5 +10,12 @@
   "objects": [
     1633
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Saturday, October 24, 2009 - Sunday, January 24, 2010"
+    }
+  ]
 }
