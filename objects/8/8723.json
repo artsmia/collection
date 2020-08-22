@@ -8,7 +8,7 @@
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1794, 5th lunar month",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -20,12 +20,12 @@
   "image_width": 3459,
   "inscription": "",
   "life_date": "Japanese, act. 1794-1795",
-  "markings": "Censor:kiwame\r\nPublisher:Tsutaya Ju_zaburo_",
+  "markings": "censor seal: 極 {kiwame}; publisher seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
   "portfolio": "From ",
-  "provenance": "Henry Garland; Levinson; Richard P. Gale (until 1974)",
+  "provenance": "Henry Garland (until 1945'); Levinson; Richard P. Gale (until 1974)",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "{Tōshūsai Sharaku ga}",
+  "signed": "東洲斎写楽画 {Tōshūsai Sharaku ga}",
   "style": "18th century",
-  "text": "This distinctive visage is that of the well-known onnagata (female impersonator) Osagawa Tsuneyo II (1753–1808). However, the exact role has yet to be identified. Sharaku may have depicted Tsuneyo in a role that he did not actually perform—that of Sakuragi in Koinyōbō somewake tazuna at the Kawarasaki Theater in 1794. In the play, Sadanoshin decides to commit suicide to atone for his daughter’s sins. In this print, Tsuneyo’s sad eyes and tense lips are details that would convey Sakuragi’s distress over her husband’s fateful decision. Although Tsuneyo did not play Sakuragi in Koinyōbō somewake tazuna, Sharaku perhaps thought he should have been cast in that role, since Tsuneyo excelled in expressing latent emotion. Thus, this print might present Sharaku’s ideal casting rather than a record of an actual performance.",
-  "title": "Actor Osagawa Tsuneyo II in a Female Role"
+  "text": "Related to the play \"Koi nyōbō somewake tazuna\" 恋女房染分手綱, performed at the Kawarazaki Theater in the fifth lunar month of 1794. 15 impressions known.",
+  "title": "Actor Osagawa Tsuneyo II as Ippei's older sister Osan"
 }

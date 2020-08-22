@@ -8,7 +8,7 @@
   "country": "Japan",
   "creditline": "Gift of Mrs. Carl W. Jones in Memory of Her Husband",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1794, 7th lunar month",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -20,7 +20,7 @@
   "image_width": 2039,
   "inscription": "",
   "life_date": "Japanese, act. 1794-1795",
-  "markings": "Censor: kiwame | Publisher:Tsutaya Jūzaburō",
+  "markings": "censor seal: 極 {kiwame}; publisher seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "{Tōshūsai Sharaku ga}",
+  "signed": "東洲斎写楽画 {Tōshūsai Sharaku ga}",
   "style": "18th century",
-  "text": "",
-  "title": "Actor Ichikawa Yaozō III as Fuwa Banzaemon"
+  "text": "Related to the play \"Keisei sanbon karakasa\" けいせい三本傘, performed at the Miyako Theater in the 7th lunar month of 1794. Seven impressions known.",
+  "title": "Actor Ichikawa Yaozō III as Fuwa Banzaemon Shigekatsu"
 }

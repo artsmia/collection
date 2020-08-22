@@ -1,9 +1,9 @@
 {
   "accession_number": "2015.79.117",
   "art_champions_text": null,
-  "artist": "Artist: Kubo Shunman; Author: Poem by Ōta Nanpo; Author: Poem by Ishikawa Masamochi; Author: Poem by Sugawara Nagane; Author: Poem by Kitagawa Kihei",
+  "artist": "Artist: Kubo Shunman; Poet: Ōta Nanpo; Poet: Ishikawa Masamochi; Poet: Sugawara Nagane; Poet: Kitagawa Kihei",
   "catalogue_raissonne": "Murase, Art through a Lifetime, no. 278",
-  "classification": " Paintings",
+  "classification": " Paintings; Calligraphy",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation",
@@ -20,12 +20,12 @@
   "image_width": 2304,
   "inscription": "Ōta Nanpo: (Even a life that may be threatened by intestinal damage or venereal disease wishes to be saved, / at the time of cherry blossoms. / Shokusanjin);\r\nIshikawa Masamochi: (Immortals or goblins mistake / the branches of cherries at Yoshino / for banks of clouds. / Chikujuen);\r\nSugawara Nagane: (All white flowers of the world / look like kuzu at Mount Yoshino. / Nagane);\r\nKitagawa Kihei: (If the Ōmon of Yoshiwara could keep the wind from entering, / one thousand ryō would not be spared / to pay for a flower there. / Magao);\r\nKubo Shunman, LRC: (Please, lay monk, tie up the wind god / when the cherries at Yoshino are at their height.)",
   "life_date": "Japanese, 1757 - 1820",
-  "markings": "LRC: {Shunman}",
+  "markings": "LRC: 俊満 {Shunman}",
   "medium": "Ink and color on silk",
   "nationality": "Japanese",
-  "object_name": "Hanging scroll",
+  "object_name": "Hanging scroll (nikuhitsu)",
   "portfolio": "From ",
-  "provenance": "Frank E. Hart",
+  "provenance": "Frank E. Hart (until 1963); Mary Burke (1963-2015)",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "throughout: {Shokusanjin}; {Chikujuen}; {Nagane}; {Magao}; LRC: (Inscribed and painted by Shunman)",
+  "signed": "with poems above: 蜀山人 {Shokusanjin}; 六樹園 {Rokujuen}; {Nagane}; 真がほ {Magao}; LRC: 俊満題写 (Inscribed and painted by Shunman)",
   "style": "18th-19th century",
   "text": "",
   "title": "Cherry Blossoms with Poems"

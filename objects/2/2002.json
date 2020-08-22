@@ -8,7 +8,7 @@
   "country": "Japan",
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1794, 5th lunar month",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -20,7 +20,7 @@
   "image_width": 1886,
   "inscription": "",
   "life_date": "Japanese, act. 1794-1795",
-  "markings": "censor seal: 極 {kiwame}; Publisher: Tsutaya Ju_zaburo_",
+  "markings": "censor seal: 極 {kiwame}; publisher seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper with mica",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "{Tōshūsai Sharaku ga}",
+  "signed": "東洲斎写楽画 {Tōshūsai Sharaku ga}",
   "style": "18th century",
-  "text": "Related to the play Koi nyōbō somewake tazuna performed at the Kawarazaki Theater in the fifth month of 1794.",
+  "text": "Related to the play \"Koi nyōbō somewake tazuna\" 恋女房染分手綱, performed at the Kawarazaki Theater in the fifth lunar month of 1794. 20 impressions known.",
   "title": "Actor Ichikawa Ebizō as Takemura Sadanoshin"
 }

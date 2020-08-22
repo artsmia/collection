@@ -8,7 +8,7 @@
   "country": "Japan",
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1794, 11th lunar month",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -20,7 +20,7 @@
   "image_width": 2001,
   "inscription": "",
   "life_date": "Japanese, act. 1794-1795",
-  "markings": "Censor:kiwame\r\nPublisher:Tsutaya Ju_zaburo_",
+  "markings": "censor seal: 極 {kiwame}; publisher seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / yakusha-e)",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "{Sharaku ga}",
+  "signed": "写楽画 {Sharaku ga}",
   "style": "18th century",
-  "text": "",
+  "text": "Related to the play \"Matsu wa misao onna Kusunoki\" 松貞婦女楠, performed at the Kawarazaki Theater in the 11th lunar month of 1794. Three impressions known.",
   "title": "Actor Ichikawa Komazō llI as Shinozuka Gorō"
 }

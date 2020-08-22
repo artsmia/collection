@@ -1,7 +1,7 @@
 {
   "accession_number": "2012.1.10",
   "art_champions_text": null,
-  "artist": "Artist: Kishi Ganku",
+  "artist": "Artist: Ganku",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -18,10 +18,10 @@
   "image_copyright": "",
   "image_height": 3856,
   "image_width": 1800,
-  "inscription": "Inscription and mark\r\ninscription in black, R edge",
+  "inscription": "",
   "life_date": "Japanese, 1749/56 - 1838",
-  "markings": "two seals in red, R edge",
-  "medium": "Ink and colors on silk",
+  "markings": "two seals in red",
+  "medium": "Ink and color on silk",
   "nationality": "Japanese",
   "object_name": "hanging scroll",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "R edge",
   "style": "18th century",
   "text": "",
   "title": "Tiger Seated Beneath Rock and Bamboo"

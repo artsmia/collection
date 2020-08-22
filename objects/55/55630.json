@@ -2,13 +2,13 @@
   "accession_number": "P.10,613",
   "art_champions_text": null,
   "artist": "Artist: Master AG",
-  "catalogue_raissonne": "B.14, 349; L. VI.94.3\r\nLehr 3",
+  "catalogue_raissonne": "Lehrs VI.94.3; ?Bartsch VI.349.14",
   "classification": " Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1926",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "15th century",
   "department": "Prints and Drawings",
   "description": "",
@@ -25,7 +25,7 @@
   "nationality": "German",
   "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "",
+  "provenance": "[Kennedy Galleries, New York, until '1926; sold, for $1,366, to Jones); H.V. Jones, Minneapolis (1926; given to Mia)",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "15th century",
   "text": "",
-  "title": "Christ on the Cross with Mary, Saint John, and Two Angels"
+  "title": "Christ on the Cross with Two Saints"
 }
