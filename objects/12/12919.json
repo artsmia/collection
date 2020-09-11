@@ -1,9 +1,9 @@
 {
   "accession_number": "2000.17",
   "art_champions_text": null,
-  "artist": "Artist: Frank Gaard; Artist: Stuart Mead; Author: Frank Gaard; Author: Stuart Mead; Publisher: Le Dernier CRI, Marseille, France",
+  "artist": "Artist: Stuart Mead; Artist: Frank Gaard; Author: Stuart Mead; Author: Frank Gaard; Publisher: Le Dernier CRI, Marseille, France",
   "catalogue_raissonne": null,
-  "classification": " Books",
+  "classification": " Prints; Books",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Artpolice Journals, Inc.",
@@ -11,7 +11,7 @@
   "curator_approved": 1,
   "dated": "1999",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "Published compendium of Man Bag zines",
   "dimension": "7 3/4 x 5 1/2 x 1/2in. (19.7 x 14 x 1.3cm)",
   "id": "http://api.artsmia.org/objects/12919",
   "image": "invalid",
@@ -23,7 +23,7 @@
   "markings": "",
   "medium": "Color offset lithography; bound volume",
   "nationality": "American",
-  "object_name": "Periodical",
+  "object_name": "Illustrated book",
   "portfolio": "From ",
   "provenance": "Artpolice Journals, Inc., Minneapolis; given to MIA, 2000.",
   "restricted": 0,
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "The Immortal Man Bag Journal of Art"
+  "title": "Stu Mead & Frank Gaard: The Immortal Man Bag Journal of Art"
 }
