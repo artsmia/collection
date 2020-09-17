@@ -8,7 +8,7 @@
   "country": "United States",
   "creditline": "Gift of funds from the Print and Drawing Council",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1991",
   "department": "Prints and Drawings",
   "description": "",
@@ -18,10 +18,10 @@
   "image_copyright": "© Estate of Louisa Chase",
   "image_height": 4441,
   "image_width": 3769,
-  "inscription": "Signature, Date, Title, Edition\r\n\r\nsee Signed\r\n\r\nTitled in pencil, LC: [Oedipus]\r\n\r\nNumbered in pencil, LL",
+  "inscription": "Titled in pencil, LC: Oedipus\r\n\r\n",
   "life_date": "American (born Panama), 1951–2016",
-  "markings": "",
-  "medium": "Sugar-lift, spitbite, soft-ground and hard-ground etching, scraping, and color linoleum cut",
+  "markings": "Numbered in pencil, LL: 18/35",
+  "medium": "Sugar-lift, spit-bite, soft-ground and hard-ground etching, scraping, and color linoleum cut",
   "nationality": "American (born Panama)",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil, LR: [Louisa Chase 1991]",
+  "signed": "Signed and dated in pencil, LR: Louisa Chase 1991",
   "style": "20th century",
   "text": "",
   "title": "Oedipus"
