@@ -1,7 +1,7 @@
 {
   "accession_number": "2006.18",
   "art_champions_text": null,
-  "artist": "Artist: Joel Janowitz; Publisher: Highpoint Editions, Minneapolis",
+  "artist": "Artist: Joel Janowitz; Publisher: Highpoint Editions, Minneapolis; Printer: Highpoint Editions, Minneapolis",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -11,7 +11,7 @@
   "curator_approved": 1,
   "dated": "2005",
   "department": "Prints and Drawings",
-  "description": "vertical format; abstracted image with leaves and trellis-like structure at top; greens, blues, yellows; torn at edges and attached to backing sheet Monoprint combining five colors bleed printed lithographically using split­fount inking from three plates on Okawara paper and monotyping by the artist. The print was then colléd to the Arches Cover backing sheet. Being a variant edition, the prints were signed with Roman numerals I/XII -XII/XII. Number XI/XII image size is 39 1/2 x 20 in. and the backing sheet is 43 x 23 in.",
+  "description": "vertical format; abstracted image with leaves and trellis-like structure at top; greens, blues, yellows; torn at edges and attached to backing sheet Monoprint combining five color bleed printed lithographically using split­fount inking from three plates on Okawara paper and monotyping by the artist. The print was then colléd to the Arches Cover backing sheet. Being a variant edition, the prints were signed with Roman numerals I/XII -XII/XII. Number XI/XII image size is 39 1/2 x 20 in. and the backing sheet is 43 x 23 in.",
   "dimension": "39 1/16 × 18 3/8 in. (99.22 × 46.67 cm) (image)\r\n41 3/8 × 21 3/4 in. (105.09 × 55.25 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/98747",
   "image": "valid",
@@ -20,8 +20,8 @@
   "image_width": 2828,
   "inscription": "\r\n\r\n\r\n\r\nTitled in pencil, LC: [SCROLL]",
   "life_date": "American, born 1945",
-  "markings": "Numbered in pencil, LL: [X/XII]\r\nPublisher\\'s blindstamp, LLC: HP (intertwined, inside a square)",
-  "medium": "Lithograph and monoprint with chine collé on Arches Cover",
+  "markings": "Numbered in pencil, LL: X/XII\r\nPublisher\\'s blindstamp, LLC: HP (intertwined, inside a square)",
+  "medium": "Color lithograph and monotype, with Okawara chine collé on Arches Cover paper",
   "nationality": "American",
   "object_name": "Monoprint",
   "portfolio": "From ",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil, LR: [Janowitz 2005]",
+  "signed": "Signed and dated in pencil, LR: Janowitz 2005",
   "style": "21st century",
   "text": "",
-  "title": "Scroll X/XII"
+  "title": "Scroll (X)"
 }
