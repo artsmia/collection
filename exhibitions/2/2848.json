@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 2848,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Art Along the Rivers: A Bicentennial Celebration",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Sunday, October 03, 2021 - Sunday, January 09, 2022",
+  "public_info": 0,
+  "objects": [
+    13020,
+    91467,
+    95382,
+    105051
+  ],
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 03, 2021 - Sunday, January 09, 2022"
+    }
+  ]
+}

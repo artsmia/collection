@@ -3,22 +3,35 @@
   "exhibition_department": "(not assigned)",
   "exhibition_title": "B.J.O. Nordfeldt: An American Internationalist",
   "exhibition_description": null,
-  "begin": 2020,
-  "end": 2021,
-  "display_date": "Saturday, October 03, 2020 - Sunday, January 03, 2021",
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Friday, June 18, 2021 - Tuesday, August 9, 2022",
   "public_info": 0,
   "objects": [
     737,
     57503,
     57516,
-    58344
+    58344,
+    120546
   ],
   "venues": [
     {
       "venue": "Frederick R. Weisman Art Museum",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Saturday, October 03, 2020 - Sunday, January 03, 2021"
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, June 18, 2021 - Tuesday, August 9, 2022"
+    },
+    {
+      "venue": "Michener Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, June 18, 2021 - Tuesday, August 9, 2022"
+    },
+    {
+      "venue": "Wichita Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, June 18, 2021 - Tuesday, August 9, 2022"
     }
   ]
 }
