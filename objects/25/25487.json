@@ -14,10 +14,10 @@
   "description": "",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/25487",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5223,
+  "image_width": 2938,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G213",
   "see_also": [
     ""
   ],
