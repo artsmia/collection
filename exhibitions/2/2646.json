@@ -4,8 +4,8 @@
   "exhibition_title": "Hearts of Our People: Native Women Artists",
   "exhibition_description": "Women have long been the creative force behind Native art. Presented in close cooperation with top Native women artists and scholars, this first major exhibition of artwork by Native women honors the achievements of over 115 artists from the United States and Canada spanning over 1,000 years. Their triumphs—from pottery, textiles, and painting, to photographic portraits, to a gleaming El Camino—show astonishing innovation and technical mastery.",
   "begin": 2019,
-  "end": 2020,
-  "display_date": "Sunday, June 02, 2019 - Sunday, September 20, 2020",
+  "end": 2021,
+  "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021",
   "public_info": 0,
   "objects": [
     200,
@@ -189,5 +189,31 @@
     136414,
     136417,
     136421
+  ],
+  "venues": [
+    {
+      "venue": "Frist Art Museum",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
+    },
+    {
+      "venue": "Philbrook Museum of Art",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
+    },
+    {
+      "venue": "Renwick Gallery of the Smithsonian American Art Museum",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
+    }
   ]
 }

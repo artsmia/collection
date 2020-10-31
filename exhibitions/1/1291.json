@@ -10,5 +10,12 @@
   "objects": [
     59611
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, June 11, 2011 - Sunday, March 11, 2012"
+    }
+  ]
 }

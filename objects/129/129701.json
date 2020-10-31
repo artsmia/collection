@@ -14,10 +14,10 @@
   "description": "three pronged elaborate blade; top two prongs have curved arches with pointed ends; smaller prong is curved with a single, longer point on the outer side; embossed, squiggly designs throughout the metal on the blade area, with circular designs on top two prongs and in the center, and is on both front and back side of blade; snakeskin handle in deep brown with jagged stitching on backside",
   "dimension": "12 5/16 × 9 5/16 × 5/16 in. (31.27 × 23.65 × 0.79 cm)",
   "id": "http://api.artsmia.org/objects/129701",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1068,
+  "image_width": 854,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G255",
   "see_also": [
     ""
   ],

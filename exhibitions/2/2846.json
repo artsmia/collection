@@ -1,14 +1,22 @@
 {
   "exhibition_id": 2846,
-  "exhibition_department": null,
+  "exhibition_department": "Minnesota Artists Exhibition Program",
   "exhibition_title": "Nicole Havekost: Chthonic",
   "exhibition_description": null,
   "begin": 2020,
   "end": 2021,
   "display_date": "Saturday, November 21, 2020 - Sunday, February 28, 2021",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
-    138049
+    138049,
+    138175,
+    138176,
+    138177,
+    138178,
+    138179,
+    138180,
+    138181,
+    138182
   ],
   "venues": []
 }
