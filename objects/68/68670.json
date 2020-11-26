@@ -8,7 +8,7 @@
   "country": "France",
   "creditline": "Gift of Herschel V. Jones, by exchange",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1768",
   "department": "Prints and Drawings",
   "description": "Bound album, p.53",
@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/68670",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 4147,
-  "image_width": 3023,
+  "image_height": 8481,
+  "image_width": 6467,
   "inscription": "",
   "life_date": "French, 1734 - 1781",
   "markings": "",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "18th century",
-  "text": "",
+  "text": "This album of prints, comprising 137 etchings and aquatints by Jean-Baptiste Le Prince looks just like an album of drawings. Le Prince’s aquatint technique was unrivaled in his day. To mimic wash drawing so convincingly, he used a very fine aquatint dust grain and found a unique way of applying it to the copper plate to maximize his range of tone. After etching the composition, he applied a second ground to the copper plate. Then as though applying wash, he brushed on a special solvent—made of olive oil, turpentine, and lampblack ink—to the areas he wanted tone, exposing those passages of the plate. Next he would apply a sugar solution to the bare areas. When he applied the powdered resin and heated the plate, the resin would fuse to the sugared areas, creating a porous surface.",
   "title": "Head of a Bearded Man, Leaning Back"
 }

@@ -14,10 +14,10 @@
   "description": "modified Greek key pattern at a diagonal in white on a painted black ground; thin white band around rim with wider black band nearest lip; wide shoulder with small foot and mouth; pattern is largest in center and decreases near rim and foot",
   "dimension": "4 5/8 × 5 1/2 × 5 1/2 in. (11.75 × 13.97 × 13.97 cm)",
   "id": "http://api.artsmia.org/objects/123306",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Paula Estevan",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2488,
+  "image_width": 3000,
   "inscription": "Signature, Date and Inscription\r\n\r\nsee Signed",
   "life_date": "American (Haak'u (Acoma Pueblo)), born 1967",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

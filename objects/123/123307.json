@@ -14,10 +14,10 @@
   "description": "painted design in black on white ground; horizontal bands with diagonal intersecting lines; triangular shapes painted in black creating a star-like pattern that is larger at center and smaller near rim and foot; wide shoulder with small foot and mouth; thin white band around rim with wider painted band nearest lip",
   "dimension": "4 1/2 × 5 1/2 × 5 1/2 in. (11.43 × 13.97 × 13.97 cm)",
   "id": "http://api.artsmia.org/objects/123307",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Paula Estevan",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2780,
+  "image_width": 3000,
   "inscription": "Signature, Date and Inscription\r\n\r\nsee Signed",
   "life_date": "American (Haak'u (Acoma Pueblo)), born 1967",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],
