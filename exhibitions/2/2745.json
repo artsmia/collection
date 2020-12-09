@@ -17,5 +17,24 @@
     137699,
     137721
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Institute of Contemporary Art, Boston",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Sunday, February 23, 2020 - Sunday, August 23, 2020"
+    },
+    {
+      "venue": "Iris and B. Gerald Cantor Center for Visual Arts",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Sunday, February 23, 2020 - Sunday, August 23, 2020"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Sunday, February 23, 2020 - Sunday, August 23, 2020"
+    }
+  ]
 }

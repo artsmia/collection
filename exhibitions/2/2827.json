@@ -10,5 +10,12 @@
   "objects": [
     2805
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Des Moines Art Center",
+      "begin": 2020,
+      "end": 2022,
+      "display_date": "Thursday, September 03, 2020 - Tuesday, September 06, 2022"
+    }
+  ]
 }

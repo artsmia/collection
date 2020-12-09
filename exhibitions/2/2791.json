@@ -5,7 +5,7 @@
   "exhibition_description": null,
   "begin": 2021,
   "end": 2021,
-  "display_date": "Saturday, February 06, 2021 - Monday, May 31, 2021",
+  "display_date": "Saturday, February 6, 2021 - Sunday, September 12, 2021",
   "public_info": 0,
   "objects": [
     111923,
@@ -19,7 +19,13 @@
       "venue": "Crystal Bridges Museum of American Art",
       "begin": 2021,
       "end": 2021,
-      "display_date": "Saturday, February 06, 2021 - Monday, May 31, 2021"
+      "display_date": "Saturday, February 6, 2021 - Sunday, September 12, 2021"
+    },
+    {
+      "venue": "Jule Collins Smith Museum of Fine Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, February 6, 2021 - Sunday, September 12, 2021"
     }
   ]
 }

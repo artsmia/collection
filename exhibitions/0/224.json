@@ -1,7 +1,7 @@
 {
   "exhibition_id": 224,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
-  "exhibition_title": "Holiday Traditions in the Period Rooms 2000-2001",
+  "exhibition_title": "Holiday Traditions in the Period Rooms",
   "exhibition_description": null,
   "begin": 2000,
   "end": 2001,
@@ -293,5 +293,13 @@
     101347,
     101348,
     101349
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Wednesday, November 22, 2000 - Tuesday, January 02, 2001"
+    }
   ]
 }

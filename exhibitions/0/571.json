@@ -1,8 +1,8 @@
 {
   "exhibition_id": 571,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
-  "exhibition_title": "Holiday Traditions 2003-2004",
-  "exhibition_description": "Since Calvin Coolidge lit the first official White House Christmas tree in 1923, American presidents have communicated holiday greetings through public addresses, cards, prints, and other gifts. This year's \"Holiday Traditions\" offered insight into Christmas at the White House. The Bell Family Decorative Arts Court featured mementos from the 1930s to the present, including the card for which this Wyeth painting was commissioned, and a rare example of the card signed by President Kennedy just days before his assassination.\r\nCostumed guides offer tours of the Bell Court and the Period Rooms several times each day.",
+  "exhibition_title": "Holiday Traditions: A White House Christmas",
+  "exhibition_description": "Since Calvin Coolidge lit the first official White House Christmas tree in 1923, American presidents have communicated holiday greetings through public addresses, cards, prints, and other gifts. This year's \"Holiday Traditions\" offered insight into Christmas at the White House. The Bell Family Decorative Arts Court featured mementos from the 1930s to the present, including the card for which this Wyeth painting was commissioned, and a rare example of the card signed by President Kennedy just days before his assassination.\r\n\r\nCostumed guides offer tours of the Bell Court and the Period Rooms several times each day.",
   "begin": 2003,
   "end": 2004,
   "display_date": "Friday, November 28, 2003 - Sunday, January 04, 2004",
@@ -257,13 +257,5 @@
     83897,
     83898,
     101357
-  ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2003,
-      "end": 2004,
-      "display_date": "Friday, November 28, 2003 - Sunday, January 04, 2004"
-    }
   ]
 }

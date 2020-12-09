@@ -1,11 +1,11 @@
 {
   "exhibition_id": 2753,
   "exhibition_department": null,
-  "exhibition_title": "The Lively Treasures of Great Edo",
+  "exhibition_title": "Splendor of Edo: Rites of the Samurai, Festival of the Merchants",
   "exhibition_description": null,
-  "begin": 2020,
-  "end": 2020,
-  "display_date": "Saturday, July 11, 2020 - Tuesday, September 22, 2020",
+  "begin": 2021,
+  "end": 2021,
+  "display_date": "Saturday, July 10, 2021 - Monday, September 20, 2021",
   "public_info": null,
   "objects": [
     108860
@@ -13,9 +13,9 @@
   "venues": [
     {
       "venue": "Edo-Tokyo Museum",
-      "begin": 2020,
-      "end": 2020,
-      "display_date": "Saturday, July 11, 2020 - Tuesday, September 22, 2020"
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, July 10, 2021 - Monday, September 20, 2021"
     }
   ]
 }
