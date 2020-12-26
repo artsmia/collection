@@ -14,10 +14,10 @@
   "description": "cream flute in a bamboo motif with small v-shaped notch at the smaller diameter end",
   "dimension": "23 5/8 x 1 1/4 in. (60.01 x 3.18 cm)",
   "id": "http://api.artsmia.org/objects/4820",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 614,
+  "image_width": 4000,
   "inscription": "Inscription",
   "life_date": null,
   "markings": "\\'Feng Ming\\' near mouth piece",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "17th century",
-  "text": "The Chinese have used bamboo flutes (xiao) since the second millennium BCE. Typically, they crafted vertical and transverse flutes from bamboo, but porcelain ones like this also existed and were made at the Dehua kilns in southeastern China. Molded to resemble bamboo, this flute epitomizes the technical virtuosity associated with the best Chinese porcelains. Dehua flutes became well-established by the 16th century. Some players preferred porcelain because its smooth, even interior produced an exceptionally clear sound that never went out of tune with changes in humidity. This elegant flute was fundamental and dates to the early Qing dynasty.",
+  "text": "The Chinese have used bamboo flutes (xiao) since the second millennium BCE. Typically, they crafted vertical and transverse flutes from bamboo, but porcelain ones like this also existed and were made at the Dehua kilns in southeastern China. Molded to resemble bamboo, this flute epitomizes the technical virtuosity associated with the best Chinese porcelains.\r\n\r\nDehua flutes became well-established by the 16th century. Some players preferred porcelain because its smooth, even interior produced an exceptionally clear sound that never went out of tune with changes in humidity. This elegant flute was fundamental and dates to the early Qing dynasty.",
   "title": "Vertical Flute"
 }
