@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "15 5/8 x 23 3/4 in. (39.69 x 60.33 cm) (plate)\r\n22 5/16 x 30 in. (56.67 x 76.2 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/43579",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Lawrence Gipe",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7266,
+  "image_width": 9801,
   "inscription": "",
   "life_date": "American, born 1962",
   "markings": "",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "20th century",
-  "text": "Gipe's 1992 print is based directly on a vintage photograph of three locomotives stopped at a train station. He has idealized the scene by editing out all figures, exaggerating the hazy aura, and overlaying the word \"elegy\" at the bottom of the print. This evocative title shifts our perception from a vision of years past and its unfulfilled promise of an industrial utopia to a melancholic loss of innocence as the twenty-first century begins. Like other contemporary artists, Gipe proposes a reconsideration of modern western history.",
+  "text": "Gipe's 1992 print is based directly on a vintage photograph of three locomotives stopped at a train station.  He has idealized the scene by editing out all figures, exaggerating the hazy aura, and overlaying the word \"elegy\" at the bottom of the print.  This evocative title shifts our perception from a vision of years past and its unfulfilled promise of an industrial utopia to a melancholic loss of innocence as the twenty-first century begins.  Like other contemporary artists, Gipe proposes a reconsideration of modern western history.",
   "title": "Study A from Themes for a Fin de Siècle"
 }
