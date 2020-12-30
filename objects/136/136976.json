@@ -14,10 +14,10 @@
   "description": "figure with black hair bending over and reaching into water; black background and black water",
   "dimension": "14 7/8 × 11 5/8 in. (37.78 × 29.53 cm) (image)\r\n15 7/8 × 12 7/16 in. (40.32 × 31.59 cm) (sheet)\r\n18 7/16 × 14 7/8 in. (46.83 × 37.78 cm) (overall)",
   "id": "http://api.artsmia.org/objects/136976",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Richard J. Haas %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5029,
+  "image_width": 3905,
   "inscription": "",
   "life_date": "American, born 1936",
   "markings": "",
@@ -35,6 +35,6 @@
   ],
   "signed": "LL in pencil: Figure in Stream | LR in pencil: Richard Haas",
   "style": "20th century",
-  "text": "Richard Haas gained fame in the 1970s for his enormous outdoor murals that transformed blank, drab building facades into grand architectural fantasies. In the early to mid-1960s, he was a graduate student and instructor at the University of Minnesota. In 2019, he wrote “I have always retained a strong and positive memory of your city and especially of your institution which I visited on a regular basis and where I learned so much about the history of art.” In preparation for cutting his printing block for this woodcut, Haas chose to freely paint the composition with a Japanese brush rather than carefully drawing it with a pencil. The result is tension between representation and abstraction.",
+  "text": "Richard Haas gained fame in the 1970s for his enormous outdoor murals that transformed blank, drab building facades into grand architectural fantasies. In the early to mid-1960s, he was a graduate student and instructor at the University of Minnesota. In 2019, he wrote “I have always retained a strong and positive memory of your city and especially of your institution which I visited on a regular basis and where I learned so much about the history of art.”\r\n\t\r\nIn preparation for cutting his printing block for this woodcut, Haas chose to freely paint the composition with a Japanese brush rather than carefully drawing it with a pencil. The result is tension between representation and abstraction.",
   "title": "Figure in Water"
 }
