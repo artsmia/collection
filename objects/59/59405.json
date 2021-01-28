@@ -1,7 +1,7 @@
 {
   "accession_number": "P.78.31.6",
   "art_champions_text": null,
-  "artist": "Artist: Jackson Pollock; Publisher: Museum of Modern Art, New York; Printer: Emiliano Sorini, American",
+  "artist": "Artist: Jackson Pollock; Printer: Emiliano Sorini; Publisher: Museum of Modern Art, New York",
   "catalogue_raissonne": "O'Connor and Thaw P.18",
   "classification": " Prints",
   "continent": "North America",
@@ -11,20 +11,20 @@
   "curator_approved": 1,
   "dated": "c. 1944-45 (printed 1967)",
   "department": "Prints and Drawings",
-  "description": "",
+  "description": "One of seven intaglio prints published posthumously by the Museum of Modern Art, New York, in 1967 under the authority of the Estate of Jackson Pollock. Plate was reworked in drypoint by Gabor Peterdi and steel-faced prior to printing.",
   "dimension": "11 13/16 x 8 15/16 in. (30 x 22.7 cm) (plate)\r\n20 1/16 x 13 3/4 in. (50.96 x 34.93 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59405",
   "image": "invalid",
   "image_copyright": "© The Pollock-Krasner Foundation %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "inscription": "Marks",
+  "inscription": "",
   "life_date": "American, 1912-1956",
-  "markings": "Embossed blind stamp of the Estate of Jackson Pollock; Embossed blind stamp: <ES> of the printer Emiliano Sorini",
+  "markings": "Numbered in pencil, LR margin: 17/50\r\nBlindstamp of the Estate of Jackson Pollock, LL margin: \\\"Estate of Jackson Pollock JP\\\" in a circle\r\nBlindstamp of the printer Emiliano Sorini: \\\"ES\\\" in a square",
   "medium": "Engraving and drypoint",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": "From From a series of seven untitled intaglio prints",
   "provenance": "(Glen Hanson Gallery, Minneapolis); sold to MIA, 1978.",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Unsigned",
   "style": "20th century",
   "text": "",
-  "title": "Untitled"
+  "title": "Untitled (6)"
 }
