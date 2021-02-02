@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2874,
+  "exhibition_department": "Prints and Drawings",
+  "exhibition_title": "Saul Steinberg: Visual Verse",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2021,
+  "display_date": "Saturday, January 23, 2021 - Sunday, August 15, 2021",
+  "public_info": 0,
+  "objects": [
+    21851,
+    125078,
+    129761,
+    129762,
+    129763,
+    129764,
+    129765,
+    129767,
+    129768,
+    129769,
+    139989,
+    140041,
+    140042
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, January 23, 2021 - Sunday, August 15, 2021"
+    }
+  ]
+}
