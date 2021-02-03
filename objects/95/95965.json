@@ -1,8 +1,8 @@
 {
   "accession_number": "2004.254.6",
   "art_champions_text": null,
-  "artist": "Artist: Sam Gilliam; Publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Sam Gilliam; Printer: Vermillion Editions Limited, Minneapolis",
+  "catalogue_raissonne": "see VEL 87",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -18,10 +18,10 @@
   "image_copyright": "© Sam Gilliam %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4058,
   "image_width": 3176,
-  "inscription": "Signature, Date, Edition and Stamp",
+  "inscription": "Titled in pencil, LL: Buoy / Landscape / II",
   "life_date": "American, born 1933",
-  "markings": "LRC: [T.P.]; LRC: Vermillion Editions blind stamp",
-  "medium": "Color intaglio and screenprint",
+  "markings": "LR: T.P.\r\nLRC: Vermillion Editions blindstamp",
+  "medium": "Color relief print, screenprint, etching, drypoint, aquatint, and roulette; trial proof",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From Buoy Landscape suite",
@@ -34,7 +34,7 @@
     "43175",
     "95965"
   ],
-  "signed": "LRC, in pencil: signature and date",
+  "signed": "LR, in pencil: Sam Gilliam / 1982",
   "style": "20th century",
   "text": "",
   "title": "Buoy Landscape II"
