@@ -14,10 +14,10 @@
   "description": "vessel with wide mouth and slightly wider shoulder with slim foot; rim has dip in one side; rim is black and quickly fades to terracotta color; black flecks in terracotta color; glossy around rim and matte finish on bottom; in cotton bag",
   "dimension": "9 × 11 × 11 in. (22.86 × 27.94 × 27.94 cm)",
   "id": "http://api.artsmia.org/objects/123551",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Jody Folwell",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3000,
+  "image_width": 2894,
   "inscription": "Signature",
   "life_date": "American (Kha'p'oo Owinge (Santa Clara Pueblo)), born 1942",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

@@ -14,10 +14,10 @@
   "description": "orange ceramic with metallic fleck; tear drop shape with skinny opening at top; openwork with circle pattern through out",
   "dimension": "9 × 6 1/2 × 6 1/2 in. (22.86 × 16.51 × 16.51 cm)",
   "id": "http://api.artsmia.org/objects/123691",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Hubert Candelario",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3000,
+  "image_width": 2618,
   "inscription": "Signature and Inscription\r\n\r\nsee Signed",
   "life_date": "American (San Felipe Pueblo), born 1965",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

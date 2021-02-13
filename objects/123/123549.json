@@ -14,10 +14,10 @@
   "description": "wide shouldered vessel with no neck and wide mouth and slim foot; dark glossy red ground with deeply incised swirl pattern that is matte in the crevasses",
   "dimension": "3 1/8 × 6 × 6 in. (7.94 × 15.24 × 15.24 cm)",
   "id": "http://api.artsmia.org/objects/123549",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Effie Garcia",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2096,
+  "image_width": 3000,
   "inscription": "Signature and Inscription\r\n\r\nsee Signed",
   "life_date": "American (Kha'p'oo Owinge (Santa Clara Pueblo)), born 1954",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G259",
   "see_also": [
     ""
   ],

@@ -12,13 +12,13 @@
   "dated": "c. 1832-1833",
   "department": "Japanese and Korean Art",
   "description": "winding, narrow road crossing over calm waters; two male travelers struggle with luggage near signs at mouth of road; other travelers in distance crossing bridge; a few trees; mountains in background",
-  "dimension": "9 × 13 7/8 in. (22.86 × 35.24 cm) (image)\r\n9 1/2 × 14 1/4 in. (24.13 × 36.2 cm) (sheet)",
+  "dimension": "9 1/2 × 14 1/4 in. (24.13 × 36.2 cm) (sheet, horizontal ōban)",
   "id": "http://api.artsmia.org/objects/124793",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "Signature, Title, Inscription, and Seals\r\n\r\nInscription URQ",
+  "image_height": 6257,
+  "image_width": 9232,
+  "inscription": "Inscription URQ",
   "life_date": "Japanese, 1797 - 1858",
   "markings": "seals ULQ and URQ",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
@@ -36,6 +36,6 @@
   ],
   "signed": "signed ULQ; title URQ",
   "style": "19th century",
-  "text": "",
-  "title": "Hiratsuka--Country Road"
+  "text": "No. 08 in the series",
+  "title": "Hiratsuka: Nawate Road"
 }
