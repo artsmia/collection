@@ -1,5 +1,5 @@
 {
-  "accession_number": "2020.85.64",
+  "accession_number": "2020.85.59",
   "art_champions_text": null,
   "artist": "Artist: Joel Janowitz; Printer: Highpoint Editions, Minneapolis; Publisher: Highpoint Editions, Minneapolis",
   "catalogue_raissonne": null,
@@ -11,20 +11,20 @@
   "curator_approved": 0,
   "dated": "2005",
   "department": "Prints and Drawings",
-  "description": "One-color bleed print from one lithographic plate and monotyping by the artist. The print was then adhered to the Arches Cover backing sheet. Being a variant edition, the prints were signed with Roman numerals I/XIV–XIV/XIV.",
-  "dimension": "17 × 21 1/2 in. (43.18 × 54.61 cm) (image)\r\n24 × 27 3/4 in. (60.96 × 70.49 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/137508",
+  "description": "Six-color bleed print lithograph printed split-fount from three plates on Kitakata paper. The artist made additions in watercolor and bee's wax was applied over all. The print was then adhered to the Arches Cover backing sheet.",
+  "dimension": "20 1/2 × 17 in. (52.07 × 43.18 cm) (image)\r\n27 3/4 × 24 in. (70.49 × 60.96 cm) (sheet)",
+  "id": "http://api.artsmia.org/objects/137504",
   "image": "valid",
   "image_copyright": "Copyright © Joel Janowitz%2C published by Highpoint Editions",
-  "image_height": 5401,
-  "image_width": 6165,
-  "inscription": "LLC in pencil on verso: L8",
+  "image_height": 5555,
+  "image_width": 4891,
+  "inscription": "",
   "life_date": "American, born 1945",
-  "markings": "LL in pencil below image: VIII/XIV | Publisher\\'s blindstamp, LL below image: HP",
-  "medium": "Color lithograph and monotype, with chine-collé on Arches Cover paper",
+  "markings": "LL in pencil below image: ARCHIVE 1/2 | Publisher\\'s blindstamp, LL below image: HP",
+  "medium": "Color lithograph, hand-applied watercolor, and bee's wax, with chine-collé on Arches Cover paper",
   "nationality": "American",
-  "object_name": "Monoprint",
-  "portfolio": "From Dark Dog",
+  "object_name": "Print",
+  "portfolio": "From ",
   "provenance": "Highpoint Editions, Minneapolis (publisher); sold to MIA, 2020.",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "LR in pencil below image: Janowitz 2005 | BC in pencil below image: LONE",
+  "signed": "LR in pencil below image: Janowitz 2005 | BC in pencil below image: VERTICAL DIPTYCH",
   "style": "21st century",
   "text": "",
-  "title": "Lone (VIII)"
+  "title": "Vertical Diptych"
 }
