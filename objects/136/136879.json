@@ -14,10 +14,10 @@
   "description": "image of statue of Apollo, standing naked except for sandals, with cloak draped over extended PL arm and quiver of arrows visible over PR shoulder; tree trunk at Apollo's PR, with snake climbing towards top; statue's round base has text carved along side; seated man in LRC wearing hat with upturned brim and collared tunic, holding writing utensil in PR hand, sketching on board; Latin text print along bottom of image",
   "dimension": "16 7/16 × 11 13/16 in. (41.75 × 30 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/136879",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8307,
+  "image_width": 6023,
   "inscription": "LR in pencil: 193 | verso: LRQ in pencil: Bartuh p 45 / N145",
   "life_date": "Dutch, 1558–1617",
   "markings": "",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "16th-17th century",
-  "text": "By the late 1580s, Hendrick Goltzius had won a reputation as the greatest engraver of his time. He was so well known that when he travelled to Italy, 1590–91, to see the wonders of antiquity and the Renaissance, he went incognito for his safety and privacy. His ability to incise swelling and tapering lines in complex patterns is on full display in this engraving of the Apollo Belvedere, then already housed in the Vatican, where it remains today. Near the base of the sculpture, he shows a young artist studying the statue, just as he did. Goltzius labeled the sculpture Apollo Pythius, because scholars interpreted it as showing Apollo having just slain Python, the chthonic (underworld) serpent guarding Delphi. We see the arrows in his quiver, and the fragmentary shaft in his left has represents his bow. Apollo better be careful, for another serpent is slithering up the tree.",
+  "text": "By the late 1580s, Hendrick Goltzius had won a reputation as the greatest engraver of his time. He was so well known that when he travelled to Italy, 1590–91, to see the wonders of antiquity and the Renaissance, he went incognito for his safety and privacy. His ability to incise swelling and tapering lines in complex patterns is on full display in this engraving of the Apollo Belvedere, then already housed in the Vatican, where it remains today. Near the base of the sculpture, he shows a young artist studying the statue, just as he did.\r\n\r\nGoltzius labeled the sculpture Apollo Pythius, because scholars interpreted it as showing Apollo having just slain Python, the chthonic (underworld) serpent guarding Delphi. We see the arrows in his quiver, and the fragmentary shaft in his left has represents his bow. Apollo better be careful, for another serpent is slithering up the tree.",
   "title": "Apollo Belvedere (Apollo Pythius)"
 }
