@@ -2,13 +2,13 @@
   "accession_number": "96.146.260",
   "art_champions_text": null,
   "artist": "Artist: Utagawa Hiroshige; Publisher: Mitaya Kihachi",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 246, horizontal ōban #35.03",
   "classification": " Prints",
   "continent": "Asia",
   "country": "Japan",
   "creditline": "Bequest of Louis W. Hill, Jr.",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "c. 1834",
   "department": "Japanese and Korean Art",
   "description": "",
@@ -20,7 +20,7 @@
   "image_width": 6837,
   "inscription": "",
   "life_date": "Japanese, 1797 - 1858",
-  "markings": "弌立斎 \\\"Ichiryu_sai\\\" seal \r\nCensor: kiwame\r\nPublisher:Eisendo_ ban",
+  "markings": "red artist seal: 弌立斎 {Ichiryūsai}; right margin in blue: censor seal: 極 {kiwame}, publisher seal: 榮川堂板 {Eisendō ban}",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / fūkei-ga)",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Hiroshige ga",
+  "signed": "Hiroshige ga {広重画}",
   "style": "19th century",
   "text": "",
   "title": "Kiyomizu Temple"
