@@ -1,7 +1,7 @@
 {
-  "accession_number": "2020.85.99",
+  "accession_number": "2020.85.76",
   "art_champions_text": null,
-  "artist": "Artist: Jessica Rankin; Printer: Highpoint Editions, Minneapolis; Publisher: Highpoint Editions, Minneapolis",
+  "artist": "Artist: Lisa Nankivil; Printer: Highpoint Editions, Minneapolis; Publisher: Highpoint Editions, Minneapolis",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -11,18 +11,18 @@
   "curator_approved": 0,
   "dated": "2008",
   "department": "Prints and Drawings",
-  "description": "Intaglio from three plates, one printed a Ia poupée with Gampi chine collé printed lithographically.",
-  "dimension": "14 3/4 × 19 3/4 in. (37.47 × 50.17 cm) (image)\r\n22 3/4 × 27 1/2 in. (57.79 × 69.85 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/137555",
+  "description": "14-color lithograph and screenprint.",
+  "dimension": "15 1/2 × 13 in. (39.37 × 33.02 cm) (image)\r\n22 1/2 × 19 3/4 in. (57.15 × 50.17 cm) (sheet)",
+  "id": "http://api.artsmia.org/objects/137529",
   "image": "valid",
-  "image_copyright": "Copyright © Jessica Rankin%2C published by Highpoint Editions",
-  "image_height": 5107,
-  "image_width": 6088,
+  "image_copyright": "Copyright © Lisa Nankivil%2C published by Highpoint Editions",
+  "image_height": 5231,
+  "image_width": 4655,
   "inscription": "",
-  "life_date": "Australian, born 1971",
+  "life_date": "American, born 1958",
   "markings": "LL in pencil below image: ARCH 1/2 | Publisher\\'s blindstamp, LL below image: HP",
-  "medium": "Color lithograph, intaglio, with Gampi chine collé",
-  "nationality": "Australian",
+  "medium": "Color lithograph and screenprint",
+  "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
   "provenance": "Highpoint Editions, Minneapolis (publisher); sold to MIA, 2020.",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "LR in pencil below image: Jessica Rankin 08\\'",
+  "signed": "LR in pencil below image: Nankivil 08 | BC in pencil below image: EQUINOX",
   "style": "21st century",
   "text": "",
-  "title": "Reverberations"
+  "title": "Equinox"
 }
