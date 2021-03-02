@@ -1,8 +1,8 @@
 {
   "accession_number": "P.73.12",
   "art_champions_text": null,
-  "artist": "Artist: David Hockney",
-  "catalogue_raissonne": "Scottish Arts Council112",
+  "artist": "Artist: David Hockney; Printer: Maurice Payne, London",
+  "catalogue_raissonne": "Scottish Arts Council 112",
   "classification": " Prints",
   "continent": "Europe",
   "country": "England",
@@ -12,7 +12,7 @@
   "dated": "1969",
   "department": "Prints and Drawings",
   "description": "",
-  "dimension": "9 11/16 x 9 5/8 in. (24.61 x 24.45 cm) (plate)",
+  "dimension": "9 11/16 × 9 5/8 in. (24.6 × 24.4 cm) (plate)\r\n14 3/4 × 14 in. (37.5 × 35.6 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/48483",
   "image": "valid",
   "image_copyright": "© David Hockney",
@@ -20,8 +20,8 @@
   "image_width": 3381,
   "inscription": "",
   "life_date": "British (active United States), born 1937",
-  "markings": "",
-  "medium": "Etching",
+  "markings": "Numbered in pencil, LL margin: 25/30",
+  "medium": "Etching on handmade paper",
   "nationality": "British (active United States)",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed and dated in pencil, LR margin: David Hockney 1969",
   "style": "20th century",
   "text": "",
   "title": "Wayne Sleep"
