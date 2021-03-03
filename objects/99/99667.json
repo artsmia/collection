@@ -1,8 +1,8 @@
 {
   "accession_number": "2019.59.116",
   "art_champions_text": null,
-  "artist": "Designer: Stanley Mouse; Designer: Alton Kelley",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Alton Kelley; Artist: Stanley Mouse; Publisher: Family Dog Productions, San Francisco",
+  "catalogue_raissonne": "Family Dog 109",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -12,7 +12,7 @@
   "dated": "1968",
   "department": "Prints and Drawings",
   "description": "Family Dog poster no. 109; green background with female figure surrounded by hair in purple; purple typewritten text at bottom",
-  "dimension": "20 x 12 1/4 in. (50.8 x 31.12 cm)",
+  "dimension": "20 x 12 1/4 in. (50.8 x 31.12 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/99667",
   "image": "valid",
   "image_copyright": "© Chet Helms DBA Family Dog Productions. All Rights Reserved",
@@ -25,7 +25,7 @@
   "nationality": "American",
   "object_name": "Poster",
   "portfolio": "From ",
-  "provenance": "Paul Maurer, Minneapolis",
+  "provenance": "Paul Maurer, Minneapolis; given to MIA, 2019.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "20th century",
-  "text": "Designed by the “big five” of concert poster design—Rick Griffin, Alton Kelley, Victor Moscoso, Stanley Mouse, and Wes Wilson—this selection of rock concert posters exemplifies the energy and optimism of the San Francisco music scene of the late 1960s. Featuring dynamic, brilliantly-colored designs, and sometimes indecipherable text, these groundbreaking posters were commissioned by leading concert promoters to market both established and up-and-coming musicians who performed in such landmark venues as the Fillmore Auditorium and Avalon Ballroom. Aimed at a youthful audience (teens and twenties), these concert posters spoke to the sensibilities of a counterculture movement that embraced an unconventional lifestyle espousing left-leaning politics, self-reliance, the use of recreational drugs, free sexual expression, and anti-war activism. Aside from their eye-catching designs, the posters serve as time capsules from a time and place when many young people sought a way of life different from that of their parents, a utopian counterculture still devotedly celebrated by many who experienced it firsthand.",
-  "title": "Love, Congress of Wonders, Sons of Champlin, Avalon Ballroom, March 8-10, 1968"
+  "text": "",
+  "title": "\"Lovelady,\" Love, Congress of Wonders, Sons of Champlin, March 8-10, Avalon Ballroom"
 }
