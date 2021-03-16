@@ -14,10 +14,10 @@
   "description": "Miniature round basket with cover; coiled. Design consists of a stepped radial pattern of coyote tracks and horizontal stripes. Colors are natural and black.",
   "dimension": "7/8 x 5/8 x 5/8 in. (2.2 x 1.6 x 1.6 cm)",
   "id": "http://api.artsmia.org/objects/16492",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2000,
+  "image_width": 2000,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G281",
   "see_also": [
     ""
   ],

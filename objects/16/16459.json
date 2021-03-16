@@ -14,10 +14,10 @@
   "description": "Miniature round basket with cover; coiled. Design consists of three pairs of dancing people. Colors are natural and black.",
   "dimension": "1 x 1 x 1 in. (2.5 x 2.5 x 2.5 cm)",
   "id": "http://api.artsmia.org/objects/16459",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1797,
+  "image_width": 2247,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G281",
   "see_also": [
     ""
   ],
