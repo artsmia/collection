@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2890,
+  "exhibition_department": null,
+  "exhibition_title": "Hair Stories",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2021,
+  "display_date": "Saturday, July 17, 2021 - Sunday, October 31, 2021",
+  "public_info": null,
+  "objects": [
+    98662
+  ],
+  "venues": [
+    {
+      "venue": "Newport Art Museum",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Saturday, July 17, 2021 - Sunday, October 31, 2021"
+    }
+  ]
+}

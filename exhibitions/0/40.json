@@ -2,9 +2,11 @@
   "exhibition_id": 40,
   "exhibition_department": null,
   "exhibition_title": "Chardin",
+  "exhibition_description": null,
   "begin": 2000,
   "end": 2000,
   "display_date": "Monday, June 12, 2000 - Wednesday, September 13, 2000",
+  "public_info": null,
   "objects": [
     1227
   ],

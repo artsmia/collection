@@ -2,9 +2,11 @@
   "exhibition_id": 10,
   "exhibition_department": "Decorative Arts, Textiles & Sculpture",
   "exhibition_title": "Japonisme",
+  "exhibition_description": null,
   "begin": 2000,
   "end": 2001,
   "display_date": "Tuesday, September 19, 2000 - Friday, October 26, 2001",
+  "public_info": 0,
   "objects": [
     292,
     3868,
