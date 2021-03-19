@@ -9,15 +9,15 @@
   "creditline": "Fly Zine Archive, The Mary and Robyn Campbell Fund for Art Books and gift of funds from Mary and Bob Mersky",
   "culture": null,
   "curator_approved": 0,
-  "dated": "December 1999 - February 2000",
+  "dated": "December 1999-February 2000",
   "department": "Prints and Drawings",
   "description": "Loose, folded leaves, with illustrated banner along the top featuring punks and other figures holding signage that together read \"SLUG AND LETTUCE,\" with text and images of performers below; 20 pp.",
   "dimension": "15 × 11 5/16 × 1/16 in. (38.1 × 28.8 × 0.2 cm) (closed)",
   "id": "http://api.artsmia.org/objects/134559",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2812,
+  "image_width": 3889,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "20th - 21st century",
+  "style": "20th-21st century",
   "text": "",
   "title": "Slug & Lettuce #62"
 }
