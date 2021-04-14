@@ -14,10 +14,10 @@
   "description": "large abstract painting in multicolored pigments; thick, blue bands of color across top and left side of canvas; light orange squared off section with darker puce wash of color overlapping and merging outwards toward center left edge; two curving bands of yellow pigment in upper right edge of canvas; vertical green and red bands of pigment in URC; smeary wash of puce pigment with dimension in LRQ; thin pink horizontal line in LRQ",
   "dimension": "71 7/8 × 71 15/16 in. (182.56 × 182.72 cm) (canvas)\r\n72 9/16 × 72 15/16 × 2 1/2 in. (184.31 × 185.26 × 6.35 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/131215",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Estate of Helen Frankenthaler %2F Artists Rights Society %28ARS%29%2C NY",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7974,
+  "image_width": 7960,
   "inscription": "",
   "life_date": "American, 1928-2011",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G375",
   "see_also": [
     ""
   ],
