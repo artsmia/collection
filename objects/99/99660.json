@@ -1,17 +1,17 @@
 {
   "accession_number": "2019.118.1",
   "art_champions_text": null,
-  "artist": "Artist: Victor Moscoso",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Victor Moscoso; Publisher: Neon Rose, San Francisco",
+  "catalogue_raissonne": "Neon Rose 5",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Paul Maurer",
   "culture": null,
-  "curator_approved": 1,
+  "curator_approved": 0,
   "dated": "1967",
   "department": "Prints and Drawings",
-  "description": "pink text around blue camel; orange background; Neon Rose #5",
+  "description": "pink text around blue camel; orange background;",
   "dimension": "20 x 14 in. (50.8 x 35.56 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/99660",
   "image": "valid",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Sopwith Camel, Only Alternative, February 6-12, Matrix"
+  "title": "Sopwith Camel, Only Alternative, February 6-12, The Matrix"
 }
