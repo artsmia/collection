@@ -1,18 +1,18 @@
 {
   "accession_number": "2019.118.50",
   "art_champions_text": null,
-  "artist": "Artist: Richard Avedon",
+  "artist": "Photographer: Richard Avedon; Publisher: Commissioned by NEMS Enterprises, Ltd., London; Publisher: Cowles Education Corporation, New York , in cooperation with Richard Avedon Posters, Inc.; Distributor: Distributed for Look magazine by Cowles Education Corporation, New York , in cooperation with Richard Avedon Posters, Inc.",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Paul Maurer",
   "culture": null,
-  "curator_approved": 1,
-  "dated": "1967",
+  "curator_approved": 0,
+  "dated": "1967 (published 1968)",
   "department": "Prints and Drawings",
   "description": "green and orange image of man with mustache, holding up PR hand (George Harrison); white and orange accents added to image around neck/shoulders and on palm; off white bar along bottom with black text",
-  "dimension": "31 1/8 × 22 1/2 in. (79.06 × 57.15 cm)",
+  "dimension": "31 1/8 × 22 1/2 in. (79.06 × 57.15 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/136463",
   "image": "valid",
   "image_copyright": "Photograph by Richard Avedon © The Richard Avedon Foundation",
@@ -24,7 +24,7 @@
   "medium": "Color lithograph",
   "nationality": "American",
   "object_name": "Poster",
-  "portfolio": "From ",
+  "portfolio": "From The Beatles",
   "provenance": "Paul Maurer, Minneapolis; given to MIA, 2019.",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "George Harrison, Look Magazine"
+  "title": "George Harrison"
 }
