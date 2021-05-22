@@ -10,5 +10,12 @@
   "objects": [
     8633
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kyoto National Museum",
+      "begin": 1933,
+      "end": 1933,
+      "display_date": null
+    }
+  ]
 }

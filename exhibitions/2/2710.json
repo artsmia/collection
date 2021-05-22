@@ -17,5 +17,12 @@
     123827,
     123843
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of International Folk Art",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Friday, December 6, 2019 - Saturday, July 31, 2021"
+    }
+  ]
 }

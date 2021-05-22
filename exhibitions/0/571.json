@@ -257,5 +257,13 @@
     83897,
     83898,
     101357
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Friday, November 28, 2003 - Sunday, January 04, 2004"
+    }
   ]
 }
