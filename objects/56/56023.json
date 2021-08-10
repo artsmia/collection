@@ -11,16 +11,16 @@
   "curator_approved": 0,
   "dated": "1902",
   "department": "Prints and Drawings",
-  "description": "head only",
+  "description": "Head and shoulder portrait of actress Louise France.",
   "dimension": "16 x 12 1/16 in. (40.64 x 30.64 cm) (plate)",
   "id": "http://api.artsmia.org/objects/56023",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
+  "inscription": "LR on verso, in pencil: Louise France (tête) [illegible]",
   "life_date": "French (naturalized, born Armenian in Austria), 1874-1947",
-  "markings": "",
+  "markings": "Blindstamp, LL margin: Ed SAGOT / Editeur / Paris",
   "medium": "Drypoint",
   "nationality": "French",
   "object_name": "Print",
@@ -35,8 +35,8 @@
     "54987",
     "56023"
   ],
-  "signed": "",
+  "signed": "LL below image in pencil: Edgar Chahine",
   "style": "20th century",
   "text": "",
-  "title": "Louise France as Mme. Fouquier in \"Le Pére Goriot\""
+  "title": "Louise France (tête)"
 }

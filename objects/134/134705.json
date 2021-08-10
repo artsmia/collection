@@ -8,7 +8,7 @@
   "country": null,
   "creditline": "Fly Zine Archive, The Mary and Robyn Campbell Fund for Art Books and gift of funds from Mary and Bob Mersky",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1999",
   "department": "Prints and Drawings",
   "description": "Saddle stitched with thread, offset lithographic image of a police officer in riot gear aiming at an unarmed man; 128 pp.",
@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/134705",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 1082,
-  "image_width": 901,
+  "image_height": 2680,
+  "image_width": 2144,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "Copyright Not Evaluated",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],

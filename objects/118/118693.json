@@ -14,10 +14,10 @@
   "description": "three long lines of text; shorter (horizontal?) line of text, LLQ; two tusk-shaped elements with radiating spirals at top and bottom; scalloped lines at top and bottom; cream paper fading at top and bottom to pink tone; seal, LLQ",
   "dimension": "7 5/8 × 17 5/8 in. (19.37 × 44.77 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/118693",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3725,
+  "image_width": 8155,
   "inscription": "How amazing,\r\nThe sound of cicada wings—\r\nHanging lamp (Stephen Addiss)",
   "life_date": "Japanese, 1761 - 1828",
   "markings": "",
@@ -29,12 +29,12 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G252",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "18th-19th century",
-  "text": "How amazing,\r\nThe sound of cicada wings—\r\nHanging lamp",
+  "text": "Sakai Hōitsu is celebrated today as a painter of colorful screens and scrolls, but he was also a haiku poet and calligrapher. On the highly decorated surface of a folding fan Hōitsu wrote a poem about the sound of cicadas in the evening. The continuous movement of his writing is visible in the more strongly brushed Chinese characters as well as the Japanese kana syllables (characters used as phonological units and without individual meaning).\r\nすさまじき / 蝉の羽おとや / かけ行灯\r\nHow amazing, / The sound of cicada wings— / Hanging lamp \r\n(Trans. Stephen Addiss)",
   "title": "How Amazing"
 }

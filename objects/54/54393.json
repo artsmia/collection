@@ -11,14 +11,14 @@
   "curator_approved": 0,
   "dated": "1902",
   "department": "Prints and Drawings",
-  "description": "half-length plate",
+  "description": "Half-length portrait of actress Louise France.",
   "dimension": "15 7/8 x 11 5/16 in. (40.32 x 28.73 cm) (plate)",
   "id": "http://api.artsmia.org/objects/54393",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
+  "inscription": "LR margin in pencil: [illegible] avant la signature |  LR on verso, in pencil: Louise France à mi-corps",
   "life_date": "French (naturalized, born Armenian in Austria), 1874-1947",
   "markings": "",
   "medium": "Drypoint",
@@ -35,8 +35,8 @@
     "54987",
     "56023"
   ],
-  "signed": "",
+  "signed": "LL below image in pencil: Edgar Chahine",
   "style": "20th century",
   "text": "",
-  "title": "Louise France as Mme. Fouquier in \"Le Pére Goriot\""
+  "title": "Louise France à mi-corps"
 }

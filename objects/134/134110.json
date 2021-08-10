@@ -8,16 +8,16 @@
   "country": null,
   "creditline": "Fly Zine Archive, The Mary and Robyn Campbell Fund for Art Books and gift of funds from Mary and Bob Mersky",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "September 1998",
   "department": "Prints and Drawings",
   "description": "Saddle stitched binding, photomechanical image of various figures, designs, and text printed in offset lithography on blue wove paper covers; 20 pp.",
   "dimension": "8 1/4 × 5 13/16 in. (20.96 × 14.76 cm) (closed)",
   "id": "http://api.artsmia.org/objects/134110",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2814,
+  "image_width": 2010,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,12 +29,12 @@
   "restricted": 1,
   "rights_type": "Copyright Not Evaluated",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "20th century",
-  "text": "",
-  "title": "Hell and Damnation, no. 6"
+  "text": "Many punk zines include what is called a “scene report,” an update on the state of the music, arts, and performance scene in a particular place. They are usually expressed through news, interviews, and reviews of LPs and zines, and are ways for bands to reach non-local, often international fans. This British-based zine features scene reports from the Czech Republic and the Philippines, focusing on the hardcore anarcho-punk and crustcore scenes there, two related subgenres of punk rock notable for their fast paced, industrial sound and do-it-yourself approach to community, fashion, recording, and distribution.",
+  "title": "Hell and Damnation #6"
 }
