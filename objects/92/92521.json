@@ -14,10 +14,10 @@
   "description": "white shell on a string; inlaid with mosaic of red coral, white shell, jet and turquoise",
   "dimension": "2 1/4 in. (5.72 cm)",
   "id": "http://api.artsmia.org/objects/92521",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3458,
+  "image_width": 3565,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G255",
   "see_also": [
     ""
   ],

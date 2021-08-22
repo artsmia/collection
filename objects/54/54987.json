@@ -11,17 +11,17 @@
   "curator_approved": 0,
   "dated": "1902",
   "department": "Prints and Drawings",
-  "description": "large full-length plate",
+  "description": "Full-length portrait of actress Louise France playing the role of Madame Vauquer in Honoré de Balzac \"Le Père Goriot.\"",
   "dimension": "25 3/8 x 17 5/8 in. (64.45 x 44.77 cm) (plate)\r\n28 1/2 x 21 13/16 in. (72.39 x 55.4 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/54987",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature and Watermark",
+  "inscription": "LR on verso, in pencil: Louise France (Role de Mme Vauquer)",
   "life_date": "French (naturalized, born Armenian in Austria), 1874-1947",
-  "markings": "Watermark",
-  "medium": "Etching, aquatint",
+  "markings": "LR in pencil below image: 17/30 | Blindstamp, LL below image: Ed SAGOT / Editeur / Paris",
+  "medium": "Etching, aquatint and drypoint",
   "nationality": "French",
   "object_name": "Print",
   "portfolio": "From ",
@@ -35,8 +35,8 @@
     "54987",
     "56023"
   ],
-  "signed": "in pencil: [Edgar Chahine]",
+  "signed": "LL below image in pencil: Edgar Chahine",
   "style": "20th century",
   "text": "",
-  "title": "Louise France as Mme. Fouquier in \"Le Pére Goriot\""
+  "title": "Louise France (Madame Vauquer)"
 }
