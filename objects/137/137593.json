@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "2005",
   "department": "Prints and Drawings",
-  "description": "47-color screenprint and lithograph with collage, rubber stamping, and hand-coloring.",
+  "description": "47-color screenprint and lithograph with collage, rubber stamping, and hand coloring.",
   "dimension": "17 × 55 in. (43.18 × 139.7 cm) (image)\r\n21 × 58 1/2 in. (53.34 × 148.59 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/137593",
   "image": "valid",
@@ -21,7 +21,7 @@
   "inscription": "",
   "life_date": "American, born 1972",
   "markings": "LL in pencil below image: archive | Publisher\\'s blindstamp, LL below image: HP",
-  "medium": "Color screenprint, lithograph, and rubber stamping with collage and hand-coloring",
+  "medium": "Color screenprint, lithograph, and rubber stamping with collage and hand coloring",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -31,7 +31,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137593",
+    "139617",
+    "139646",
+    "140804",
+    "140806"
   ],
   "signed": "LR in pencil below image: Carolyn Swiszcz 2005",
   "style": "21st century",

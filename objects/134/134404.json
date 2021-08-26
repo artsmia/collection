@@ -14,10 +14,10 @@
   "description": "Saddle stitched binding, photo-collage of various abstracted images figures with text printed in blue offset lithography on orange wove paper covers; 24 pp.",
   "dimension": "8 1/2 × 7 × 1/16 in. (21.59 × 17.78 × 0.16 cm) (closed)",
   "id": "http://api.artsmia.org/objects/134404",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3780,
+  "image_width": 2700,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Perfect Waste of Time, vol. 2, no. 1"
+  "title": "Perfect Waste of Time, the monthly broadsheet, vol. 2, no. 1"
 }

@@ -9,15 +9,15 @@
   "creditline": "Fly Zine Archive, The Mary and Robyn Campbell Fund for Art Books and gift of funds from Mary and Bob Mersky",
   "culture": null,
   "curator_approved": 0,
-  "dated": "late 20th-early 21st century",
+  "dated": "2005 - 2006",
   "department": "Prints and Drawings",
   "description": "Saddle stitched binding, photomechanical illustration of doodles over a scan of the Lansdowne portrait of George Washington; 28 pp.",
   "dimension": "8 1/2 × 5 1/2 × 1/16 in. (21.59 × 13.97 × 0.16 cm) (closed)",
   "id": "http://api.artsmia.org/objects/134923",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3360,
+  "image_width": 2400,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "20th-21st century",
+  "style": "21st century",
   "text": "",
   "title": "You're Not the Boss of Me"
 }

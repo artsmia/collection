@@ -14,16 +14,16 @@
   "description": "Single, folded leaf with abstract mark with letterpress text printed in offset lithography on wove paper; 1 pp.",
   "dimension": "8 1/2 × 7 in. (21.59 × 17.78 cm) (closed)",
   "id": "http://api.artsmia.org/objects/134403",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3780,
+  "image_width": 2700,
   "inscription": "",
   "life_date": null,
   "markings": "",
   "medium": "Offset lithography, letterpress; single, folded leaf",
   "nationality": null,
-  "object_name": "Broadsheet",
+  "object_name": "Zine",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Perfect Waste of Time, monthly broadsheet no. 33"
+  "title": "Perfect Waste of Time, the monthly broadsheet, no. 33"
 }

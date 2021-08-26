@@ -14,14 +14,14 @@
   "description": "Stab stitch binding in upper left corner, image with text and designs photocopied on wove cover; 19 pp.",
   "dimension": "11 × 8 1/2 × 1/16 in. (27.94 × 21.59 × 0.16 cm) (closed)",
   "id": "http://api.artsmia.org/objects/133862",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 3780,
+  "image_width": 2700,
   "inscription": "",
   "life_date": null,
   "markings": "",
-  "medium": "Photocopy; bound volume",
+  "medium": "Xerography; bound volume",
   "nationality": null,
   "object_name": "Periodical",
   "portfolio": "From ",
@@ -29,12 +29,12 @@
   "restricted": 1,
   "rights_type": "Copyright Not Evaluated",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Chain Reaction, vol.1, no. 1"
+  "title": "Chain Reaction, vol. 1, no. 1"
 }

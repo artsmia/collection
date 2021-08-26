@@ -8,16 +8,16 @@
   "country": null,
   "creditline": "Fly Zine Archive, The Mary and Robyn Campbell Fund for Art Books and gift of funds from Mary and Bob Mersky",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "2004",
   "department": "Prints and Drawings",
   "description": "Saddle stitched binding, photo-collage of photographic images, designs, and text printed in xerography on wove paper covers; 16 pp.",
   "dimension": "8 1/2 × 5 1/2 × 1/8 in. (21.59 × 13.97 × 0.32 cm) (closed)",
   "id": "http://api.artsmia.org/objects/133924",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 2706,
+  "image_width": 1933,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,12 +29,12 @@
   "restricted": 1,
   "rights_type": "Copyright Not Evaluated",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],
   "signed": "",
   "style": "21st century",
   "text": "",
-  "title": "Cranial Stretch, no. 3"
+  "title": "Cranial Stretch #3"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "74.1.195",
   "art_champions_text": null,
-  "artist": "Artist: Katsushika Hokusai",
+  "artist": "Artist: Katsushika Hokusai; Poet: Shinratei Manzō",
   "catalogue_raissonne": null,
   "classification": " Paintings; Calligraphy",
   "continent": "Asia",
@@ -9,7 +9,7 @@
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1798",
+  "dated": "c. 1796",
   "department": "Japanese and Korean Art",
   "description": "",
   "dimension": "37 1/8 x 11 in. (94.3 x 27.94 cm) (image)\r\n71 3/4 x 15 15/16 in. (182.25 x 40.48 cm) (overall, without roller)",
@@ -18,10 +18,10 @@
   "image_copyright": "",
   "image_height": 8627,
   "image_width": 2642,
-  "inscription": "Poem: \r\n\r\nTaware-me no\r\nkotoba wo mane te\r\nnago_ hiku\r\nharu no yanagi no \r\nmidori yo_yo_\r\n\r\nIt is like \r\ncourtesans\\' speech.\r\nThe green wands \r\nof a willow in spring\r\nfall long in the end. \r\n\r\nby Shinratei\r\n(Seal: Takara)\r\n",
+  "inscription": "Tawareme no\r\nkotoba o / manete\r\nnagō hiku /\r\nharu no yanagi no /\r\nmidori ya midori\r\n\r\nIn imitation\r\nof a young courtesans\\' argot,\r\nthe lush green strands\r\nof a willow in spring\r\nstrethc out extra long. \r\n\r\nby Shinratei (seal: Takara)\r\n\r\n(transl. John T. Carpenter)\r\n",
   "life_date": "Japanese, 1760 - 1849",
-  "markings": "Seal: Kanchi",
-  "medium": "Hanging scroll; ink and color on paper",
+  "markings": "artist\\'s red seal: {Kanchi}",
+  "medium": "Ink and light color on paper",
   "nationality": "Japanese",
   "object_name": "Hanging scroll",
   "portfolio": "From ",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Hokusai so_ri ga",
+  "signed": "{Hokusai Sōri ga}",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
-  "title": "Strolling Prostitute"
+  "title": "Strolling Courtesan"
 }

@@ -45,5 +45,13 @@
     80573,
     80578,
     80582
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Saturday, November 24, 2018 - Sunday, May 17, 2020"
+    }
   ]
 }

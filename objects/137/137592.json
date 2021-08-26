@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "2005",
   "department": "Prints and Drawings",
-  "description": "34-color screenprint and lithograph with collage and hand-coloring.",
+  "description": "34-color screenprint and lithograph with collage and hand coloring.",
   "dimension": "17 × 32 in. (43.18 × 81.28 cm) (image)\r\n21 × 36 in. (53.34 × 91.44 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/137592",
   "image": "valid",
@@ -21,7 +21,7 @@
   "inscription": "",
   "life_date": "American, born 1972",
   "markings": "LL in pencil below image: Archive | Publisher\\'s blindstamp, LL below image: HP",
-  "medium": "Color screenprint, lithograph, and relief with collage and hand-coloring",
+  "medium": "Color screenprint, lithograph, and relief with collage and hand coloring",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -31,7 +31,11 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137592",
+    "139617",
+    "139646",
+    "140804",
+    "140806"
   ],
   "signed": "LR in pencil below image: Carolyn Swiszcz 2005",
   "style": "21st century",

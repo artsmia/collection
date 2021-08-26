@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "2005",
   "department": "Prints and Drawings",
-  "description": "A four-color lithographic print with chine collé published by Highpoint Editions. Four lithographic drawings by the artist were printed from lithographic plates on four pieces of Gampi paper. The four separate Gampi sheets were layered using wheat starch paste and then attached to the Somerset backing sheet, also using wheat starch paste. Entropia: Construction is related to an earlier work co-published in 2004 by Highpoint Editions and the Walker Art Center, Entropia (review). Three drawings previously used in Entropia (review) were merged with a fourth new drawing by Julie Mehretu to create Entropia: Construction. There are no further variants or prints using these drawings.",
+  "description": "A four-color lithographic print with chine collé published by Highpoint Editions. Four lithographic drawings by the artist were printed from lithographic plates on four pieces of gampi paper. The four separate gampi sheets were layered using wheat starch paste and then attached to the Somerset backing sheet, also using wheat starch paste. Entropia: Construction is related to an earlier work co-published in 2004 by Highpoint Editions and the Walker Art Center, Entropia (review). Three drawings previously used in Entropia (review) were merged with a fourth new drawing by Julie Mehretu to create Entropia: Construction. There are no further variants or prints using these drawings.",
   "dimension": "29 1/2 × 39 3/4 in. (74.93 × 100.97 cm) (image)\r\n40 1/8 × 49 3/4 in. (101.92 × 126.37 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/137514",
   "image": "valid",
@@ -31,7 +31,18 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137514",
+    "139452",
+    "139453",
+    "139454",
+    "139455",
+    "139456",
+    "139457",
+    "139458",
+    "139459",
+    "139460",
+    "139461",
+    "139462"
   ],
   "signed": "LR in pencil below image: Mehretu 2005",
   "style": "21st century",

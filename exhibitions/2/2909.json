@@ -1,0 +1,67 @@
+{
+  "exhibition_id": 2909,
+  "exhibition_department": "Japanese and Korean Art",
+  "exhibition_title": "Hard Bodies IA&A Tour",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2023,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    116642,
+    116643,
+    116724,
+    117054,
+    117078,
+    117079,
+    117080,
+    117082,
+    117083,
+    117084,
+    117085,
+    117086,
+    117087,
+    117088,
+    117089,
+    117090,
+    117091,
+    117109,
+    117110,
+    117138,
+    117139,
+    117141,
+    117142,
+    117143,
+    117144,
+    117146,
+    118392,
+    118402,
+    119157,
+    119158,
+    119159,
+    120391,
+    120727,
+    121111,
+    125640
+  ],
+  "venues": [
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": null
+    },
+    {
+      "venue": "The Society of the Four Arts",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": null
+    },
+    {
+      "venue": "Venue to be determined",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": null
+    }
+  ]
+}

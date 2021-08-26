@@ -8,7 +8,7 @@
   "country": null,
   "creditline": "Fly Zine Archive, The Mary and Robyn Campbell Fund for Art Books and gift of funds from Mary and Bob Mersky",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "late 20th-early 21st century",
   "department": "Prints and Drawings",
   "description": "Saddle stitched binding, xerographic photo-collage of text, a photographic image of a female figure with fangs, and illustrations of two male figures, printed on wove paper; 16 pp.",
@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/135191",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 2417,
-  "image_width": 2750,
+  "image_height": 1982,
+  "image_width": 1416,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "Copyright Not Evaluated",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G315",
   "see_also": [
     ""
   ],

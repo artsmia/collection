@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "2003",
   "department": "Prints and Drawings",
-  "description": "Cloth-bound portfolio box containing twelve soft-ground etchings drawn by the artist and printed in black on natural Gampi chine collé and white Somerset Satin paper, a soft-ground etching text written by the artist and printed in black on white Somerset Satin paper, and a screenprinted title page.",
+  "description": "Cloth-bound portfolio box containing twelve soft-ground etchings drawn by the artist and printed in black on natural gampi chine collé and white Somerset Satin paper, a soft-ground etching text written by the artist and printed in black on white Somerset Satin paper, and a screenprinted title page.",
   "dimension": "12 × 12 in. (30.48 × 30.48 cm) (image)\r\n23 3/4 × 22 1/2 in. (60.33 × 57.15 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/137475",
   "image": "valid",
@@ -31,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137475",
+    "139196",
+    "139197",
+    "139198"
   ],
   "signed": "LL in pencil below image: MARY ESCH | LR in pencil below image: 2003 | BC in pencil below image: THREE QUESTIONS I",
   "style": "21st century",
