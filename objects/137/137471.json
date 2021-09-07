@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/137471",
   "image": "valid",
   "image_copyright": "Copyright © Mary E. Esch%2C published by Highpoint Editions",
-  "image_height": 5467,
-  "image_width": 5213,
+  "image_height": 5400,
+  "image_width": 5200,
   "inscription": "",
   "life_date": "American, born 1965",
   "markings": "R of center in pencil below image: ARCHIVE 1/1 | Publisher\\'s blindstamp, LLC of sheet: HP",
@@ -31,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137471",
+    "139196",
+    "139197",
+    "139198"
   ],
   "signed": "LL in pencil below image: MARY ESCH | LR in pencil below image: 2003 | BC in pencil below image: SOMEONE IS FOLLOWED I",
   "style": "21st century",

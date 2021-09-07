@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/137554",
   "image": "valid",
   "image_copyright": "Copyright © Jessica Rankin%2C published by Highpoint Editions",
-  "image_height": 5107,
-  "image_width": 6088,
+  "image_height": 5100,
+  "image_width": 6150,
   "inscription": "",
   "life_date": "Australian, born 1971",
   "markings": "LL in pencil below image: ARCH 1/2 | Publisher\\'s blindstamp, LL below image: HP",
@@ -31,7 +31,10 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137554",
+    "139542",
+    "139543",
+    "139544"
   ],
   "signed": "LR in pencil below image: Jessica Rankin 08\\'",
   "style": "21st century",
