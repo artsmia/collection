@@ -1,7 +1,7 @@
 {
   "accession_number": "2011.74.12",
   "art_champions_text": null,
-  "artist": "Artist: Richard Serra; Publisher: Gemini G.E.L., Los Angeles",
+  "artist": "Artist: Richard Serra; Printer: Gemini G.E.L., Los Angeles; Publisher: Gemini G.E.L., Los Angeles",
   "catalogue_raissonne": "Berswordt-Wallrabe 92; Gemini GEL1492",
   "classification": " Prints",
   "continent": "North America",
@@ -18,10 +18,10 @@
   "image_copyright": "© Richard Serra %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, Date, Edition, and Chopmarks\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LRC: [28/46]",
+  "inscription": "\r\n\r\n\r\n",
   "life_date": "American, born 1939",
-  "markings": "Blindstamps, LRC: [(c) 1991 R. S. & (Gemini symbol)]\r\n\r\n",
-  "medium": "Paintstik over screenprint on Japan paper",
+  "markings": "Numbered in pencil, LRC: 28/46\r\nBlindstamps, LRC: (c) 1991 R. S. & (Gemini symbol)\r\n\r\n",
+  "medium": "Paintstik over screenprint on Japanese paper",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil, LRC: [Richard Serra  1991]",
+  "signed": "Signed and dated in pencil, LRC: Richard Serra  1991",
   "style": "20th century",
   "text": "",
   "title": "Reykjavik"
