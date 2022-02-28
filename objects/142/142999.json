@@ -1,7 +1,7 @@
 {
   "accession_number": "2021.116.21",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: S. Loretto",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "North America",
@@ -9,10 +9,10 @@
   "creditline": "Anonymous gift in memory of John M. and Janet B. McKelvey",
   "culture": "Jemez",
   "curator_approved": 0,
-  "dated": "Date Unknown",
+  "dated": "20th C.",
   "department": "Arts of the Americas",
-  "description": "Jemez Pueblo seed bowl with tan slip and dark brown feather designs",
-  "dimension": "4 × 6 × 6 in. (10.2 × 15.2 × 15.2 cm)",
+  "description": "High shouldered seed jar with light tan ground and designs painted in dark brown pigment; repeating blade like design (feather design) is painted top side of jar from rim to shoulder; wave like pattern is painted on top side of jar as well as othe geomtric designs; below the shoulder is a series geometric designs paint in dark brown pigment;",
+  "dimension": "3 7/8 × 5 5/16 × 5 5/16 in. (9.8 × 13.5 × 13.5 cm)",
   "id": "http://api.artsmia.org/objects/142999",
   "image": "invalid",
   "image_copyright": "",
@@ -20,10 +20,10 @@
   "image_width": "",
   "inscription": "",
   "life_date": null,
-  "markings": "",
-  "medium": "",
+  "markings": "Signed on bottom; S. Loretto; Jemez",
+  "medium": "Clay",
   "nationality": null,
-  "object_name": "Seed bowl",
+  "object_name": "Seed jar",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "20th C.",
   "text": "",
-  "title": "Seed bowl"
+  "title": "Seed jar"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "2021.116.23",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: Laverne Loretto",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "North America",
@@ -9,10 +9,10 @@
   "creditline": "Anonymous gift in memory of John M. and Janet B. McKelvey",
   "culture": "Jemez",
   "curator_approved": 0,
-  "dated": "Date Unknown",
+  "dated": "20th C",
   "department": "Arts of the Americas",
-  "description": "Jamez Pueblo seed jar with red polished slip with black designs over the top",
-  "dimension": "8 × 10 × 10 in. (20.3 × 25.4 × 25.4 cm)",
+  "description": "Tall high shouldered seed jar with red ground with black pigmented geometric designs painted throughout; blade like pattern (feather pattern) painted on top of jar from rim to shoulder covering half ways around circumference; the other half is painted with various geometric design including a stairstep design at the center; below the shoulder is a series geometric designs including waves and stairstep patterns; repeating half circles (cloud patterns) are paint near the base acting as a border;",
+  "dimension": "6 1/4 × 8 1/2 × 8 1/2 in. (15.9 × 21.6 × 21.6 cm)",
   "id": "http://api.artsmia.org/objects/143001",
   "image": "invalid",
   "image_copyright": "",
@@ -20,10 +20,10 @@
   "image_width": "",
   "inscription": "",
   "life_date": null,
-  "markings": "",
-  "medium": "",
+  "markings": "Signed on bottom; Laverne Loretto; Jemez, N.M.;",
+  "medium": "Clay",
   "nationality": null,
-  "object_name": "Seed bowl",
+  "object_name": "Seed jar",
   "portfolio": "From ",
   "provenance": "",
   "restricted": 1,
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "20th C",
   "text": "",
-  "title": "Seed bowl"
+  "title": "Seed jar"
 }
