@@ -3,7 +3,7 @@
   "art_champions_text": null,
   "artist": "Artist: Sigmar Polke",
   "catalogue_raissonne": null,
-  "classification": " Drawings; Paintings",
+  "classification": " Paintings; Works on Paper",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Mary and Bob Mersky",
@@ -14,10 +14,10 @@
   "description": "abstract image in black, blue and yellow pigments; tiny black dots throughout, forming a scalloped pattern in C and C R; yellow dots in top C, URQ, LLQ, and in C L; blue shape in C; small red band of pigment at LR edge of sheet",
   "dimension": "27 3/4 × 39 1/8 in. (70.5 × 99.4 cm) (sheet)\r\n33 × 44 1/2 × 2 in. (83.8 × 113 × 5.1 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/142255",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6760,
+  "image_width": 9508,
   "inscription": "",
   "life_date": "German, 1941-2010",
   "markings": "",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed and dated, verso (per Karen Lennox Gallery)",
   "style": "20th century",
   "text": "",
   "title": "Untitled"
