@@ -1,0 +1,40 @@
+{
+  "exhibition_id": 2942,
+  "exhibition_department": "Global Contemporary Art",
+  "exhibition_title": "Marcia Resnick: As It Is, Or Could Be",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2022,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    136162,
+    136163,
+    136164,
+    136165,
+    136166,
+    136169,
+    136170,
+    136171
+  ],
+  "venues": [
+    {
+      "venue": "Bowdoin College Museum of Art",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": null
+    },
+    {
+      "venue": "George Eastman Museum",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": null
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": null
+    }
+  ]
+}

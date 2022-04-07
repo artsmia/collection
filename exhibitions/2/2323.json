@@ -1,6 +1,6 @@
 {
   "exhibition_id": 2323,
-  "exhibition_department": "Prints and Drawings",
+  "exhibition_department": "Historic: Prints and Drawings",
   "exhibition_title": "Richard Holzschuh: Storybook",
   "exhibition_description": "German-American immigrant Richard Holzschuh was a gifted illustrator in the tradition of Arthur Rackham and Kay Nielson. Whether jolly, wondrous, or slightly menacing, his drawings are meticulously executed and full of absorbing detail. There are goblins, wizards, trolls, elves, animals, and pathways amid craggy trees. It is a nostalgic world of imagination and intimate communication between generations as old readers and young come together to reinvent the stories for themselves.\r\n\r\nThis exhibition will include 40-50 framed watercolors, drawings, pastels, and prints and will be presented in ways friendly to both adults and children. A highly desirable feature for the installation will be an 18” high riser that will run in front of most of the fairytale drawings so that both children and adults will be able to see them at about eye level",
   "begin": 2016,
@@ -58,12 +58,5 @@
     124155,
     124156
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2016,
-      "end": 2016,
-      "display_date": "Saturday, January 30, 2016 - Sunday, April 17, 2016"
-    }
-  ]
+  "venues": []
 }

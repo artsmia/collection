@@ -1,12 +1,12 @@
 {
   "exhibition_id": 2720,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Un voyage en Italie: Louis Gauffier",
   "exhibition_description": null,
   "begin": 2022,
-  "end": 2022,
-  "display_date": "Friday, May 06, 2022 - Sunday, September 04, 2022",
-  "public_info": null,
+  "end": 2023,
+  "display_date": "Saturday, May 7, 2022 - Sunday, February 12, 2023",
+  "public_info": 0,
   "objects": [
     10433
   ],
@@ -14,8 +14,14 @@
     {
       "venue": "Musée Fabre",
       "begin": 2022,
-      "end": 2022,
-      "display_date": "Friday, May 06, 2022 - Sunday, September 04, 2022"
+      "end": 2023,
+      "display_date": "Saturday, May 7, 2022 - Sunday, February 12, 2023"
+    },
+    {
+      "venue": "Musée Sainte-Croix de Poitiers",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, May 7, 2022 - Sunday, February 12, 2023"
     }
   ]
 }

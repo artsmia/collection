@@ -1,6 +1,6 @@
 {
   "exhibition_id": 1802,
-  "exhibition_department": "Photography & New Media",
+  "exhibition_department": "Historic: Photography & New Media",
   "exhibition_title": "100+: A Photograph For Every Year of the MIA",
   "exhibition_description": "100+ celebrates the MIA’s Birthday Year with photographs from every year since the museum’s founding. With more than 12,000 images in the collection of the Department of Photography and New Media, the hard part was choosing one from each year! Some years were easier than others: 1916 offered just five works, while 1993 had 333.\r\n\r\nThe resulting exhibition reveals something wonderfully idiosyncratic: freed from the narrative traditions of photographic history, yet tied to the collecting habits and tastes of MIA curators.\r\n\r\nBut what about the +? The MIA’s interest in photography reaches back to 1903, before this building—or the MIA itself—even existed. Known then as the Minneapolis Society of Fine Art, this precursor held its first photography exhibition in the Minneapolis Public Library at 1834 Emerson Avenue North. It would be another 70 years before the MIA established its Department of Photography, in 1972.\r\nIn the spirit of “100+”, you are invited to share your favorite photos from any year of your life. Simply post your photo to Twitter or Instagram using #tbtMIA. Your photos will appear on a screen outside the Harrison Photography Gallery throughout the run of the exhibition.",
   "begin": 2015,
@@ -117,12 +117,5 @@
     121267,
     123061
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2015,
-      "end": 2016,
-      "display_date": "Thursday, March 19, 2015 - Sunday, May 01, 2016"
-    }
-  ]
+  "venues": []
 }

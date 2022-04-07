@@ -1,0 +1,36 @@
+{
+  "exhibition_id": 2927,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Tom Jones: Ho-Chunk",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2022,
+  "display_date": "Saturday, July 23, 2022 - Saturday, October 08, 2022",
+  "public_info": 0,
+  "objects": [
+    121574,
+    121575,
+    122906,
+    122907,
+    122908,
+    122909,
+    122910,
+    122911,
+    123600,
+    123601,
+    123602,
+    123603,
+    123604,
+    123605,
+    123606,
+    123607
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Wisconsin Art",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": "Saturday, July 23, 2022 - Saturday, October 08, 2022"
+    }
+  ]
+}

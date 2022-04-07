@@ -1,6 +1,6 @@
 {
   "exhibition_id": 2748,
-  "exhibition_department": "Photography & New Media",
+  "exhibition_department": "Historic: Photography & New Media",
   "exhibition_title": "Graciela Iturbide's Mexico",
   "exhibition_description": "Graciela Iturbide is one of Latin America’s most influential photographers. Since the late 1970s, her vivid photographs have captured everyday life in Mexico, creating a powerful visual record of its diverse cultures, rituals, and religions, especially those of indigenous people. Presenting 125 photographs drawn from over four decades, this groundbreaking career survey explores the complexity of contemporary Mexican society through Iturbide’s striking photographs of its landscapes and people.",
   "begin": 2019,
@@ -132,5 +132,12 @@
     132579,
     132581
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Saturday, August 17, 2019 - Sunday, December 15, 2019"
+    }
+  ]
 }

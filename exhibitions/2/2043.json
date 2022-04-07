@@ -1,6 +1,6 @@
 {
   "exhibition_id": 2043,
-  "exhibition_department": "Photography & New Media",
+  "exhibition_department": "Historic: Photography & New Media",
   "exhibition_title": "Strangers in a Strange Land: Photographers' First Impressions",
   "exhibition_description": "Since the late 19th century, photographers have carried their cameras to unfamiliar neighborhoods and around the globe taking pictures of diverse people, places, and cultures. This exhibition features a range of classic masterpieces from the MIA’s collection that document photographers’ new encounters with foreign subjects and lands. The exhibition looks closely at how photographers translate a sense of culture, people, and place through imagery. It considers the power of photographic first impressions to shape historical representations of cultures that become lasting records of historical memory.",
   "begin": 2012,
@@ -83,12 +83,5 @@
     114513,
     114546
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2012,
-      "end": 2013,
-      "display_date": "Thursday, September 20, 2012 - Sunday, October 20, 2013"
-    }
-  ]
+  "venues": []
 }

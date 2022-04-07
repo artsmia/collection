@@ -1,6 +1,6 @@
 {
   "exhibition_id": 832,
-  "exhibition_department": "Textiles",
+  "exhibition_department": "Historic: Textiles",
   "exhibition_title": "Wedded Bliss: The Marriage of Art and Ceremony",
   "exhibition_description": null,
   "begin": 2008,
@@ -16,12 +16,5 @@
     60216,
     98643
   ],
-  "venues": [
-    {
-      "venue": "Peabody Essex Museum",
-      "begin": 2008,
-      "end": 2008,
-      "display_date": "Tuesday, April 22, 2008 - Sunday, September 14, 2008"
-    }
-  ]
+  "venues": []
 }

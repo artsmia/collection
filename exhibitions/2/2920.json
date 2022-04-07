@@ -1,6 +1,6 @@
 {
   "exhibition_id": 2920,
-  "exhibition_department": "Art of Africa and the Americas",
+  "exhibition_department": "Historic: Art of Africa and the Americas",
   "exhibition_title": "Americas Rotation 2021",
   "exhibition_description": null,
   "begin": 2021,
@@ -9,7 +9,21 @@
   "public_info": 0,
   "objects": [
     142590,
-    142591
+    142591,
+    142608,
+    142609,
+    142610,
+    142611,
+    142612,
+    142624,
+    142625,
+    142626,
+    142627,
+    142628,
+    142629,
+    142630,
+    142631,
+    142733
   ],
   "venues": []
 }

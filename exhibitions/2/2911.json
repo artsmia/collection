@@ -1,11 +1,11 @@
 {
   "exhibition_id": 2911,
-  "exhibition_department": "Japanese and Korean Art",
-  "exhibition_title": "Bizarre Mountains and Withered Trees: The Paintings of Kukuda Kodōjin",
+  "exhibition_department": "Historic: Japanese and Korean Art",
+  "exhibition_title": "Bizarre Mountains and Withered Trees: The Eccentric Paintings of Fukuda Kodōjin",
   "exhibition_description": null,
-  "begin": 2022,
+  "begin": 2023,
   "end": 2023,
-  "display_date": "Saturday, October 15, 2022 - Monday, July 17, 2023",
+  "display_date": "Saturday, April 22, 2023 - Sunday, July 23, 2023",
   "public_info": 0,
   "objects": [
     142433,
@@ -26,7 +26,15 @@
     142451,
     142452,
     142453,
-    142506
+    142506,
+    142652,
+    142653,
+    142654,
+    142655,
+    142806,
+    142807,
+    142808,
+    142809
   ],
   "venues": []
 }

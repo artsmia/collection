@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2923,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "The Classical Art of Negro Africa",
+  "exhibition_description": null,
+  "begin": 1957,
+  "end": 1958,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    1358
+  ],
+  "venues": [
+    {
+      "venue": "Duveen-Graham",
+      "begin": 1957,
+      "end": 1958,
+      "display_date": null
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1957,
+      "end": 1958,
+      "display_date": null
+    }
+  ]
+}

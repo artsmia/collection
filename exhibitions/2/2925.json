@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2925,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Africa and the Renaissance: Art in Ivory",
+  "exhibition_description": null,
+  "begin": 1988,
+  "end": 1989,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    1358
+  ],
+  "venues": [
+    {
+      "venue": "Museum for African Art",
+      "begin": 1988,
+      "end": 1989,
+      "display_date": null
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 1988,
+      "end": 1989,
+      "display_date": null
+    }
+  ]
+}

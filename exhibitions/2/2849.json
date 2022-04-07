@@ -1,9 +1,9 @@
 {
   "exhibition_id": 2849,
-  "exhibition_department": "Paintings",
+  "exhibition_department": "Historic: Paintings",
   "exhibition_title": "Supernatural America: The Paranormal in American Art",
   "exhibition_description": null,
-  "begin": 2021,
+  "begin": 2022,
   "end": 2022,
   "display_date": null,
   "public_info": 0,
@@ -13,6 +13,7 @@
     120580,
     122009,
     123670,
+    131452,
     131467,
     136249,
     136251,
@@ -71,24 +72,25 @@
     140825,
     140826,
     140827,
-    140828
+    140828,
+    143229
   ],
   "venues": [
     {
       "venue": "Minneapolis Institute of Art",
-      "begin": 2021,
+      "begin": 2022,
       "end": 2022,
       "display_date": null
     },
     {
       "venue": "Speed Art Museum",
-      "begin": 2021,
+      "begin": 2022,
       "end": 2022,
       "display_date": null
     },
     {
       "venue": "Toledo Museum of Art",
-      "begin": 2021,
+      "begin": 2022,
       "end": 2022,
       "display_date": null
     }

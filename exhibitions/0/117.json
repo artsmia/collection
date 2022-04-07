@@ -1,6 +1,6 @@
 {
   "exhibition_id": 117,
-  "exhibition_department": "Paintings",
+  "exhibition_department": "Historic: Paintings",
   "exhibition_title": "Splendors of Morocco: From Tangier to Marrakech",
   "exhibition_description": null,
   "begin": 2000,
@@ -14,7 +14,7 @@
   ],
   "venues": [
     {
-      "venue": "The Jewish Museum, New York",
+      "venue": "The Jewish Museum",
       "begin": 2000,
       "end": 2001,
       "display_date": "Sunday, September 24, 2000 - Sunday, February 11, 2001"

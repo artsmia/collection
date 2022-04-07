@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2951,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Joan Brown (working title)",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Tuesday, November 1, 2022 - Saturday, September 30, 2023",
+  "public_info": 0,
+  "objects": [
+    128392
+  ],
+  "venues": [
+    {
+      "venue": "Carnegie Museum of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Tuesday, November 1, 2022 - Saturday, September 30, 2023"
+    },
+    {
+      "venue": "San Francisco Museum of Modern Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Tuesday, November 1, 2022 - Saturday, September 30, 2023"
+    }
+  ]
+}
