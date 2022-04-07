@@ -65,10 +65,15 @@ departments:
 		> departments/$$id.json; \
 	done;
 
-exhibitionIds = $$(curl --silent 'http://api.artsmia.org/exhibitions' | jq 'map(.exhibition_id) | sort | .[]')
+.PHONY: objects departments exhibitions
+
+exhibitionIds = $$(curl --silent 'http://api.artsmia.org/exhibitions' | jq 'map(.exhibition_id) | sort | .[]' | uniq)
+# IDEA - iterating all ~2k exhibitions takes a long time.
+# Could this only do the latest 50 6 days a week, and on the 7th day do all umpteen thousand?
 exhibitions:
 	@for id in $(exhibitionIds); do \
 		bucket=$$((id/1000)); \
+		printf "$$id "; \
 		[[ -d exhibitions/$$bucket ]] || mkdir exhibitions/$$bucket; \
 		file=exhibitions/$$bucket/$$id.json; \
 		curl --silent "http://api.artsmia.org/exhibitions/$$id" \
@@ -93,11 +98,27 @@ exhibitions:
 		fi; \
 	done;
 
-buckets=*
+exhibitionIndexCsv:
+	curl --silent 'http://api.artsmia.org/exhibitions' \ 
+	| jq -r 'map([.exhibition_id, .exhibition_title]) | .[] | @csv' \
+	| uniq | sort -n > all_exhibitions.csv
+
+redisDb=9
 redisPrefix=mia-collection:
+# The above are set to not accidentally overwrite the default collection information (`-n 0` with no prefix) but in order to re-populate that, overwrite in the `make` command
 buildRedisFromJSONFiles:
 	find objects/$(buckets) -name '*.json' | while read file; do \
 			id=$$(basename $$file .json | cut -d'/' -f3); \
 			bucket=$$(($$id/1000)); \
-			jq -c '.' $$file | redis-cli -x -n 9 hset $(redisPrefix)objects:$$bucket $$id >/dev/null; \
+			jq -c '.' $$file | redis-cli -x -n $(redisDb) hset $(redisPrefix)object:$$bucket $$id >/dev/null; \
 		done
+
+objectFileToRedis:
+	@id=$$(basename $(file) .json); \
+	bucket=$$(($$id/1000)); \
+	jq -c '.' $(file) | redis-cli -x -n $(redisDb) hset $(redisPrefix)object:$$bucket $$id >/dev/null;
+
+allObjectFilesToRedis:
+	find objects -type f \
+	| parallel --bar --joblog +jsonToRedis.joblog \
+	    make objectFileToRedis file={} redisDb=$(redisDb) redisPrefix=$(redisPrefix)
