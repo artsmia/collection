@@ -19,15 +19,18 @@ objects:
 	done
 	ag -l '%C2%A9|%26Acirc%3B%26copy%' {private/,}objects/ | xargs sed -i'' -e 's/%C2%A9/©/g; s/%26Acirc%3B%26copy%3B/©/g'
 
-git: objects check_public_access
+git:
 	git add --all departments/
 	git add --all exhibitions/
 	for dir in . private; do \
 		cd $$dir; \
+		find objects -name 'sed*' | xargs rm; \
 		git add --all objects/; \
 		git commit -m "$$(date +%Y-%m-%d): $$(git status -s -- objects/* | wc -l | tr -d ' ') changed"; \
 		git push; \
 	done
+
+daily: objects exhibitions departments check_public_access git
 
 count:
 	find objects/* | wc -l
