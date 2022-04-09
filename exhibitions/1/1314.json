@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 1314,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Governor's Residence: 2011-2013 (2)",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2013,
+  "display_date": "Monday, October 10, 2011 - Saturday, August 31, 2013",
+  "public_info": 0,
+  "objects": [
+    18157,
+    45081,
+    45538
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2011,
+      "end": 2013,
+      "display_date": "Monday, October 10, 2011 - Saturday, August 31, 2013"
+    }
+  ]
+}

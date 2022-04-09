@@ -10,18 +10,5 @@
   "objects": [
     799
   ],
-  "venues": [
-    {
-      "venue": "Birmingham Museum of Art",
-      "begin": 2013,
-      "end": 2014,
-      "display_date": "Sunday, October 27, 2013 - Sunday, May 18, 2014"
-    },
-    {
-      "venue": "Santa Barbara Museum of Art",
-      "begin": 2013,
-      "end": 2014,
-      "display_date": "Sunday, October 27, 2013 - Sunday, May 18, 2014"
-    }
-  ]
+  "venues": []
 }
