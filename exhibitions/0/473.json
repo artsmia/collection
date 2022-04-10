@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 473,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Antiques Show and Sale 2001",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2001,
+  "display_date": "October 19, 2001 to October 21, 2001",
+  "public_info": 0,
+  "objects": [
+    12989,
+    13008,
+    13017,
+    13020,
+    23755,
+    45278,
+    59000
+  ],
+  "venues": [
+    {
+      "venue": "International Market Square",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "October 19, 2001 to October 21, 2001"
+    }
+  ]
+}

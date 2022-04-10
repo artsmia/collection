@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 1428,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Cameron Booth",
+  "exhibition_description": null,
+  "begin": 1961,
+  "end": 1961,
+  "display_date": "Sunday, May 14, 1961 - Monday, June 26, 1961",
+  "public_info": 0,
+  "objects": [
+    16367,
+    18158,
+    18345,
+    20697
+  ],
+  "venues": [
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 1961,
+      "end": 1961,
+      "display_date": "Sunday, May 14, 1961 - Monday, June 26, 1961"
+    }
+  ]
+}
