@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 1427,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Minneapolis Club 1959 to 1960",
+  "exhibition_description": null,
+  "begin": 1959,
+  "end": 1960,
+  "display_date": "Thursday, June 04, 1959 - Monday, April 25, 1960",
+  "public_info": 0,
+  "objects": [
+    16367,
+    18158,
+    24529
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Club",
+      "begin": 1959,
+      "end": 1960,
+      "display_date": "Thursday, June 04, 1959 - Monday, April 25, 1960"
+    }
+  ]
+}

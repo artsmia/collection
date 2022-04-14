@@ -1,8 +1,8 @@
 {
   "accession_number": "P.78.51",
   "art_champions_text": null,
-  "artist": "Artist: William Crutchfield",
-  "catalogue_raissonne": null,
+  "artist": "Artist: William Crutchfield; Printer: Gemini G.E.L., Los Angeles; Publisher: Gemini G.E.L., Los Angeles",
+  "catalogue_raissonne": "GEL 59; Ritchie 11.7",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1967",
-  "department": "Prints and Drawings",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "11 1/4 x 18 13/16 in. (28.58 x 47.78 cm) (image)\r\n12 x 19 1/2 in. (30.48 x 49.53 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59840",
@@ -18,13 +18,13 @@
   "image_copyright": "© William Crutchfield",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature",
-  "life_date": "American, born 1932",
-  "markings": "Gemini L.A. also artist copy write (copyright?)",
-  "medium": "Lithograph color",
+  "inscription": "",
+  "life_date": "American, 1932 - 2015",
+  "markings": "Publisher\\'s blindstamp, LL: (c) Gemini GEL, Los Angeles\r\nPublisher\\'s stamp in black ink, verso: Gemini G.E.L. / Los Angeles, Calif.",
+  "medium": "Lithograph in black and yellow with hand-coloring",
   "nationality": "American",
-  "object_name": null,
-  "portfolio": "From ",
+  "object_name": "Print",
+  "portfolio": "From Americana Suite",
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "In pencil on lower margin",
+  "signed": "In pencil, lower margin: Crutchfield - 67",
   "style": "20th century",
   "text": "",
-  "title": "Model T"
+  "title": "Model T Ford"
 }
