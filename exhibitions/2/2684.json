@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 2684,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Marsden Hartley",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Thursday, September 19, 2019 - Sunday, January 19, 2020",
+  "public_info": 0,
+  "objects": [
+    120522,
+    120597,
+    120679,
+    121680,
+    121683,
+    123976
+  ],
+  "venues": [
+    {
+      "venue": "Louisiana Museum of Modern Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Thursday, September 19, 2019 - Sunday, January 19, 2020"
+    }
+  ]
+}
