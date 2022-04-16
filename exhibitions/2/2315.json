@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2315,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Unruly Nature: The Landscape of Théodore Rousseau",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2017,
+  "display_date": "Tuesday, June 21, 2016 - Sunday, January 08, 2017",
+  "public_info": 0,
+  "objects": [
+    6239
+  ],
+  "venues": [
+    {
+      "venue": "NY Carlsberg Glyptotek",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Tuesday, June 21, 2016 - Sunday, January 08, 2017"
+    },
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Tuesday, June 21, 2016 - Sunday, January 08, 2017"
+    }
+  ]
+}

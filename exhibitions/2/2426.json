@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2426,
+  "exhibition_department": "Historic: Japanese and Korean Art",
+  "exhibition_title": "Global Players",
+  "exhibition_description": null,
+  "begin": 2006,
+  "end": 2006,
+  "display_date": "Saturday, January 28, 2006 - Sunday, March 19, 2006",
+  "public_info": 0,
+  "objects": [
+    117143
+  ],
+  "venues": [
+    {
+      "venue": "BankART 1929",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, January 28, 2006 - Sunday, March 19, 2006"
+    },
+    {
+      "venue": "Ludwig Forum",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, January 28, 2006 - Sunday, March 19, 2006"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2829,
+  "exhibition_department": "Historic: Japanese and Korean Art",
+  "exhibition_title": "Ningen kokuhō Arakawa Toyozō",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2007,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    137903
+  ],
+  "venues": [
+    {
+      "venue": "Ibaraki Ceramic Art Museum",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": null
+    },
+    {
+      "venue": "Museum of Fine Arts, Gifu",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": null
+    },
+    {
+      "venue": "Okayama Prefectural Museum of Art",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": null
+    }
+  ]
+}
