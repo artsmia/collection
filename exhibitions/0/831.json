@@ -1,0 +1,37 @@
+{
+  "exhibition_id": 831,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Mythology of the American West",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2008,
+  "display_date": "Friday, September 28, 2007 - Sunday, August 03, 2008",
+  "public_info": 0,
+  "objects": [
+    1492,
+    1820,
+    2903,
+    4510,
+    11708
+  ],
+  "venues": [
+    {
+      "venue": "Centre de la Vieille-Charité",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Friday, September 28, 2007 - Sunday, August 03, 2008"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Rennes",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Friday, September 28, 2007 - Sunday, August 03, 2008"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Rouen",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Friday, September 28, 2007 - Sunday, August 03, 2008"
+    }
+  ]
+}

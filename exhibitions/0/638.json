@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 638,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Salvador Dali",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Sunday, September 12, 2004 - Monday, May 30, 2005",
+  "public_info": 0,
+  "objects": [
+    3291
+  ],
+  "venues": [
+    {
+      "venue": "Palazzo Grassi",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Sunday, September 12, 2004 - Monday, May 30, 2005"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Sunday, September 12, 2004 - Monday, May 30, 2005"
+    }
+  ]
+}
