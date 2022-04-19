@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2696,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Picasso Cuts the Bull",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, April 06, 2019 - Sunday, January 19, 2020",
+  "public_info": 0,
+  "objects": [
+    6091,
+    8827,
+    42871,
+    55437,
+    55443,
+    58219,
+    58308,
+    127728,
+    128213,
+    128214,
+    128216,
+    128217,
+    131416
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, April 06, 2019 - Sunday, January 19, 2020"
+    }
+  ]
+}

@@ -13,5 +13,12 @@
     95382,
     105051
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 03, 2021 - Sunday, January 09, 2022"
+    }
+  ]
 }

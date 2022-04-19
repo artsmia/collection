@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2710,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Yokai: Ghosts and Demons of Japan",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2021,
+  "display_date": "Friday, December 6, 2019 - Saturday, July 31, 2021",
+  "public_info": 0,
+  "objects": [
+    21212,
+    117037,
+    117104,
+    117370,
+    118071,
+    122188,
+    123827,
+    123843
+  ],
+  "venues": [
+    {
+      "venue": "Museum of International Folk Art",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Friday, December 6, 2019 - Saturday, July 31, 2021"
+    }
+  ]
+}
