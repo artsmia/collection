@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1279,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Manet: Portraying Life",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2013,
+  "display_date": "Thursday, October 04, 2012 - Sunday, April 14, 2013",
+  "public_info": 0,
+  "objects": [
+    1689
+  ],
+  "venues": [
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Thursday, October 04, 2012 - Sunday, April 14, 2013"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Thursday, October 04, 2012 - Sunday, April 14, 2013"
+    }
+  ]
+}
