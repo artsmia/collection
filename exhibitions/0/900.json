@@ -10,5 +10,18 @@
   "objects": [
     4568
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Bonnefantenmuseum",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 08, 2008 - Monday, June 08, 2009"
+    },
+    {
+      "venue": "Statens Museum for Kunst",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 08, 2008 - Monday, June 08, 2009"
+    }
+  ]
 }
