@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "10 3/4 x 8 in. (27.31 x 20.32 cm) (plate)",
   "id": "http://api.artsmia.org/objects/73215",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8968,
+  "image_width": 6665,
   "inscription": "",
   "life_date": "Flemish (active France), 1759–1840",
   "markings": "\r\n",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],
