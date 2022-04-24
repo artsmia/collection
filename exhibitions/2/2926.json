@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2926,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Animals in African Art: From the Familiar to the Marvelous",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1997,
+  "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997",
+  "public_info": 0,
+  "objects": [
+    1358
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997"
+    },
+    {
+      "venue": "Mint Museum of Art",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997"
+    },
+    {
+      "venue": "Museum for African Art",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997"
+    }
+  ]
+}

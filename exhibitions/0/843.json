@@ -103,5 +103,12 @@
     102130,
     102349
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, December 01, 2007 - Sunday, March 30, 2008"
+    }
+  ]
 }

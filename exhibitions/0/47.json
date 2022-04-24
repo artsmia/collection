@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 47,
+  "exhibition_department": null,
+  "exhibition_title": "Lipchitz and the Avant-Garde: From Paris to New York",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Friday, September 21, 2001 - Sunday, January 06, 2002",
+  "public_info": null,
+  "objects": [
+    1229
+  ],
+  "venues": [
+    {
+      "venue": "Krannert Art Museum",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, September 21, 2001 - Sunday, January 06, 2002"
+    }
+  ]
+}
