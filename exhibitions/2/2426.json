@@ -10,5 +10,18 @@
   "objects": [
     117143
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "BankART 1929",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, January 28, 2006 - Sunday, March 19, 2006"
+    },
+    {
+      "venue": "Ludwig Forum",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, January 28, 2006 - Sunday, March 19, 2006"
+    }
+  ]
 }

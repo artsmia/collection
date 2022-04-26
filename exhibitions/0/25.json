@@ -12,5 +12,18 @@
     16976,
     16977
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, November 04, 2000 - Sunday, May 13, 2001"
+    },
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, November 04, 2000 - Sunday, May 13, 2001"
+    }
+  ]
 }
