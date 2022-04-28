@@ -12,5 +12,18 @@
     107287,
     107291
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Saturday, February 14, 2009 - Sunday, September 06, 2009"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Saturday, February 14, 2009 - Sunday, September 06, 2009"
+    }
+  ]
 }

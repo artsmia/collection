@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2947,
+  "exhibition_department": null,
+  "exhibition_title": "The Train Journey (working title)",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Friday, October 21, 2022 - Sunday, February 5, 2023",
+  "public_info": null,
+  "objects": [
+    99621
+  ],
+  "venues": [
+    {
+      "venue": "Musée d'artes de Nantes",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Friday, October 21, 2022 - Sunday, February 5, 2023"
+    }
+  ]
+}
