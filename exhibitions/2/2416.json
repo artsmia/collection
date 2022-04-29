@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2416,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Alfred Sisley (1839-1899): Impressionist Master",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Saturday, January 21, 2017 - Sunday, October 15, 2017",
+  "public_info": 0,
+  "objects": [
+    61319
+  ],
+  "venues": [
+    {
+      "venue": "Bruce Museum",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Saturday, January 21, 2017 - Sunday, October 15, 2017"
+    },
+    {
+      "venue": "Hôtel de Caumont Centre d'Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Saturday, January 21, 2017 - Sunday, October 15, 2017"
+    }
+  ]
+}

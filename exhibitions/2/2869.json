@@ -10,5 +10,30 @@
   "objects": [
     118080
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Nagoya Matsuzakaya",
+      "begin": 1986,
+      "end": 1987,
+      "display_date": null
+    },
+    {
+      "venue": "Nezu Museum",
+      "begin": 1986,
+      "end": 1987,
+      "display_date": null
+    },
+    {
+      "venue": "Osaka Municipal Museum of Art",
+      "begin": 1986,
+      "end": 1987,
+      "display_date": null
+    },
+    {
+      "venue": "Ueno Matsuzakaya",
+      "begin": 1986,
+      "end": 1987,
+      "display_date": null
+    }
+  ]
 }
