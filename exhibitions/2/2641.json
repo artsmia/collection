@@ -1,0 +1,44 @@
+{
+  "exhibition_id": 2641,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Beyond Midnight: Paul Revere",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, September 06, 2019 - Monday, October 12, 2020",
+  "public_info": 0,
+  "objects": [
+    1381,
+    4756,
+    28559,
+    57941,
+    57942,
+    57943,
+    57944,
+    57945,
+    57946,
+    57947,
+    63154,
+    63155,
+    63156,
+    63157,
+    63158,
+    63159,
+    63160,
+    63161
+  ],
+  "venues": [
+    {
+      "venue": "Concord Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, September 06, 2019 - Monday, October 12, 2020"
+    },
+    {
+      "venue": "New York Historical Society Museum & Library",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, September 06, 2019 - Monday, October 12, 2020"
+    }
+  ]
+}
