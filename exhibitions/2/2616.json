@@ -10,5 +10,12 @@
   "objects": [
     13134
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Jane McAusland ACR FIIC",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Monday, June 25, 2018 - Wednesday, October 31, 2018"
+    }
+  ]
 }
