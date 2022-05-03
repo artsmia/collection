@@ -10,18 +10,5 @@
   "objects": [
     3707
   ],
-  "venues": [
-    {
-      "venue": "Norwest Collection",
-      "begin": 1997,
-      "end": 1999,
-      "display_date": "Tuesday, October 14, 1997 - Thursday, June 10, 1999"
-    },
-    {
-      "venue": "Norwest Corporation Arts Program",
-      "begin": 1997,
-      "end": 1999,
-      "display_date": "Tuesday, October 14, 1997 - Thursday, June 10, 1999"
-    }
-  ]
+  "venues": []
 }
