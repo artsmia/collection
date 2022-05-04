@@ -11,5 +11,30 @@
     12806,
     106359
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    },
+    {
+      "venue": "Nasjonalmuseet",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    },
+    {
+      "venue": "Nationalmuseum",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    }
+  ]
 }

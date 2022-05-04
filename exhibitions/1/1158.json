@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1158,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "Heroic Africans: Legendary Leaders, Iconic Sculptures",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Monday, September 19, 2011 - Sunday, January 29, 2012",
+  "public_info": 0,
+  "objects": [
+    4866
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Monday, September 19, 2011 - Sunday, January 29, 2012"
+    },
+    {
+      "venue": "Museum Rietberg Zürich",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Monday, September 19, 2011 - Sunday, January 29, 2012"
+    }
+  ]
+}
