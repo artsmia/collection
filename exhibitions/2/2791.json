@@ -14,18 +14,5 @@
     116017,
     116018
   ],
-  "venues": [
-    {
-      "venue": "Crystal Bridges Museum of American Art",
-      "begin": 2021,
-      "end": 2021,
-      "display_date": "Saturday, February 6, 2021 - Sunday, September 12, 2021"
-    },
-    {
-      "venue": "Jule Collins Smith Museum of Fine Art",
-      "begin": 2021,
-      "end": 2021,
-      "display_date": "Saturday, February 6, 2021 - Sunday, September 12, 2021"
-    }
-  ]
+  "venues": []
 }
