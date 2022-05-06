@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 1875,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Seasonal Pleasures in Japanese Art, Part I",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1996,
+  "display_date": "Monday, October 09, 1995 - Monday, January 08, 1996",
+  "public_info": 0,
+  "objects": [
+    37190,
+    40034,
+    99427,
+    122080,
+    122085,
+    122086,
+    122102,
+    122115,
+    122144,
+    122150,
+    122159,
+    122160,
+    122172,
+    122179,
+    122184
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Monday, October 09, 1995 - Monday, January 08, 1996"
+    }
+  ]
+}

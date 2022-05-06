@@ -10,5 +10,18 @@
   "objects": [
     1358
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum for African Art",
+      "begin": 1988,
+      "end": 1989,
+      "display_date": null
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 1988,
+      "end": 1989,
+      "display_date": null
+    }
+  ]
 }

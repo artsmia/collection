@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2491,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Andrew Wyeth: In Retrospect",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Saturday, June 24, 2017 - Monday, January 15, 2018",
+  "public_info": 0,
+  "objects": [
+    120579
+  ],
+  "venues": [
+    {
+      "venue": "Brandywine River Museum of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, June 24, 2017 - Monday, January 15, 2018"
+    },
+    {
+      "venue": "Seattle Art Museum",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, June 24, 2017 - Monday, January 15, 2018"
+    }
+  ]
+}
