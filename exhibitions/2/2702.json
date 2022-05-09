@@ -10,24 +10,5 @@
   "objects": [
     120525
   ],
-  "venues": [
-    {
-      "venue": "Amon Carter Museum of American Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Sunday, March 15, 2020 - Sunday, February 28, 2021"
-    },
-    {
-      "venue": "Denver Art Museum",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Sunday, March 15, 2020 - Sunday, February 28, 2021"
-    },
-    {
-      "venue": "Portland Museum of Art",
-      "begin": 2020,
-      "end": 2021,
-      "display_date": "Sunday, March 15, 2020 - Sunday, February 28, 2021"
-    }
-  ]
+  "venues": []
 }
