@@ -172,5 +172,12 @@
     129465,
     129520
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, August 11, 2018 - Sunday, February 17, 2019"
+    }
+  ]
 }
