@@ -84,5 +84,24 @@
     123338,
     127027
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Citadelle Art Foundation & Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": null
+    },
+    {
+      "venue": "Lauren Rogers Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": null
+    },
+    {
+      "venue": "Weatherspoon Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": null
+    }
+  ]
 }
