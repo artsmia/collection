@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 877,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "La Volupté du goût: French Painting in the Age of Madame de Pompadour",
+  "exhibition_description": null,
+  "begin": 2008,
+  "end": 2009,
+  "display_date": "Saturday, October 11, 2008 - Sunday, May 17, 2009",
+  "public_info": 0,
+  "objects": [
+    1227,
+    1399,
+    2245,
+    60161
+  ],
+  "venues": [
+    {
+      "venue": "Musée des Beaux-Arts de Tours",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, October 11, 2008 - Sunday, May 17, 2009"
+    },
+    {
+      "venue": "Portland Art Museum",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, October 11, 2008 - Sunday, May 17, 2009"
+    }
+  ]
+}
