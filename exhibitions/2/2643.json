@@ -1,0 +1,41 @@
+{
+  "exhibition_id": 2643,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "British Graphic Art of the Romantic Era",
+  "exhibition_description": null,
+  "begin": 1970,
+  "end": 1970,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    0,
+    1,
+    2,
+    3,
+    8480,
+    9032,
+    9075,
+    9092,
+    9116,
+    9331,
+    9541,
+    14004,
+    14005,
+    14006,
+    14109,
+    14350,
+    18505,
+    18507,
+    18589,
+    19385,
+    19476
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1970,
+      "end": 1970,
+      "display_date": null
+    }
+  ]
+}

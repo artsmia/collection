@@ -10,5 +10,18 @@
   "objects": [
     1509
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Thursday, February 05, 2015 - Sunday, October 04, 2015"
+    },
+    {
+      "venue": "National Portrait Gallery, London",
+      "begin": 2015,
+      "end": 2015,
+      "display_date": "Thursday, February 05, 2015 - Sunday, October 04, 2015"
+    }
+  ]
 }
