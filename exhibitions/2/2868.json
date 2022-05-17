@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2868,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Sargent and Spain",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Sunday, October 02, 2022 - Sunday, May 14, 2023",
+  "public_info": 0,
+  "objects": [
+    121826
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco Legion of Honor",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Sunday, October 02, 2022 - Sunday, May 14, 2023"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Sunday, October 02, 2022 - Sunday, May 14, 2023"
+    }
+  ]
+}

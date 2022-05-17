@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 960,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Spectacular Art of Jean-Léon Gérôme",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Tuesday, June 15, 2010 - Sunday, May 22, 2011",
+  "public_info": 0,
+  "objects": [
+    10361
+  ],
+  "venues": [
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Tuesday, June 15, 2010 - Sunday, May 22, 2011"
+    },
+    {
+      "venue": "Musée d'Orsay",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Tuesday, June 15, 2010 - Sunday, May 22, 2011"
+    },
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Tuesday, June 15, 2010 - Sunday, May 22, 2011"
+    }
+  ]
+}
