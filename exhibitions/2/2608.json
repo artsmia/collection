@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2608,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Bouguereau and America",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Thursday, February 14, 2019 - Sunday, March 15, 2020",
+  "public_info": 0,
+  "objects": [
+    2135
+  ],
+  "venues": [
+    {
+      "venue": "Memphis Brooks Museum of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Thursday, February 14, 2019 - Sunday, March 15, 2020"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Thursday, February 14, 2019 - Sunday, March 15, 2020"
+    },
+    {
+      "venue": "San Diego Museum of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Thursday, February 14, 2019 - Sunday, March 15, 2020"
+    }
+  ]
+}

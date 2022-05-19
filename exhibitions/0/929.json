@@ -10,12 +10,5 @@
   "objects": [
     50
   ],
-  "venues": [
-    {
-      "venue": "The John Herron Art Museum",
-      "begin": 1950,
-      "end": 1950,
-      "display_date": "Sunday, October 22, 1950 - Sunday, December 24, 1950"
-    }
-  ]
+  "venues": []
 }

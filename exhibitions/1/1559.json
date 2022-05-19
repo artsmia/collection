@@ -1,0 +1,49 @@
+{
+  "exhibition_id": 1559,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Danish Modern: Design for Living",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2015,
+  "display_date": "Saturday, April 06, 2013 - Sunday, June 21, 2015",
+  "public_info": 0,
+  "objects": [
+    28591,
+    61827,
+    62696,
+    81019,
+    81020,
+    81021,
+    81022,
+    81023,
+    81024,
+    83971,
+    106256
+  ],
+  "venues": [
+    {
+      "venue": "Figge Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, April 06, 2013 - Sunday, June 21, 2015"
+    },
+    {
+      "venue": "Goldstein Museum of Design",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, April 06, 2013 - Sunday, June 21, 2015"
+    },
+    {
+      "venue": "Museum of Danish America",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, April 06, 2013 - Sunday, June 21, 2015"
+    },
+    {
+      "venue": "Nordic Heritage Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, April 06, 2013 - Sunday, June 21, 2015"
+    }
+  ]
+}
