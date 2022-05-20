@@ -13,24 +13,5 @@
     122496,
     123100
   ],
-  "venues": [
-    {
-      "venue": "Katonah Museum of Art",
-      "begin": 1992,
-      "end": 1993,
-      "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993"
-    },
-    {
-      "venue": "Los Angeles County Museum of Art",
-      "begin": 1992,
-      "end": 1993,
-      "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993"
-    },
-    {
-      "venue": "San Antonio Museum of Art",
-      "begin": 1992,
-      "end": 1993,
-      "display_date": "Sunday, October 11, 1992 - Sunday, May 30, 1993"
-    }
-  ]
+  "venues": []
 }

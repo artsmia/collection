@@ -1,14 +1,34 @@
 {
   "exhibition_id": 2967,
-  "exhibition_department": null,
+  "exhibition_department": "Asian Art",
   "exhibition_title": "Rotation for 224",
   "exhibition_description": null,
   "begin": 2022,
   "end": 2023,
   "display_date": "Saturday, July 9, 2022 - Sunday, April 9, 2023",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
-    143516
+    143516,
+    143517,
+    143518,
+    143519,
+    143520,
+    143521,
+    143522,
+    143523,
+    143524,
+    143525,
+    143526,
+    143527,
+    143528,
+    143529,
+    143530,
+    143531,
+    143532,
+    143533,
+    143534,
+    143535,
+    143536
   ],
   "venues": []
 }
