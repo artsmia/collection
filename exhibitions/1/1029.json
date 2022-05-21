@@ -10,5 +10,12 @@
   "objects": [
     2239
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Grand Rapids Art Museum",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Friday, October 02, 2009 - Sunday, January 03, 2010"
+    }
+  ]
 }
