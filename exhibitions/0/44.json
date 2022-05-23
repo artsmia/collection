@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 44,
+  "exhibition_department": null,
+  "exhibition_title": "Goya, un regard libre",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 1999,
+  "display_date": "Sunday, March 28, 1999 - Wednesday, July 14, 1999",
+  "public_info": null,
+  "objects": [
+    1226
+  ],
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Sunday, March 28, 1999 - Wednesday, July 14, 1999"
+    }
+  ]
+}

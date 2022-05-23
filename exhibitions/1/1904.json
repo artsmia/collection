@@ -10,5 +10,12 @@
   "objects": [
     6906
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Yamato Bunkakan",
+      "begin": 1980,
+      "end": 1980,
+      "display_date": "Friday, October 03, 1980 - Sunday, November 09, 1980"
+    }
+  ]
 }

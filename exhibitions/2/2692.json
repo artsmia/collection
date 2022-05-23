@@ -1,0 +1,44 @@
+{
+  "exhibition_id": 2692,
+  "exhibition_department": "Historic: Contemporary Art",
+  "exhibition_title": "Mapping Black Identities",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2021,
+  "display_date": "Thursday, February 21, 2019 - Sunday, January 03, 2021",
+  "public_info": 0,
+  "objects": [
+    95241,
+    111576,
+    118797,
+    118799,
+    118801,
+    118823,
+    125825,
+    126991,
+    127298,
+    128487,
+    129362,
+    129461,
+    129704,
+    130053,
+    131150,
+    131151,
+    131362,
+    131363,
+    131413,
+    131414,
+    131415,
+    131530,
+    131802,
+    131806
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2021,
+      "display_date": "Thursday, February 21, 2019 - Sunday, January 03, 2021"
+    }
+  ]
+}

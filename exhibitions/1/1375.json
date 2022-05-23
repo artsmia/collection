@@ -12,5 +12,12 @@
     101029,
     101030
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Perlman Teaching Museum",
+      "begin": 2012,
+      "end": 2012,
+      "display_date": "Friday, March 30, 2012 - Sunday, May 20, 2012"
+    }
+  ]
 }
