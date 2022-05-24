@@ -14,5 +14,24 @@
     96320,
     96321
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, October 09, 2004 - Sunday, July 10, 2005"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Lille - Do Not Use",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, October 09, 2004 - Sunday, July 10, 2005"
+    },
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, October 09, 2004 - Sunday, July 10, 2005"
+    }
+  ]
 }

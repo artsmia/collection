@@ -1,11 +1,11 @@
 {
   "exhibition_id": 2827,
   "exhibition_department": null,
-  "exhibition_title": "Joint Ownership 2020-2022",
+  "exhibition_title": "Joint Ownership 2020-2023",
   "exhibition_description": null,
   "begin": 2020,
-  "end": 2022,
-  "display_date": "Thursday, September 03, 2020 - Tuesday, September 06, 2022",
+  "end": 2023,
+  "display_date": "Thursday, September 3, 2020 - Tuesday, May 9, 2023",
   "public_info": null,
   "objects": [
     2805
@@ -14,8 +14,8 @@
     {
       "venue": "Des Moines Art Center",
       "begin": 2020,
-      "end": 2022,
-      "display_date": "Thursday, September 03, 2020 - Tuesday, September 06, 2022"
+      "end": 2023,
+      "display_date": "Thursday, September 3, 2020 - Tuesday, May 9, 2023"
     }
   ]
 }
