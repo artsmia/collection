@@ -11,5 +11,24 @@
     3115,
     3280
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991"
+    }
+  ]
 }
