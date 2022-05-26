@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 1395,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "The American Indian",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2013,
+  "display_date": "Wednesday, December 12, 2012 - Sunday, April 14, 2013",
+  "public_info": 0,
+  "objects": [
+    200,
+    4040,
+    4313,
+    4711
+  ],
+  "venues": [
+    {
+      "venue": "De Nieuwe Kerk Amsterdam",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Wednesday, December 12, 2012 - Sunday, April 14, 2013"
+    }
+  ]
+}
