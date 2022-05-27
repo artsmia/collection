@@ -10,24 +10,5 @@
   "objects": [
     1509
   ],
-  "venues": [
-    {
-      "venue": "Brooklyn Museum",
-      "begin": 2004,
-      "end": 2005,
-      "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005"
-    },
-    {
-      "venue": "Chrysler Museum of Art",
-      "begin": 2004,
-      "end": 2005,
-      "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005"
-    },
-    {
-      "venue": "Portland Art Museum",
-      "begin": 2004,
-      "end": 2005,
-      "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005"
-    }
-  ]
+  "venues": []
 }
