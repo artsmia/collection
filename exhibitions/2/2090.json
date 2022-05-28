@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 2090,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Collectors' Choice",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2007,
+  "display_date": "Tuesday, February 27, 2007 - Sunday, August 26, 2007",
+  "public_info": 0,
+  "objects": [
+    40037,
+    123101
+  ],
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Tuesday, February 27, 2007 - Sunday, August 26, 2007"
+    }
+  ]
+}
