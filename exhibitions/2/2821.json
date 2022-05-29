@@ -10,5 +10,18 @@
   "objects": [
     802
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Sunday, May 15, 2022 - Sunday, March 12, 2023"
+    },
+    {
+      "venue": "Tate Modern",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Sunday, May 15, 2022 - Sunday, March 12, 2023"
+    }
+  ]
 }
