@@ -1,0 +1,31 @@
+{
+  "exhibition_id": 2718,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "B.J.O. Nordfeldt: An American Internationalist",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Saturday, September 25, 2021 - Sunday, July 10, 2022",
+  "public_info": 0,
+  "objects": [
+    737,
+    57503,
+    57516,
+    58344,
+    120546
+  ],
+  "venues": [
+    {
+      "venue": "Frederick R. Weisman Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, September 25, 2021 - Sunday, July 10, 2022"
+    },
+    {
+      "venue": "Wichita Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, September 25, 2021 - Sunday, July 10, 2022"
+    }
+  ]
+}
