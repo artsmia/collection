@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 934,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Mirror of Empire: Dutch Marine Art of the Seventeenth Century",
+  "exhibition_description": null,
+  "begin": 1990,
+  "end": 1991,
+  "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991",
+  "public_info": 0,
+  "objects": [
+    3115,
+    3280
+  ],
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1990,
+      "end": 1991,
+      "display_date": "Sunday, September 23, 1990 - Sunday, August 11, 1991"
+    }
+  ]
+}
