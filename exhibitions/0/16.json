@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 16,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Toulouse-Lautrec and the Pleasures of Paris",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2000,
+  "display_date": "Monday, May 01, 2000 - Tuesday, August 15, 2000",
+  "public_info": 0,
+  "objects": [
+    300,
+    7586,
+    7867,
+    32482,
+    103306
+  ],
+  "venues": [
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Monday, May 01, 2000 - Tuesday, August 15, 2000"
+    }
+  ]
+}
