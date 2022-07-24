@@ -11,5 +11,12 @@
     129,
     110043
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Saturday, February 16, 2019 - Sunday, May 05, 2019"
+    }
+  ]
 }

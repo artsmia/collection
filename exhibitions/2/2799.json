@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 2799,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Recent Acquisitions: Fiber Art at Mia",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, December 07, 2019 - Sunday, September 20, 2020",
+  "public_info": 0,
+  "objects": [
+    123104,
+    123624,
+    123625,
+    123627,
+    125190,
+    128367,
+    128969,
+    129964,
+    131146,
+    131147,
+    131149,
+    131153,
+    131298,
+    131464,
+    132243
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, December 07, 2019 - Sunday, September 20, 2020"
+    }
+  ]
+}
