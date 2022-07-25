@@ -1,0 +1,60 @@
+{
+  "exhibition_id": 1711,
+  "exhibition_department": "Historic: Japanese and Korean Art",
+  "exhibition_title": "Jewel Rivers: Japanese Art from the Burke Collection",
+  "exhibition_description": null,
+  "begin": 1993,
+  "end": 1995,
+  "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995",
+  "public_info": 0,
+  "objects": [
+    6631,
+    6645,
+    6923,
+    40034,
+    40209,
+    99399,
+    122085,
+    122086,
+    122100,
+    122101,
+    122168,
+    122187,
+    122204,
+    122207,
+    122223,
+    122235,
+    122243,
+    122244,
+    122262,
+    122278,
+    122389,
+    122403,
+    122412,
+    122415,
+    122485,
+    122503,
+    122508,
+    123076
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 1993,
+      "end": 1995,
+      "display_date": "Monday, October 25, 1993 - Sunday, January 01, 1995"
+    }
+  ]
+}
