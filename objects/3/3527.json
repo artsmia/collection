@@ -2,6 +2,15 @@
   "accession_number": "86.85",
   "art_champions_text": null,
   "artist": "Designer: Giovanni Battista Foggini; Maker: Grand Ducal Workshops",
+    [{
+      "role": "designer",
+      "name": "Giovanni Battista Foggini",
+      "ulan_id": "http://vocab.getty.edu/page/ulan/500020988"
+    }, {
+      "role": "maker",
+      "name": "Grand Ducal Workshops",
+      "ulan_id": "http://vocab.getty.edu/page/ulan/500312119"
+    }]
   "catalogue_raissonne": null,
   "classification": " Furniture",
   "continent": "Europe",
