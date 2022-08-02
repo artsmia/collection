@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 35,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Cézanne",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1996,
+  "display_date": "Tuesday, September 05, 1995 - Sunday, September 15, 1996",
+  "public_info": 0,
+  "objects": [
+    802,
+    25288
+  ],
+  "venues": [
+    {
+      "venue": "Réunion des Musées Nationaux",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Tuesday, September 05, 1995 - Sunday, September 15, 1996"
+    }
+  ]
+}
