@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 25,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Taoism and the Arts of China",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Saturday, November 04, 2000 - Sunday, May 13, 2001",
+  "public_info": 0,
+  "objects": [
+    660,
+    16976,
+    16977
+  ],
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, November 04, 2000 - Sunday, May 13, 2001"
+    },
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, November 04, 2000 - Sunday, May 13, 2001"
+    }
+  ]
+}

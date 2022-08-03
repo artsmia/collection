@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 2573,
+  "exhibition_department": "Historic: Contemporary Art",
+  "exhibition_title": "Contemporary Rotation 2017",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Saturday, December 23, 2017 - Monday, December 31, 2018",
+  "public_info": 0,
+  "objects": [
+    115349,
+    116607,
+    127609,
+    128183,
+    128184,
+    128198,
+    128199,
+    128200,
+    128201,
+    128211
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Saturday, December 23, 2017 - Monday, December 31, 2018"
+    }
+  ]
+}
