@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1051,
+  "exhibition_department": "Historic: Photography & New Media",
+  "exhibition_title": "Afro Modern: Journeys Through the Black Atlantic",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2010,
+  "display_date": "Friday, January 29, 2010 - Sunday, October 10, 2010",
+  "public_info": 0,
+  "objects": [
+    2044,
+    2045,
+    4131,
+    20170,
+    20185,
+    20188,
+    25046
+  ],
+  "venues": [
+    {
+      "venue": "Centro Galego de Arte Contemporánea",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Friday, January 29, 2010 - Sunday, October 10, 2010"
+    },
+    {
+      "venue": "Tate Liverpool",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Friday, January 29, 2010 - Sunday, October 10, 2010"
+    }
+  ]
+}

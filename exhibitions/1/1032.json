@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1032,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Roy Lichtenstein: The Black and White Drawings (1961-1968)",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Friday, September 24, 2010 - Sunday, May 15, 2011",
+  "public_info": 0,
+  "objects": [
+    1574
+  ],
+  "venues": [
+    {
+      "venue": "Albertina Museum",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, September 24, 2010 - Sunday, May 15, 2011"
+    },
+    {
+      "venue": "Morgan Library and Museum",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, September 24, 2010 - Sunday, May 15, 2011"
+    }
+  ]
+}
