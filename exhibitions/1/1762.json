@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1762,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Painting the Modern Garden: Monet to Matisse",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2016,
+  "display_date": "Sunday, October 11, 2015 - Sunday, April 17, 2016",
+  "public_info": 0,
+  "objects": [
+    1413
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Sunday, October 11, 2015 - Sunday, April 17, 2016"
+    },
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Sunday, October 11, 2015 - Sunday, April 17, 2016"
+    }
+  ]
+}
