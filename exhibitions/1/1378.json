@@ -10,5 +10,84 @@
   "objects": [
     1332
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Akron Art Institute",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Brandeis University Art Gallery",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Cincinnati Art Museum",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Columbus Museum of Art",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Corcoran Gallery of Art",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Fort Worth Art Center",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Guggenheim Museum",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Munson-Williams-Proctor Institute",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Reading Public Museum",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 1965,
+      "end": 1966,
+      "display_date": "Thursday, February 04, 1965 - Monday, November 14, 1966"
+    }
+  ]
 }
