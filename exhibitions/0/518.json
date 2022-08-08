@@ -11,5 +11,18 @@
     5749,
     7911
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Northwest Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Tuesday, January 14, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Tacoma Art Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Tuesday, January 14, 2003 - Sunday, January 04, 2004"
+    }
+  ]
 }
