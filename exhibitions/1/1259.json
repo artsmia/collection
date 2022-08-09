@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 1259,
+  "exhibition_department": "Historic: Contemporary Art",
+  "exhibition_title": "Face to Face",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Friday, October 01, 2010 - Sunday, May 29, 2011",
+  "public_info": 0,
+  "objects": [
+    3211,
+    5896,
+    12092,
+    27956,
+    59857,
+    62148,
+    62811,
+    106619,
+    108857
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 01, 2010 - Sunday, May 29, 2011"
+    }
+  ]
+}

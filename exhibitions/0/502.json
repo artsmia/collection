@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 502,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Marc Chagall Retrospective",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Tuesday, March 11, 2003 - Tuesday, November 04, 2003",
+  "public_info": 0,
+  "objects": [
+    1427
+  ],
+  "venues": [
+    {
+      "venue": "Galeries nationales du Grand Palais",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Tuesday, March 11, 2003 - Tuesday, November 04, 2003"
+    },
+    {
+      "venue": "San Francisco Museum of Modern Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Tuesday, March 11, 2003 - Tuesday, November 04, 2003"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 672,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "China Exhibition",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Friday, October 15, 2004 - Sunday, March 13, 2005",
+  "public_info": 0,
+  "objects": [
+    3142,
+    3143,
+    3155,
+    24039,
+    24040
+  ],
+  "venues": [
+    {
+      "venue": "Gerald R. Ford Presidential Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 15, 2004 - Sunday, March 13, 2005"
+    }
+  ]
+}
