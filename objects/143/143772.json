@@ -1,7 +1,7 @@
 {
-  "accession_number": "B.87.2.1",
+  "accession_number": "B.87.2.3",
   "art_champions_text": null,
-  "artist": "Maker: Scott Helmes; Printer: Philip Gallo; Publisher: Hermetic Press, Minneapolis",
+  "artist": "Poet: Ian Hamilton Finlay; Designer: Susan Lesch; Printer: Philip Gallo; Publisher: Hermetic Press, Minneapolis",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -11,9 +11,9 @@
   "curator_approved": 0,
   "dated": "1986",
   "department": "Arts of the Americas",
-  "description": "letters comprising the word \"language\" are scattered randomly across and down the sheet in Times New Roman Semi Bold typeface; stored with four other prints in an orange Canson folder with \"5 Visual Poems / scott helmes karl kempton ian hamilton finlay philip gallo jonathan williams\" in letterpress on front",
-  "dimension": "14 3/4 × 6 1/4 in. (37.5 × 15.9 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/80677",
+  "description": "poem in Caslon and Caslon Open typeface on beige paper; stored with four other prints in an orange Canson folder with \"5 Visual Poems / scott helmes karl kempton ian hamilton finlay philip gallo jonathan williams\" in letterpress on front",
+  "dimension": "12 1/2 × 10 7/8 in. (31.8 × 27.6 cm) (sheet)",
+  "id": "http://api.artsmia.org/objects/143772",
   "image": "invalid",
   "image_copyright": "© 1986 Hermetic Press%2C Minneapolis",
   "image_height": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Twenty Years: Philip Gallo at The Hermetic Press: 1966-1986; A Celebration of Visual Poems"
+  "title": "5 Visual Poems"
 }
