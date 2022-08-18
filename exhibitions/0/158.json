@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 158,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Scandinavian Moderne",
+  "exhibition_description": null,
+  "begin": 1997,
+  "end": 1999,
+  "display_date": "Tuesday, October 14, 1997 - Thursday, June 10, 1999",
+  "public_info": 0,
+  "objects": [
+    3707
+  ],
+  "venues": [
+    {
+      "venue": "Norwest Collection",
+      "begin": 1997,
+      "end": 1999,
+      "display_date": "Tuesday, October 14, 1997 - Thursday, June 10, 1999"
+    },
+    {
+      "venue": "Norwest Corporation Arts Program",
+      "begin": 1997,
+      "end": 1999,
+      "display_date": "Tuesday, October 14, 1997 - Thursday, June 10, 1999"
+    }
+  ]
+}

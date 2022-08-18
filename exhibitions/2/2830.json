@@ -104,18 +104,5 @@
     138124,
     138193
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2021,
-      "end": 2021,
-      "display_date": "Saturday, January 02, 2021 - Sunday, June 13, 2021"
-    },
-    {
-      "venue": "Portland Museum of Art",
-      "begin": 2021,
-      "end": 2021,
-      "display_date": "Saturday, January 02, 2021 - Sunday, June 13, 2021"
-    }
-  ]
+  "venues": []
 }
