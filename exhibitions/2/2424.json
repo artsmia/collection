@@ -10,5 +10,12 @@
   "objects": [
     117142
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Museum of Modern Art, Tokyo",
+      "begin": 1994,
+      "end": 1994,
+      "display_date": "Tuesday, October 04, 1994 - Sunday, November 27, 1994"
+    }
+  ]
 }

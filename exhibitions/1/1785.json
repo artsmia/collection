@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1785,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Élisabeth Louise Vigée LeBrun (1755-1842)",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2016,
+  "display_date": "Monday, September 21, 2015 - Monday, September 12, 2016",
+  "public_info": 0,
+  "objects": [
+    2570
+  ],
+  "venues": [
+    {
+      "venue": "Galeries nationales du Grand Palais",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Monday, September 21, 2015 - Monday, September 12, 2016"
+    },
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Monday, September 21, 2015 - Monday, September 12, 2016"
+    },
+    {
+      "venue": "National Gallery of Canada",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Monday, September 21, 2015 - Monday, September 12, 2016"
+    }
+  ]
+}

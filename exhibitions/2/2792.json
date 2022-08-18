@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2792,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Olga de Amaral: Alchemy",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Sunday, July 25, 2021 - Sunday, March 27, 2022",
+  "public_info": 0,
+  "objects": [
+    12787,
+    131298
+  ],
+  "venues": [
+    {
+      "venue": "Cranbrook Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, July 25, 2021 - Sunday, March 27, 2022"
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, July 25, 2021 - Sunday, March 27, 2022"
+    }
+  ]
+}
