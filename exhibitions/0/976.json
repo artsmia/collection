@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 976,
+  "exhibition_department": "Historic: Japanese and Korean Art",
+  "exhibition_title": "The Sound of One Hand: Paintings and Calligraphy by Zen Master Hakuin",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Friday, October 01, 2010 - Wednesday, August 17, 2011",
+  "public_info": 0,
+  "objects": [
+    61362
+  ],
+  "venues": [
+    {
+      "venue": "Japan Society",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 01, 2010 - Wednesday, August 17, 2011"
+    },
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 01, 2010 - Wednesday, August 17, 2011"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 01, 2010 - Wednesday, August 17, 2011"
+    }
+  ]
+}
