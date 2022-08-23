@@ -10,24 +10,5 @@
   "objects": [
     10513
   ],
-  "venues": [
-    {
-      "venue": "Georgia Museum of Art",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012"
-    },
-    {
-      "venue": "Nelson-Atkins Museum of Art",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012"
-    },
-    {
-      "venue": "Smithsonian American Art Museum",
-      "begin": 2011,
-      "end": 2012,
-      "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012"
-    }
-  ]
+  "venues": []
 }

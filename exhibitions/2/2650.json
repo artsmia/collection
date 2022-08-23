@@ -1,0 +1,39 @@
+{
+  "exhibition_id": 2650,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Georgia O'Keeffe Living Modern",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2020,
+  "display_date": "Wednesday, November 21, 2018 - Tuesday, February 04, 2020",
+  "public_info": 0,
+  "objects": [
+    121890
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Wednesday, November 21, 2018 - Tuesday, February 04, 2020"
+    },
+    {
+      "venue": "Nevada Museum of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Wednesday, November 21, 2018 - Tuesday, February 04, 2020"
+    },
+    {
+      "venue": "Norton Museum of Art",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Wednesday, November 21, 2018 - Tuesday, February 04, 2020"
+    },
+    {
+      "venue": "Wichita Art Museum",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Wednesday, November 21, 2018 - Tuesday, February 04, 2020"
+    }
+  ]
+}

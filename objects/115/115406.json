@@ -2,7 +2,7 @@
   "accession_number": "2012.71.3",
   "art_champions_text": null,
   "artist": "Artist: Fukuda Kodōjin",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Cat. 19B",
   "classification": " Paintings; Calligraphy",
   "continent": "Asia",
   "country": "Japan",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "April 1918",
-  "department": "Japanese and Korean Art",
+  "department": "Asian Art",
   "description": "grey, black and white; tower and roof at right, LRQ; large, dark, rolling mountains at center and bottom; waves or clouds at lower center",
   "dimension": "56 x 16 15/16 in. (142.24 x 43.02 cm) (image)\r\n80 x 25 1/2 in. (203.2 x 64.77 cm) (including roller)",
   "id": "http://api.artsmia.org/objects/115406",
@@ -18,7 +18,7 @@
   "image_copyright": "",
   "image_height": 9653,
   "image_width": 3135,
-  "inscription": "一旦謝名利　林下忘世囂　請看自然理　春筍入夏高",
+  "inscription": "一旦謝名利　林下忘世囂　請看自然理　春筍入夏高\r\n\r\nPoem: Yōsetsu hōshin no. 25",
   "life_date": "Japanese, 1865 - 1944",
   "markings": "poem UL red seal: 无心 {mushin} [mushin #2]; poem LL red seals: 福田世耕 {Fukuda Seikō} [Fukuda Seikō #4]; 静處 {seisho} [seisho #4]; LLC, in red: 拙居 {sekkyo}",
   "medium": "Ink on silk",
@@ -36,5 +36,5 @@
   "signed": "戊午清和月古道人 {tsuchinoe-uma seiwazuki Kodōjin} (April 1918, Kodōjin)",
   "style": "20th century",
   "text": "",
-  "title": "Landscape after Mi Fu; Summer, from a set of \"Landscapes of the Four Seasons\""
+  "title": "Landscape after Mi Fu"
 }
