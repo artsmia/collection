@@ -10,5 +10,12 @@
   "objects": [
     689
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Tuesday, October 27, 2015 - Sunday, January 10, 2016"
+    }
+  ]
 }

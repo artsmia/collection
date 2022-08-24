@@ -2,7 +2,7 @@
   "accession_number": "2015.111.7",
   "art_champions_text": null,
   "artist": "Artist: Fukuda Kodōjin",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Cat. 64",
   "classification": " Paintings; Calligraphy",
   "continent": "Asia",
   "country": "Japan",
@@ -10,14 +10,14 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "c. 1928",
-  "department": "Japanese and Korean Art",
+  "department": "Asian Art",
   "description": "Inside two wooden boxes; not wrapped in tissue; fabric is tan and green foliage pattern; image of the moon behind a pine tree branch; three lines of script LL corner",
   "dimension": "54 9/16 x 13 1/8 in. (138.6 x 33.3 cm) (image)",
   "id": "http://api.artsmia.org/objects/116343",
   "image": "valid",
   "image_copyright": "",
   "image_height": 9830,
-  "image_width": 2586,
+  "image_width": 2578,
   "inscription": "松子南望照飲泉　山中高臥豈將仙　此來當笑皆依舊　何獨文章不流連 (Gazing south through pine cones, there shines my drinking brook: / Here in the mountains, calmly reclining, could I almost be an immortal? / Coming here again, I must laugh—everything just the same, / So why is my writing—that alone!—not flowing effortlessly?) [Jonathan Chaves]",
   "life_date": "Japanese, 1865 - 1944",
   "markings": "poem UR red seal: 无心 {mushin} [mushin #3]; poem LL red seals: 福田世耕 {Fukuda Seikō} [Fukuda Seikō #4], 静處 {seisho} [seisho #4]",
@@ -36,5 +36,5 @@
   "signed": "古人詩畫 {Kojin shiga} (poem and painting by Kojin)",
   "style": "20th century",
   "text": "",
-  "title": "Pine Tree and Moon"
+  "title": "Moon and Pine Tree"
 }

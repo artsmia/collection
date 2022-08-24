@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 797,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Paris 1900",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2008,
+  "display_date": "Thursday, December 20, 2007 - Sunday, March 02, 2008",
+  "public_info": 0,
+  "objects": [
+    7674,
+    8877,
+    40395,
+    65158,
+    66448,
+    75560,
+    75570,
+    83146,
+    103306
+  ],
+  "venues": [
+    {
+      "venue": "Oklahoma City Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Thursday, December 20, 2007 - Sunday, March 02, 2008"
+    }
+  ]
+}
