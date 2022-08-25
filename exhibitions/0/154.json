@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 154,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Gerrit Dou",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Sunday, April 16, 2000 - Sunday, February 25, 2001",
+  "public_info": 0,
+  "objects": [
+    3540
+  ],
+  "venues": [
+    {
+      "venue": "Dulwich Picture Gallery",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Sunday, April 16, 2000 - Sunday, February 25, 2001"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Sunday, April 16, 2000 - Sunday, February 25, 2001"
+    },
+    {
+      "venue": "Royal Cabinet of Paintings, Mauritshuis",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Sunday, April 16, 2000 - Sunday, February 25, 2001"
+    }
+  ]
+}

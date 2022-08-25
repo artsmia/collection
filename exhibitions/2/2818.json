@@ -10,24 +10,5 @@
   "objects": [
     3215
   ],
-  "venues": [
-    {
-      "venue": "Fine Arts Museums of San Francisco, de Young Memorial Musuem",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Saturday, February 27, 2021 - Sunday, January 30, 2022"
-    },
-    {
-      "venue": "High Museum of Art",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Saturday, February 27, 2021 - Sunday, January 30, 2022"
-    },
-    {
-      "venue": "Museum of Fine Arts, Houston",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": "Saturday, February 27, 2021 - Sunday, January 30, 2022"
-    }
-  ]
+  "venues": []
 }
