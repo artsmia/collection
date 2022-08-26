@@ -10,24 +10,5 @@
   "objects": [
     1429
   ],
-  "venues": [
-    {
-      "venue": "Art Institute of Chicago",
-      "begin": 2006,
-      "end": 2007,
-      "display_date": "Wednesday, September 13, 2006 - Friday, August 31, 2007"
-    },
-    {
-      "venue": "Metropolitan Museum of Art",
-      "begin": 2006,
-      "end": 2007,
-      "display_date": "Wednesday, September 13, 2006 - Friday, August 31, 2007"
-    },
-    {
-      "venue": "Musée d'Orsay",
-      "begin": 2006,
-      "end": 2007,
-      "display_date": "Wednesday, September 13, 2006 - Friday, August 31, 2007"
-    }
-  ]
+  "venues": []
 }

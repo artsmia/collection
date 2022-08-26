@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 1431,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Carleton College 1984 to 1988",
+  "exhibition_description": null,
+  "begin": 1984,
+  "end": 1988,
+  "display_date": "Wednesday, August 01, 1984 - Friday, August 19, 1988",
+  "public_info": 0,
+  "objects": [
+    16367,
+    18158,
+    18345,
+    20697
+  ],
+  "venues": [
+    {
+      "venue": "Carleton College",
+      "begin": 1984,
+      "end": 1988,
+      "display_date": "Wednesday, August 01, 1984 - Friday, August 19, 1988"
+    }
+  ]
+}
