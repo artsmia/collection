@@ -11,5 +11,18 @@
     799,
     1978
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "CaixaForum Barcelona",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Tuesday, October 18, 2011 - Sunday, May 20, 2012"
+    },
+    {
+      "venue": "CaixaForum Madrid",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Tuesday, October 18, 2011 - Sunday, May 20, 2012"
+    }
+  ]
 }
