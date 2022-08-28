@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1643,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Gustave Caillebotte: The Painter's Eye",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2016,
+  "display_date": "Sunday, June 28, 2015 - Sunday, February 14, 2016",
+  "public_info": 0,
+  "objects": [
+    1655
+  ],
+  "venues": [
+    {
+      "venue": "Kimball Art Museum",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Sunday, June 28, 2015 - Sunday, February 14, 2016"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Sunday, June 28, 2015 - Sunday, February 14, 2016"
+    }
+  ]
+}
