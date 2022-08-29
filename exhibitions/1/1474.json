@@ -11,5 +11,12 @@
     111895,
     111896
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Richard Sorensen",
+      "begin": 2012,
+      "end": 2012,
+      "display_date": "Friday, April 06, 2012 - Monday, November 05, 2012"
+    }
+  ]
 }
