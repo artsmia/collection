@@ -10,5 +10,12 @@
   "objects": [
     121784
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Modern Art, New York",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Sunday, April 9, 2023 - Saturday, August 12, 2023"
+    }
+  ]
 }
