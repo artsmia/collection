@@ -15,5 +15,12 @@
     122088,
     122156
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Yale University Art Gallery",
+      "begin": 1988,
+      "end": 1988,
+      "display_date": "Wednesday, February 03, 1988 - Monday, April 04, 1988"
+    }
+  ]
 }
