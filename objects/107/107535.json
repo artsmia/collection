@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "7 1/2 x 4 9/16 in. (19.05 x 11.59 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/107535",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6788,
+  "image_width": 4473,
   "inscription": "",
   "life_date": "French, active 1799 - 1831",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

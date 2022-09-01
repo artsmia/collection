@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2374,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "The Art World of Urakami Gyokudo and his sons, Shunkin and Shukin ",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2016,
+  "display_date": "Friday, September 23, 2016 - Sunday, December 18, 2016",
+  "public_info": 0,
+  "objects": [
+    122215,
+    122216
+  ],
+  "venues": [
+    {
+      "venue": "Chiba City Museum of Art",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Friday, September 23, 2016 - Sunday, December 18, 2016"
+    },
+    {
+      "venue": "Okayama Prefectural Museum of Art",
+      "begin": 2016,
+      "end": 2016,
+      "display_date": "Friday, September 23, 2016 - Sunday, December 18, 2016"
+    }
+  ]
+}

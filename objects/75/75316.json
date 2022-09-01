@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "14 x 22 1/4 in. (35.56 x 56.52 cm) (plate)",
   "id": "http://api.artsmia.org/objects/75316",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7300,
+  "image_width": 11025,
   "inscription": "",
   "life_date": "French, 1746–1816",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

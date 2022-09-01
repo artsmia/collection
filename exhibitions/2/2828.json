@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2828,
+  "exhibition_department": null,
+  "exhibition_title": "Ukiyo-e Exhibition",
+  "exhibition_description": null,
+  "begin": 1933,
+  "end": 1933,
+  "display_date": null,
+  "public_info": null,
+  "objects": [
+    8633
+  ],
+  "venues": [
+    {
+      "venue": "Kyoto National Museum",
+      "begin": 1933,
+      "end": 1933,
+      "display_date": null
+    }
+  ]
+}

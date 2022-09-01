@@ -10,5 +10,36 @@
   "objects": [
     79227
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Canton Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "Michele & Donald D'Amour Museum of Fine Arts of the Springfield Museums",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "Oklahoma City Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "Reading Public Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    }
+  ]
 }

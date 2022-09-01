@@ -14,10 +14,10 @@
   "description": "",
   "dimension": "8 9/16 x 6 15/16 in. (21.75 x 17.62 cm) (plate)\r\n10 3/4 x 8 5/8 in. (27.31 x 21.91 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/49939",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8687,
+  "image_width": 7166,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

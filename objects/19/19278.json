@@ -14,10 +14,10 @@
   "description": "No. 88; Vol. I, cahier no. 15",
   "dimension": "9 5/8 x 6 3/4 in. (24.45 x 17.15 cm) (image)",
   "id": "http://api.artsmia.org/objects/19278",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 10196,
+  "image_width": 8197,
   "inscription": "Inscription\r\n[Femme en caraco plissé de taffetas changeant, gorge de pigeon, la garniture en poult de gaze.] on mat",
   "life_date": "French, born 1740",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

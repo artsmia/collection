@@ -14,10 +14,10 @@
   "description": "Folded sheet from fashion periodical (P.15,503); man at left in light green coat holding a walking stick and a tall black hat with a red, white, and blue bow; woman at right holds a fan and is dressed in a white and pink gown with a hat with a large white plume and a bouquet of flowers at the front",
   "dimension": "8 1/4 × 10 1/2 in. (20.96 × 26.67 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/132689",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7146,
+  "image_width": 8725,
   "inscription": "",
   "life_date": "French, 1760–1837",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

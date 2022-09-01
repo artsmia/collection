@@ -14,10 +14,10 @@
   "description": "No. 41; Vol. I, cahier no. 7",
   "dimension": "9 5/8 x 6 13/16 in. (24.45 x 17.3 cm) (sight)",
   "id": "http://api.artsmia.org/objects/19270",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 10121,
+  "image_width": 8145,
   "inscription": "Inscription\r\n[Marchande de modes portant sa marchandise en ville.] on mat",
   "life_date": "French, born 1740",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],
