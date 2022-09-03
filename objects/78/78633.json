@@ -14,10 +14,10 @@
   "description": "Fashion periodical with green paper covers bound with two hand-colored engravings of people in fashionable period dress and one hand-colored engraving of belt buckles",
   "dimension": "8 1/2 × 5 3/8 in. (21.59 × 13.65 cm) (closed)",
   "id": "http://api.artsmia.org/objects/78633",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6583,
+  "image_width": 4384,
   "inscription": "",
   "life_date": "French, 1760–1837",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

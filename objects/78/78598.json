@@ -14,10 +14,10 @@
   "description": "Trifold sheet from fashion periodical (P.15,289); woman at left in a yellow gown with blue and pink striped overgown and a hat with pink ribbon and white plumes; woman in the center in a pink and green gown; woman at right in a white dotted gown, a pink and purple overgown, and a pink and purple hat with a green bow and dark gray plumes",
   "dimension": "8 1/4 × 13 13/16 in. (20.96 × 35.08 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/78598",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6769,
+  "image_width": 10789,
   "inscription": "",
   "life_date": "French, 1760–1837",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

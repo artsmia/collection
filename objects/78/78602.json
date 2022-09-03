@@ -14,10 +14,10 @@
   "description": "Fashion periodical with green paper covers bound with three hand-colored engravings of people in fashionable period dress",
   "dimension": "8 7/16 × 5 5/16 in. (21.43 × 13.49 cm) (closed)",
   "id": "http://api.artsmia.org/objects/78602",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6381,
+  "image_width": 4204,
   "inscription": "",
   "life_date": "French, 1746–1816",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],
