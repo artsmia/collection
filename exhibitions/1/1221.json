@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 1221,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Käthe Kollwitz: Prints with a Purpose",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Friday, August 24, 2001 - Sunday, January 06, 2002",
+  "public_info": 0,
+  "objects": [
+    7380,
+    9064,
+    43882,
+    48837,
+    48838,
+    48851,
+    49664,
+    50023,
+    50033,
+    56190,
+    56194,
+    56200,
+    56243,
+    56244,
+    56245
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, August 24, 2001 - Sunday, January 06, 2002"
+    }
+  ]
+}
