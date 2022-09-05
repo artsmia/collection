@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 1379,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The American Vision",
+  "exhibition_description": null,
+  "begin": 1967,
+  "end": 1969,
+  "display_date": "Saturday, June 17, 1967 - Wednesday, December 17, 1969",
+  "public_info": 0,
+  "objects": [
+    517,
+    1332,
+    18158
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1967,
+      "end": 1969,
+      "display_date": "Saturday, June 17, 1967 - Wednesday, December 17, 1969"
+    }
+  ]
+}
