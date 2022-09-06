@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 946,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Christmas Story",
+  "exhibition_description": null,
+  "begin": 1971,
+  "end": 1972,
+  "display_date": "Saturday, December 11, 1971 - Sunday, January 16, 1972",
+  "public_info": 0,
+  "objects": [
+    50,
+    1843
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1971,
+      "end": 1972,
+      "display_date": "Saturday, December 11, 1971 - Sunday, January 16, 1972"
+    }
+  ]
+}

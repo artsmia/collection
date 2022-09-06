@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1025,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Impressionist Gardens",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Saturday, July 31, 2010 - Monday, February 14, 2011",
+  "public_info": 0,
+  "objects": [
+    77
+  ],
+  "venues": [
+    {
+      "venue": "Museo Thyssen-Bornemisza - Do Not Use",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Saturday, July 31, 2010 - Monday, February 14, 2011"
+    },
+    {
+      "venue": "Scottish National Gallery",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Saturday, July 31, 2010 - Monday, February 14, 2011"
+    }
+  ]
+}
