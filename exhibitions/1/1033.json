@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 1033,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "A Case for Wine from King Tut to Today",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2009,
+  "display_date": "Saturday, July 11, 2009 - Sunday, September 20, 2009",
+  "public_info": 0,
+  "objects": [
+    1451,
+    1524,
+    8522,
+    10398,
+    10399,
+    10400,
+    10401,
+    10402,
+    10403,
+    10404,
+    10405,
+    10406,
+    10407,
+    10408,
+    10409
+  ],
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Saturday, July 11, 2009 - Sunday, September 20, 2009"
+    }
+  ]
+}

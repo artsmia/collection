@@ -10,5 +10,18 @@
   "objects": [
     1358
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Duveen-Graham",
+      "begin": 1957,
+      "end": 1958,
+      "display_date": null
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1957,
+      "end": 1958,
+      "display_date": null
+    }
+  ]
 }

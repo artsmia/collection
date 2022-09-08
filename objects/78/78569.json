@@ -14,10 +14,10 @@
   "description": "From fashion periodical (P.15,218.2); woman with a white gown with yellow and purple striped overgown, a red fan, and a tall green hat with yellow bows with pink floral centers and three tall yellow plumes with brown dots",
   "dimension": "8 7/16 × 5 1/8 in. (21.43 × 13.02 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/78569",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6904,
+  "image_width": 4244,
   "inscription": "",
   "life_date": "French, 1760–1837",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

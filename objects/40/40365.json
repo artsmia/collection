@@ -1,7 +1,7 @@
 {
   "accession_number": "P.98.33.34",
   "art_champions_text": null,
-  "artist": "Artist: Josef Breitner; Printer: Kuk Hopl/J. Weiner, Vienna",
+  "artist": "Artist: Josef Breitner; Printer: K. u. K.  Hofl. Jacob Weiner, Vienna",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "The Modernism Collection, gift of Norwest Bank Minnesota",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1905",
-  "department": "Prints and Drawings",
+  "dated": "1908",
+  "department": "European Art",
   "description": "",
   "dimension": "48 1/2 x 35 1/4 in. (123.2 x 89.5 cm) (sheet)\r\n55 x 42 in. (139.7 x 106.68 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/40365",
@@ -18,8 +18,8 @@
   "image_copyright": "",
   "image_height": "",
   "image_width": "",
-  "inscription": "",
-  "life_date": "Austrian, 1861 - 1927",
+  "inscription": "Printed inscriptions:\r\nULC: WIEN | URC: KARLS / PLATZ 5\\\" | LC: JUBILÄUMS / AUSSTELLUNG / KÜNSTLERHAUS | LLC: JOS. BREITNER | lower margin:  K.u.K.HOFL..J.WEINER, WIEN",
+  "life_date": "Austrian, 1864 - 1930",
   "markings": "",
   "medium": "Color lithograph",
   "nationality": "Austrian",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Jubiläumns: Ausstellung Künsterlehaus"
+  "title": "Jubiläumnsausstellung Künsterlehaus"
 }

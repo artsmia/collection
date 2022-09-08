@@ -1,0 +1,47 @@
+{
+  "exhibition_id": 2502,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Napoleon: The Imperial Household",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Saturday, February 03, 2018 - Monday, July 15, 2019",
+  "public_info": 0,
+  "objects": [
+    2802,
+    5055,
+    9762,
+    9765,
+    10194,
+    10195,
+    10211,
+    10212,
+    10213
+  ],
+  "venues": [
+    {
+      "venue": "Montreal Museum of Fine Arts",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, February 03, 2018 - Monday, July 15, 2019"
+    },
+    {
+      "venue": "Musee national du Chateau de Fontainebleau",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, February 03, 2018 - Monday, July 15, 2019"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, February 03, 2018 - Monday, July 15, 2019"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Saturday, February 03, 2018 - Monday, July 15, 2019"
+    }
+  ]
+}

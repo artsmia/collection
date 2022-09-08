@@ -14,10 +14,10 @@
   "description": "From fashion periodical (P.15,218.2); man with green breeches and coat, a sword at his side, and a black hat tucked under one arm",
   "dimension": "8 7/16 × 5 1/8 in. (21.43 × 13.02 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/78570",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6860,
+  "image_width": 4312,
   "inscription": "",
   "life_date": "French, 1760–1837",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

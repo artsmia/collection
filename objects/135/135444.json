@@ -14,10 +14,10 @@
   "description": "Fashion periodical in blue paper covers (P.15,523) bound with folded music sheet (P.15,524) with score on both recto and verso of plate; includes a hand-colored engraving with two women in fashionable dress of the period (P.15,521-P.15,522)",
   "dimension": "8 1/4 × 10 in. (20.96 × 25.4 cm) (sheet)\r\n8 1/2 × 5 1/2 in. (21.59 × 13.97 cm) (closed)",
   "id": "http://api.artsmia.org/objects/135444",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6878,
+  "image_width": 8136,
   "inscription": "",
   "life_date": "French, 1760–1837",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

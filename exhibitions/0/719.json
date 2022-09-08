@@ -10,5 +10,18 @@
   "objects": [
     1387
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Miami Art Museum",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, February 17, 2007 - Sunday, September 16, 2007"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, February 17, 2007 - Sunday, September 16, 2007"
+    }
+  ]
 }
