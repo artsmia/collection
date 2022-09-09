@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2707,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Millet and Modern Art: From Van Gogh to Dali",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, October 04, 2019 - Monday, September 07, 2020",
+  "public_info": 0,
+  "objects": [
+    800
+  ],
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 04, 2019 - Monday, September 07, 2020"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 04, 2019 - Monday, September 07, 2020"
+    }
+  ]
+}
