@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2320,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Della Robbia: Sculpting with Color in Renaissance Florence",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2017,
+  "display_date": "Tuesday, August 09, 2016 - Sunday, June 04, 2017",
+  "public_info": 0,
+  "objects": [
+    57
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Tuesday, August 09, 2016 - Sunday, June 04, 2017"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Tuesday, August 09, 2016 - Sunday, June 04, 2017"
+    }
+  ]
+}
