@@ -1,0 +1,45 @@
+{
+  "exhibition_id": 1373,
+  "exhibition_department": "Historic: Contemporary Art",
+  "exhibition_title": "Lifelike",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2014,
+  "display_date": "Saturday, February 25, 2012 - Sunday, May 18, 2014",
+  "public_info": 0,
+  "objects": [
+    109123
+  ],
+  "venues": [
+    {
+      "venue": "Jack S. Blanton Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, February 25, 2012 - Sunday, May 18, 2014"
+    },
+    {
+      "venue": "Museum of Contemporary Art San Diego",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, February 25, 2012 - Sunday, May 18, 2014"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, February 25, 2012 - Sunday, May 18, 2014"
+    },
+    {
+      "venue": "Phoenix Art Museum",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, February 25, 2012 - Sunday, May 18, 2014"
+    },
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, February 25, 2012 - Sunday, May 18, 2014"
+    }
+  ]
+}
