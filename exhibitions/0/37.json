@@ -11,5 +11,18 @@
     1163,
     10444
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "National Gallery",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Wednesday, November 01, 2000 - Saturday, September 08, 2001"
+    },
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Wednesday, November 01, 2000 - Saturday, September 08, 2001"
+    }
+  ]
 }
