@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 1286,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Earth, Water, Fire",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2011,
+  "display_date": "Friday, October 28, 2011 - Sunday, December 11, 2011",
+  "public_info": 0,
+  "objects": [
+    3073,
+    3241,
+    5214,
+    12877,
+    24322,
+    24324,
+    24510,
+    96615,
+    96616
+  ],
+  "venues": [
+    {
+      "venue": "Flaten Art Museum",
+      "begin": 2011,
+      "end": 2011,
+      "display_date": "Friday, October 28, 2011 - Sunday, December 11, 2011"
+    }
+  ]
+}

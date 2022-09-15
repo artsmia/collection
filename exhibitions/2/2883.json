@@ -10,5 +10,18 @@
   "objects": [
     1218
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 17, 2021 - Sunday, June 12, 2022"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 17, 2021 - Sunday, June 12, 2022"
+    }
+  ]
 }

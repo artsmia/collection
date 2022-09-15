@@ -56,18 +56,5 @@
     123201,
     123202
   ],
-  "venues": [
-    {
-      "venue": "Kalamazoo Institute of Arts",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Saturday, December 14, 2019 - Sunday, July 19, 2020"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2019,
-      "end": 2020,
-      "display_date": "Saturday, December 14, 2019 - Sunday, July 19, 2020"
-    }
-  ]
+  "venues": []
 }
