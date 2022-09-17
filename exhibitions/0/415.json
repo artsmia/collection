@@ -1,0 +1,48 @@
+{
+  "exhibition_id": 415,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Our Noble Steeds",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2004,
+  "display_date": "2004",
+  "public_info": 0,
+  "objects": [
+    479,
+    790,
+    1187,
+    1265,
+    1732,
+    2607,
+    8216,
+    9234,
+    11585,
+    11610,
+    11975,
+    12356,
+    17125,
+    17506,
+    17535,
+    17554,
+    17646,
+    17818,
+    18346,
+    18428,
+    18505,
+    18675,
+    19183,
+    19189,
+    19209,
+    19415,
+    21232,
+    21275
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "2004"
+    }
+  ]
+}

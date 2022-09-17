@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 424,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Retrospective Berthe Morisot",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2002,
+  "display_date": "Friday, March 08, 2002 - Tuesday, November 19, 2002",
+  "public_info": 0,
+  "objects": [
+    10444
+  ],
+  "venues": [
+    {
+      "venue": "Fondation Pierre Gianadda",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Friday, March 08, 2002 - Tuesday, November 19, 2002"
+    },
+    {
+      "venue": "Palais des Beaux-Arts de Lille",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Friday, March 08, 2002 - Tuesday, November 19, 2002"
+    }
+  ]
+}
