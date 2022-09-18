@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2466,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "A New American Sculpture: Gaston Lachaise, Robert Laurent, Elie Nadelman, and William Zorach",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Tuesday, May 23, 2017 - Sunday, May 13, 2018",
+  "public_info": 0,
+  "objects": [
+    98693
+  ],
+  "venues": [
+    {
+      "venue": "Amon Carter Museum of American Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Tuesday, May 23, 2017 - Sunday, May 13, 2018"
+    },
+    {
+      "venue": "Memphis Brooks Museum of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Tuesday, May 23, 2017 - Sunday, May 13, 2018"
+    },
+    {
+      "venue": "Portland Museum of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Tuesday, May 23, 2017 - Sunday, May 13, 2018"
+    }
+  ]
+}

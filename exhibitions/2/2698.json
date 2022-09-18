@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2698,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "David Wojnarowicz: History Keeps Me Awake at Night",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Tuesday, May 28, 2019 - Sunday, February 09, 2020",
+  "public_info": 0,
+  "objects": [
+    131339
+  ],
+  "venues": [
+    {
+      "venue": "Museo Nacional Centro de Arte Reina Sofia",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Tuesday, May 28, 2019 - Sunday, February 09, 2020"
+    },
+    {
+      "venue": "Musée d'Art Moderne Grand-Duc Jean, Luxembourg",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Tuesday, May 28, 2019 - Sunday, February 09, 2020"
+    }
+  ]
+}
