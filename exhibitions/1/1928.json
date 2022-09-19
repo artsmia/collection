@@ -1,0 +1,63 @@
+{
+  "exhibition_id": 1928,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "A Selection of Japanese Art from the Mary and Jackson Burke Collection",
+  "exhibition_description": null,
+  "begin": 1985,
+  "end": 1985,
+  "display_date": "Tuesday, May 21, 1985 - Sunday, December 01, 1985",
+  "public_info": 0,
+  "objects": [
+    6615,
+    6632,
+    99427,
+    122070,
+    122073,
+    122099,
+    122102,
+    122103,
+    122159,
+    122160,
+    122182,
+    122212,
+    122353,
+    122423,
+    122483,
+    122484,
+    122489,
+    122502,
+    122963
+  ],
+  "venues": [
+    {
+      "venue": "Hamamatsu City Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, May 21, 1985 - Sunday, December 01, 1985"
+    },
+    {
+      "venue": "Ishikawa Prefectural Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, May 21, 1985 - Sunday, December 01, 1985"
+    },
+    {
+      "venue": "MOA Museum of Art, Atami",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, May 21, 1985 - Sunday, December 01, 1985"
+    },
+    {
+      "venue": "Nagoya City Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, May 21, 1985 - Sunday, December 01, 1985"
+    },
+    {
+      "venue": "Tokyo National Museum",
+      "begin": 1985,
+      "end": 1985,
+      "display_date": "Tuesday, May 21, 1985 - Sunday, December 01, 1985"
+    }
+  ]
+}

@@ -29,12 +29,5 @@
     140151,
     140152
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2021,
-      "end": 0,
-      "display_date": null
-    }
-  ]
+  "venues": []
 }
