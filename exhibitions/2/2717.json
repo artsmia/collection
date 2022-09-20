@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2717,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Edward Steichen: In Exaltation of Flowers",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, September 20, 2019 - Sunday, January 12, 2020",
+  "public_info": 0,
+  "objects": [
+    1710,
+    10712,
+    19434,
+    19439,
+    19444,
+    19481,
+    19530,
+    19535,
+    23294,
+    23295,
+    23317,
+    23347,
+    82800
+  ],
+  "venues": [
+    {
+      "venue": "Mennello Museum of American Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, September 20, 2019 - Sunday, January 12, 2020"
+    }
+  ]
+}

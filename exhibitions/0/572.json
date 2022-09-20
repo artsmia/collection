@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 572,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "Beauty, Honor, and Tradition: The Legacy of Plains Indian Shirts",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2004,
+  "display_date": "Sunday, December 10, 2000 - Sunday, May 16, 2004",
+  "public_info": 0,
+  "objects": [
+    81596,
+    91750
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2004,
+      "display_date": "Sunday, December 10, 2000 - Sunday, May 16, 2004"
+    },
+    {
+      "venue": "National Museum of the American Indian",
+      "begin": 2000,
+      "end": 2004,
+      "display_date": "Sunday, December 10, 2000 - Sunday, May 16, 2004"
+    }
+  ]
+}
