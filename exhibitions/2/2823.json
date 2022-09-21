@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2823,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Beyond Bollywood: 2000 Years of Dance in Art",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Friday, November 11, 2022 - Monday, July 10, 2023",
+  "public_info": 0,
+  "objects": [
+    119522
+  ],
+  "venues": [
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Friday, November 11, 2022 - Monday, July 10, 2023"
+    },
+    {
+      "venue": "Cincinnati Art Museum",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Friday, November 11, 2022 - Monday, July 10, 2023"
+    }
+  ]
+}

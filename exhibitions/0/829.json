@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 829,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Il Secolo del Jazz",
+  "exhibition_description": null,
+  "begin": 2008,
+  "end": 2009,
+  "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009",
+  "public_info": 0,
+  "objects": [
+    3885
+  ],
+  "venues": [
+    {
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009"
+    },
+    {
+      "venue": "Museo di Arte Moderna e Contemporanea di Trento e Rovereto",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009"
+    },
+    {
+      "venue": "Musée du Quai Branly",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Saturday, November 15, 2008 - Sunday, October 18, 2009"
+    }
+  ]
+}
