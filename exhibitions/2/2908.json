@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2908,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Pablo Picasso: Imitation, Transformation, Innovation",
+  "exhibition_description": null,
+  "begin": 2024,
+  "end": 2025,
+  "display_date": "Sunday, September 15, 2024 - Sunday, June 8, 2025",
+  "public_info": 0,
+  "objects": [
+    773
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Sunday, September 15, 2024 - Sunday, June 8, 2025"
+    },
+    {
+      "venue": "Portland Art Museum",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Sunday, September 15, 2024 - Sunday, June 8, 2025"
+    }
+  ]
+}

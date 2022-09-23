@@ -14,5 +14,42 @@
     97701,
     97702
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Arizona State University Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Memorial Art Gallery",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Philadelphia Art Alliance",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Racine Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Reading Public Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Renwick Gallery of the Smithsonian American Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    }
+  ]
 }
