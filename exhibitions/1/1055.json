@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1055,
+  "exhibition_department": null,
+  "exhibition_title": "Mondrian",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Wednesday, December 01, 2010 - Wednesday, March 30, 2011",
+  "public_info": null,
+  "objects": [
+    1595
+  ],
+  "venues": [
+    {
+      "venue": "Centre Georges Pompidou",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Wednesday, December 01, 2010 - Wednesday, March 30, 2011"
+    }
+  ]
+}
