@@ -1,0 +1,31 @@
+{
+  "exhibition_id": 2515,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Cult of the Machine",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2018,
+  "display_date": "Saturday, March 24, 2018 - Sunday, August 12, 2018",
+  "public_info": 0,
+  "objects": [
+    2725,
+    83506,
+    101773,
+    111507,
+    121790
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Saturday, March 24, 2018 - Sunday, August 12, 2018"
+    },
+    {
+      "venue": "Fine Arts Museums of San Francisco",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Saturday, March 24, 2018 - Sunday, August 12, 2018"
+    }
+  ]
+}
