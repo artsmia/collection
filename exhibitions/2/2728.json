@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2728,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Art and Race Matters: The Career of Robert Colescott",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, September 20, 2019 - Sunday, December 13, 2020",
+  "public_info": 0,
+  "objects": [
+    129571,
+    129572
+  ],
+  "venues": [
+    {
+      "venue": "Contemporary Arts Center",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, September 20, 2019 - Sunday, December 13, 2020"
+    },
+    {
+      "venue": "Portland Art Museum",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, September 20, 2019 - Sunday, December 13, 2020"
+    }
+  ]
+}

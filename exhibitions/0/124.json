@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 124,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Sol LeWitt: Incomplete Open Cubes",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2001,
+  "display_date": "Saturday, January 27, 2001 - Sunday, December 30, 2001",
+  "public_info": 0,
+  "objects": [
+    2210
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, January 27, 2001 - Sunday, December 30, 2001"
+    },
+    {
+      "venue": "Colby College Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, January 27, 2001 - Sunday, December 30, 2001"
+    },
+    {
+      "venue": "Wadsworth Atheneum Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, January 27, 2001 - Sunday, December 30, 2001"
+    }
+  ]
+}

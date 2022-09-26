@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2562,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Eyewitness Views: Making History in 18th-Century Europe",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2017,
+  "display_date": "Sunday, September 10, 2017 - Sunday, December 31, 2017",
+  "public_info": 0,
+  "objects": [
+    1673
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, September 10, 2017 - Sunday, December 31, 2017"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2017,
+      "end": 2017,
+      "display_date": "Sunday, September 10, 2017 - Sunday, December 31, 2017"
+    }
+  ]
+}

@@ -43,5 +43,24 @@
     121111,
     125640
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": null
+    },
+    {
+      "venue": "The Society of the Four Arts",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": null
+    },
+    {
+      "venue": "Venue to be determined",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": null
+    }
+  ]
 }

@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1588,
+  "exhibition_department": "Historic: Contemporary Art",
+  "exhibition_title": "Witness: Art and Civil Rights in the Sixties",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2015,
+  "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015",
+  "public_info": 0,
+  "objects": [
+    3885
+  ],
+  "venues": [
+    {
+      "venue": "Brooklyn Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015"
+    },
+    {
+      "venue": "Hood Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015"
+    },
+    {
+      "venue": "Jack S. Blanton Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015"
+    }
+  ]
+}
