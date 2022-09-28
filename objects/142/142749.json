@@ -14,10 +14,10 @@
   "description": "",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/142749",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7936,
+  "image_width": 5839,
   "inscription": "",
   "life_date": "American (born Germany), 1880–1966",
   "markings": "",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed and dated, LR:  hans hofmann VII 3 45",
   "style": "20th century",
   "text": "",
   "title": "Capriccio"

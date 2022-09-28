@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2930,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Pressing Innovation: Printing Fine Art in the Upper Midwest",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2022,
+  "display_date": "Monday, February 14, 2022 - Sunday, May 15, 2022",
+  "public_info": 0,
+  "objects": [
+    7629,
+    7631,
+    7825,
+    58524,
+    58751,
+    59289,
+    95241,
+    137404,
+    137489,
+    137498,
+    137512,
+    137556,
+    137558
+  ],
+  "venues": [
+    {
+      "venue": "Chazen Museum of Art",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": "Monday, February 14, 2022 - Sunday, May 15, 2022"
+    }
+  ]
+}
