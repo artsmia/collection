@@ -10,5 +10,24 @@
   "objects": [
     1234
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Tuesday, July 03, 2007 - Sunday, May 11, 2008"
+    },
+    {
+      "venue": "The Phillips Collection",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Tuesday, July 03, 2007 - Sunday, May 11, 2008"
+    },
+    {
+      "venue": "Wadsworth Atheneum Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Tuesday, July 03, 2007 - Sunday, May 11, 2008"
+    }
+  ]
 }

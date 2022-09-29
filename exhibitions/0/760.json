@@ -46,5 +46,12 @@
     89379,
     89385
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "James Ford Bell Museum of Natural History",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Saturday, May 13, 2006 - Sunday, August 27, 2006"
+    }
+  ]
 }

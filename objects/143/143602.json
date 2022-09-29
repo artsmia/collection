@@ -1,5 +1,5 @@
 {
-  "accession_number": "2022.43.1-6",
+  "accession_number": "2022.43.1",
   "art_champions_text": null,
   "artist": "Artist: Shelley Niro",
   "catalogue_raissonne": null,
@@ -11,20 +11,20 @@
   "curator_approved": 0,
   "dated": "2012",
   "department": "Global Contemporary Art",
-  "description": "",
-  "dimension": "40 × 60 × 6 in. (101.6 × 152.4 × 15.2 cm) (each)",
+  "description": "color photograph; four quadrants, each depicting image of sleeping figures lying on chaise lounges, surrounded by different backgrounds; red horizontal borders at T and B edges of image",
+  "dimension": "39 3/4 × 59 11/16 in. (101 × 151.6 cm) (image)\r\n50 1/4 × 70 3/8 × 3/4 in. (127.6 × 178.8 × 1.9 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/143602",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
-  "inscription": "",
+  "image_height": 1800,
+  "image_width": 2400,
+  "inscription": "LLC, in black ink: 1/1 | BC, in black ink: Four Directions of Warrior",
   "life_date": "American (Bay of Quinte Mohawk Six Nations Turtle clan), born 1954",
   "markings": "",
-  "medium": "Six digital photographs",
+  "medium": "Digital photograph",
   "nationality": "American",
   "object_name": "Photographs",
-  "portfolio": "From ",
+  "portfolio": "From Sleeping Warrior Series",
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "LRC, in black ink: Shelley Niro 2012",
   "style": "21st century",
   "text": "",
-  "title": "Sleeping Warrior"
+  "title": "Four Directions of Warrior"
 }
