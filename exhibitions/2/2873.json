@@ -10,5 +10,12 @@
   "objects": [
     8567
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Takashimaya",
+      "begin": 1961,
+      "end": 1961,
+      "display_date": null
+    }
+  ]
 }
