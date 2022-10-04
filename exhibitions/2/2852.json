@@ -10,5 +10,18 @@
   "objects": [
     1670
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "CaixaForum Barcelona",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, September 14, 2021 - Sunday, June 05, 2022"
+    },
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, September 14, 2021 - Sunday, June 05, 2022"
+    }
+  ]
 }

@@ -10,5 +10,18 @@
   "objects": [
     12069
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Monday, September 15, 2003 - Friday, April 23, 2004"
+    },
+    {
+      "venue": "Musée du Louvre",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Monday, September 15, 2003 - Friday, April 23, 2004"
+    }
+  ]
 }
