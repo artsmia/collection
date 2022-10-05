@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 2634,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Matisse and Picasso",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, December 13, 2019 - Monday, April 13, 2020",
+  "public_info": 0,
+  "objects": [
+    766,
+    1423
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery of Australia",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, December 13, 2019 - Monday, April 13, 2020"
+    }
+  ]
+}
