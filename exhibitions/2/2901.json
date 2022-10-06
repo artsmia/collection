@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2901,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Winslow Homer: Crosscurrents",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Monday, April 04, 2022 - Sunday, January 08, 2023",
+  "public_info": 0,
+  "objects": [
+    120525
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Monday, April 04, 2022 - Sunday, January 08, 2023"
+    },
+    {
+      "venue": "National Gallery",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Monday, April 04, 2022 - Sunday, January 08, 2023"
+    }
+  ]
+}

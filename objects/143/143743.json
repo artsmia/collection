@@ -14,10 +14,10 @@
   "description": "color photograph; two figures with dark hair wearing blue shirts, standing in front of bookshelves; figures reach toward a single book with PL hands; white frame",
   "dimension": "29 × 35 1/2 in. (73.7 × 90.2 cm) (sight)\r\n30 3/4 × 37 5/16 × 1 1/4 in. (78.1 × 94.8 × 3.2 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/143743",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1481,
+  "image_width": 1778,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -27,7 +27,7 @@
   "portfolio": "From Derelict Self",
   "provenance": "",
   "restricted": 1,
-  "rights_type": "Copyright Not Evaluated",
+  "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "21st century",
   "text": "",
-  "title": "Untitled (bathroom)"
+  "title": "Untitled (library)"
 }

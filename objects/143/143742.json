@@ -14,10 +14,10 @@
   "description": "color photograph; two figures wearing matching white button-up shirts, engaging in a physical altercation, lying on ground covered in woodchips; grass and trees in background",
   "dimension": "35 9/16 × 29 in. (90.3 × 73.7 cm) (sight)\r\n37 3/8 × 30 7/8 × 1 1/4 in. (94.9 × 78.4 × 3.2 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/143742",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1711,
+  "image_width": 1400,
   "inscription": "",
   "life_date": null,
   "markings": "",
@@ -27,7 +27,7 @@
   "portfolio": "From Derelict Self",
   "provenance": "",
   "restricted": 1,
-  "rights_type": "Copyright Not Evaluated",
+  "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "21st century",
   "text": "",
-  "title": "Untitled (bathroom)"
+  "title": "Untitled (woodchips)"
 }
