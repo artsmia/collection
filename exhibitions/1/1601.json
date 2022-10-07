@@ -1,0 +1,45 @@
+{
+  "exhibition_id": 1601,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Intent to Deceive: Fakes and Forgeries in the Art World",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2015,
+  "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015",
+  "public_info": 0,
+  "objects": [
+    79227
+  ],
+  "venues": [
+    {
+      "venue": "Canton Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "Michele & Donald D'Amour Museum of Fine Arts of the Springfield Museums",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "Oklahoma City Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    },
+    {
+      "venue": "Reading Public Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Tuesday, January 21, 2014 - Sunday, September 06, 2015"
+    }
+  ]
+}
