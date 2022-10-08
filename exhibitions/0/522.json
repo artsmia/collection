@@ -1,0 +1,42 @@
+{
+  "exhibition_id": 522,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Constable to Delacroix: British Art and the French Romantics 1820-1840",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Thursday, February 06, 2003 - Sunday, January 04, 2004",
+  "public_info": 0,
+  "objects": [
+    1741,
+    1978,
+    3077,
+    3744,
+    4398,
+    5748,
+    60157,
+    65029,
+    65195,
+    65390
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Thursday, February 06, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Thursday, February 06, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Thursday, February 06, 2003 - Sunday, January 04, 2004"
+    }
+  ]
+}

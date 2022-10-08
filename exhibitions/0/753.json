@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 753,
+  "exhibition_department": null,
+  "exhibition_title": "Millais",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2008,
+  "display_date": "Wednesday, September 26, 2007 - Sunday, January 13, 2008",
+  "public_info": null,
+  "objects": [
+    1738
+  ],
+  "venues": [
+    {
+      "venue": "Tate Britain",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Wednesday, September 26, 2007 - Sunday, January 13, 2008"
+    }
+  ]
+}
