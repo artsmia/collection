@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 808,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Alexander Roslin",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2008,
+  "display_date": "Thursday, September 27, 2007 - Sunday, May 18, 2008",
+  "public_info": 0,
+  "objects": [
+    99368
+  ],
+  "venues": [
+    {
+      "venue": "Château de Versailles",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Thursday, September 27, 2007 - Sunday, May 18, 2008"
+    },
+    {
+      "venue": "Nationalmuseum",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Thursday, September 27, 2007 - Sunday, May 18, 2008"
+    }
+  ]
+}

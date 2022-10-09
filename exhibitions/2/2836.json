@@ -1,0 +1,42 @@
+{
+  "exhibition_id": 2836,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Bob Thompson: This House is Mine",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2023,
+  "display_date": "Saturday, July 10, 2021 - Sunday, January 08, 2023",
+  "public_info": 0,
+  "objects": [
+    3885,
+    121757,
+    121785,
+    121989
+  ],
+  "venues": [
+    {
+      "venue": "Colby College Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Saturday, July 10, 2021 - Sunday, January 08, 2023"
+    },
+    {
+      "venue": "Hammer Museum of Art and Cultural Arts Center",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Saturday, July 10, 2021 - Sunday, January 08, 2023"
+    },
+    {
+      "venue": "High Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Saturday, July 10, 2021 - Sunday, January 08, 2023"
+    },
+    {
+      "venue": "Smart Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Saturday, July 10, 2021 - Sunday, January 08, 2023"
+    }
+  ]
+}

@@ -10,24 +10,5 @@
   "objects": [
     2607
   ],
-  "venues": [
-    {
-      "venue": "Amon Carter Museum of American Art",
-      "begin": 2021,
-      "end": 2023,
-      "display_date": "Friday, October 8, 2021 - Monday, February 27, 2023"
-    },
-    {
-      "venue": "Mystic Seaport Museum",
-      "begin": 2021,
-      "end": 2023,
-      "display_date": "Friday, October 8, 2021 - Monday, February 27, 2023"
-    },
-    {
-      "venue": "Smithsonian American Art Museum",
-      "begin": 2021,
-      "end": 2023,
-      "display_date": "Friday, October 8, 2021 - Monday, February 27, 2023"
-    }
-  ]
+  "venues": []
 }
