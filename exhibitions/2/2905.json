@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2905,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Frank Bowling: Americas, 1966-75",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Saturday, October 22, 2022 - Monday, September 4, 2023",
+  "public_info": 0,
+  "objects": [
+    129704
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, October 22, 2022 - Monday, September 4, 2023"
+    },
+    {
+      "venue": "San Francisco Museum of Modern Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, October 22, 2022 - Monday, September 4, 2023"
+    }
+  ]
+}
