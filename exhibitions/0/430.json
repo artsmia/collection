@@ -1,0 +1,45 @@
+{
+  "exhibition_id": 430,
+  "exhibition_department": "Historic: Photography & New Media",
+  "exhibition_title": "Masters of American Photography",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Friday, September 21, 2001 - Wednesday, January 02, 2002",
+  "public_info": 0,
+  "objects": [
+    1718,
+    1770,
+    1847,
+    1902,
+    1922,
+    1973,
+    2044,
+    2320,
+    2977,
+    3448,
+    3516,
+    3754,
+    3757,
+    3845,
+    4831,
+    10670,
+    10712,
+    10749,
+    10809,
+    11286,
+    11330,
+    11914,
+    19662,
+    19821,
+    43378
+  ],
+  "venues": [
+    {
+      "venue": "William S. Fairfield Public Gallery",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, September 21, 2001 - Wednesday, January 02, 2002"
+    }
+  ]
+}
