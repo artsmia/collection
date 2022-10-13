@@ -11,5 +11,12 @@
     122058,
     122412
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Japan Society",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Monday, March 22, 1999 - Sunday, July 11, 1999"
+    }
+  ]
 }

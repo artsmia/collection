@@ -12,5 +12,12 @@
     122107,
     123101
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 1987,
+      "end": 2015,
+      "display_date": "Tuesday, March 03, 1987 - Sunday, June 07, 2015"
+    }
+  ]
 }

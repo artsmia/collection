@@ -43,5 +43,30 @@
     89686,
     96009
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Crow Collection of Asian Art",
+      "begin": 2005,
+      "end": 2009,
+      "display_date": "Saturday, March 05, 2005 - Sunday, March 08, 2009"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2005,
+      "end": 2009,
+      "display_date": "Saturday, March 05, 2005 - Sunday, March 08, 2009"
+    },
+    {
+      "venue": "Morikami Museum and Japanese Gardens",
+      "begin": 2005,
+      "end": 2009,
+      "display_date": "Saturday, March 05, 2005 - Sunday, March 08, 2009"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2005,
+      "end": 2009,
+      "display_date": "Saturday, March 05, 2005 - Sunday, March 08, 2009"
+    }
+  ]
 }
