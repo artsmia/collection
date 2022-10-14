@@ -1,0 +1,55 @@
+{
+  "exhibition_id": 1561,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Infinite Place: The Ceramic Art of Wayne Higby",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2015,
+  "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015",
+  "public_info": 0,
+  "objects": [
+    2888,
+    97699,
+    97700,
+    97701,
+    97702
+  ],
+  "venues": [
+    {
+      "venue": "Arizona State University Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Memorial Art Gallery",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Philadelphia Art Alliance",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Racine Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Reading Public Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    },
+    {
+      "venue": "Renwick Gallery of the Smithsonian American Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Friday, April 19, 2013 - Sunday, March 29, 2015"
+    }
+  ]
+}

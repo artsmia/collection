@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 428,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "El Greco",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Tuesday, October 07, 2003 - Sunday, May 23, 2004",
+  "public_info": 0,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Tuesday, October 07, 2003 - Sunday, May 23, 2004"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Tuesday, October 07, 2003 - Sunday, May 23, 2004"
+    }
+  ]
+}
