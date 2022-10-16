@@ -11,5 +11,18 @@
     578,
     121826
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Chrysler Museum of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Friday, February 12, 2021 - Sunday, October 03, 2021"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Friday, February 12, 2021 - Sunday, October 03, 2021"
+    }
+  ]
 }

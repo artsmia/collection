@@ -41,18 +41,5 @@
     136910,
     137758
   ],
-  "venues": [
-    {
-      "venue": "Baker Museum",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": null
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2021,
-      "end": 2022,
-      "display_date": null
-    }
-  ]
+  "venues": []
 }
