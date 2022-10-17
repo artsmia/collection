@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 27,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "Soul of the Clay: An Exhibit of Prehistoric Ceramics",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1996,
+  "display_date": "Thursday, October 26, 1995 - Saturday, January 20, 1996",
+  "public_info": 0,
+  "objects": [
+    1874,
+    8915,
+    17200,
+    17414,
+    21565
+  ],
+  "venues": [
+    {
+      "venue": "Eide/Dalrymple Gallery",
+      "begin": 1995,
+      "end": 1996,
+      "display_date": "Thursday, October 26, 1995 - Saturday, January 20, 1996"
+    }
+  ]
+}

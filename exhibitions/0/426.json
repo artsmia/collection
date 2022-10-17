@@ -10,18 +10,5 @@
   "objects": [
     1353
   ],
-  "venues": [
-    {
-      "venue": "Mobile Museum of Art",
-      "begin": 2002,
-      "end": 2003,
-      "display_date": "Friday, September 06, 2002 - Sunday, April 27, 2003"
-    },
-    {
-      "venue": "Norton Museum of Art",
-      "begin": 2002,
-      "end": 2003,
-      "display_date": "Friday, September 06, 2002 - Sunday, April 27, 2003"
-    }
-  ]
+  "venues": []
 }
