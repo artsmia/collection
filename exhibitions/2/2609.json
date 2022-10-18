@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2609,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Governor's Residence 2018-2020",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2020,
+  "display_date": "Wednesday, August 01, 2018 - Monday, August 31, 2020",
+  "public_info": 0,
+  "objects": [
+    737,
+    18157,
+    34473,
+    45081,
+    45538
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2018,
+      "end": 2020,
+      "display_date": "Wednesday, August 01, 2018 - Monday, August 31, 2020"
+    }
+  ]
+}

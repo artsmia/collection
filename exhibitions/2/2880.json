@@ -10,5 +10,12 @@
   "objects": [
     109582
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Monday, March 27, 2023 - Sunday, July 16, 2023"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "P.92.6.6",
   "art_champions_text": null,
-  "artist": "Artist: T.L. Solien",
+  "artist": "Artist: T.L. Solien; Printer: Vermillion Editions Limited, Minneapolis; Publisher: Vermillion Editions Limited, Minneapolis",
   "catalogue_raissonne": "VEL 254",
   "classification": " Prints",
   "continent": "North America",
@@ -18,14 +18,14 @@
   "image_copyright": "© T. L. Solien",
   "image_height": 3761,
   "image_width": 3768,
-  "inscription": "Signed, Dated, Numbered, and Chop Mark\r\n\r\nLL: AP 4/6",
+  "inscription": "\r\n",
   "life_date": "American, born 1949",
-  "markings": "LC:  VEL Chop Mark",
-  "medium": "Etching, aquatint, spit bite, and color lithograph",
+  "markings": "LL: AP 4/6\r\nLC, publisher\\'s blindstamp: VEL",
+  "medium": "Color etching, aquatint, and spit bite",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "Vermillion Editions Limited, Mpls.",
+  "provenance": "Vermillion Editions Limited, Minneapolis (publisher); sold to MIA, 1992.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -39,5 +39,5 @@
   "signed": "LR: T.L. Solien 1985-90",
   "style": "20th century",
   "text": "",
-  "title": "Untitled"
+  "title": "Untitled (Sailboat at anchor)"
 }
