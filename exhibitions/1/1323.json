@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1323,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Revealing the African Presence in Renaissance Europe",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2013,
+  "display_date": "Sunday, October 14, 2012 - Sunday, June 09, 2013",
+  "public_info": 0,
+  "objects": [
+    109582
+  ],
+  "venues": [
+    {
+      "venue": "Princeton University Art Museum",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Sunday, October 14, 2012 - Sunday, June 09, 2013"
+    },
+    {
+      "venue": "Walters Art Museum",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Sunday, October 14, 2012 - Sunday, June 09, 2013"
+    }
+  ]
+}

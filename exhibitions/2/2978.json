@@ -10,5 +10,12 @@
   "objects": [
     127306
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Arkansas Museum of Fine Arts",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": null
+    }
+  ]
 }
