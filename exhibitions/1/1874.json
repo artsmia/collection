@@ -1,0 +1,77 @@
+{
+  "exhibition_id": 1874,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Enduring Legacy of Japanese Art: The Mary Griggs Burke Collection",
+  "exhibition_description": null,
+  "begin": 2005,
+  "end": 2006,
+  "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006",
+  "public_info": 0,
+  "objects": [
+    6612,
+    6622,
+    6923,
+    37189,
+    121302,
+    122058,
+    122076,
+    122099,
+    122102,
+    122103,
+    122109,
+    122110,
+    122115,
+    122120,
+    122122,
+    122156,
+    122159,
+    122160,
+    122167,
+    122188,
+    122203,
+    122204,
+    122215,
+    122216,
+    122243,
+    122244,
+    122262,
+    122266,
+    122353,
+    122374,
+    122377,
+    122378,
+    122389,
+    122403,
+    122425,
+    122427,
+    122434,
+    122441,
+    122509
+  ],
+  "venues": [
+    {
+      "venue": "Hiroshima Prefectural Museum of Art",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
+    },
+    {
+      "venue": "Miho Museum",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
+    },
+    {
+      "venue": "Museum of Fine Arts, Gifu",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
+    },
+    {
+      "venue": "Tokyo Metropolitan Art Museum",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Tuesday, July 05, 2005 - Sunday, June 11, 2006"
+    }
+  ]
+}

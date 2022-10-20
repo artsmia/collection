@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 2500,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Jean-Francois Millet (1814-1875)",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Thursday, October 12, 2017 - Sunday, January 21, 2018",
+  "public_info": 0,
+  "objects": [
+    800,
+    1397
+  ],
+  "venues": [
+    {
+      "venue": "Palais des Beaux-Arts de Lille",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Thursday, October 12, 2017 - Sunday, January 21, 2018"
+    }
+  ]
+}

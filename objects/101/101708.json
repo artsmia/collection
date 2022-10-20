@@ -2,15 +2,15 @@
   "accession_number": "2006.117.1",
   "art_champions_text": null,
   "artist": "Artist: Carol Summers",
-  "catalogue_raissonne": null,
+  "catalogue_raissonne": "Summers123",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
   "creditline": "Gift of Terrence D. Curley",
   "culture": null,
   "curator_approved": 0,
-  "dated": "20th century",
-  "department": "Prints and Drawings",
+  "dated": "1974",
+  "department": "Arts of the Americas",
   "description": "colorful abstract image- blues, purples, yellows, maroon, red and green-with white at top; purple pyramid in URC; other arcing shapes",
   "dimension": "24 1/8 x 24 1/16 in. (61.28 x 61.12 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/101708",
@@ -18,10 +18,10 @@
   "image_copyright": "© Carol Summers",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, Title and Edition",
+  "inscription": "ULC, in pencil: Machha Puchhare",
   "life_date": "American, born 1925",
-  "markings": "See Signed",
-  "medium": "Color woodcut",
+  "markings": "ULC, in pencil: 16/75",
+  "medium": "Color woodcut on Japan paper",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "ULC, in pencil: [16/75 Machha Puchhare]; ULC, in pencil: [Carol Summers]",
+  "signed": "ULC, in pencil: Carol Summers",
   "style": "20th century",
   "text": "",
-  "title": "Machhapuchhare"
+  "title": "Machha Puchhare"
 }
