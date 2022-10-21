@@ -10,5 +10,24 @@
   "objects": [
     4459
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Frederik Meijer Gardens and Sculpture Park",
+      "begin": 2007,
+      "end": 2009,
+      "display_date": "Sunday, January 28, 2007 - Sunday, January 11, 2009"
+    },
+    {
+      "venue": "McNay Art Museum",
+      "begin": 2007,
+      "end": 2009,
+      "display_date": "Sunday, January 28, 2007 - Sunday, January 11, 2009"
+    },
+    {
+      "venue": "Vero Beach Museum of Art",
+      "begin": 2007,
+      "end": 2009,
+      "display_date": "Sunday, January 28, 2007 - Sunday, January 11, 2009"
+    }
+  ]
 }
