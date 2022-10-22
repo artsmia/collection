@@ -1,0 +1,58 @@
+{
+  "exhibition_id": 23,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Made in U.S.A., l'art americain, 1908-1943, entre nationalisme et internationalisme",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Friday, October 05, 2001 - Sunday, June 23, 2002",
+  "public_info": 0,
+  "objects": [
+    564,
+    1269,
+    1369,
+    1513,
+    1668,
+    1851,
+    2177,
+    2180,
+    2181,
+    2232,
+    4383,
+    4428,
+    4694,
+    5035,
+    5683,
+    7547,
+    10720,
+    10721,
+    10723,
+    11360,
+    11669,
+    28249,
+    45284,
+    45285,
+    49169,
+    49181
+  ],
+  "venues": [
+    {
+      "venue": "Musée Fabre",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, October 05, 2001 - Sunday, June 23, 2002"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Bordeaux",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, October 05, 2001 - Sunday, June 23, 2002"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Rennes",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Friday, October 05, 2001 - Sunday, June 23, 2002"
+    }
+  ]
+}

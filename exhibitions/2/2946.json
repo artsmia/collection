@@ -10,5 +10,12 @@
   "objects": [
     1348
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Palazzo Barberini",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Wednesday, March 15, 2023 - Sunday, July 30, 2023"
+    }
+  ]
 }
