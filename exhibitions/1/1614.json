@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 1614,
+  "exhibition_department": "Minnesota Artists Exhibition Program",
+  "exhibition_title": "Alley Atlas: Andy Sturdevant",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2013,
+  "display_date": "Friday, October 18, 2013 - Sunday, December 29, 2013",
+  "public_info": 0,
+  "objects": [
+    4079,
+    25606,
+    26153,
+    37274,
+    37285,
+    100055,
+    102761,
+    117557,
+    117564,
+    117612
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Arts",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Friday, October 18, 2013 - Sunday, December 29, 2013"
+    }
+  ]
+}
