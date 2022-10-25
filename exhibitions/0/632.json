@@ -11,5 +11,12 @@
     4496,
     10433
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Smith College Museum of Art",
+      "begin": 2005,
+      "end": 2005,
+      "display_date": "Friday, September 30, 2005 - Sunday, December 11, 2005"
+    }
+  ]
 }

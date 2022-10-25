@@ -10,5 +10,12 @@
   "objects": [
     1640
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Neue Galerie New York",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Thursday, October 03, 2019 - Sunday, January 13, 2019"
+    }
+  ]
 }
