@@ -12,5 +12,12 @@
     1517,
     3885
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, June 16, 2007 - Sunday, September 09, 2007"
+    }
+  ]
 }

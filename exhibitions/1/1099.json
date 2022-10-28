@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 1099,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Orientalism in Europe: Delacroix to Kandinsky",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011",
+  "public_info": 0,
+  "objects": [
+    1785,
+    4578
+  ],
+  "venues": [
+    {
+      "venue": "Centre de la Vieille-Charité",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011"
+    },
+    {
+      "venue": "Kunsthalle der Hypo-Kulturstiftung",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011"
+    },
+    {
+      "venue": "Royal Museums of Fine Arts of Belgium",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Friday, October 15, 2010 - Sunday, August 28, 2011"
+    }
+  ]
+}
