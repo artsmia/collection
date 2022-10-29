@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1044,
+  "exhibition_department": null,
+  "exhibition_title": "Display in main exhibition gallery",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2009,
+  "display_date": "Saturday, June 27, 2009 - Monday, September 07, 2009",
+  "public_info": null,
+  "objects": [
+    107115
+  ],
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2009,
+      "end": 2009,
+      "display_date": "Saturday, June 27, 2009 - Monday, September 07, 2009"
+    }
+  ]
+}

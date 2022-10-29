@@ -1,0 +1,75 @@
+{
+  "exhibition_id": 1589,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Audubon and the Art of Birds",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2015,
+  "display_date": "Saturday, October 05, 2013 - Sunday, July 26, 2015",
+  "public_info": 0,
+  "objects": [
+    9808,
+    9912,
+    32504,
+    42088,
+    73887,
+    73889,
+    73896,
+    73923,
+    73948,
+    74001,
+    74035,
+    74096,
+    74105,
+    74106,
+    74108,
+    74658,
+    74667,
+    74690,
+    74721,
+    74775,
+    74846,
+    75059,
+    75069,
+    75089,
+    75090,
+    75092,
+    75132,
+    75139,
+    75159,
+    75389,
+    75568,
+    75575,
+    76375,
+    76432,
+    76838,
+    77044,
+    108203
+  ],
+  "venues": [
+    {
+      "venue": "National Museum of Wildlife Art",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, October 05, 2013 - Sunday, July 26, 2015"
+    },
+    {
+      "venue": "R.W. Norton Art Gallery",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, October 05, 2013 - Sunday, July 26, 2015"
+    },
+    {
+      "venue": "Regents of The University of Minnesota, Through its Bell Museum of Natural History",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, October 05, 2013 - Sunday, July 26, 2015"
+    },
+    {
+      "venue": "Sam Noble Oklahoma Museum of Natural History",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Saturday, October 05, 2013 - Sunday, July 26, 2015"
+    }
+  ]
+}
