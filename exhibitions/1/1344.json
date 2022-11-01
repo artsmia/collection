@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1344,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Accomplishments: Minnesota Art Projects in the Depression Years",
+  "exhibition_description": null,
+  "begin": 1976,
+  "end": 1979,
+  "display_date": "Wednesday, April 28, 1976 - Tuesday, July 31, 1979",
+  "public_info": 0,
+  "objects": [
+    15729
+  ],
+  "venues": [
+    {
+      "venue": "Tweed Museum of Art",
+      "begin": 1976,
+      "end": 1979,
+      "display_date": "Wednesday, April 28, 1976 - Tuesday, July 31, 1979"
+    },
+    {
+      "venue": "University of Minnesota Gallery, Minneapolis",
+      "begin": 1976,
+      "end": 1979,
+      "display_date": "Wednesday, April 28, 1976 - Tuesday, July 31, 1979"
+    }
+  ]
+}

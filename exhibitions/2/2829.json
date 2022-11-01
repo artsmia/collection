@@ -10,24 +10,5 @@
   "objects": [
     137903
   ],
-  "venues": [
-    {
-      "venue": "Ibaraki Ceramic Art Museum",
-      "begin": 2007,
-      "end": 2007,
-      "display_date": null
-    },
-    {
-      "venue": "Museum of Fine Arts, Gifu",
-      "begin": 2007,
-      "end": 2007,
-      "display_date": null
-    },
-    {
-      "venue": "Okayama Prefectural Museum of Art",
-      "begin": 2007,
-      "end": 2007,
-      "display_date": null
-    }
-  ]
+  "venues": []
 }

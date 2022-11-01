@@ -1,0 +1,31 @@
+{
+  "exhibition_id": 2991,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "The Color of the Wind: Native Painters of the Upper Midwest",
+  "exhibition_description": null,
+  "begin": 2024,
+  "end": 2024,
+  "display_date": "Tuesday, January 16, 2024 - Tuesday, December 31, 2024",
+  "public_info": 0,
+  "objects": [
+    4763,
+    5167,
+    63680,
+    127482,
+    127483
+  ],
+  "venues": [
+    {
+      "venue": "Katherine E. Nash Gallery, Minneapolis",
+      "begin": 2024,
+      "end": 2024,
+      "display_date": "Tuesday, January 16, 2024 - Tuesday, December 31, 2024"
+    },
+    {
+      "venue": "Tweed Museum of Art",
+      "begin": 2024,
+      "end": 2024,
+      "display_date": "Tuesday, January 16, 2024 - Tuesday, December 31, 2024"
+    }
+  ]
+}

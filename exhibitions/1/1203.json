@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1203,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Ed Ruscha",
+  "exhibition_description": null,
+  "begin": 1972,
+  "end": 1972,
+  "display_date": "Tuesday, April 18, 1972 - Sunday, May 28, 1972",
+  "public_info": 0,
+  "objects": [
+    32489,
+    32501,
+    32502,
+    32503,
+    32505,
+    32507,
+    32508,
+    32509,
+    32510,
+    32511,
+    32512,
+    32513,
+    32516
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1972,
+      "end": 1972,
+      "display_date": "Tuesday, April 18, 1972 - Sunday, May 28, 1972"
+    }
+  ]
+}
