@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 892,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "Art and Power in the Central African Savanna",
+  "exhibition_description": null,
+  "begin": 2008,
+  "end": 2009,
+  "display_date": "Friday, September 26, 2008 - Sunday, October 11, 2009",
+  "public_info": 0,
+  "objects": [
+    3862
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, September 26, 2008 - Sunday, October 11, 2009"
+    },
+    {
+      "venue": "Fine Arts Museums of San Francisco",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, September 26, 2008 - Sunday, October 11, 2009"
+    },
+    {
+      "venue": "Menil Collection",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, September 26, 2008 - Sunday, October 11, 2009"
+    }
+  ]
+}

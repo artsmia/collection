@@ -1,0 +1,39 @@
+{
+  "exhibition_id": 1016,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "El Greco of Toledo",
+  "exhibition_description": null,
+  "begin": 1982,
+  "end": 1983,
+  "display_date": "Thursday, April 01, 1982 - Sunday, February 06, 1983",
+  "public_info": 0,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 1982,
+      "end": 1983,
+      "display_date": "Thursday, April 01, 1982 - Sunday, February 06, 1983"
+    },
+    {
+      "venue": "Museo Nacional del Prado",
+      "begin": 1982,
+      "end": 1983,
+      "display_date": "Thursday, April 01, 1982 - Sunday, February 06, 1983"
+    },
+    {
+      "venue": "National Gallery of Art",
+      "begin": 1982,
+      "end": 1983,
+      "display_date": "Thursday, April 01, 1982 - Sunday, February 06, 1983"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1982,
+      "end": 1983,
+      "display_date": "Thursday, April 01, 1982 - Sunday, February 06, 1983"
+    }
+  ]
+}
