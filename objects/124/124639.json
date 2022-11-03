@@ -1,7 +1,7 @@
 {
   "accession_number": "2016.33.44",
   "art_champions_text": null,
-  "artist": "Artist: Unknown",
+  "artist": "Artist: Unknown; Artist: Tentatively attributed to Odilon Redon",
   "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Bequest of Bruce B. Dayton",
   "culture": null,
   "curator_approved": 0,
-  "dated": "20th century",
-  "department": "Prints and Drawings",
+  "dated": "19th century",
+  "department": "European Art",
   "description": "orange Oriental poppy flower in bloom surrounded by dark shading; sketchy stem",
   "dimension": "7 3/8 × 4 15/16 in. (18.73 × 12.54 cm) (sight)\r\n13 5/8 × 10 5/8 × 5/8 in. (34.61 × 26.99 × 1.59 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/124639",
@@ -19,10 +19,10 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": null,
+  "life_date": "French, 1840–1916",
   "markings": "",
-  "medium": "Colored chalk (?) on tan paper",
-  "nationality": null,
+  "medium": "Pastel and black chalk on tan paper",
+  "nationality": "French",
   "object_name": "Drawing",
   "portfolio": "From ",
   "provenance": "Bruce B. Dayton, Wayzata, Minn. (inv. no. 61-10); Estate of Bruce B. Dayton; bequeathed to MIA, 2016",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "20th century",
+  "style": "19th century",
   "text": "",
   "title": "Poppy"
 }

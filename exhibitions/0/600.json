@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 600,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Paradise and Plumage: Chinese Connections in Tibetan Arhat Painting",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Saturday, September 25, 2004 - Sunday, May 22, 2005",
+  "public_info": 0,
+  "objects": [
+    60020
+  ],
+  "venues": [
+    {
+      "venue": "Frances Young Tang Teaching Museum and Art Gallery",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, September 25, 2004 - Sunday, May 22, 2005"
+    },
+    {
+      "venue": "Rubin Museum of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, September 25, 2004 - Sunday, May 22, 2005"
+    }
+  ]
+}
