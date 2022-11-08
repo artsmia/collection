@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 697,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Chinasaurs: The Great Dinosaurs of China",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Wednesday, November 10, 2004 - Sunday, May 01, 2005",
+  "public_info": 0,
+  "objects": [
+    3242,
+    12028,
+    13241,
+    17601,
+    61839
+  ],
+  "venues": [
+    {
+      "venue": "Science Museum of Minnesota",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Wednesday, November 10, 2004 - Sunday, May 01, 2005"
+    }
+  ]
+}

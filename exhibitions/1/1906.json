@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1906,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Japanese Poets and Poetry",
+  "exhibition_description": null,
+  "begin": 1987,
+  "end": 1987,
+  "display_date": "Tuesday, June 16, 1987 - Sunday, September 06, 1987",
+  "public_info": 0,
+  "objects": [
+    6906,
+    99414,
+    122074,
+    122079,
+    122144,
+    122156,
+    122357
+  ],
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 1987,
+      "end": 1987,
+      "display_date": "Tuesday, June 16, 1987 - Sunday, September 06, 1987"
+    }
+  ]
+}

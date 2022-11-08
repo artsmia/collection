@@ -1,0 +1,39 @@
+{
+  "exhibition_id": 80,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Odilon Redon",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2001,
+  "display_date": "Saturday, February 24, 2001 - Sunday, August 19, 2001",
+  "public_info": 0,
+  "objects": [
+    1539
+  ],
+  "venues": [
+    {
+      "venue": "Hiroshima Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, February 24, 2001 - Sunday, August 19, 2001"
+    },
+    {
+      "venue": "Museum of Modern Art, Gunma",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, February 24, 2001 - Sunday, August 19, 2001"
+    },
+    {
+      "venue": "Odakyu Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, February 24, 2001 - Sunday, August 19, 2001"
+    },
+    {
+      "venue": "Yamagata Museum of Art",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Saturday, February 24, 2001 - Sunday, August 19, 2001"
+    }
+  ]
+}
