@@ -10,5 +10,12 @@
   "objects": [
     18345
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "First National Bank of Saint Paul",
+      "begin": 1973,
+      "end": 0,
+      "display_date": "September 1973"
+    }
+  ]
 }

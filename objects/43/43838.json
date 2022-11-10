@@ -1,7 +1,7 @@
 {
   "accession_number": "P.98.18.7",
   "art_champions_text": null,
-  "artist": "Maker: Agnes Story",
+  "artist": "Artist: Agnes Story; Printer: Agnes Story",
   "catalogue_raissonne": "VEL 287",
   "classification": " Prints",
   "continent": "North America",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1981",
-  "department": "Prints and Drawings",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "6 x 8 7/8 in. (15.24 x 22.54 cm) (plate)\r\n9 x 12 1/16 in. (22.86 x 30.64 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/43838",
@@ -18,9 +18,9 @@
   "image_copyright": "© Agnes Story",
   "image_height": "",
   "image_width": "",
-  "inscription": "LC: [\\\"THE CLUB\\\"]",
+  "inscription": "LC: \\\"THE CLUB\\\"",
   "life_date": "American (born Venezuela), born 1956",
-  "markings": "LL: [B.A.T.]\r\n",
+  "markings": "LL: B.A.T.\r\n",
   "medium": "Hand-colored drypoint and roulette",
   "nationality": "American (born Venezuela)",
   "object_name": "Print",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LR: [AGNES STORY \\'81]\r\n",
+  "signed": "LR: AGNES STORY \\'81\r\n",
   "style": "20th century",
   "text": "",
   "title": "The Club"
