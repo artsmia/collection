@@ -1,0 +1,31 @@
+{
+  "exhibition_id": 2280,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "The Women of the Pleasure Quarter: Japanese Paintings and Prints of the Floating World",
+  "exhibition_description": null,
+  "begin": 1996,
+  "end": 1996,
+  "display_date": "Saturday, February 24, 1996 - Sunday, December 01, 1996",
+  "public_info": 0,
+  "objects": [
+    8648,
+    10329,
+    10359,
+    122172,
+    122177
+  ],
+  "venues": [
+    {
+      "venue": "Kimball Art Museum",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Saturday, February 24, 1996 - Sunday, December 01, 1996"
+    },
+    {
+      "venue": "Worcester Art Museum",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Saturday, February 24, 1996 - Sunday, December 01, 1996"
+    }
+  ]
+}
