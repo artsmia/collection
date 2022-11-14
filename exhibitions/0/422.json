@@ -10,5 +10,24 @@
   "objects": [
     2245
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Do Not Use - Musée national du chateau de Versailles",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003"
+    },
+    {
+      "venue": "Kunsthalle der Hypo-Kulturstiftung",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003"
+    },
+    {
+      "venue": "National Gallery",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003"
+    }
+  ]
 }

@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1144,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Dale Nichols: Transcending Regionalism",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Friday, May 20, 2011 - Sunday, June 17, 2012",
+  "public_info": 0,
+  "objects": [
+    5683
+  ],
+  "venues": [
+    {
+      "venue": "Bone Creek Museum of Agrarian Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, May 20, 2011 - Sunday, June 17, 2012"
+    },
+    {
+      "venue": "Georgia Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, May 20, 2011 - Sunday, June 17, 2012"
+    },
+    {
+      "venue": "Montgomery Museum of Fine Arts",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, May 20, 2011 - Sunday, June 17, 2012"
+    }
+  ]
+}
