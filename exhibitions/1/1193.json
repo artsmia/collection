@@ -1,0 +1,37 @@
+{
+  "exhibition_id": 1193,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Twelve American Artists: Prints, Drawings, Oils",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Friday, August 18, 2000 - Sunday, February 18, 2001",
+  "public_info": 0,
+  "objects": [
+    7241,
+    7242,
+    7249,
+    7250,
+    7251,
+    7256,
+    7268,
+    7408,
+    7409,
+    7428,
+    7558,
+    7608,
+    7660,
+    7690,
+    7713,
+    7865,
+    53478
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Friday, August 18, 2000 - Sunday, February 18, 2001"
+    }
+  ]
+}
