@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1977",
-  "department": "Arts of the Americas",
+  "department": "Global Contemporary Art",
   "description": "",
   "dimension": "19 1/4 x 14 3/4 in. (48.9 x 37.47 cm) (plate)\r\n29 x 23 in. (73.66 x 58.42 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/58595",
@@ -18,10 +18,10 @@
   "image_copyright": "© Christine Benson",
   "image_height": 3672,
   "image_width": 2991,
-  "inscription": "Signed, dated, numbered, and chop mark.",
+  "inscription": "Printed inscription, center: CHOCOLATE",
   "life_date": "American, born 1948",
-  "markings": "LL: VEL chop mark",
-  "medium": "Color etching and pochoir (spray paint)",
+  "markings": "LR: Artist\\'s Proof 6/7\r\nLL: VEL blindstamp",
+  "medium": "Color etching and spray paint stencil",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LR: [Benson \\'77]\r\nLR: [Artist\\'s Proof 6/7]\r\nPrinted inscription, center: [CHOCOLATE]",
+  "signed": "LR: Benson \\'77\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Chocolate"

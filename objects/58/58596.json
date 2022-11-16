@@ -1,7 +1,7 @@
 {
   "accession_number": "P.83.59.11",
   "art_champions_text": null,
-  "artist": "Artist: Christine Benson; Publisher: Vermillion Editions Limited, Minneapolis",
+  "artist": "Artist: Christine Benson; Printer: Vermillion Editions Limited, Minneapolis; Publisher: Vermillion Editions Limited, Minneapolis",
   "catalogue_raissonne": "VEL 48",
   "classification": " Prints",
   "continent": "North America",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1978",
-  "department": "Arts of the Americas",
+  "department": "Global Contemporary Art",
   "description": "",
   "dimension": "17 7/8 x 14 in. (45.4 x 35.56 cm) (image)\r\n26 1/2 x 19 in. (67.31 x 48.26 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/58596",
@@ -18,10 +18,10 @@
   "image_copyright": "© Christine Benson",
   "image_height": 4557,
   "image_width": 3327,
-  "inscription": "Signed, dated, numbered, and titled.",
+  "inscription": "LL: Invitation",
   "life_date": "American, born 1948",
-  "markings": "",
-  "medium": "Lithograph and rubber stamp",
+  "markings": "LC: AP 4/4",
+  "medium": "Lithograph and rubber stamp on Japan paper",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LR: [Benson \\'78]\r\nLC: [AP 4/4]\r\nLL: [Invitation]\r\n",
+  "signed": "LR: Benson \\'78\r\n\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Invitation"
