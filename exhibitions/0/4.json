@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 4,
+  "exhibition_department": null,
+  "exhibition_title": "The Landscape 2000 Project",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Saturday, April 01, 2000 - Monday, January 15, 2001",
+  "public_info": null,
+  "objects": [
+    61
+  ],
+  "venues": [
+    {
+      "venue": "University of Wyoming Art Museum",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Saturday, April 01, 2000 - Monday, January 15, 2001"
+    }
+  ]
+}

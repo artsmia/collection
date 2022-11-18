@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 1564,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Only in Canada",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2013,
+  "display_date": "Friday, May 10, 2013 - Monday, September 02, 2013",
+  "public_info": 0,
+  "objects": [
+    1385,
+    1546,
+    1851,
+    60161
+  ],
+  "venues": [
+    {
+      "venue": "Winnipeg Art Gallery",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Friday, May 10, 2013 - Monday, September 02, 2013"
+    }
+  ]
+}
