@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 533,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Eugène Delacroix, 1798-1863",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Saturday, November 01, 2003 - Sunday, February 01, 2004",
+  "public_info": 0,
+  "objects": [
+    799,
+    4578,
+    8152
+  ],
+  "venues": [
+    {
+      "venue": "Staatliche Majolika Manufaktur",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, November 01, 2003 - Sunday, February 01, 2004"
+    }
+  ]
+}
