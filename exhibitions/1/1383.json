@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1383,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Founders and Heirs of the New York School",
+  "exhibition_description": null,
+  "begin": 1997,
+  "end": 1997,
+  "display_date": "Saturday, January 25, 1997 - Friday, August 01, 1997",
+  "public_info": 0,
+  "objects": [
+    1332
+  ],
+  "venues": [
+    {
+      "venue": "Miyagi Museum of Art",
+      "begin": 1997,
+      "end": 1997,
+      "display_date": "Saturday, January 25, 1997 - Friday, August 01, 1997"
+    },
+    {
+      "venue": "Museum of Contemporary Art, Tokyo",
+      "begin": 1997,
+      "end": 1997,
+      "display_date": "Saturday, January 25, 1997 - Friday, August 01, 1997"
+    },
+    {
+      "venue": "Museum of Modern Art, Ibaraki",
+      "begin": 1997,
+      "end": 1997,
+      "display_date": "Saturday, January 25, 1997 - Friday, August 01, 1997"
+    }
+  ]
+}
