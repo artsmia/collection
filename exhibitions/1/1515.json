@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1515,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Chagall: Modern Master",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2013,
+  "display_date": "Friday, February 08, 2013 - Sunday, October 06, 2013",
+  "public_info": 0,
+  "objects": [
+    1427
+  ],
+  "venues": [
+    {
+      "venue": "Kunsthaus Zürich",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Friday, February 08, 2013 - Sunday, October 06, 2013"
+    },
+    {
+      "venue": "Tate Liverpool",
+      "begin": 2013,
+      "end": 2013,
+      "display_date": "Friday, February 08, 2013 - Sunday, October 06, 2013"
+    }
+  ]
+}

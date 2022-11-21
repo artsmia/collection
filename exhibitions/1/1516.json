@@ -10,5 +10,18 @@
   "objects": [
     5033
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Centre National d'art et de Culture Georges Pompidou",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Wednesday, November 21, 2012 - Monday, September 02, 2013"
+    },
+    {
+      "venue": "Museo Nacional Centro de Arte Reina Sofia",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Wednesday, November 21, 2012 - Monday, September 02, 2013"
+    }
+  ]
 }

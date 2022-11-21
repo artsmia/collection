@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 422,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Madame de Pompadour et les arts",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2003,
+  "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003",
+  "public_info": 0,
+  "objects": [
+    2245
+  ],
+  "venues": [
+    {
+      "venue": "Do Not Use - Musée national du chateau de Versailles",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003"
+    },
+    {
+      "venue": "Kunsthalle der Hypo-Kulturstiftung",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003"
+    },
+    {
+      "venue": "National Gallery",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Wednesday, February 13, 2002 - Sunday, January 12, 2003"
+    }
+  ]
+}
