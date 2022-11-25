@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1516,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Salvador Dali at Pompidou and MNCARS",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2013,
+  "display_date": "Wednesday, November 21, 2012 - Monday, September 02, 2013",
+  "public_info": 0,
+  "objects": [
+    5033
+  ],
+  "venues": [
+    {
+      "venue": "Centre National d'art et de Culture Georges Pompidou",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Wednesday, November 21, 2012 - Monday, September 02, 2013"
+    },
+    {
+      "venue": "Museo Nacional Centro de Arte Reina Sofia",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Wednesday, November 21, 2012 - Monday, September 02, 2013"
+    }
+  ]
+}
