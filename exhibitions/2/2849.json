@@ -77,5 +77,24 @@
     143912,
     143913
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, June 12, 2021 - Sunday, May 15, 2022"
+    },
+    {
+      "venue": "Speed Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, June 12, 2021 - Sunday, May 15, 2022"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, June 12, 2021 - Sunday, May 15, 2022"
+    }
+  ]
 }
