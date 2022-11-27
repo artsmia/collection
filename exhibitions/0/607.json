@@ -1,0 +1,38 @@
+{
+  "exhibition_id": 607,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "International Arts and Crafts",
+  "exhibition_description": null,
+  "begin": 2005,
+  "end": 2006,
+  "display_date": "Thursday, March 17, 2005 - Sunday, January 22, 2006",
+  "public_info": 0,
+  "objects": [
+    3730,
+    8317,
+    10028,
+    10029,
+    10030,
+    10031,
+    10032,
+    10033,
+    10034,
+    10035,
+    10036,
+    40859
+  ],
+  "venues": [
+    {
+      "venue": "Indianapolis Museum of Art",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Thursday, March 17, 2005 - Sunday, January 22, 2006"
+    },
+    {
+      "venue": "Victoria and Albert Museum",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Thursday, March 17, 2005 - Sunday, January 22, 2006"
+    }
+  ]
+}
