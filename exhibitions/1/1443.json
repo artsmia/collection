@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 1443,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Cameron Booth 1967",
+  "exhibition_description": null,
+  "begin": 1967,
+  "end": 1967,
+  "display_date": "Sunday, February 26, 1967 - Sunday, March 19, 1967",
+  "public_info": 0,
+  "objects": [
+    20697,
+    21885,
+    21888
+  ],
+  "venues": [
+    {
+      "venue": "Kramer Gallery, Minneapolis",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Sunday, February 26, 1967 - Sunday, March 19, 1967"
+    }
+  ]
+}
