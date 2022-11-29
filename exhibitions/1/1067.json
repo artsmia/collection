@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1067,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "To Make a World: George Ault and 1940s America",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012",
+  "public_info": 0,
+  "objects": [
+    10513
+  ],
+  "venues": [
+    {
+      "venue": "Georgia Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012"
+    },
+    {
+      "venue": "Smithsonian American Art Museum",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Friday, March 11, 2011 - Monday, April 16, 2012"
+    }
+  ]
+}
