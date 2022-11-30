@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2788,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Whistler to Cassatt: American Painters and France",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Sunday, November 14, 2021 - Sunday, July 31, 2022",
+  "public_info": 0,
+  "objects": [
+    1509,
+    120553
+  ],
+  "venues": [
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, November 14, 2021 - Sunday, July 31, 2022"
+    },
+    {
+      "venue": "Virginia Museum of Fine Arts",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, November 14, 2021 - Sunday, July 31, 2022"
+    }
+  ]
+}

@@ -36,5 +36,12 @@
     10512,
     24529
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1986,
+      "end": 986,
+      "display_date": "Sunday, February 16, 1986 - Thursday, June 1, 0986"
+    }
+  ]
 }
