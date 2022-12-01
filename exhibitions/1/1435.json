@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1435,
+  "exhibition_department": null,
+  "exhibition_title": "The Blake School 1969",
+  "exhibition_description": null,
+  "begin": 1969,
+  "end": 1969,
+  "display_date": "October 3, 1969",
+  "public_info": null,
+  "objects": [
+    18158
+  ],
+  "venues": [
+    {
+      "venue": "Blake School",
+      "begin": 1969,
+      "end": 1969,
+      "display_date": "October 3, 1969"
+    }
+  ]
+}
