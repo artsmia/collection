@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 531,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "An Artist's Paradise: Minnesota Landscapes 1840-1940",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2003,
+  "display_date": "Saturday, January 25, 2003 - Sunday, June 22, 2003",
+  "public_info": 0,
+  "objects": [
+    356,
+    2490,
+    7894,
+    17464,
+    18257,
+    18461,
+    42030,
+    45070,
+    48975,
+    56910,
+    57212,
+    57518,
+    58877,
+    59314,
+    63752
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Museum of American Art",
+      "begin": 2003,
+      "end": 2003,
+      "display_date": "Saturday, January 25, 2003 - Sunday, June 22, 2003"
+    }
+  ]
+}

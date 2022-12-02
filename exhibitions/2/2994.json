@@ -1,0 +1,47 @@
+{
+  "exhibition_id": 2994,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Ethiopia at the Crossroads (working title)",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Sunday, December 3, 2023 - Sunday, November 10, 2024",
+  "public_info": 0,
+  "objects": [
+    5972,
+    5973,
+    5974,
+    5976,
+    8236,
+    9740,
+    9767,
+    20695,
+    108765,
+    108767,
+    137332,
+    139991,
+    140153,
+    142687,
+    142689
+  ],
+  "venues": [
+    {
+      "venue": "Peabody Essex Museum",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, December 3, 2023 - Sunday, November 10, 2024"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, December 3, 2023 - Sunday, November 10, 2024"
+    },
+    {
+      "venue": "Walters Art Museum",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, December 3, 2023 - Sunday, November 10, 2024"
+    }
+  ]
+}

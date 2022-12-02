@@ -10,24 +10,5 @@
   "objects": [
     1163
   ],
-  "venues": [
-    {
-      "venue": "National Gallery",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Wednesday, February 21, 2007 - Sunday, January 06, 2008"
-    },
-    {
-      "venue": "National Gallery of Canada",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Wednesday, February 21, 2007 - Sunday, January 06, 2008"
-    },
-    {
-      "venue": "Philadelphia Museum of Art",
-      "begin": 2007,
-      "end": 2008,
-      "display_date": "Wednesday, February 21, 2007 - Sunday, January 06, 2008"
-    }
-  ]
+  "venues": []
 }
