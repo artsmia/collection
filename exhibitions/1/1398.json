@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1398,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Two Hundred Years of American Art",
+  "exhibition_description": null,
+  "begin": 1984,
+  "end": 1984,
+  "display_date": "Friday, March 16, 1984 - Sunday, July 15, 1984",
+  "public_info": 0,
+  "objects": [
+    517
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Arts and Sciences",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Friday, March 16, 1984 - Sunday, July 15, 1984"
+    },
+    {
+      "venue": "Museum of Fine Arts, St Petersburg",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Friday, March 16, 1984 - Sunday, July 15, 1984"
+    }
+  ]
+}
