@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 497,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Coming of Age in Ancient Greece",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004",
+  "public_info": 0,
+  "objects": [
+    18284
+  ],
+  "venues": [
+    {
+      "venue": "Cincinnati Art Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004"
+    },
+    {
+      "venue": "Hood Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004"
+    },
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 23, 2003 - Sunday, December 05, 2004"
+    }
+  ]
+}

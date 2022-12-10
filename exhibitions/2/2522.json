@@ -12,5 +12,24 @@
     8673,
     33878
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Birmingham Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, February 12, 2021 - Friday, August 05, 2022"
+    },
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, February 12, 2021 - Friday, August 05, 2022"
+    },
+    {
+      "venue": "National Cowboy and Western Heritage Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Friday, February 12, 2021 - Friday, August 05, 2022"
+    }
+  ]
 }
