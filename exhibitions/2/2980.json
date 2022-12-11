@@ -74,5 +74,12 @@
     34042,
     34044
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Tuesday, August 22, 2023 - Sunday, November 26, 2023"
+    }
+  ]
 }

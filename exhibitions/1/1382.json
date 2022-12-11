@@ -1,0 +1,39 @@
+{
+  "exhibition_id": 1382,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "William Baziotes: A Retrospective Exhibtion",
+  "exhibition_description": null,
+  "begin": 1978,
+  "end": 1978,
+  "display_date": "Friday, March 24, 1978 - Sunday, December 10, 1978",
+  "public_info": 0,
+  "objects": [
+    1332
+  ],
+  "venues": [
+    {
+      "venue": "Herbert F. Johnson Museum of Art, Cornell University",
+      "begin": 1978,
+      "end": 1978,
+      "display_date": "Friday, March 24, 1978 - Sunday, December 10, 1978"
+    },
+    {
+      "venue": "Newport Harbor Art Museum",
+      "begin": 1978,
+      "end": 1978,
+      "display_date": "Friday, March 24, 1978 - Sunday, December 10, 1978"
+    },
+    {
+      "venue": "University of Maryland Art Gallery",
+      "begin": 1978,
+      "end": 1978,
+      "display_date": "Friday, March 24, 1978 - Sunday, December 10, 1978"
+    },
+    {
+      "venue": "University of Texas at Austin",
+      "begin": 1978,
+      "end": 1978,
+      "display_date": "Friday, March 24, 1978 - Sunday, December 10, 1978"
+    }
+  ]
+}

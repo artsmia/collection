@@ -10,5 +10,18 @@
   "objects": [
     2808
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Gemäldegalerie Alte Meister",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, July 02, 2009 - Monday, March 01, 2010"
+    },
+    {
+      "venue": "Royal Picture Gallery Mauritshuis",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, July 02, 2009 - Monday, March 01, 2010"
+    }
+  ]
 }
