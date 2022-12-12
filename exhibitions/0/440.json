@@ -1,0 +1,42 @@
+{
+  "exhibition_id": 440,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Suzuki Harunobu",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2002,
+  "display_date": "Saturday, September 14, 2002 - Sunday, December 08, 2002",
+  "public_info": 0,
+  "objects": [
+    8172,
+    8173,
+    8175,
+    8180,
+    8184,
+    8186,
+    8192,
+    8193,
+    8195,
+    8667,
+    8722,
+    8725,
+    8739,
+    8743,
+    8882,
+    49471
+  ],
+  "venues": [
+    {
+      "venue": "Chiba City Museum of Art",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Saturday, September 14, 2002 - Sunday, December 08, 2002"
+    },
+    {
+      "venue": "Hagi Uragami Museum",
+      "begin": 2002,
+      "end": 2002,
+      "display_date": "Saturday, September 14, 2002 - Sunday, December 08, 2002"
+    }
+  ]
+}

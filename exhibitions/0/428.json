@@ -10,18 +10,5 @@
   "objects": [
     278
   ],
-  "venues": [
-    {
-      "venue": "Metropolitan Museum of Art",
-      "begin": 2003,
-      "end": 2004,
-      "display_date": "Tuesday, October 07, 2003 - Sunday, May 23, 2004"
-    },
-    {
-      "venue": "National Gallery of Art",
-      "begin": 2003,
-      "end": 2004,
-      "display_date": "Tuesday, October 07, 2003 - Sunday, May 23, 2004"
-    }
-  ]
+  "venues": []
 }

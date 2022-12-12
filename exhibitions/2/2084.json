@@ -10,5 +10,12 @@
   "objects": [
     122129
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Sarah Lawrence College Art Gallery",
+      "begin": 1986,
+      "end": 1986,
+      "display_date": "Tuesday, October 07, 1986 - Sunday, December 07, 1986"
+    }
+  ]
 }
