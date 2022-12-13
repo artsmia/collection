@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 117,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Splendors of Morocco: From Tangier to Marrakech",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Sunday, September 24, 2000 - Sunday, February 11, 2001",
+  "public_info": 0,
+  "objects": [
+    1978,
+    4179,
+    8897
+  ],
+  "venues": [
+    {
+      "venue": "The Jewish Museum",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Sunday, September 24, 2000 - Sunday, February 11, 2001"
+    }
+  ]
+}
