@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 22,
+  "exhibition_department": null,
+  "exhibition_title": "Sovrane Passioni",
+  "exhibition_description": null,
+  "begin": 1998,
+  "end": 1998,
+  "display_date": "Thursday, September 03, 1998 - Thursday, December 17, 1998",
+  "public_info": null,
+  "objects": [
+    565
+  ],
+  "venues": [
+    {
+      "venue": "Galleria Estense",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Thursday, September 03, 1998 - Thursday, December 17, 1998"
+    }
+  ]
+}
