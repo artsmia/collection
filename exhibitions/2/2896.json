@@ -10,5 +10,12 @@
   "objects": [
     7890
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museo Nacional Centro de Arte Reina Sofia",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": "Tuesday, March 22, 2022 - Monday, August 29, 2022"
+    }
+  ]
 }

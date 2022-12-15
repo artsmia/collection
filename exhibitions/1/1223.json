@@ -1,0 +1,53 @@
+{
+  "exhibition_id": 1223,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "The Painted Page",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Friday, June 09, 2000 - Sunday, January 14, 2001",
+  "public_info": 0,
+  "objects": [
+    46,
+    219,
+    267,
+    583,
+    683,
+    1702,
+    2234,
+    2519,
+    2520,
+    6125,
+    7317,
+    7323,
+    7325,
+    7348,
+    7349,
+    7350,
+    7351,
+    9896,
+    14034,
+    14061,
+    19401,
+    42000,
+    42077,
+    42109,
+    42111,
+    42112,
+    42113,
+    42114,
+    42115,
+    42116,
+    42120,
+    44716,
+    77927
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Friday, June 09, 2000 - Sunday, January 14, 2001"
+    }
+  ]
+}
