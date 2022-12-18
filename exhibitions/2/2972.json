@@ -11,5 +11,18 @@
     1328,
     126992
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, October 1, 2023 - Monday, July 1, 2024"
+    },
+    {
+      "venue": "Baltimore Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, October 1, 2023 - Monday, July 1, 2024"
+    }
+  ]
 }

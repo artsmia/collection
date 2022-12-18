@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 133,
+  "exhibition_department": null,
+  "exhibition_title": "The Lure of Italy",
+  "exhibition_description": null,
+  "begin": 1992,
+  "end": 1993,
+  "display_date": "Monday, August 24, 1992 - Friday, October 15, 1993",
+  "public_info": null,
+  "objects": [
+    2607
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Boston",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Monday, August 24, 1992 - Friday, October 15, 1993"
+    }
+  ]
+}

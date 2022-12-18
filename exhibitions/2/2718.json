@@ -14,5 +14,18 @@
     58344,
     120546
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Frederick R. Weisman Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, September 25, 2021 - Sunday, July 10, 2022"
+    },
+    {
+      "venue": "Wichita Art Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, September 25, 2021 - Sunday, July 10, 2022"
+    }
+  ]
 }

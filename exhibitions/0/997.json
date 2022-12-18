@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 997,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Lens of Impressionism: Photography and Painting Along the Normandy Coast",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2010,
+  "display_date": "Saturday, October 10, 2009 - Sunday, May 23, 2010",
+  "public_info": 0,
+  "objects": [
+    10449
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Saturday, October 10, 2009 - Sunday, May 23, 2010"
+    },
+    {
+      "venue": "University of Michigan Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Saturday, October 10, 2009 - Sunday, May 23, 2010"
+    }
+  ]
+}

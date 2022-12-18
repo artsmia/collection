@@ -1,0 +1,45 @@
+{
+  "exhibition_id": 2673,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Japan supernatural",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, November 02, 2019 - Sunday, March 08, 2020",
+  "public_info": 0,
+  "objects": [
+    65717,
+    65733,
+    65734,
+    65736,
+    65738,
+    89917,
+    116899,
+    117051,
+    117115,
+    117161,
+    117162,
+    117173,
+    117179,
+    122243,
+    122244,
+    127741,
+    127756,
+    127771,
+    127791,
+    127792,
+    127898,
+    127910,
+    127913,
+    127915,
+    127967
+  ],
+  "venues": [
+    {
+      "venue": "Art Gallery of New South Wales",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, November 02, 2019 - Sunday, March 08, 2020"
+    }
+  ]
+}
