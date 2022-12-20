@@ -1,0 +1,51 @@
+{
+  "exhibition_id": 2986,
+  "exhibition_department": "European Art",
+  "exhibition_title": "German Prints in the Later 1400s",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Saturday, October 22, 2022 - Sunday, May 14, 2023",
+  "public_info": 0,
+  "objects": [
+    7261,
+    7474,
+    7485,
+    43386,
+    46775,
+    46780,
+    47041,
+    47047,
+    47950,
+    47951,
+    47967,
+    47970,
+    47973,
+    47983,
+    47985,
+    47993,
+    47994,
+    48007,
+    48012,
+    48023,
+    49879,
+    49912,
+    49918,
+    49919,
+    55628,
+    67016,
+    120314,
+    125659,
+    131185,
+    142677,
+    143511
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, October 22, 2022 - Sunday, May 14, 2023"
+    }
+  ]
+}

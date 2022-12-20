@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 69,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Francis Bacon: A Retrospective Exhibition",
+  "exhibition_description": null,
+  "begin": 1999,
+  "end": 1999,
+  "display_date": "Sunday, April 11, 1999 - Thursday, October 28, 1999",
+  "public_info": 0,
+  "objects": [
+    1355,
+    40162
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Sunday, April 11, 1999 - Thursday, October 28, 1999"
+    },
+    {
+      "venue": "The Trust of Museum Exhibitions",
+      "begin": 1999,
+      "end": 1999,
+      "display_date": "Sunday, April 11, 1999 - Thursday, October 28, 1999"
+    }
+  ]
+}
