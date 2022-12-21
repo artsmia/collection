@@ -11,5 +11,18 @@
     81596,
     91750
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2004,
+      "display_date": "Sunday, December 10, 2000 - Sunday, May 16, 2004"
+    },
+    {
+      "venue": "National Museum of the American Indian",
+      "begin": 2000,
+      "end": 2004,
+      "display_date": "Sunday, December 10, 2000 - Sunday, May 16, 2004"
+    }
+  ]
 }
