@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1079,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Masters of Seventeenth-Century Dutch Genre Painting",
+  "exhibition_description": null,
+  "begin": 1984,
+  "end": 1984,
+  "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984",
+  "public_info": 0,
+  "objects": [
+    3710
+  ],
+  "venues": [
+    {
+      "venue": "Gemäldegalerie, Staatliche Museen Preussischer Kulturbesitz",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984"
+    },
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984"
+    }
+  ]
+}
