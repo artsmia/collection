@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 971,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "De la scène au tableau",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2010,
+  "display_date": "Thursday, October 01, 2009 - Sunday, September 26, 2010",
+  "public_info": 0,
+  "objects": [
+    1830
+  ],
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 01, 2009 - Sunday, September 26, 2010"
+    },
+    {
+      "venue": "Museo di Arte Moderna e Contemporanea di Trento e Rovereto",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 01, 2009 - Sunday, September 26, 2010"
+    },
+    {
+      "venue": "Musée Cantini",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 01, 2009 - Sunday, September 26, 2010"
+    }
+  ]
+}
