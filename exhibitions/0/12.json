@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 12,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Franz Marc and the Blue Rider",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2001,
+  "display_date": "Sunday, April 08, 2001 - Sunday, July 15, 2001",
+  "public_info": 0,
+  "objects": [
+    1639,
+    7570,
+    7871,
+    8842,
+    9066,
+    9920,
+    32763,
+    42135,
+    42136,
+    42265,
+    42266,
+    42267,
+    42268
+  ],
+  "venues": [
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "Sunday, April 08, 2001 - Sunday, July 15, 2001"
+    }
+  ]
+}

@@ -22,5 +22,12 @@
     32513,
     32516
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1972,
+      "end": 1972,
+      "display_date": "Tuesday, April 18, 1972 - Sunday, May 28, 1972"
+    }
+  ]
 }
