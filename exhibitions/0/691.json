@@ -10,5 +10,24 @@
   "objects": [
     1934
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Galeries nationales du Grand Palais",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008"
+    },
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008"
+    },
+    {
+      "venue": "Musée Fabre",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008"
+    }
+  ]
 }
