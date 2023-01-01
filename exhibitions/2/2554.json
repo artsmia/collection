@@ -10,5 +10,12 @@
   "objects": [
     772
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunsthaus Zürich",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Friday, August 31, 2018 - Sunday, November 18, 2018"
+    }
+  ]
 }

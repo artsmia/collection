@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 868,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Arshile Gorky: A Retrospective",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2010,
+  "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010",
+  "public_info": 0,
+  "objects": [
+    1513
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Contemporary Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010"
+    },
+    {
+      "venue": "Tate Modern",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Thursday, October 15, 2009 - Monday, September 06, 2010"
+    }
+  ]
+}

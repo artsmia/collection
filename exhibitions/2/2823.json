@@ -10,18 +10,5 @@
   "objects": [
     119522
   ],
-  "venues": [
-    {
-      "venue": "Asian Art Museum of San Francisco",
-      "begin": 2022,
-      "end": 2023,
-      "display_date": "Friday, November 11, 2022 - Monday, July 10, 2023"
-    },
-    {
-      "venue": "Cincinnati Art Museum",
-      "begin": 2022,
-      "end": 2023,
-      "display_date": "Friday, November 11, 2022 - Monday, July 10, 2023"
-    }
-  ]
+  "venues": []
 }
