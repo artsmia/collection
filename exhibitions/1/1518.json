@@ -1,0 +1,40 @@
+{
+  "exhibition_id": 1518,
+  "exhibition_department": "Historic: Photography & New Media",
+  "exhibition_title": "Governor's Residence: 2012-2013",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2013,
+  "display_date": "Tuesday, August 28, 2012 - Saturday, August 31, 2013",
+  "public_info": 0,
+  "objects": [
+    1970,
+    2635,
+    3557,
+    10767,
+    10821,
+    10834,
+    10837,
+    10838,
+    10844,
+    10845,
+    11247,
+    25310,
+    25387,
+    28377,
+    31218,
+    47200,
+    99110,
+    99111,
+    99620,
+    108266
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2012,
+      "end": 2013,
+      "display_date": "Tuesday, August 28, 2012 - Saturday, August 31, 2013"
+    }
+  ]
+}
