@@ -10,5 +10,12 @@
   "objects": [
     11466
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2006,
+      "end": 2006,
+      "display_date": "Sunday, June 11, 2006 - Sunday, November 26, 2006"
+    }
+  ]
 }
