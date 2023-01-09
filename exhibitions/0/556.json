@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 556,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Governor's Residence: 2003-2012",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2012,
+  "display_date": "Wednesday, April 23, 2003 - Thursday, May 31, 2012",
+  "public_info": 0,
+  "objects": [
+    63,
+    563,
+    1242,
+    1917,
+    10511,
+    21172
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2003,
+      "end": 2012,
+      "display_date": "Wednesday, April 23, 2003 - Thursday, May 31, 2012"
+    }
+  ]
+}

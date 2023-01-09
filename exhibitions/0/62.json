@@ -1,0 +1,32 @@
+{
+  "exhibition_id": 62,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Art in Rome in the Eighteenth Century",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2000,
+  "display_date": "Monday, February 28, 2000 - Wednesday, September 27, 2000",
+  "public_info": 0,
+  "objects": [
+    1463,
+    1731,
+    1748,
+    1860,
+    8484,
+    19786
+  ],
+  "venues": [
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Monday, February 28, 2000 - Wednesday, September 27, 2000"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Monday, February 28, 2000 - Wednesday, September 27, 2000"
+    }
+  ]
+}

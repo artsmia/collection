@@ -1,0 +1,90 @@
+{
+  "exhibition_id": 5,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Made in America: Ten Centuries of American Art",
+  "exhibition_description": null,
+  "begin": 1995,
+  "end": 1995,
+  "display_date": "Sunday, February 05, 1995 - Sunday, April 30, 1995",
+  "public_info": 0,
+  "objects": [
+    77,
+    425,
+    486,
+    577,
+    689,
+    1381,
+    1548,
+    2050,
+    2252,
+    2620,
+    2725,
+    2891,
+    2900,
+    3125,
+    3306,
+    3384,
+    3590,
+    3820,
+    3831,
+    3896,
+    3914,
+    3968,
+    3982,
+    4013,
+    4137,
+    4242,
+    4285,
+    4487,
+    8673,
+    8674,
+    9934,
+    11715,
+    18664,
+    19724,
+    19812,
+    19871,
+    22048,
+    22114,
+    24489,
+    24492,
+    24493,
+    24501,
+    24508,
+    24513,
+    24514,
+    26892
+  ],
+  "venues": [
+    {
+      "venue": "Carnegie Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": "Sunday, February 05, 1995 - Sunday, April 30, 1995"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": "Sunday, February 05, 1995 - Sunday, April 30, 1995"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": "Sunday, February 05, 1995 - Sunday, April 30, 1995"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": "Sunday, February 05, 1995 - Sunday, April 30, 1995"
+    },
+    {
+      "venue": "Toledo Museum of Art",
+      "begin": 1995,
+      "end": 1995,
+      "display_date": "Sunday, February 05, 1995 - Sunday, April 30, 1995"
+    }
+  ]
+}

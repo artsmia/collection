@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2852,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "The Magritte Machine",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Tuesday, September 14, 2021 - Sunday, June 05, 2022",
+  "public_info": 0,
+  "objects": [
+    1670
+  ],
+  "venues": [
+    {
+      "venue": "CaixaForum Barcelona",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, September 14, 2021 - Sunday, June 05, 2022"
+    },
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, September 14, 2021 - Sunday, June 05, 2022"
+    }
+  ]
+}
