@@ -1,17 +1,14 @@
 {
   "exhibition_id": 2969,
-  "exhibition_department": "(not assigned)",
+  "exhibition_department": null,
   "exhibition_title": "Parall(elles): A History of Women in Design",
   "exhibition_description": null,
   "begin": 2023,
   "end": 2023,
   "display_date": "Saturday, February 18, 2023 - Sunday, June 4, 2023",
-  "public_info": 0,
+  "public_info": null,
   "objects": [
-    4236,
-    120376,
-    120377,
-    120378
+    4236
   ],
   "venues": [
     {
