@@ -10,18 +10,5 @@
   "objects": [
     772
   ],
-  "venues": [
-    {
-      "venue": "Kunsthaus Zürich",
-      "begin": 2014,
-      "end": 2014,
-      "display_date": "Friday, February 07, 2014 - Sunday, September 14, 2014"
-    },
-    {
-      "venue": "Los Angeles County Museum of Art",
-      "begin": 2014,
-      "end": 2014,
-      "display_date": "Friday, February 07, 2014 - Sunday, September 14, 2014"
-    }
-  ]
+  "venues": []
 }
