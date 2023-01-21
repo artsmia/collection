@@ -10,5 +10,18 @@
   "objects": [
     1274
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Fondation Beyeler / Beyeler Museum AG",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, May 22, 2011 - Sunday, April 15, 2012"
+    },
+    {
+      "venue": "Guggenheim Museum Bilbao",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, May 22, 2011 - Sunday, April 15, 2012"
+    }
+  ]
 }

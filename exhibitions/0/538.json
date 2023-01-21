@@ -1,0 +1,43 @@
+{
+  "exhibition_id": 538,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Crossing the Channel: British and French Painting in the Age of Romanticism",
+  "exhibition_description": "This exhibition explored the relationship between French and British painting during the 1820s and 1830s when fascination with every level of Anglo-Scottish culture played a formative role in the development of modern French art. Approximately 120 paintings by 60 artists, including Turner, Bonington, Constable, Delacroix, Géricault, and Corot were on view. An exhibition catalogue accompanied the exhibition.",
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004",
+  "public_info": 0,
+  "objects": [
+    1741,
+    1978,
+    3077,
+    3744,
+    4398,
+    5748,
+    60157,
+    65029,
+    65195,
+    65390,
+    82103
+  ],
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, February 05, 2003 - Sunday, January 04, 2004"
+    }
+  ]
+}
