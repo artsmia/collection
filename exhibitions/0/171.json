@@ -1,0 +1,58 @@
+{
+  "exhibition_id": 171,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "Visions of the People: A Pictorial History of Indian Life",
+  "exhibition_description": null,
+  "begin": 1992,
+  "end": 1993,
+  "display_date": "Sunday, October 11, 1992 - Sunday, July 25, 1993",
+  "public_info": 0,
+  "objects": [
+    3590,
+    3847,
+    3848,
+    3889,
+    3894,
+    3895,
+    3915,
+    4040,
+    4242,
+    4244,
+    4271,
+    4299,
+    4301,
+    4303,
+    4304,
+    4305,
+    4312,
+    4317,
+    4474,
+    4513,
+    4514,
+    4708,
+    4709,
+    4710,
+    4711,
+    8673
+  ],
+  "venues": [
+    {
+      "venue": "Joslyn Art Museum",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Sunday, October 11, 1992 - Sunday, July 25, 1993"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Sunday, October 11, 1992 - Sunday, July 25, 1993"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 1992,
+      "end": 1993,
+      "display_date": "Sunday, October 11, 1992 - Sunday, July 25, 1993"
+    }
+  ]
+}
