@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 1083,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Masters of Light: Dutch Painters in Utrecht During the Golden Age",
+  "exhibition_description": null,
+  "begin": 1997,
+  "end": 1998,
+  "display_date": "Saturday, September 06, 1997 - Sunday, August 02, 1998",
+  "public_info": 0,
+  "objects": [
+    1886,
+    3710
+  ],
+  "venues": [
+    {
+      "venue": "Legion of Honor",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Saturday, September 06, 1997 - Sunday, August 02, 1998"
+    },
+    {
+      "venue": "National Gallery",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Saturday, September 06, 1997 - Sunday, August 02, 1998"
+    },
+    {
+      "venue": "Walters Art Gallery",
+      "begin": 1997,
+      "end": 1998,
+      "display_date": "Saturday, September 06, 1997 - Sunday, August 02, 1998"
+    }
+  ]
+}

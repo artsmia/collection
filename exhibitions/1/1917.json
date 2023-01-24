@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 1917,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Japanese Women Artists, 1600-1990",
+  "exhibition_description": null,
+  "begin": 1988,
+  "end": 1988,
+  "display_date": "Friday, April 01, 1988 - Sunday, October 30, 1988",
+  "public_info": 0,
+  "objects": [
+    99416,
+    122129,
+    122242,
+    122721,
+    122722,
+    122723,
+    122724,
+    122725
+  ],
+  "venues": [
+    {
+      "venue": "Honolulu Academy of Arts",
+      "begin": 1988,
+      "end": 1988,
+      "display_date": "Friday, April 01, 1988 - Sunday, October 30, 1988"
+    },
+    {
+      "venue": "Spencer Museum of Art",
+      "begin": 1988,
+      "end": 1988,
+      "display_date": "Friday, April 01, 1988 - Sunday, October 30, 1988"
+    }
+  ]
+}
