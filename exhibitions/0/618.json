@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 618,
+  "exhibition_department": null,
+  "exhibition_title": "Girodet Examination",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Tuesday, October 14, 2003 - Tuesday, January 13, 2004",
+  "public_info": null,
+  "objects": [
+    1727
+  ],
+  "venues": [
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Tuesday, October 14, 2003 - Tuesday, January 13, 2004"
+    }
+  ]
+}

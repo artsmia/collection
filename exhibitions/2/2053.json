@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 2053,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Suibokuga of the Kamakura",
+  "exhibition_description": null,
+  "begin": 1972,
+  "end": 1977,
+  "display_date": "1972 - Sunday, July 17, 1977",
+  "public_info": 0,
+  "objects": [
+    122105,
+    122106
+  ],
+  "venues": [
+    {
+      "venue": "Shinagawa Prefectural Museum",
+      "begin": 1972,
+      "end": 1977,
+      "display_date": "1972 - Sunday, July 17, 1977"
+    }
+  ]
+}

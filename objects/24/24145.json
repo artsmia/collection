@@ -2,15 +2,15 @@
   "accession_number": "83.170.3",
   "art_champions_text": null,
   "artist": "Artist: Stuart Nielsen",
-  "catalogue_raissonne": null,
-  "classification": " Drawings",
+  "catalogue_raissonne": "see VEL 179",
+  "classification": " Drawings; Collages / Assemblages",
   "continent": "North America",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
   "culture": null,
   "curator_approved": 0,
   "dated": "1979",
-  "department": "Prints and Drawings",
+  "department": "Global Contemporary Art",
   "description": "Symmetrical abstraction featuring four overlapping quadrilateral objects; all the same shape but with different patterns and colors; predominant colors: blue, orange, red, gold",
   "dimension": "40 x 30in. (101.6 x 76.2cm)",
   "id": "http://api.artsmia.org/objects/24145",
@@ -18,10 +18,10 @@
   "image_copyright": "© Stuart Nielsen",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature; Date; Title\r\n\r\n",
+  "inscription": "Inscribed, LL: Working drawing Quartet\r\n\r\n",
   "life_date": "American, born 1947",
   "markings": "",
-  "medium": "Acrylic, collage, graphite",
+  "medium": "Acrylic, collage, and graphite on illustration board; working study",
   "nationality": "American",
   "object_name": "Drawing and collage",
   "portfolio": "From ",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "LL: [Nielsen 1979 Working drawing Quartet]",
+  "signed": "Signed and dated, LL: Nielsen 1979",
   "style": "20th century",
   "text": "",
-  "title": "Working Drawing for 'Quartet'"
+  "title": "Working drawing for \"Quartet\""
 }
