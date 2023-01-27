@@ -1,7 +1,7 @@
 {
   "accession_number": "P.81.67",
   "art_champions_text": null,
-  "artist": "Maker: Stuart Nielsen; Workshop: Angus Davis",
+  "artist": "Artist: Stuart Nielsen; Workshop: Angus Davis",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1980",
-  "department": "Prints and Drawings",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "37 x 35 1/8 in. (93.98 x 89.22 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/67827",
@@ -18,10 +18,10 @@
   "image_copyright": "© Stuart Nielsen",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, Date\r\n\r\nLower left:  Working drwng Quartet\r\n\r\n",
+  "inscription": "\r\n",
   "life_date": "American, born 1947",
   "markings": "",
-  "medium": "Color screenprint and hand-applied silver leaf on fiberglass \"mat\"",
+  "medium": "Color screenprint and hand-applied silver leaf on fiberglass mat",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Lower left:  [Nielsen 1979]",
+  "signed": "Lower left:  Nielsen 1979",
   "style": "20th century",
   "text": "",
   "title": "Plate"
