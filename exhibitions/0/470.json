@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 470,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Elegy: A Tribute Performance by the Twin Cities Arts Community",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2001,
+  "display_date": "October 8, 2001",
+  "public_info": 0,
+  "objects": [
+    2029,
+    3252,
+    3438,
+    3460,
+    4120,
+    5646,
+    7865,
+    8825,
+    43055,
+    50026
+  ],
+  "venues": [
+    {
+      "venue": "The Minnesota Orchestral Association",
+      "begin": 2001,
+      "end": 2001,
+      "display_date": "October 8, 2001"
+    }
+  ]
+}
