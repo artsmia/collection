@@ -10,18 +10,5 @@
   "objects": [
     6176
   ],
-  "venues": [
-    {
-      "venue": "Dixon Gallery and Gardens",
-      "begin": 2021,
-      "end": 2021,
-      "display_date": "Saturday, January 23, 2021 - Wednesday, September 15, 2021"
-    },
-    {
-      "venue": "San Antonio Museum of Art",
-      "begin": 2021,
-      "end": 2021,
-      "display_date": "Saturday, January 23, 2021 - Wednesday, September 15, 2021"
-    }
-  ]
+  "venues": []
 }

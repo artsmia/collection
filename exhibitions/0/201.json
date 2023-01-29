@@ -41,5 +41,12 @@
     32594,
     32595
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Saturday, March 04, 2000 - Sunday, July 23, 2000"
+    }
+  ]
 }

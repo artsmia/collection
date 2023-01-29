@@ -1,0 +1,43 @@
+{
+  "exhibition_id": 1143,
+  "exhibition_department": "Historic: Photography & New Media",
+  "exhibition_title": "The Spectacular of Vernacular",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Saturday, January 29, 2011 - Sunday, March 18, 2012",
+  "public_info": 0,
+  "objects": [
+    2196,
+    2202,
+    10670,
+    11361,
+    11713
+  ],
+  "venues": [
+    {
+      "venue": "Ackland Art Museum",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, January 29, 2011 - Sunday, March 18, 2012"
+    },
+    {
+      "venue": "Contemporary Arts Museum Houston",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, January 29, 2011 - Sunday, March 18, 2012"
+    },
+    {
+      "venue": "Montclair Art Museum",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, January 29, 2011 - Sunday, March 18, 2012"
+    },
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, January 29, 2011 - Sunday, March 18, 2012"
+    }
+  ]
+}
