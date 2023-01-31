@@ -82,42 +82,5 @@
     94108,
     94109
   ],
-  "venues": [
-    {
-      "venue": "Bringham Young University Museum of Art",
-      "begin": 2005,
-      "end": 2007,
-      "display_date": "Monday, September 19, 2005 - Sunday, September 16, 2007"
-    },
-    {
-      "venue": "Cedar Rapids Museum of Art",
-      "begin": 2005,
-      "end": 2007,
-      "display_date": "Monday, September 19, 2005 - Sunday, September 16, 2007"
-    },
-    {
-      "venue": "Columbus Museum of Art",
-      "begin": 2005,
-      "end": 2007,
-      "display_date": "Monday, September 19, 2005 - Sunday, September 16, 2007"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2005,
-      "end": 2007,
-      "display_date": "Monday, September 19, 2005 - Sunday, September 16, 2007"
-    },
-    {
-      "venue": "Portland Museum of Art",
-      "begin": 2005,
-      "end": 2007,
-      "display_date": "Monday, September 19, 2005 - Sunday, September 16, 2007"
-    },
-    {
-      "venue": "Tacoma Art Museum",
-      "begin": 2005,
-      "end": 2007,
-      "display_date": "Monday, September 19, 2005 - Sunday, September 16, 2007"
-    }
-  ]
+  "venues": []
 }

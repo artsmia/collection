@@ -54,5 +54,12 @@
     82411,
     106258
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Haggerty Museum of Art",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Friday, February 02, 2018 - Sunday, May 20, 2018"
+    }
+  ]
 }
