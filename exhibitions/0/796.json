@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 796,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Art in the Age of Steam",
+  "exhibition_description": null,
+  "begin": 2008,
+  "end": 2009,
+  "display_date": "Friday, April 18, 2008 - Sunday, January 18, 2009",
+  "public_info": 0,
+  "objects": [
+    7158,
+    7159
+  ],
+  "venues": [
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, April 18, 2008 - Sunday, January 18, 2009"
+    },
+    {
+      "venue": "Walker Art Gallery, National Museums Liverpool",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Friday, April 18, 2008 - Sunday, January 18, 2009"
+    }
+  ]
+}
