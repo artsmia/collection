@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2973,
+  "exhibition_department": null,
+  "exhibition_title": "Bonnard's Worlds",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Sunday, November 5, 2023 - Sunday, January 28, 2024",
+  "public_info": null,
+  "objects": [
+    1240
+  ],
+  "venues": [
+    {
+      "venue": "Kimbell Art Museum",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, November 5, 2023 - Sunday, January 28, 2024"
+    }
+  ]
+}
