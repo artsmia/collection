@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 637,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Asian Games: The Art of Contest",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Thursday, October 14, 2004 - Sunday, December 11, 2005",
+  "public_info": 0,
+  "objects": [
+    5197
+  ],
+  "venues": [
+    {
+      "venue": "Arthur M. Sackler Gallery",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, October 14, 2004 - Sunday, December 11, 2005"
+    },
+    {
+      "venue": "Asia Society Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, October 14, 2004 - Sunday, December 11, 2005"
+    },
+    {
+      "venue": "Middlebury College Museum of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Thursday, October 14, 2004 - Sunday, December 11, 2005"
+    }
+  ]
+}

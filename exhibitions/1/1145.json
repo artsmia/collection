@@ -1,0 +1,51 @@
+{
+  "exhibition_id": 1145,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Inventing the Modern World: Decorative Arts at the World's Fair 1851-1939",
+  "exhibition_description": null,
+  "begin": 2012,
+  "end": 2014,
+  "display_date": "Saturday, April 14, 2012 - Sunday, January 19, 2014",
+  "public_info": 0,
+  "objects": [
+    5779,
+    9959,
+    10249,
+    40610,
+    40611,
+    40612,
+    40613,
+    40860,
+    40861,
+    40862,
+    40863,
+    40864,
+    40865
+  ],
+  "venues": [
+    {
+      "venue": "Carnegie Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, April 14, 2012 - Sunday, January 19, 2014"
+    },
+    {
+      "venue": "Mint Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, April 14, 2012 - Sunday, January 19, 2014"
+    },
+    {
+      "venue": "Nelson-Atkins Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, April 14, 2012 - Sunday, January 19, 2014"
+    },
+    {
+      "venue": "New Orleans Museum of Art",
+      "begin": 2012,
+      "end": 2014,
+      "display_date": "Saturday, April 14, 2012 - Sunday, January 19, 2014"
+    }
+  ]
+}
