@@ -25,5 +25,12 @@
     129701,
     136058
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Saturday, October 31, 2020 - Sunday, August 01, 2021"
+    }
+  ]
 }
