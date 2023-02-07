@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 37,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Impressions: Painting Quickly in France, 1860-1890",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2001,
+  "display_date": "Wednesday, November 01, 2000 - Saturday, September 08, 2001",
+  "public_info": 0,
+  "objects": [
+    1163,
+    10444
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Wednesday, November 01, 2000 - Saturday, September 08, 2001"
+    },
+    {
+      "venue": "Sterling and Francine Clark Art Institute",
+      "begin": 2000,
+      "end": 2001,
+      "display_date": "Wednesday, November 01, 2000 - Saturday, September 08, 2001"
+    }
+  ]
+}
