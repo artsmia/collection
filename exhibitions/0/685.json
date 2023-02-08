@@ -10,5 +10,24 @@
   "objects": [
     91395
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, November 20, 2004 - Sunday, September 25, 2005"
+    },
+    {
+      "venue": "National Museum of Natural History",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, November 20, 2004 - Sunday, September 25, 2005"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Saturday, November 20, 2004 - Sunday, September 25, 2005"
+    }
+  ]
 }
