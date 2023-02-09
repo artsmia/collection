@@ -10,5 +10,30 @@
   "objects": [
     3750
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum of Anthropology, University of British Columbia",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Saturday, October 10, 2009 - Monday, January 31, 2011"
+    },
+    {
+      "venue": "The Phillips Collection",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Saturday, October 10, 2009 - Monday, January 31, 2011"
+    },
+    {
+      "venue": "University of New Mexcio Art Museum",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Saturday, October 10, 2009 - Monday, January 31, 2011"
+    },
+    {
+      "venue": "University of Virginia Art Museum",
+      "begin": 2009,
+      "end": 2011,
+      "display_date": "Saturday, October 10, 2009 - Monday, January 31, 2011"
+    }
+  ]
 }

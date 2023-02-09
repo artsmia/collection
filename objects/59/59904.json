@@ -1,7 +1,7 @@
 {
   "accession_number": "P.69.59",
   "art_champions_text": null,
-  "artist": "Artist: Jasper Johns; Publisher: Universal Limited Art Editions (ULAE)",
+  "artist": "Artist: Jasper Johns; Printer: Universal Limited Art Editions (ULAE); Publisher: Universal Limited Art Editions (ULAE)",
   "catalogue_raissonne": "Field 53",
   "classification": " Prints",
   "continent": "North America",
@@ -18,14 +18,14 @@
   "image_copyright": "Art © Jasper Johns %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
   "image_height": 2697,
   "image_width": 4874,
-  "inscription": "Signature, Date, Edition\r\n\r\nsee Signed",
+  "inscription": "",
   "life_date": "American, born 1930",
   "markings": "",
   "medium": "Lithograph from two stones",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From ",
-  "provenance": "(Dayton's Gallery 12, Minneapolis); sold to MIA, 1969.",
+  "provenance": "[Dayton's Gallery 12, Minneapolis]; sold to MIA, 1969.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil, LR: [J. Johns \\'66]",
+  "signed": "Signed and dated in pencil, LR: J. Johns \\'66",
   "style": "20th century",
   "text": "",
   "title": "Light Bulb"

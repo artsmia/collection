@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 2844,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "not all realisms",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2023,
+  "display_date": "Thursday, February 23, 2023 - Sunday, June 4, 2023",
+  "public_info": 0,
+  "objects": [
+    100623,
+    100624
+  ],
+  "venues": [
+    {
+      "venue": "Smart Museum of Art",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Thursday, February 23, 2023 - Sunday, June 4, 2023"
+    }
+  ]
+}
