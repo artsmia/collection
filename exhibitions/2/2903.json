@@ -31,5 +31,12 @@
     136379,
     136462
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, July 17, 2021 - Sunday, April 24, 2022"
+    }
+  ]
 }

@@ -10,5 +10,24 @@
   "objects": [
     3710
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Gemäldegalerie, Staatliche Museen Preussischer Kulturbesitz",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984"
+    },
+    {
+      "venue": "Royal Academy of Arts",
+      "begin": 1984,
+      "end": 1984,
+      "display_date": "Sunday, March 18, 1984 - Sunday, November 18, 1984"
+    }
+  ]
 }
