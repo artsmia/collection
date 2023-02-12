@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 969,
+  "exhibition_department": null,
+  "exhibition_title": "The Most Beautiful Museum in the World",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2010,
+  "display_date": "Saturday, March 20, 2010 - Sunday, July 25, 2010",
+  "public_info": null,
+  "objects": [
+    1271
+  ],
+  "venues": [
+    {
+      "venue": "Museum Folkwang",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Saturday, March 20, 2010 - Sunday, July 25, 2010"
+    }
+  ]
+}

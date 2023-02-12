@@ -1,0 +1,44 @@
+{
+  "exhibition_id": 83,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "From the Pedestal to the Pixel",
+  "exhibition_description": null,
+  "begin": 1998,
+  "end": 1998,
+  "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998",
+  "public_info": 0,
+  "objects": [
+    1577,
+    1750,
+    1816,
+    1817,
+    1878,
+    2041,
+    4483,
+    18619,
+    19592,
+    30808,
+    44300,
+    44599
+  ],
+  "venues": [
+    {
+      "venue": "Estate of Henrietta McDonald Winton",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998"
+    },
+    {
+      "venue": "Northeast Auctions",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998"
+    },
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 1998,
+      "end": 1998,
+      "display_date": "Sunday, February 22, 1998 - Sunday, May 24, 1998"
+    }
+  ]
+}

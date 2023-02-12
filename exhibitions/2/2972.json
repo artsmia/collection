@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2972,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Making Her Mark",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Sunday, October 1, 2023 - Monday, July 1, 2024",
+  "public_info": 0,
+  "objects": [
+    1328,
+    126992
+  ],
+  "venues": [
+    {
+      "venue": "Art Gallery of Ontario",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, October 1, 2023 - Monday, July 1, 2024"
+    },
+    {
+      "venue": "Baltimore Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Sunday, October 1, 2023 - Monday, July 1, 2024"
+    }
+  ]
+}
