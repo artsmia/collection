@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 2612,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "A Picture Gallery of the Soul",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2022,
+  "display_date": "Tuesday, September 13, 2022 - Saturday, December 10, 2022",
+  "public_info": 0,
+  "objects": [
+    3754,
+    3755,
+    10770,
+    20178,
+    100557,
+    113973
+  ],
+  "venues": [
+    {
+      "venue": "Katherine E. Nash Gallery, Minneapolis",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": "Tuesday, September 13, 2022 - Saturday, December 10, 2022"
+    }
+  ]
+}
