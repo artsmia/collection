@@ -1,0 +1,40 @@
+{
+  "exhibition_id": 2754,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Scandinavian Design and the United States, 1890-1980",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2023,
+  "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023",
+  "public_info": 0,
+  "objects": [
+    12806,
+    106359
+  ],
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    },
+    {
+      "venue": "Milwaukee Art Museum",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    },
+    {
+      "venue": "Nasjonalmuseet",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    },
+    {
+      "venue": "Nationalmuseum",
+      "begin": 2021,
+      "end": 2023,
+      "display_date": "Thursday, October 14, 2021 - Sunday, July 23, 2023"
+    }
+  ]
+}
