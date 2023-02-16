@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 153,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Art Nouveau, 1890-1914",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Sunday, September 30, 2001 - Monday, January 28, 2002",
+  "public_info": 0,
+  "objects": [
+    3511,
+    5349,
+    40569,
+    40843
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery of Art",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Sunday, September 30, 2001 - Monday, January 28, 2002"
+    }
+  ]
+}
