@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 3000,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Art of Enterprise: Israhel van Meckenem's 15th Century Print Workshop",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Monday, December 18, 2023 - Sunday, March 24, 2024",
+  "public_info": 0,
+  "objects": [
+    47941,
+    47955,
+    47956,
+    47971,
+    47976
+  ],
+  "venues": [
+    {
+      "venue": "Chazen Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Monday, December 18, 2023 - Sunday, March 24, 2024"
+    }
+  ]
+}
