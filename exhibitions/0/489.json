@@ -193,5 +193,36 @@
     62148,
     75996
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2002,
+      "end": 2004,
+      "display_date": "Saturday, October 26, 2002 - Sunday, January 11, 2004"
+    },
+    {
+      "venue": "Musee Fabre - Do Not Use",
+      "begin": 2002,
+      "end": 2004,
+      "display_date": "Saturday, October 26, 2002 - Sunday, January 11, 2004"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Lyon",
+      "begin": 2002,
+      "end": 2004,
+      "display_date": "Saturday, October 26, 2002 - Sunday, January 11, 2004"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Rennes",
+      "begin": 2002,
+      "end": 2004,
+      "display_date": "Saturday, October 26, 2002 - Sunday, January 11, 2004"
+    },
+    {
+      "venue": "Musée des Beaux-Arts de Rouen",
+      "begin": 2002,
+      "end": 2004,
+      "display_date": "Saturday, October 26, 2002 - Sunday, January 11, 2004"
+    }
+  ]
 }

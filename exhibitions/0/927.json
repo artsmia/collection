@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 927,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Worcester-Philadephia Exhibition of Flemish Painting",
+  "exhibition_description": null,
+  "begin": 1939,
+  "end": 1939,
+  "display_date": "Thursday, February 23, 1939 - Wednesday, April 26, 1939",
+  "public_info": 0,
+  "objects": [
+    50
+  ],
+  "venues": [
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 1939,
+      "end": 1939,
+      "display_date": "Thursday, February 23, 1939 - Wednesday, April 26, 1939"
+    },
+    {
+      "venue": "Worcester Art Museum",
+      "begin": 1939,
+      "end": 1939,
+      "display_date": "Thursday, February 23, 1939 - Wednesday, April 26, 1939"
+    }
+  ]
+}

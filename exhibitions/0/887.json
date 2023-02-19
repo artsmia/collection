@@ -15,5 +15,12 @@
     53145,
     59410
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Perlman Teaching Museum",
+      "begin": 2008,
+      "end": 2008,
+      "display_date": "Friday, April 04, 2008 - Sunday, May 11, 2008"
+    }
+  ]
 }
