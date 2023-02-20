@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 3001,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Sublime Light: Tapestry Art of D.Y. Begay",
+  "exhibition_description": null,
+  "begin": 2024,
+  "end": 2025,
+  "display_date": "Thursday, September 26, 2024 - Sunday, August 24, 2025",
+  "public_info": 0,
+  "objects": [
+    123537,
+    131496
+  ],
+  "venues": [
+    {
+      "venue": "National Museum of the American Indian",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Thursday, September 26, 2024 - Sunday, August 24, 2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2606,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Monet: The Late Years",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2019,
+  "display_date": "Saturday, February 16, 2019 - Sunday, September 15, 2019",
+  "public_info": 0,
+  "objects": [
+    1413
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco, de Young Memorial Musuem",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Saturday, February 16, 2019 - Sunday, September 15, 2019"
+    },
+    {
+      "venue": "Kimbell Art Museum",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Saturday, February 16, 2019 - Sunday, September 15, 2019"
+    }
+  ]
+}

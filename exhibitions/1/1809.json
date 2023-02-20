@@ -27,5 +27,12 @@
     106160,
     106161
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Lowe Art Center, Syracuse University",
+      "begin": 1967,
+      "end": 1967,
+      "display_date": "Thursday, April 06, 1967 - Wednesday, April 26, 1967"
+    }
+  ]
 }
