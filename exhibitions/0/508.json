@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 508,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "The Art of China",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Saturday, August 30, 2003 - Sunday, January 04, 2004",
+  "public_info": 0,
+  "objects": [
+    3137,
+    3142,
+    3143,
+    3155,
+    24039,
+    24040
+  ],
+  "venues": [
+    {
+      "venue": "George Bush Presidential Library and Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, August 30, 2003 - Sunday, January 04, 2004"
+    }
+  ]
+}

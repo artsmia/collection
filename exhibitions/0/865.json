@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 865,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Bernini and the Birth of Baroque Portrait Sculpture",
+  "exhibition_description": null,
+  "begin": 2008,
+  "end": 2009,
+  "display_date": "Tuesday, August 05, 2008 - Sunday, March 08, 2009",
+  "public_info": 0,
+  "objects": [
+    565,
+    1588
+  ],
+  "venues": [
+    {
+      "venue": "National Gallery of Canada",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Tuesday, August 05, 2008 - Sunday, March 08, 2009"
+    },
+    {
+      "venue": "The J. Paul Getty Museum",
+      "begin": 2008,
+      "end": 2009,
+      "display_date": "Tuesday, August 05, 2008 - Sunday, March 08, 2009"
+    }
+  ]
+}

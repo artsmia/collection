@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1650,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Paul Durand-Ruel",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2015,
+  "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015",
+  "public_info": 0,
+  "objects": [
+    6239
+  ],
+  "venues": [
+    {
+      "venue": "Musée du Luxembourg",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015"
+    },
+    {
+      "venue": "National Gallery",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 08, 2014 - Sunday, September 13, 2015"
+    }
+  ]
+}

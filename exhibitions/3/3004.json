@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 3004,
+  "exhibition_department": null,
+  "exhibition_title": "Miró-Picasso",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Thursday, October 19, 2023 - Sunday, February 25, 2024",
+  "public_info": null,
+  "objects": [
+    1503
+  ],
+  "venues": [
+    {
+      "venue": "Fundació Juan Miró",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Thursday, October 19, 2023 - Sunday, February 25, 2024"
+    }
+  ]
+}

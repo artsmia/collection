@@ -1,0 +1,22 @@
+{
+  "exhibition_id": 3002,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Surréalisme",
+  "exhibition_description": null,
+  "begin": 2024,
+  "end": 2025,
+  "display_date": "Wednesday, September 4, 2024 - Monday, January 6, 2025",
+  "public_info": 0,
+  "objects": [
+    4777,
+    5033
+  ],
+  "venues": [
+    {
+      "venue": "Centre Pompidou",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Wednesday, September 4, 2024 - Monday, January 6, 2025"
+    }
+  ]
+}
