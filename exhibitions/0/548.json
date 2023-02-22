@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 548,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Great Expectations: John Singer Sargent Painting Children",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005",
+  "public_info": 0,
+  "objects": [
+    1509
+  ],
+  "venues": [
+    {
+      "venue": "Brooklyn Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005"
+    },
+    {
+      "venue": "Chrysler Museum of Art",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005"
+    },
+    {
+      "venue": "Portland Art Museum",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 08, 2004 - Sunday, September 11, 2005"
+    }
+  ]
+}
