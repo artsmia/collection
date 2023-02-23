@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 2709,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Charlie Chaplin: Cinema and the Avant-garde",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Friday, October 18, 2019 - Monday, February 03, 2020",
+  "public_info": 0,
+  "objects": [
+    3423,
+    5033,
+    10529,
+    21495,
+    100807,
+    103800
+  ],
+  "venues": [
+    {
+      "venue": "Musée d'artes de Nantes",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Friday, October 18, 2019 - Monday, February 03, 2020"
+    }
+  ]
+}

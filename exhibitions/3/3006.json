@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 3006,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Georgia O'Keeffe: \"My New Yorks\"",
+  "exhibition_description": null,
+  "begin": 2024,
+  "end": 2025,
+  "display_date": "Sunday, June 2, 2024 - Sunday, February 16, 2025",
+  "public_info": 0,
+  "objects": [
+    2725
+  ],
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Sunday, June 2, 2024 - Sunday, February 16, 2025"
+    },
+    {
+      "venue": "High Museum of Art",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Sunday, June 2, 2024 - Sunday, February 16, 2025"
+    }
+  ]
+}

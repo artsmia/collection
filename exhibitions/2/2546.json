@@ -1,0 +1,29 @@
+{
+  "exhibition_id": 2546,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Unexpected Smiles: Seven Types of Humor in Japanese Painting",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Wednesday, October 18, 2017 - Sunday, August 26, 2018",
+  "public_info": 0,
+  "objects": [
+    117168,
+    118206,
+    118462
+  ],
+  "venues": [
+    {
+      "venue": "Joel and Lila Harnett Museum of Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Wednesday, October 18, 2017 - Sunday, August 26, 2018"
+    },
+    {
+      "venue": "Morikami Museum and Japanese Gardens",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Wednesday, October 18, 2017 - Sunday, August 26, 2018"
+    }
+  ]
+}

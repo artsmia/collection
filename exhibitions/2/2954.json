@@ -1,14 +1,27 @@
 {
   "exhibition_id": 2954,
-  "exhibition_department": null,
+  "exhibition_department": "(not assigned)",
   "exhibition_title": "Maurice de Vlaminck: Modern Artist Rebel",
   "exhibition_description": null,
   "begin": 2024,
   "end": 2025,
-  "display_date": null,
-  "public_info": null,
+  "display_date": "Saturday, September 14, 2024 - Sunday, May 18, 2025",
+  "public_info": 0,
   "objects": [
     1415
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Museum Barberini",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Saturday, September 14, 2024 - Sunday, May 18, 2025"
+    },
+    {
+      "venue": "Von der Heydt-Museum",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Saturday, September 14, 2024 - Sunday, May 18, 2025"
+    }
+  ]
 }
