@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 54,
+  "exhibition_department": null,
+  "exhibition_title": "A New View: An Architect's Eye",
+  "exhibition_description": null,
+  "begin": 1993,
+  "end": 1994,
+  "display_date": "Monday, November 15, 1993 - Friday, March 11, 1994",
+  "public_info": null,
+  "objects": [
+    1274
+  ],
+  "venues": [
+    {
+      "venue": "Frederick R. Weisman Art Museum",
+      "begin": 1993,
+      "end": 1994,
+      "display_date": "Monday, November 15, 1993 - Friday, March 11, 1994"
+    }
+  ]
+}
