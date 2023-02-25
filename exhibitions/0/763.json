@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 763,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "The Sculpture of Louise Nevelson: Constructing a Legend",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2008,
+  "display_date": "Saturday, May 05, 2007 - Sunday, January 13, 2008",
+  "public_info": 0,
+  "objects": [
+    9549
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, May 05, 2007 - Sunday, January 13, 2008"
+    },
+    {
+      "venue": "The Jewish Museum",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, May 05, 2007 - Sunday, January 13, 2008"
+    }
+  ]
+}
