@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 2825,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Aliza Nisenbaum",
+  "exhibition_description": null,
+  "begin": 2020,
+  "end": 2021,
+  "display_date": "Tuesday, December 15, 2020 - Sunday, September 5, 2021",
+  "public_info": 0,
+  "objects": [
+    127306,
+    127307,
+    127308
+  ],
+  "venues": [
+    {
+      "venue": "Tate Liverpool",
+      "begin": 2020,
+      "end": 2021,
+      "display_date": "Tuesday, December 15, 2020 - Sunday, September 5, 2021"
+    }
+  ]
+}

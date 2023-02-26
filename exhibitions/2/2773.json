@@ -131,5 +131,12 @@
     136436,
     136862
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2020,
+      "end": 2020,
+      "display_date": "Saturday, January 04, 2020 - Sunday, December 13, 2020"
+    }
+  ]
 }
