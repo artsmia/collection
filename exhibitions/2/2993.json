@@ -1,0 +1,26 @@
+{
+  "exhibition_id": 2993,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Narrative Wisdom and African Arts",
+  "exhibition_description": null,
+  "begin": 2024,
+  "end": 2025,
+  "display_date": "Friday, September 13, 2024 - Sunday, January 5, 2025",
+  "public_info": 0,
+  "objects": [
+    75993,
+    113238,
+    119282,
+    124237,
+    125791,
+    136057
+  ],
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Friday, September 13, 2024 - Sunday, January 5, 2025"
+    }
+  ]
+}

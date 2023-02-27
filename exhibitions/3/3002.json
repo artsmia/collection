@@ -11,5 +11,12 @@
     4777,
     5033
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Centre Pompidou",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Wednesday, September 4, 2024 - Monday, January 6, 2025"
+    }
+  ]
 }
