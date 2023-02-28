@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2514,
+  "exhibition_department": null,
+  "exhibition_title": "Modigliani at Tate Modern",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Wednesday, November 22, 2017 - Monday, April 02, 2018",
+  "public_info": null,
+  "objects": [
+    1502
+  ],
+  "venues": [
+    {
+      "venue": "Tate Modern",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Wednesday, November 22, 2017 - Monday, April 02, 2018"
+    }
+  ]
+}

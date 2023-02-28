@@ -11,5 +11,12 @@
     565,
     19408
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "John and Mable Ringling Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Saturday, October 14, 2023 - Sunday, January 21, 2024"
+    }
+  ]
 }
