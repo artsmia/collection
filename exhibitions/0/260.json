@@ -91,5 +91,12 @@
     26685,
     36208
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1994,
+      "end": 1995,
+      "display_date": "Saturday, February 19, 1994 - Thursday, February 09, 1995"
+    }
+  ]
 }
