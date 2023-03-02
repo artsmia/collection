@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 2835,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Georgia O'Keeffe. The Painter's Lens",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022",
+  "public_info": 0,
+  "objects": [
+    120547,
+    121890
+  ],
+  "venues": [
+    {
+      "venue": "Beyeler Museum AG",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022"
+    },
+    {
+      "venue": "Centre Georges Pompidou",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022"
+    },
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022"
+    }
+  ]
+}
