@@ -10,5 +10,12 @@
   "objects": [
     78
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Gallerie D'Italia--Piazza Scala",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Wednesday, December 6, 2023 - Monday, April 1, 2024"
+    }
+  ]
 }
