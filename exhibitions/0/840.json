@@ -57,18 +57,5 @@
     103323,
     105523
   ],
-  "venues": [
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2008,
-      "end": 2009,
-      "display_date": "Saturday, December 13, 2008 - Sunday, April 05, 2009"
-    },
-    {
-      "venue": "Snite Museum of Art",
-      "begin": 2008,
-      "end": 2009,
-      "display_date": "Saturday, December 13, 2008 - Sunday, April 05, 2009"
-    }
-  ]
+  "venues": []
 }
