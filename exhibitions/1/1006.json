@@ -10,5 +10,12 @@
   "objects": [
     278
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "New York World's Fair",
+      "begin": 1939,
+      "end": 1940,
+      "display_date": "Sunday, April 30, 1939 - Sunday, October 27, 1940"
+    }
+  ]
 }
