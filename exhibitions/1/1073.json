@@ -12,5 +12,12 @@
     2276,
     9021
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Gallery of Hamilton",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Saturday, May 22, 2010 - Monday, September 06, 2010"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2445,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Nanga Special Exhibition",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 0,
+  "display_date": null,
+  "public_info": 0,
+  "objects": [
+    117373,
+    117436,
+    118124,
+    118154,
+    118171
+  ],
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2000,
+      "end": 0,
+      "display_date": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2420,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Governor's Residence 2016-2018",
+  "exhibition_description": null,
+  "begin": 2016,
+  "end": 2018,
+  "display_date": "Monday, August 22, 2016 - Wednesday, August 01, 2018",
+  "public_info": 0,
+  "objects": [
+    737,
+    18157,
+    34473,
+    45081,
+    45538
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Governor's Residence",
+      "begin": 2016,
+      "end": 2018,
+      "display_date": "Monday, August 22, 2016 - Wednesday, August 01, 2018"
+    }
+  ]
+}

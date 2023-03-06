@@ -10,5 +10,12 @@
   "objects": [
     8567
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1989,
+      "end": 1989,
+      "display_date": null
+    }
+  ]
 }

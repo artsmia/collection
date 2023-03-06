@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1141,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Constantin Brancusi and Richard Serra",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Sunday, May 22, 2011 - Sunday, April 15, 2012",
+  "public_info": 0,
+  "objects": [
+    1274
+  ],
+  "venues": [
+    {
+      "venue": "Beyeler Museum AG",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, May 22, 2011 - Sunday, April 15, 2012"
+    },
+    {
+      "venue": "Guggenheim Museum Bilbao",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Sunday, May 22, 2011 - Sunday, April 15, 2012"
+    }
+  ]
+}
