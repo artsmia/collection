@@ -10,5 +10,12 @@
   "objects": [
     278
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "British Institution",
+      "begin": 1850,
+      "end": 1850,
+      "display_date": "June 1850"
+    }
+  ]
 }

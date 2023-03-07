@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2798,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "The Enduring Soul",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, October 26, 2019 - Sunday, July 12, 2020",
+  "public_info": 0,
+  "objects": [
+    2032,
+    29755,
+    111893,
+    124239,
+    131455,
+    131457,
+    131479
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, October 26, 2019 - Sunday, July 12, 2020"
+    }
+  ]
+}
