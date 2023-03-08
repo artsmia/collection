@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 115,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Other Face of Modern Art",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Saturday, September 15, 2001 - Sunday, March 10, 2002",
+  "public_info": 0,
+  "objects": [
+    1941
+  ],
+  "venues": [
+    {
+      "venue": "Kunstsammlung Nordrhein-Westfalen",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, September 15, 2001 - Sunday, March 10, 2002"
+    },
+    {
+      "venue": "Städtische Galerie im Lenbachhaus",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, September 15, 2001 - Sunday, March 10, 2002"
+    }
+  ]
+}
