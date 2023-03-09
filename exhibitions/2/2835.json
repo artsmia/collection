@@ -11,5 +11,24 @@
     120547,
     121890
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Beyeler Museum AG",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022"
+    },
+    {
+      "venue": "Centre Georges Pompidou",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022"
+    },
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Tuesday, April 20, 2021 - Sunday, May 22, 2022"
+    }
+  ]
 }

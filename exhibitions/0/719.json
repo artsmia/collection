@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 719,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Tamayo: A Modern Icon Reinterpreted",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2007,
+  "display_date": "Saturday, February 17, 2007 - Sunday, September 16, 2007",
+  "public_info": 0,
+  "objects": [
+    1387
+  ],
+  "venues": [
+    {
+      "venue": "Miami Art Museum",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, February 17, 2007 - Sunday, September 16, 2007"
+    },
+    {
+      "venue": "Santa Barbara Museum of Art",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, February 17, 2007 - Sunday, September 16, 2007"
+    }
+  ]
+}

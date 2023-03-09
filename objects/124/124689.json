@@ -14,10 +14,10 @@
   "description": "head and torso of standing man from PL, with a dark Van Dyke beard, wearing a dark jacket and a green fedora, holding a large painter's pallet and a cluster of paintbrushes in her PL hand; painting of a standing girl with a white cap and apron in an elaborate frame at left; colorful images of dancing women in turquoise and coral colored clothing behind man",
   "dimension": "44 1/4 × 46 5/8 in. (112.4 × 118.43 cm) (sight)\r\n49 7/8 × 52 × 1 1/2 in. (126.68 × 132.08 × 3.81 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/124689",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 8057,
+  "image_width": 8348,
   "inscription": "",
   "life_date": "French",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "No Copyright–United States",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G351",
   "see_also": [
     ""
   ],
