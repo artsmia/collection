@@ -21,5 +21,12 @@
     118485,
     123857
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Clark Center for Japanese Art & Culture",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Saturday, February 06, 2010 - Saturday, April 10, 2010"
+    }
+  ]
 }
