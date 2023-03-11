@@ -41,5 +41,12 @@
     60976,
     60977
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Friday, February 15, 2002 - Sunday, January 12, 2003"
+    }
+  ]
 }
