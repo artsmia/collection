@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 465,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Triumph of French Paintings: Seventeenth Century Masterpieces from the Museums of FRAME",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Saturday, October 11, 2003 - Sunday, July 25, 2004",
+  "public_info": 0,
+  "objects": [
+    1683
+  ],
+  "venues": [
+    {
+      "venue": "Birmingham Museum of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, October 11, 2003 - Sunday, July 25, 2004"
+    },
+    {
+      "venue": "Meadows Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, October 11, 2003 - Sunday, July 25, 2004"
+    },
+    {
+      "venue": "Portland Art Museum",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, October 11, 2003 - Sunday, July 25, 2004"
+    }
+  ]
+}
