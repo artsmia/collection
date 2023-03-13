@@ -10,5 +10,18 @@
   "objects": [
     10433
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée Fabre",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, May 7, 2022 - Sunday, February 12, 2023"
+    },
+    {
+      "venue": "Musée Sainte-Croix de Poitiers",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, May 7, 2022 - Sunday, February 12, 2023"
+    }
+  ]
 }
