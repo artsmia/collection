@@ -1,0 +1,23 @@
+{
+  "exhibition_id": 830,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Picasso and American Art",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2007,
+  "display_date": "Saturday, June 16, 2007 - Sunday, September 09, 2007",
+  "public_info": 0,
+  "objects": [
+    1423,
+    1517,
+    3885
+  ],
+  "venues": [
+    {
+      "venue": "Walker Art Center, Minneapolis",
+      "begin": 2007,
+      "end": 2007,
+      "display_date": "Saturday, June 16, 2007 - Sunday, September 09, 2007"
+    }
+  ]
+}

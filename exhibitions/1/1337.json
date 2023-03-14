@@ -10,18 +10,5 @@
   "objects": [
     15729
   ],
-  "venues": [
-    {
-      "venue": "Rochester Art Center",
-      "begin": 1949,
-      "end": 1954,
-      "display_date": "Thursday, March 17, 1949 - Friday, April 30, 1954"
-    },
-    {
-      "venue": "Walker Art Center, Minneapolis",
-      "begin": 1949,
-      "end": 1954,
-      "display_date": "Thursday, March 17, 1949 - Friday, April 30, 1954"
-    }
-  ]
+  "venues": []
 }
