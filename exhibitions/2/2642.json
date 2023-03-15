@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2642,
+  "exhibition_department": null,
+  "exhibition_title": "Inaugural Exhibition",
+  "exhibition_description": null,
+  "begin": 1915,
+  "end": 1915,
+  "display_date": "Thursday, January 7, 1915 - Sunday, February 7, 1915",
+  "public_info": null,
+  "objects": [
+    46
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1915,
+      "end": 1915,
+      "display_date": "Thursday, January 7, 1915 - Sunday, February 7, 1915"
+    }
+  ]
+}
