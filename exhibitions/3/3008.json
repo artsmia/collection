@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 3008,
+  "exhibition_department": null,
+  "exhibition_title": "Made in L.A. 2023",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2023,
+  "display_date": "Sunday, October 1, 2023 - Sunday, December 31, 2023",
+  "public_info": null,
+  "objects": [
+    114186
+  ],
+  "venues": [
+    {
+      "venue": "Hammer Museum of Art and Cultural Arts Center",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Sunday, October 1, 2023 - Sunday, December 31, 2023"
+    }
+  ]
+}

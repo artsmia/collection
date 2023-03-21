@@ -8,9 +8,15 @@
   "display_date": "Saturday, October 21, 2023 - Sunday, January 14, 2024",
   "public_info": 0,
   "objects": [
+    139998,
+    142634,
+    142726,
     143455,
     143456,
     143457,
+    143601,
+    143602,
+    143604,
     143616,
     143617,
     143621,
@@ -70,6 +76,11 @@
     143718,
     143719,
     143721,
+    143884,
+    143885,
+    143886,
+    143887,
+    143888,
     143960,
     143962,
     143965,
@@ -116,5 +127,12 @@
     144464,
     144645
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Saturday, October 21, 2023 - Sunday, January 14, 2024"
+    }
+  ]
 }
