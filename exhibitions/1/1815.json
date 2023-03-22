@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 1815,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Sotatsu",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2016,
+  "display_date": "Saturday, October 24, 2015 - Sunday, January 31, 2016",
+  "public_info": 0,
+  "objects": [
+    8567,
+    121302,
+    121366,
+    121376
+  ],
+  "venues": [
+    {
+      "venue": "Arthur M. Sackler Gallery",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Saturday, October 24, 2015 - Sunday, January 31, 2016"
+    }
+  ]
+}
