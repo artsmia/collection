@@ -1,0 +1,30 @@
+{
+  "exhibition_id": 445,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Painted Prints: Renaissance and Baroque Hand-Colored Engravings, Etchings, and Woodcuts",
+  "exhibition_description": null,
+  "begin": 2002,
+  "end": 2003,
+  "display_date": "Sunday, October 06, 2002 - Sunday, May 18, 2003",
+  "public_info": 0,
+  "objects": [
+    51280,
+    51281,
+    51282,
+    51283
+  ],
+  "venues": [
+    {
+      "venue": "Baltimore Museum of Art",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Sunday, October 06, 2002 - Sunday, May 18, 2003"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2002,
+      "end": 2003,
+      "display_date": "Sunday, October 06, 2002 - Sunday, May 18, 2003"
+    }
+  ]
+}

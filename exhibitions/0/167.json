@@ -1,0 +1,24 @@
+{
+  "exhibition_id": 167,
+  "exhibition_department": "Historic: Textiles",
+  "exhibition_title": "Weaving Cultures: Textiles and Jewelry in Morocco",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2000,
+  "display_date": "Monday, March 27, 2000 - Wednesday, July 19, 2000",
+  "public_info": 0,
+  "objects": [
+    5800,
+    27653,
+    28510,
+    29412
+  ],
+  "venues": [
+    {
+      "venue": "DePaul University Art Gallery",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Monday, March 27, 2000 - Wednesday, July 19, 2000"
+    }
+  ]
+}

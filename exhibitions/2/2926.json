@@ -10,5 +10,24 @@
   "objects": [
     1358
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997"
+    },
+    {
+      "venue": "Mint Museum of Art",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997"
+    },
+    {
+      "venue": "Museum for African Art",
+      "begin": 1995,
+      "end": 1997,
+      "display_date": "Friday, March 31, 1995 - Sunday, April 27, 1997"
+    }
+  ]
 }
