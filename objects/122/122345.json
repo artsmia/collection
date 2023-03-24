@@ -14,10 +14,10 @@
   "description": "woodblock printed book; text pages; image of figures outside of a building with activity inside; interior scene featuring women musicians entertaining men who are eating, with other women lining the room behind lanterns; figure standing and interacting, holding instruments; figures wearing giant heads",
   "dimension": "10 1/4 × 6 7/8 × 3/8 in. (26.04 × 17.46 × 0.95 cm)",
   "id": "http://api.artsmia.org/objects/122345",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9031,
+  "image_width": 10506,
   "inscription": "",
   "life_date": "Japanese, 1819 - 1882",
   "markings": "Marks in pencil on pink label: [204 / V] ; inside URC: [V]; on back cover, ULC, in pencil: [2500] and other marks; Seal LRC of front page: [Settei]",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G103",
   "see_also": [
     ""
   ],

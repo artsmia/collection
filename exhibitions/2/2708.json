@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2708,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "El Greco: Ambition and Defiance",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Monday, October 14, 2019 - Monday, October 19, 2020",
+  "public_info": 0,
+  "objects": [
+    278
+  ],
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Monday, October 14, 2019 - Monday, October 19, 2020"
+    },
+    {
+      "venue": "Réunion des musées nationaux - Grand Palais",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Monday, October 14, 2019 - Monday, October 19, 2020"
+    }
+  ]
+}
