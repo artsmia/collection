@@ -10,5 +10,12 @@
   "objects": [
     1224
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Kunst-und Ausstellungshalle der Bundesrepublik Deutschland",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Thursday, November 15, 2018 - Sunday, March 03, 2019"
+    }
+  ]
 }
