@@ -1,0 +1,45 @@
+{
+  "exhibition_id": 2965,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Meiji Modern: 50 Years of New Japan",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Tuesday, October 3, 2023 - Sunday, September 15, 2024",
+  "public_info": 0,
+  "objects": [
+    63799,
+    63800,
+    122350,
+    128361,
+    136597,
+    136599,
+    136600,
+    136602,
+    136604,
+    136606,
+    136608,
+    136612,
+    136613
+  ],
+  "venues": [
+    {
+      "venue": "Asia Society Museum",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Tuesday, October 3, 2023 - Sunday, September 15, 2024"
+    },
+    {
+      "venue": "Museum of Fine Arts, Houston",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Tuesday, October 3, 2023 - Sunday, September 15, 2024"
+    },
+    {
+      "venue": "Smart Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Tuesday, October 3, 2023 - Sunday, September 15, 2024"
+    }
+  ]
+}
