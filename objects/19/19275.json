@@ -10,14 +10,14 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1778",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "No. 68; Vol. I, cahier no. 12",
   "dimension": "9 11/16 x 6 7/8 in. (24.61 x 17.46 cm) (sight)",
   "id": "http://api.artsmia.org/objects/19275",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7243,
+  "image_width": 5462,
   "inscription": "Inscription\r\n[La Distraite, cette femme après s\\'etre habillée. entièrement se resouvient qu\\'elle ne s\\'est pas lavé les pieds et se fait apporter une cuvette par sa femme de chambre.] on mat",
   "life_date": "French, born 1740",
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The Distracted Woman"
+  "title": "The Distracted Woman, preparatory drawing for Galerie des Modes et Costumes Français"
 }

@@ -10,14 +10,14 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1778",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "No. 69; Vol. I, cahier no. 12",
   "dimension": "9 5/8 x 6 13/16 in. (24.45 x 17.3 cm) (image)",
   "id": "http://api.artsmia.org/objects/19276",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7207,
+  "image_width": 5521,
   "inscription": "Inscription\r\n[Les delassements du Bois de Boulogne.] on mat",
   "life_date": "French, born 1740",
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The Diversions of the Bois du Boulogne"
+  "title": "The Diversions of the Bois du Boulogne, preparatory drawing for Galerie des Modes et Costumes Français"
 }

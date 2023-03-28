@@ -10,14 +10,14 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1778",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "No. 38; Vol. I, cahier no. 7",
   "dimension": "9 5/8 x 6 15/16 in. (24.45 x 17.62 cm) (sight)",
   "id": "http://api.artsmia.org/objects/19269",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7134,
+  "image_width": 5440,
   "inscription": "Inscription\r\n[Robe à la Polonaise d\\'ètoffe unie à coqueluchon.] on mat",
   "life_date": "French, born 1740",
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Dress in the Polish Style"
+  "title": "Dress in the Polish Style, preparatory drawing for Galerie des Modes et Costumes Français"
 }

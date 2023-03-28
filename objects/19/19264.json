@@ -10,14 +10,14 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1778",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "No. 51; Vol. I, cahier no. 9",
   "dimension": "9 11/16 x 6 7/8 in. (24.61 x 17.46 cm) (sight)",
   "id": "http://api.artsmia.org/objects/19264",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 7255,
+  "image_width": 5595,
   "inscription": "Inscription\r\n[Femme deshabillé du matin, couchée négligemment sur un sopha et jouant avec son chien.] on mat",
   "life_date": "French, born 1740",
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Woman Before Dressing in the Morning, Resting Casually on a Sofa while Playing with her Dog"
+  "title": "Woman Before Dressing in the Morning, Resting Casually on a Sofa while Playing with her Dog, preparatory drawing for Galerie des Modes et Costumes Français"
 }
