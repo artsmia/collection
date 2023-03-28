@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 601,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Beyond the Painted Smile: The Japanese Geisha in Image and Reality",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2004,
+  "display_date": "Saturday, February 14, 2004 - Friday, September 24, 2004",
+  "public_info": 0,
+  "objects": [
+    8569,
+    8580,
+    8603,
+    8738,
+    10359,
+    42095,
+    68511
+  ],
+  "venues": [
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Saturday, February 14, 2004 - Friday, September 24, 2004"
+    },
+    {
+      "venue": "Peabody Essex Museum",
+      "begin": 2004,
+      "end": 2004,
+      "display_date": "Saturday, February 14, 2004 - Friday, September 24, 2004"
+    }
+  ]
+}
