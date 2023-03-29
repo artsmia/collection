@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2968,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "All Eyez on Me: Hip Hop, Style, and Contemporary Art (working title)",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2023,
+  "display_date": "Sunday, January 1, 2023 - Sunday, December 31, 2023",
+  "public_info": 0,
+  "objects": [
+    131234
+  ],
+  "venues": [
+    {
+      "venue": "Baltimore Museum of Art",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Sunday, January 1, 2023 - Sunday, December 31, 2023"
+    },
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Sunday, January 1, 2023 - Sunday, December 31, 2023"
+    }
+  ]
+}
