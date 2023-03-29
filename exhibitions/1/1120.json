@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1120,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "This Here Now, Nature and Human Consciousness",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2010,
+  "display_date": "Friday, September 17, 2010 - Sunday, October 24, 2010",
+  "public_info": 0,
+  "objects": [
+    8749,
+    8753,
+    8853,
+    9545,
+    43179,
+    55110,
+    55213,
+    68195,
+    68199,
+    68202,
+    73170,
+    102827,
+    106822
+  ],
+  "venues": [
+    {
+      "venue": "Flaten Art Museum",
+      "begin": 2010,
+      "end": 2010,
+      "display_date": "Friday, September 17, 2010 - Sunday, October 24, 2010"
+    }
+  ]
+}
