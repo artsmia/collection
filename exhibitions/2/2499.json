@@ -11,18 +11,5 @@
     12117,
     114833
   ],
-  "venues": [
-    {
-      "venue": "Krannert Art Museum",
-      "begin": 2017,
-      "end": 2018,
-      "display_date": "Friday, August 25, 2017 - Monday, September 03, 2018"
-    },
-    {
-      "venue": "National Museum of African Art",
-      "begin": 2017,
-      "end": 2018,
-      "display_date": "Friday, August 25, 2017 - Monday, September 03, 2018"
-    }
-  ]
+  "venues": []
 }
