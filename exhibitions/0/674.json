@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 674,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "American ABC",
+  "exhibition_description": null,
+  "begin": 2006,
+  "end": 2007,
+  "display_date": "Wednesday, February 01, 2006 - Sunday, January 07, 2007",
+  "public_info": 0,
+  "objects": [
+    2505
+  ],
+  "venues": [
+    {
+      "venue": "Iris and B. Gerald Cantor Center for Visual Arts",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Wednesday, February 01, 2006 - Sunday, January 07, 2007"
+    },
+    {
+      "venue": "Portland Museum of Art",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Wednesday, February 01, 2006 - Sunday, January 07, 2007"
+    },
+    {
+      "venue": "Smithsonian American Art Museum",
+      "begin": 2006,
+      "end": 2007,
+      "display_date": "Wednesday, February 01, 2006 - Sunday, January 07, 2007"
+    }
+  ]
+}

@@ -10,24 +10,5 @@
   "objects": [
     17940
   ],
-  "venues": [
-    {
-      "venue": "Henry Francis du Pont Winterthur Museum",
-      "begin": 2001,
-      "end": 2002,
-      "display_date": "Friday, September 14, 2001 - Friday, September 13, 2002"
-    },
-    {
-      "venue": "Skirball Museum",
-      "begin": 2001,
-      "end": 2002,
-      "display_date": "Friday, September 14, 2001 - Friday, September 13, 2002"
-    },
-    {
-      "venue": "Yale University Art Gallery",
-      "begin": 2001,
-      "end": 2002,
-      "display_date": "Friday, September 14, 2001 - Friday, September 13, 2002"
-    }
-  ]
+  "venues": []
 }
