@@ -10,18 +10,5 @@
   "objects": [
     2725
   ],
-  "venues": [
-    {
-      "venue": "Art Institute of Chicago",
-      "begin": 2024,
-      "end": 2025,
-      "display_date": "Sunday, June 2, 2024 - Sunday, February 16, 2025"
-    },
-    {
-      "venue": "High Museum of Art",
-      "begin": 2024,
-      "end": 2025,
-      "display_date": "Sunday, June 2, 2024 - Sunday, February 16, 2025"
-    }
-  ]
+  "venues": []
 }

@@ -11,5 +11,12 @@
     766,
     1889
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée des Beaux-Arts de Lyon",
+      "begin": 2016,
+      "end": 2017,
+      "display_date": "Wednesday, November 30, 2016 - Monday, March 06, 2017"
+    }
+  ]
 }
