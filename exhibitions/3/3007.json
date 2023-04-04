@@ -1,12 +1,63 @@
 {
   "exhibition_id": 3007,
-  "exhibition_department": null,
+  "exhibition_department": "European Art",
   "exhibition_title": "Battle of Pavia",
   "exhibition_description": null,
   "begin": 2024,
   "end": 2024,
   "display_date": "Saturday, February 17, 2024 - Saturday, May 11, 2024",
-  "public_info": null,
-  "objects": [],
-  "venues": []
+  "public_info": 0,
+  "objects": [
+    145206,
+    145207,
+    145208,
+    145209,
+    145210,
+    145211,
+    145212,
+    145214,
+    145215,
+    145216,
+    145217,
+    145219,
+    145220,
+    145221,
+    145222,
+    145223,
+    145224,
+    145225,
+    145226,
+    145227,
+    145228,
+    145229,
+    145230,
+    145231,
+    145232,
+    145233,
+    145234,
+    145235,
+    145236,
+    145237,
+    145238
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco, de Young Memorial Musuem",
+      "begin": 2024,
+      "end": 2024,
+      "display_date": "Saturday, February 17, 2024 - Saturday, May 11, 2024"
+    },
+    {
+      "venue": "Kimbell Art Museum",
+      "begin": 2024,
+      "end": 2024,
+      "display_date": "Saturday, February 17, 2024 - Saturday, May 11, 2024"
+    },
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2024,
+      "end": 2024,
+      "display_date": "Saturday, February 17, 2024 - Saturday, May 11, 2024"
+    }
+  ]
 }

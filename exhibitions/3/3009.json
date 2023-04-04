@@ -1,0 +1,35 @@
+{
+  "exhibition_id": 3009,
+  "exhibition_department": "Arts of the Americas",
+  "exhibition_title": "Reimagining Native/American Art",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2023,
+  "display_date": "Saturday, May 6, 2023 - Monday, September 4, 2023",
+  "public_info": 0,
+  "objects": [
+    144571,
+    144572,
+    144573,
+    144574,
+    144575,
+    144576,
+    144577,
+    144578,
+    144579,
+    144580,
+    144581,
+    144695,
+    145150,
+    145213,
+    145218
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Saturday, May 6, 2023 - Monday, September 4, 2023"
+    }
+  ]
+}

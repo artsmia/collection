@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1054,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The Vorticists: Rebel Artists in London and New York, 1914-1918",
+  "exhibition_description": null,
+  "begin": 2010,
+  "end": 2011,
+  "display_date": "Thursday, September 30, 2010 - Sunday, September 04, 2011",
+  "public_info": 0,
+  "objects": [
+    1633
+  ],
+  "venues": [
+    {
+      "venue": "Nasher Museum of Art at Duke University",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Thursday, September 30, 2010 - Sunday, September 04, 2011"
+    },
+    {
+      "venue": "Peggy Guggenheim Collection",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Thursday, September 30, 2010 - Sunday, September 04, 2011"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 2010,
+      "end": 2011,
+      "display_date": "Thursday, September 30, 2010 - Sunday, September 04, 2011"
+    }
+  ]
+}

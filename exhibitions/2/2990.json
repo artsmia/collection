@@ -79,5 +79,12 @@
     144695,
     145150
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Friday, July 7, 2023 - Sunday, March 24, 2024"
+    }
+  ]
 }
