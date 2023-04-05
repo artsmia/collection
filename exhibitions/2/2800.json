@@ -1,0 +1,49 @@
+{
+  "exhibition_id": 2800,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Frosty Weather, Snowy Weather",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2020,
+  "display_date": "Saturday, December 7, 2019 - Sunday, April 12, 2020",
+  "public_info": 0,
+  "objects": [
+    7988,
+    10513,
+    52247,
+    57395,
+    80209,
+    80210,
+    80211,
+    80213,
+    80214,
+    80215,
+    80216,
+    80257,
+    80266,
+    80288,
+    80294,
+    105772,
+    106926,
+    107977,
+    112910,
+    114649,
+    115816,
+    118851,
+    121740,
+    121885,
+    124671,
+    124944,
+    125388,
+    128432,
+    136428
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, December 7, 2019 - Sunday, April 12, 2020"
+    }
+  ]
+}

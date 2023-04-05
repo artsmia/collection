@@ -1,0 +1,41 @@
+{
+  "exhibition_id": 2668,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Sleeping by the Mississippi",
+  "exhibition_description": null,
+  "begin": 2019,
+  "end": 2019,
+  "display_date": "Thursday, May 09, 2019 - Sunday, September 01, 2019",
+  "public_info": 0,
+  "objects": [
+    105013,
+    105015,
+    105016,
+    105017,
+    105019,
+    105020,
+    105022,
+    105024,
+    105025,
+    105026,
+    105033,
+    105034,
+    105037,
+    105047,
+    105048,
+    105052,
+    105056,
+    105058,
+    105061,
+    105062,
+    105064
+  ],
+  "venues": [
+    {
+      "venue": "Minnesota Marine Art Museum",
+      "begin": 2019,
+      "end": 2019,
+      "display_date": "Thursday, May 09, 2019 - Sunday, September 01, 2019"
+    }
+  ]
+}

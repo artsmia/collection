@@ -14,10 +14,10 @@
   "description": "abstract imagery in warm tones; yellow gradient color along top edge; a white rectangle shape with a half circle at top center with a pink gradient on the interior of the rectangle; magenta pink along L edge; yellow to brown gradient along R edge; wavy vertical shapes in light green, yellow and tan at bottom center",
   "dimension": "48 × 40 × 1 in. (121.92 × 101.6 × 2.54 cm)",
   "id": "http://api.artsmia.org/objects/129154",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Miyoko Ito",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9298,
+  "image_width": 7736,
   "inscription": "",
   "life_date": "American, 1918 - 1983",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "G375",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
