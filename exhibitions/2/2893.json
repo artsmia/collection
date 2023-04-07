@@ -13,5 +13,12 @@
     111030,
     121981
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2021,
+      "end": 2021,
+      "display_date": "Thursday, March 18, 2021 - Sunday, September 12, 2021"
+    }
+  ]
 }

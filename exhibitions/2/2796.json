@@ -1,0 +1,36 @@
+{
+  "exhibition_id": 2796,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Emma Amos: Color Odyssey",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Saturday, January 30, 2021 - Monday, January 17, 2022",
+  "public_info": 0,
+  "objects": [
+    127299,
+    128487,
+    129468,
+    137816
+  ],
+  "venues": [
+    {
+      "venue": "Georgia Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, January 30, 2021 - Monday, January 17, 2022"
+    },
+    {
+      "venue": "Munson-Williams-Proctor Arts Institute",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, January 30, 2021 - Monday, January 17, 2022"
+    },
+    {
+      "venue": "Philadelphia Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Saturday, January 30, 2021 - Monday, January 17, 2022"
+    }
+  ]
+}
