@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 151,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Art from the Collection of Richard L. Hillstrom",
+  "exhibition_description": null,
+  "begin": 2000,
+  "end": 2000,
+  "display_date": "Tuesday, August 29, 2000 - Thursday, December 28, 2000",
+  "public_info": 0,
+  "objects": [
+    5683,
+    8155,
+    28303,
+    28304,
+    43264
+  ],
+  "venues": [
+    {
+      "venue": "Hillstrom Museum of Art",
+      "begin": 2000,
+      "end": 2000,
+      "display_date": "Tuesday, August 29, 2000 - Thursday, December 28, 2000"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 691,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "Rétrospective Courbet",
+  "exhibition_description": null,
+  "begin": 2007,
+  "end": 2008,
+  "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008",
+  "public_info": 0,
+  "objects": [
+    1934
+  ],
+  "venues": [
+    {
+      "venue": "Galeries nationales du Grand Palais",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008"
+    },
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008"
+    },
+    {
+      "venue": "Musée Fabre",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Monday, October 08, 2007 - Sunday, September 28, 2008"
+    }
+  ]
+}

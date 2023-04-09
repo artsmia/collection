@@ -13,5 +13,18 @@
     1428,
     1728
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Musée Fabre",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, June 09, 2007 - Sunday, January 20, 2008"
+    },
+    {
+      "venue": "Musée de Grenoble",
+      "begin": 2007,
+      "end": 2008,
+      "display_date": "Saturday, June 09, 2007 - Sunday, January 20, 2008"
+    }
+  ]
 }
