@@ -10,18 +10,5 @@
   "objects": [
     108856
   ],
-  "venues": [
-    {
-      "venue": "High Museum of Art",
-      "begin": 2008,
-      "end": 2010,
-      "display_date": "Sunday, October 12, 2008 - Sunday, January 10, 2010"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2008,
-      "end": 2010,
-      "display_date": "Sunday, October 12, 2008 - Sunday, January 10, 2010"
-    }
-  ]
+  "venues": []
 }

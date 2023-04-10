@@ -1,0 +1,49 @@
+{
+  "exhibition_id": 645,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "The Art of Herbs",
+  "exhibition_description": null,
+  "begin": 2003,
+  "end": 2004,
+  "display_date": "Saturday, July 12, 2003 - Sunday, January 11, 2004",
+  "public_info": 0,
+  "objects": [
+    246,
+    13476,
+    13732,
+    13974,
+    13990,
+    16195,
+    71896,
+    71897,
+    71899,
+    71901,
+    71916,
+    71927,
+    72054,
+    72061,
+    72066,
+    72068,
+    72362,
+    72363,
+    72365,
+    72619,
+    72622,
+    72628,
+    73325,
+    73328,
+    73330,
+    73331,
+    73836,
+    75601,
+    75603
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Saturday, July 12, 2003 - Sunday, January 11, 2004"
+    }
+  ]
+}

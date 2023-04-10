@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2935,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Joseph Stella: Visionary Nature",
+  "exhibition_description": null,
+  "begin": 2022,
+  "end": 2023,
+  "display_date": "Saturday, October 1, 2022 - Sunday, September 24, 2023",
+  "public_info": 0,
+  "objects": [
+    120566
+  ],
+  "venues": [
+    {
+      "venue": "Brandywine River Museum of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, October 1, 2022 - Sunday, September 24, 2023"
+    },
+    {
+      "venue": "High Museum of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, October 1, 2022 - Sunday, September 24, 2023"
+    },
+    {
+      "venue": "Norton Museum of Art",
+      "begin": 2022,
+      "end": 2023,
+      "display_date": "Saturday, October 1, 2022 - Sunday, September 24, 2023"
+    }
+  ]
+}
