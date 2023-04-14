@@ -1,14 +1,35 @@
 {
   "exhibition_id": 2998,
-  "exhibition_department": null,
+  "exhibition_department": "European Art",
   "exhibition_title": "Caravaggio's Judith and Holofernes",
   "exhibition_description": null,
   "begin": 2023,
   "end": 2023,
   "display_date": "Saturday, April 22, 2023 - Sunday, August 20, 2023",
-  "public_info": null,
+  "public_info": 0,
   "objects": [
+    168,
+    1486,
+    1530,
+    1621,
+    2486,
+    7213,
+    7227,
+    9461,
+    24172,
+    33378,
+    48862,
+    57374,
+    107167,
+    113505,
     144368
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Arts",
+      "begin": 2023,
+      "end": 2023,
+      "display_date": "Saturday, April 22, 2023 - Sunday, August 20, 2023"
+    }
+  ]
 }

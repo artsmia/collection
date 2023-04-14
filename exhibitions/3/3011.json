@@ -1,0 +1,34 @@
+{
+  "exhibition_id": 3011,
+  "exhibition_department": "Arts of the Americas",
+  "exhibition_title": "Americas Rotation 2023",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Saturday, June 10, 2023 - Sunday, June 9, 2024",
+  "public_info": 0,
+  "objects": [
+    144571,
+    144572,
+    144573,
+    144574,
+    144575,
+    144576,
+    144577,
+    144578,
+    144579,
+    144580,
+    144581,
+    144695,
+    145150,
+    145152
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Saturday, June 10, 2023 - Sunday, June 9, 2024"
+    }
+  ]
+}
