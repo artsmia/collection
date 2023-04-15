@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 1850,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Wyeth: Andrew and Jamie in the Studio",
+  "exhibition_description": null,
+  "begin": 2015,
+  "end": 2016,
+  "display_date": "Thursday, November 05, 2015 - Sunday, February 07, 2016",
+  "public_info": 0,
+  "objects": [
+    120579
+  ],
+  "venues": [
+    {
+      "venue": "Denver Art Museum",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Thursday, November 05, 2015 - Sunday, February 07, 2016"
+    },
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2015,
+      "end": 2016,
+      "display_date": "Thursday, November 05, 2015 - Sunday, February 07, 2016"
+    }
+  ]
+}

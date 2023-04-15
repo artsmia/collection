@@ -1,0 +1,48 @@
+{
+  "exhibition_id": 1524,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "Modern Spirit: The Art of George Morrison",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2015,
+  "display_date": "Sunday, June 16, 2013 - Sunday, April 26, 2015",
+  "public_info": 0,
+  "objects": [
+    4987,
+    4988,
+    6326,
+    16630
+  ],
+  "venues": [
+    {
+      "venue": "Eiteljorg Museum of American Indians and Western Art",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Sunday, June 16, 2013 - Sunday, April 26, 2015"
+    },
+    {
+      "venue": "Heard Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Sunday, June 16, 2013 - Sunday, April 26, 2015"
+    },
+    {
+      "venue": "Minnesota Historical Society",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Sunday, June 16, 2013 - Sunday, April 26, 2015"
+    },
+    {
+      "venue": "National Museum of the American Indian",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Sunday, June 16, 2013 - Sunday, April 26, 2015"
+    },
+    {
+      "venue": "Plains Art Museum",
+      "begin": 2013,
+      "end": 2015,
+      "display_date": "Sunday, June 16, 2013 - Sunday, April 26, 2015"
+    }
+  ]
+}

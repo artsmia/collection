@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 2669,
+  "exhibition_department": null,
+  "exhibition_title": "Goya",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Sunday, October 10, 2021 - Sunday, January 23, 2022",
+  "public_info": null,
+  "objects": [
+    1226
+  ],
+  "venues": [
+    {
+      "venue": "Beyeler Museum AG",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 10, 2021 - Sunday, January 23, 2022"
+    }
+  ]
+}
