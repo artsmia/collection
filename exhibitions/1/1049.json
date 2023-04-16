@@ -1,0 +1,41 @@
+{
+  "exhibition_id": 1049,
+  "exhibition_department": "Historic: Prints and Drawings",
+  "exhibition_title": "The Night Sky in the Age of Vermeer: The Astronomer in Context",
+  "exhibition_description": null,
+  "begin": 2009,
+  "end": 2010,
+  "display_date": "Saturday, August 08, 2009 - Sunday, January 31, 2010",
+  "public_info": 0,
+  "objects": [
+    42727,
+    42803,
+    50290,
+    50291,
+    55383,
+    73906,
+    74991,
+    74993,
+    74996,
+    74997,
+    74999,
+    75001,
+    75002,
+    76117,
+    76118,
+    108083,
+    108084,
+    108085,
+    108086,
+    108732,
+    108733
+  ],
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2009,
+      "end": 2010,
+      "display_date": "Saturday, August 08, 2009 - Sunday, January 31, 2010"
+    }
+  ]
+}
