@@ -10,5 +10,12 @@
   "objects": [
     18345
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Saint John's University",
+      "begin": 1966,
+      "end": 1966,
+      "display_date": "Thursday, April 28, 1966 - Thursday, June 30, 1966"
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2582,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Balthus (working title)",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2019,
+  "display_date": "Sunday, September 02, 2018 - Friday, May 31, 2019",
+  "public_info": 0,
+  "objects": [
+    1627
+  ],
+  "venues": [
+    {
+      "venue": "Beyeler Museum AG",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, September 02, 2018 - Friday, May 31, 2019"
+    },
+    {
+      "venue": "Museo Nacional Thyssen-Bornemisza",
+      "begin": 2018,
+      "end": 2019,
+      "display_date": "Sunday, September 02, 2018 - Friday, May 31, 2019"
+    }
+  ]
+}

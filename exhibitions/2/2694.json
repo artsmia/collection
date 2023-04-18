@@ -1,0 +1,32 @@
+{
+  "exhibition_id": 2694,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Glimpse of Nature",
+  "exhibition_description": null,
+  "begin": 1996,
+  "end": 1996,
+  "display_date": "Tuesday, March 5, 1996 - Sunday, April 28, 1996",
+  "public_info": 0,
+  "objects": [
+    116726,
+    117092,
+    117093,
+    117167,
+    117359,
+    117476,
+    117606,
+    117727,
+    117968,
+    117969,
+    117970,
+    118095
+  ],
+  "venues": [
+    {
+      "venue": "Los Angeles County Museum of Art",
+      "begin": 1996,
+      "end": 1996,
+      "display_date": "Tuesday, March 5, 1996 - Sunday, April 28, 1996"
+    }
+  ]
+}
