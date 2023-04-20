@@ -10,5 +10,18 @@
   "objects": [
     1325
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Beyeler Museum AG",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, October 15, 2003 - Sunday, June 27, 2004"
+    },
+    {
+      "venue": "Kunsthistorisches Museum Wien",
+      "begin": 2003,
+      "end": 2004,
+      "display_date": "Wednesday, October 15, 2003 - Sunday, June 27, 2004"
+    }
+  ]
 }

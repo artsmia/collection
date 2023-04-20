@@ -10,5 +10,12 @@
   "objects": [
     2031
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Espacio de Santa Clara",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Wednesday, October 15, 2014 - Thursday, January 15, 2015"
+    }
+  ]
 }
