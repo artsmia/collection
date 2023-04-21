@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2814,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "O'Keeffe and Moore",
+  "exhibition_description": null,
+  "begin": 2023,
+  "end": 2024,
+  "display_date": "Friday, May 12, 2023 - Sunday, June 09, 2024",
+  "public_info": 0,
+  "objects": [
+    1554
+  ],
+  "venues": [
+    {
+      "venue": "Albuquerque Museum",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Friday, May 12, 2023 - Sunday, June 09, 2024"
+    },
+    {
+      "venue": "Montreal Museum of Fine Arts",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Friday, May 12, 2023 - Sunday, June 09, 2024"
+    },
+    {
+      "venue": "San Diego Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Friday, May 12, 2023 - Sunday, June 09, 2024"
+    }
+  ]
+}
