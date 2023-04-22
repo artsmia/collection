@@ -1,0 +1,69 @@
+{
+  "exhibition_id": 1371,
+  "exhibition_department": "Historic: Paintings",
+  "exhibition_title": "The New American Painting",
+  "exhibition_description": null,
+  "begin": 1958,
+  "end": 1959,
+  "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959",
+  "public_info": 0,
+  "objects": [
+    1332
+  ],
+  "venues": [
+    {
+      "venue": "Galleria Civica d'Arte Moderna e Contemporanea di Torino",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Hochscule für Bildende Kunste",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Museo Nacional de Arte Contemporaneo",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Museum of Modern Art, New York",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Musée National d'Art Moderne, Paris",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Nunsthalle",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Palais des Beaux-Arts, Brussels",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Stedelijk Museum, Amsterdam",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    },
+    {
+      "venue": "Tate Britain",
+      "begin": 1958,
+      "end": 1959,
+      "display_date": "Saturday, April 19, 1958 - Tuesday, September 08, 1959"
+    }
+  ]
+}

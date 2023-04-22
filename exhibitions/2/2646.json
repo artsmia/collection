@@ -190,30 +190,5 @@
     136417,
     136421
   ],
-  "venues": [
-    {
-      "venue": "Frist Art Museum",
-      "begin": 2019,
-      "end": 2021,
-      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
-    },
-    {
-      "venue": "Minneapolis Institute of Art",
-      "begin": 2019,
-      "end": 2021,
-      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
-    },
-    {
-      "venue": "Philbrook Museum of Art",
-      "begin": 2019,
-      "end": 2021,
-      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
-    },
-    {
-      "venue": "Renwick Gallery of the Smithsonian American Art Museum",
-      "begin": 2019,
-      "end": 2021,
-      "display_date": "Sunday, June 2, 2019 - Sunday, January 3, 2021"
-    }
-  ]
+  "venues": []
 }
