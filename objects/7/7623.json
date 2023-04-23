@@ -1,8 +1,8 @@
 {
   "accession_number": "P.83.59.13a,b",
   "art_champions_text": null,
-  "artist": "Artist: Steven Beyer",
-  "catalogue_raissonne": "Vermillion Publications, 1978-1983, no. 4\r\nVEL 54",
+  "artist": "Artist: Steven Beyer; Printer: Vermillion Editions Limited, Minneapolis; Publisher: Vermillion Editions Limited, Minneapolis",
+  "catalogue_raissonne": "Vermillion Publications, 1978-1983, no. 4; VEL 54",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -18,10 +18,10 @@
   "image_copyright": "© Steven Beyer",
   "image_height": 3676,
   "image_width": 3228,
-  "inscription": "Signed, dated, numbered, inscribed, and chop mark.",
+  "inscription": "LC: first child / mother father / second child",
   "life_date": "American, born 1951",
-  "markings": "LL: VEL chop mark",
-  "medium": "Drypoint and etching; diptych",
+  "markings": "LL: 4/7 ap\r\nLL: VEL chop mark",
+  "medium": "Drypoint (using electric grinder and various hand tools) and etching; diptych",
   "nationality": "American",
   "object_name": "Print, diptych",
   "portfolio": "From ",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LR: [Steven Beyer 1979-80]\r\nLL: [4/7 ap]\r\nLC: [first child / mother father / second child]",
+  "signed": "LR: Steven Beyer 1979-80\r\n\r\n",
   "style": "20th century",
   "text": "",
   "title": "Four Member Family System"
