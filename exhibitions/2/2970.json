@@ -10,5 +10,18 @@
   "objects": [
     30703
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Amon Carter Museum of American Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Saturday, August 26, 2023 - Sunday, June 9, 2024"
+    },
+    {
+      "venue": "Colby College Museum of Art",
+      "begin": 2023,
+      "end": 2024,
+      "display_date": "Saturday, August 26, 2023 - Sunday, June 9, 2024"
+    }
+  ]
 }
