@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 651,
+  "exhibition_department": null,
+  "exhibition_title": "El Retrato Español",
+  "exhibition_description": null,
+  "begin": 2004,
+  "end": 2005,
+  "display_date": "Monday, October 18, 2004 - Sunday, February 06, 2005",
+  "public_info": null,
+  "objects": [
+    1226
+  ],
+  "venues": [
+    {
+      "venue": "Museo Nacional del Prado",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Monday, October 18, 2004 - Sunday, February 06, 2005"
+    }
+  ]
+}

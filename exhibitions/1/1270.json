@@ -1,0 +1,21 @@
+{
+  "exhibition_id": 1270,
+  "exhibition_department": null,
+  "exhibition_title": "Paris in the Twenties",
+  "exhibition_description": null,
+  "begin": 2011,
+  "end": 2012,
+  "display_date": "Saturday, September 10, 2011 - Sunday, January 08, 2012",
+  "public_info": null,
+  "objects": [
+    1890
+  ],
+  "venues": [
+    {
+      "venue": "Palazzo Dei Diamanti",
+      "begin": 2011,
+      "end": 2012,
+      "display_date": "Saturday, September 10, 2011 - Sunday, January 08, 2012"
+    }
+  ]
+}
