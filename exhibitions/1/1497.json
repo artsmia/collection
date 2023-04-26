@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 1497,
+  "exhibition_department": "Historic: Chinese, Indian, and Southeast Asian Art",
+  "exhibition_title": "Yoga: The Art of Transformation",
+  "exhibition_description": null,
+  "begin": 2013,
+  "end": 2014,
+  "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014",
+  "public_info": 0,
+  "objects": [
+    1380
+  ],
+  "venues": [
+    {
+      "venue": "Arthur M. Sackler Gallery",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014"
+    },
+    {
+      "venue": "Asian Art Museum of San Francisco",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014"
+    },
+    {
+      "venue": "Cleveland Museum of Art",
+      "begin": 2013,
+      "end": 2014,
+      "display_date": "Saturday, October 19, 2013 - Sunday, September 07, 2014"
+    }
+  ]
+}

@@ -10,5 +10,12 @@
   "objects": [
     2038
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Complesso del Vittoriano",
+      "begin": 2004,
+      "end": 2005,
+      "display_date": "Friday, October 01, 2004 - Tuesday, February 01, 2005"
+    }
+  ]
 }
