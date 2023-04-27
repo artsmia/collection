@@ -10,5 +10,12 @@
   "objects": [
     50
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 1934,
+      "end": 1934,
+      "display_date": "Monday, May 14, 1934 - Sunday, September 30, 1934"
+    }
+  ]
 }
