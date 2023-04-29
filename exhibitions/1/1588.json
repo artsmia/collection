@@ -10,5 +10,24 @@
   "objects": [
     3885
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Brooklyn Museum",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015"
+    },
+    {
+      "venue": "Hood Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015"
+    },
+    {
+      "venue": "Jack S. Blanton Museum of Art",
+      "begin": 2014,
+      "end": 2015,
+      "display_date": "Friday, March 07, 2014 - Sunday, May 03, 2015"
+    }
+  ]
 }

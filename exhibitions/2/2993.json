@@ -15,5 +15,12 @@
     125791,
     136057
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Saint Louis Art Museum",
+      "begin": 2024,
+      "end": 2025,
+      "display_date": "Friday, September 13, 2024 - Sunday, January 5, 2025"
+    }
+  ]
 }
