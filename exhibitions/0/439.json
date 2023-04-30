@@ -1,0 +1,37 @@
+{
+  "exhibition_id": 439,
+  "exhibition_department": "Historic: Decorative Arts, Textiles & Sculpture",
+  "exhibition_title": "Streamline: The Dawn of Tomorrow",
+  "exhibition_description": null,
+  "begin": 2001,
+  "end": 2002,
+  "display_date": "Saturday, November 17, 2001 - Sunday, June 16, 2002",
+  "public_info": 0,
+  "objects": [
+    6950,
+    40280,
+    40282,
+    40926,
+    40927,
+    40946,
+    40947,
+    40948,
+    40949,
+    40950,
+    40951
+  ],
+  "venues": [
+    {
+      "venue": "Kunstmuseum Wolfsburg",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, November 17, 2001 - Sunday, June 16, 2002"
+    },
+    {
+      "venue": "Stedelijk Museum, Amsterdam",
+      "begin": 2001,
+      "end": 2002,
+      "display_date": "Saturday, November 17, 2001 - Sunday, June 16, 2002"
+    }
+  ]
+}

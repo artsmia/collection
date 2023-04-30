@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 2553,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Innovative Impressions: Cassatt, Degas, and Pissarro",
+  "exhibition_description": null,
+  "begin": 2018,
+  "end": 2018,
+  "display_date": "Saturday, June 09, 2018 - Sunday, September 09, 2018",
+  "public_info": 0,
+  "objects": [
+    7730,
+    8879,
+    52978,
+    102823,
+    105335
+  ],
+  "venues": [
+    {
+      "venue": "Philbrook Museum of Art",
+      "begin": 2018,
+      "end": 2018,
+      "display_date": "Saturday, June 09, 2018 - Sunday, September 09, 2018"
+    }
+  ]
+}

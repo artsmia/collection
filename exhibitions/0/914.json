@@ -10,5 +10,12 @@
   "objects": [
     1671
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 1968,
+      "end": 1969,
+      "display_date": "Thursday, December 12, 1968 - Sunday, February 09, 1969"
+    }
+  ]
 }

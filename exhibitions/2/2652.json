@@ -10,5 +10,12 @@
   "objects": [
     107115
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Des Moines Art Center",
+      "begin": 2019,
+      "end": 2020,
+      "display_date": "Saturday, October 05, 2019 - Sunday, January 12, 2020"
+    }
+  ]
 }
