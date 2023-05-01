@@ -1,0 +1,25 @@
+{
+  "exhibition_id": 1637,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Audible Edge",
+  "exhibition_description": null,
+  "begin": 2014,
+  "end": 2014,
+  "display_date": "Tuesday, May 27, 2014 - Saturday, July 26, 2014",
+  "public_info": 0,
+  "objects": [
+    3420,
+    3435,
+    3453,
+    10656,
+    62811
+  ],
+  "venues": [
+    {
+      "venue": "Katherine E. Nash Gallery, Minneapolis",
+      "begin": 2014,
+      "end": 2014,
+      "display_date": "Tuesday, May 27, 2014 - Saturday, July 26, 2014"
+    }
+  ]
+}

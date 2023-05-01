@@ -1,0 +1,28 @@
+{
+  "exhibition_id": 2499,
+  "exhibition_department": "Historic: Art of Africa and the Americas",
+  "exhibition_title": "World on the Horizon: Swahili Arts Across the Indian Ocean",
+  "exhibition_description": null,
+  "begin": 2017,
+  "end": 2018,
+  "display_date": "Friday, August 25, 2017 - Monday, September 03, 2018",
+  "public_info": 0,
+  "objects": [
+    12117,
+    114833
+  ],
+  "venues": [
+    {
+      "venue": "Krannert Art Museum",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Friday, August 25, 2017 - Monday, September 03, 2018"
+    },
+    {
+      "venue": "National Museum of African Art",
+      "begin": 2017,
+      "end": 2018,
+      "display_date": "Friday, August 25, 2017 - Monday, September 03, 2018"
+    }
+  ]
+}

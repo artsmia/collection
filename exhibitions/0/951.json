@@ -39,5 +39,12 @@
     60300,
     66987
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Minneapolis Institute of Art",
+      "begin": 2008,
+      "end": 2008,
+      "display_date": "Saturday, May 10, 2008 - Sunday, November 02, 2008"
+    }
+  ]
 }
