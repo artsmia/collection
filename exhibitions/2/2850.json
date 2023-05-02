@@ -1,0 +1,33 @@
+{
+  "exhibition_id": 2850,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Alice Neel: People Come First",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Monday, March 15, 2021 - Sunday, July 10, 2022",
+  "public_info": 0,
+  "objects": [
+    137640
+  ],
+  "venues": [
+    {
+      "venue": "Fine Arts Museums of San Francisco, de Young Memorial Musuem",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Monday, March 15, 2021 - Sunday, July 10, 2022"
+    },
+    {
+      "venue": "Guggenheim Museum Bilbao",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Monday, March 15, 2021 - Sunday, July 10, 2022"
+    },
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Monday, March 15, 2021 - Sunday, July 10, 2022"
+    }
+  ]
+}
