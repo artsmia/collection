@@ -10,5 +10,24 @@
   "objects": [
     1727
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Art Institute of Chicago",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Monday, September 19, 2005 - Sunday, August 27, 2006"
+    },
+    {
+      "venue": "Metropolitan Museum of Art",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Monday, September 19, 2005 - Sunday, August 27, 2006"
+    },
+    {
+      "venue": "Musée du Louvre",
+      "begin": 2005,
+      "end": 2006,
+      "display_date": "Monday, September 19, 2005 - Sunday, August 27, 2006"
+    }
+  ]
 }

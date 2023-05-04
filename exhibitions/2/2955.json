@@ -10,5 +10,12 @@
   "objects": [
     111958
   ],
-  "venues": []
+  "venues": [
+    {
+      "venue": "Center for Art in Wood",
+      "begin": 2022,
+      "end": 2022,
+      "display_date": "Friday, May 6, 2022 - Sunday, July 24, 2022"
+    }
+  ]
 }
