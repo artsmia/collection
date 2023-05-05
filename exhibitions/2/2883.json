@@ -1,0 +1,27 @@
+{
+  "exhibition_id": 2883,
+  "exhibition_department": "(not assigned)",
+  "exhibition_title": "Van Gogh and the Olive Groves",
+  "exhibition_description": null,
+  "begin": 2021,
+  "end": 2022,
+  "display_date": "Sunday, October 17, 2021 - Sunday, June 12, 2022",
+  "public_info": 0,
+  "objects": [
+    1218
+  ],
+  "venues": [
+    {
+      "venue": "Dallas Museum of Art",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 17, 2021 - Sunday, June 12, 2022"
+    },
+    {
+      "venue": "Van Gogh Museum",
+      "begin": 2021,
+      "end": 2022,
+      "display_date": "Sunday, October 17, 2021 - Sunday, June 12, 2022"
+    }
+  ]
+}
