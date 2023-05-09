@@ -14,10 +14,10 @@
   "description": "line drawing on graphing paper; inverted fan shape, with linear design elements on interior of fan- two serpent shapes, with squiggly bodies and oblong heads on L; diagonal intersecting lines throughout; series of spiral shapes that form a diagonal line on R; two curling spiral shapes on R edge of sheet",
   "dimension": "11 × 17 1/16 in. (27.9 × 43.3 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/143663",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 6778,
+  "image_width": 10478,
   "inscription": "LRC, verso, in pencil: 619",
   "life_date": "American, born 1940",
   "markings": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Utitled"
+  "title": "Untitled"
 }
