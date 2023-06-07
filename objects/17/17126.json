@@ -1,7 +1,7 @@
 {
   "accession_number": "45.5",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: Formerly attributed to Andrea della Robbia",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Europe",
@@ -9,9 +9,9 @@
   "creditline": "The John R. Van Derlip Fund",
   "culture": null,
   "curator_approved": 0,
-  "dated": "15th century",
+  "dated": "c. 1520",
   "department": "European Art",
-  "description": "'Madonna and Child with John the Baptist', ceramic, Italian cat. card dims D45', medium - terra cotta, card lists artist as Della Robbia (fake)",
+  "description": "'Madonna and Child with John the Baptist', ceramic, Italian cat. card dims D45', medium - terra cotta",
   "dimension": "8 x 45-3/4 x 45-3/4",
   "id": "http://api.artsmia.org/objects/17126",
   "image": "valid",
@@ -19,7 +19,7 @@
   "image_height": 3288,
   "image_width": 3209,
   "inscription": "",
-  "life_date": null,
+  "life_date": "Italian (Florence), 1435–1525",
   "markings": "",
   "medium": "Glazed terra cotta",
   "nationality": null,
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "15th century",
+  "style": "16th century",
   "text": "",
   "title": "Madonna and Child with St. John the Baptist in Tondo"
 }
