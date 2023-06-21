@@ -1,7 +1,7 @@
 {
   "accession_number": "P.78.25.6",
   "art_champions_text": null,
-  "artist": "Artist: John Cage; Publisher: Crown Point Press, San Francisco",
+  "artist": "Artist: John Cage; Printer: Crown Point Press, San Francisco; Publisher: Crown Point Press, San Francisco",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "January 5, 1978",
-  "department": "Prints and Drawings",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "10 x 3/4 in. (25.4 x 1.91 cm) (plate)\r\n12 x 17 in. (30.48 x 43.18 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/56995",
@@ -18,14 +18,14 @@
   "image_copyright": "© John Cage %2F Crown Point Press",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, Edition, Inscription, Stamp\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [21/25]; inscribed in pencil LL: [IV]\r\n\r\nPublisher\\'s / printer\\'s stamp in black ink, verso: [(logo) CROWN POINT PRESS / STEPHEN THOMAS]",
+  "inscription": "Inscribed in pencil LL: [IV]\r\n\r\n",
   "life_date": "American, 1912-1992",
-  "markings": "WM: [RIVES]; stamp in black ink, verso",
+  "markings": "Numbered in pencil, LL: 21/25\r\nPublisher\\'s / printer\\'s stamp in black ink, verso: (logo) CROWN POINT PRESS / STEPHEN THOMAS\r\nWM: RIVES",
   "medium": "Etching, drypoint, soft-ground etching, sugar-lift aquatint, and photo etching",
   "nationality": "American",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": "From From \"Seven Day Diary (Not Knowing)\" portfolio",
-  "provenance": "[LA Louver Gallery, Los Angeles]",
+  "provenance": "[LA Louver Gallery, Los Angeles]; sold to MIA< 1978.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed in pencil, LR: [John Cage]",
+  "signed": "Signed in pencil, LR: John Cage",
   "style": "20th century",
-  "text": "",
+  "text": "A leading avant-garde musician, composer, writer, and visual artist, John Cage notably applied principles of Zen Buddhist thought to resolve aesthetic problems. Cage was fascinated by the ideas of letting go of free will and exploring the spiritual essence of creativity. Seven Day Diary (Not Knowing) represents his belief in chance, of removing intention from the artist's hand as a method of discovery. Untrained in etching or other intaglio printmaking techniques, Cage produced this suite of prints over a single week--while working blindfolded. He completed one image each day with no further alterations, its placement on the paper determined largely by chance. Each day he added another technique to his intaglio repertoire, an additive process apparent in the increasing complexity of each successive plate. For Cage, technique was never important in itself, only a means to a larger end. The result was a series of individual creative moments guided by chance.",
   "title": "Day IV"
 }
