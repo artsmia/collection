@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "circa 1960",
   "department": "Asian Art",
-  "description": "still life",
+  "description": "still life; gray circle with cherries at center on black background",
   "dimension": "11 9/16 x 13 7/16 in. (29.4 x 34.2 cm) (image)\r\n14 5/8 x 16 3/4 in. (37.2 x 42.6 cm) (sheet)\r\n18 x 22 1/16 in. (45.7 x 56 cm) (mat)",
   "id": "http://api.artsmia.org/objects/80116",
   "image": "valid",
@@ -20,11 +20,11 @@
   "image_width": 4368,
   "inscription": "",
   "life_date": "Japanese, 1909 - 2000",
-  "markings": "",
+  "markings": "BL below image, graphite: 45/50",
   "medium": "Mezzotint and engraving",
   "nationality": "Japanese",
   "object_name": "Print (gendai hanga)",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Hamaguchi",
+  "signed": "BR, below image, graphite: hamaguchi",
   "style": "20th century",
   "text": "",
   "title": "Title unknown [Cherries]"
