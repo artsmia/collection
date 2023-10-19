@@ -1,5 +1,5 @@
 {
-  "accession_number": "2022.43.1",
+  "accession_number": "2022.43.5",
   "art_champions_text": null,
   "artist": "Artist: Shelley Niro",
   "catalogue_raissonne": null,
@@ -11,19 +11,19 @@
   "curator_approved": 0,
   "dated": "2012",
   "department": "Global Contemporary Art",
-  "description": "color photograph; four quadrants, each depicting image of sleeping figures lying on chaise lounges, surrounded by different backgrounds; red horizontal borders at T and B edges of image",
-  "dimension": "39 3/4 × 59 11/16 in. (101 × 151.6 cm) (image)\r\n50 1/4 × 70 3/8 × 3/4 in. (127.6 × 178.8 × 1.9 cm) (outer frame)",
-  "id": "http://api.artsmia.org/objects/143602",
-  "image": "valid",
+  "description": "color photograph; sleeping figure on a chaise lounge, wearing a striped button-up shirt, a black Western-style hat, and blue jeans; oval shape behind figure that depicts a body of water, with hills and powerlines in background",
+  "dimension": "39 3/4 × 59 5/8 in. (101 × 151.4 cm) (image)\r\n50 5/8 × 70 × 3/4 in. (128.6 × 177.8 × 1.9 cm) (outer frame)",
+  "id": "http://api.artsmia.org/objects/143887",
+  "image": "invalid",
   "image_copyright": "",
-  "image_height": 1800,
-  "image_width": 2400,
-  "inscription": "LLC, in black ink: 1/1 | BC, in black ink: Four Directions of Warrior",
+  "image_height": "",
+  "image_width": "",
+  "inscription": "LLC, in white ink: 1/1 | BC, in white ink: Dreams of Pastures and Power",
   "life_date": "American (Bay of Quinte Mohawk Six Nations Turtle clan), born 1954",
   "markings": "",
   "medium": "Digital photograph",
   "nationality": "American",
-  "object_name": "Photographs",
+  "object_name": "Photograph",
   "portfolio": "From Sleeping Warrior Series",
   "provenance": "",
   "restricted": 1,
@@ -33,8 +33,8 @@
   "see_also": [
     ""
   ],
-  "signed": "LRC, in black ink: Shelley Niro 2012",
+  "signed": "LRC, in white pigment: Shelley Niro 2012",
   "style": "21st century",
   "text": "",
-  "title": "Four Directions of Warrior"
+  "title": "Dreams of Pastures and Power"
 }
