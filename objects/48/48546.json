@@ -1,7 +1,7 @@
 {
   "accession_number": "P.77.6",
   "art_champions_text": null,
-  "artist": "Artist: Unknown English, 16th century",
+  "artist": "Artist: Unknown British, 18th century",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1761",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "",
   "dimension": "2 3/8 x 2 3/4 in. (6 x 7 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/48546",
@@ -23,8 +23,8 @@
   "markings": "",
   "medium": "Etching",
   "nationality": null,
-  "object_name": null,
-  "portfolio": "From ",
+  "object_name": "Print",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "The South Prospect of the City of New York from London Magazine"
+  "title": "The South Prospect of the City of New York, from London Magazine"
 }
