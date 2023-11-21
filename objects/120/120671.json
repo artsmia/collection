@@ -10,8 +10,8 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "2003",
-  "department": "Prints and Drawings",
-  "description": "paper collage; abstract image with painterly brushstrokes of color--predominately reds and blues; brown along right edge; ovoid red element at bottom center; received framed, not glazed",
+  "department": "European Art",
+  "description": "Paper collage; abstract image with painterly brushstrokes of color--predominately reds and blues; brown along right edge; ovoid red element at bottom center; received framed, not glazed",
   "dimension": "69 11/16 × 47 3/16 in. (177.01 × 119.86 cm)\r\n76 × 53 1/4 × 2 11/16 in. (193.04 × 135.26 × 6.83 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/120671",
   "image": "invalid",
@@ -24,8 +24,8 @@
   "medium": "Oil, ink, mixed media, and collage on paper",
   "nationality": "British (active United States)",
   "object_name": "Collage",
-  "portfolio": "From ",
-  "provenance": "The artist; (Knoedler & Co., New York; sold to Mersky); Mary and Robert Mersky, Minneapolis (until 2014; given to MIA)",
+  "portfolio": null,
+  "provenance": "The artist; [Knoedler & Co., New York; sold to Mersky]; Robert B. Mersky, Minneapolis; given to MIA, 2014.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -36,5 +36,5 @@
   "signed": "LRC, in pencil: Walker",
   "style": "21st century",
   "text": "John Walker’s mixed-media collage is a complex interplay of forms, words, and spatial elements that draws on both abstract and representational imagery for its visual and conceptual content. Inspired by his observations of the land and sea near his Seal Point studio on the coast of Maine, the collage invokes a perceptual ambiguity that is at once subjective and associative, leaving the viewer to determine its meaning through the lens of personal experiences and memories. Long associated with painterly abstraction, Walker emphasizes process and materiality to connect his pictures’ synthetic realm with that of nature, here inserting a text fragment—“bones and clams”—as a formal and symbolic device that focuses attention on the marine source of his imagery. Like much of his work, the collage possesses an immediacy and intimacy that reveals Walker’s lyrical and poetic inclinations.",
-  "title": "Untitled (Berries and Clams)"
+  "title": "Untitled (Berries and clams)"
 }
