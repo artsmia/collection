@@ -8,11 +8,11 @@
   "country": "Italy",
   "creditline": "The William Hood Dunwoody Fund",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "15th century",
   "department": "European Art",
   "description": "Wellhead: square on top, round at the bottom; on one side an angel holding a shield supported by two lions passant; on opposite side rampant lion bearing column; on other two sides vases, one holding acanthus leaves and the other flowers; on each corner an acanthus leaf springing from bottom to support corner; two moldings around top.",
-  "dimension": "W.38 x D.38 in.",
+  "dimension": "W.38 x D.38 in.; overall weight 3170 lbs (well-head 2310 lbs; base 860 lbs)",
   "id": "http://api.artsmia.org/objects/12321",
   "image": "valid",
   "image_copyright": "",
@@ -23,9 +23,9 @@
   "markings": "",
   "medium": "Istrian marble",
   "nationality": null,
-  "object_name": "Well head",
+  "object_name": "Well-head",
   "portfolio": null,
-  "provenance": "",
+  "provenance": "Palazzo Zorzi, Venice (until at least 1911). [French & Co., New York, until 1915; sold, for $1,500, to Mia]",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "15th century",
   "text": "",
-  "title": "Well head"
+  "title": "Well-head"
 }
