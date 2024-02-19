@@ -12,7 +12,7 @@
   "dated": "2017",
   "department": "Arts of the Americas",
   "description": "black and white image;cut-out of a large, irregular-shaped piece of stone, with sections of symbolic text (hieroglyphs across top) written throughout; white background with white frame",
-  "dimension": "60 5/8 × 41 3/4 in. (154 × 106 cm) (image)\r\n61 3/4 × 43 × 2 in. (156.8 × 109.2 × 5.1 cm) (outer frame)",
+  "dimension": "60 5/8 × 41 3/4 in. (154 × 106 cm) (image, sheet)\r\n61 3/4 × 43 × 2 in. (156.8 × 109.2 × 5.1 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/142722",
   "image": "valid",
   "image_copyright": "",
@@ -24,7 +24,7 @@
   "medium": "Ink and graphite on paper",
   "nationality": "American",
   "object_name": "Drawing",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "21st century",
-  "text": "Mia Rosenthal's meticulous drawing is on a piece of paper shaped to mimic the silhouette of the object it represents: the Rosetta Stone. This object is a stone slab dating from 196 BCE bearing a decree (a message) issued in Egypt about King Ptolemy V. It bears three sections of language, inscribed on the surface: Egyptian heiroglyphs (for temple priests), Demotic (cursive used for daily purposes by the people), and Ancient Greek (the language of the Greco-Macedonian rulers at the time). When the stone was located in 1799 heiroglphics had not been translatable into other languages. The stone provided a key to their meaning by showing an example of translation in its form. Rosenthal, who is fascinated by deep history, carefully drew the stone and its intricate surface after seeing it in person by working from a reproduction on a souvenir tea towel from the British Museum gift shop. She then superimposed an image from the Hubble Telescope's pictures of the \"ultra deep field\" which shows an estimated 10,000 galaxies, including some that formed after the big bang. By combining two ways of imaging the world -- stone and language and transitory glimpses into unfathomable time -- Rosenthal looks at the ways that humans try to understand their world, whether micro or macrocosmic.",
+  "text": "Mia Rosenthal's meticulous drawing is on a piece of paper shaped to mimic the silhouette of the object it represents: the Rosetta Stone. This object is a stone slab dating from 196 BCE bearing a decree (a message) issued in Egypt about King Ptolemy V. It bears three sections of language, inscribed on the surface: Egyptian hieroglyphs (for temple priests), Demotic (cursive used for daily purposes by the people), and Ancient Greek (the language of the Greco-Macedonian rulers at the time). When the stone was located in 1799 hieroglyphics had not been translatable into other languages. The stone provided a key to their meaning by showing an example of translation in its form. Rosenthal, who is fascinated by deep history, carefully drew the stone and its intricate surface after seeing it in person by working from a reproduction on a souvenir tea towel from the British Museum gift shop. She then superimposed an image from the Hubble Telescope's pictures of the \"ultra deep field\" which shows an estimated 10,000 galaxies, including some that formed after the big bang. By combining two ways of imaging the world -- stone and language and transitory glimpses into unfathomable time—Rosenthal looks at the ways that humans try to understand their world, whether micro or macrocosmic.",
   "title": "Rosetta Deep Field"
 }
