@@ -8,7 +8,7 @@
   "country": "United States",
   "creditline": "The Siri and Bob Marshall Endowment for American Paintings",
   "culture": null,
-  "curator_approved": 0,
+  "curator_approved": 1,
   "dated": "1870",
   "department": "Arts of the Americas",
   "description": "broad view of Mississippi River with two figures in rowboat to L of center; small sailboat to the L; mill buildings with river boats and passengers on shore at R; faint river bluffs in distance; upper 2/3 is sky with a rainstorm at L and blue sky at R; ornate gold frame",
@@ -24,7 +24,7 @@
   "medium": "Oil on canvas",
   "nationality": "American",
   "object_name": "Painting",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -35,6 +35,6 @@
   ],
   "signed": "BL, brown pigment: A.T. BRICHER 1870",
   "style": "19th century",
-  "text": "This scene of the Mississippi River, depicted from the vantage point of being on the river, shows people sailing, rowing and waiting to board more modern vessels. The crisp, carefully-observed quality of light captures the stark contrasts that occur as the sun re-emerges after a storm. The water is like a mirror and the whites of sails and painted ships appear to shine against the moody atmosphere lingering as the storm passes.",
+  "text": "This scene of the Mississippi, depicted from the vantage point of being on the river, is at once a marvelous recreation of a moment and a study in contrasts. We watch as a passing storm moves out to the left, showering rain from gray swollen clouds. Sun returns on the right side, illuminating white sails, the glint of an oar, the crisp shirt of a rower, and the painted steamboats receiving passengers at the shore. The detailed, carefully observed water is like a mirror of calm below the turbulent sky.",
   "title": "Mississippi at Dubuque, Iowa"
 }
