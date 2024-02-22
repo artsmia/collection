@@ -14,10 +14,10 @@
   "description": "layered collage consisting of old printed linoleum pieces that are torn, worn and layered; faux wood grain patterned pieces of linoleum with cowboy figure and cowboy boots in URQ and moving downward to right center and LRQ; waxy yellowed adhesive in URC and on upper right edge; layered linoleum pieces with floral designs in top center and in center, with yellow adhesive seeping from the edges; geometric patterned linoleum with gray, red and white lined pattern; muted mauve floral pattern on left edge; severely crackled blue and peach floral pattern in LLC; yellow stained backing paper visible in corners",
   "dimension": "33 9/16 × 23 1/2 in. (85.25 × 59.69 cm) (image)\r\n36 1/8 × 25 11/16 × 2 in. (91.76 × 65.25 × 5.08 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/129255",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "© Harmony Hammond %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1500,
+  "image_width": 1013,
   "inscription": "",
   "life_date": "American, born 1944",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G373",
   "see_also": [
     ""
   ],
