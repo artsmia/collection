@@ -14,10 +14,10 @@
   "description": "Long, rectangular quilt; ground fabric is emerald green with sideways \"V\" shapes in white throughout; verso has navy blue fabric; four woman in flat-top hats and long sleeve dresses are seated at the center; woman in the far left has red/purple skin tone and her skirt is purple and features teal jewels, she has a black bird on her hat; woman at left, center has an orange skin tone and her skirt is yellow with red hearts; woman at right, center has a blue/green skin tone and her skirt is purple with lime green electric fans, she also has bird cages on her sleeves; woman farthest right has a maroon skin tone and her skirt has yellow and red stripes with red high heel shoes on it; rod pocket at top on verso",
   "dimension": "55 1/2 × 120 1/2 in. (141 × 306.1 cm)",
   "id": "http://api.artsmia.org/objects/142734",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 5289,
+  "image_width": 10892,
   "inscription": "",
   "life_date": "American, born 1973",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "G322",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
