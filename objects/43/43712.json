@@ -1,8 +1,8 @@
 {
   "accession_number": "P.96.19.10",
   "art_champions_text": null,
-  "artist": "Artist: Fritz Scholder",
-  "catalogue_raissonne": "Adams 129",
+  "artist": "Artist: Fritz Scholder; Printer: Tamarind Institute, Albuquerque, New Mexico; Publisher: Tamarind Institute, Albuquerque, New Mexico",
+  "catalogue_raissonne": "Adams 129; Tamarind 74-728",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "1974",
   "department": "Arts of the Americas",
-  "description": "",
+  "description": "figurative group of two adults, two children",
   "dimension": "26 1/8 x 19 1/4 in. (66.36 x 48.9 cm) (image)\r\n30 1/4 x 22 1/4 in. (76.84 x 56.52 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/43712",
   "image": "invalid",
@@ -20,10 +20,10 @@
   "image_width": "",
   "inscription": "",
   "life_date": "American (Luiseño), 1937 - 2005",
-  "markings": "",
-  "medium": "Lithograph",
+  "markings": "Publisher\\'s blindstmap, LL margin: Tmarind\r\nPrinters\\'s blindstamp, LR margin: Harry Westlund",
+  "medium": "Lithograph on buff paper",
   "nationality": "American (Luiseño)",
-  "object_name": null,
+  "object_name": "Print",
   "portfolio": null,
   "provenance": "Richard M. Sweet and Fay Gallus, Minneapolis; given to MIA, 1996.",
   "restricted": 1,
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "Signed in pencil, LR: Scholder",
   "style": "20th century",
   "text": "",
   "title": "American Family"

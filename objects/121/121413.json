@@ -1,8 +1,8 @@
 {
   "accession_number": "2014.149.54",
   "art_champions_text": null,
-  "artist": "Artist: Fritz Scholder; Printer: Tamarind Institute, Albuquerque, New Mexico",
-  "catalogue_raissonne": null,
+  "artist": "Artist: Fritz Scholder; Printer: Tamarind Institute, Albuquerque, New Mexico; Publisher: Tamarind Institute, Albuquerque, New Mexico",
+  "catalogue_raissonne": "Tamarind 78-606",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -18,10 +18,10 @@
   "image_copyright": "© Fritz Scholder",
   "image_height": 7128,
   "image_width": 9464,
-  "inscription": "Signature and Edition",
+  "inscription": "",
   "life_date": "American (Luiseño), 1937 - 2005",
-  "markings": "LRC, in pencil: [87.100]",
-  "medium": "Color lithograph",
+  "markings": "Numbered LRC, in pencil: 87.100\r\nPublisher\\'s blindstamp lower left: Tamarind\r\nPrinter\\'s blindstamp lower right\r\nWorkshop number in pencil, verso, lower right: 78-606",
+  "medium": "Color lithograph on buff paper",
   "nationality": "American (Luiseño)",
   "object_name": "Print",
   "portfolio": null,
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "bottom edge, left of center, in pencil: [Scholder]",
+  "signed": "bottom edge, left of center, in pencil: Scholder",
   "style": "20th century",
   "text": "",
   "title": "Indian Inside the Kiva"
