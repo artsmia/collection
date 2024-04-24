@@ -1,7 +1,7 @@
 {
-  "accession_number": "2022.76.60.1",
+  "accession_number": "2022.76.48.1",
   "art_champions_text": null,
-  "artist": "Calligrapher: Du Zanru",
+  "artist": "Calligrapher: Zhang Engao",
   "catalogue_raissonne": null,
   "classification": " Calligraphy",
   "continent": "Asia",
@@ -9,11 +9,11 @@
   "creditline": "Gift of Mark Pratt",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1926",
+  "dated": "1902",
   "department": "Asian Art",
-  "description": "calligraphy couplet in clerical script, one of two scrolls .1 is first, .2 is second",
-  "dimension": "11 3/4 in. (29.85 cm)",
-  "id": "http://api.artsmia.org/objects/129917",
+  "description": "one of two scrolls .2 is first, .1 is second",
+  "dimension": "17 3/16 in. (43.66 cm) (width, without roller)",
+  "id": "http://api.artsmia.org/objects/130038",
   "image": "invalid",
   "image_copyright": "",
   "image_height": "",
@@ -26,8 +26,8 @@
   "object_name": "Hanging scroll",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "No Known Copyright",
+  "restricted": 0,
+  "rights_type": "No Copyright–United States",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Couplet in clerical script"
+  "title": "Couplet in running script"
 }
