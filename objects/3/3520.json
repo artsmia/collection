@@ -1,11 +1,11 @@
 {
   "accession_number": "86.6",
   "art_champions_text": null,
-  "artist": "Artist: Unknown Roman; Artist: Polykleitos",
+  "artist": "Artist: Copy of work attributed to Polykleitos",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
-  "continent": "Europe",
-  "country": "Italy",
+  "continent": null,
+  "country": "Roman",
   "creditline": "The John R. Van Derlip Fund and Gift of funds from Bruce B. Dayton, an anonymous donor, Mr. and Mrs. Kenneth Dayton, Mr. and Mrs. W. John Driscoll, Mr. and Mrs. Alfred Harrison, Mr. and Mrs. John Andrus, Mr. and Mrs. Judson Dayton, Mr. and Mrs. Stephen Keating, Mr. and Mrs. Pierce McNally, Mr. and Mrs. Donald Dayton, Mr. and Mrs. Wayne MacFarlane, and many other generous friends of the Institute",
   "culture": "Roman",
   "curator_approved": 1,
@@ -19,10 +19,10 @@
   "image_height": 7230,
   "image_width": 5428,
   "inscription": "",
-  "life_date": null,
+  "life_date": "Greek, active 460-415 BCE",
   "markings": "",
   "medium": "Pentelic marble",
-  "nationality": null,
+  "nationality": "Roman",
   "object_name": "Roman copy of a Greek bronze statue of c. 450-440 BCE",
   "portfolio": null,
   "provenance": "",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "1st century BCE",
+  "style": "Imperial",
   "text": "",
   "title": "The Doryphoros (after Polykleitos)"
 }
