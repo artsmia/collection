@@ -14,10 +14,10 @@
   "description": "charcoal gray-green cover; illustrated pages in peach, blue, and black; many images contain men fighting large or mythical creatures; other smaller images of people with animals, flowers, toys, ephemera",
   "dimension": "7 × 4 3/4 × 1/2 in. (17.78 × 12.07 × 1.27 cm) (closed)\r\n7 × 9 in. (17.78 × 22.86 cm) (open)",
   "id": "http://api.artsmia.org/objects/127983",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 9082,
+  "image_width": 10858,
   "inscription": "",
   "life_date": "Japanese, 1839 - 1892",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G238",
   "see_also": [
     ""
   ],
