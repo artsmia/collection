@@ -1,7 +1,7 @@
 {
   "accession_number": "27.1.201",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Tools, Equipment and Utilitarian Objects",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "19th century",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "crackle glass trimmed in red; carved",
   "dimension": "3 1/8 x 1 7/8 in. (7.9 x 4.76 cm)",
   "id": "http://api.artsmia.org/objects/81215",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Glass",
-  "nationality": null,
-  "object_name": "Snuff Bottle",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Snuff bottle",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Snuff Bottle"
+  "title": "Snuff bottle"
 }
