@@ -1,7 +1,7 @@
 {
   "accession_number": "2006.76a,b",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Tools, Equipment and Utilitarian Objects",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1192",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "rectangular shape; cover incised with low-relief image of two children in LRC and third child riding on an ox; plants in ULC and LRC; brown, grey and rust colored mottled stone",
   "dimension": "1 1/8 x 3 3/4 x 6 11/16 in. (2.86 x 9.53 x 16.99 cm)",
   "id": "http://api.artsmia.org/objects/100961",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "under cover: dealer\\'s sticker",
   "medium": "Stone",
-  "nationality": null,
-  "object_name": "Ink stone",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Inkstone",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "12th century",
   "text": "",
-  "title": "Ink stone with cover"
+  "title": "Inkstone with cover"
 }
