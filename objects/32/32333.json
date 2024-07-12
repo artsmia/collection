@@ -1,7 +1,7 @@
 {
   "accession_number": "99.26.1",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Tools, Equipment and Utilitarian Objects",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "c. 1760",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "Rectangular in shape; carved on top with two boys walking one playing an instrument and one holding a lotus frond; fruit tree at R; flying bird at top",
   "dimension": "4 1/2 x 2 3/16 x 11/16in. (11.4 x 5.6 x 1.7cm)",
   "id": "http://api.artsmia.org/objects/32333",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Pine soot and animal adhesive",
-  "nationality": null,
-  "object_name": "Ink Cake",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Ink cake",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Ink Cake"
+  "title": "Ink cake"
 }
