@@ -1,7 +1,7 @@
 {
   "accession_number": "P.74.40",
   "art_champions_text": null,
-  "artist": "Artist: Yvonne Jacquette",
+  "artist": "Artist: Yvonne Jacquette; Publisher: Brooke Alexander Editions, New York",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -9,8 +9,8 @@
   "creditline": "The Ethel Morrison Van Derlip Fund",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1974",
-  "department": "Prints and Drawings",
+  "dated": "1973",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "13 7/8 x 16 3/8 in. (35.24 x 41.59 cm) (image)\r\n21 3/4 x 24 1/2 in. (55.25 x 62.23 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/59903",
@@ -19,12 +19,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "American, born 1934",
+  "life_date": "American, 1934 - 2023",
   "markings": "Numbered in pencil, LL: 2/30\r\nWM: ARCHES",
   "medium": "Lithograph",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "Trent Niemeyer, Minneapolis; sold to MIA, 1974.",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -36,5 +36,5 @@
   "signed": "Signed in pencil, LR: Yvonne Jacquette",
   "style": "20th century",
   "text": "",
-  "title": "Sky"
+  "title": "Sky Smoke"
 }
