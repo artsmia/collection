@@ -1,7 +1,7 @@
 {
   "accession_number": "B.81.1",
   "art_champions_text": null,
-  "artist": "Artist: George Beltrand et fil; Designer: After Maurice Denis; Translator: Henry Cochin; Publisher: Le Livre Contemporain, Paris , Paris; Printer: Jacques Camille",
+  "artist": "Author: Dante Alighieri; Artist: Maurice Denis; Translator: Henry Cochin; Publisher: Le Livre Contemporain, Paris , Paris; Printer: Jacques Camille",
   "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "Europe",
@@ -10,8 +10,8 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1907",
-  "department": "Prints and Drawings",
-  "description": "35 color woodcuts; 84 decorated letters",
+  "department": "European Art",
+  "description": "35 color woodcuts; 84 decorated letters; includes 14 pieces of book-related ephemera at end, including letters by Denis",
   "dimension": "11 7/8 x 8 3/4 in. (30.16 x 22.23 cm)",
   "id": "http://api.artsmia.org/objects/80156",
   "image": "invalid",
@@ -19,12 +19,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Mark",
-  "life_date": "French, 1870 - 1943",
+  "life_date": "Italian, 1265 - 1321",
   "markings": "Watermark: <BFK Rives>",
   "medium": "Color woodcuts, decorated letters",
-  "nationality": "French",
+  "nationality": "Italian",
   "object_name": "Illustrated book",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "M. H. Saffrey",
   "restricted": 0,
   "rights_type": "No Copyright–United States",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Dante Alighieri"
+  "title": "Vita Nova"
 }

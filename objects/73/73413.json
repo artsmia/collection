@@ -1,7 +1,7 @@
 {
   "accession_number": "P.18,198",
   "art_champions_text": null,
-  "artist": "Artist: Maurice Denis",
+  "artist": "Artist: Nicholas Eustache Maurin",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "19th century",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "",
   "dimension": "12 1/4 x 9 7/8 in. (31.12 x 25.08 cm) (image)",
   "id": "http://api.artsmia.org/objects/73413",
@@ -19,12 +19,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "",
-  "life_date": "French, 1870 - 1943",
+  "life_date": "French, 1799 - 1850",
   "markings": "\r\n",
   "medium": "Lithograph",
   "nationality": "French",
   "object_name": null,
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "No Copyright–United States",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Portrait of Van Spaenconck"
+  "title": "Portrait of Van Spaendonck"
 }

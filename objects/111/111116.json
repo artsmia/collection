@@ -1,7 +1,7 @@
 {
   "accession_number": "2010.94.5",
   "art_champions_text": null,
-  "artist": "Artist: Robert Motherwell; Publisher: Gemini G.E.L. (Graphic Editions Limited), Los Angeles",
+  "artist": "Artist: Robert Motherwell; Printer: Gemini G.E.L., Los Angeles; Publisher: Gemini G.E.L., Los Angeles",
   "catalogue_raissonne": "Belknap 123; Gemini 481; NGA 34.8; Engberg & Banach 147",
   "classification": " Prints; Collages / Assemblages",
   "continent": "North America",
@@ -18,14 +18,14 @@
   "image_copyright": "© Estate Robert Motherwell %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
   "image_height": 1024,
   "image_width": 532,
-  "inscription": "Numbered in pencil, LR",
+  "inscription": "",
   "life_date": "American, 1915-1991",
-  "markings": "Publisher\\'s blindstamp, recto; publisher\\'s inkstamp, verso; artist\\'s blindstamp, recto",
+  "markings": "Numbered in pencil, LR\r\nPublisher\\'s blindstamp, recto; publisher\\'s inkstamp, verso; artist\\'s blindstamp, recto",
   "medium": "Color lithograph with color photo-offset collage",
   "nationality": "American",
   "object_name": "Print and collage",
   "portfolio": "From Summer Light Series",
-  "provenance": "Mary Haldeman Dayton, Long Lake, Minn. (until d. 2010); estate of Mary Haldeman Dayton (2010; given to MIA)",
+  "provenance": "Mary Haldeman Dayton, Long Lake, Minn. (until d. 2010); Estate of Mary Haldeman Dayton; given to MIA, 2010.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed in pencil, LR: [Motherwell]",
+  "signed": "Signed in pencil, LR: Motherwell",
   "style": "20th century",
   "text": "",
   "title": "Summer Light Series: Harvest, with Leaf"
