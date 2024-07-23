@@ -1,8 +1,8 @@
 {
   "accession_number": "P.74.68",
   "art_champions_text": null,
-  "artist": "Artist: Jasper Johns; Publisher: Universal Limited Art Editions (ULAE)",
-  "catalogue_raissonne": "Field 63\r\nU.L.A.E.",
+  "artist": "Artist: Jasper Johns; Printer: Universal Limited Art Editions (ULAE); Publisher: Universal Limited Art Editions (ULAE)",
+  "catalogue_raissonne": "Field 63; ULAE 35; Sparks 71",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -18,14 +18,14 @@
   "image_copyright": "Art © Jasper Johns %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
   "image_height": 3325,
   "image_width": 3257,
-  "inscription": "Signature, Date, Edition, Chop Mark\r\n\r\nsee Signed\r\n\r\nNumbered in pencil, LL: [26/28]",
+  "inscription": "\r\n",
   "life_date": "American, born 1930",
-  "markings": "ULAE blind stamp",
+  "markings": "Numbered in pencil, LL: 26/28\r\nPublisher\\'s blindstamp: ULAE",
   "medium": "Color lithograph",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "(Locksley-Shea Gallery, Minnepolis); sold to MIA, 1974.",
+  "provenance": "[Locksley-Shea Gallery, Minnepolis]; sold to MIA, 1974.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed, dated in pencil, LR: [J. Johns \\'67]",
+  "signed": "Signed, dated in pencil, LR: J. Johns \\'67",
   "style": "20th century",
   "text": "",
   "title": "Target"

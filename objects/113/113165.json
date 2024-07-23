@@ -1,7 +1,7 @@
 {
   "accession_number": "2011.88.5",
   "art_champions_text": null,
-  "artist": "Artist: Pat Steir; Publisher: Lincoln Center for the Performing Arts, New York",
+  "artist": "Artist: Pat Steir; Printer: Brand X Editions, New York; Publisher: Lincoln Center for the Performing Arts, New York",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "North America",
@@ -10,8 +10,8 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "1993",
-  "department": "Prints and Drawings",
-  "description": "blue square on black ground; red drips inside blue square",
+  "department": "Arts of the Americas",
+  "description": "abstract waterfall with blue square on black ground; red drips inside blue square",
   "dimension": "39 x 37 in. (99.06 x 93.98 cm) (sheet)\r\n46 1/2 x 45 in. (118.11 x 114.3 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/113165",
   "image": "invalid",
@@ -24,8 +24,8 @@
   "medium": "Color screenprint on black paper",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From ",
-  "provenance": "Wells Fargo Bank, Minneapolis; given to MIA, 2011",
+  "portfolio": null,
+  "provenance": "Wells Fargo Bank, Minneapolis; given to MIA, 2011.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -36,5 +36,5 @@
   "signed": "LRC, in white pencil: Pat Steir",
   "style": "20th century",
   "text": "",
-  "title": "Red/Blue Berlin Waterfall"
+  "title": "Red and Blue Berlin Waterfall"
 }
