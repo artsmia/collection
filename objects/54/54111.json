@@ -1,7 +1,7 @@
 {
   "accession_number": "P.70.68.4",
   "art_champions_text": null,
-  "artist": "Artist: Bruce Nauman; Publisher: Castelli Graphics, New York; Printer: Aetna Studios, New York",
+  "artist": "Artist: Bruce Nauman; Printer: Aetna Studios, New York; Publisher: Castelli Graphics, New York",
   "catalogue_raissonne": "Cordes 4",
   "classification": " Prints",
   "continent": "North America",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1970",
-  "department": "Prints and Drawings",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "20 3/8 x 26 1/16 in. (51.75 x 66.2 cm) (image)\r\n26 x 26 1/8 in. (66.04 x 66.36 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/54111",
@@ -21,11 +21,11 @@
   "inscription": "Signature",
   "life_date": "American, born 1941",
   "markings": "",
-  "medium": "Color screenprint",
+  "medium": "Color screenprint on coated paper",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From Studies for Holograms (a-e)",
-  "provenance": "Castelli Graphics, New York; sold to MIA, 1970.",
+  "provenance": "Castelli Graphics, New York (publisher); sold to MIA, 1970.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "In pen: [B. Nauman]",
+  "signed": "In ink: B. Nauman",
   "style": "20th century",
   "text": "",
   "title": "Pulled Neck"

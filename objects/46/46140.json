@@ -1,7 +1,7 @@
 {
   "accession_number": "2001.293.59",
   "art_champions_text": null,
-  "artist": "Artist: Edward Ruscha; Publisher: Edward Ruscha; Printer: Wasserman Silkscreen Co., Santa Monica, California",
+  "artist": "Artist: Edward Ruscha; Printer: Wasserman Silkscreen Co., Santa Monica, California; Publisher: Edward Ruscha , Venice, Calif.",
   "catalogue_raissonne": "Engberg 117",
   "classification": " Prints",
   "continent": "North America",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "1982",
-  "department": "Prints and Drawings",
+  "department": "Arts of the Americas",
   "description": "",
   "dimension": "19 x 48 in. (48.3 x 121.9 cm)",
   "id": "http://api.artsmia.org/objects/46140",
@@ -18,13 +18,13 @@
   "image_copyright": "© Ed Ruscha",
   "image_height": "",
   "image_width": "",
-  "inscription": "Titled in pencil, LC Home with Electronic Security System",
+  "inscription": "Titled by another hand in pencil, LC Home with Electronic Security System",
   "life_date": "American, born 1937",
-  "markings": "Workshop chop mark LR",
+  "markings": "Workshop chop mark, LR",
   "medium": "Color screenprint",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "Target Corporation, Minneapolis; given to MIA, 2001.",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "Signed and dated in pencil LR Ed Ruscha \\'82",
+  "signed": "Signed and dated in pencil, LR: Ed Ruscha \\'82",
   "style": "20th century",
   "text": "",
   "title": "Home with Complete Electronic Security System"
