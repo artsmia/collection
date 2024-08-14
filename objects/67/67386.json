@@ -2,7 +2,7 @@
   "accession_number": "P.95.17.5",
   "art_champions_text": null,
   "artist": "Artist: Keith Haring; Author: William S. Burroughs; Publisher: George Mulder Fine Arts, New York",
-  "catalogue_raissonne": "Littmann, 98",
+  "catalogue_raissonne": "Klaus Littmann pp. 98-109",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "1988",
   "department": "Arts of the Americas",
-  "description": "",
+  "description": "Text for Plate 2",
   "dimension": "38 x 38 in. (96.52 x 96.52 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/67386",
   "image": "invalid",
@@ -21,10 +21,10 @@
   "inscription": "",
   "life_date": "American, 1958-1990",
   "markings": "",
-  "medium": "Color screenprint on polyvinylchloride sheet (text)",
+  "medium": "Color screenprint on transparent acetate",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": "From Apocalypse portfolio",
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "The planet is pulling..."
+  "title": "The planet is pulling loose from its moorings..."
 }
