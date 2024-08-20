@@ -1,8 +1,8 @@
 {
   "accession_number": "P.83.25",
   "art_champions_text": null,
-  "artist": "Maker: Claes Oldenburg",
-  "catalogue_raissonne": "Axsom/Platzker 118",
+  "artist": "Maker: Claes Oldenburg; Publisher: Petersburg Press, New York",
+  "catalogue_raissonne": "Axsom + Platzker 118",
   "classification": " Prints",
   "continent": "North America",
   "country": "United States",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "1975",
-  "department": "Prints and Drawings",
+  "department": "Global Contemporary Art",
   "description": "",
   "dimension": "23 5/8 x 17 3/4 in. (60.01 x 45.09 cm) (plate)\r\n36 1/8 x 27 3/8 in. (91.76 x 69.53 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/42560",
@@ -18,13 +18,13 @@
   "image_copyright": "© Claes Oldenburg",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, Date",
-  "life_date": "American, born Sweden, 1929",
+  "inscription": "",
+  "life_date": "American (born Sweden), 1929 - 2022",
   "markings": "Watermark: Oldenburg (script); chop: c in o",
   "medium": "Etching in ochre ink",
   "nationality": "American (born Sweden)",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "Marguerite and Russell Cowles II, Minneapolis; given to MIA, 1979.",
   "restricted": 0,
   "rights_type": "In Copyright–Educational Use",
@@ -36,5 +36,5 @@
   "signed": "In pencil: Oldenburg",
   "style": "20th century",
   "text": "",
-  "title": "Figure and Phallus, I"
+  "title": "Figure and Phallus I"
 }
