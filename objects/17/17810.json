@@ -1,7 +1,7 @@
 {
   "accession_number": "51.27.144",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Adornment",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "7th-10th century",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "cicada, flat and abstract, on a painted wedge; bronze with gold overlay, repousse. Cicada longevity, eternal, appearing from the earth, living without eating",
   "dimension": "2 3/8 x 1 1/2in. (6 x 3.8cm)",
   "id": "http://api.artsmia.org/objects/17810",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Bronze, gold",
-  "nationality": null,
-  "object_name": "Cicada Ornament",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Cicada ornament",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "7th-10th century",
   "text": "",
-  "title": "Cicada Ornament"
+  "title": "Cicada ornament"
 }

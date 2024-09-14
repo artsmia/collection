@@ -1,7 +1,7 @@
 {
   "accession_number": "51.27.145",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Adornment",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "10th-12th century",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "cicada, flat, abstracted onto an ornament (ogee shaped) with large, ball-eyes; bronze with gold overlay.",
   "dimension": "3 x 2 13/16in. (7.6 x 7.1cm)",
   "id": "http://api.artsmia.org/objects/17883",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Bronze, gold",
-  "nationality": null,
-  "object_name": "Cicada Ornament",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Cicada ornament",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "10th-12th century",
   "text": "",
-  "title": "Cicada Ornament"
+  "title": "Cicada ornament"
 }

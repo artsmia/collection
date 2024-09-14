@@ -1,7 +1,7 @@
 {
   "accession_number": "95.98.18.1",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Metalwork",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "c. 1850",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "Buddhistic lion figures, lacquered bronze book ends",
   "dimension": "7 x 3 3/4 x 4 1/2in. (17.8 x 9.5 x 11.4cm)",
   "id": "http://api.artsmia.org/objects/28954",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Lacquered bronze",
-  "nationality": null,
-  "object_name": "Book End (one of a pair)",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Bookend",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Book End (one of a pair)"
+  "title": "Bookend, one of a pair"
 }

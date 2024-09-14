@@ -1,7 +1,7 @@
 {
   "accession_number": "38.44.4",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Ceremonial Objects",
   "continent": "Asia",
@@ -9,8 +9,8 @@
   "creditline": "Gift of Mrs. Augustus L. Searle",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Qian Long period, 1736-1795",
-  "department": "Chinese, South and Southeast Asian Art",
+  "dated": "Qianlong period",
+  "department": "Asian Art",
   "description": "Ju-i of yellow jade, carved on the shaft and shaped plaque with a series of divinities. This form of ju-i is that most often seen in Buddhist or Taoist paintings, and is the simplest of the ju-i types.",
   "dimension": null,
   "id": "http://api.artsmia.org/objects/15960",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Jade",
-  "nationality": null,
-  "object_name": "Scepter (Ru Yi)",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Scepter",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Scepter (Ru Yi)"
+  "title": "Ruyi scepter"
 }
