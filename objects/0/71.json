@@ -1,7 +1,7 @@
 {
   "accession_number": "15.46a-c",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "Artist: China",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 1,
   "dated": "1723-1735",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "Vase, white, globular shape, dragon decoration under glaze",
   "dimension": "7 1/2 in. (19.05 cm)",
   "id": "http://api.artsmia.org/objects/71",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "White porcelain",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Vase",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Globular Vase with Dragon Decor"
+  "title": "Globular vase with dragon decor"
 }
