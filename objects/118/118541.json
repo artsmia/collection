@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "19th century",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "Seated woman with child kneeling beside her; child drinking from a cup, putti observing from cloud above them",
   "dimension": "7 9/16 × 5 3/4 in. (19.21 × 14.61 cm) (image)\r\n11 7/8 × 9 3/4 in. (30.16 × 24.77 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/118541",
@@ -19,12 +19,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Signature, Title and Inscription\r\n\r\nin plate below image in black: [Gemalt von Federico Baroccio   Lithogr. von G. Wolff/ HAGAR IN DE WÜSTE/ Dresdener Galerie/ 34]; in pencil: [1-79]",
-  "life_date": "Italian (Urbino), c. 1535–1612",
+  "life_date": "German, b. 1800",
   "markings": "",
   "medium": "Lithograph",
-  "nationality": "Italian",
+  "nationality": "German",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "",
-  "title": "Hagar in der Wüst"
+  "title": "Hagar in der Wüste"
 }
