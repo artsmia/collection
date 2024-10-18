@@ -1,7 +1,7 @@
 {
   "accession_number": "2012.119.1",
   "art_champions_text": null,
-  "artist": "Artist: Roy Lichtenstein; Publisher: Gemini G.E.L., Los Angeles",
+  "artist": "artist: Roy Lichtenstein; printer: Gemini G.E.L., Los Angeles; publisher: Gemini G.E.L., Los Angeles",
   "catalogue_raissonne": "Corlett 92; Gemini 243",
   "classification": " Prints",
   "continent": "North America",
@@ -20,12 +20,12 @@
   "image_width": "",
   "inscription": "",
   "life_date": "American, 1923–1997",
-  "markings": "LLC, in pencil: [A/P III]; LRC, publisher\\'s blindstamp: [c (inside a circle)] and [(Gemini symbol inside a circle)]",
+  "markings": "LLC, in pencil: A/P III\r\nLRC, publisher\\'s blindstamp: c (inside a circle) and (Gemini symbol inside a circle)",
   "medium": "Color lithograph and line-cut with embossing on handmade paper",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From Modern Head series",
-  "provenance": "The artist (1970-1997, sold to Mersky); Mary and Robert Mersky, Minneapolis (1997- 2012, given to MIA)",
+  "provenance": "The artist (1970-1997, sold directly to Mersky); Mary and Robert Mersky, Minneapolis (1997- 2012), given to MIA, 2012.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "bottom edge, in pencil: [Roy Lichtenstein \\'70]",
+  "signed": "bottom edge, in pencil: Roy Lichtenstein \\'70",
   "style": "20th century",
   "text": "",
   "title": "Modern Head #2"

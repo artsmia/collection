@@ -1,7 +1,7 @@
 {
   "accession_number": "2012.119.3",
   "art_champions_text": null,
-  "artist": "Artist: Roy Lichtenstein; Publisher: Gemini G.E.L., Los Angeles",
+  "artist": "artist: Roy Lichtenstein; printer: Gemini G.E.L., Los Angeles; publisher: Gemini G.E.L., Los Angeles",
   "catalogue_raissonne": "Corlett 97; Gemini 241",
   "classification": " Prints",
   "continent": "North America",
@@ -20,12 +20,12 @@
   "image_width": 9431,
   "inscription": "Signature, Date, Edition and Chop Marks\r\n",
   "life_date": "American, 1923–1997",
-  "markings": "LRQ in bottom margin, in pencil: [A/P II]; LRC, publisher\\'s blindstamp: [(c)] and [III (inside circle)]\r\n\r\nPublisher\\'s inkstamp, verso.",
+  "markings": "LRQ in bottom margin, in pencil: A/P II\r\nLRC, publisher\\'s blindstamp: (c)] and [III (inside circle)\r\nPublisher\\'s inkstamp, verso.",
   "medium": "Color lithograph and screenprint",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From Peace through Chemistry",
-  "provenance": "The artist, 1970-1997; (Flanders Gallery, Minneapolis,, sold to Mersky 1997); Mary and Robert Mersky, Minneapolis (1997- 2012, given to MIA)",
+  "portfolio": "From Peace through Chemistry series",
+  "provenance": "The artist, 1970-1997; [Flanders Gallery, Minneapolis,, sold to Mersky 1997]; Mary and Robert Mersky, Minneapolis (1997- 2012), given to MIA, 2012.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "LRC, in pencil: [R. Lichtenstein \\'70]",
+  "signed": "LRC, in pencil:[R. Lichtenstein \\'70",
   "style": "20th century",
   "text": "",
   "title": "Peace through Chemistry II"

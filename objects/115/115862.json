@@ -1,7 +1,7 @@
 {
   "accession_number": "2012.119.2",
   "art_champions_text": null,
-  "artist": "Artist: Roy Lichtenstein; Publisher: Les Éditions Georges Visat, Paris",
+  "artist": "artist: Roy Lichtenstein; publisher: Les Éditions Georges Visat, Paris",
   "catalogue_raissonne": "Corlett 137; WAC 333:RL1",
   "classification": " Prints",
   "continent": "North America",
@@ -18,14 +18,14 @@
   "image_copyright": "©Estate of Roy Lichtenstein",
   "image_height": "",
   "image_width": "",
-  "inscription": "Signature, Date, Edition and Chop Mark\r\n\r\nsee Signed and Mark(s)",
+  "inscription": "\r\n",
   "life_date": "American, 1923–1997",
-  "markings": "lower margin, in pencil: [AP IV/XII]; LRC, impressed in paper: [(open cube)]",
+  "markings": "lower margin, in pencil: AP IV/XII\r\nLRC, impressed in paper: (open cube)",
   "medium": "Color screenprint",
   "nationality": "American",
   "object_name": "Print",
   "portfolio": "From \"Bonjour Max Ernst\" portfolio (1975)",
-  "provenance": "The artist (1975-1997, sold to Mersky); Mary and Robert Mersky, Minneapolis (1997- 2012, given to MIA)",
+  "provenance": "The artist (1975-1997, sold by the artist to Mersky); Mary and Robert Mersky, Minneapolis (1997- 2012), given to MIA, 2012.",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "lower margin, in pencil: [Roy Lichtenstein \\'75]",
+  "signed": "lower margin, in pencil: Roy Lichtenstein \\'75",
   "style": "20th century",
   "text": "",
   "title": "Homage to Max Ernst"
