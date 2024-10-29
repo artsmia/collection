@@ -1,10 +1,10 @@
 {
   "accession_number": "2000.186.10",
   "art_champions_text": null,
-  "artist": "Artist: Andy Warhol; Publisher: Factory Additions, New York; Printer: Aetna Silkscreen Products, New York",
+  "artist": "artist: Andy Warhol; publisher: Factory Additions, New York; printer: Aetna Silkscreen Products, New York",
   "catalogue_raissonne": "F/S. II.73",
   "classification": " Prints",
-  "continent": "North America",
+  "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of N. Bud and Beverly Grossman",
   "culture": null,
@@ -18,9 +18,9 @@
   "image_copyright": "© The Andy Warhol Foundation for the Visual Arts%2C Inc. %2F Artists Rights Society %28ARS%29%2C New York",
   "image_height": 4807,
   "image_width": 4815,
-  "inscription": "Signature; Edition\r\n\r\nsee Signed\r\n\r\non verso: [237/250]",
+  "inscription": "\r\n",
   "life_date": "American, 1928–1987",
-  "markings": "",
+  "markings": "Numbered in black ink with a rubber stamp, verso: 237/250",
   "medium": "Color screenprint",
   "nationality": "American",
   "object_name": "Print",
@@ -42,7 +42,7 @@
     "67875",
     "67876"
   ],
-  "signed": "on verso: [Andy Warhol]",
+  "signed": "Signed in ballpoint pen, verso: Andy Warhol",
   "style": "20th century",
   "text": "",
   "title": "Flowers"
