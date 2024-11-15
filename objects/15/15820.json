@@ -1,7 +1,7 @@
 {
   "accession_number": "36.7.4a-c",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Tools, Equipment and Utilitarian Objects",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "Vase, yellow jade, carved phoenix or Ho-Ho bird with matrix on back. Original jade stand, with Ch'ien Lung Nien Chi (made Period Ch'ien Lung) on base. The vase derives from the bronze Tsun shape, each of the three sections of the body having two floral handles encircled with loose jade rings.",
   "dimension": "9 1/2 x 6 1/8in. (24.1 x 15.6cm)",
   "id": "http://api.artsmia.org/objects/15820",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Jade",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Vase",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Vase with phoenix"
 }

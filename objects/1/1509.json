@@ -1,7 +1,7 @@
 {
   "accession_number": "62.84",
   "art_champions_text": null,
-  "artist": "Artist: John Singer Sargent",
+  "artist": "artist: John Singer Sargent",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -29,7 +29,7 @@
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G351",
   "see_also": [
     ""
   ],
