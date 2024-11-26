@@ -1,7 +1,7 @@
 {
   "accession_number": "2023.100.32",
   "art_champions_text": null,
-  "artist": "Artist: Hamaguchi Yōzō",
+  "artist": "artist: Hamaguchi Yōzō",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -16,10 +16,10 @@
   "id": "http://api.artsmia.org/objects/146091",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 750,
-  "image_width": 563,
+  "image_height": 12216,
+  "image_width": 7483,
   "inscription": "",
-  "life_date": "Japanese, 1909 - 2000",
+  "life_date": "Japanese, 1909–2000",
   "markings": "BL below image, graphite: bon à tirer; BLC, graphite: [dot]; BC, graphite: Make edition of 25 / HALF-WAY BETWEEN THIS AND #33-1-94 / edition 25 / 7/27-1?; verso BLC, graphite: Ham 93.156; verso BRC, graphite: 151991-09 / 246-7-93",
   "medium": "Color mezzotint",
   "nationality": "Japanese",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G226",
   "see_also": [
     ""
   ],
