@@ -1,7 +1,7 @@
 {
   "accession_number": "2018.133.18",
   "art_champions_text": null,
-  "artist": "Artist: Unknown",
+  "artist": "artist: Unknown",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -9,7 +9,7 @@
   "creditline": "Anonymous gift",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
+  "dated": "17th or 18th century",
   "department": "European Art",
   "description": "monochrome image of an alter (or tomb?) that features a framed, 3/4 portrait of the virgin and child; many putti with wings surround the portrait, one putto sits along bottom of architectural feature and points toward drapery at bottom center",
   "dimension": "25 1/2 × 19 1/4 × 1 1/4 in. (64.77 × 48.9 × 3.18 cm)",
@@ -24,7 +24,7 @@
   "medium": "Grisaille: oil on canvas",
   "nationality": null,
   "object_name": "Painting",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "John E. Andrus III [Minneapolis, 1909-2012]; by descent to his daughter Catherine Andrus [Minneapolis]",
   "restricted": 0,
   "rights_type": "Copyright Undetermined",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "17th or 18th century",
   "text": "This may look like an old print of the Virgin and Child, but it’s a painting meant to fool you slightly. We might do a double take thinking it’s an old print stuck on a wall and slightly curling at the edges. English uses a borrowed French term for this type of picture: \"Trompe l’oeil\"—literally, trick the eye.",
   "title": "Virgin and Child"
 }
