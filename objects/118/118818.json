@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.145",
   "art_champions_text": null,
-  "artist": "Engraver: William Byrne; Artist: After Thomas Hearne; Draftsman: Francesco Bartolozzi; Printer: Samuel Middiman",
+  "artist": "engraver: William Byrne; artist: After Thomas Hearne; draftsman: Francesco Bartolozzi; printer: Samuel Middiman",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1779",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "Lumley Castle above a river with two couples on shore in left foreground; one couple in boat on river",
   "dimension": "8 1/4 × 10 3/16 in. (20.96 × 25.88 cm) (image, sheet)\r\n9 11/16 × 11 15/16 in. (24.61 × 30.32 cm) (mount)",
   "id": "http://api.artsmia.org/objects/118818",
@@ -19,10 +19,10 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Signature, Title, Date and Inscription\r\n\r\nIn plate below image in black: [Drawn by T. Hearne  Figures by Bartolozzi Engraved by W. Byrne & S. Middleton/ LUNLEY CASTLE/ London Publish\\'d as y\\'e act directs Jan\\'y 1st 1779 by T. Hearne & W. Byrne]; in pencil below image: [1-202]",
-  "life_date": "Italian (Florence, active London), 1727–1815",
+  "life_date": "British, 1743–1805",
   "markings": "",
-  "medium": "Engraving and Etching",
-  "nationality": "Italian",
+  "medium": "Engraving and etching",
+  "nationality": "British",
   "object_name": "Print",
   "portfolio": "From Illustration to \"The Antiquities of Great Britain\" 1786",
   "provenance": "",
@@ -36,5 +36,5 @@
   "signed": "See Inscription",
   "style": "18th century",
   "text": "",
-  "title": "Lunley Castle"
+  "title": "Lumley Castle"
 }
