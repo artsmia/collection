@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.226",
   "art_champions_text": null,
-  "artist": "Artist: After Cornelis Gerritsz Decker; Engraver: Cornelis Apostool",
+  "artist": "artist: After Cornelis Gerritsz Decker; engraver: Cornelis Apostool",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "17th century",
   "department": "European Art",
-  "description": "two fishermen in a voat with one on shore; bulding on shore thatched; figure in doorway; steeple in right distance",
+  "description": "two fishermen in a boat with one on shore; bulding on shore thatched; figure in doorway; steeple in right distance",
   "dimension": "7 1/8 × 10 3/8 in. (18.1 × 26.35 cm) (image)\r\n9 3/4 × 11 13/16 in. (24.77 × 30 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/119586",
   "image": "invalid",
@@ -19,7 +19,7 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Signature, Date, and Inscription\r\n\r\non plate below image in black: [ C.Decker   C.Apostool fec\\'t/ Published as the Act directs May 1793]; on sheet in pencil: [1-341]",
-  "life_date": "Dutch, 1620 - 1678",
+  "life_date": "Dutch, 1620–1678",
   "markings": "",
   "medium": "Etching and Aquatint",
   "nationality": "Dutch",
@@ -36,5 +36,5 @@
   "signed": "See Inscription",
   "style": "17th century",
   "text": "",
-  "title": "Print"
+  "title": "Fishing Scene with Thratched House in Foreground"
 }
