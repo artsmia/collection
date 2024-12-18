@@ -1,7 +1,7 @@
 {
   "accession_number": "29.6",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: France",
   "catalogue_raissonne": null,
   "classification": " Tools, Equipment and Utilitarian Objects",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of Mr. Louis Holtzerman",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Textiles",
+  "dated": "19th century",
+  "department": "European Art",
   "description": "Lace pillow, covered with green damask in which is set revolving drum. Drum is covered with paper lace pattern. Piece of old lace partially woven on drum with fruitwood bobbins attached.",
   "dimension": "10 x 11 in. (25.4 x 27.94 cm)",
   "id": "http://api.artsmia.org/objects/14962",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Lace, wood, cloth",
-  "nationality": null,
+  "nationality": "French",
   "object_name": "Lace making pillow",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "19th century",
   "text": "",
   "title": "Lace making pillow"
 }
