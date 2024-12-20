@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.466",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: Europe",
   "catalogue_raissonne": "\r\n",
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
+  "dated": "17th century",
+  "department": "European Art",
   "description": "bust length portrait of man facing left and looking out; wearing robe with flat white collar, chain around neck and fur stripe at center front; in a sheild-shaped cartouche; image is very similar to P.47.464 in reverse",
   "dimension": "4 7/16 × 3 1/4 in. (11.27 × 8.26 cm) (image, sheet)\r\n11 13/16 × 8 15/16 in. (30 × 22.7 cm) (mount)",
   "id": "http://api.artsmia.org/objects/122954",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Engraving",
-  "nationality": null,
+  "nationality": "European",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-  "style": null,
+  "style": "17th century",
   "text": "",
   "title": "Portrait of Jean Antoine Regillo"
 }

@@ -9,9 +9,9 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
-  "description": "bust length portrait facing right and looking back to left; enclosed in a sheild shape with portraits on either side of sheild; pallett and brush on right",
+  "dated": "17th century",
+  "department": "European Art",
+  "description": "bust length portrait facing right and looking back to left; enclosed in a shield shape with portraits on either side of sheild; pallett and brush on right",
   "dimension": "3 13/16 × 4 1/8 in. (9.68 × 10.48 cm) (image, sheet)\r\n11 13/16 × 9 9/16 in. (30 × 24.29 cm) (mount)",
   "id": "http://api.artsmia.org/objects/120666",
   "image": "invalid",
@@ -24,7 +24,7 @@
   "medium": "Engraving",
   "nationality": null,
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "17th century",
   "text": "",
   "title": "Portrait of Jean-Rudolph Huber"
 }

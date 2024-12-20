@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.490",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: Europe",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
+  "dated": "17th century",
+  "department": "European Art",
   "description": "bust length portrait of man facing right ad looking out at viewer in a decorative oval frame; paintings on either side, snake at left and flowers at right",
   "dimension": "3 5/8 × 3 15/16 in. (9.21 × 10 cm) (image, sheet)\r\n11 3/4 × 9 1/2 in. (29.85 × 24.13 cm) (mount)",
   "id": "http://api.artsmia.org/objects/123132",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Engraving",
-  "nationality": null,
+  "nationality": "European",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "17th century",
   "text": "",
   "title": "Portrait of Otho Marcellis"
 }

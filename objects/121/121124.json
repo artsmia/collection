@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.441",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: Europe",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
+  "dated": "16th century",
+  "department": "European Art",
   "description": "portrait, bust length of Petrus Coecki, also called Koeck, facing right, looking left, wearing a cap and coat with fur collar",
   "dimension": "2 13/16 × 1 11/16 in. (7.14 × 4.29 cm) (image, sheet)\r\n11 3/4 × 9 5/16 in. (29.85 × 23.65 cm) (mount)",
   "id": "http://api.artsmia.org/objects/121124",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Engraving",
-  "nationality": null,
+  "nationality": "European",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "See Inscription",
-  "style": null,
+  "style": "16th century",
   "text": "",
   "title": "Portrait of Petrus Coecki"
 }

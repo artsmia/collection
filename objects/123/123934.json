@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.638",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: Europe",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
+  "dated": "16th century",
+  "department": "European Art",
   "description": "head and shoulders portrait of young man facing right and looking right in an oval inside an elaborate architectural frame with a woman seated at the top, painting",
   "dimension": "8 3/8 × 6 1/8 in. (21.27 × 15.56 cm) (image, sheet)\r\n11 15/16 × 9 1/2 in. (30.32 × 24.13 cm) (mount)",
   "id": "http://api.artsmia.org/objects/123934",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Etching",
-  "nationality": null,
+  "nationality": "European",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "16th century",
   "text": "",
   "title": "Portrait of Giovanni da Ponte"
 }

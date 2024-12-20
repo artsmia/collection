@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.736",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: France",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
+  "dated": "17th century",
+  "department": "European Art",
   "description": "bust length portrait of Jean-Henri Roos turned slightly right and looking left; in an oval frame on a pedestal; landscape to left of portrait and man with a cow to right; all on a pedestal with drape behind",
   "dimension": "2 1/2 × 3 13/16 in. (6.35 × 9.68 cm) (image)\r\n4 × 3 7/8 in. (10.16 × 9.84 cm) (sheet)\r\n11 3/4 × 9 5/8 in. (29.85 × 24.45 cm) (mount)",
   "id": "http://api.artsmia.org/objects/124291",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Engraving and Etching",
-  "nationality": null,
+  "nationality": "French",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "see Inscription\r\n\r\n",
-  "style": null,
+  "style": "17th century",
   "text": "",
   "title": "Jean-Henri Roos"
 }
