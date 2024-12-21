@@ -1,7 +1,7 @@
 {
   "accession_number": "P.47.910",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: Italy",
   "catalogue_raissonne": "\r\n",
   "classification": " Prints",
   "continent": "Europe",
@@ -9,8 +9,8 @@
   "creditline": "Gift of John Crosby",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Prints and Drawings",
+  "dated": "16th century",
+  "department": "European Art",
   "description": "in an oval frame, man turned right and looking right; wearing fur lined garment with fur collar, hat with broad brim; beard and moustache",
   "dimension": "4 1/8 × 4 1/16 in. (10.48 × 10.32 cm) (image, sheet)\r\n11 3/4 × 9 1/2 in. (29.85 × 24.13 cm) (mount)",
   "id": "http://api.artsmia.org/objects/127177",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Engraving",
-  "nationality": null,
+  "nationality": "Italian",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "\r\n",
-  "style": null,
+  "style": "16th century",
   "text": "",
   "title": "Portrait of Giovanni da Udine"
 }
