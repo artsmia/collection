@@ -1,7 +1,7 @@
 {
   "accession_number": "2013.29.1222",
   "art_champions_text": null,
-  "artist": "Artist: Katō Yuwa",
+  "artist": "artist: Katō Yuwa",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -24,12 +24,12 @@
   "medium": "Ink and color on canvas",
   "nationality": "Japanese",
   "object_name": "Painting",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G375",
   "see_also": [
     ""
   ],

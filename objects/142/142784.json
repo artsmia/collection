@@ -1,7 +1,7 @@
 {
   "accession_number": "2021.140a,b",
   "art_champions_text": null,
-  "artist": "Artist: Simon Denny",
+  "artist": "artist: Simon Denny",
   "catalogue_raissonne": null,
   "classification": " Artist Installations",
   "continent": null,
@@ -14,10 +14,10 @@
   "description": "UV printed image of scarf formerly owned by Margaret Thatcher on plastic table cloth; used British army blanket; static electricity",
   "dimension": "64 1/8 × 64 1/8 in. (162.9 × 162.9 cm) (object part, table cloth)\r\n85 5/8 × 66 7/8 in. (217.5 × 169.9 cm) (object part, blanket)",
   "id": "http://api.artsmia.org/objects/142784",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 1500,
+  "image_width": 1125,
   "inscription": "",
   "life_date": "New Zealander (active Germany), born 1982",
   "markings": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G374",
   "see_also": [
     ""
   ],
