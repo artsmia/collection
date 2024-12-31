@@ -1,7 +1,7 @@
 {
   "accession_number": "2020.58",
   "art_champions_text": null,
-  "artist": "Artist: Dayanita Singh",
+  "artist": "artist: Dayanita Singh",
   "catalogue_raissonne": null,
   "classification": " Artist Installations",
   "continent": "Europe",
@@ -19,10 +19,10 @@
   "image_height": 1366,
   "image_width": 2160,
   "inscription": "",
-  "life_date": "born 1961",
+  "life_date": "Indian,  born 1961",
   "markings": "",
   "medium": "30 hinged teak structures, 80 black and white and 20 color archival pigment prints, 6 stools",
-  "nationality": null,
+  "nationality": "Indian",
   "object_name": "Installation",
   "portfolio": null,
   "provenance": "",
@@ -31,7 +31,8 @@
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
-    ""
+    "137899",
+    "147020"
   ],
   "signed": "",
   "style": "21st century",
