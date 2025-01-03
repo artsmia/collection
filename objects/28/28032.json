@@ -1,17 +1,17 @@
 {
   "accession_number": "92.46",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: United States",
   "catalogue_raissonne": null,
   "classification": " Floor Coverings",
-  "continent": "North America",
+  "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of the John Duss Music Conservatory",
   "culture": null,
   "curator_approved": 0,
   "dated": "20th century",
   "department": "Arts of the Americas",
-  "description": "",
+  "description": "Prindle house rug; wood with stenciled border",
   "dimension": "152 1/2 x 132 1/2 in. (387.35 x 336.55 cm)",
   "id": "http://api.artsmia.org/objects/28032",
   "image": "invalid",
@@ -22,7 +22,7 @@
   "life_date": null,
   "markings": "",
   "medium": "Wool with stenciled border",
-  "nationality": null,
+  "nationality": "American",
   "object_name": "Rug",
   "portfolio": null,
   "provenance": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "20th century",
   "text": "",
-  "title": "Rug"
+  "title": "Rug from Prindle house"
 }
