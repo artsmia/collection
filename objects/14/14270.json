@@ -1,7 +1,7 @@
 {
   "accession_number": "24.4",
   "art_champions_text": null,
-  "artist": "Artist: Workshop of Jacopo Tintoretto; Depicted: Dogaressa Morosina Morosini-Grimani",
+  "artist": "artist: Workshop of Jacopo Tintoretto; depicted: Dogaressa Morosina Morosini-Grimani",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -9,16 +9,16 @@
   "creditline": "The William Hood Dunwoody Fund",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1570–80",
+  "dated": "1578",
   "department": "European Art",
-  "description": "Three quarter length portrait of an unknown woman",
-  "dimension": "72 1/2 x 61 x 3 1/4 in. (184.15 x 154.94 x 8.26 cm) (outer frame)",
+  "description": "Three quarter length portrait of an noble woman",
+  "dimension": "58 x 47 in. (147.3 x 119.4 cm) (canvas)\r\n72 1/2 x 61 x 3 1/4 in. (184.15 x 154.94 x 8.26 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/14270",
   "image": "valid",
   "image_copyright": "",
   "image_height": 5523,
   "image_width": 4387,
-  "inscription": "Inscription: [Anno. ae. XXXII]",
+  "inscription": "Inscription: [ANNO ÆTA XXXII)",
   "life_date": "Italian (Venice), 1518–1594",
   "markings": "Marks on verso:\r\nUC: [3960]\r\nMIA label UR: [OG47.151 MIA to Rothschild]\r\nCustoms stamp LL\r\nIn graphite LC: [MJa 266-26]",
   "medium": "Oil on canvas",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "16th century",
   "text": "The subject of this portrait is the Dogaressa Morosina Morosini (1545–1614). Dogaressa is the title given to the wife of the Doge of Venice, the elected ruler of the republic. The accompanying portrait of her husband, Doge Marino Grimani, is in the collection of the Los Angeles County Museum of Art. From a prominent and wealthy patrician family, Morosini was a patron of the city’s lace industry. She is depicted in a stylish burgundy velvet dress with ruffled lace sleeves and translucent tulle over the shoulders. Notice how the landscape in the window behind the Dogaressa is continued in the background window of the Doge’s portrait. The swaths of silk also link the portraits, acting as bookends that enclose the couple. Whereas Grimani’s portrait was painted by Tintoretto himself, Morosini’s was executed by Tintoretto’s assistants. The pair of paintings date from before Grimani’s election as doge in 1595.",
-  "title": "Portrait of Dogaressa Morosina Morosini"
+  "title": "Portrait of Morosina Morosini"
 }

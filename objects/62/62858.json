@@ -1,7 +1,7 @@
 {
   "accession_number": "2002.229.1.7",
   "art_champions_text": null,
-  "artist": "Artist: Alexa Horochowski",
+  "artist": "artist: Alexa Horochowski",
   "catalogue_raissonne": null,
   "classification": " Sculpture; Tools, Equipment and Utilitarian Objects",
   "continent": null,
@@ -9,8 +9,8 @@
   "creditline": "Gift of the Weiser Family Foundation",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Minnesota Artists Exhibition Program",
+  "dated": "20th century",
+  "department": "Global Contemporary Art",
   "description": "triangular white plastic fob on a keyring; 2 penknives and nail file on fob; decorated with stickers with picture of man wearing black mask with heart on the forehead",
   "dimension": "3 x 2 x 15/16 in. (7.62 x 5.08 x 2.38 cm)",
   "id": "http://api.artsmia.org/objects/62858",
@@ -24,7 +24,7 @@
   "medium": "Plastic, metal, paper",
   "nationality": "American and Argentinian",
   "object_name": "Keychain penknife",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "20th century",
   "text": "",
   "title": "Keychain/Penknife, from Trinket Carro/Chuchería Cart"
 }

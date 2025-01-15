@@ -1,7 +1,7 @@
 {
   "accession_number": "2002.229.1.13",
   "art_champions_text": null,
-  "artist": "Artist: Alexa Horochowski",
+  "artist": "artist: Alexa Horochowski",
   "catalogue_raissonne": null,
   "classification": " Sculpture; Tools, Equipment and Utilitarian Objects",
   "continent": null,
@@ -9,8 +9,8 @@
   "creditline": "Gift of the Weiser Family Foundation",
   "culture": null,
   "curator_approved": 0,
-  "dated": "Date Unknown",
-  "department": "Minnesota Artists Exhibition Program",
+  "dated": "20th century",
+  "department": "Global Contemporary Art",
   "description": "black plastic whistle on a black cord lanyard; decorated with stickers with picture of man wearing a mask with an \"X\" on the forehead",
   "dimension": "2 x 13/16 x 11/16 in. (5.08 x 2.06 x 1.75 cm) (whistle only)\r\n20 1/2 in. (52.07 cm) (single element, length of lanyard)",
   "id": "http://api.artsmia.org/objects/62864",
@@ -24,7 +24,7 @@
   "medium": "Plastic, metal, synthetic (?) cord, cord, paper",
   "nationality": "American and Argentinian",
   "object_name": "Whistle",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 1,
   "rights_type": "In Copyright",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": null,
+  "style": "20th century",
   "text": "",
   "title": "Whistle on a Lanyard, from Trinket Carro/Chuchería Cart"
 }
