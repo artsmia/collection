@@ -1,7 +1,7 @@
 {
   "accession_number": "2013.79.18",
   "art_champions_text": null,
-  "artist": "Artist: Utagawa Hiroshige; Publisher: Sakanaya Eikichi",
+  "artist": "artist: Utagawa Hiroshige; publisher: Sakanaya Eikichi",
   "catalogue_raissonne": "Ukiyo-e shūka 14 (1981), Hiroshige list, p. 250, vertical ōban #62.15",
   "classification": " Prints",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1858, 10th month",
-  "department": "Japanese and Korean Art",
+  "department": "Asian Art",
   "description": "figures on path in middle bottom, including horse with packages on its back; blue and white umbrella, LLC; buildings at right; trees at left center; flying birds at top center",
   "dimension": "13 5/16 × 8 13/16 in. (33.81 × 22.38 cm) (image, vertical ōban)",
   "id": "http://api.artsmia.org/objects/115105",
@@ -19,7 +19,7 @@
   "image_height": "",
   "image_width": "",
   "inscription": "URC, LLC and right edge, LRQ, in black: untranslated inscriptions",
-  "life_date": "Japanese, 1797 - 1858",
+  "life_date": "Japanese, 1797 – 1858",
   "markings": "",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
@@ -36,5 +36,5 @@
   "signed": "Hiroshige ga 広重画",
   "style": "19th century",
   "text": "",
-  "title": "Ueno Yamashita"
+  "title": "Yamashita in Ueno"
 }
