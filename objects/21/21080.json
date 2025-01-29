@@ -1,7 +1,7 @@
 {
   "accession_number": "76.33",
   "art_champions_text": null,
-  "artist": "Maker: Jean-Antoine Houdon",
+  "artist": "modeler: After a model by Jean-Antoine Houdon",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
   "continent": "Europe",
@@ -9,7 +9,7 @@
   "creditline": "The John R. Van Derlip Fund",
   "culture": null,
   "curator_approved": 0,
-  "dated": "19th century",
+  "dated": "late 18th century, after model of 1778",
   "department": "European Art",
   "description": "",
   "dimension": "23 1/4in. (59.1cm)",
@@ -18,10 +18,10 @@
   "image_copyright": "",
   "image_height": 4928,
   "image_width": 3456,
-  "inscription": "",
-  "life_date": "French, 1741-1828",
+  "inscription": "Red wax atelier seal on back of bust: ACADEM[IE] / ROYALE / DE PEINTURE / ET SCULPT[URE] / HOUDON / Sc.",
+  "life_date": "French, 1741–1828",
   "markings": "",
-  "medium": "Stucco, polychromed",
+  "medium": "Painted plaster",
   "nationality": "French",
   "object_name": null,
   "portfolio": null,
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "19th century",
+  "style": "18th-19th century",
   "text": "",
   "title": "Portrait of Jean-Jacques Rousseau"
 }
