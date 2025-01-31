@@ -1,7 +1,7 @@
 {
   "accession_number": "2012.109.4",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Works on Paper",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "standing man with long, flowing beard, standing on a sword on top of waves or clouds; eight bold characters in horizontal line at top; black and white",
   "dimension": "43 x 20 7/8 in. (109.22 x 53.02 cm) (image)\r\n57 1/2 x 34 5/8 in. (146.05 x 87.95 cm) (overall, without roller)",
   "id": "http://api.artsmia.org/objects/112758",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Ink rubbing on paper mounted as hanging scroll",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Rubbing",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing Dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Portrait of Daoist Deity Lu Dongbin"
 }

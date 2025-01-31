@@ -1,7 +1,7 @@
 {
   "accession_number": "2012.109.1",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "figures in multicolored clouds against blue striated background; pair of cranes in top corners; man in blue and red seated on a flying crane at top center; pair of men seated on flying peacock and phoenix-like birds below; pair of figures, each with two attendants, seated on white, green and blue dragons; another pair of figures--one at left seated on a green and red dragon, with three attendants, one at right seated on gold and red dragon, with two attendants; group of figures with round and oval colorful banners in lower corners",
   "dimension": "63 1/16 x 19 1/16 in. (160.18 x 48.42 cm) (image)\r\n63 13/16 x 22 7/8 in. (162.08 x 58.1 cm) (overall)",
   "id": "http://api.artsmia.org/objects/112755",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Ink and color on silk",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Hanging scroll",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing Dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Daoist Pantheon I"
 }

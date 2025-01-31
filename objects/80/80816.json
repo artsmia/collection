@@ -1,7 +1,7 @@
 {
   "accession_number": "96.146.150",
   "art_champions_text": null,
-  "artist": "Artist: Katsukawa Shunchō",
+  "artist": "artist: Katsukawa Shunchō",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -19,12 +19,12 @@
   "image_height": 2966,
   "image_width": 540,
   "inscription": "",
-  "life_date": "Japanese, fl.c.1780 - 1795",
+  "life_date": "Japanese, fl.c.1780–1795",
   "markings": "{Chūrin} seal",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "{Shunchō ga}",
   "style": "18th century",
   "text": "",
-  "title": "Prostitute Cooling under a Willow Tree"
+  "title": "Courtesan Cooling under a Willow Tree"
 }

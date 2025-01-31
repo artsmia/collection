@@ -1,7 +1,7 @@
 {
   "accession_number": "74.1.46",
   "art_champions_text": null,
-  "artist": "Artist: Okumura Masanobu",
+  "artist": "artist: Okumura Masanobu",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -19,9 +19,9 @@
   "image_height": 3744,
   "image_width": 5616,
   "inscription": "Signature; Stamp",
-  "life_date": "Japanese, 1686 - 1764",
+  "life_date": "Japanese, 1686–1764",
   "markings": "{Masanobu}",
-  "medium": "Hanging scroll; ink, color, and gofun on paper",
+  "medium": "Hanging scroll (nikuhitsu); ink, color, and gofun on paper",
   "nationality": "Japanese",
   "object_name": "hanging scroll",
   "portfolio": null,
@@ -36,5 +36,5 @@
   "signed": "{Okumura Masanobu hitsu}",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
-  "title": "Prostitute and Two Attendants"
+  "title": "Courtesan and Two Attendants"
 }

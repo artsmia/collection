@@ -1,7 +1,7 @@
 {
   "accession_number": "74.1.45",
   "art_champions_text": null,
-  "artist": "Artist: Miyagawa Isshō",
+  "artist": "artist: Miyagawa Isshō",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -19,9 +19,9 @@
   "image_height": 5397,
   "image_width": 3415,
   "inscription": "",
-  "life_date": "Japanese, 1689-1779",
+  "life_date": "Japanese, 1689–1779",
   "markings": "Seals:",
-  "medium": "Hanging scroll; ink, color, and gofun on paper",
+  "medium": "Hanging scroll (nikuhitsu); ink, color, and gofun on paper",
   "nationality": "Japanese",
   "object_name": "hanging scroll",
   "portfolio": null,
@@ -36,5 +36,5 @@
   "signed": "Nihon e Miyagawa Issho_",
   "style": "Nikuhitsu ukiyo-e",
   "text": "",
-  "title": "Prostitute Reading a Letter"
+  "title": "Courtesan Reading a Letter"
 }
