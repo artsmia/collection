@@ -1,17 +1,17 @@
 {
   "accession_number": "2000.25.2",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: Kānaka Maoli artist",
   "catalogue_raissonne": null,
   "classification": " Textiles",
   "continent": "Oceania",
   "country": "United States",
   "creditline": "The Paul C. Johnson, Jr. Fund",
-  "culture": null,
+  "culture": "Kānaka Maoli",
   "curator_approved": 1,
   "dated": "1800–25",
   "department": "Arts of Global Africa",
-  "description": "triangular fragment decorated with rust-red and dark brown geometric stamps in 4 repeated rows on 2 sides; beige ground",
+  "description": "triangular mulberry bark cloth decorated with rust-red and dark brown geometric stamps in 4 repeated rows on 2 sides; beige ground",
   "dimension": "30 13/16 x 62 in. (78.26 x 157.48 cm)",
   "id": "http://api.artsmia.org/objects/178",
   "image": "valid",
@@ -21,8 +21,8 @@
   "inscription": "",
   "life_date": null,
   "markings": "",
-  "medium": "Bark, pigment",
-  "nationality": null,
+  "medium": "Bark of paper mulberry (wauke) and pigment",
+  "nationality": "Polynesian",
   "object_name": "Tapa Cloth",
   "portfolio": null,
   "provenance": "",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "19th century",
   "text": "Barkcloth (tapa) was made throughout Oceania and used in the same context as woven fabric. To make the cloth, the inner bark of a mulberry tree was harvested, soaked, and beaten with a short club.\r\n\r\nHistorically, bold hand-painted patterns were common on Hawaiian tapa, but by the nineteenth century decoration had moved toward smaller, more elaborate designs. New metal tools, introduced after Euro-American contact, made it possible for Hawaiian artists to create intricate bamboo dye stamps. The artist of this barkcloth arranged hundreds of individual impressions in a linear pattern around the border of the cloth.",
-  "title": "Tapa Cloth"
+  "title": "Tapa cloth (kapa)"
 }

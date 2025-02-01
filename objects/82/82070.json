@@ -1,7 +1,7 @@
 {
   "accession_number": "P.78.63.42",
   "art_champions_text": null,
-  "artist": "Artist: Hosoda Eishi",
+  "artist": "artist: Hosoda Eishi",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -19,12 +19,12 @@
   "image_height": 4215,
   "image_width": 3572,
   "inscription": "[...]",
-  "life_date": "Japanese, 1756 - 1829",
+  "life_date": "Japanese, 1756–1829",
   "markings": "",
   "medium": "Woodblock print (surimono); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (surimono / bijin-ga)",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "{Eishi ga}",
   "style": "18th-19th century",
   "text": "",
-  "title": "(Prostitute and Wooden Doll)"
+  "title": "(Courtesan and Wooden Doll)"
 }
