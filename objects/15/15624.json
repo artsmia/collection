@@ -1,7 +1,7 @@
 {
   "accession_number": "31.84.14",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "plate, latiform, blue on white porcelain, having nine petal-shaped panels making up the rim; the decoration consists of birds and flowers, and there are scattered flower shapes on the rim; under rim; brown glaze at rim",
   "dimension": "9 x 9 in. (22.9 x 22.86 cm)",
   "id": "http://api.artsmia.org/objects/15624",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Porcelain",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Plate",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Plate"
 }

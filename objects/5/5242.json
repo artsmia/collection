@@ -1,7 +1,7 @@
 {
   "accession_number": "97.156.5",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Metalwork",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Qianlong period, 1750",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "square bronze base with stamp at underside; stamp in both Manchurian and Chinese; round tapered handle at top side center",
   "dimension": "3 5/8 x 2 1/4 x 2 1/4 in. (9.21 x 5.72 x 5.72 cm)",
   "id": "http://api.artsmia.org/objects/5242",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "undeciphered text at bottom, three sides and corners of top",
   "medium": "Bronze",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Seal",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Official Seal of the Han Regiment of the Yellow Banner"
+  "title": "Official seal of the Han Regiment of the Yellow Banner"
 }
