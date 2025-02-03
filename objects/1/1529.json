@@ -1,7 +1,7 @@
 {
   "accession_number": "63.5",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "woman seated on a cushion with calligraphy in upper left corner",
   "dimension": "33 1/4 x 14 1/2 in. (84.5 x 36.8 cm)",
   "id": "http://api.artsmia.org/objects/1529",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Ink and color on silk",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": null,
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Ming dynasty",
+  "style": "Ming dynasty (1368–1644)",
   "text": "",
   "title": "Portrait of a Woman"
 }
