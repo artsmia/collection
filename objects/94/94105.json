@@ -1,7 +1,7 @@
 {
   "accession_number": "2004.181a,b",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "c. 1680",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "in the form of a shou character; curved handle and long s-form spout; slightly recessed base; diaper design in yellow, green and black between raised mauve edges; handle and spout simulate bamboo",
   "dimension": "9 1/8 x 8 3/16 x 1 3/4 in. (23.18 x 20.8 x 4.45 cm)",
   "id": "http://api.artsmia.org/objects/94105",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Porcelain with enamel decor painted on bisquit",
-  "nationality": null,
-  "object_name": "Wine Ewer",
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Ewer",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "17th century",
   "text": "Hand built in the form of a shou (longevity) character with a curved handle and long s-formed spout, this unusually exuberant, seemingly modern wine vessel was made over three hundred years ago. Character-form wine pots were made in three shapes: shou (longevity), fu (happiness), and lu (emolument) during the Kang-hsi reign (1662-1772). The porcelain is enameled on the bisquit with a diaper design in yellow-green and black. The handle and spout simulate wrapped bamboo.",
-  "title": "Wine Ewer"
+  "title": "Wine ewer"
 }

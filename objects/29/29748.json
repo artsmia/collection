@@ -1,7 +1,7 @@
 {
   "accession_number": "97.30.5",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Lacquer",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "18th century",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "",
   "dimension": "2 3/4 x 2 1/2in. (7 x 6.4cm)",
   "id": "http://api.artsmia.org/objects/29748",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Cinnabar lacquer",
-  "nationality": null,
-  "object_name": null,
-  "portfolio": "From ",
+  "nationality": "Chinese",
+  "object_name": "Snuff bottle",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "",
   "style": "18th century",
   "text": "",
-  "title": "Lacquer Snuff Bottle, Children in Garden"
+  "title": "Lacquer snuff bottle, children in garden"
 }
