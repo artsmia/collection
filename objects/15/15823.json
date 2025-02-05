@@ -1,7 +1,7 @@
 {
   "accession_number": "36.7.7a,b",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Tools, Equipment and Utilitarian Objects",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "box, cylindrical, with cover. Imperial emerald jade, the cover carved with radiating chrysanthemum petals. Brilliant polish. One of a pair (36.7.7-8). Spinach green jade.",
   "dimension": "4 1/8 in. (10.48 cm) (diamter)",
   "id": "http://api.artsmia.org/objects/15823",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Jade",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Box",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Green box with lid"
 }

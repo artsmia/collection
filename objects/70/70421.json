@@ -1,7 +1,7 @@
 {
   "accession_number": "P.78.65.140",
   "art_champions_text": null,
-  "artist": "Artist: Kitagawa Utamaro; Publisher: Maruya Bun'emon",
+  "artist": "artist: Kitagawa Utamaro; publisher: Maruya Bun'emon",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -9,7 +9,7 @@
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "1781-1806",
+  "dated": "1781–1806",
   "department": "Asian Art",
   "description": "",
   "dimension": "12 9/16 x 8 5/8 in. (31.9 x 21.9 cm) (image, sheet)",
@@ -19,7 +19,7 @@
   "image_height": 2481,
   "image_width": 1726,
   "inscription": "",
-  "life_date": "Japanese, 1753 - 1806",
+  "life_date": "Japanese, 1753–1806",
   "markings": "Publisher:Maru-bun\r\n7 courtesans name",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
@@ -36,5 +36,5 @@
   "signed": "{Utamaro hitsu}",
   "style": "18th-19th century",
   "text": "",
-  "title": "Two Prostitutes in the Roles of \"Koi-shigure momiji no rodai\""
+  "title": "Two Courtesans in the Roles of \"Koi-shigure momiji no rodai\""
 }
