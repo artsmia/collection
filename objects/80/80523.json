@@ -1,7 +1,7 @@
 {
   "accession_number": "74.1.330",
   "art_champions_text": null,
-  "artist": "Artist: Katsukawa Shunchō",
+  "artist": "artist: Katsukawa Shunchō",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -9,7 +9,7 @@
   "creditline": "Bequest of Richard P. Gale",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1780-1795",
+  "dated": "c. 1780–1795",
   "department": "Asian Art",
   "description": "",
   "dimension": "25 11/16 × 4 1/2 in. (65.3 × 11.4 cm) (image, sheet, hashira-e)",
@@ -19,12 +19,12 @@
   "image_height": 2971,
   "image_width": 548,
   "inscription": "[...]",
-  "life_date": "Japanese, fl.c.1780 - 1795",
+  "life_date": "Japanese, fl.c.1780–1795",
   "markings": "Censor: kiwame",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "{Shunchō ga}",
   "style": "18th-19th century",
   "text": "",
-  "title": "Prostitute and Her Lover"
+  "title": "Courtesan and Her Lover"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "97.153.59",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Sculpture",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "feminine figure holding vessel encircled by prunus branch; Kwan Yin--Chinese; carved green jade; late Ch'ing Dynasty",
   "dimension": "8 11/16 x 3 x 1 1/2 in. (22.07 x 7.62 x 3.81 cm)",
   "id": "http://api.artsmia.org/objects/29551",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Jade",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Figure",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Figure"
 }
