@@ -1,7 +1,7 @@
 {
   "accession_number": "31.84.17",
   "art_champions_text": null,
-  "artist": "",
+  "artist": "artist: China",
   "catalogue_raissonne": null,
   "classification": " Ceramics",
   "continent": "Asia",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "Date Unknown",
-  "department": "Chinese, South and Southeast Asian Art",
+  "department": "Asian Art",
   "description": "plate (one of a pair), blue on white porcelain, In the center is a pagoda with two women in the veranda and two children playing ball in the garden outside; in the rim are various trees and figures of people at different occupations sleeping, playing musical instruments, picking flowers, etc.",
   "dimension": "11 in. (27.94 cm) (diameter)",
   "id": "http://api.artsmia.org/objects/15603",
@@ -22,9 +22,9 @@
   "life_date": null,
   "markings": "",
   "medium": "Porcelain",
-  "nationality": null,
+  "nationality": "Chinese",
   "object_name": "Plate",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -34,7 +34,7 @@
     ""
   ],
   "signed": "",
-  "style": "Qing dynasty",
+  "style": "Qing dynasty (1644–1911)",
   "text": "",
   "title": "Plate, one of a pair"
 }

@@ -1,7 +1,7 @@
 {
   "accession_number": "2013.58.3",
   "art_champions_text": null,
-  "artist": "Artist: Jiang Xun",
+  "artist": "artist: Jiang Xun",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Asia",
@@ -14,12 +14,12 @@
   "description": "two figures with bare legs carrying an open sedan chair with a seated bearded man wearing a blue robe and carrying a fan, with a grey umbrella held over his head by another bare-legged figure; figures on a path over a river, between trees; waterfall and mountain peaks in background; inscription and red seal, URC; two other red seals, LLC",
   "dimension": "52 5/16 × 21 11/16 in. (132.87 × 55.09 cm) (image)\r\n89 1/4 × 29 13/16 in. (226.7 × 75.72 cm) (without roller)",
   "id": "http://api.artsmia.org/objects/118826",
-  "image": "invalid",
+  "image": "valid",
   "image_copyright": "",
-  "image_height": "",
-  "image_width": "",
+  "image_height": 11183,
+  "image_width": 4748,
   "inscription": "",
-  "life_date": "Chinese, 1764 - c. 1821",
+  "life_date": "Chinese, 1764–c. 1821",
   "markings": "",
   "medium": "Ink and color on paper",
   "nationality": "Chinese",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "19th century",
-  "text": "In traditional Chinese belief, great mountains were mysterious and possibly dangerous realms, because they contained not only deities but also ghosts and monsters who would sometimes harm people. Paintings like this one expressed these beliefs. It features a popular subject, Zhong Kui, the demon tamer, riding in a sedan chair carried by three demons. He is protected from the sun by an umbrella, which also serves to assert his high status and extraordinary powers. He is depicted traveling in his domain, hunting ghosts and in the company of the demons he has conquered.",
+  "text": "According to traditional Chinese beliefs, great mountains are mysterious and possibly dangerous realms, inhabited by deities as well as ghosts and monsters. This painting shows Zhong Kui, the demon-tamer deity, traveling throughout his domain in order to eliminate any evil beings he might encounter along the way. Holding an umbrella as protection from the sun, he rides in a sedan chair carried by three demons he has conquered.",
   "title": "Zhong Kui Traveling"
 }

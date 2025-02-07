@@ -1,7 +1,7 @@
 {
   "accession_number": "P.75.51.31",
   "art_champions_text": null,
-  "artist": "Artist: Kitagawa Tsukimaro; Publisher: Murataya Jirōbei",
+  "artist": "artist: Kitagawa Tsukimaro; publisher: Murataya Jirōbei",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Asia",
@@ -9,7 +9,7 @@
   "creditline": "Gift of Louis W. Hill, Jr.",
   "culture": null,
   "curator_approved": 0,
-  "dated": "c. 1800-1804",
+  "dated": "c. 1800–1804",
   "department": "Asian Art",
   "description": "",
   "dimension": "13 3/8 x 9 1/8 in. (34 x 23.2 cm) (image, sheet)",
@@ -19,12 +19,12 @@
   "image_height": 2662,
   "image_width": 1826,
   "inscription": "",
-  "life_date": "Japanese, fl. c.1800s-1820s",
+  "life_date": "Japanese, fl. c.1800s–1820s",
   "markings": "Censor:kiwame\r\nPublisher:Murataya Jirobe_",
   "medium": "Woodblock print (nishiki-e); ink and color on paper",
   "nationality": "Japanese",
   "object_name": "Print (ukiyo-e / bijin-ga)",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "Kikumaro hitsu",
   "style": "18th-19th century",
   "text": "",
-  "title": "(Prostitute and her Lover)"
+  "title": "(Courtesan and her Lover)"
 }
