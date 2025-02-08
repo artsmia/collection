@@ -1,7 +1,7 @@
 {
   "accession_number": "2010.12",
   "art_champions_text": null,
-  "artist": "Artist: Sir Edwin Henry Landseer",
+  "artist": "artist: Sir Edwin Henry Landseer",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -24,12 +24,12 @@
   "medium": "Oil and graphite on oak panel",
   "nationality": "British",
   "object_name": "Painting",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
-  "room": "Not on View",
+  "room": "G281",
   "see_also": [
     ""
   ],
