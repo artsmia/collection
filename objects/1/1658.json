@@ -1,7 +1,7 @@
 {
   "accession_number": "68.11",
   "art_champions_text": null,
-  "artist": "artist: Jacques Dumont, called le Romain; artist: Fromerly attributed to Jean Restout II",
+  "artist": "artist: Jacques Dumont, called le Romain; artist: Formerly attributed to Jean Restout II",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -16,8 +16,8 @@
   "id": "http://api.artsmia.org/objects/1658",
   "image": "valid",
   "image_copyright": "",
-  "image_height": 3117,
-  "image_width": 2513,
+  "image_height": 10123,
+  "image_width": 7810,
   "inscription": "",
   "life_date": "French (Paris), 1701–1781",
   "markings": "",
@@ -35,6 +35,6 @@
   ],
   "signed": "",
   "style": "18th century",
-  "text": "Jean Restout II specialized in religious subjects, producing work that found great favor with France’s monasteries. This vivid image of a monk is among several early paintings by Restout depicting members of the Carthusian order and its founder, Saint Bruno. The reclusive Carthusians, recognized by their shaved heads and hooded white clothing, lived in solitude and poverty, copying books and contemplating the contents. This man’s identity is unknown. The delicate modulation of light across his face reveals his wrinkled brow and five o’clock shadow. Restout’s skillful modeling of the hands and white habit makes them appear tangible.",
-  "title": "Portrait of Dom Pascal Le Tonnelier, Prior of the Carthusians od Paris, Age 65"
+  "text": "epicting members of the Carthusian order and its founder, Saint Bruno. The reclusive Carthusians, recognized by their shaved heads and hooded white clothing, lived in solitude and poverty, copying books and contemplating the contents. This man’s identity is unknown. The delicate modulation of light across his face reveals his wrinkled brow and five o’clock shadow. Restout’s skillful modeling of the hands and white habit makes them appear tangible.",
+  "title": "Portrait of Dom Pascal Le Tonnelier"
 }
