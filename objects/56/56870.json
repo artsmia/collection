@@ -1,7 +1,7 @@
 {
   "accession_number": "P.89.16",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": "Duthuit 504",
   "classification": " Prints",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "11 x 15 in. (27.94 x 38.1 cm) (image)\r\n15 x 19 3/4 in. (38.1 x 50.17 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/56870",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 3308,
   "image_width": 4204,
   "inscription": "Signature",
@@ -26,8 +26,8 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

@@ -1,7 +1,7 @@
 {
   "accession_number": "B.81.15b",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: Henri de Montherlant; Publisher: Les Heritiers de l'Artiste, Paris",
+  "artist": "artist: Henri Matisse; author: Henri de Montherlant; publisher: Les Heritiers de l'Artiste, Paris",
   "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "13 x 10 in. (33.02 x 25.4 cm) (page size)",
   "id": "http://api.artsmia.org/objects/96774",
   "image": "invalid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": "",
   "image_width": "",
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Artist's book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

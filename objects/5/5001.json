@@ -1,7 +1,7 @@
 {
   "accession_number": "96.139.2",
   "art_champions_text": null,
-  "artist": "Photographer: Werner Bischof",
+  "artist": "photographer: Werner Bischof",
   "catalogue_raissonne": null,
   "classification": " Photographs",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "7 x 10 1/8 in. (17.78 x 25.72 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/5001",
   "image": "valid",
-  "image_copyright": "© Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "",
   "image_height": 1779,
   "image_width": 2560,
   "inscription": "Title, Inscription, Stamp",
@@ -26,8 +26,8 @@
   "object_name": null,
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

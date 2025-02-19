@@ -1,7 +1,7 @@
 {
   "accession_number": "B.75.2a",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: Pierre de Ronsard; Publisher: Albert Skira , Paris; Lithographer: Mourlot Freres, Paris; Printer: George Girard, Paris, France , (text)",
+  "artist": "artist: Henri Matisse; author: Pierre de Ronsard; publisher: Albert Skira , Paris; lithographer: Mourlot Freres, Paris; printer: George Girard, Paris, France , (text)",
   "catalogue_raissonne": null,
   "classification": " Books",
   "continent": null,
@@ -15,7 +15,7 @@
   "dimension": null,
   "id": "http://api.artsmia.org/objects/6043",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 3139,
   "image_width": 4757,
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Artist's book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

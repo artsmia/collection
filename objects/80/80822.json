@@ -1,7 +1,7 @@
 {
   "accession_number": "B.83.17",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: Pierre Reverdy; Publisher: Éditions du Chêne, Paris; Lithographer: Mourlot Freres, Paris; Printer: Fequet et Baudier, Paris, France , (text)",
+  "artist": "artist: Henri Matisse; author: Pierre Reverdy; publisher: Éditions du Chêne, Paris; lithographer: Mourlot Freres, Paris; printer: Fequet et Baudier, Paris, France , (text)",
   "catalogue_raissonne": null,
   "classification": " Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "13 x 10 in. (33.02 x 25.4 cm)",
   "id": "http://api.artsmia.org/objects/80822",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 7137,
   "image_width": 5640,
   "inscription": "Mark",
@@ -26,8 +26,8 @@
   "object_name": "Artist's book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

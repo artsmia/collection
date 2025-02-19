@@ -1,7 +1,7 @@
 {
   "accession_number": "71.9.4",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": "Duthuit no. 79",
   "classification": " Sculpture",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "12 1/2 x 8 x 7 1/2 in. (31.8 x 20.3 x 19.1 cm)",
   "id": "http://api.artsmia.org/objects/1889",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4896,
   "image_width": 3606,
   "inscription": "Lower back: N.6 | stamped: CIRE / C. VALSUANI / PERDUE",
@@ -26,8 +26,8 @@
   "object_name": null,
   "portfolio": null,
   "provenance": "The artist [1]. Mr. and Mrs. Carl Frederik Hellström (1890-1968), Consul General of Sweden, Minneapolis (by 1953–1955, sold to Bruce Dayton); Dayton Hudson Corporation, Minneapoli (1955–71, given to Mia)\r\n\r\n[1] Duthuit 1997 also lists the sculpture as from the \"famille de l'artiste,\" or \"family of the artist.\" The Hellströms lent the sculpture to Mia in 1953, before Matisse's death.\r\n\r\n",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

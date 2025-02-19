@@ -1,7 +1,7 @@
 {
   "accession_number": "B.91.5.58",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Printer: Mourlot Freres, Paris; Printer: Draeger Frères, Paris, France; Publisher: Tériade, Paris, France",
+  "artist": "artist: Henri Matisse; printer: Mourlot Freres, Paris; printer: Draeger Frères, Paris; publisher: Tériade, Paris, France",
   "catalogue_raissonne": "Duthuit Books 139",
   "classification": " Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "14 3/8 x 10 5/8in. (36.5 x 27cm)",
   "id": "http://api.artsmia.org/objects/32654",
   "image": "invalid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": "",
   "image_width": "",
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Periodical",
   "portfolio": null,
   "provenance": "Ruth and Bruce Dayton, Wayzata, Minn.; given to MIA, 1991.",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

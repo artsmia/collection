@@ -1,7 +1,7 @@
 {
   "accession_number": "B.91.5.49",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: Georges Duthuit; Publisher: Tériade, Paris, France",
+  "artist": "artist: Henri Matisse; author: Georges Duthuit; publisher: Tériade, Paris, France",
   "catalogue_raissonne": null,
   "classification": " Prints; Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "10 1/4 x 8in. (26 x 20.3cm)",
   "id": "http://api.artsmia.org/objects/32644",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4032,
   "image_width": 3072,
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Illustrated book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

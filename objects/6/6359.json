@@ -1,7 +1,7 @@
 {
   "accession_number": "2010.37",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "19 1/4 x 25 1/8 in. (48.9 x 63.82 cm) (sight)\r\n29 1/2 x 35 1/2 x 3 in. (74.93 x 90.17 x 7.62 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/6359",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4852,
   "image_width": 6279,
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Painting",
   "portfolio": null,
   "provenance": "The artist, Nice and Paris (until 1924, sold, April 15, to Bernheim-Jeune); [Galerie Bernheim-Jeune, Paris, 1924; sold, April 15, to Canonne]; Henri Canonne, Paris (1924–d. 1961); by descent in the Canonne estate (until 1982, sold to Schmit); [Galerie Schmit, Paris, 1982]; private collection, 1982; [Alex Reid and Lefevre Gallery, London, 1983]; [Perls Gallery, New York, until 1986, sold, April, to Dayton]; Bruce Dayton, Wayzata (1986–2010; given to Mia)\r\n",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G351",
   "see_also": [

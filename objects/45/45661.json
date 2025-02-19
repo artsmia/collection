@@ -1,7 +1,7 @@
 {
   "accession_number": "P.69.120",
   "art_champions_text": null,
-  "artist": "Artist: Paul Ranson",
+  "artist": "artist: Paul Ranson",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -10,7 +10,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1895",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "description": "",
   "dimension": "5 5/16 x 8 3/4 in. (13.49 x 22.23 cm) (image)\r\n5 7/8 x 9 1/2 in. (14.92 x 24.13 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/45661",
@@ -19,12 +19,12 @@
   "image_height": "",
   "image_width": "",
   "inscription": "Monogram",
-  "life_date": "French, 1864 - 1909",
+  "life_date": "French, 1864–1909",
   "markings": "",
   "medium": "Lithograph",
   "nationality": "French",
   "object_name": null,
-  "portfolio": "From from \"Album de la Revue Blanche\"",
+  "portfolio": "from \"Album de la Revue Blanche\"",
   "provenance": "",
   "restricted": 0,
   "rights_type": "Public Domain",
@@ -36,5 +36,5 @@
   "signed": "monogram in plate",
   "style": "19th century",
   "text": "",
-  "title": "Woman Reading on the Bed"
+  "title": "Woman Reading"
 }

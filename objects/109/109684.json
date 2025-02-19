@@ -1,7 +1,7 @@
 {
   "accession_number": "2010.46.1",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": "Duthuit 403",
   "classification": " Prints",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "18 1/16 x 14 in. (45.88 x 35.56 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/109684",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4723,
   "image_width": 3732,
   "inscription": "Signature, Inscription and Edition\r\n\r\nLRC, in pencil: [23]; on back, in pencil: [pl 29] and [690]",
@@ -26,8 +26,8 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "(Sale, Galerie Kornfeld, Bern, Switzerland, June 12, 2009, no. 115, to Schrank); [Harris Schrank, New York, 2009, sold to Boerner]; [C.G. Boerner, New York, 2010; sold to MIA]",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

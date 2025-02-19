@@ -1,7 +1,7 @@
 {
   "accession_number": "B.82.11",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: John-Antoine Nau; Publisher: Mourlot Freres, Paris; Printer: Fequet et Baudier, Paris, France , (text); Lithographer: Mourlot Freres, Paris",
+  "artist": "artist: Henri Matisse; author: John-Antoine Nau; publisher: Mourlot Freres, Paris; printer: Fequet et Baudier, Paris, France , (text); lithographer: Mourlot Freres, Paris",
   "catalogue_raissonne": "V & A 129",
   "classification": " Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "14 3/4 x 11 in. (37.47 x 27.94 cm)",
   "id": "http://api.artsmia.org/objects/80821",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 6116,
   "image_width": 8887,
   "inscription": "Mark",
@@ -26,8 +26,8 @@
   "object_name": "Artist's book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

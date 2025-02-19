@@ -1,7 +1,7 @@
 {
   "accession_number": "B.91.5.53",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: Louis Aragon , et al.; Publisher: Maeght Éditeur, Paris",
+  "artist": "artist: Henri Matisse; author: Louis Aragon , et al.; publisher: Maeght Éditeur, Paris",
   "catalogue_raissonne": null,
   "classification": " Prints; Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "9 1/2 x 8 1/8in. (24.1 x 20.6cm)",
   "id": "http://api.artsmia.org/objects/32649",
   "image": "invalid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": "",
   "image_width": "",
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Illustrated book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

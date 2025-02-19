@@ -1,7 +1,7 @@
 {
   "accession_number": "B.85.4.1a",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse; Author: Marianna Alcaforado; Publisher: Tériade, Paris, France; Lithographer: Mourlot Freres, Paris; Printer: Jourde et Allard , (text)",
+  "artist": "artist: Henri Matisse; author: Marianna Alcaforado; publisher: Tériade, Paris, France; lithographer: Mourlot Freres, Paris; printer: Jourde et Allard , (text)",
   "catalogue_raissonne": "Garvey 199\r\nRauch 170\r\nBarr 271, 560, 273\r\nLieberman 29\r\nCramer no. 26",
   "classification": " Books",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "10 7/8 x 8 3/8 in. (27.62 x 21.27 cm)",
   "id": "http://api.artsmia.org/objects/6081",
   "image": "invalid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": "",
   "image_width": "",
   "inscription": "Mark",
@@ -26,8 +26,8 @@
   "object_name": "Artist's book",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

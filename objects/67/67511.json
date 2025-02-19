@@ -1,7 +1,7 @@
 {
   "accession_number": "P.78.6.8",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": "Duthuit 508",
   "classification": " Prints",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "11 1/4 x 14 1/4 in. (28.58 x 36.2 cm) (image)\r\n15 1/2 x 19 3/4 in. (39.37 x 50.17 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/67511",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 3639,
   "image_width": 4922,
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "(Locksley Shea Gallery, Minneapolis); sold to MIA, 1978.",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

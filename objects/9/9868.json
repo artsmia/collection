@@ -1,7 +1,7 @@
 {
   "accession_number": "2000.19",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": "Duthuit 440",
   "classification": " Prints",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "13 1/8 x 9 7/8 in. (33.34 x 25.08 cm) (image)\r\n21 x 15 1/2 in. (53.34 x 39.37 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/9868",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4364,
   "image_width": 3342,
   "inscription": "Signature and Edition",
@@ -26,8 +26,8 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

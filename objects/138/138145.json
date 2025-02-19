@@ -1,7 +1,7 @@
 {
   "accession_number": "2020.97.9",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": null,
   "classification": " Prints",
   "continent": "Europe",
@@ -24,10 +24,10 @@
   "medium": "Color aquatint",
   "nationality": "French",
   "object_name": "Print",
-  "portfolio": "From ",
+  "portfolio": null,
   "provenance": "Bruce B. Dayton (Minneapolis); by descent to his wife Ruth Dayton Stricker (Minneapolis).",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

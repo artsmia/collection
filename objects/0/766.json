@@ -1,7 +1,7 @@
 {
   "accession_number": "47.41",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": null,
   "classification": " Paintings",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "28 1/2 x 23 1/8 in. (72.39 x 58.74 cm) (sight)\r\n39 9/16 x 32 1/4 x 3 9/16 in. (100.49 x 81.92 x 9.05 cm) (outer frame)",
   "id": "http://api.artsmia.org/objects/766",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4368,
   "image_width": 3570,
   "inscription": "Signature",
@@ -26,8 +26,8 @@
   "object_name": "Painting",
   "portfolio": null,
   "provenance": "[Valentine Dudensing Gallery, New York, by 1930; sold to Clark]; Stephen C. Clark, New York (by 1930–1947); [Sam Salz, New York, 1947; sold, December, for $16,000 to Mia]",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

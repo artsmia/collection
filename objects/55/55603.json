@@ -1,7 +1,7 @@
 {
   "accession_number": "P.12,755",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": "Duthuit 620",
   "classification": " Prints",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "10 1/2 x 8 in. (26.67 x 20.32 cm) (image)\r\n19 3/4 x 15 3/16 in. (50.17 x 38.58 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/55603",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4357,
   "image_width": 3372,
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "Mrs. Charles S. Pillsbury, Minneapolis; given to MIA, 1958.",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

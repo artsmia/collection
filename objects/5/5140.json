@@ -1,7 +1,7 @@
 {
   "accession_number": "96.88",
   "art_champions_text": null,
-  "artist": "Artist: Henri Matisse",
+  "artist": "artist: Henri Matisse",
   "catalogue_raissonne": null,
   "classification": " Drawings",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "14 3/4 x 9 5/8 in. (37.47 x 24.45 cm) (image, sheet)",
   "id": "http://api.artsmia.org/objects/5140",
   "image": "valid",
-  "image_copyright": "© Succession H. Matisse %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "",
   "image_height": 4393,
   "image_width": 2834,
   "inscription": "",
@@ -26,8 +26,8 @@
   "object_name": "Drawing",
   "portfolio": null,
   "provenance": "The Matisse Family, Paris; [Pace Master Prints and Drawings, New York, until 1996; sold to the MIA].",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [

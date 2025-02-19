@@ -1,7 +1,7 @@
 {
   "accession_number": "2002.108.11",
   "art_champions_text": null,
-  "artist": "Photographer: Werner Bischof",
+  "artist": "photographer: Werner Bischof",
   "catalogue_raissonne": null,
   "classification": " Photographs",
   "continent": "Europe",
@@ -15,7 +15,7 @@
   "dimension": "10 1/2 x 10 3/8 in. (26.67 x 26.35 cm) (image)\r\n15 3/4 x 11 7/8 in. (40.01 x 30.16 cm) (sheet)",
   "id": "http://api.artsmia.org/objects/62215",
   "image": "valid",
-  "image_copyright": "© Werner Bischof Estate All Rights Reserved",
+  "image_copyright": "",
   "image_height": 2021,
   "image_width": 1976,
   "inscription": "Inscription\r\n\r\nat lower edge on back, in black: [(c) WERNER BISCHOF ESTATE 110502 MARCO BISCHOF]",
@@ -26,8 +26,8 @@
   "object_name": null,
   "portfolio": null,
   "provenance": "",
-  "restricted": 1,
-  "rights_type": "In Copyright",
+  "restricted": 0,
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
   "see_also": [
