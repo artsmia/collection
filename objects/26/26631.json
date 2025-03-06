@@ -11,7 +11,7 @@
   "curator_approved": 0,
   "dated": "20th century",
   "department": "Arts of the Americas",
-  "description": "engraved nickel silver 'Felix Otero' (outside), maker 'Tarora Sarrasino' (inside) J.#331, Cat.none",
+  "description": "engraved nickel silver 'Felix Otero' (outside), maker 'Tarora Sarrasino' (inside)",
   "dimension": "2 1/2 x 3/4 in. (6.35 x 1.91 cm)",
   "id": "http://api.artsmia.org/objects/26631",
   "image": "valid",
@@ -20,8 +20,8 @@
   "image_width": 2611,
   "inscription": "",
   "life_date": null,
-  "markings": "",
-  "medium": "Silver, turquoise",
+  "markings": "engraved exterior: Felix Otero",
+  "medium": "Nickel silver, engraved",
   "nationality": null,
   "object_name": "Bracelet",
   "portfolio": null,
@@ -33,7 +33,7 @@
   "see_also": [
     ""
   ],
-  "signed": "",
+  "signed": "engraved inside: Tarora Sarrasino",
   "style": "20th century",
   "text": "",
   "title": "Bracelet"
