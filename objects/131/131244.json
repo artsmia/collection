@@ -1,5 +1,4 @@
 {
-  "": "",
   "accession_number": "2018.127.3",
   "art_champions_text": null,
   "artist": "photographer: Kenji Nakahashi",
@@ -14,9 +13,9 @@
   "department": "Asian Art",
   "description": "view of city sidewalk with a pan inside a fire in LRC; standing man wearing blue stocking hat and yellow coat with a folding cart at center, with a broken upside down umbrella and a small FedEx box at man's feet; walking man wearing a blue baseball cap, dark coat, and khaki pants at right",
   "dimension": "9 × 12 3/4 in. (22.86 × 32.39 cm) (image)\r\n10 15/16 × 14 in. (27.78 × 35.56 cm) (sheet)",
-  "id": 131244,
+  "id": "http://api.artsmia.org/objects/131244",
   "image": "valid",
-  "image_copyright": "© Center for Creative Photography, Arizona Board of Regents",
+  "image_copyright": "© Center for Creative Photography%2C Arizona Board of Regents",
   "image_height": 3834,
   "image_width": 5447,
   "inscription": "",

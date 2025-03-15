@@ -13,9 +13,9 @@
   "department": "Asian Art",
   "description": "three images; central image of door of storefront with windows on either side, taped in irregular patterns; text on window at right partially visible: \"Agents for: TEM... / GENERAL ELE... / OASIS - WESTING... / SUNROO...\"; left and right images are partial views of same scene",
   "dimension": "6 5/16 × 17 in. (16.03 × 43.18 cm) (image)\r\n10 15/16 × 19 15/16 in. (27.78 × 50.64 cm) (sheet)",
-  "id": 131238,
+  "id": "http://api.artsmia.org/objects/131238",
   "image": "valid",
-  "image_copyright": "© Center for Creative Photography, Arizona Board of Regents",
+  "image_copyright": "© Center for Creative Photography%2C Arizona Board of Regents",
   "image_height": 2712,
   "image_width": 7274,
   "inscription": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "not on view",
+  "room": "Not on View",
   "see_also": [
     ""
   ],

@@ -13,9 +13,9 @@
   "department": "Asian Art",
   "description": "three images; central image of two subway turnstiles (?), covered in plastic, taped with grey duct tape, with a view out windows, with blue vented door at center and text on signs at right; left and right images are partial views of same scene",
   "dimension": "6 5/8 × 17 in. (16.83 × 43.18 cm) (image)\r\n10 × 20 in. (25.4 × 50.8 cm) (sheet)",
-  "id": 131240,
+  "id": "http://api.artsmia.org/objects/131240",
   "image": "valid",
-  "image_copyright": "© Center for Creative Photography, Arizona Board of Regents",
+  "image_copyright": "© Center for Creative Photography%2C Arizona Board of Regents",
   "image_height": 2704,
   "image_width": 7268,
   "inscription": "",
@@ -29,7 +29,7 @@
   "restricted": 1,
   "rights_type": "In Copyright",
   "role": "Artist",
-  "room": "not on view",
+  "room": "Not on View",
   "see_also": [
     ""
   ],
