@@ -1,6 +1,6 @@
 {
   "accession_number": "85.106.1",
-  "artist": "Gorham Manufacturing Company",
+  "artist": "Manufacturer: Gorham Manufacturing Company",
   "classification": "Metalwork",
   "continent": "\"Americas\"",
   "country": "\"United States\"",
@@ -17,7 +17,7 @@
   "image_height": 5520,
   "image_width": 4963,
   "inscription": "Mark",
-  "life_date": "1865–1967",
+  "life_date": "Gorham Manufacturing Company, Manufacturer, Providence, Rhode Island, 1865–1967",
   "markings": "walking animal, (anchor), Gothic letter, 2997",
   "medium": "Silver, ivory",
   "object_name": "Coffee Pot, Coffee pot with tray",
@@ -27,7 +27,7 @@
   "rights_type": "Public Domain",
   "room": "G354",
   "signed": null,
-  "style": "19th century",
-  "text": null,
+  "style": null,
+  "text": "This coffee pot and tray combine the attenuated form of a Turkish coffee pot with a distinctly Western, thistle motif. This design, in production for several years, was described in 1890 as an \"after dinner coffee pot and tray.\"",
   "title": "Coffeepot"
 }
