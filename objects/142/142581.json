@@ -2,8 +2,8 @@
   "accession_number": "2022.56.2",
   "artist": "Stuart Nielsen",
   "classification": "Printing Matrices",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Highpoint Editions Archive, Gift of the artist",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 7008,
   "image_width": 5606,
   "inscription": null,
-  "life_date": "Stuart Nielsen, American, born 1947",
+  "life_date": "American, born 1947",
   "markings": null,
   "medium": "Steel-faced copper plate, etched",
   "object_name": "Printing matrix",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Intaglio printing plate for \"South\", from Cardinal Suite"
+  "title": "Intaglio printing plate for South, from Cardinal Suite"
 }

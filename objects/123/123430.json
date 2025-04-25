@@ -2,8 +2,8 @@
   "accession_number": "2015.63.2.3",
   "artist": "Photographer: Sean Scully",
   "classification": "Photographs",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Mary and Bob Mersky",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Sean Scully, Photographer, American (born Ireland), 1945",
+  "life_date": "American (born Ireland), 1945",
   "markings": null,
   "medium": "Chromogenic print",
   "object_name": "Photograph",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "#3, from \"Atlas Walls\""
+  "title": "#3, from Atlas Walls"
 }

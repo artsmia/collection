@@ -2,8 +2,8 @@
   "accession_number": "2024.96.3",
   "artist": "Algeria",
   "classification": "Ceremonial Objects",
-  "continent": "\"Africa\"",
-  "country": "\"Algeria\"",
+  "continent": "Africa",
+  "country": "Algeria",
   "creditline": "Gift of Jan-Lodewijk Grootaers in honor of museum guide Nahid Khan",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Algeria",
+  "life_date": null,
   "markings": null,
   "medium": "Camel bone, twine, metal",
   "object_name": "String of prayer beads",
@@ -28,6 +28,6 @@
   "room": "G242",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": null
 }

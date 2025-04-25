@@ -2,8 +2,8 @@
   "accession_number": "2024.63.152",
   "artist": "Kip O'Krongly",
   "classification": "Ceramics",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Tamara and Michael Root",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 2348,
   "image_width": 2935,
   "inscription": null,
-  "life_date": "Kip O'Krongly, American",
+  "life_date": "American",
   "markings": "bottom at C: yellow bird perched on circle K makers mark; paper sticker label on back: Kip O'Krongly",
   "medium": "Earthenware with slips, underglaze, hand cut stencils, sgraffito, and terra sigillata, single fired to cone 04 in oxidation",
   "object_name": "Platter",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Crop Duster Platter"
 }

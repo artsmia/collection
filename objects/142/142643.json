@@ -2,8 +2,8 @@
   "accession_number": "2022.12.3.3",
   "artist": "Jim Hodges",
   "classification": "Prints",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Highpoint Editions Archive, The Friends of Bruce B. Dayton Acquisition Fund and the Christina N. and Swan J. Turnblad Memorial Fund",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 9872,
   "image_width": 8301,
   "inscription": "Verso LL in pencil: STATE 3",
-  "life_date": "Jim Hodges, American, born 1957",
+  "life_date": "American, born 1957",
   "markings": null,
   "medium": "Intaglio on paper",
   "object_name": "Proof #3 for II from days suite",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Proof #3 for \"II\" from \"days\" suite"
+  "title": "Proof #3 for II from days suite"
 }

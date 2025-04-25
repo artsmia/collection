@@ -2,8 +2,8 @@
   "accession_number": "RB2019.7.5",
   "artist": "Japan",
   "classification": "Books",
-  "continent": "\"Asia\"",
-  "country": "\"Japan\"",
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "Gift of Sue Y.S. Kimm and Seymour Grufferman",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 3264,
   "image_width": 2448,
   "inscription": null,
-  "life_date": "Japan",
+  "life_date": null,
   "markings": null,
   "medium": "Offset lithography",
   "object_name": "Magazine",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"This Week on Okinawa\" magazine"
+  "title": "This Week on Okinawa magazine"
 }

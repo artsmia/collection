@@ -2,8 +2,8 @@
   "accession_number": "2024.63.131",
   "artist": "Nancee Meeker",
   "classification": "Ceramics",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Tamara and Michael Root",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 7471,
   "image_width": 6353,
   "inscription": null,
-  "life_date": "Nancee Meeker, American",
+  "life_date": "American",
   "markings": null,
   "medium": "Stoneware, raku fired, glazed",
   "object_name": "Vase",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": "incised on base: meeker",
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Vase"
 }

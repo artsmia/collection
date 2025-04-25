@@ -2,8 +2,8 @@
   "accession_number": "2018.133.18",
   "artist": "Italy",
   "classification": "Paintings",
-  "continent": "\"Europe\"",
-  "country": "\"Italy\"",
+  "continent": "Europe",
+  "country": "Italy",
   "creditline": "Anonymous gift",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 7178,
   "image_width": 5429,
   "inscription": null,
-  "life_date": "Italy",
+  "life_date": null,
   "markings": null,
   "medium": "Grisaille: oil on canvas",
   "object_name": "Painting",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "This may look like an old print of the Virgin and Child, but it’s a painting meant to fool you slightly. We might do a double take thinking it’s an old print stuck on a wall and slightly curling at the edges. English uses a borrowed French term for this type of picture: \"Trompe l’oeil\"—literally, trick the eye.",
+  "text": "This may look like an old print of the Virgin and Child, but it’s a painting meant to fool you slightly. We might do a double take thinking it’s an old print stuck on a wall and slightly curling at the edges. English uses a borrowed French term for this type of picture: Trompe l’oeil—literally, trick the eye.",
   "title": "Virgin and Child"
 }

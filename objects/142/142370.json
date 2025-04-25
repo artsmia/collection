@@ -1,9 +1,9 @@
 {
-  "accession_number": "2024.96.1a,b",
+  "accession_number": "2024.96.1a, b",
   "artist": "Somalia",
   "classification": "Adornment",
-  "continent": "\"Africa\"",
-  "country": "\"Somalia\"",
+  "continent": "Africa",
+  "country": "Somalia",
   "creditline": "Gift of Jan-Lodewijk Grootaers in honor of painter Aziz Osman",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Somalia",
+  "life_date": null,
   "markings": null,
   "medium": "Silver alloy",
   "object_name": "Ornament",
@@ -28,6 +28,6 @@
   "room": "G242",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Ornament"
 }

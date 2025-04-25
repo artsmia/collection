@@ -2,8 +2,8 @@
   "accession_number": "2024.101.75",
   "artist": "Japan",
   "classification": "Sculpture",
-  "continent": "\"Asia\"",
-  "country": "\"Japan\"",
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "Gift of Maybelle (Betty) Doré",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 731,
   "image_width": 646,
   "inscription": null,
-  "life_date": "Japan",
+  "life_date": null,
   "markings": null,
   "medium": "Marine ivory with inlay",
   "object_name": "Ojime",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Frog holding fish"
 }

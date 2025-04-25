@@ -2,8 +2,8 @@
   "accession_number": "2024.72.7",
   "artist": "Japan",
   "classification": "Metalwork",
-  "continent": "\"Asia\"",
-  "country": "\"Japan\"",
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "Gift of the John C. Weber Collection",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 4089,
   "image_width": 5443,
   "inscription": "On box cover, front UR: 古銅建水; front LL: [Yoshiyuki?]; back side of base: 十九[号?]; right side: 古銅大建水; wooden tag on inside wrapper, front: セト黒箆; back: 瀬戸黒",
-  "life_date": "Japan",
+  "life_date": null,
   "markings": null,
   "medium": "Bronze",
   "object_name": "Jar",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Wastewater jar"
 }

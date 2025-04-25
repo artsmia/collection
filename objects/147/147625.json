@@ -2,8 +2,8 @@
   "accession_number": "2024.101.74",
   "artist": "Japan",
   "classification": "Sculpture",
-  "continent": "\"Asia\"",
-  "country": "\"Japan\"",
+  "continent": "Asia",
+  "country": "Japan",
   "creditline": "Gift of Maybelle (Betty) Doré",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 877,
   "image_width": 1602,
   "inscription": null,
-  "life_date": "Japan",
+  "life_date": null,
   "markings": null,
   "medium": "Wood with ivory and metal inlay",
   "object_name": "Netsuke",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Moths"
 }

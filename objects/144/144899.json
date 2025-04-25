@@ -1,9 +1,9 @@
 {
-  "accession_number": "2024.63.30a,b",
+  "accession_number": "2024.63.30a, b",
   "artist": "Margaret Bohls",
   "classification": "Ceramics",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Tamara and Michael Root",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 2736,
   "image_width": 3648,
   "inscription": null,
-  "life_date": "Margaret Bohls, American",
+  "life_date": "American",
   "markings": null,
   "medium": "Porcelain with glaze",
   "object_name": "Teapot",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Teapot"
 }

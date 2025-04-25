@@ -2,8 +2,8 @@
   "accession_number": "2023.80.13",
   "artist": "United States",
   "classification": "Photographs",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Peter J. Cohen",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 950,
   "image_width": 640,
   "inscription": null,
-  "life_date": "United States",
+  "life_date": null,
   "markings": null,
   "medium": null,
   "object_name": "Photograph",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Portrait of a man [\"Rainbow Corner Club/American Red Cross Overseas Photo Service\"]"
+  "title": "Portrait of a man [Rainbow Corner Club/American Red Cross Overseas Photo Service]"
 }

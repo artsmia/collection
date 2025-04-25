@@ -2,8 +2,8 @@
   "accession_number": "2023.80.4",
   "artist": "United States",
   "classification": "Photographs",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Peter J. Cohen",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 951,
   "image_width": 630,
   "inscription": "TC in white: Kansas City, MI / X mas - '34",
-  "life_date": "United States",
+  "life_date": null,
   "markings": null,
   "medium": "Gelatin silver print mounted on paper",
   "object_name": "Photograph",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Untitled (\"Kansas City, MI Xmas - '34\")"
+  "title": "Untitled (Kansas City, MI Xmas - '34)"
 }

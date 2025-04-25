@@ -2,8 +2,8 @@
   "accession_number": "2015.100.45",
   "artist": "Robert Corbit; Tres Davis; Mike DeVoni; Scott Dolan; Chris Karcher; Mike McCoy; Stuart Mead; Bruce Peterson; John Rath; Bruce Tapola; Jon West; Fritz Wolfmeyer; Chris Woodward; Publisher: Artpolice, Minneapolis",
   "classification": "Books, Prints",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Transfer from the Reference Collection",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Robert Corbit, American, 20th century; Tres Davis ; Mike DeVoni, American, 20th century; Scott Dolan, American, 20th century; Chris Karcher, American, 20th century; Mike McCoy, American, 20th century; Stuart Mead, American, born 1955; Bruce Peterson, American, 20th century; John Rath, American, 20th century; Bruce Tapola, American, born 1956; Jon West, American, born 1963; Fritz Wolfmeyer, American, 1954–2014; Chris Woodward, American, born 1948; Artpolice, Minneapolis, Publisher, 1974–1994",
+  "life_date": "American, 20th century",
   "markings": null,
   "medium": "Offset lithogrpahy, bound zine",
   "object_name": "Zine",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Artpolice: \"Final Issue / 20th Anniversary Edition\""
+  "title": "Artpolice: Final Issue / 20th Anniversary Edition"
 }

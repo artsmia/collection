@@ -2,8 +2,8 @@
   "accession_number": "2024.50.6.2",
   "artist": "Paul De Bray",
   "classification": "Drawings",
-  "continent": "\"Europe\"",
-  "country": "\"Netherlands\"",
+  "continent": "Europe",
+  "country": "Netherlands",
   "creditline": "Bequest from the Norman and Brenda Canedy Collection",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 9405,
   "image_width": 11930,
   "inscription": "Signature",
-  "life_date": "Paul De Bray, Dutch, active late 18th century",
+  "life_date": "Dutch, active late 18th century",
   "markings": null,
   "medium": "Black chalk and graphite on faded blue paper",
   "object_name": "Drawing",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": "Signed and dated in graphite at lower left: P De Bray / 1783",
   "style": null,
-  "text": "",
+  "text": null,
   "title": "Two Laundresses and a Boy in a Landscape"
 }
