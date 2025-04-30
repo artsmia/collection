@@ -2,8 +2,8 @@
   "accession_number": "81.20",
   "artist": "Photographer: Michael Simon",
   "classification": "Photographs",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of the artist",
   "culture": null,
   "curator_approved": 0,
@@ -17,11 +17,11 @@
   "image_height": 4000,
   "image_width": 5021,
   "inscription": null,
-  "life_date": "Michael Simon, Photographer, American (born Hungary), 1936",
+  "life_date": "American (born Hungary), 1936",
   "markings": null,
   "medium": "Gelatin silver print",
   "object_name": null,
-  "portfolio": "From \"Southern Wisconsin Vernacular Architecture\" series",
+  "portfolio": "From Southern Wisconsin Vernacular Architecture series",
   "provenance": null,
   "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Beloit, Wisconsin from South Beloit , Illinois City Hall"
+  "title": "Beloit, Wisconsin from South Beloit, Illinois City Hall"
 }

@@ -2,8 +2,8 @@
   "accession_number": "97.184.6",
   "artist": "Photographer: Christopher James",
   "classification": "Photographs",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Kitzenberg Family Dental Group",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 1914,
   "image_width": 2789,
   "inscription": "Title; Date; Signature",
-  "life_date": "Christopher James, Photographer, American, born 1947",
+  "life_date": "American, born 1947",
   "markings": "'Priscilla's Garden 'A'--1978 (5)/Christopher James', in pencil, on mat below image; 'Priscilla's Garden 'A'/#5--1958/Christopher James', in pencil, verso, LRQ",
   "medium": "Dyed and enamel gelatin silver print",
   "object_name": null,
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Priscilla's Garden \"A\""
+  "title": "Priscilla's Garden A"
 }

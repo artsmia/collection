@@ -2,8 +2,8 @@
   "accession_number": "76.64.17",
   "artist": "Photographer: Alex Sweetman",
   "classification": "Photographs",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "National Endowment for the Arts purchase grant and miscellaneous matching funds",
   "culture": null,
   "curator_approved": 0,
@@ -17,11 +17,11 @@
   "image_height": 3821,
   "image_width": 4830,
   "inscription": null,
-  "life_date": "Alex Sweetman, Photographer, American, born 1946",
+  "life_date": "American, born 1946",
   "markings": null,
   "medium": "Gelatin silver print",
   "object_name": null,
-  "portfolio": "From \"Underware\" portfolio",
+  "portfolio": "From Underware portfolio",
   "provenance": null,
   "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"A photograph of a half-tone diagram...\""
+  "title": "A photograph of a half-tone diagram..."
 }

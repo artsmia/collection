@@ -2,8 +2,8 @@
   "accession_number": "91.152.3",
   "artist": "Designer: Charles Eames; Designer: Ray Eames; Manufacturer: Herman Miller, Inc., Zeeland, Michigan, Est. 1923",
   "classification": "Furniture",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Bob Livingston",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 2832,
   "image_width": 3852,
   "inscription": null,
-  "life_date": "Charles Eames, Designer, American, 1907–1978; Ray Eames, Designer, American, 1912–1988; Herman Miller, Inc., Zeeland, Michigan, Est. 1923, Manufacturer",
+  "life_date": "American, 1907–1978",
   "markings": null,
   "medium": "Molded plywood",
   "object_name": null,
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"CTW\" table (Coffee Table Wood)"
+  "title": "CTW table (Coffee Table Wood)"
 }

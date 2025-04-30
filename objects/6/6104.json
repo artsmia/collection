@@ -2,8 +2,8 @@
   "accession_number": "B.91.1.1",
   "artist": "Kiki Smith; Author: Bradford Morrow; Publisher: Grenfell Press, New York",
   "classification": "Books",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund and Gift of funds from the Print and Drawing Council",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Kiki Smith, American, born Germany, 1954; Bradford Morrow, Author, American, born 1951; Grenfell Press, New York, Publisher",
+  "life_date": "American, born Germany, 1954",
   "markings": null,
   "medium": "Linoleum cut and woodcut",
   "object_name": "Print (in bound volume), Artist's book",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Bat, from \"A Bestiary\""
+  "title": "Bat, from A Bestiary"
 }

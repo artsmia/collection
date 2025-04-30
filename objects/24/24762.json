@@ -2,8 +2,8 @@
   "accession_number": "85.40",
   "artist": "Designer: Charles Eames; Designer: Ray Eames; Manufacturer: Evans Products Company, Molded Plywood Division, Venice, California, 1943-1949",
   "classification": "Furniture",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 4717,
   "image_width": 3596,
   "inscription": null,
-  "life_date": "Charles Eames, Designer, American, 1907–1978; Ray Eames, Designer, American, 1912–1988; Evans Products Company, Molded Plywood Division, Venice, California, 1943-1949, Manufacturer",
+  "life_date": "American, 1907–1978",
   "markings": null,
   "medium": "Molded ash plywood, rubber",
   "object_name": "Chair",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"DCW\" chair (Dining Chair Wood)"
+  "title": "DCW chair (Dining Chair Wood)"
 }

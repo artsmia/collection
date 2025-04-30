@@ -2,8 +2,8 @@
   "accession_number": "67.68.2",
   "artist": "Johann Joachim Kändler",
   "classification": "Ceramics",
-  "continent": "\"Europe\"",
-  "country": "\"Germany\"",
+  "continent": "Europe",
+  "country": "Germany",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 2982,
   "image_width": 4674,
   "inscription": "Mark",
-  "life_date": "Johann Joachim Kändler, German, 1706–1775",
+  "life_date": "German, 1706–1775",
   "markings": "Blue Crossed Swords",
   "medium": "Hard paste porcelain with enamel and gilded decoration",
   "object_name": "Plate",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": "Meissen",
   "text": null,
-  "title": "Armorial plate from the \"Swan service\", one of a pair"
+  "title": "Armorial plate from the Swan service, one of a pair"
 }

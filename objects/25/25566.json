@@ -2,8 +2,8 @@
   "accession_number": "87.92.1",
   "artist": "Clement Haupers",
   "classification": "Paintings",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Mr. and Mrs. Richard Wilcox",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 3381,
   "image_width": 3620,
   "inscription": "Signature and date",
-  "life_date": "Clement Haupers, American, 1900–1982",
+  "life_date": "American, 1900–1982",
   "markings": null,
   "medium": "Oil on board",
   "object_name": "Painting",
@@ -29,5 +29,5 @@
   "signed": "Signed UR: [HAUPERS - 26] (recto)",
   "style": null,
   "text": null,
-  "title": "Two Men Wrestling (recto),Tree (verso)"
+  "title": "Two Men Wrestling (recto), Tree (verso)"
 }

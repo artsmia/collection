@@ -2,8 +2,8 @@
   "accession_number": "87.33.1.2",
   "artist": "Designer: Charles Eames; Ray Eames; Designer: Herman Miller, Inc., Zeeland, Michigan, Est. 1923",
   "classification": "Furniture",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Don and Bev Smith",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 4315,
   "image_width": 3581,
   "inscription": null,
-  "life_date": "Charles Eames, Designer, American, 1907–1978; Ray Eames, American, 1912–1988; Herman Miller, Inc., Zeeland, Michigan, Est. 1923, Designer",
+  "life_date": "American, 1907–1978",
   "markings": null,
   "medium": "Molded plywood and rubber",
   "object_name": null,
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"LCW\" chair (Lounge Chair Wood)"
+  "title": "LCW chair (Lounge Chair Wood)"
 }

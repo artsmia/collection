@@ -2,8 +2,8 @@
   "accession_number": "86.59",
   "artist": "John Newman",
   "classification": "Drawings, Works on Paper",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "The Christina N. and Swan J. Turnblad Memorial Fund",
   "culture": null,
   "curator_approved": 1,
@@ -17,7 +17,7 @@
   "image_height": 4776,
   "image_width": 2835,
   "inscription": null,
-  "life_date": "John Newman, American, born 1952",
+  "life_date": "American, born 1952",
   "markings": null,
   "medium": "Colored chalk, oil crayon, and graphite on paper",
   "object_name": "Drawing",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Untitled (Study for the sculpture \"Action at a Distance\")"
+  "title": "Untitled (Study for the sculpture Action at a Distance)"
 }

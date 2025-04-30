@@ -2,8 +2,8 @@
   "accession_number": "98.192",
   "artist": "John Smith; Manufacturer: Minton and Company",
   "classification": "Ceramics",
-  "continent": "\"Europe\"",
-  "country": "\"England\"",
+  "continent": "Europe",
+  "country": "England",
   "creditline": "Gift of Christopher Monkhouse in honor of C.J. Hudgins",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 4076,
   "image_width": 4080,
   "inscription": "Title; Signature; Inscription; Stamp",
-  "life_date": "John Smith, English, 1652–1742 or c.1654–1720 (Yale); Minton and Company, Manufacturer, Stoke-on-Trent, Staffordshire, England, est. 1793",
+  "life_date": "English, 1652–1742 or c.1654–1720 (Yale)",
   "markings": "[HEART OF/MID-/LOTHIAN], printed at upper left corner; [MOYR SMITH CH.XXXVII JEANIE & THE QUEEN], printed along bottom edge; [MINTONS/CHINA WORKS/STOKE ON TRENT], stamped, on bottom",
   "medium": "Glazed ceramic with transfer decoration",
   "object_name": "Jeanie and the Queen tile",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"Jeanie and the Queen\" tile"
+  "title": "Jeanie and the Queen tile"
 }

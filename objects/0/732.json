@@ -2,8 +2,8 @@
   "accession_number": "46.19.1",
   "artist": "Flanders; or France",
   "classification": "Textiles",
-  "continent": "\"Europe\"",
-  "country": "\"Belgium\",\"France\"",
+  "continent": "Europe",
+  "country": "Belgium, France",
   "creditline": "Bequest of William E. Goodfellow",
   "culture": null,
   "curator_approved": 1,
@@ -17,7 +17,7 @@
   "image_height": 1920,
   "image_width": 1447,
   "inscription": null,
-  "life_date": "Flanders ; or France",
+  "life_date": null,
   "markings": null,
   "medium": "Wool, silk, tapestry weave",
   "object_name": "Tapestry",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "The figure in this tapestry is likely one of the three kings who brought gifts to Jesus on the occasion of his birth. He has removed his crown out of respect and holds an elaborate covered chalice, intended as a gift. This figure is a fragment from a larger tapestry and has been joined with another partial tapestry produced around the same time and featuring a variety of flowering plants. The fashion for such \"millefleurs\"--meaning \"a thousand flowers\"--tapestries emerged in Europe around 1450 and remained popular into the early decades of the 1500s.",
-  "title": "One of the Three Magi on a \"Millefleurs\" Ground"
+  "text": "The figure in this tapestry is likely one of the three kings who brought gifts to Jesus on the occasion of his birth. He has removed his crown out of respect and holds an elaborate covered chalice, intended as a gift. This figure is a fragment from a larger tapestry and has been joined with another partial tapestry produced around the same time and featuring a variety of flowering plants. The fashion for such millefleurs--meaning a thousand flowers--tapestries emerged in Europe around 1450 and remained popular into the early decades of the 1500s.",
+  "title": "One of the Three Magi on a Millefleurs Ground"
 }

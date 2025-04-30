@@ -2,8 +2,8 @@
   "accession_number": "88.57",
   "artist": "Designer: John La Farge",
   "classification": "Architecture, Glass",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Louis W. Hill, Jr., and Anonymous St. Paul Friends",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 4636,
   "image_width": 3117,
   "inscription": null,
-  "life_date": "John La Farge, Designer, American (New York), 1835–1910",
+  "life_date": "American (New York), 1835–1910",
   "markings": null,
   "medium": "Glass, lead",
   "object_name": null,
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"Persian Arabesque\" window"
+  "title": "Persian Arabesque window"
 }

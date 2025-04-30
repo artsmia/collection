@@ -2,8 +2,8 @@
   "accession_number": "86.106",
   "artist": "Dale Chihuly",
   "classification": "Glass",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Caroline D. Warner",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 3774,
   "image_width": 3445,
   "inscription": "Mark",
-  "life_date": "Dale Chihuly, American, born 1941",
+  "life_date": "American, born 1941",
   "markings": "dc and tree under base",
   "medium": "Blown glass",
   "object_name": null,
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Vase from the \"Blanket\" series"
+  "title": "Vase from the Blanket series"
 }

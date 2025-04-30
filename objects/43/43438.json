@@ -1,9 +1,7 @@
 {
   "accession_number": "P.93.1.2",
-  "art_champions_text": null,
-  "artist": "artist: Bruce Anderson; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 20",
-  "classification": " Prints",
+  "artist": "Bruce Anderson; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Driscoll Art Accessions Endowment Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "31 5/8 x 47 3/4 in. (80.33 x 121.29 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/43438",
+  "id": 43438,
   "image": "valid",
   "image_copyright": "© Bruce A. Anderson",
   "image_height": 2454,
@@ -22,19 +20,14 @@
   "life_date": "American, born 1945",
   "markings": "LL: VEL chop mark",
   "medium": "Color lithograph",
-  "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1993.",
-  "restricted": 1,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LC: [Bruce A. Anderson 1984-91 Archive Proof]",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Conversation II"
 }

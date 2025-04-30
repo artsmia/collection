@@ -2,8 +2,8 @@
   "accession_number": "34.6",
   "artist": "John Coney",
   "classification": "Metalwork",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of James F. and Louise H. Bell",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 688,
   "image_width": 654,
   "inscription": "Marks\r\n\r\nEngraved on border of plate, the arms of Eyre.",
-  "life_date": "John Coney, American, 1656–1722",
+  "life_date": "American, 1656–1722",
   "markings": "mark on rim opposite coat-of-arms: <I.C.>, a pellet between fleur-de-lis below, in shield",
   "medium": "Silver",
   "object_name": "Alms plate",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "\rThis plate is engraved on the broad brim with the Eyre family coat of arms.",
+  "text": "This plate is engraved on the broad brim with the Eyre family coat of arms.",
   "title": "Alms plate"
 }

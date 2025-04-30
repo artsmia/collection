@@ -1,9 +1,7 @@
 {
   "accession_number": "2001.50.6",
-  "art_champions_text": null,
-  "artist": "artist: Frank Gaard",
-  "catalogue_raissonne": null,
-  "classification": " Drawings; Paintings; Works on Paper",
+  "artist": "Frank Gaard",
+  "classification": "Drawings, Paintings, Works on Paper",
   "continent": "Americas",
   "country": "United States",
   "creditline": "The Paul C. Johnson, Jr. Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "41 7/8 x 29 3/4in. (106.4 x 75.6cm)",
-  "id": "http://api.artsmia.org/objects/32611",
+  "id": 32611,
   "image": "valid",
   "image_copyright": "© Frank Gaard",
   "image_height": 9519,
@@ -22,19 +20,14 @@
   "life_date": "American, born 1944",
   "markings": "Watermark: BFK RIVES/FRANCE",
   "medium": "Acrylic paint, tempera, and graphite on paper",
-  "nationality": "American",
   "object_name": "Painting on paper",
   "portfolio": null,
   "provenance": "Frank Gaard, Minneapolis; sold to MIA, 2001.",
-  "restricted": 0,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed in pencil, verso: Frank Gaard",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Portrait of Stuart Mead"
 }

@@ -2,8 +2,8 @@
   "accession_number": "87.33.3",
   "artist": "Designer: Charles Eames; Designer: Ray Eames; Manufacturer: Herman Miller, Inc., Zeeland, Michigan, Est. 1923",
   "classification": "Furniture",
-  "continent": "\"Americas\"",
-  "country": "\"United States\"",
+  "continent": "Americas",
+  "country": "United States",
   "creditline": "Gift of Don and Bev Smith",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 4632,
   "image_width": 3603,
   "inscription": null,
-  "life_date": "Charles Eames, Designer, American, 1907–1978; Ray Eames, Designer, American, 1912–1988; Herman Miller, Inc., Zeeland, Michigan, Est. 1923, Manufacturer",
+  "life_date": "American, 1907–1978",
   "markings": null,
   "medium": "Wood, Masonite, and steel",
   "object_name": "Room divider",
@@ -29,5 +29,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"ESU\" room divider (Eames Storage Unit)"
+  "title": "ESU room divider (Eames Storage Unit)"
 }

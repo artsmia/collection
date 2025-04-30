@@ -2,8 +2,8 @@
   "accession_number": "25.24",
   "artist": "Weaver: Paschalis Jacobowicz",
   "classification": "Textiles",
-  "continent": "\"Europe\"",
-  "country": "\"Poland\"",
+  "continent": "Europe",
+  "country": "Poland",
   "creditline": "The William Hood Dunwoody Fund",
   "culture": null,
   "curator_approved": 0,
@@ -17,7 +17,7 @@
   "image_height": 11162,
   "image_width": 2573,
   "inscription": null,
-  "life_date": "Paschalis Jacobowicz, Weaver",
+  "life_date": null,
   "markings": "in corner: Paschalis",
   "medium": "Silk, metallic thread",
   "object_name": "Sash",
@@ -28,6 +28,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "This Polish sash bears the name of its maker \"Paschalis\" in the lower corner. Paschalis migrated to Poland from Armenia in 1761.",
+  "text": "This Polish sash bears the name of its maker Paschalis in the lower corner. Paschalis migrated to Poland from Armenia in 1761.",
   "title": "Sash"
 }
