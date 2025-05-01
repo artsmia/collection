@@ -2,8 +2,8 @@
   "accession_number": "97.32.15",
   "artist": "England",
   "classification": "Ceramics",
-  "continent": "\"Europe\"",
-  "country": "\"England\"",
+  "continent": "Europe",
+  "country": "England",
   "creditline": "Gift of Mr. and Mrs. George R. Steiner",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 3474,
   "image_width": 3940,
   "inscription": "Inscription; Stickers",
-  "life_date": "England",
+  "life_date": null,
   "markings": "'Succefs to The/THREE BROTHERS/1764', in blue glaze at lower center of bowl's interior; dealer and lender's stickers at underside of base",
   "medium": "Tin-glazed earthenware",
+  "nationality": "English",
   "object_name": "Success to the Three Brothers punch bowl",
   "portfolio": null,
   "provenance": null,
@@ -28,6 +29,6 @@
   "room": "G209",
   "signed": null,
   "style": null,
-  "text": "Ships such as the \"Three Brothers\" specialized in China trade, one of the most lucrative businesses in the 17th and 18th centuries.  They sailed at a particularly fast pace, and attracted great interest in their voyages.",
-  "title": "\"Success to the Three Brothers\" punch bowl"
+  "text": "Ships such as the Three Brothers specialized in China trade, one of the most lucrative businesses in the 17th and 18th centuries.  They sailed at a particularly fast pace, and attracted great interest in their voyages.",
+  "title": "Success to the Three Brothers punch bowl"
 }

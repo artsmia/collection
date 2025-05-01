@@ -1,9 +1,7 @@
 {
   "accession_number": "P.86.26.2",
-  "art_champions_text": null,
-  "artist": "Artist: Odilon Redon; Printer: Becquet, Paris",
-  "catalogue_raissonne": "Mellerio 94 ii/ii; D 69 (frontispiece)",
-  "classification": " Prints",
+  "artist": "Odilon Redon; Printer: Becquet, Paris",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "France",
   "creditline": "The Putnam Dana McMillan Fund",
@@ -13,9 +11,9 @@
   "department": "European Art",
   "description": "",
   "dimension": "11 x 8 in. (27.94 x 20.32 cm) (image)\r\n21 1/4 x 14 in. (53.98 x 35.56 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/54811",
+  "id": 54811,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 9337,
   "image_width": 6160,
   "inscription": "Stamp\r\n\r\nImprint: [A GUSTAVE FLAUBERT six dessins pour la TENTATION DE ST. ANTOINE par ODILON REDON]",
@@ -24,17 +22,13 @@
   "medium": "Lithograph",
   "nationality": "French",
   "object_name": null,
-  "portfolio": "From \"Temptation of St. Anthony,\" 1889, text by Gustave Flaubert",
+  "portfolio": "Temptation of St. Anthony, 1889, text by Gustave Flaubert",
   "provenance": "(Fitch-Febvrel Gallery, New York)",
   "restricted": 0,
   "rights_type": "No Copyright–United States",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "unsigned",
-  "style": "19th century",
-  "text": "",
-  "title": "Frontispiece for \"La tentation de Saint Antoine\""
+  "style": null,
+  "text": null,
+  "title": "Frontispiece for La tentation de Saint Antoine"
 }

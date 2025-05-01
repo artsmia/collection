@@ -1,9 +1,9 @@
 {
-  "accession_number": "P.14,016",
+  "accession_number": "P.14, 016",
   "artist": "Spain",
   "classification": "Drawings",
-  "continent": "\"Europe\"",
-  "country": "\"Spain\"",
+  "continent": "Europe",
+  "country": "Spain",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Spain",
+  "life_date": null,
   "markings": null,
   "medium": "Gouache and gilding",
+  "nationality": "Spanish",
   "object_name": null,
   "portfolio": null,
   "provenance": "Dwight and Helen Minnich",
@@ -29,5 +30,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Illuminated Frontispiece for a \"Patent of Nobility\" issued and signed with his scrawl by Philip II"
+  "title": "Illuminated Frontispiece for a Patent of Nobility issued and signed with his scrawl by Philip II"
 }

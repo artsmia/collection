@@ -1,9 +1,7 @@
 {
   "accession_number": "P.86.62.5",
-  "art_champions_text": null,
-  "artist": "artist: Steven Sorman",
-  "catalogue_raissonne": "VEL 274",
-  "classification": " Prints",
+  "artist": "Steven Sorman",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "36 3/4 x 23 5/8 in. (93.35 x 60.01 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59311",
+  "id": 59311,
   "image": "valid",
   "image_copyright": "© 1982 Steven Sorman",
   "image_height": 3861,
@@ -25,17 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    "43116",
-    "59311"
-  ],
-  "signed": "",
-  "style": "20th century",
-  "text": "",
+  "signed": null,
+  "style": null,
+  "text": null,
   "title": "Going Back to Look in the Mirror"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.86.63.67",
-  "art_champions_text": null,
-  "artist": "artist: T.L. Solien",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "T.L. Solien",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1985",
   "department": "Global Contemporary Art",
-  "description": "Seabed with plants",
+  "description": "",
   "dimension": "15 x 44 1/8 in. (38.1 x 112.08 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/91606",
+  "id": 91606,
   "image": "valid",
   "image_copyright": "© T. L. Solien",
   "image_height": 1435,
@@ -26,15 +24,11 @@
   "object_name": "Print with hand-drawn additions",
   "portfolio": null,
   "provenance": "Vermillion Editions Limited, Mpls.; Mr. and Mrs. George McKay Reid, Minnepolis; given to MIA, 1986.",
-  "restricted": 1,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LR: [T.L. Solien \\'85]\r\nLL: [Working Proof]",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: [T.L. Solien '85]\r\nLL: [Working Proof]",
+  "style": null,
+  "text": null,
   "title": "The Husband Lost at Sea"
 }

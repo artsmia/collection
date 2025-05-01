@@ -1,9 +1,7 @@
 {
-  "accession_number": "2003.236.53a,b",
-  "art_champions_text": null,
+  "accession_number": "2003.236.53a, b",
   "artist": "Retailer: Possibly Edward Brueninghausen",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1880s",
   "department": "Arts of the Americas",
-  "description": "grey fort and big canon opposite each other on long narrow rectangular platform",
+  "description": "",
   "dimension": "4 3/16 x 11 3/16 x 2 7/8 in. (10.64 x 28.42 x 7.3 cm)",
-  "id": "http://api.artsmia.org/objects/81078",
+  "id": 81078,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1762,
   "image_width": 2775,
   "inscription": "Stickers",
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Octagonal Fort\" (or \"Fort Sumter\") mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Octagonal Fort (or Fort Sumter) mechanical bank"
 }

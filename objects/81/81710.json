@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.274",
-  "art_champions_text": null,
   "artist": "Manufacturer: Hubley Manufacturing Company",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1934",
   "department": "Arts of the Americas",
-  "description": "standing elephant with seat in red and gold; gold and black blanket; movable ears",
+  "description": "",
   "dimension": "5 1/2 x 7 3/16 x 2 3/4 in. (13.97 x 18.26 x 6.99 cm)",
-  "id": "http://api.artsmia.org/objects/81710",
+  "id": 81710,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1730,
   "image_width": 2024,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "No Known Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "20th century",
-  "text": "",
-  "title": "\"Elephant with Howdah, Pull Tail\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Elephant with Howdah, Pull Tail mechanical bank"
 }

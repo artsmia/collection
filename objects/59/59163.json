@@ -1,9 +1,7 @@
 {
   "accession_number": "P.86.63.65",
-  "art_champions_text": null,
-  "artist": "artist: T.L. Solien",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "T.L. Solien",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of Mr. and Mrs. George McKay Reid",
@@ -11,9 +9,9 @@
   "curator_approved": 1,
   "dated": "1985",
   "department": "Global Contemporary Art",
-  "description": "Multiple scene print; L PANEL: black silhouette of a 2-masted boat against a peach, ochre, red and purple sky; a bright yellow sun, UR, and black orbits throughout; red, yellow and brown water: R PANEL: a brown seabed against a black, scribbled in background; BOTTOM PANEL: a blue and black seabed with foreign objects (presumably vestiges of a boat) lodged in the sand",
+  "description": "",
   "dimension": "26 1/4 x 39 3/4 in. (66.68 x 100.97 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59163",
+  "id": 59163,
   "image": "valid",
   "image_copyright": "© T. L. Solien",
   "image_height": 2417,
@@ -26,15 +24,11 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "Vermillion Editions Limited, Mpls.; Mr. and Mrs. George McKay Reid, Minnepolis; given to MIA, 1986.",
-  "restricted": 1,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LC: T.L. Solien \\'85 | LL: CTP 3/4",
-  "style": "20th century",
-  "text": "",
+  "signed": "LC: T.L. Solien '85 | LL: CTP 3/4",
+  "style": null,
+  "text": null,
   "title": "The Husband Lost at Sea"
 }

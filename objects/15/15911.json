@@ -2,8 +2,8 @@
   "accession_number": "2004.261.34",
   "artist": "China (Jingdezhen) for export",
   "classification": "Ceramics",
-  "continent": "\"Asia\"",
-  "country": "\"China\"",
+  "continent": "Asia",
+  "country": "China",
   "creditline": "Gift of Leo and Doris Hodroff",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 1936,
   "image_width": 2592,
   "inscription": "Stickers",
-  "life_date": "China (Jingdezhen) for export",
+  "life_date": null,
   "markings": "on bottom: two collector's stickers and [95] on separate sticker",
   "medium": "Porcelain",
+  "nationality": "Chinese",
   "object_name": "Tureen stand with initials A.F. for the American market",
   "portfolio": null,
   "provenance": null,
@@ -29,5 +30,5 @@
   "signed": null,
   "style": "Chinese export",
   "text": null,
-  "title": "Tureen stand with initials \"A.F.\" for the American market"
+  "title": "Tureen stand with initials A.F. for the American market"
 }

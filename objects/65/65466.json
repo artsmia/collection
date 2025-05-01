@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.4",
-  "art_champions_text": null,
   "artist": "Manufacturer: Copeland Factory",
-  "catalogue_raissonne": null,
-  "classification": " Ceramics",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of C.J. Hudgins",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1875",
   "department": "European Art",
-  "description": "framed tile; color scene of four figures- three men and one woman at right, in landscape with sunflower; gold background with white lettering; frame: black with gold lip",
+  "description": "",
   "dimension": "7 9/16 x 7 9/16 in. (19.21 x 19.21 cm) (sight)\r\n9 1/8 x 9 1/16 in. (23.18 x 23.02 cm) (outer frame)",
-  "id": "http://api.artsmia.org/objects/65466",
+  "id": 65466,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 3651,
   "image_width": 3660,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": "Figurative tile",
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "Figurative tile"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Figurative tile with characters from Love's Labours Lost"
 }

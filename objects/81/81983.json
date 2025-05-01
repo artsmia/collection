@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.365",
-  "art_champions_text": null,
-  "artist": "manufacturer: Enterprise Manufacturing Company",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "Manufacturer: Enterprise Manufacturing Company",
+  "classification": "Dolls, Toys and Games",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "1875",
   "department": "Arts of the Americas",
-  "description": "bank in the form of a clock tower with hanging bell; 2-story building with third floor bell tower and fourth floor viewing tower; 3 eagles at bell level; lever driven bell on back",
+  "description": "",
   "dimension": "9 1/2 x 3 15/16 x 3 15/16 in. (24.13 x 10 x 10 cm)",
-  "id": "http://api.artsmia.org/objects/81983",
+  "id": 81983,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1762,
   "image_width": 923,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "G110",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Independence Hall Tower\" semi-mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Independence Hall Tower semi-mechanical bank"
 }

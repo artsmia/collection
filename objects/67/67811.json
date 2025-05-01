@@ -1,9 +1,7 @@
 {
   "accession_number": "P.85.40",
-  "art_champions_text": null,
-  "artist": "artist: Ben Shahn",
-  "catalogue_raissonne": "McNulty 35; Prescott, fig. 29",
-  "classification": " Prints",
+  "artist": "Ben Shahn",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Mary Lee and Wallace Dayton",
@@ -13,12 +11,12 @@
   "department": "Arts of the Americas",
   "description": "",
   "dimension": "26 7/8 x 40 1/4 in. (68.26 x 102.24 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/67811",
+  "id": 67811,
   "image": "valid",
-  "image_copyright": "© Estate Ben Shahn %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
+  "image_copyright": "© Estate Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
   "image_height": 6777,
   "image_width": 9998,
-  "inscription": "\r\n\r\n",
+  "inscription": "",
   "life_date": "American (born Lithuania), 1898 – 1969",
   "markings": "Watermark: Handmade J. Whatman, 1946 England",
   "medium": "Screenprint in black ink with hand coloring in watercolor",
@@ -28,13 +26,9 @@
   "provenance": "Dayton's Gallery 12 (G02512; F1096); Mary Lee and Wallace C. Dayton, Wayzata, Minn.; given to MIA, 1985.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed, LR: Ben Shahn",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Lute and Molecules"
 }

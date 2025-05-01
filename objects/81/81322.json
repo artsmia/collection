@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.131",
-  "art_champions_text": null,
-  "artist": "artist: United States",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "United States",
+  "classification": "Dolls, Toys and Games",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1892",
   "department": "Arts of the Americas",
-  "description": "green water pump with big brown bucket on brown and red rectangular stand",
+  "description": "",
   "dimension": "6 5/16 x 5 11/16 x 3 9/16 in. (16.03 x 14.45 x 9.05 cm)",
-  "id": "http://api.artsmia.org/objects/81322",
+  "id": 81322,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 2086,
   "image_width": 1886,
   "inscription": "Inscription and Sticker\r\n\r\non bucket cover, in relief: [DIME REGISTER / 10 c / PAT APD.]",
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Pump and Bucket\" (registering), mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Pump and Bucket (registering), mechanical bank"
 }

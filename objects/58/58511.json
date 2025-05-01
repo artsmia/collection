@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.11.10",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano; publisher: First Bank, Minneapolis",
-  "catalogue_raissonne": "VEL 1",
-  "classification": " Prints",
+  "artist": "Nicolas Africano; Publisher: First Bank, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "30 x 40 in. (76.2 x 101.6 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/58511",
+  "id": 58511,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 2890,
@@ -25,17 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 0,
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    "58511",
-    "58519"
-  ],
-  "signed": "LR: [Nicholas Africano 1986]\r\nLL: [AP 1/12]\r\n",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: [Nicholas Africano 1986]\r\nLL: [AP 1/12]",
+  "style": null,
+  "text": null,
   "title": "Angel and Boy"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.11.21",
-  "art_champions_text": null,
-  "artist": "artist: Marcia Scanlon",
-  "catalogue_raissonne": "VEL 233",
-  "classification": " Prints",
+  "artist": "Marcia Scanlon",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "29 3/4 x 42 in. (75.57 x 106.68 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59149",
+  "id": 59149,
   "image": "valid",
   "image_copyright": "© 1986 Marcia Scanlon",
   "image_height": 2696,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LL: [Marcia Scanlon]\r\nLC: [1986]\r\nLL: [AP 1/7]\r\nLL: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Parthenon I"
 }

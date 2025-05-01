@@ -1,9 +1,7 @@
 {
   "accession_number": "P.73.41",
-  "art_champions_text": null,
-  "artist": "artist: Tom Egerman",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Tom Egerman",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "29 9/16 x 41 1/8 in. (75.09 x 104.46 cm) (image)",
-  "id": "http://api.artsmia.org/objects/67218",
+  "id": 67218,
   "image": "valid",
   "image_copyright": "© Tom Egerman",
   "image_height": 7195,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "in pencil: [Tom Egerman]",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Noodles Yankee Doodle"
 }

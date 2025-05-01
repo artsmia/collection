@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.399",
-  "art_champions_text": null,
   "artist": "Manufacturer: Utexigual Products Inc.",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1968",
   "department": "Arts of the Americas",
-  "description": "2 sailors in a sailboat: one holding the rudder, the other waving (?); a rod on the back can be moved to make the sail and ruddert move, hitting the waving sailor who drops the coin from his arm into the bottom of the boat",
+  "description": "",
   "dimension": "12 x 10 3/4 x 5 3/8 in. (30.48 x 27.31 x 13.65 cm) (base)",
-  "id": "http://api.artsmia.org/objects/82187",
+  "id": 82187,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1762,
   "image_width": 1349,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "No Known Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "20th century",
-  "text": "",
-  "title": "\"The Cat Boat\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "The Cat Boat mechanical bank"
 }

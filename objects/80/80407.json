@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.1",
-  "art_champions_text": null,
-  "artist": "designer: John D. Hall; manufacturer: J. &amp; E. Stevens Company, Cromwell, Connecticut, 1843–1950s",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "Designer: John D. Hall; Manufacturer: J. & E. Stevens Company, Cromwell, Connecticut, 1843–1950s",
+  "classification": "Dolls, Toys and Games",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1871",
   "department": "Arts of the Americas",
-  "description": "archways, horses, figure raised on pedestal; 4 arched doorways on bottom with \"Bank\" written on top; brown, red, yellow, white, black colors; star on top in yellow; open work design on top and bottom",
+  "description": "",
   "dimension": "5 1/2 x 6 1/2 x 6 1/4 in. (13.97 x 16.51 x 15.88 cm)",
-  "id": "http://api.artsmia.org/objects/80407",
+  "id": 80407,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1837,
   "image_width": 2154,
   "inscription": "Date, Inscription and Sticker\r\n\r\non top in yellow: [PATENTED /  AUG 15 1871 ]",
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Horse Race, Flanged Base\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Horse Race, Flanged Base mechanical bank"
 }

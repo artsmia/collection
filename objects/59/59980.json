@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.10",
-  "art_champions_text": null,
-  "artist": "artist: Robert Motherwell",
-  "catalogue_raissonne": "Belknap 25; Engberg & Banach 47",
-  "classification": " Prints",
+  "artist": "Robert Motherwell",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of the Print and Drawing Council",
@@ -13,9 +11,9 @@
   "department": "Arts of the Americas",
   "description": "",
   "dimension": "22 1/4 x 17 1/8 in. (56.52 x 43.5 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59980",
+  "id": 59980,
   "image": "valid",
-  "image_copyright": "© Estate Robert Motherwell %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
+  "image_copyright": "© Estate Robert Motherwell / Licensed by VAGA at Artists Rights Society (ARS), NY",
   "image_height": 4689,
   "image_width": 3606,
   "inscription": "Inscribed, verso:  Beside the Sea (b & w)  (untitled 4)",
@@ -28,13 +26,9 @@
   "provenance": "[Associated American Artists, New York]; sold to MIA, 1987.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed in red-brown pencil at LR.: R Motherwell",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Untitled"
 }

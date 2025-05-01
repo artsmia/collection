@@ -1,5 +1,5 @@
 {
-  "accession_number": "46.19.4a,b",
+  "accession_number": "46.19.4a, b",
   "artist": "Unknown",
   "classification": "Textiles",
   "continent": null,
@@ -17,9 +17,10 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Unknown",
+  "life_date": null,
   "markings": null,
   "medium": null,
+  "nationality": null,
   "object_name": "cloth",
   "portfolio": null,
   "provenance": null,

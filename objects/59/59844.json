@@ -1,9 +1,7 @@
 {
   "accession_number": "B.84.3",
-  "art_champions_text": null,
-  "artist": "artist: Pablo Picasso; author: Prosper Mérimée; publisher: La Bibliotèque Française; printer: Atelier Lacourière et Frélaut, Paris, France (engravings, aquatints); printer: Imprimerie Union, Paris , (text and type)",
-  "catalogue_raissonne": "Cramer 52",
-  "classification": " Books",
+  "artist": "Pablo Picasso; Author: Prosper Mérimée; Publisher: La Bibliotèque Française; Printer: Atelier Lacourière et Frélaut, Paris, France (engravings, aquatints); Printer: Imprimerie Union, Paris, (text and type)",
+  "classification": "Books",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "Gift of Bruce B. Dayton",
@@ -11,11 +9,11 @@
   "curator_approved": 1,
   "dated": "1949",
   "department": "European Art",
-  "description": "38 engravings; contained in an Arches wove wrapper inside a cardboard folder with lettering on the front; slip case: papier peigne and cloth-covered protective boards with lettering on the spine",
+  "description": "",
   "dimension": "13 1/16 x 10 5/16in. (33.2 x 26.2cm)",
-  "id": "http://api.artsmia.org/objects/59844",
+  "id": 59844,
   "image": "valid",
-  "image_copyright": "© Estate of Pablo Picasso %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "© Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
   "image_height": 4108,
   "image_width": 3274,
   "inscription": "Mark",
@@ -28,13 +26,9 @@
   "provenance": "(Martin Sumers Graphics, New York); sold to MIA, 1984.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "20th century",
-  "text": "",
+  "signed": null,
+  "style": null,
+  "text": null,
   "title": "Carmen"
 }

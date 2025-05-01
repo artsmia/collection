@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.66",
-  "art_champions_text": null,
-  "artist": "artist: Scott Sandell",
-  "catalogue_raissonne": "VEL 217",
-  "classification": " Prints",
+  "artist": "Scott Sandell",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "29 1/4 x 22 1/8 in. (74.3 x 56.2 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59136",
+  "id": 59136,
   "image": "valid",
   "image_copyright": "© Scott Sandell",
   "image_height": 3889,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LR: [Sandell]\r\nLL: [A.P. 10/10]\r\nLL: [\\'IMPULSE\\']\r\nLR: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: [Sandell]\r\nLL: [A.P. 10/10]\r\nLL: ['IMPULSE']\r\nLR: VEL Chop Mark",
+  "style": null,
+  "text": null,
   "title": "Impulse"
 }

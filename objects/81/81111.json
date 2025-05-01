@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.81",
-  "art_champions_text": null,
-  "artist": "Manufacturer: Kyser &amp; Rex Company",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "Manufacturer: Kyser & Rex Company",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1883",
   "department": "Arts of the Americas",
-  "description": "lion at base of tree trunk and two monkeys on top of tree; all stand on oval-like green and red platform",
+  "description": "",
   "dimension": "9 1/4 x 9 1/16 x 3 1/2 in. (23.5 x 23.02 x 8.89 cm)",
-  "id": "http://api.artsmia.org/objects/81111",
+  "id": 81111,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1762,
   "image_width": 1949,
   "inscription": "Inscription and Sticker\r\n\r\non bottom, engraved: [PAT JULY 1788]",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "G110",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Lion and Two Monkeys\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Lion and Two Monkeys mechanical bank"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.71.43",
-  "art_champions_text": null,
-  "artist": "artist: Francisco José de Goya y Lucientes",
-  "catalogue_raissonne": "Harris-147.III.1",
-  "classification": " Prints",
+  "artist": "Francisco José de Goya y Lucientes",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Spain",
   "creditline": "The William Hood Dunwoody Fund, by exchange",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "1810–20 (published 1863)",
   "department": "European Art",
-  "description": "Plate 27",
+  "description": "",
   "dimension": "5 7/16 x 7 9/16 in. (13.81 x 19.21 cm) (image)\r\n9 1/2 x 12 7/8 in. (24.13 x 32.7 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/57913",
+  "id": 57913,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 4097,
   "image_width": 5478,
   "inscription": "Signature",
@@ -28,13 +26,9 @@
   "provenance": "P. and D. Colnaghi",
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Lower Left-Hand Plate (in-plate)",
-  "style": "19th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Charity"
 }

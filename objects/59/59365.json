@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.60.20",
-  "art_champions_text": null,
-  "artist": "artist: Steven Sorman",
-  "catalogue_raissonne": "VEL 277",
-  "classification": " Prints",
+  "artist": "Steven Sorman",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "18 3/8 x 23 7/8 in. (46.67 x 60.64 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59365",
+  "id": 59365,
   "image": "valid",
   "image_copyright": "© 1982 Steven Sorman",
   "image_height": 2911,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LL: [Steven Sorman / 1982]\r\nLC: [ap 5/6]\r\nLC: [one (no two) / II]\r\nLL: Artist\\'s stamp in red ink\r\nLR: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "signed": "LL: [Steven Sorman / 1982]\r\nLC: [ap 5/6]\r\nLC: [one (no two) / II]\r\nLL: Artist's stamp in red ink\r\nLR: VEL Chop Mark",
+  "style": null,
+  "text": null,
   "title": "One (No Two) II"
 }

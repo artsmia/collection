@@ -1,9 +1,7 @@
 {
   "accession_number": "P.70.71",
-  "art_champions_text": null,
-  "artist": "artist: Francisco Toledo",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Francisco Toledo",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "México",
   "creditline": "Gift of Mrs. Patrick Butler, by exchange",
@@ -11,11 +9,11 @@
   "curator_approved": 1,
   "dated": "c. 1969",
   "department": "Arts of the Americas",
-  "description": "Woman holding an axe while defending a steer from a lion attack",
+  "description": "",
   "dimension": "6 1/16 x 6 15/16 in. (15.4 x 17.62 cm) (plate)\r\n9 7/8 x 13 in. (25.08 x 33.02 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/58730",
+  "id": 58730,
   "image": "valid",
-  "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "© 2012 Artists Rights Society (ARS), New York / SOMAAP, Mexico City",
   "image_height": 3617,
   "image_width": 4733,
   "inscription": "Inscribed in pencil, verso: #24",
@@ -28,13 +26,9 @@
   "provenance": "[Associated American Artists, New York]; sold to MIA, 1970.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed in pencil, LR: Toledo",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Casi ro Lion"
 }

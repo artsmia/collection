@@ -2,8 +2,8 @@
   "accession_number": "37.43",
   "artist": "Germany (Nuremburg)",
   "classification": "Metalwork",
-  "continent": "\"Europe\"",
-  "country": "\"Germany\"",
+  "continent": "Europe",
+  "country": "Germany",
   "creditline": "Gift of Mrs. Ridgely Hunt",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Germany (Nuremburg)",
+  "life_date": null,
   "markings": null,
   "medium": "Brass",
+  "nationality": "German",
   "object_name": "Bowl",
   "portfolio": null,
   "provenance": null,
@@ -29,5 +30,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "Bowl with scene of \"The Temptation\""
+  "title": "Bowl with scene of The Temptation"
 }

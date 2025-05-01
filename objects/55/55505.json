@@ -1,9 +1,7 @@
 {
-  "accession_number": "P.12,846",
-  "art_champions_text": null,
-  "artist": "artist: David Alfaro Siqueiros; printer: George C. Miller",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "accession_number": "P.12, 846",
+  "artist": "David Alfaro Siqueiros; Printer: George C. Miller",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "México",
   "creditline": "Gift of Miss Leona Prasse",
@@ -13,9 +11,9 @@
   "department": "Arts of the Americas",
   "description": "",
   "dimension": "22 x 15 in. (55.88 x 38.1 cm) (image)\r\n31 13/16 x 21 7/8 in. (80.8 x 55.56 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/55505",
+  "id": 55505,
   "image": "valid",
-  "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "© 2012 Artists Rights Society (ARS), New York / SOMAAP, Mexico City",
   "image_height": 5022,
   "image_width": 3661,
   "inscription": "Signature; Date; Inscription; Watermark\r\n\r\nsee Signed\r\n\r\nInscription (printed?) LL margin: [George Miller / Litho]",
@@ -28,13 +26,9 @@
   "provenance": "Leona Prasse; given to MIA, 1957.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed, dated on stone, LL: [A. Siqueiros / taxco - / 4 - 1931]]",
-  "style": "20th century",
-  "text": "Of the major Mexican muralists, David Alfaro Siqueiros was perhaps the most militant. His idealism led to action inside and outside the studio: He organized miners, aided strikers and was sometimes jailed. His murals, meanwhile, had titles like \"Death to the Invader\" and \"Burial of a Worker.\" In 1936 he founded the Experimental Workshop in Manhattan, where Jackson Pollock was a pupil. His portraits-arguably the best Mexico has ever produced-have astounding visual power and monumentality. Based on pre-Columbian Olmec heads, this rare example demonstrates what writer Rita Eder calls Siqueiros's \"brutal expressionism.\"",
+  "style": null,
+  "text": "Of the major Mexican muralists, David Alfaro Siqueiros was perhaps the most militant. His idealism led to action inside and outside the studio: He organized miners, aided strikers and was sometimes jailed. His murals, meanwhile, had titles like Death to the Invader and Burial of a Worker. In 1936 he founded the Experimental Workshop in Manhattan, where Jackson Pollock was a pupil. His portraits-arguably the best Mexico has ever produced-have astounding visual power and monumentality. Based on pre-Columbian Olmec heads, this rare example demonstrates what writer Rita Eder calls Siqueiros's brutal expressionism.",
   "title": "Portrait of William Spratling, Taxco"
 }

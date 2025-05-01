@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.11.2",
-  "art_champions_text": null,
-  "artist": "artist: Tom Attridge; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 41",
-  "classification": " Prints",
+  "artist": "Tom Attridge; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "54 3/8 x 28 in. (137.8 x 70.8 cm) (image)\r\n58 x 31 3/4 in. (147.32 x 80.65 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/58575",
+  "id": 58575,
   "image": "valid",
   "image_copyright": "© Tom Attridge",
   "image_height": 3786,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LR: [Tom Attridge 84]\r\nLL: [3/10]\r\nLC: [\\\"Cubist Messenger\\\"]",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: [Tom Attridge 84]\r\nLL: [3/10]\r\nLC: [Cubist Messenger]",
+  "style": null,
+  "text": null,
   "title": "Cubist Messenger"
 }

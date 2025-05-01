@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.110",
-  "art_champions_text": null,
   "artist": "Designer: George Eddy; Manufacturer: Mechanical Novelty Works",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1880",
   "department": "Arts of the Americas",
-  "description": "old man sitting on brown goat holds circular flat object in hand; giant green frog sits with open mouth",
+  "description": "",
   "dimension": "6 3/4 x 7 5/8 x 3 1/16 in. (17.15 x 19.37 x 7.78 cm)",
-  "id": "http://api.artsmia.org/objects/81149",
+  "id": 81149,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1868,
   "image_width": 2066,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Goat, Frog and Old Man\" (or \"Initiating Bank, Second Degree\") mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Goat, Frog and Old Man (or Initiating Bank, Second Degree) mechanical bank"
 }

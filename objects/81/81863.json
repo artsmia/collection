@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.310",
-  "art_champions_text": null,
-  "artist": "Designer: James H. Bowen; Manufacturer: J. &amp; E. Stevens Company, Cromwell, Connecticut, 1843–1950s",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "Designer: James H. Bowen; Manufacturer: J. & E. Stevens Company, Cromwell, Connecticut, 1843–1950s",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1882",
   "department": "Arts of the Americas",
-  "description": "paddle wheel boat; 2 smoke stacks; 2 paddle wheels; pilot house; openwork windows down each side; openwork over revolving paddle wheels",
+  "description": "",
   "dimension": "4 1/4 x 8 1/2 x 2 in. (10.8 x 21.59 x 5.08 cm)",
-  "id": "http://api.artsmia.org/objects/81863",
+  "id": 81863,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1716,
   "image_width": 2489,
   "inscription": "Inscriptions and Sticker\r\n\r\non bottom, incised: [ENG PAT JULY 22 / 1882 / US PAT AUG 8 1882]; on stopper, incised: illegible inscription",
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "G110",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Frog Bank\" (or \"Two Frogs\") mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Frog Bank (or Two Frogs) mechanical bank"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.44",
-  "art_champions_text": null,
-  "artist": "artist: Carol Lucas",
-  "catalogue_raissonne": "VEL 153",
-  "classification": " Prints",
+  "artist": "Carol Lucas",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "19 13/16 x 28 3/4 in. (50.32 x 73.03 cm) (image)\r\n22 1/2 x 30 in. (57.15 x 76.2 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59011",
+  "id": 59011,
   "image": "valid",
   "image_copyright": "© Carol Lucas",
   "image_height": 3062,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LR: [C. LUCAS 1978]\r\nLC: [A.P. 2/4]\r\nLL: [DARK HORSE - NEW WAVE]\r\nLR: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Dark Horse-New Wave"
 }

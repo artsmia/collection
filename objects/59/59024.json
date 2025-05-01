@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.50",
-  "art_champions_text": null,
-  "artist": "artist: George Morrison; printer: Vermillion Editions Limited, Minneapolis; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 169",
-  "classification": " Prints",
+  "artist": "George Morrison; Printer: Vermillion Editions Limited, Minneapolis; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,12 +11,12 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "39 1/4 x 27 7/8 in. (99.7 x 70.8 cm) (image)\r\n41 3/4 x 29 3/4 in. (106.05 x 75.57 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59024",
+  "id": 59024,
   "image": "valid",
-  "image_copyright": "© Estate of George Morrison %2F Briand Morrison",
+  "image_copyright": "© Briand Morrison",
   "image_height": 3645,
   "image_width": 2650,
-  "inscription": "",
+  "inscription": null,
   "life_date": "American, 1919 – 2000",
   "markings": "LL: A.P. 2/10\r\nLL: VEL blindstamp",
   "medium": "Lithograph",
@@ -28,13 +26,9 @@
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1983.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LR: G. MORRISON - 1977",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Untitled"
 }

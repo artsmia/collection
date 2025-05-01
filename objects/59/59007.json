@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.43",
-  "art_champions_text": null,
-  "artist": "Artist: Luciano Lattanzi",
-  "catalogue_raissonne": "VEL 148",
-  "classification": " Prints",
+  "artist": "Luciano Lattanzi",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Italy",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "19 7/8 x 25 5/8 in. (50.48 x 65.09 cm) (image)\r\n26 7/8 x 31 5/8 in. (68.26 x 80.33 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59007",
+  "id": 59007,
   "image": "valid",
   "image_copyright": "© Luciano Lattanzi",
   "image_height": 3305,
@@ -26,15 +24,11 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "Vermillion Editions Limited, Minneapolis (publisher); sold to MIA, 1983.",
-  "restricted": 1,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "Signed and dated in pencil, LR: LATTANZI \\'78\r\n\r\n",
-  "style": "20th century",
-  "text": "",
+  "signed": "Signed and dated in pencil, LR: LATTANZI '78",
+  "style": null,
+  "text": null,
   "title": "City of Lakes"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "2002.187",
-  "art_champions_text": null,
-  "artist": "artist: Leo A. Henkora",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Leo A. Henkora",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Flora Kase Ornstein in memory of her mother, Dorothy Miller Kase Gilbert, a student of the artist",
@@ -11,11 +9,11 @@
   "curator_approved": 1,
   "dated": "1930",
   "department": "Arts of the Americas",
-  "description": "five straining nude men, pulling on cords; mountains at top edge",
+  "description": "",
   "dimension": "6 x 8 in. (15.24 x 20.32 cm) (image)\r\n7 x 9 in. (17.78 x 22.86 cm) (sight)\r\n12 1/4 x 14 1/4 in. (31.12 x 36.2 cm) (outer frame)",
-  "id": "http://api.artsmia.org/objects/62762",
+  "id": 62762,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1940,
   "image_width": 2444,
   "inscription": "Titled in pencil, lower center margin: Labor",
@@ -28,13 +26,9 @@
   "provenance": "Flora Kase Ornstein, Lake Havasu City, Ariz.; given to MIA, 2002.",
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed and dated in pencilLL margin: Leo A. Henkora - 1930",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Labor"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.89.21",
-  "art_champions_text": null,
-  "artist": "artist: Joel Shapiro",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Joel Shapiro",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "The Ethel Morrison Van Derlip Fund",
@@ -13,12 +11,12 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "11 x 8 3/4 in. (27.94 x 22.23 cm) (image)\r\n23 x 18 in. (58.42 x 45.72 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59693",
+  "id": 59693,
   "image": "valid",
-  "image_copyright": "© Joel Shapiro %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "© Joel Shapiro / Artists Rights Society (ARS), New York",
   "image_height": 4186,
   "image_width": 3443,
-  "inscription": "\r\n\r\n",
+  "inscription": "",
   "life_date": "American, born 1941",
   "markings": "Numbered in pencil, LL: 22/40",
   "medium": "Color woodcut on Japan paper",
@@ -28,13 +26,9 @@
   "provenance": "(Betsy Senior Gallery, New York); sold to MIA, 1989.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed and dated in pencil, LR: Joel Shapiro 1989",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Untitled #16"
 }

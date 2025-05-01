@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.11.1",
-  "art_champions_text": null,
-  "artist": "artist: Don Cailliez",
-  "catalogue_raissonne": "VEL 67",
-  "classification": " Prints",
+  "artist": "Don Cailliez",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "24 1/8 x 34 5/8 in. (61.28 x 87.95 cm) (image)\r\n25 1/4 x 35 7/8 in. (64.14 x 91.12 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/58614",
+  "id": 58614,
   "image": "valid",
   "image_copyright": "© Don Cailliez",
   "image_height": 2531,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LR: [Cailliez \\'81]\r\nLL: [28/36]\r\nLL: [Grandma\\'s Kitchen]",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: [Cailliez '81]\r\nLL: [28/36]\r\nLL: [Grandma's Kitchen]",
+  "style": null,
+  "text": null,
   "title": "Grandma's Kitchen"
 }

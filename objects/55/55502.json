@@ -1,9 +1,7 @@
 {
   "accession_number": "P.68.55",
-  "art_champions_text": null,
-  "artist": "artist: José Luis Cuévas; printer: Ernesto de Soto; publisher: Tamarind Lithography Workshop, Los Angeles (now Albuquerque, N.M.)",
-  "catalogue_raissonne": "Tamarind 1652",
-  "classification": " Prints",
+  "artist": "José Luis Cuévas; Printer: Ernesto de Soto; Publisher: Tamarind Lithography Workshop, Los Angeles (now Albuquerque, N.M.)",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "México",
   "creditline": "The John R. Van Derlip Fund",
@@ -13,14 +11,14 @@
   "department": "Arts of the Americas",
   "description": "",
   "dimension": "30 x 22 1/8 in. (76.2 x 56.2 cm) (image)",
-  "id": "http://api.artsmia.org/objects/55502",
+  "id": 55502,
   "image": "valid",
-  "image_copyright": "© 2012 Artists Rights Society %28ARS%29%2C New York %2F SOMAAP%2C Mexico City",
+  "image_copyright": "© 2012 Artists Rights Society (ARS), New York / SOMAAP, Mexico City",
   "image_height": 4654,
   "image_width": 3473,
-  "inscription": "",
+  "inscription": null,
   "life_date": "Mexican, 1934–2017",
-  "markings": "Publisher\\'s blindstamp",
+  "markings": "Publisher's blindstamp",
   "medium": "Color lithograph",
   "nationality": "Mexican",
   "object_name": "Print",
@@ -28,13 +26,9 @@
   "provenance": "[Martin Gordon Gallery, New York]; sold to MIA, 1968.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed in pencil: Cuevas",
-  "style": "20th century",
+  "style": null,
   "text": "Like the United States, Latin America was caught up with abstraction in the 1950s and 1960s. But José Luis Cuevas resisted the trend. Instead he is drawn to the more expressive subject of the figure. He is an incessant sketcher—habits learned early growing up above his grandfather's paper mill in Mexico City—and he often imbues his figures with nightmarish qualities, such as the multiple heads imbedded here. One series of works was devoted to inmates at an insane asylum, another to corpses. Cuevas was famous in Mexico as the enfant terrible who, rather than using his art for reform as the muralists did, chose the more personal path of exploring alienation through his observations of Mexico's beggars, prostitutes, fortune tellers, and homeless.",
-  "title": "\"Music is a Higher Revelation than Philosophy\" Beethoven"
+  "title": "Music is a Higher Revelation than Philosophy Beethoven"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.64.1",
-  "art_champions_text": null,
-  "artist": "artist: Scott Sandell",
-  "catalogue_raissonne": "VEL 215",
-  "classification": " Prints",
+  "artist": "Scott Sandell",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "41 3/4 x 29 3/4 in. (106.05 x 75.57 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59140",
+  "id": 59140,
   "image": "valid",
   "image_copyright": "© Scott Sandell",
   "image_height": 2649,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Monotype",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LR: [Sandell / 78]\r\nLR: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Untitled"
 }

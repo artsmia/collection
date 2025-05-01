@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.106",
-  "art_champions_text": null,
-  "artist": "Manufacturer: J. &amp; E. Stevens Company, Cromwell, Connecticut, 1843–1950s",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "Manufacturer: J. & E. Stevens Company, Cromwell, Connecticut, 1843–1950s",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1886",
   "department": "Arts of the Americas",
-  "description": "large green toad sitting on brown stump with leaves on one side; small tortoise near frog's rear PR leg",
+  "description": "",
   "dimension": "3 x 4 x 3 11/16 in. (7.62 x 10.16 x 9.37 cm)",
-  "id": "http://api.artsmia.org/objects/81145",
+  "id": 81145,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1626,
   "image_width": 1806,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Toad on Stump\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Toad on Stump mechanical bank"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.85.62",
-  "art_champions_text": null,
-  "artist": "artist: Thomas Hart Benton; publisher: Associated American Artists, New York",
-  "catalogue_raissonne": "Fath 63",
-  "classification": " Prints",
+  "artist": "Thomas Hart Benton; Publisher: Associated American Artists, New York",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Richard L. Hillstrom in memory of his parents, Martin and Alma Hillstrom",
@@ -13,9 +11,9 @@
   "department": "Arts of the Americas",
   "description": "",
   "dimension": "10 5/16 x 14 7/8 in. (26.19 x 37.78 cm) (image)\r\n12 7/8 x 17 in. (32.7 x 43.18 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59510",
+  "id": 59510,
   "image": "valid",
-  "image_copyright": "© T.H. and R.P. Benton Testamentary Trusts %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
+  "image_copyright": "© T.H. and R.P. Benton Testamentary Trusts / Licensed by VAGA at Artists Rights Society (ARS), NY",
   "image_height": 3556,
   "image_width": 4677,
   "inscription": "Signature; Mark",
@@ -28,13 +26,9 @@
   "provenance": "Associated American Artists, Chicago, 1945; Rev. Richard Lewis Hillstrom, St. Paul, 1945-1985; given to MIA.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed LR, in pencil: Benton",
-  "style": "20th century",
-  "text": "Thomas Hart Benton found inspiration for his art in the ebb and flow of daily life in rural and small-town America. Wreck of the Ol’ 97, one of his best-known prints, is based on a ballad of the same title that tells the story of a rail disaster. A speeding locomotive attempting to make up lost time jumped the tracks as it descended a Virginia mountain. Eleven people died, including the engineer.\r\n\r\n“Everybody knows the song,” Benton commented. “Goin’ down grade at ninety miles an hour, Ol’ 97 hit a broken rail and hell busted loose. This picture shows the moment just before the bust. The song doesn’t say who saw the affair, but somebody must have, and it could just as well have been people like those in the wagon. I put ’em in anyhow.”",
+  "style": null,
+  "text": "Thomas Hart Benton found inspiration for his art in the ebb and flow of daily life in rural and small-town America. Wreck of the Ol’ 97, one of his best-known prints, is based on a ballad of the same title that tells the story of a rail disaster. A speeding locomotive attempting to make up lost time jumped the tracks as it descended a Virginia mountain. Eleven people died, including the engineer.\r\n\r\n“Everybody knows the song, ” Benton commented. “Goin’ down grade at ninety miles an hour, Ol’ 97 hit a broken rail and hell busted loose. This picture shows the moment just before the bust. The song doesn’t say who saw the affair, but somebody must have, and it could just as well have been people like those in the wagon. I put ’em in anyhow.”",
   "title": "Wreck of the Ol' '97"
 }

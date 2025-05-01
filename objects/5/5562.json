@@ -2,7 +2,7 @@
   "accession_number": "98.136.16",
   "artist": "Europe",
   "classification": "Judaica",
-  "continent": "\"Europe\"",
+  "continent": "Europe",
   "country": null,
   "creditline": "Gift of Harold and Mickey Smith",
   "culture": null,
@@ -17,9 +17,10 @@
   "image_height": 4076,
   "image_width": 4080,
   "inscription": null,
-  "life_date": "Europe",
+  "life_date": null,
   "markings": null,
   "medium": "Copper alloy",
+  "nationality": "European",
   "object_name": "Grogger (noise maker), Noise maker",
   "portfolio": null,
   "provenance": "(Moriah Gallery, New York); Collection of Harold & Mickey Smith purchased 1978; Gift to the MIA in 1998",
@@ -28,6 +29,6 @@
   "room": "G362",
   "signed": null,
   "style": null,
-  "text": "The Hebrew inscription on the top of this grogger translates, \"Cursed be Haman, cursed be all the evil people.\" Here Haman is depicted as a Cossack, a group that carried out brutal pogroms against the Jews in Russia.",
+  "text": "The Hebrew inscription on the top of this grogger translates, Cursed be Haman, cursed be all the evil people. Here Haman is depicted as a Cossack, a group that carried out brutal pogroms against the Jews in Russia.",
   "title": "Grogger (noise maker)"
 }

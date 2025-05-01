@@ -1,9 +1,7 @@
 {
   "accession_number": "2000.67.1",
-  "art_champions_text": null,
-  "artist": "artist: Germany",
-  "catalogue_raissonne": null,
-  "classification": " Judaica",
+  "artist": "Germany",
+  "classification": "Judaica",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "The Frances M. Norbeck Fund",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1750",
   "department": "European Art",
-  "description": "plate with flat rim; incised repeating organic design on rim with inscriptions inside ovals; interior incised with a pair of hands inside an organic element flanked by 2 birds facing outward",
+  "description": "",
   "dimension": "1 1/16 x 14 1/2 x 14 1/2 in. (2.7 x 36.83 x 36.83 cm)",
-  "id": "http://api.artsmia.org/objects/9781",
+  "id": 9781,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 4194,
   "image_width": 3855,
   "inscription": "Inscriptions; Sticker; Stamps",
@@ -28,13 +26,9 @@
   "provenance": "(William Gross, Tel Aviv, Israel); Purchased by the MIA in 2000.",
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "G362",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "18th century",
-  "text": "",
+  "signed": null,
+  "style": null,
+  "text": null,
   "title": "Seder plate"
 }

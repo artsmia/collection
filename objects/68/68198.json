@@ -1,9 +1,7 @@
 {
   "accession_number": "P.92.6.36.7",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 12",
-  "classification": " Prints",
+  "artist": "Nicolas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1990",
   "department": "Global Contemporary Art",
-  "description": "from a suite of 13 color lithographs housed in a beige linen portfolio box, titled by hand individually by the artist, with an acrylic sumi ink wash; man seated in a chair facing away from viewer reading book; text \" Well time cures hearts/of tenderness\" repeated four times",
+  "description": "",
   "dimension": "19 1/4 x 16 in. (48.9 x 40.64 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/68198",
+  "id": 68198,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 4332,
@@ -24,17 +22,13 @@
   "medium": "Color lithograph on Japan paper",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From Lilacs and Smoke",
-  "provenance": "",
-  "restricted": 0,
+  "portfolio": "Lilacs and Smoke",
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "lower margin in pencil: [Nicolas Africano 1990]; at top in grey: [Reading Wessex Heights/August 1987]",
-  "style": "20th century",
-  "text": "",
-  "title": "Reading Wessex Heights, August 1987, from \"Lilacs and Smoke\""
+  "style": null,
+  "text": null,
+  "title": "Reading Wessex Heights, August 1987, from Lilacs and Smoke"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.92.6.36.11",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 12",
-  "classification": " Prints",
+  "artist": "Nicolas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1990",
   "department": "Global Contemporary Art",
-  "description": "from a suite of 13 color lithographs housed in a beige linen portfolio box, titled by hand individually by the artist, with an acrylic sumi ink wash; kneeling man; PL hand holding seashell to ear",
+  "description": "",
   "dimension": "19 3/16 x 16 1/16 in. (48.74 x 40.8 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/68202",
+  "id": 68202,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 4308,
@@ -24,17 +22,13 @@
   "medium": "Color lithograph on Japan paper",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From Lilacs and Smoke",
-  "provenance": "",
-  "restricted": 0,
+  "portfolio": "Lilacs and Smoke",
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "lower margin in pencil: [Nicolas Africano 1990]; at top in grey:[Listening to/ a seashell./ Learning Patience]",
-  "style": "20th century",
-  "text": "",
-  "title": "Listening to a Seashell, Learning Patience, from \"Lilacs and Smoke\""
+  "style": null,
+  "text": null,
+  "title": "Listening to a Seashell, Learning Patience, from Lilacs and Smoke"
 }

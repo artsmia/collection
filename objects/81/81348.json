@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.143",
-  "art_champions_text": null,
-  "artist": "manufacturer: Attributed to Kyser &amp; Rex Company",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "artist": "Manufacturer: Attributed to Kyser & Rex Company",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1880–90",
   "department": "Arts of the Americas",
-  "description": "big dark brown rooster standing on green base",
+  "description": "",
   "dimension": "6 x 3 1/2 x 2 5/16 in. (15.24 x 8.89 x 5.87 cm)",
-  "id": "http://api.artsmia.org/objects/81348",
+  "id": 81348,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 2553,
   "image_width": 1690,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Rooster\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Rooster mechanical bank"
 }

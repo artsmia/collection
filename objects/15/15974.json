@@ -2,8 +2,8 @@
   "accession_number": "37.34",
   "artist": "Germany",
   "classification": "Metalwork",
-  "continent": "\"Europe\"",
-  "country": "\"Germany\"",
+  "continent": "Europe",
+  "country": "Germany",
   "creditline": "Gift of Mrs. Ridgely Hunt",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": null,
   "image_width": null,
   "inscription": "Mark",
-  "life_date": "Germany",
+  "life_date": null,
   "markings": "at lower right of central medallion a touch in the form of a shield with an <O> and other indistinguishable details",
   "medium": "Pewter",
+  "nationality": "German",
   "object_name": "Gustavus Adolphus plate",
   "portfolio": null,
   "provenance": null,
@@ -29,5 +30,5 @@
   "signed": null,
   "style": null,
   "text": null,
-  "title": "\"Gustavus Adolphus\" plate"
+  "title": "Gustavus Adolphus plate"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.12.10",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 4",
-  "classification": " Prints",
+  "artist": "Nicolas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "22 x 29 3/4 in. (55.88 x 75.57 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/58530",
+  "id": 58530,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 2830,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Monotype",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 0,
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LR: [Nicholas Africano 1986]\r\nPrinted inscription, UC: [The marriage]",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "The Marriage"
 }

@@ -1,9 +1,7 @@
 {
   "accession_number": "P.86.62.65",
-  "art_champions_text": null,
-  "artist": "artist: Steven Sorman",
-  "catalogue_raissonne": "VEL 278",
-  "classification": " Prints",
+  "artist": "Steven Sorman",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of The Northern Star Foundation and The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "31 1/4 x 23 1/4 in. (79.38 x 59.06 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59366",
+  "id": 59366,
   "image": "valid",
   "image_copyright": "© 1982 Steven Sorman",
   "image_height": 3588,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LR: [Steven Sorman]\r\nLL: [on 5.27.1982]\r\nLL: [8/8]\r\nLL: [(paris)]\r\nLL: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Paris"
 }

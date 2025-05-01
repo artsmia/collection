@@ -1,9 +1,7 @@
 {
   "accession_number": "P.79.9",
-  "art_champions_text": null,
-  "artist": "artist: Sylvia Plimack Mangold; publisher: Parasol Press Ltd., New York; printer: Crown Point Press, San Francisco",
-  "catalogue_raissonne": "D'Oench/Faberman 5",
-  "classification": " Prints",
+  "artist": "Sylvia Plimack Mangold; Publisher: Parasol Press Ltd., New York; Printer: Crown Point Press, San Francisco",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of funds from the Hersey Foundation and the National Endowment for the Arts",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "18 11/16 x 25 11/16 in. (47.47 x 65.25 cm) (plate)\r\n22 x 30 1/4 in. (55.88 x 76.84 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/53930",
+  "id": 53930,
   "image": "valid",
   "image_copyright": "© Sylvia Plimack Mangold",
   "image_height": 3487,
@@ -26,15 +24,11 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "[Parasol Press, New York]",
-  "restricted": 0,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "Signed in pencil, LR:  [Sylvia Plimack Mangold]",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Paint Under Tape, Paint Over Paper"
 }

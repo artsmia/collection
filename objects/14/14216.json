@@ -1,5 +1,5 @@
 {
-  "accession_number": "26.18a,b",
+  "accession_number": "26.18a, b",
   "artist": "Unknown",
   "classification": "Glass",
   "continent": null,
@@ -17,9 +17,10 @@
   "image_height": null,
   "image_width": null,
   "inscription": null,
-  "life_date": "Unknown",
+  "life_date": null,
   "markings": null,
   "medium": "glass",
+  "nationality": null,
   "object_name": null,
   "portfolio": null,
   "provenance": null,

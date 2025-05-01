@@ -1,9 +1,9 @@
 {
-  "accession_number": "P.14,015",
+  "accession_number": "P.14, 015",
   "artist": "Netherlandish",
   "classification": "Drawings",
-  "continent": "\"Europe\"",
-  "country": "\"Netherlands / Flanders\"",
+  "continent": "Europe",
+  "country": "Netherlands / Flanders",
   "creditline": "The Minnich Collection\r\nThe Ethel Morrison Van Derlip Fund, 1966",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 3600,
   "image_width": 2676,
   "inscription": "Mark",
-  "life_date": "Netherlandish",
+  "life_date": null,
   "markings": "In pencil, LR: [PIxx]",
   "medium": "Ink, gouache and gold",
+  "nationality": "Netherlandish",
   "object_name": "Illuminated manuscript page",
   "portfolio": null,
   "provenance": null,
@@ -28,6 +29,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "Flemish Books of Hours were often decorated with borders of plants and animals set against a gold-colored background. Here, much of the actual gold used to embellish the decorated letters has been scraped away, exposing the bright white of the gesso used to seal the porous surface of the vellum prior to gilding.\r\n\r\nThe leaf with the nearly continuous text features the Lord's Prayer. The leaf with the more frequently interrupted text opens with a call and response from the opening phrase of Psalm 69, a formula used to ask for God's assistance at the beginning of each hourly prayer throughout the day. This call is then followed by the Minor Doxology (\"Glory be to the Father…\") and finally the Little Office of the Blessed Virgin Mary, which ask the Lord to remember that he was conceived and made flesh in the Virgin's womb.\r\n",
+  "text": "Flemish Books of Hours were often decorated with borders of plants and animals set against a gold-colored background. Here, much of the actual gold used to embellish the decorated letters has been scraped away, exposing the bright white of the gesso used to seal the porous surface of the vellum prior to gilding.\r\n\r\nThe leaf with the nearly continuous text features the Lord's Prayer. The leaf with the more frequently interrupted text opens with a call and response from the opening phrase of Psalm 69, a formula used to ask for God's assistance at the beginning of each hourly prayer throughout the day. This call is then followed by the Minor Doxology (Glory be to the Father…) and finally the Little Office of the Blessed Virgin Mary, which ask the Lord to remember that he was conceived and made flesh in the Virgin's womb.",
   "title": "Leaf from a Book of Hours (recto and verso)"
 }

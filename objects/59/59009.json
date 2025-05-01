@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.60.8",
-  "art_champions_text": null,
-  "artist": "artist: Keith Leaman",
-  "catalogue_raissonne": "VEL 151",
-  "classification": " Prints",
+  "artist": "Keith Leaman",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "11 7/8 x 9 in. (30.16 x 22.86 cm) (plate)\r\n20 x 15 15/16 in. (50.8 x 40.48 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/59009",
+  "id": 59009,
   "image": "valid",
   "image_copyright": "© Keith Leaman",
   "image_height": 3809,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LR: [KEITH A. LEAMAN]\r\nLC: [6/6]\r\nLL: [AP]\r\nLR: VEL Chop Mark\r\n",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: [KEITH A. LEAMAN]\r\nLC: [6/6]\r\nLL: [AP]\r\nLR: VEL Chop Mark",
+  "style": null,
+  "text": null,
   "title": "Untitled"
 }

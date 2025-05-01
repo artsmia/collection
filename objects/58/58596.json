@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.11",
-  "art_champions_text": null,
-  "artist": "artist: Christine Benson; publisher: Vermillion Editions Limited, Minneapolis; printer: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 48",
-  "classification": " Prints",
+  "artist": "Christine Benson; Publisher: Vermillion Editions Limited, Minneapolis; Printer: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "17 7/8 x 14 in. (45.4 x 35.56 cm) (image)\r\n26 1/2 x 19 in. (67.31 x 48.26 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/58596",
+  "id": 58596,
   "image": "valid",
   "image_copyright": "© Christine Benson",
   "image_height": 4557,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "LR: Benson \\'78\r\n\r\n\r\n",
-  "style": "20th century",
-  "text": "",
+  "signed": "LR: Benson '78",
+  "style": null,
+  "text": null,
   "title": "Invitation"
 }

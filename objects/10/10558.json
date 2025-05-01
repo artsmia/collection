@@ -1,9 +1,9 @@
 {
-  "accession_number": "51.37.14a,b",
+  "accession_number": "51.37.14a, b",
   "artist": "Persia (Iran)",
   "classification": "Paintings",
-  "continent": "\"Asia\"",
-  "country": "\"Iran\"",
+  "continent": "Asia",
+  "country": "Iran",
   "creditline": "Bequest of Mrs. Margaret McMillan Webber in memory of her mother, Katherine Kittredge McMillan",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 3744,
   "image_width": 5616,
   "inscription": null,
-  "life_date": "Persia (Iran)",
+  "life_date": null,
   "markings": null,
   "medium": "Colors and gold on paper",
+  "nationality": "Persian",
   "object_name": "Double Frontispiece from the Shah Nama",
   "portfolio": null,
   "provenance": null,
@@ -28,6 +29,6 @@
   "room": "Not on View",
   "signed": null,
   "style": "Herat school",
-  "text": "This illuminated frontispiece originally comprised the title pages of a copy of the <I>Shah Nama</I>, or <I>Book of Kings</I>, a work of 50,000 rhymed couplets that recounts the heroic tales of Iran's pre-Muslim past. The central fields are written in a fluid <I>thuluth</I> script, and the white calligraphic headings are executed in the more angular and formal <I>kufic</I> script. Book illuminators were responsible for decorating the chapter headings, marginal ornaments, and verse stops in an incredible variety of geometric and floral motifs. They worked closely with the calligraphers, who were charged with producing as accurate a copy of the text as possible; the illustrators, who at times painted pictures to accompany the text; the book binder; and occasionally the person who commissioned the work.\r\n",
+  "text": "This illuminated frontispiece originally comprised the title pages of a copy of the <I>Shah Nama</I>, or <I>Book of Kings</I>, a work of 50, 000 rhymed couplets that recounts the heroic tales of Iran's pre-Muslim past. The central fields are written in a fluid <I>thuluth</I> script, and the white calligraphic headings are executed in the more angular and formal <I>kufic</I> script. Book illuminators were responsible for decorating the chapter headings, marginal ornaments, and verse stops in an incredible variety of geometric and floral motifs. They worked closely with the calligraphers, who were charged with producing as accurate a copy of the text as possible; the illustrators, who at times painted pictures to accompany the text; the book binder; and occasionally the person who commissioned the work.",
   "title": "Frontispiece of the Shah Nama"
 }

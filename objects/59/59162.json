@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.11.9",
-  "art_champions_text": null,
-  "artist": "artist: T.L. Solien",
-  "catalogue_raissonne": "VEL 250",
-  "classification": " Prints",
+  "artist": "T.L. Solien",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "31 1/2 x 46 3/4 in. (80.01 x 118.75 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/59162",
+  "id": 59162,
   "image": "valid",
   "image_copyright": "© T. L. Solien",
   "image_height": 2692,
@@ -26,16 +24,11 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "Vermillion Editions Limited, Mpls.",
-  "restricted": 1,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    "42683",
-    "59162"
-  ],
-  "signed": "LC: [T.L. Solien \\'84]\r\nLR: [A.P. 4/9]\r\nLL: VEL Chop Mark",
-  "style": "20th century",
-  "text": "",
+  "signed": "LC: [T.L. Solien '84]\r\nLR: [A.P. 4/9]\r\nLL: VEL Chop Mark",
+  "style": null,
+  "text": null,
   "title": "The Fall"
 }

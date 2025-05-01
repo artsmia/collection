@@ -1,9 +1,7 @@
 {
   "accession_number": "P.92.6.38.11",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Nicolas Africano",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1987–90",
   "department": "Global Contemporary Art",
-  "description": "A man in long pants and no shirt; he faces forward in a chair and holds flowers in his lap; the words \"May 1987\" inscribed, UC; predominant colors: blue, grey and yellow",
+  "description": "",
   "dimension": "19 1/4 x 16 in. (48.9 x 40.64 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/68225",
+  "id": 68225,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 3534,
@@ -24,17 +22,13 @@
   "medium": "Lithograph with hand-coloring on handmade paper",
   "nationality": "American",
   "object_name": null,
-  "portfolio": "From Suite of 12 Prints",
-  "provenance": "",
-  "restricted": 0,
+  "portfolio": "Suite of 12 Prints",
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LC: [S.P. NA 1990]",
-  "style": "20th century",
-  "text": "",
-  "title": "Study for \"May 1987\", from the Portfolio \"Lilacs and Smoke\""
+  "style": null,
+  "text": null,
+  "title": "Study for May 1987, from the Portfolio Lilacs and Smoke"
 }

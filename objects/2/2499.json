@@ -1,9 +1,9 @@
 {
-  "accession_number": "77.35.1a,b",
+  "accession_number": "77.35.1a, b",
   "artist": "China",
   "classification": "Ceramics",
-  "continent": "\"Asia\"",
-  "country": "\"China\"",
+  "continent": "Asia",
+  "country": "China",
   "creditline": "The Thomas L. Daniels Memorial Fund",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 3267,
   "image_width": 4412,
   "inscription": null,
-  "life_date": "China",
+  "life_date": null,
   "markings": null,
   "medium": "Porcelain with enamel and gilded decoration",
+  "nationality": "Chinese",
   "object_name": "Covered tureen",
   "portfolio": null,
   "provenance": null,
@@ -28,6 +29,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "The \"Tobacco Leaf\" pattern on this service was probably derived from an Indian textile design of broad leaves and flowers.",
+  "text": "The Tobacco Leaf pattern on this service was probably derived from an Indian textile design of broad leaves and flowers.",
   "title": "Covered tureen"
 }

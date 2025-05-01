@@ -1,9 +1,7 @@
 {
   "accession_number": "P.73.26",
-  "art_champions_text": null,
-  "artist": "artist: Bruce Nauman; printer: Cirrus Editions, Ltd., Los Angeles; publisher: Cirrus Editions, Ltd., Los Angeles",
-  "catalogue_raissonne": "Cordes 10",
-  "classification": " Prints",
+  "artist": "Bruce Nauman; Printer: Cirrus Editions, Ltd., Los Angeles; Publisher: Cirrus Editions, Ltd., Los Angeles",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Benton J. Case. Jr.",
@@ -13,12 +11,12 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "20 3/4 x 29 7/16 in. (52.71 x 74.77 cm) (plate)\r\n27 x 35 7/8 in. (68.58 x 91.12 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/54538",
+  "id": 54538,
   "image": "valid",
-  "image_copyright": "© Bruce Nauman %2F Artists Rights Society %28ARS%29%2C New York",
+  "image_copyright": "© Bruce Nauman / Artists Rights Society (ARS), New York",
   "image_height": 3544,
   "image_width": 5568,
-  "inscription": "",
+  "inscription": null,
   "life_date": "American, born 1941",
   "markings": "Watermark: BFK Rives France",
   "medium": "Drypoint",
@@ -28,13 +26,9 @@
   "provenance": "Benton J. Case, Jr., Minneapolis; given to MIA, 1973.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "In ink: B. Nauman",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Untitled"
 }

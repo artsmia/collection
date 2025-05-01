@@ -1,9 +1,7 @@
 {
   "accession_number": "P.92.6.37.2",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Nicolas Africano",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1990",
   "department": "Global Contemporary Art",
-  "description": "Nude man covered from the waist down in a towel; he faces forward in the direction of the viewer; the words \"I'm Cold Billy/Can't Stop Shaking\" inscribed, UC; cream background",
+  "description": "",
   "dimension": "19 1/4 x 16 in. (48.9 x 40.64 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/68205",
+  "id": 68205,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 3559,
@@ -24,17 +22,13 @@
   "medium": "Lithograph with hand-coloring on handmade paper",
   "nationality": "American",
   "object_name": "Print",
-  "portfolio": "From Lilacs and Smoke",
+  "portfolio": "Lilacs and Smoke",
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1992.",
-  "restricted": 0,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "Signed with intials and dated in pencil, LR: NA 1990\r\n",
-  "style": "20th century",
-  "text": "",
-  "title": "Study for \"I'm Cold Billy, Can't Stop Shaking\""
+  "signed": "Signed with intials and dated in pencil, LR: NA 1990",
+  "style": null,
+  "text": null,
+  "title": "Study for I'm Cold Billy, Can't Stop Shaking"
 }

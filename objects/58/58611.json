@@ -1,9 +1,7 @@
 {
   "accession_number": "P.87.12.2",
-  "art_champions_text": null,
-  "artist": "artist: Gary Bower",
-  "catalogue_raissonne": "VEL 60",
-  "classification": " Prints",
+  "artist": "Gary Bower",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Fiduciary Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "29 3/4 x 22 1/2 in. (75.57 x 57.15 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/58611",
+  "id": 58611,
   "image": "valid",
   "image_copyright": "© Gary Bower",
   "image_height": 3729,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Monotype",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LC: [Bower 1985]\r\nVerso: [Bower 1985 Apr.]\r\nInscribed (verso): [Monotype & oil crayon / Black Vase w. javelin / thrower]",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Black Vase with Javelin Thrower"
 }

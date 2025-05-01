@@ -1,9 +1,7 @@
 {
   "accession_number": "2003.236.91",
-  "art_champions_text": null,
   "artist": "Designer: M. Elizabeth Cook; Manufacturer: Kilgore Manufacturing Company",
-  "catalogue_raissonne": null,
-  "classification": " Dolls, Toys and Games",
+  "classification": "Dolls, Toys and Games",
   "continent": null,
   "country": null,
   "creditline": "Gift of Katherine Kierland Herberger",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1926",
   "department": "Arts of the Americas",
-  "description": "small rabbit sitting on green oval platform with cabbage near its mouth",
+  "description": "",
   "dimension": "2 1/2 x 4 1/8 x 2 3/8 in. (6.35 x 10.48 x 6.03 cm)",
-  "id": "http://api.artsmia.org/objects/81130",
+  "id": 81130,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 1762,
   "image_width": 2446,
   "inscription": "Sticker",
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Mechanical bank",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "No Known Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "20th century",
-  "text": "",
-  "title": "\"Rabbit in Cabbage\" mechanical bank"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Rabbit in Cabbage mechanical bank"
 }

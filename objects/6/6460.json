@@ -2,8 +2,8 @@
   "accession_number": "2005.159.7",
   "artist": "China (Jingdezhen)",
   "classification": "Ceramics",
-  "continent": "\"Asia\"",
-  "country": "\"China\"",
+  "continent": "Asia",
+  "country": "China",
   "creditline": "Gift of Leo and Doris Hodroff",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 1936,
   "image_width": 2592,
   "inscription": null,
-  "life_date": "China (Jingdezhen)",
+  "life_date": null,
   "markings": null,
   "medium": "Porcelain",
+  "nationality": "Chinese",
   "object_name": null,
   "portfolio": null,
   "provenance": null,
@@ -29,5 +30,5 @@
   "signed": null,
   "style": null,
   "text": "The central design on this plate is known as <I>L'urne mystérieuse</I>, after an unsigned engraving of the same title published in 1793.  The urn's support column forms the outline of the faces of King Louis XVI and Queen Marie Antoinette of France.  The face of their son, the Dauphin, is silhouetted by the branch of the willow tree on the left and the profile of the Madame Royale, the king's mother, is formed by the willow branches on the upper right. All four members of the French royal family were executed during the French Revolution; the willow tree, urn, and hidden portraits symbolize death, mourning, and continued allegiance to the monarchy.",
-  "title": "\"L'urne mystérieuse\" plate with initials \"S.D.M.\" for the French market"
+  "title": "L'urne mystérieuse plate with initials S.D.M. for the French market"
 }

@@ -2,8 +2,8 @@
   "accession_number": "2004.261.26",
   "artist": "China for export",
   "classification": "Ceramics",
-  "continent": "\"Asia\"",
-  "country": "\"China\"",
+  "continent": "Asia",
+  "country": "China",
   "creditline": "Gift of Leo and Doris Hodroff",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": null,
   "image_width": null,
   "inscription": "Stickers",
-  "life_date": "China for export",
+  "life_date": null,
   "markings": "on back: two collector's stickers",
   "medium": "Glazed porcelain",
+  "nationality": "Chinese",
   "object_name": "Famille rose Erotic figural group",
   "portfolio": null,
   "provenance": null,
@@ -29,5 +30,5 @@
   "signed": null,
   "style": "Chinese export",
   "text": null,
-  "title": "Famille rose \"Erotic\" figural group"
+  "title": "Famille rose Erotic figural group"
 }

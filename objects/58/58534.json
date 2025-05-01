@@ -1,9 +1,7 @@
 {
   "accession_number": "P.88.12.7",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano; publisher: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "VEL 6",
-  "classification": " Prints",
+  "artist": "Nicolas Africano; Publisher: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The Ethel Morrison Van Derlip Fund",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "15 5/8 x 8 in. (39.69 x 20.32 cm) (image)\r\n20 1/2 x 15 7/8 in. (52.07 x 40.32 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/58534",
+  "id": 58534,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 3918,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": "Print",
   "portfolio": null,
-  "provenance": "",
-  "restricted": 0,
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LR: [Nicholas Africano 1986]\r\nLL: [A/P 1/6]\r\nUC: [Protégée]",
-  "style": "20th century",
-  "text": "",
+  "style": null,
+  "text": null,
   "title": "Protégée"
 }

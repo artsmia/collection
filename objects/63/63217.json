@@ -1,9 +1,7 @@
 {
   "accession_number": "2002.210.1",
-  "art_champions_text": null,
-  "artist": "Manufacturer: Minton, Hollins &amp; Co., Stoke-on-Trent, Staffordshire, England",
-  "catalogue_raissonne": null,
-  "classification": " Ceramics",
+  "artist": "Manufacturer: Minton, Hollins & Co., Stoke-on-Trent, Staffordshire, England",
+  "classification": "Ceramics",
   "continent": "Europe",
   "country": "England",
   "creditline": "Gift of Dorothy B. Shannon",
@@ -11,11 +9,11 @@
   "curator_approved": 0,
   "dated": "c. 1875",
   "department": "European Art",
-  "description": "blue glaze; tondo containing scene of bearded man wearing a turban and sandals before a fire on a pedestal; urns with ribbons in corners; \"HIEMS\" at center bottom",
+  "description": "",
   "dimension": "8 x 8 x 3/8 in. (20.32 x 20.32 x 0.95 cm)",
-  "id": "http://api.artsmia.org/objects/63217",
+  "id": 63217,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 3429,
   "image_width": 3433,
   "inscription": "Mark",
@@ -25,16 +23,12 @@
   "nationality": null,
   "object_name": "Tile",
   "portfolio": null,
-  "provenance": "",
+  "provenance": null,
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "19th century",
-  "text": "",
-  "title": "\"Hiems\" tile"
+  "signed": null,
+  "style": null,
+  "text": null,
+  "title": "Hiems tile"
 }

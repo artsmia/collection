@@ -1,9 +1,7 @@
 {
   "accession_number": "P.79.83.1",
-  "art_champions_text": null,
-  "artist": "artist: Arakawa (Shusaku Arakawa)",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Arakawa (Shusaku Arakawa)",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Gift of Marguerite and Russell Cowles",
@@ -13,7 +11,7 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "23 5/8 x 35 1/2 in. (60.01 x 90.17 cm) (image)\r\n29 3/4 x 41 1/2 in. (75.57 x 105.41 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/66603",
+  "id": 66603,
   "image": "valid",
   "image_copyright": "© Estate Shusaku Arakawa",
   "image_height": 7282,
@@ -26,15 +24,11 @@
   "object_name": "Print",
   "portfolio": null,
   "provenance": "Multiples, Inc., New York; Marguerite and Russell, Cowles II, Minneapolis; given to MIA, 1979.",
-  "restricted": 1,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "20th century",
-  "text": "",
+  "signed": null,
+  "style": null,
+  "text": null,
   "title": "The Signified Or If"
 }

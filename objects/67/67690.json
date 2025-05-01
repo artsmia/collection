@@ -1,9 +1,7 @@
 {
   "accession_number": "P.79.97.3",
-  "art_champions_text": null,
-  "artist": "artist: Ann McCoy",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Ann McCoy",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "The Shark Foundation Fund",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1978",
   "department": "Global Contemporary Art",
-  "description": "in three parts",
+  "description": "",
   "dimension": "29 x 41 1/4 in. (73.66 x 104.78 cm) (sheet)",
-  "id": "http://api.artsmia.org/objects/67690",
+  "id": 67690,
   "image": "valid",
   "image_copyright": "© Ann McCoy",
   "image_height": 7067,
@@ -25,16 +23,12 @@
   "nationality": "American",
   "object_name": null,
   "portfolio": null,
-  "provenance": "",
-  "restricted": 1,
+  "provenance": null,
+  "restricted": 0,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "on sheet",
-  "style": "20th century",
-  "text": "",
-  "title": "Sea Serpents: Tractatus Aristoteles"
+  "style": null,
+  "text": null,
+  "title": "Sea Serpents:  Tractatus Aristoteles"
 }

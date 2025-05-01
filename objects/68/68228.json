@@ -1,9 +1,7 @@
 {
   "accession_number": "P.92.6.39.3",
-  "art_champions_text": null,
-  "artist": "artist: Nicolas Africano",
-  "catalogue_raissonne": null,
-  "classification": " Prints",
+  "artist": "Nicolas Africano",
+  "classification": "Prints",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, The John R. Van Derlip Fund",
@@ -11,9 +9,9 @@
   "curator_approved": 0,
   "dated": "1987–90",
   "department": "Global Contemporary Art",
-  "description": "Man in full view, wearing a wide rimmed hat and long pants; he faces forward in a chair; his body turned slightly; a cigarette in his PR hand; three sparrows at his feet; the words \"July Among Sparrows\" inscribed, UC",
+  "description": "",
   "dimension": "19 1/4 x 16 in. (48.9 x 40.64 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/68228",
+  "id": 68228,
   "image": "valid",
   "image_copyright": "© Nicolas Africano",
   "image_height": 3694,
@@ -24,17 +22,13 @@
   "medium": "Lithograph on handmade paper",
   "nationality": "American",
   "object_name": null,
-  "portfolio": "From Suite of 12 Prints, Working Proofs",
-  "provenance": "",
-  "restricted": 0,
+  "portfolio": "Suite of 12 Prints, Working Proofs",
+  "provenance": null,
+  "restricted": 1,
   "rights_type": "In Copyright–Educational Use",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
   "signed": "LC: [NA 1990]; LR: [W.P.]",
-  "style": "20th century",
-  "text": "",
-  "title": "Study for \"July Among Sparrows\", from the Portfolio \"Lilacs and Smoke\""
+  "style": null,
+  "text": null,
+  "title": "Study for July Among Sparrows, from the Portfolio Lilacs and Smoke"
 }

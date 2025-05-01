@@ -1,9 +1,7 @@
 {
   "accession_number": "P.83.59.22",
-  "art_champions_text": null,
-  "artist": "artist: Allan D'Arcangelo; printer: Vermillion Editions Limited, Minneapolis",
-  "catalogue_raissonne": "see VEL 72",
-  "classification": " Prints; Collages / Assemblages",
+  "artist": "Allan D'Arcangelo; Printer: Vermillion Editions Limited, Minneapolis",
+  "classification": "Prints, Collages / Assemblages",
   "continent": "Americas",
   "country": "United States",
   "creditline": "Vermillion Archival Collection, Gift of funds from The Northern Star Foundation and The Hersey Foundation",
@@ -13,13 +11,13 @@
   "department": "Global Contemporary Art",
   "description": "",
   "dimension": "18 x 31 in. (45.72 x 78.74 cm) (image, sheet)",
-  "id": "http://api.artsmia.org/objects/58631",
+  "id": 58631,
   "image": "valid",
-  "image_copyright": "© Estate Allan D%27Arcangelo %2F Licensed by VAGA at Artists Rights Society %28ARS%29%2C NY",
+  "image_copyright": "© Estate Allan D'Arcangelo / Licensed by VAGA at Artists Rights Society (ARS), NY",
   "image_height": 2301,
   "image_width": 3906,
-  "inscription": "",
-  "life_date": "American, 1930-1998",
+  "inscription": null,
+  "life_date": "American, 1930–1998",
   "markings": "Inscriobed and numbered in pencil, LL: State Proof 8/15",
   "medium": "Color screenprint with paper collage element",
   "nationality": "American",
@@ -28,14 +26,9 @@
   "provenance": "Vermillion Editions Limited, Minneapolis; sold to MIA, 1983.",
   "restricted": 1,
   "rights_type": "In Copyright",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    "58631",
-    "7625"
-  ],
-  "signed": "Signed in pencil, LR: Allan D\\'Arcangelo",
-  "style": "20th century",
-  "text": "",
-  "title": "State proof for background of \"Minnesota Morning\""
+  "signed": "Signed in pencil, LR: Allan D'Arcangelo",
+  "style": null,
+  "text": null,
+  "title": "State proof for background of Minnesota Morning"
 }

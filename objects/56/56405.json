@@ -1,9 +1,7 @@
 {
-  "accession_number": "P.11,013",
-  "art_champions_text": null,
-  "artist": "Artist: Hanns Lautensack",
-  "catalogue_raissonne": "B.ix..55?, 227; Holl. 41; N. 56",
-  "classification": " Prints",
+  "accession_number": "P.11, 013",
+  "artist": "Hanns Lautensack",
+  "classification": "Prints",
   "continent": "Europe",
   "country": "Germany",
   "creditline": "Gift of Herschel V. Jones, 1927",
@@ -13,9 +11,9 @@
   "department": "European Art",
   "description": "",
   "dimension": "7 5/8 x 11 9/16 in. (19.37 x 29.37 cm) (plate)",
-  "id": "http://api.artsmia.org/objects/56405",
+  "id": 56405,
   "image": "valid",
-  "image_copyright": "",
+  "image_copyright": null,
   "image_height": 2366,
   "image_width": 3540,
   "inscription": "Mark",
@@ -28,13 +26,9 @@
   "provenance": "G.W. Brooke, Lugt 1138a",
   "restricted": 0,
   "rights_type": "Public Domain",
-  "role": "Artist",
   "room": "Not on View",
-  "see_also": [
-    ""
-  ],
-  "signed": "",
-  "style": "16th century",
-  "text": "",
+  "signed": null,
+  "style": null,
+  "text": null,
   "title": "Balaam and the Angel"
 }

@@ -2,8 +2,8 @@
   "accession_number": "82.45.1",
   "artist": "China (Jingdezhen)",
   "classification": "Ceramics",
-  "continent": "\"Asia\"",
-  "country": "\"China\"",
+  "continent": "Asia",
+  "country": "China",
   "creditline": "Gift of Thomas A. Jamieson",
   "culture": null,
   "curator_approved": 0,
@@ -17,9 +17,10 @@
   "image_height": 3906,
   "image_width": 3903,
   "inscription": null,
-  "life_date": "China (Jingdezhen)",
+  "life_date": null,
   "markings": null,
   "medium": "Porcelain",
+  "nationality": "Chinese",
   "object_name": null,
   "portfolio": null,
   "provenance": null,
@@ -28,6 +29,6 @@
   "room": "Not on View",
   "signed": null,
   "style": null,
-  "text": "This scene of Christ's birth comes from a New Testament illustration by Dutch artist Jan Luyken.  Most likely an engraving of the design was sent by ship to China, where this plate was made for the Dutch market.  In addition to the Nativity, Chinese painters adapted Luyken's illustrations of the Crucifixion, Resurrection, and Ascension for various export goods.  ",
-  "title": "\"Nativity\" plate"
+  "text": "This scene of Christ's birth comes from a New Testament illustration by Dutch artist Jan Luyken.  Most likely an engraving of the design was sent by ship to China, where this plate was made for the Dutch market.  In addition to the Nativity, Chinese painters adapted Luyken's illustrations of the Crucifixion, Resurrection, and Ascension for various export goods.",
+  "title": "Nativity plate"
 }
