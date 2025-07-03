@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "060000\\300\\00\\60307",
   "Catalog_Raisonne": "Masterpieces from the Japanese painting collection of the Minneapolis Institute of Art\r\nミネアポリス美術館 日本絵画の名品 Cat.52",
+  "Primary_RenditionNumber": "mia_7021713.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "P.13, 734",
   "artist": "Sharaku; Publisher: Tsutaya Jūzaburō",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1794, 7th lunar month",
   "department": "Asian Art",
   "dimension": "12 5/16 × 5 9/16 in. (31.2 × 14.2 cm) (image, hosoban)",
+  "highlights": 0,
   "id": 60307,
   "image": "valid",
   "image_copyright": null,

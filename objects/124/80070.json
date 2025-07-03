@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\000\\70\\80070",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.40.1a",
   "artist": "Georges Auriol (Jean-Georges Huyot); Publisher: Librairie Centrale des Beaux-Arts, Paris",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1901",
   "department": "European Art",
   "dimension": "7 1/2 x 5 7/8 in. (19.05 x 14.92 cm)",
+  "highlights": 0,
   "id": 80070,
   "image": "invalid",
   "image_copyright": null,

@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "055000\\800\\00\\55809",
   "Catalog_Raisonne": "NHD 45 iii/v; B.25, 363; R-T.25 iii a/v; Holl.25 iii/vi",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.969",
   "artist": "Adriaen van Ostade",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1684",
   "department": "European Art",
   "dimension": "3 11/16 x 3 in. (9.37 x 7.62 cm) (plate)",
+  "highlights": 0,
   "id": 55809,
   "image": "invalid",
   "image_copyright": null,

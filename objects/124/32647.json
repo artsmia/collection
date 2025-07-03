@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "032000\\600\\40\\32647",
   "Catalog_Raisonne": "Duthuit 'Ouvrages Illustres' 41; The Artist and the Book 195; Skira 255",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.91.5.51",
   "artist": "Henri Matisse; Author: Pierre Reverdy; Publisher: Belle édition",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1918",
   "department": "European Art",
   "dimension": "10 x 8 3/4in. (25.4 x 22.2cm)",
+  "highlights": 0,
   "id": 32647,
   "image": "invalid",
   "image_copyright": null,

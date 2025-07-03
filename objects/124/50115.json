@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\100\\10\\50115",
   "Catalog_Raisonne": "K.111",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.68.360",
   "artist": "Otto Mueller",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1921",
   "department": "European Art",
   "dimension": "11 5/16 x 15 1/4 in. (28.73 x 38.74 cm) (image)",
+  "highlights": 0,
   "id": 50115,
   "image": "invalid",
   "image_copyright": null,

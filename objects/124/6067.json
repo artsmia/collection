@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "006000\\000\\60\\6067",
   "Catalog_Raisonne": "Boston 196, Ref. no. 196 in The Artist and the Book",
+  "Primary_RenditionNumber": "mia_34500a.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "B.81.13.4",
   "artist": "Henri Matisse; Author: Stéphane Mallarmé; Publisher: Albert Skira & Cie, Lausanne; Printer: Léon Pichon, (text); Etcher: Atelier Roger Lacourière, Paris, France",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1932",
   "department": "European Art",
   "dimension": "13 x 10 in. (33.02 x 25.4 cm) (single book page)",
+  "highlights": 0,
   "id": 6067,
   "image": "valid",
   "image_copyright": null,

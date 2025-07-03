@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\400\\00\\80406",
   "Catalog_Raisonne": "Benezit",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.87.4.34",
   "artist": "Engraver: Henri Philipe Heidemans; Auguste Hervieu; Publisher: Treuttel and Würtz and Richter, London; Printer: Howlett and Brimmer, London; Printer: A. Ducote's General Printing, (engravings)",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1833",
   "department": "European Art",
   "dimension": "9 1/2 x 6 1/8 in. (24.13 x 15.56 cm)",
+  "highlights": 0,
   "id": 80406,
   "image": "invalid",
   "image_copyright": null,

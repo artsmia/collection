@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\000\\20\\80022",
   "Catalog_Raisonne": "Colas 3080\r\nLipperheide 4788",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.21, 006",
   "artist": "Austria (Vienna)",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1816–44",
   "department": "European Art",
   "dimension": null,
+  "highlights": 0,
   "id": 80022,
   "image": "invalid",
   "image_copyright": null,

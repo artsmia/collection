@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\200\\10\\50217",
   "Catalog_Raisonne": "K3834",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.10, 373",
   "artist": "Auguste Louis Lepère",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1875",
   "department": "European Art",
   "dimension": "3 5/8 x 2 3/4 in. (9.21 x 6.99 cm) (image)\r\n5 1/4 x 3 15/16 in. (13.34 x 10 cm) (sheet)",
+  "highlights": 0,
   "id": 50217,
   "image": "invalid",
   "image_copyright": null,

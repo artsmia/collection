@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\700\\40\\80745",
   "Catalog_Raisonne": "Dube 808 iv, 808-831",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.81.6",
   "artist": "Ernst Ludwig Kirchner; Author: Jakob Bosshart; Publisher: Verlag von Grethlein & Co., Zürich & Leipzig",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1923",
   "department": "European Art",
   "dimension": "7 13/16 x 5 1/4 in. (19.84 x 13.34 cm)",
+  "highlights": 0,
   "id": 80745,
   "image": "invalid",
   "image_copyright": null,

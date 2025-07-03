@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "048000\\100\\40\\48143",
   "Catalog_Raisonne": "Mahérault 71\r\nBocher 202 ii/iii",
+  "Primary_RenditionNumber": "mia_2007110.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "2001.96.2",
   "artist": "Jean-Michel Moreau le Jeune",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1782",
   "department": "European Art",
   "dimension": "20 5/8 x 30 1/16 in. (52.39 x 76.36 cm) (image, sheet, trimmed within platemark)",
+  "highlights": 0,
   "id": 48143,
   "image": "valid",
   "image_copyright": null,

@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\900\\00\\80900",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.79.165.1",
   "artist": "Arnulf Rainer; Author: J.W.M. Willett; Publisher: Edition Hansjörg Mayer, Stuttgart, London, Reykjavik; Publisher: Eaton House Publishers, Ltd., London",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1978",
   "department": "Global Contemporary Art",
   "dimension": "9 1/4 x 7 in. (23.5 x 17.78 cm)\r\n9 x 6 3/8 in. (22.86 x 16.19 cm) (image)",
+  "highlights": 0,
   "id": 80900,
   "image": "invalid",
   "image_copyright": "© Arnulf Rainer",

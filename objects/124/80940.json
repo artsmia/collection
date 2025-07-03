@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\900\\40\\80940",
   "Catalog_Raisonne": "add",
+  "Primary_RenditionNumber": "mia_45020a.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "P.75.51.329",
   "artist": "Utagawa Kunisada; Publisher: Sanoya Kihei",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "c. 1832",
   "department": "Asian Art",
   "dimension": "28 3/8 × 9 5/8 in. (72.1 × 24.5 cm) (image, sheet, kakemono-e)",
+  "highlights": 0,
   "id": 80940,
   "image": "valid",
   "image_copyright": null,

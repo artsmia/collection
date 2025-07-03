@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "007000\\200\\40\\7245",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.11, 727",
   "artist": "George Catlin",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1844",
   "department": "Arts of the Americas",
   "dimension": "17 11/16 x 12 1/4 in. (44.93 x 31.12 cm) (image)\r\n22 5/16 x 15 3/16 in. (56.67 x 38.58 cm) (sheet)",
+  "highlights": 0,
   "id": 7245,
   "image": "invalid",
   "image_copyright": null,

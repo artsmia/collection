@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "082000\\100\\20\\82123",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "81.76.29",
   "artist": "Photographer: Eadweard Muybridge; Publisher: University of Pennsylvania",
   "classification": "Photographs",
@@ -11,6 +14,7 @@
   "dated": "1887",
   "department": "Arts of the Americas",
   "dimension": "6 9/16 x 16 3/4 in. (16.67 x 42.55 cm) (image)\r\n18 9/16 x 23 1/2 in. (47.15 x 59.69 cm) (sheet)",
+  "highlights": 0,
   "id": 82123,
   "image": "invalid",
   "image_copyright": null,

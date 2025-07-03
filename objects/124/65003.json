@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "065000\\000\\00\\65003",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.98.12.96",
   "artist": "Francis Bedmore; Author: Owen Jones; Publisher: Day and Son, London",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1856",
   "department": "European Art",
   "dimension": "17 15/16 x 11 7/8 in. (45.56 x 30.16 cm) (plate)\r\n11 7/8 x 14 5/8 in. (30.16 x 37.15 cm) (sheet)",
+  "highlights": 0,
   "id": 65003,
   "image": "invalid",
   "image_copyright": null,

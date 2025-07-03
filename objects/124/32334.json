@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "032000\\300\\30\\32334",
   "Catalog_Raisonne": "Bouvet 90; Rauch 26; Vollard 169; The Artist and the Book 30; Anthology du livre illustre 26",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.82.8",
   "artist": "Pierre Bonnard; Author: Octave Mirbeau; Publisher: Ambroise Vollard; Printer: Louis Fort, Paris, France, etchings; Printer: Émile Fequet, type",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1924",
   "department": "European Art",
   "dimension": "14 3/4 x 10 7/8 in. (37.47 x 27.62 cm)",
+  "highlights": 0,
   "id": 32334,
   "image": "invalid",
   "image_copyright": null,

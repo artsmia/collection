@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "003000\\300\\00\\3300",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "84.68",
   "artist": "France",
   "classification": "Textiles",
@@ -11,6 +14,7 @@
   "dated": "c. 1700",
   "department": "European Art",
   "dimension": "96 x 19 1/2 in. (243.84 x 49.53 cm)",
+  "highlights": 0,
   "id": 3300,
   "image": "invalid",
   "image_copyright": null,

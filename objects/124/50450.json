@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\400\\50\\50450",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.12, 639",
   "artist": "Jacques Beurdeley; Publisher: Edmond Sagot",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "19th century",
   "department": "European Art",
   "dimension": "8 7/16 x 11 11/16 in. (21.43 x 29.69 cm) (plate)\r\n11 5/16 x 17 1/4 in. (28.73 x 43.82 cm) (sheet)",
+  "highlights": 0,
   "id": 50450,
   "image": "invalid",
   "image_copyright": null,

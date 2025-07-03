@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\000\\00\\50002",
   "Catalog_Raisonne": "LD 186; \r\nBN 185",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.58.643",
   "artist": "Gustave Leheutre",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1930",
   "department": "European Art",
   "dimension": "5 1/4 x 9 1/4 in. (13.34 x 23.5 cm) (sheet)\r\n8 1/2 x 13 in. (21.59 x 33.02 cm) (sheet)",
+  "highlights": 0,
   "id": 50002,
   "image": "invalid",
   "image_copyright": null,

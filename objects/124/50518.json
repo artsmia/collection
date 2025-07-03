@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\500\\10\\50518",
   "Catalog_Raisonne": "Van Gelder 143: Neumann 36; Biblthothèque Nationale 69; Boone 108",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.82.1",
   "artist": "Rodolphe Bresdin",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1880 (printed after 1885)",
   "department": "European Art",
   "dimension": "5 1/8 x 6 in. (13.02 x 15.24 cm) (plate)\r\n9 9/16 x 12 1/8 in. (24.29 x 30.8 cm) (sheet)",
+  "highlights": 0,
   "id": 50518,
   "image": "invalid",
   "image_copyright": null,

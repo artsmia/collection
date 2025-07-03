@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\100\\00\\50106",
   "Catalog_Raisonne": "Lotz-Brissonneau 202",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.12, 743",
   "artist": "Auguste Louis Lepère",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1889",
   "department": "European Art",
   "dimension": "4 7/8 x 7 7/8 in. (12.38 x 20 cm) (image)\r\n10 9/16 x 13 5/16 in. (26.83 x 33.81 cm) (sheet)",
+  "highlights": 0,
   "id": 50106,
   "image": "invalid",
   "image_copyright": null,

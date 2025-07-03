@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "083000\\900\\10\\83911",
   "Catalog_Raisonne": "La Combe 525",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "2003.253.1",
   "artist": "Nicolas-Toussaint Charlet",
   "classification": "Prints, Drawings",
@@ -11,6 +14,7 @@
   "dated": "1823",
   "department": "European Art",
   "dimension": "6 3/4 x 5 7/16 in. (17.15 x 13.81 cm) (image, sheet)\r\n7 9/16 x 6 5/16 in. (19.21 x 16.03 cm) (sheet, mount)",
+  "highlights": 0,
   "id": 83911,
   "image": "invalid",
   "image_copyright": null,

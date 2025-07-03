@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "001000\\200\\20\\1224",
   "Catalog_Raisonne": "Gordon, 123.",
+  "Primary_RenditionNumber": "mia_5026038.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "52.12",
   "artist": "Ernst Ludwig Kirchner",
   "classification": "Paintings",
@@ -11,6 +14,7 @@
   "dated": "1910 (altered 1920)",
   "department": "European Art",
   "dimension": "31 3/4 x 35 7/8 in. (80.6 x 91.1 cm) (canvas)\r\n40 3/4 x 45 x 2 3/16 in. (103.51 x 114.3 x 5.56 cm) (outer frame)",
+  "highlights": 0,
   "id": 1224,
   "image": "valid",
   "image_copyright": null,

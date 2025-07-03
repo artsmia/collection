@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "065000\\700\\20\\65724",
   "Catalog_Raisonne": "Fischer 12 iv/v;\r\nBeraldi 12;\r\nSandoz 277",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.99.19.7",
   "artist": "Théodore Chassériau",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1844",
   "department": "European Art",
   "dimension": "9 5/16 x 12 5/8 in. (23.65 x 32.07 cm) (image)\r\n10 3/8 x 14 3/8 in. (26.35 x 36.51 cm) (plate)\r\n15 3/4 x 21 5/16 in. (40.01 x 54.13 cm) (sheet)",
+  "highlights": 0,
   "id": 65724,
   "image": "invalid",
   "image_copyright": null,

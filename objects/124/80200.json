@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "080000\\200\\00\\80200",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.87.4.26",
   "artist": "Gay Zhenya; Author: Oscar Wilde; Publisher: The Limited Editions Club; Printer: The Harbor Press, New York, (text); Printer: George C. Miller, (prints)",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1937",
   "department": "Arts of the Americas",
   "dimension": "11 3/16 x 7 1/2 in. (28.42 x 19.05 cm)",
+  "highlights": 0,
   "id": 80200,
   "image": "invalid",
   "image_copyright": "© 1937 The Limited Editions Club",

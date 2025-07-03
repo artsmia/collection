@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "032000\\600\\20\\32621",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "B.96.4.1",
   "artist": "Elihu Vedder; Author: Omar Khayyám; Translator: Edward FitzGerald; Publisher: Houghton Mifflin Harcourt",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1884",
   "department": "Arts of the Americas",
   "dimension": "15 3/4 x 12 7/8 x 1 1/4in. (40 x 32.7 x 3.2cm)",
+  "highlights": 0,
   "id": 32621,
   "image": "invalid",
   "image_copyright": null,

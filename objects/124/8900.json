@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "008000\\900\\00\\8900",
   "Catalog_Raisonne": "Boston 78; MOMA 52; Skira 81; Rauch 31; Ray 388",
+  "Primary_RenditionNumber": "mia_1015378.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "B.81.12",
   "artist": "André Derain; Author: Guillaume Apollinaire; Publisher: Henry Kahnweiler, Paris, France; Printer: Paul Birault, Paris",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "1909",
   "department": "European Art",
   "dimension": "10 1/2 x 8 in. (26.67 x 20.32 cm)",
+  "highlights": 0,
   "id": 8900,
   "image": "valid",
   "image_copyright": null,

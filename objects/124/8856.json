@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "008000\\800\\50\\8856",
   "Catalog_Raisonne": "Boston 202\r\nRauch 174\r\nStern 73\r\nCramer 36\r\nBarr 272-273",
+  "Primary_RenditionNumber": "mia_4447b.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "B.75.3",
   "artist": "Henri Matisse; Author: Charles d'Orléans; Publisher: Tériade, Paris, France; Printer: Mourlot Freres, Paris",
   "classification": "Books",
@@ -11,6 +14,7 @@
   "dated": "February 25, 1950",
   "department": "European Art",
   "dimension": "16 x 10 3/8 in. (40.64 x 26.35 cm)",
+  "highlights": 0,
   "id": 8856,
   "image": "valid",
   "image_copyright": null,

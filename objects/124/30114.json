@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "030000\\100\\10\\30114",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "98.1.123",
   "artist": "Akan artist",
   "classification": "Metalwork",
@@ -11,6 +14,7 @@
   "dated": "19th-20th century",
   "department": "Arts of Global Africa",
   "dimension": "11/16 x 1 7/16 x 1 1/2 in. (1.75 x 3.65 x 3.81 cm)",
+  "highlights": 0,
   "id": 30114,
   "image": "invalid",
   "image_copyright": null,

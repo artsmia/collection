@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "050000\\000\\20\\50021",
   "Catalog_Raisonne": "Benezit\r\nNagler\r\nT-B",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.81.38.1",
   "artist": "Carl Ludwig Frommel",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1842",
   "department": "European Art",
   "dimension": "6 1/2 x 8 5/8 in. (16.51 x 21.91 cm) (image)\r\n9 1/4 x 11 5/8 in. (23.5 x 29.53 cm) (plate)",
+  "highlights": 0,
   "id": 50021,
   "image": "invalid",
   "image_copyright": null,

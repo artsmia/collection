@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "000000\\100\\00\\101",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "16.51",
   "artist": "Egypt",
   "classification": "Sculpture",
@@ -11,6 +14,7 @@
   "dated": "1320–656 BCE",
   "department": "Arts of Global Africa",
   "dimension": "3 3/8 x 1 5/16 in. (8.57 x 3.33 cm)",
+  "highlights": 0,
   "id": 101,
   "image": "invalid",
   "image_copyright": null,
