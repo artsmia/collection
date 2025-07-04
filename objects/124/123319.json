@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "123000\\300\\10\\123319",
   "Catalog_Raisonne": "New Hollstein (Dutch & Flemish) 241 ( Van Dyck; copy undescribed)\r\nNew Hollstein (Dutch & Flemish) 27 (Van Dyck; copy undescribed)\r\nNew Hollstein (Dutch & Flemish) 340.1 (Van Dyck)",
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.47.544",
   "artist": "Painter: After Anthony van Dyck; Engraver: After Paul Pontius (Du Pont); Engraver: After Peter de Jode, the Younger; Publisher: Balthasar Moncornet",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1645–88",
   "department": "European Art",
   "dimension": "7 1/8 × 5 3/8 in. (18.1 × 13.65 cm) (image, sheet)\r\n11 15/16 × 9 3/4 in. (30.32 × 24.77 cm) (mount)",
+  "highlights": 0,
   "id": 123319,
   "image": "invalid",
   "image_copyright": null,

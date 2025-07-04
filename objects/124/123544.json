@@ -1,5 +1,8 @@
 {
+  "Cache_Location": "123000\\500\\40\\123544",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": null,
+  "Rights_Image_Display": null,
   "accession_number": "P.47.596",
   "artist": "Engraver: Robert Blyth; Painter: Charles Parrocel",
   "classification": "Prints",
@@ -11,6 +14,7 @@
   "dated": "1827",
   "department": "European Art",
   "dimension": "6 1/2 × 4 15/16 in. (16.51 × 12.54 cm) (image)\r\n11 15/16 × 9 3/8 in. (30.32 × 23.81 cm) (sheet)",
+  "highlights": 0,
   "id": 123544,
   "image": "invalid",
   "image_copyright": null,
