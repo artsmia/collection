@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G342",
-  "see_also": "18283",
+  "see_also": [
+    "18283"
+  ],
   "signed": "At lower center: 1518",
   "sort_number": "57    11",
   "style": null,

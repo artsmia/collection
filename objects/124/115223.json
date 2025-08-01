@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "53108, 53110",
+  "see_also": [
+    "53108",
+    "53110"
+  ],
   "signed": "LRQ, in the print: [(butterfly symbol)]",
   "sort_number": "2013    35  722",
   "style": null,

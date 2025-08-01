@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "63133, 61175",
+  "see_also": [
+    "63133",
+    "61175"
+  ],
   "signed": "Hiroshige hitsu 広重筆",
   "sort_number": "P         75   51  381",
   "style": null,

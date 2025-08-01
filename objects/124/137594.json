@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "139617, 139646, 140804, 140806",
+  "see_also": [
+    "139617",
+    "139646",
+    "140804",
+    "140806"
+  ],
   "signed": "LR margin in pencil: Carolyn Joy Swiszcz 2017",
   "sort_number": "2020    85  131",
   "style": null,

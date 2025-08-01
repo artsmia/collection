@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "28656, 117587",
+  "see_also": [
+    "28656",
+    "117587"
+  ],
   "signed": "LRC: [遠志] {Tōshi}",
   "sort_number": "87    85   84",
   "style": null,

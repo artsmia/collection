@@ -36,7 +36,13 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "116635, 116636, 116638, 116639, 118580",
+  "see_also": [
+    "116635",
+    "116636",
+    "116638",
+    "116639",
+    "118580"
+  ],
   "signed": "LLC, below plate, in pencil: [Salus Infirmanum]",
   "sort_number": "2013    70    4",
   "style": null,

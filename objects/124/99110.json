@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "99111",
+  "see_also": [
+    "99111"
+  ],
   "signed": "on back at bottom edge, in pencil: [ABANDONED FARM HOUSE, MAPLETON, MINNESOTA, 1986  Will AGAR @ late 80's]",
   "sort_number": "2006    14    6",
   "style": null,

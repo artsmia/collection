@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "132451",
+  "see_also": [
+    "132451"
+  ],
   "signed": "LLC: 遠志 {Tōshi}",
   "sort_number": "2013    29  467",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "3184",
+  "see_also": [
+    "3184"
+  ],
   "signed": "LR: Steven J. Beyer 78",
   "sort_number": "P         83   59   12",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "55696",
+  "see_also": [
+    "55696"
+  ],
   "signed": null,
   "sort_number": "P          2  543",
   "style": null,

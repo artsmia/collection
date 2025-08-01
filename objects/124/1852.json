@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "98520",
+  "see_also": [
+    "98520"
+  ],
   "signed": "LR in red: [Albert Gleizes 13]",
   "sort_number": "71    26",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "121368",
+  "see_also": [
+    "121368"
+  ],
   "signed": "LRC, in pencil: [Scholder]",
   "sort_number": "2014   149   56",
   "style": null,

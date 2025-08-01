@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9183",
+  "see_also": [
+    "9183"
+  ],
   "signed": "広重画 {Hiroshige ga}",
   "sort_number": "P         75   51  384",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G350",
-  "see_also": "109578",
+  "see_also": [
+    "109578"
+  ],
   "signed": null,
   "sort_number": "2010    29    2",
   "style": null,

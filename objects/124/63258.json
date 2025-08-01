@@ -36,7 +36,13 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "61291, 37537, 9164, 22722, 60816",
+  "see_also": [
+    "61291",
+    "37537",
+    "9164",
+    "22722",
+    "60816"
+  ],
   "signed": "{Hiroshige ga}",
   "sort_number": "17   205   29",
   "style": null,

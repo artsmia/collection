@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "115547, 115548",
+  "see_also": [
+    "115547",
+    "115548"
+  ],
   "signed": "LRC, in the print: [A MES AMIS / en Souvenir DU / HUIT MAI / MCMXXII / A. Lepère]; LRC below image, in pencil: [en fémoignage (?) d'amitié / A Lepère]",
   "sort_number": "2013    35  636",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "111761",
+  "see_also": [
+    "111761"
+  ],
   "signed": "LRC, in pencil: geography lesson 9 ghost  M Y L  1999",
   "sort_number": "2011    38    2    2",
   "style": null,

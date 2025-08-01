@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Designer",
   "room": "G357",
-  "see_also": "2037",
+  "see_also": [
+    "2037"
+  ],
   "signed": null,
   "sort_number": "74    27    1a    e",
   "style": null,

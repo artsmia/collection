@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "19662, 22818, 38167",
+  "see_also": [
+    "19662",
+    "22818",
+    "38167"
+  ],
   "signed": "see Inscription",
   "sort_number": "2013    35  417",
   "style": null,

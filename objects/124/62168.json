@@ -36,7 +36,12 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9171, 22572, 61710, 61709",
+  "see_also": [
+    "9171",
+    "22572",
+    "61710",
+    "61709"
+  ],
   "signed": "Hiroshige ga {広重画}",
   "sort_number": "P         75   51  484",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "139196, 139197, 139198",
+  "see_also": [
+    "139196",
+    "139197",
+    "139198"
+  ],
   "signed": "LL in pencil below image: MARY ESCH | LR in pencil below image: 2003 | BC in pencil below image: THREE QUESTIONS IV",
   "sort_number": "2020    85   42    4",
   "style": null,

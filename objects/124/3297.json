@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "1922",
+  "see_also": [
+    "1922"
+  ],
   "signed": null,
   "sort_number": "84    56    1",
   "style": null,

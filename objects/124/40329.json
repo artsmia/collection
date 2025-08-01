@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "7805",
+  "see_also": [
+    "7805"
+  ],
   "signed": "Signed on the stone, LL: Mucha",
   "sort_number": "P         98   33    7",
   "style": null,

@@ -36,7 +36,13 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "54846, 54857, 54865, 7252, 54882",
+  "see_also": [
+    "54846",
+    "54857",
+    "54865",
+    "7252",
+    "54882"
+  ],
   "signed": null,
   "sort_number": "P         12  171",
   "style": null,

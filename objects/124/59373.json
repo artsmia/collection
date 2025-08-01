@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59374",
+  "see_also": [
+    "59374"
+  ],
   "signed": "LR: Kn Thurlbeck '85",
   "sort_number": "P         87   12    9",
   "style": null,

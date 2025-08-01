@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59186, 59172, 59174, 59184",
+  "see_also": [
+    "59186",
+    "59172",
+    "59174",
+    "59184"
+  ],
   "signed": "LL: [working proof]\r\nLR: [Steven Sorman]\r\nLower center (within arrow): [THE/FIRST/BUILDING/PROJECT/ACCORDING/TO WHAT PLAN/IN 1977 (LATE)]",
   "sort_number": "P         83   59   95",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "62441",
+  "see_also": [
+    "62441"
+  ],
   "signed": "LRC: 巴水 {Hasui}",
   "sort_number": "P         77   28   13",
   "style": null,

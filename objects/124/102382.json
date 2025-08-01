@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "101645",
+  "see_also": [
+    "101645"
+  ],
   "signed": "on mount below image in pencil: [FRED SCHEEL]",
   "sort_number": "2007    35  426",
   "style": null,

@@ -36,7 +36,12 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "18945, 18946, 18948, 19003",
+  "see_also": [
+    "18945",
+    "18946",
+    "18948",
+    "19003"
+  ],
   "signed": "Lower center: [Röll fec]",
   "sort_number": "66    25  143",
   "style": null,

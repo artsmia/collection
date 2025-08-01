@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Maker",
   "room": "Not on View",
-  "see_also": "25248, 25249",
+  "see_also": [
+    "25248",
+    "25249"
+  ],
   "signed": null,
   "sort_number": "P         96    2",
   "style": null,

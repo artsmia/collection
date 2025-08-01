@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "9141, 100203",
+  "see_also": [
+    "9141",
+    "100203"
+  ],
   "signed": "on mount below image in pencil: [H. GILPIN]; on verso in center in black copyright stamp with exposure date [1991], print date [1992], and artist's file number",
   "sort_number": "2007    35  103",
   "style": null,

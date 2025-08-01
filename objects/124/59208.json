@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59210, 59211",
+  "see_also": [
+    "59210",
+    "59211"
+  ],
   "signed": "LR: [Steven Sorman / on 1.4.79]\r\nLR: [ap 6/6]\r\nLR: [the explanation / of this]\r\nLR: Artist's Stamp in red ink\r\nLR: VEL Chop Mark",
   "sort_number": "P         83   59   74",
   "style": null,

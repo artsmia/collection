@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G243",
-  "see_also": "123248",
+  "see_also": [
+    "123248"
+  ],
   "signed": "LR in black (on rug): J. L. GEROME",
   "sort_number": "70    40",
   "style": null,

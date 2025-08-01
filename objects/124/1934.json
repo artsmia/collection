@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "112464, 90734",
+  "see_also": [
+    "112464",
+    "90734"
+  ],
   "signed": "LR in vermillion: ..55 G.COURBET",
   "sort_number": "72    66",
   "style": null,

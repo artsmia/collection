@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "89780",
+  "see_also": [
+    "89780"
+  ],
   "signed": "Jun Sekino",
   "sort_number": "P         76   33   19",
   "style": null,

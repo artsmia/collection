@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "101514, 99643",
+  "see_also": [
+    "101514",
+    "99643"
+  ],
   "signed": "on mount below image, right, in pencil: [ROBERT K. BEYERS 1982]",
   "sort_number": "2007    35  358   11",
   "style": null,

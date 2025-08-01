@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "112636, 112637",
+  "see_also": [
+    "112636",
+    "112637"
+  ],
   "signed": "LLC, in pencil: [RH]",
   "sort_number": "2012    61   34",
   "style": null,

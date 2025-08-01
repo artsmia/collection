@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Photographer",
   "room": "G365",
-  "see_also": "20111",
+  "see_also": [
+    "20111"
+  ],
   "signed": null,
   "sort_number": "74    39   27",
   "style": null,

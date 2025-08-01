@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "48840",
+  "see_also": [
+    "48840"
+  ],
   "signed": "in the block, LC: [PB (intertwined)]",
   "sort_number": "P         98   33   54",
   "style": null,

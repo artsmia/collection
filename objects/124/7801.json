@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "7483",
+  "see_also": [
+    "7483"
+  ],
   "signed": "Signed in pencil, verso; Andy Warhol",
   "sort_number": "P         90   28    8",
   "style": null,

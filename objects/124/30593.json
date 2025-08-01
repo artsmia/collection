@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "102130",
+  "see_also": [
+    "102130"
+  ],
   "signed": null,
   "sort_number": "98   144   36",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Designer",
   "room": "G350",
-  "see_also": "21149",
+  "see_also": [
+    "21149"
+  ],
   "signed": null,
   "sort_number": "76    45    2",
   "style": null,

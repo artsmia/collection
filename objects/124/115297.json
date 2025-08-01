@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "99556",
+  "see_also": [
+    "99556"
+  ],
   "signed": "LRC on mount below image, in pencil: [Wynn Bullock]; on back of mount, in pencil: [365A - The Forest]",
   "sort_number": "2013    35  563",
   "style": null,

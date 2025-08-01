@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Designer",
   "room": "Not on View",
-  "see_also": "9967, 9969",
+  "see_also": [
+    "9967",
+    "9969"
+  ],
   "signed": null,
   "sort_number": "98   273    9",
   "style": null,

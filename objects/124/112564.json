@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "112565, 112566",
+  "see_also": [
+    "112565",
+    "112566"
+  ],
   "signed": "LRC, in the print: [RH]",
   "sort_number": "2012    61    7",
   "style": null,

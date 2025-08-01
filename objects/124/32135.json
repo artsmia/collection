@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "9123",
+  "see_also": [
+    "9123"
+  ],
   "signed": "Along top edge, verso, in graphite: 3-1-92 Vendor, Acapulco, 1992 David Parker",
   "sort_number": "99   233   57",
   "style": null,

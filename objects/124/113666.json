@@ -13,7 +13,7 @@
   "culture": null,
   "curator_approved": 0,
   "dated": "1893",
-  "department": "Prints and Drawings",
+  "department": "European Art",
   "dimension": "17 3/4 x 10 in. (45.09 x 25.4 cm) (sheet)\r\n23 x 15 3/8 in. (58.42 x 39.05 cm) (mat)",
   "dynasty": null,
   "highlights": 0,
@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "113664",
+  "see_also": [
+    "113664"
+  ],
   "signed": "Lower right in blue pencil: ALepère 63",
   "sort_number": "2013    35  581",
   "style": null,

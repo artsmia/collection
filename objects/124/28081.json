@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "105078, 28082",
+  "see_also": [
+    "105078",
+    "28082"
+  ],
   "signed": "signed, titled, and dated verso",
   "sort_number": "92    48    1",
   "style": null,

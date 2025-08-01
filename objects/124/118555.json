@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "118556",
+  "see_also": [
+    "118556"
+  ],
   "signed": "LRC of plate, in engraving: [Austin]",
   "sort_number": "2013    70   26",
   "style": null,

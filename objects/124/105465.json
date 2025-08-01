@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G208",
-  "see_also": "105466",
+  "see_also": [
+    "105466"
+  ],
   "signed": null,
   "sort_number": "2008    23    1",
   "style": null,

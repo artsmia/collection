@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59690, 59691",
+  "see_also": [
+    "59690",
+    "59691"
+  ],
   "signed": "Signed in pencil, LR: DAVID SHAPIRO",
   "sort_number": "P         77   37   22",
   "style": null,

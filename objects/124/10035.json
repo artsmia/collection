@@ -36,7 +36,15 @@
   "rights_type": "Public Domain",
   "role": "Designer",
   "room": "Not on View",
-  "see_also": "10029, 10030, 10031, 10032, 10033, 10034, 10036",
+  "see_also": [
+    "10029",
+    "10030",
+    "10031",
+    "10032",
+    "10033",
+    "10034",
+    "10036"
+  ],
   "signed": null,
   "sort_number": "99    29    8a    b",
   "style": null,

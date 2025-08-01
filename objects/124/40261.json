@@ -36,7 +36,11 @@
   "rights_type": "Unknown",
   "role": "Designer",
   "room": "Not on View",
-  "see_also": "6954, 40925, 40262",
+  "see_also": [
+    "6954",
+    "40925",
+    "40262"
+  ],
   "signed": null,
   "sort_number": "98   276   33",
   "style": "Art Deco",

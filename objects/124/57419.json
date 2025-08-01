@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "57417, 57418, 57420",
+  "see_also": [
+    "57417",
+    "57418",
+    "57420"
+  ],
   "signed": "Signed and inscribed in pencil, LC: Ynez Johnston  Bon A Tirer",
   "sort_number": "P         80   24    7c",
   "style": null,

@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "137406, 137407",
+  "see_also": [
+    "137406",
+    "137407"
+  ],
   "signed": null,
   "sort_number": "2021    58  343",
   "style": null,

@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Maker",
   "room": "Not on View",
-  "see_also": "10418, 10416",
+  "see_also": [
+    "10418",
+    "10416"
+  ],
   "signed": null,
   "sort_number": "99   147    1    2",
   "style": null,

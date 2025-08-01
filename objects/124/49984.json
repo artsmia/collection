@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "49997",
+  "see_also": [
+    "49997"
+  ],
   "signed": "Signature in pencil",
   "sort_number": "P         58  632",
   "style": null,

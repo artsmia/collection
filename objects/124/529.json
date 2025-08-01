@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G311",
-  "see_also": "95329",
+  "see_also": [
+    "95329"
+  ],
   "signed": "LL: Rembrandt f 1666",
   "sort_number": "34    19",
   "style": null,

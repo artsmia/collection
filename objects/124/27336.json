@@ -36,7 +36,12 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "56991, 56992, 56996, 57001",
+  "see_also": [
+    "56991",
+    "56992",
+    "56996",
+    "57001"
+  ],
   "signed": null,
   "sort_number": "91   112   91",
   "style": null,

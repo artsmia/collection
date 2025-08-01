@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "99487",
+  "see_also": [
+    "99487"
+  ],
   "signed": "LR: [KHANH CONG LE]\r\nLL: [A.P. 2/2]\r\nLR: VELChop Mark",
   "sort_number": "P         87   11   19",
   "style": null,

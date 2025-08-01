@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Publisher",
   "room": "Not on View",
-  "see_also": "75086",
+  "see_also": [
+    "75086"
+  ],
   "signed": null,
   "sort_number": "P         14   81X",
   "style": null,

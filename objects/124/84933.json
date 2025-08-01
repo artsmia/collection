@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Mill",
   "room": "Not on View",
-  "see_also": "84931, 84932, 84934, 84935",
+  "see_also": [
+    "84931",
+    "84932",
+    "84934",
+    "84935"
+  ],
   "signed": null,
   "sort_number": "99     1 1100    3",
   "style": null,

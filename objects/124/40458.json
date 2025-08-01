@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Designer",
   "room": "G378",
-  "see_also": "6778",
+  "see_also": [
+    "6778"
+  ],
   "signed": null,
   "sort_number": "98   276  146    2",
   "style": "Bauhaus",

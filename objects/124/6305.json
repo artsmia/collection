@@ -36,7 +36,15 @@
   "rights_type": "Public Domain",
   "role": "Designer",
   "room": "G379",
-  "see_also": "40442, 40860, 40861, 40862, 40863, 40864, 40865",
+  "see_also": [
+    "40442",
+    "40860",
+    "40861",
+    "40862",
+    "40863",
+    "40864",
+    "40865"
+  ],
   "signed": null,
   "sort_number": "98   276  337",
   "style": "Art Nouveau",

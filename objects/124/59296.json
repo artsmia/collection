@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59301, 59302",
+  "see_also": [
+    "59301",
+    "59302"
+  ],
   "signed": "LC: [on 8.5.1980 / Steven Sorman]\r\nLC: [ap 1/7]\r\nLC: [the trick to / being recognized]\r\nLC:Artist's Stamp in red ink\r\nLR: VEL Chop Mark",
   "sort_number": "P         83   59   81",
   "style": null,

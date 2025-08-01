@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59373",
+  "see_also": [
+    "59373"
+  ],
   "signed": "LC: Kn Thurlbecl 1985",
   "sort_number": "P         88   12    9",
   "style": null,

@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "7703, 58647, 58648, 59035",
+  "see_also": [
+    "7703",
+    "58647",
+    "58648",
+    "59035"
+  ],
   "signed": "LR: [STATE PROOF IN BLACK RM 85]",
   "sort_number": "P         86   63   44",
   "style": null,

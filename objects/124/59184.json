@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59174, 59181, 59172",
+  "see_also": [
+    "59174",
+    "59181",
+    "59172"
+  ],
   "signed": "LL: [Working Proof 1977]\r\nLR: [Steven Sorman]",
   "sort_number": "P         83   59   97",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "68215, 68204, 68237",
+  "see_also": [
+    "68215",
+    "68204",
+    "68237"
+  ],
   "signed": "LR: [S.P./NA 1995]",
   "sort_number": "P         92    6   38  12",
   "style": null,

@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "27870, 63127",
+  "see_also": [
+    "27870",
+    "63127"
+  ],
   "signed": "LRC below image, in black: [P. Floding Svecus Sculpsit Par. 1762]",
   "sort_number": "2002   185    2",
   "style": null,

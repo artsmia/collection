@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "43985, 51560",
+  "see_also": [
+    "43985",
+    "51560"
+  ],
   "signed": "In pencil in lower margin:  No 4  Jo Pennell Del Sc Imp",
   "sort_number": "P         11  941",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Manufacturer",
   "room": "Not on View",
-  "see_also": "8407, 8508, 8509",
+  "see_also": [
+    "8407",
+    "8508",
+    "8509"
+  ],
   "signed": null,
   "sort_number": "98   149   37    2",
   "style": null,

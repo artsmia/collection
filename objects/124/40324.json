@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "40306",
+  "see_also": [
+    "40306"
+  ],
   "signed": null,
   "sort_number": "98   276   81a    b",
   "style": "Art Deco",

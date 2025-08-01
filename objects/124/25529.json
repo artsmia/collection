@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Maker",
   "room": "Not on View",
-  "see_also": "25506, 8843, 62042, 62043",
+  "see_also": [
+    "25506",
+    "8843",
+    "62042",
+    "62043"
+  ],
   "signed": "Signed in white, LRC: G. Kamrowski",
   "sort_number": "88    48    2",
   "style": null,

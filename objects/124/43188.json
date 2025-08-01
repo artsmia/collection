@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "68672, 43107",
+  "see_also": [
+    "68672",
+    "43107"
+  ],
   "signed": "Initialed in pencil by the printer, LL: sma",
   "sort_number": "P         92    6   15",
   "style": null,

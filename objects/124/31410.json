@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Maker",
   "room": "Not on View",
-  "see_also": "31411",
+  "see_also": [
+    "31411"
+  ],
   "signed": null,
   "sort_number": "99   195   20    1a   c",
   "style": null,

@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "116006, 114866",
+  "see_also": [
+    "116006",
+    "114866"
+  ],
   "signed": "LRC below sheet on mount, in pencil: [Minor White]",
   "sort_number": "2013    35  377",
   "style": null,

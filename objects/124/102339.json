@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "101651",
+  "see_also": [
+    "101651"
+  ],
   "signed": "on sheet below image in black: [FRED SCHEEL]",
   "sort_number": "2007    35  431",
   "style": null,

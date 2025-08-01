@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "10434",
+  "see_also": [
+    "10434"
+  ],
   "signed": "In plate",
   "sort_number": "P         82   40  281",
   "style": null,

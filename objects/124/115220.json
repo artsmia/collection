@@ -36,7 +36,11 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "35409, 7666, 52909",
+  "see_also": [
+    "35409",
+    "7666",
+    "52909"
+  ],
   "signed": "LRC, in the print: [Whistler]",
   "sort_number": "2013    35  719",
   "style": null,

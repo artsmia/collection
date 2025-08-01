@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9611, 22691",
+  "see_also": [
+    "9611",
+    "22691"
+  ],
   "signed": "北斎改為一筆 {Hokusai aratame Iitsu hitsu}",
   "sort_number": "P         70  150",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "118263, 118312, 118299",
+  "see_also": [
+    "118263",
+    "118312",
+    "118299"
+  ],
   "signed": null,
   "sort_number": "2013    31  180    4",
   "style": null,

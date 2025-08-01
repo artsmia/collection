@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "139160, 139161, 139162, 139163",
+  "see_also": [
+    "139160",
+    "139161",
+    "139162",
+    "139163"
+  ],
   "signed": "LRC in pencil on each sheet: Sarah Crowner 2013",
   "sort_number": "2020    85   31a    b",
   "style": null,

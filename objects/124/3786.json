@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "101473, 101521",
+  "see_also": [
+    "101473",
+    "101521"
+  ],
   "signed": "LR [Brett Weston 1971]",
   "sort_number": "89    11",
   "style": null,

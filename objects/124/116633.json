@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "116631",
+  "see_also": [
+    "116631"
+  ],
   "signed": "LRC, in engraving: [Austin]",
   "sort_number": "2013    70    9",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9186",
+  "see_also": [
+    "9186"
+  ],
   "signed": "thin laid chine",
   "sort_number": "P          3   16",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "7489",
+  "see_also": [
+    "7489"
+  ],
   "signed": "In pencil",
   "sort_number": "P         69  162    4",
   "style": null,

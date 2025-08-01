@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "125572, 125569",
+  "see_also": [
+    "125572",
+    "125569"
+  ],
   "signed": "Signed in pencil on colophon page: Veronika Schäpers",
   "sort_number": "2018   123   99",
   "style": null,

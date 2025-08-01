@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59022",
+  "see_also": [
+    "59022"
+  ],
   "signed": "LR: MALCOM MORLEY",
   "sort_number": "P         87   11   24",
   "style": null,

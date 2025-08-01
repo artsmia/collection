@@ -36,7 +36,14 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "57216, 57218, 57220, 57221, 57223, 57224",
+  "see_also": [
+    "57216",
+    "57218",
+    "57220",
+    "57221",
+    "57223",
+    "57224"
+  ],
   "signed": "Yes",
   "sort_number": "P         69  162    1",
   "style": null,

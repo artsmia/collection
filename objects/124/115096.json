@@ -36,7 +36,12 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "115006, 115007, 115097, 115098",
+  "see_also": [
+    "115006",
+    "115007",
+    "115097",
+    "115098"
+  ],
   "signed": "LLC, in the print: [P. P. Prudhon. inv. incidit.]",
   "sort_number": "2013    35  750",
   "style": null,

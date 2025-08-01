@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "1719",
+  "see_also": [
+    "1719"
+  ],
   "signed": null,
   "sort_number": "64    34    4    7",
   "style": null,

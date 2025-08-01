@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "30601",
+  "see_also": [
+    "30601"
+  ],
   "signed": "LR in graphite: [NORMAN ROCKWEL ] as part of inscription",
   "sort_number": "98   147",
   "style": null,

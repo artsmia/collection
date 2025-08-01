@@ -36,7 +36,17 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "58745, 58746, 58747, 58748, 58751, 58750, 58749, 58743, 58744",
+  "see_also": [
+    "58745",
+    "58746",
+    "58747",
+    "58748",
+    "58751",
+    "58750",
+    "58749",
+    "58743",
+    "58744"
+  ],
   "signed": "LR: [S.G. '80]\r\nLL: [State IX - A]",
   "sort_number": "P         83   59   24   9a",
   "style": null,

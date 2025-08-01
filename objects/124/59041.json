@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "114860",
+  "see_also": [
+    "114860"
+  ],
   "signed": "LLC: よし田 {Yoshida}",
   "sort_number": "87    85   40",
   "style": null,

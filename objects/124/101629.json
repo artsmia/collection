@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "101628",
+  "see_also": [
+    "101628"
+  ],
   "signed": "on side of handle, incised: [R]",
   "sort_number": "2013     8    2",
   "style": null,

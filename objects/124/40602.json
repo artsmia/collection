@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Designer",
   "room": "Not on View",
-  "see_also": "40470",
+  "see_also": [
+    "40470"
+  ],
   "signed": null,
   "sort_number": "98   276  122    5a   b",
   "style": "Bauhaus",

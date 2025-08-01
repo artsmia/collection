@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "4471, 25488, 25489",
+  "see_also": [
+    "4471",
+    "25488",
+    "25489"
+  ],
   "signed": "on back, in pencil: [Paris / 1926. / A. Kertész]",
   "sort_number": "2007    35  143",
   "style": null,

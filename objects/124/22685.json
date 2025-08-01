@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "8732, 62743",
+  "see_also": [
+    "8732",
+    "62743"
+  ],
   "signed": "{Hokumyō hitsu}",
   "sort_number": "81   133   60",
   "style": null,

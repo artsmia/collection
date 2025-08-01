@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "125285",
+  "see_also": [
+    "125285"
+  ],
   "signed": "LRC, in pencil: AVATI 1957",
   "sort_number": "2016   112    4",
   "style": null,

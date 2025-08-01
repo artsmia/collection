@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Manufacturer",
   "room": "G354",
-  "see_also": "3320",
+  "see_also": [
+    "3320"
+  ],
   "signed": null,
   "sort_number": "85   106    2",
   "style": null,

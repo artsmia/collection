@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "1989",
+  "see_also": [
+    "1989"
+  ],
   "signed": "LR: [Winold / Reiss]",
   "sort_number": "73    54    2",
   "style": null,

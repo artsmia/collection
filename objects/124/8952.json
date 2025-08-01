@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Manufacturer",
   "room": "Not on View",
-  "see_also": "8953",
+  "see_also": [
+    "8953"
+  ],
   "signed": null,
   "sort_number": "97    32    1    1",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "80127",
+  "see_also": [
+    "80127"
+  ],
   "signed": "言人画 {Kotondo ga} (picture by Kotondo)",
   "sort_number": "2002   161  139",
   "style": null,

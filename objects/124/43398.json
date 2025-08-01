@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Maker",
   "room": "Not on View",
-  "see_also": "50668",
+  "see_also": [
+    "50668"
+  ],
   "signed": null,
   "sort_number": "P         92    8   20",
   "style": null,

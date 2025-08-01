@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "104347",
+  "see_also": [
+    "104347"
+  ],
   "signed": "深水畫 {Shinsui ga} (picture by Shinsui)",
   "sort_number": "2002   161  163",
   "style": null,

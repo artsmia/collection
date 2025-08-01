@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G238",
-  "see_also": "82931",
+  "see_also": [
+    "82931"
+  ],
   "signed": "豊邨 {Hōson}",
   "sort_number": "2014    41    5",
   "style": null,

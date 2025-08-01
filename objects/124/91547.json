@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "58569, 58568",
+  "see_also": [
+    "58569",
+    "58568"
+  ],
   "signed": "LL: [Progressive Proof - State 5 of 5]\r\nLower center: [Court Order]\r\nLR: [Tom Attridge 84]",
   "sort_number": "P         86   63   17",
   "style": null,

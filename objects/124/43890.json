@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9018, 43889",
+  "see_also": [
+    "9018",
+    "43889"
+  ],
   "signed": "Signed in graphite, lower left: [Cyril E. Power]",
   "sort_number": "P         98    5    2",
   "style": null,

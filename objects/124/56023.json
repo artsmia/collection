@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "54987, 54393",
+  "see_also": [
+    "54987",
+    "54393"
+  ],
   "signed": "LL below image in pencil: Edgar Chahine",
   "sort_number": "P          1  985",
   "style": null,

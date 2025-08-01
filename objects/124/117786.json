@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "117785, 117787",
+  "see_also": [
+    "117785",
+    "117787"
+  ],
   "signed": "center front cover",
   "sort_number": "2013    29   65    2",
   "style": null,

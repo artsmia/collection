@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "45577",
+  "see_also": [
+    "45577"
+  ],
   "signed": "Signed, LC: [Steven Sorman]",
   "sort_number": "92    56    7a    b",
   "style": null,

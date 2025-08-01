@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Decorator",
   "room": "Not on View",
-  "see_also": "14916",
+  "see_also": [
+    "14916"
+  ],
   "signed": null,
   "sort_number": "27     9    1a    c",
   "style": null,

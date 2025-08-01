@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "68542, 68543",
+  "see_also": [
+    "68542",
+    "68543"
+  ],
   "signed": "香蝶楼國貞画 {Kōchōrō Kunisada ga}",
   "sort_number": "P         75   51  200",
   "style": null,

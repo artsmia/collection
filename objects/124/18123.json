@@ -36,7 +36,13 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9152, 22778, 62752, 62753, 66443",
+  "see_also": [
+    "9152",
+    "22778",
+    "62752",
+    "62753",
+    "66443"
+  ],
   "signed": "前北斎為一筆 {Saki no Hokusai Iitsu hitsu}",
   "sort_number": "51    40   30",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "68201, 68223, 68234",
+  "see_also": [
+    "68201",
+    "68223",
+    "68234"
+  ],
   "signed": "LR: [NA 1990]\r\nLL: [S.P.]",
   "sort_number": "P         92    6   37   9",
   "style": null,

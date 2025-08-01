@@ -36,7 +36,17 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "58571, 58627, 58616, 58574, 25048, 9800, 58617, 7652, 58615",
+  "see_also": [
+    "58571",
+    "58627",
+    "58616",
+    "58574",
+    "25048",
+    "9800",
+    "58617",
+    "7652",
+    "58615"
+  ],
   "signed": "LR: [Cumming 1986]\r\nLL: [APEX-OCULUS]\r\nLC: [C.T.P. 4/5]",
   "sort_number": "P         86   63   20",
   "style": null,

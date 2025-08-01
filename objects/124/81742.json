@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Manufacturer",
   "room": "Not on View",
-  "see_also": "81741",
+  "see_also": [
+    "81741"
+  ],
   "signed": null,
   "sort_number": "2003   236  287",
   "style": null,

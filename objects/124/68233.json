@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "68200, 68211, 68222",
+  "see_also": [
+    "68200",
+    "68211",
+    "68222"
+  ],
   "signed": "LM: [W.P. NA 1990]",
   "sort_number": "P         92    6   39   8",
   "style": null,

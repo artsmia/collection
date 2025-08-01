@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59208, 59210",
+  "see_also": [
+    "59208",
+    "59210"
+  ],
   "signed": "LL: [State proof 1978]\r\nLR: [Steven Sorman]",
   "sort_number": "P         83   59  137",
   "style": null,

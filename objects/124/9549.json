@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "43902",
+  "see_also": [
+    "43902"
+  ],
   "signed": "Estate stamp in blue ink, verso",
   "sort_number": "P         98   20    1",
   "style": null,

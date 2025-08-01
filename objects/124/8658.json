@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "10345",
+  "see_also": [
+    "10345"
+  ],
   "signed": null,
   "sort_number": "81   115",
   "style": "Nikuhitsu ukiyo-e, Ukiyo-e",

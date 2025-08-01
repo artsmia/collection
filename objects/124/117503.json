@@ -36,7 +36,9 @@
   "rights_type": "Unknown",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "98729",
+  "see_also": [
+    "98729"
+  ],
   "signed": "LRC: よし田 {Yoshida}",
   "sort_number": "2013    29  423",
   "style": null,

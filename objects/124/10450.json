@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G311",
-  "see_also": "90583, 17167",
+  "see_also": [
+    "90583",
+    "17167"
+  ],
   "signed": "(On watch at left): [P C 1643]",
   "sort_number": "45    10",
   "style": null,

@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "17306, 5140",
+  "see_also": [
+    "17306",
+    "5140"
+  ],
   "signed": "LL in black: [Henri-Matisse]",
   "sort_number": "47    41",
   "style": "Fauvism",

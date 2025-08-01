@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "42469",
+  "see_also": [
+    "42469"
+  ],
   "signed": "Signed and dated on the side of collage element: Thomas A Rose 78",
   "sort_number": "P         83   59   55",
   "style": null,

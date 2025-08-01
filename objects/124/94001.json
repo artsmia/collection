@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "22751",
+  "see_also": [
+    "22751"
+  ],
   "signed": "{Eisen ga}",
   "sort_number": "P         75   51  450",
   "style": null,

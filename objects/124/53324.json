@@ -36,7 +36,12 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "9542, 53321, 53322, 53323",
+  "see_also": [
+    "9542",
+    "53321",
+    "53322",
+    "53323"
+  ],
   "signed": "On plate",
   "sort_number": "P         77    8    4",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "59027",
+  "see_also": [
+    "59027"
+  ],
   "signed": "LR: Morrison 1987",
   "sort_number": "P         88   12    1",
   "style": null,

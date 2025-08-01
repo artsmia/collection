@@ -36,7 +36,15 @@
   "rights_type": "Public Domain",
   "role": "Designer",
   "room": "G300",
-  "see_also": "10038, 10039, 10040, 8419, 8420, 8421, 8422",
+  "see_also": [
+    "10038",
+    "10039",
+    "10040",
+    "8419",
+    "8420",
+    "8421",
+    "8422"
+  ],
   "signed": null,
   "sort_number": "99    62    6",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "140805, 142285, 142286",
+  "see_also": [
+    "140805",
+    "142285",
+    "142286"
+  ],
   "signed": "LR in pencil below image: Kareken 2018",
   "sort_number": "2019    58    2",
   "style": null,

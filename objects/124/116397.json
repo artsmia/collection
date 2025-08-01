@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Engraver",
   "room": "Not on View",
-  "see_also": "7434",
+  "see_also": [
+    "7434"
+  ],
   "signed": null,
   "sort_number": "P         47  106",
   "style": null,

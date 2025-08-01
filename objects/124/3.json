@@ -36,7 +36,11 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "0, 1, 2",
+  "see_also": [
+    "0",
+    "1",
+    "2"
+  ],
   "signed": "Inscribed: D.G.R.",
   "sort_number": "10     4",
   "style": null,

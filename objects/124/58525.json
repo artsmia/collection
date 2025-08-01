@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "58527, 58528, 91541, 7699",
+  "see_also": [
+    "58527",
+    "58528",
+    "91541",
+    "7699"
+  ],
   "signed": "LR: [Nicolas Africano 1986]; LL: [State Proof (Before Corrections)]",
   "sort_number": "P         86   63    7",
   "style": null,

@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "139542, 139543, 139544",
+  "see_also": [
+    "139542",
+    "139543",
+    "139544"
+  ],
   "signed": "LR in pencil below image: Jessica Rankin 08'",
   "sort_number": "2020    85   98",
   "style": null,

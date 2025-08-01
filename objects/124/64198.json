@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "61331",
+  "see_also": [
+    "61331"
+  ],
   "signed": "Hiroshige hitsu",
   "sort_number": "P         75   51  675",
   "style": null,

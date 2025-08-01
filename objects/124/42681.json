@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "7677, 42680, 42682",
+  "see_also": [
+    "7677",
+    "42680",
+    "42682"
+  ],
   "signed": "Signed, dated in pencil, LR: [BRIDGET RILEY '68]",
   "sort_number": "P         86   21    3",
   "style": null,

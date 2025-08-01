@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Maker",
   "room": "G314",
-  "see_also": "22277",
+  "see_also": [
+    "22277"
+  ],
   "signed": null,
   "sort_number": "80     2    1a    b",
   "style": null,

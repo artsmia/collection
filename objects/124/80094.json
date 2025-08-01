@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "80092",
+  "see_also": [
+    "80092"
+  ],
   "signed": null,
   "sort_number": "B         92    1b    e",
   "style": null,

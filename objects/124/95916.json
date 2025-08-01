@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "95917",
+  "see_also": [
+    "95917"
+  ],
   "signed": "LR: Sandell\r\nLR: [A.P. 12/12]\r\nLC: [Offshore I]",
   "sort_number": "P         83   59   68a   c",
   "style": null,

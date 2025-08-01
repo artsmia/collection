@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "25384, 100901",
+  "see_also": [
+    "25384",
+    "100901"
+  ],
   "signed": "on mount lower right in pencil: [BRETT WESTON  1971]",
   "sort_number": "2007    35  365    5",
   "style": null,

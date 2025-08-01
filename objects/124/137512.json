@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "139450, 139451",
+  "see_also": [
+    "139450",
+    "139451"
+  ],
   "signed": "LR in pencil below image: Cameron Martin 2006",
   "sort_number": "2020    85   67",
   "style": null,

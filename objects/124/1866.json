@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Sculptor",
   "room": "Not on View",
-  "see_also": "99010",
+  "see_also": [
+    "99010"
+  ],
   "signed": null,
   "sort_number": "71    51    1",
   "style": null,

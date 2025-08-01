@@ -36,7 +36,14 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "56580, 56583, 56585, 56587, 56589, 56592",
+  "see_also": [
+    "56580",
+    "56583",
+    "56585",
+    "56587",
+    "56589",
+    "56592"
+  ],
   "signed": "In pencil, l.l [J Tissot]; in the plate in black ink l.r. [JJ Tissot/1880]",
   "sort_number": "P         78    5    5",
   "style": null,

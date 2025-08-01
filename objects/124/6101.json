@@ -36,7 +36,16 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "64230, 64231, 64233, 64234, 64235, 64236, 64237, 90278",
+  "see_also": [
+    "64230",
+    "64231",
+    "64233",
+    "64234",
+    "64235",
+    "64236",
+    "64237",
+    "90278"
+  ],
   "signed": null,
   "sort_number": "B         89    4",
   "style": null,

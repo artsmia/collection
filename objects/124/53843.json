@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "53845, 53842",
+  "see_also": [
+    "53845",
+    "53842"
+  ],
   "signed": "in pencil: Lee Krasner",
   "sort_number": "P         79  168    3",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "132672",
+  "see_also": [
+    "132672"
+  ],
   "signed": "{Kanpō}",
   "sort_number": "2002   161  155",
   "style": null,

@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Maker",
   "room": "G350",
-  "see_also": "119404",
+  "see_also": [
+    "119404"
+  ],
   "signed": null,
   "sort_number": "2014     1    1a    b",
   "style": null,

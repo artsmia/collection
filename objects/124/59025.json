@@ -36,7 +36,10 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "95972, 7632",
+  "see_also": [
+    "95972",
+    "7632"
+  ],
   "signed": "LR: G. MORRISON - 1976-78",
   "sort_number": "P         83   59   54  14",
   "style": null,

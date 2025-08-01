@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G371",
-  "see_also": "18468",
+  "see_also": [
+    "18468"
+  ],
   "signed": "LL in black: [aderain]",
   "sort_number": "61    36    9",
   "style": null,

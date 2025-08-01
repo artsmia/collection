@@ -36,7 +36,15 @@
   "rights_type": "Unknown",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "62462, 117540, 117541, 117542, 63403, 63404, 63405",
+  "see_also": [
+    "62462",
+    "117540",
+    "117541",
+    "117542",
+    "63403",
+    "63404",
+    "63405"
+  ],
   "signed": null,
   "sort_number": "2002   161  126    2",
   "style": null,

@@ -36,7 +36,12 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "58647, 58648, 59033, 59035",
+  "see_also": [
+    "58647",
+    "58648",
+    "59033",
+    "59035"
+  ],
   "signed": "LR: RM 85-86",
   "sort_number": "P         87   11   25",
   "style": null,

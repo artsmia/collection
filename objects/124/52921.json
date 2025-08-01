@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "52922, 52924",
+  "see_also": [
+    "52922",
+    "52924"
+  ],
   "signed": "Printed signature LL (diagonally) in the plate: Whistler",
   "sort_number": "P         56",
   "style": null,

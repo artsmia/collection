@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "43478",
+  "see_also": [
+    "43478"
+  ],
   "signed": "Signed in pencil, LR: [Beckmann]",
   "sort_number": "2014   124   10",
   "style": null,

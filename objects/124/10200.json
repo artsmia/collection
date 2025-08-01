@@ -36,7 +36,11 @@
   "rights_type": "Public Domain",
   "role": "Designer",
   "room": "Not on View",
-  "see_also": "24027, 8409, 24029",
+  "see_also": [
+    "24027",
+    "8409",
+    "24029"
+  ],
   "signed": null,
   "sort_number": "83   146    3",
   "style": null,

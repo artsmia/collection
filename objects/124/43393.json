@@ -36,7 +36,11 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "43391, 43390, 43392",
+  "see_also": [
+    "43391",
+    "43390",
+    "43392"
+  ],
   "signed": "LR: T.L. Solien / 1985-90",
   "sort_number": "P         92    6    9",
   "style": null,

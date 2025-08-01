@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "32113",
+  "see_also": [
+    "32113"
+  ],
   "signed": "white card",
   "sort_number": "P         99    6    2   6",
   "style": null,

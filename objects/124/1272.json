@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G351",
-  "see_also": "18161, 90745",
+  "see_also": [
+    "18161",
+    "90745"
+  ],
   "signed": "LR in orange: [Seurat]",
   "sort_number": "55    38",
   "style": null,

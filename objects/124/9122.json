@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Photographer",
   "room": "Not on View",
-  "see_also": "32134",
+  "see_also": [
+    "32134"
+  ],
   "signed": "UL verso, in pencil: [Signature, Title]",
   "sort_number": "94    98    3",
   "style": null,

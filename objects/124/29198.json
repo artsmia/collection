@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "38532, 29199",
+  "see_also": [
+    "38532",
+    "29199"
+  ],
   "signed": "[Octv Guillonnet], off sheet in graphite (Attached to back of frame)",
   "sort_number": "96   133    6",
   "style": null,

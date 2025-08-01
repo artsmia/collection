@@ -36,7 +36,10 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "51607, 51560",
+  "see_also": [
+    "51607",
+    "51560"
+  ],
   "signed": "Bottom center, in pencil: Jo Pennell / Del. Sc. Imp.",
   "sort_number": "P         98   26   12",
   "style": null,

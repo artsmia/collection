@@ -36,7 +36,9 @@
   "rights_type": "Public Domain",
   "role": "Designer",
   "room": "G324",
-  "see_also": "3492",
+  "see_also": [
+    "3492"
+  ],
   "signed": null,
   "sort_number": "86    14    2",
   "style": null,

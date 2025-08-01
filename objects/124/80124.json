@@ -36,7 +36,9 @@
   "rights_type": "In Copyright",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": "62440",
+  "see_also": [
+    "62440"
+  ],
   "signed": "言人作 {Kotondo saku} (made by Kotondo)",
   "sort_number": "P         77   28    1",
   "style": null,
