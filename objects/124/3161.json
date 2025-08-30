@@ -1,6 +1,10 @@
 {
+  "Cache_Location": "003000\\100\\60\\3161",
   "Catalog_Raisonne": null,
+  "Primary_RenditionNumber": "mia_47532a.jpg",
+  "Rights_Image_Display": "Full",
   "accession_number": "83.147",
+  "art_champions_text": null,
   "artist": "France (Paris)",
   "classification": "Architecture",
   "continent": "Europe",
@@ -11,6 +15,8 @@
   "dated": "c. 1735",
   "department": "European Art",
   "dimension": "190 5/8 x 349 1/2 x 230 3/16 in. (484.2 x 887.8 x 584.7 cm)\r\n(measurements do not include door recesses)",
+  "dynasty": "Régence period",
+  "highlights": 0,
   "id": 3161,
   "image": "valid",
   "image_copyright": null,
@@ -23,15 +29,19 @@
   "medium": "Wood, paint, plaster, gilt, marble, iron",
   "nationality": "French",
   "object_name": "Period room",
+  "object_title_html": null,
   "portfolio": null,
   "provenance": null,
   "recent": 0,
-  "restricted": 0,
-  "rights_type": "No Copyright",
+  "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G318",
+  "see_also": [
+    "3738"
+  ],
   "signed": null,
+  "sort_number": "83   147",
   "style": null,
-  "text": "Jean Gaillard de la Bouëxière built the Grand Salon in his Paris mansion, around 1735, to be his party room. A tax collector for the French crown, he wanted to show that he could afford to play as hard as he worked. It was here that he and his guests enjoyed music and other diversions at a time when leisure—how, when, and how often you entertained—said everything about you.\r\n\r\nThe decorative carvings of the hunt, musical instruments, and personified continents perfectly conveyed his refined interests and his privileged position within the French government. The luxurious gold, crystal, and mirrors reflected not only his wealth but also the candles in the room, amplifying the light so that his parties could carry on late into the night.",
+  "text": "<div dir=auto>Jean\n Gaillard de la Bouëxière built the Grand Salon in his Paris mansion, around 1735, to be his party room. A tax collector for the French crown, he wanted to show that he could afford to play as hard as he worked. It\n was here that he and his guests enjoyed music and other diversions at a\n time when leisure—how, when, and how often you entertained—said \neverything about you.</div><div dir=auto><div dir=auto><br></div><div dir=auto>The\n decorative carvings of the hunt, musical instruments, and personified \ncontinents perfectly conveyed his refined interests and his privileged \nposition within the French government. The luxurious gold, crystal, and \nmirrors reflected not only his wealth but also the candles in the room, amplifying the light so that his parties could carry on late into the \nnight.</div></div><div dir=auto><br></div>",
   "title": "Grand Salon from the Hôtel de la Bouëxière"
 }
