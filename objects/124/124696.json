@@ -3,6 +3,7 @@
   "Catalog_Raisonne": "Hollstein 102",
   "Primary_RenditionNumber": null,
   "Rights_Image_Display": null,
+  "TitleAlt": null,
   "accession_number": "P.47.772",
   "art_champions_text": null,
   "artist": "Painter: After Peter de Witte; Engraver: Aegidius Sadeler II",
@@ -36,10 +37,10 @@
   "rights_type": "Public Domain",
   "role": "Painter",
   "room": "Not on View",
-  "see_also": null,
+  "see_also": [],
   "signed": "See Inscription",
   "sort_number": "P         47  772",
   "style": null,
   "text": null,
-  "title": "Hieronymus"
+  "title": "St. Jerome and Hieronymus"
 }

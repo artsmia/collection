@@ -6,6 +6,7 @@
   "accession_number": "73.42.3",
   "art_champions_text": null,
   "artist": "Eugène Delacroix",
+  "catalogue_raissonne": null,
   "classification": "Paintings",
   "continent": "Europe",
   "country": "France",
@@ -14,6 +15,7 @@
   "curator_approved": 0,
   "dated": "1837–38",
   "department": "European Art",
+  "description": "",
   "dimension": "37 5/8 x 50 5/8 in. (95.57 x 128.59 cm) (canvas)\r\n50 1/8 x 64 3/4 x 4 1/2 in. (127.32 x 164.47 x 11.43 cm) (outer frame)",
   "dynasty": null,
   "highlights": 0,
@@ -25,6 +27,8 @@
   "inscription": null,
   "life_date": "French, 1798–1863",
   "list": null,
+  "list:aib-2021-selections": true,
+  "list:handbook": true,
   "markings": null,
   "medium": "Oil on canvas",
   "nationality": "French",
@@ -33,6 +37,27 @@
   "portfolio": null,
   "provenance": null,
   "recent": 0,
+  "related:artstories": [
+    {
+      "_id": "1978",
+      "description": "<p>They were entranced, and entrancing: celebrants of the Aissawa sect of Sufi Islam on a ritual pilgrimage through the streets of Tangier, in Morocco. Eugène Delacroix saw them in 1832 while traveling with the French ambassador, the Count de Mornay, who was negotiating a treaty of friendship with the sultan of Morocco. The pilgrims were eating glass and biting their own arms, among other acts of self-abuse, to draw attention to their religion. Vividly colored and vigorously brushed, Delacroix’s masterpiece captured the commotion, even though it was painted from memory five years later—a memory not easily forgotten.</p>",
+      "link": "http://artstories.artsmia.org/#/o/1978",
+      "objectId": "1978",
+      "title": "Convulsionists of Tangier",
+      "type": "artstory"
+    }
+  ],
+  "related:audio-stops": [
+    {
+      "_id": "4578",
+      "link": "http://audio-tours.s3.amazonaws.com/p729.mp3",
+      "number": "729",
+      "objectId": "4578",
+      "title": "Delacroix, View of Tangier",
+      "type": "audio"
+    }
+  ],
+  "restricted": 0,
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "G357",

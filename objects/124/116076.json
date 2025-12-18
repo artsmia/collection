@@ -3,10 +3,11 @@
   "Catalog_Raisonne": "Portalis & Beraldi III.358; Sander 124; Brunet I, 795; Cohen/de Ricci 33: Ray, French, 75",
   "Primary_RenditionNumber": null,
   "Rights_Image_Display": null,
+  "TitleAlt": null,
   "accession_number": "2013.27",
   "art_champions_text": null,
   "artist": "Engravings after Pierre-Paul Prud'hon; Author: Pierre-Joseph Bernard; Publisher: Pierre Didot L'Ainé",
-  "classification": "Books",
+  "classification": "Books & Publications",
   "continent": "Europe",
   "country": "France",
   "creditline": "Gift of Ruth and Bruce Dayton",
@@ -36,7 +37,9 @@
   "rights_type": "Public Domain",
   "role": "Artist",
   "room": "Not on View",
-  "see_also": null,
+  "see_also": [
+    "116077"
+  ],
   "signed": null,
   "sort_number": "2013    27",
   "style": null,
